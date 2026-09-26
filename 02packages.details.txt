@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261374
-Last-Updated: Sat, 26 Sep 2026 20:41:02 GMT
+Last-Updated: Sat, 26 Sep 2026 21:17:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -119961,16 +119961,16 @@ Linux::Event::Framer::LengthPrefix 0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
 Linux::Event::Framer::Netstring   0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
 Linux::Event::Framer::U32BE       0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
 Linux::Event::Framer::Varint      0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
-Linux::Event::HTTP                0.002  H/HA/HAX/Linux-Event-HTTP-0.002.tar.gz
-Linux::Event::HTTP::Body::Stream  0.002  H/HA/HAX/Linux-Event-HTTP-0.002.tar.gz
-Linux::Event::HTTP::Client        0.002  H/HA/HAX/Linux-Event-HTTP-0.002.tar.gz
-Linux::Event::HTTP::Client::Connection 0.002  H/HA/HAX/Linux-Event-HTTP-0.002.tar.gz
-Linux::Event::HTTP::Client::Operation 0.002  H/HA/HAX/Linux-Event-HTTP-0.002.tar.gz
-Linux::Event::HTTP::Request       0.002  H/HA/HAX/Linux-Event-HTTP-0.002.tar.gz
-Linux::Event::HTTP::Response      0.002  H/HA/HAX/Linux-Event-HTTP-0.002.tar.gz
-Linux::Event::HTTP::Server        0.002  H/HA/HAX/Linux-Event-HTTP-0.002.tar.gz
-Linux::Event::HTTP::Server::Connection 0.002  H/HA/HAX/Linux-Event-HTTP-0.002.tar.gz
-Linux::Event::HTTP::Transaction   0.002  H/HA/HAX/Linux-Event-HTTP-0.002.tar.gz
+Linux::Event::HTTP                0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
+Linux::Event::HTTP::Body::Stream  0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
+Linux::Event::HTTP::Client        0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
+Linux::Event::HTTP::Client::Connection 0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
+Linux::Event::HTTP::Client::Operation 0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
+Linux::Event::HTTP::Request       0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
+Linux::Event::HTTP::Response      0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
+Linux::Event::HTTP::Server        0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
+Linux::Event::HTTP::Server::Connection 0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
+Linux::Event::HTTP::Transaction   0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::IO                  0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
 Linux::Event::IO::Pipe            0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
 Linux::Event::IO::Sock            0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
@@ -225828,13 +225828,13 @@ Tcl::pTk::Widget                   1.11  C/CA/CAC/Tcl-pTk-1.11.tar.gz
 Tcl::pTk::widgets                  1.11  C/CA/CAC/Tcl-pTk-1.11.tar.gz
 Tcl::pTk::Wm                       1.11  C/CA/CAC/Tcl-pTk-1.11.tar.gz
 Tcl::pTk::XEvent                   1.11  C/CA/CAC/Tcl-pTk-1.11.tar.gz
-Tcl::Tk                            1.52  V/VK/VKON/Tcl-Tk-1.52.tar.gz
+Tcl::Tk                            1.53  V/VK/VKON/Tcl-Tk-1.53.tar.gz
 Tcl::Tk::Tkwidget::Tix            undef  V/VK/VKON/Tcl-Tk-Tkwidget-Tix-8.4.3.0.tar.gz
 Tcl::Tk::Tkwidget::treectrl       undef  V/VK/VKON/Tcl-Tk-Tkwidget-treectrl-2.4.2.7.tar.gz
-Tcl::Tk::Widget                    1.52  V/VK/VKON/Tcl-Tk-1.52.tar.gz
-Tcl::Tk::Widget::Balloon          undef  V/VK/VKON/Tcl-Tk-1.52.tar.gz
-Tcl::Tk::Widget::MainWindow        1.52  V/VK/VKON/Tcl-Tk-1.52.tar.gz
-Tcl::Tk::Widget::Text             undef  V/VK/VKON/Tcl-Tk-1.52.tar.gz
+Tcl::Tk::Widget                    1.53  V/VK/VKON/Tcl-Tk-1.53.tar.gz
+Tcl::Tk::Widget::Balloon          undef  V/VK/VKON/Tcl-Tk-1.53.tar.gz
+Tcl::Tk::Widget::MainWindow        1.53  V/VK/VKON/Tcl-Tk-1.53.tar.gz
+Tcl::Tk::Widget::Text             undef  V/VK/VKON/Tcl-Tk-1.53.tar.gz
 Tcl::Var                           1.53  V/VK/VKON/Tcl-1.53.tar.gz
 TCOD                              0.009  J/JJ/JJATRIA/TCOD-0.009.tar.gz
 TCOD::Color                       0.009  J/JJ/JJATRIA/TCOD-0.009.tar.gz
