@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261377
-Last-Updated: Sun, 27 Sep 2026 01:41:02 GMT
+Line-Count:   261378
+Last-Updated: Sun, 27 Sep 2026 03:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -191215,6 +191215,7 @@ Perl::Critic::Policy::Subroutines::ProhibitNestedSubs 1.156  P/PE/PETDANCE/Perl-
 Perl::Critic::Policy::Subroutines::ProhibitQualifiedSubDeclarations 0.08  P/PE/PETDANCE/Perl-Critic-StricterSubs-0.08.tar.gz
 Perl::Critic::Policy::Subroutines::ProhibitReturnSort 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::Subroutines::ProhibitSubroutinePrototypes 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
+Perl::Critic::Policy::Subroutines::ProhibitTailRecursion 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-Subroutines-ProhibitTailRecursion-0.001.tar.gz
 Perl::Critic::Policy::Subroutines::ProhibitUnusedPrivateSubroutines 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::Subroutines::ProtectPrivateSubs 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::Subroutines::RequireArgUnpacking 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
