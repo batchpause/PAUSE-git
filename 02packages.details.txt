@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261375
-Last-Updated: Sun, 27 Sep 2026 00:29:02 GMT
+Last-Updated: Sun, 27 Sep 2026 00:54:27 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -107528,7 +107528,7 @@ IngyPrelude                    0.000001  I/IN/INGY/IngyPrelude-0.0.1.tar.gz
 INI::Examples                     0.001  P/PE/PERLANCAR/INI-Examples-0.001.tar.gz
 INI_File                          0.001  G/GE/GETTY/INI_File-0.001.tar.gz
 IniConf                            1.03  R/RB/RBOW/IniConf-1.03.tar.gz
-iniweb                            undef  B/BR/BRIANDFOY/Mojolicious-Plugin-DirectoryServer-1.005.tar.gz
+iniweb                            undef  B/BR/BRIANDFOY/Mojolicious-Plugin-DirectoryServer-1.006.tar.gz
 Inky                           0.161810  M/MF/MFONTANI/Inky-0.161810.tar.gz
 Inline                             0.87  I/IN/INGY/Inline-0.87.tar.gz
 Inline::ASM                        0.03  N/NE/NEILW/Inline-ASM-0.03.tar.gz
@@ -123306,7 +123306,7 @@ Loctools::Net::OAuth2::Session::Google undef  A/AF/AFAN/Loctools-Net-1.0.tar.gz
 LocusLinkAccessor                     1  L/LD/LDS/Boulder-1.30.tar.gz
 log2_heatmap                        1.5  C/CJ/CJONES/Microarray-0.45c.zip
 Log4Perl::ImportHandle            0.033  A/AH/AHERNIT/Log4Perl-ImportHandle-0.033.tar.gz
-Log::Abstraction                   0.33  N/NH/NHORNE/Log-Abstraction-0.33.tar.gz
+Log::Abstraction                   0.34  N/NH/NHORNE/Log-Abstraction-0.34.tar.gz
 Log::Accounting                     0.3  O/OL/OLIMAUL/Log-Accounting-0.3.tar.gz
 Log::Accounting::Sendmail           0.2  O/OL/OLIMAUL/Log-Accounting-Sendmail-0.2.tar.gz
 Log::Agent                        1.005  M/MR/MROGASKI/Log-Agent-1.005.tar.gz
@@ -123344,7 +123344,7 @@ Log::AndError                      1.01  T/TB/TBOLIOLI/Log-AndError-1.01.tar.gz
 Log::AndError::Constants           0.01  T/TB/TBOLIOLI/Log-AndError-1.01.tar.gz
 Log::Any                          1.720  P/PR/PREACTION/Log-Any-1.720.tar.gz
 Log::Any::Adapter                 1.720  P/PR/PREACTION/Log-Any-1.720.tar.gz
-Log::Any::Adapter::Abstraction     0.33  N/NH/NHORNE/Log-Abstraction-0.33.tar.gz
+Log::Any::Adapter::Abstraction     0.34  N/NH/NHORNE/Log-Abstraction-0.34.tar.gz
 Log::Any::Adapter::AcmeLocal       0.11  S/SL/SLUDIN/Protocol-ACME-0.11.tar.gz
 Log::Any::Adapter::Apache2         0.02  I/IV/IVANYCH/Log-Any-Adapter-Apache2-0.02.tar.gz
 Log::Any::Adapter::Base           1.720  P/PR/PREACTION/Log-Any-1.720.tar.gz
@@ -135852,7 +135852,7 @@ Mojolicious::Plugin::Directory     0.14  H/HA/HAYAJO/Mojolicious-Plugin-Director
 Mojolicious::Plugin::Directory::Stylish 1.006  C/CO/COFFEE/Mojolicious-Plugin-Directory-Stylish-1.006.tar.gz
 Mojolicious::Plugin::DirectoryHandler undef  R/RE/RES/Mojo-Darkpan-0.09.tar.gz
 Mojolicious::Plugin::DirectoryQueue 0.01  F/FU/FUKAI/Mojolicious-Plugin-DirectoryQueue-0.01.tar.gz
-Mojolicious::Plugin::DirectoryServer 1.005  B/BR/BRIANDFOY/Mojolicious-Plugin-DirectoryServer-1.005.tar.gz
+Mojolicious::Plugin::DirectoryServer 1.006  B/BR/BRIANDFOY/Mojolicious-Plugin-DirectoryServer-1.006.tar.gz
 Mojolicious::Plugin::Disqus        1.22  M/MA/MADCAT/Mojolicious-Plugin-Disqus-1.22.tar.gz
 Mojolicious::Plugin::DOCRenderer   5.02  E/EX/EXC/Mojolicious-Plugin-DOCRenderer-5.02.tar.gz
 Mojolicious::Plugin::DomIdHelper   0.04  S/SH/SHAW/Mojolicious-Plugin-DomIdHelper-0.04.tar.gz
