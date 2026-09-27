@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668016
+Line-Count:  668017
 Written-By:  PAUSE version 1.005
-Date:        Sat, 26 Sep 2026 17:41:27 GMT
+Date:        Sun, 27 Sep 2026 00:18:19 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -154402,6 +154402,7 @@ Games::Cards::Tk::Hand,AKARGER,f
 Games::Cards::Tk::Pile,AKARGER,f
 Games::Cards::Tk::Queue,AKARGER,f
 Games::Cards::Tk::Stack,AKARGER,f
+Games::Cards::Troika::Util,PERLANCAR,f
 Games::Cards::Undo,AKARGER,f
 Games::Cards::Undo::Atom,AKARGER,f
 Games::Cards::Undo::End_Move,AKARGER,f
