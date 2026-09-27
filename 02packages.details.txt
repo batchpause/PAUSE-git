@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261380
-Last-Updated: Sun, 27 Sep 2026 12:54:23 GMT
+Last-Updated: Sun, 27 Sep 2026 13:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -46094,19 +46094,19 @@ CloudDeploy::CommandLine::Update  undef  J/JL/JLMARTIN/CloudDeploy-1.07.tar.gz
 CloudDeploy::Config               undef  J/JL/JLMARTIN/CloudDeploy-1.07.tar.gz
 CloudDeploy::DeploymentCollection undef  J/JL/JLMARTIN/CloudDeploy-1.07.tar.gz
 CloudDeploy::Utils                undef  J/JL/JLMARTIN/CloudDeploy-1.07.tar.gz
-Cloudflare::API                   1.010  A/AS/ASPEER/Cloudflare-API-1.010.tar.gz
-Cloudflare::API::Accounts         1.010  A/AS/ASPEER/Cloudflare-API-1.010.tar.gz
-Cloudflare::API::CLI::Completion  1.010  A/AS/ASPEER/Cloudflare-API-1.010.tar.gz
-Cloudflare::API::D1               1.010  A/AS/ASPEER/Cloudflare-API-1.010.tar.gz
-Cloudflare::API::Error            1.010  A/AS/ASPEER/Cloudflare-API-1.010.tar.gz
-Cloudflare::API::Hyperdrive       1.010  A/AS/ASPEER/Cloudflare-API-1.010.tar.gz
-Cloudflare::API::KV               1.010  A/AS/ASPEER/Cloudflare-API-1.010.tar.gz
-Cloudflare::API::Queues           1.010  A/AS/ASPEER/Cloudflare-API-1.010.tar.gz
-Cloudflare::API::R2               1.010  A/AS/ASPEER/Cloudflare-API-1.010.tar.gz
-Cloudflare::API::Resource         1.010  A/AS/ASPEER/Cloudflare-API-1.010.tar.gz
-Cloudflare::API::SecretsStore     1.010  A/AS/ASPEER/Cloudflare-API-1.010.tar.gz
-Cloudflare::API::Workers          1.010  A/AS/ASPEER/Cloudflare-API-1.010.tar.gz
-Cloudflare::API::Zones            1.010  A/AS/ASPEER/Cloudflare-API-1.010.tar.gz
+Cloudflare::API                   1.011  A/AS/ASPEER/Cloudflare-API-1.011.tar.gz
+Cloudflare::API::Accounts         1.011  A/AS/ASPEER/Cloudflare-API-1.011.tar.gz
+Cloudflare::API::CLI::Completion  1.011  A/AS/ASPEER/Cloudflare-API-1.011.tar.gz
+Cloudflare::API::D1               1.011  A/AS/ASPEER/Cloudflare-API-1.011.tar.gz
+Cloudflare::API::Error            1.011  A/AS/ASPEER/Cloudflare-API-1.011.tar.gz
+Cloudflare::API::Hyperdrive       1.011  A/AS/ASPEER/Cloudflare-API-1.011.tar.gz
+Cloudflare::API::KV               1.011  A/AS/ASPEER/Cloudflare-API-1.011.tar.gz
+Cloudflare::API::Queues           1.011  A/AS/ASPEER/Cloudflare-API-1.011.tar.gz
+Cloudflare::API::R2               1.011  A/AS/ASPEER/Cloudflare-API-1.011.tar.gz
+Cloudflare::API::Resource         1.011  A/AS/ASPEER/Cloudflare-API-1.011.tar.gz
+Cloudflare::API::SecretsStore     1.011  A/AS/ASPEER/Cloudflare-API-1.011.tar.gz
+Cloudflare::API::Workers          1.011  A/AS/ASPEER/Cloudflare-API-1.011.tar.gz
+Cloudflare::API::Zones            1.011  A/AS/ASPEER/Cloudflare-API-1.011.tar.gz
 CloudFlare::Client              v0.55.4  P/PW/PWR/CloudFlare-Client-v0.55.4.tar.gz
 CloudFlare::Client::Exception::Connection v0.55.4  P/PW/PWR/CloudFlare-Client-v0.55.4.tar.gz
 CloudFlare::Client::Exception::Upstream v0.55.4  P/PW/PWR/CloudFlare-Client-v0.55.4.tar.gz
