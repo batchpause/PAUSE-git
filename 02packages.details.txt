@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261380
-Last-Updated: Sun, 27 Sep 2026 11:54:16 GMT
+Last-Updated: Sun, 27 Sep 2026 12:54:23 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -20202,37 +20202,37 @@ Astro::ADS::Role::ResultMapper     1.92  D/DU/DUFFEE/Astro-ADS-1.92.tar.gz
 Astro::ADS::Search                 1.92  D/DU/DUFFEE/Astro-ADS-1.92.tar.gz
 Astro::Aladin                       1.3  A/AA/AALLAN/Astro-Aladin-2.0.2.tar.gz
 Astro::Aladin::LowLevel             1.2  A/AA/AALLAN/Astro-Aladin-2.0.2.tar.gz
-Astro::App::Satpass2              0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Copier      0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Format      0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Format::Dump 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Format::Template 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Format::Template::Provider 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::FormatTime  0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::FormatTime::Cldr 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::FormatTime::DateTime 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::FormatTime::DateTime::Cldr 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::FormatTime::DateTime::Strftime 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::FormatTime::POSIX::Strftime 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::FormatTime::Strftime 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::FormatValue 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::FormatValue::Formatter 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Geocode     0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Geocode::OSM 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Locale      0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Locale::C   0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Macro       0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Macro::Code 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Macro::Command 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::ParseTime   0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::ParseTime::Code 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::ParseTime::Date::Manip 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::ParseTime::Date::Manip::v5 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::ParseTime::Date::Manip::v6 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::ParseTime::ISO8601 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Utils       0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Warner      0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
-Astro::App::Satpass2::Wrap::Array 0.058  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
+Astro::App::Satpass2              0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Copier      0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Format      0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Format::Dump 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Format::Template 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Format::Template::Provider 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::FormatTime  0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::FormatTime::Cldr 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::FormatTime::DateTime 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::FormatTime::DateTime::Cldr 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::FormatTime::DateTime::Strftime 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::FormatTime::POSIX::Strftime 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::FormatTime::Strftime 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::FormatValue 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::FormatValue::Formatter 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Geocode     0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Geocode::OSM 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Locale      0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Locale::C   0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Macro       0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Macro::Code 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Macro::Command 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::ParseTime   0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::ParseTime::Code 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::ParseTime::Date::Manip 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::ParseTime::Date::Manip::v5 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::ParseTime::Date::Manip::v6 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::ParseTime::ISO8601 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Utils       0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Warner      0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
+Astro::App::Satpass2::Wrap::Array 0.059  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
 Astro::Bibcode                    0.003  T/TJ/TJENNESS/Astro-Bibcode-0.003.tar.gz
 Astro::Catalog                     4.38  G/GS/GSB/Astro-Catalog-4.38.tar.gz
 Astro::Catalog::GSC::Query          1.2  A/AA/AALLAN/Astro-Catalog-2.1.3.tar.gz
@@ -200163,7 +200163,7 @@ QQ::weixin::work::wedoc::spreadsheet 0.10  Y/YO/YOURSELF/QQ-weixin-work-v0.12.zi
 QQ::weixin::work::wedoc::vip       0.10  Y/YO/YOURSELF/QQ-weixin-work-v0.12.zip
 QQ::weixin::work::wedrive          0.10  Y/YO/YOURSELF/QQ-weixin-work-v0.12.zip
 QQ::weixin::work::wedrive::vip     0.10  Y/YO/YOURSELF/QQ-weixin-work-v0.12.zip
-qq_eval_namespace                 undef  W/WY/WYANT/Astro-App-Satpass2-0.058.tar.gz
+qq_eval_namespace                 undef  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
 QR::Code                           0.05  L/LN/LNATION/QR-Code-0.05.tar.gz
 QRCode::Any                       0.003  P/PE/PERLANCAR/QRCode-Any-0.003.tar.gz
 QRCode::Base45                     0.03  Y/YE/YENYA/QRCode-Base45-0.03.tar.gz
