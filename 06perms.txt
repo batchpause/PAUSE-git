@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668024
+Line-Count:  668041
 Written-By:  PAUSE version 1.005
-Date:        Sun, 27 Sep 2026 07:18:25 GMT
+Date:        Sun, 27 Sep 2026 13:55:44 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -8518,7 +8518,9 @@ Amazon::API::Botocore::Services,BIGFOOT,f
 Amazon::API::Botocore::Shape,BIGFOOT,f
 Amazon::API::Botocore::Shape::Serializer,BIGFOOT,f
 Amazon::API::Botocore::Shape::Utils,BIGFOOT,f
+Amazon::API::BuildInfo,BIGFOOT,f
 Amazon::API::CHIME,BIGFOOT,f
+Amazon::API::CLI,BIGFOOT,f
 Amazon::API::CloudSearch,BIGFOOT,f
 Amazon::API::CloudSearchDomain,BIGFOOT,f
 Amazon::API::CloudWatchLogs,BIGFOOT,f
@@ -8526,19 +8528,34 @@ Amazon::API::Constants,BIGFOOT,f
 Amazon::API::EC2,BIGFOOT,f
 Amazon::API::ECR,BIGFOOT,f
 Amazon::API::ECS,BIGFOOT,f
+Amazon::API::EndpointContext::Compiler,BIGFOOT,f
+Amazon::API::EndpointResolver,BIGFOOT,f
 Amazon::API::Error,BIGFOOT,f
 Amazon::API::HTTP::Response,BIGFOOT,f
 Amazon::API::HTTP::UserAgent,BIGFOOT,f
+Amazon::API::Help,BIGFOOT,f
 Amazon::API::ModuleNames,BIGFOOT,f
 Amazon::API::NullLogger,BIGFOOT,f
+Amazon::API::Paginator,BIGFOOT,f
+Amazon::API::Paginator::Compiler,BIGFOOT,f
 Amazon::API::Pod::Parser,BIGFOOT,f
 Amazon::API::Pod::Simple::Text,BIGFOOT,f
+Amazon::API::Provenance,BIGFOOT,f
+Amazon::API::Provenance::Role::KMS,BIGFOOT,f
+Amazon::API::Provenance::Role::Records,BIGFOOT,f
+Amazon::API::Provenance::Role::SSM,BIGFOOT,f
+Amazon::API::Role::Botocore,BIGFOOT,f
+Amazon::API::Role::ModuleNames,BIGFOOT,f
+Amazon::API::Role::Services,BIGFOOT,f
+Amazon::API::S3::ServiceHook,BIGFOOT,f
 Amazon::API::SQS,BIGFOOT,f
 Amazon::API::SSM,BIGFOOT,f
 Amazon::API::STS,BIGFOOT,f
 Amazon::API::SecretsManager,BIGFOOT,f
+Amazon::API::ServiceHook,BIGFOOT,f
 Amazon::API::Signature4,BIGFOOT,f
 Amazon::API::Template,BIGFOOT,f
+Amazon::API::XML::Simple,BIGFOOT,f
 Amazon::CloudFront::SignedURL,ZONCOEN,f
 Amazon::CloudFront::Thin,GARU,f
 Amazon::CreatorsAPI,BAYASHI,f
