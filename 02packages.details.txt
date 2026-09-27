@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261380
-Last-Updated: Sun, 27 Sep 2026 09:17:02 GMT
+Last-Updated: Sun, 27 Sep 2026 10:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -234878,10 +234878,10 @@ Transmission::Utils               undef  O/OL/OLOF/Transmission-Client-0.0806.ta
 Trash::Park                        0.03  M/MS/MSCHILLI/Trash-Park-0.03.tar.gz
 Trash::Park::Element               0.03  M/MS/MSCHILLI/Trash-Park-0.03.tar.gz
 Trav::Dir                          0.02  B/BK/BKB/Trav-Dir-0.02.tar.gz
-Travel::Routing::DE::DBRIS         0.13  D/DE/DERF/Travel-Routing-DE-DBRIS-0.13.tar.gz
-Travel::Routing::DE::DBRIS::Connection 0.13  D/DE/DERF/Travel-Routing-DE-DBRIS-0.13.tar.gz
-Travel::Routing::DE::DBRIS::Connection::Segment 0.13  D/DE/DERF/Travel-Routing-DE-DBRIS-0.13.tar.gz
-Travel::Routing::DE::DBRIS::Offer  0.13  D/DE/DERF/Travel-Routing-DE-DBRIS-0.13.tar.gz
+Travel::Routing::DE::DBRIS         0.14  D/DE/DERF/Travel-Routing-DE-DBRIS-0.14.tar.gz
+Travel::Routing::DE::DBRIS::Connection 0.14  D/DE/DERF/Travel-Routing-DE-DBRIS-0.14.tar.gz
+Travel::Routing::DE::DBRIS::Connection::Segment 0.14  D/DE/DERF/Travel-Routing-DE-DBRIS-0.14.tar.gz
+Travel::Routing::DE::DBRIS::Offer  0.14  D/DE/DERF/Travel-Routing-DE-DBRIS-0.14.tar.gz
 Travel::Routing::DE::EFA           2.25  D/DE/DERF/Travel-Routing-DE-VRR-2.25.tar.gz
 Travel::Routing::DE::EFA::Route    2.25  D/DE/DERF/Travel-Routing-DE-VRR-2.25.tar.gz
 Travel::Routing::DE::EFA::Route::Message 2.25  D/DE/DERF/Travel-Routing-DE-VRR-2.25.tar.gz
@@ -234893,15 +234893,15 @@ Travel::Routing::DE::HAFAS::Location 0.01  D/DE/DERF/Travel-Routing-DE-HAFAS-0.0
 Travel::Routing::DE::HAFAS::Utils  0.11  D/DE/DERF/Travel-Routing-DE-HAFAS-0.11.tar.gz
 Travel::Routing::DE::VRR           2.25  D/DE/DERF/Travel-Routing-DE-VRR-2.25.tar.gz
 Travel::Status::DE::ASEAG          2.01  D/DE/DERF/Travel-Status-DE-URA-2.01.tar.gz
-Travel::Status::DE::DBRIS          0.34  D/DE/DERF/Travel-Status-DE-DBRIS-0.34.tar.gz
-Travel::Status::DE::DBRIS::Formation 0.34  D/DE/DERF/Travel-Status-DE-DBRIS-0.34.tar.gz
-Travel::Status::DE::DBRIS::Formation::Carriage 0.34  D/DE/DERF/Travel-Status-DE-DBRIS-0.34.tar.gz
-Travel::Status::DE::DBRIS::Formation::Group 0.34  D/DE/DERF/Travel-Status-DE-DBRIS-0.34.tar.gz
-Travel::Status::DE::DBRIS::Formation::Sector 0.34  D/DE/DERF/Travel-Status-DE-DBRIS-0.34.tar.gz
-Travel::Status::DE::DBRIS::Journey 0.34  D/DE/DERF/Travel-Status-DE-DBRIS-0.34.tar.gz
-Travel::Status::DE::DBRIS::JourneyAtStop 0.34  D/DE/DERF/Travel-Status-DE-DBRIS-0.34.tar.gz
-Travel::Status::DE::DBRIS::Location 0.34  D/DE/DERF/Travel-Status-DE-DBRIS-0.34.tar.gz
-Travel::Status::DE::DBRIS::Operators 0.34  D/DE/DERF/Travel-Status-DE-DBRIS-0.34.tar.gz
+Travel::Status::DE::DBRIS          0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
+Travel::Status::DE::DBRIS::Formation 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
+Travel::Status::DE::DBRIS::Formation::Carriage 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
+Travel::Status::DE::DBRIS::Formation::Group 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
+Travel::Status::DE::DBRIS::Formation::Sector 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
+Travel::Status::DE::DBRIS::Journey 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
+Travel::Status::DE::DBRIS::JourneyAtStop 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
+Travel::Status::DE::DBRIS::Location 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
+Travel::Status::DE::DBRIS::Operators 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
 Travel::Status::DE::DBWagenreihung 0.18  D/DE/DERF/Travel-Status-DE-DBWagenreihung-0.18.tar.gz
 Travel::Status::DE::DBWagenreihung::Carriage 0.18  D/DE/DERF/Travel-Status-DE-DBWagenreihung-0.18.tar.gz
 Travel::Status::DE::DBWagenreihung::Group 0.18  D/DE/DERF/Travel-Status-DE-DBWagenreihung-0.18.tar.gz
