@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261397
-Last-Updated: Sun, 27 Sep 2026 16:17:02 GMT
+Last-Updated: Sun, 27 Sep 2026 18:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4934,11 +4934,11 @@ Amazon::MWS::XML::Response::OrderReport::Item undef  H/HO/HORNBURG/Amazon-MWS-0.
 Amazon::MWS::XML::ShippedOrder    undef  H/HO/HORNBURG/Amazon-MWS-0.150.tar.gz
 Amazon::PAApi5::Payload           undef  B/BA/BAYASHI/Amazon-PAApi5-Signature-0.05.tar.gz
 Amazon::PAApi5::Signature          0.05  B/BA/BAYASHI/Amazon-PAApi5-Signature-0.05.tar.gz
-Amazon::S3                       v2.1.1  B/BI/BIGFOOT/Amazon-S3-2.1.1.tar.gz
-Amazon::S3::Bucket               v2.1.1  B/BI/BIGFOOT/Amazon-S3-2.1.1.tar.gz
-Amazon::S3::BucketV2             v2.1.1  B/BI/BIGFOOT/Amazon-S3-2.1.1.tar.gz
-Amazon::S3::CLI                       0  B/BI/BIGFOOT/Amazon-S3-2.1.1.tar.gz
-Amazon::S3::Constants            v2.1.1  B/BI/BIGFOOT/Amazon-S3-2.1.1.tar.gz
+Amazon::S3                       v2.1.2  B/BI/BIGFOOT/Amazon-S3-2.1.2.tar.gz
+Amazon::S3::Bucket               v2.1.2  B/BI/BIGFOOT/Amazon-S3-2.1.2.tar.gz
+Amazon::S3::BucketV2             v2.1.2  B/BI/BIGFOOT/Amazon-S3-2.1.2.tar.gz
+Amazon::S3::CLI                       0  B/BI/BIGFOOT/Amazon-S3-2.1.2.tar.gz
+Amazon::S3::Constants            v2.1.2  B/BI/BIGFOOT/Amazon-S3-2.1.2.tar.gz
 Amazon::S3::FastUploader           0.08  D/DQ/DQNEO/Amazon-S3-FastUploader-0.08.tar.gz
 Amazon::S3::FastUploader::File     0.05  D/DQ/DQNEO/Amazon-S3-FastUploader-0.08.tar.gz
 Amazon::S3::Lite                 v1.3.3  B/BI/BIGFOOT/Amazon-S3-Lite-1.3.3.tar.gz
@@ -4948,8 +4948,8 @@ Amazon::S3::Lite::Lock           v1.3.3  B/BI/BIGFOOT/Amazon-S3-Lite-1.3.3.tar.g
 Amazon::S3::Lite::Lock::Guard         0  B/BI/BIGFOOT/Amazon-S3-Lite-1.3.3.tar.gz
 Amazon::S3::Lite::Logger         v1.3.3  B/BI/BIGFOOT/Amazon-S3-Lite-1.3.3.tar.gz
 Amazon::S3::Lite::Policies            0  B/BI/BIGFOOT/Amazon-S3-Lite-1.3.3.tar.gz
-Amazon::S3::Logger               v2.1.1  B/BI/BIGFOOT/Amazon-S3-2.1.1.tar.gz
-Amazon::S3::Signature::V4        v2.1.1  B/BI/BIGFOOT/Amazon-S3-2.1.1.tar.gz
+Amazon::S3::Logger               v2.1.2  B/BI/BIGFOOT/Amazon-S3-2.1.2.tar.gz
+Amazon::S3::Signature::V4        v2.1.2  B/BI/BIGFOOT/Amazon-S3-2.1.2.tar.gz
 Amazon::S3::SignedURLGenerator     0.02  F/FA/FAYLAND/Amazon-S3-SignedURLGenerator-0.02.tar.gz
 Amazon::S3::Thin                   0.32  A/AK/AKIYM/Amazon-S3-Thin-0.32.tar.gz
 Amazon::S3::Thin::Credentials     undef  A/AK/AKIYM/Amazon-S3-Thin-0.32.tar.gz
@@ -4959,7 +4959,7 @@ Amazon::S3::Thin::Signer          undef  D/DQ/DQNEO/Amazon-S3-Thin-0.08.tar.gz
 Amazon::S3::Thin::Signer::V2      undef  A/AK/AKIYM/Amazon-S3-Thin-0.32.tar.gz
 Amazon::S3::Thin::Signer::V4      undef  A/AK/AKIYM/Amazon-S3-Thin-0.32.tar.gz
 Amazon::S3::Thin::SignerV2        undef  D/DQ/DQNEO/Amazon-S3-Thin-0.16.tar.gz
-Amazon::S3::Util                 v2.1.1  B/BI/BIGFOOT/Amazon-S3-2.1.1.tar.gz
+Amazon::S3::Util                 v2.1.2  B/BI/BIGFOOT/Amazon-S3-2.1.2.tar.gz
 Amazon::S3Curl::PurePerl          0.054  S/SK/SKAUFMAN/Amazon-S3Curl-PurePerl-0.054.tar.gz
 Amazon::SendToKindle                0.2  N/NA/NATHANPC/Amazon-SendToKindle-0.2.tar.gz
 Amazon::SES                        0.06  R/RC/RCONOVER/Amazon-SES-0.06.tar.gz
@@ -67238,7 +67238,7 @@ Digest::CMAC                       0.04  N/NU/NUFFIN/Digest-CMAC-0.04.tar.gz
 Digest::combined                    0.1  O/ON/ONEGRAY/Digest-combined-0.1.tar.gz
 Digest::CRC                        0.24  O/OL/OLIMAUL/Digest-CRC-0.24.tar.gz
 Digest::Crc32                      0.01  F/FA/FAYS/Digest-Crc32-0.01.tar.gz
-Digest::CRC64NVME                     0  B/BI/BIGFOOT/Amazon-S3-2.1.1.tar.gz
+Digest::CRC64NVME                     0  B/BI/BIGFOOT/Amazon-S3-2.1.2.tar.gz
 Digest::CubeHash::XS               0.05  G/GR/GRAY/Digest-CubeHash-XS-0.05.tar.gz
 Digest::Directory::API             0.90  M/MG/MGREAM/Dirgest-0.90.tar.gz
 Digest::Directory::BASE            0.90  M/MG/MGREAM/Dirgest-0.90.tar.gz
