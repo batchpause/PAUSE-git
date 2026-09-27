@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261397
-Last-Updated: Sun, 27 Sep 2026 22:41:02 GMT
+Last-Updated: Sun, 27 Sep 2026 23:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -75046,8 +75046,8 @@ Exception::BadArguments::InvalidJSON 2.8  M/MA/MADSKILL/qbit-2.8.tar.gz
 Exception::Base                  0.2501  D/DE/DEXTER/Exception-Base-0.2501.tar.gz
 Exception::Caught                 undef  F/FR/FRODWITH/Exception-Caught-0.01.tar.gz
 Exception::Chain                   0.11  H/HI/HIXI/Exception-Chain-0.11.tar.gz
-Exception::Class                   1.45  D/DR/DROLSKY/Exception-Class-1.45.tar.gz
-Exception::Class::Base             1.45  D/DR/DROLSKY/Exception-Class-1.45.tar.gz
+Exception::Class                   1.46  D/DR/DROLSKY/Exception-Class-1.46.tar.gz
+Exception::Class::Base             1.46  D/DR/DROLSKY/Exception-Class-1.46.tar.gz
 Exception::Class::DBI              1.04  P/PL/PLICEASE/Exception-Class-DBI-1.04.tar.gz
 Exception::Class::DBI::DBH         1.04  P/PL/PLICEASE/Exception-Class-DBI-1.04.tar.gz
 Exception::Class::DBI::H           1.04  P/PL/PLICEASE/Exception-Class-DBI-1.04.tar.gz
