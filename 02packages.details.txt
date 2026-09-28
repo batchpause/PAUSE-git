@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261397
-Last-Updated: Mon, 28 Sep 2026 06:17:02 GMT
+Last-Updated: Mon, 28 Sep 2026 06:54:07 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -17428,7 +17428,7 @@ Archive::Any::Zip                0.0946  O/OA/OALDERS/Archive-Any-0.0946.tar.gz
 Archive::Ar                        2.02  J/JB/JBAZIK/Archive-Ar-2.02.tar.gz
 Archive::Ar::Libarchive            2.09  P/PL/PLICEASE/Archive-Ar-Libarchive-2.09.tar.gz
 Archive::Ar::Ng                    2.04  M/MI/MITHR/Archive-Ar-Ng-2.04.tar.gz
-Archive::Asar                      0.01  M/MA/MAUKE/Archive-Asar-0.01.tar.gz
+Archive::Asar                      0.02  M/MA/MAUKE/Archive-Asar-0.02.tar.gz
 Archive::BagIt                    0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
 Archive::BagIt::App               0.049  R/RJ/RJESCHMI/Archive-BagIt-App-0.049.tar.gz
 Archive::BagIt::App::Verify       0.049  R/RJ/RJESCHMI/Archive-BagIt-App-0.049.tar.gz
