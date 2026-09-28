@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261398
-Last-Updated: Mon, 28 Sep 2026 16:17:01 GMT
+Last-Updated: Mon, 28 Sep 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -5052,12 +5052,12 @@ Ambassador::API::V2::Error        0.001  D/DR/DREAMHOST/Ambassador-API-V2-0.001.
 Ambassador::API::V2::Result       0.001  D/DR/DREAMHOST/Ambassador-API-V2-0.001.tar.gz
 Ambassador::API::V2::Role::HasJSON 0.001  D/DR/DREAMHOST/Ambassador-API-V2-0.001.tar.gz
 Ambassador::API::V2::Role::Response 0.001  D/DR/DREAMHOST/Ambassador-API-V2-0.001.tar.gz
-AmberDB                        5.026000  M/MC/MCETIN/AmberDB-5.26.0.tar.gz
-AmberDB::Array                 5.026000  M/MC/MCETIN/AmberDB-5.26.0.tar.gz
-AmberDB::Date                  5.026000  M/MC/MCETIN/AmberDB-5.26.0.tar.gz
-AmberDB::Locale                5.026000  M/MC/MCETIN/AmberDB-5.26.0.tar.gz
+AmberDB                        5.026002  M/MC/MCETIN/AmberDB-5.26.2.tar.gz
+AmberDB::Array                 5.026002  M/MC/MCETIN/AmberDB-5.26.2.tar.gz
+AmberDB::Date                  5.026002  M/MC/MCETIN/AmberDB-5.26.2.tar.gz
+AmberDB::Locale                5.026002  M/MC/MCETIN/AmberDB-5.26.2.tar.gz
 AmberDB::String                5.024000  M/MC/MCETIN/AmberDB-5.24.0.tar.gz
-AmberDB::Tools                 5.026000  M/MC/MCETIN/AmberDB-5.26.0.tar.gz
+AmberDB::Tools                 5.026002  M/MC/MCETIN/AmberDB-5.26.2.tar.gz
 AmberDB::Tools::Index          5.026000  M/MC/MCETIN/AmberDB-5.26.0.tar.gz
 AmberDB::Tools::Maintain       5.026000  M/MC/MCETIN/AmberDB-5.26.0.tar.gz
 AmberDB::Tools::Update         5.026000  M/MC/MCETIN/AmberDB-5.26.0.tar.gz
@@ -63287,22 +63287,22 @@ DBIx::EnumConstraints              0.05  B/BO/BOSU/DBIx-EnumConstraints-0.05.tar
 DBIx::Error                    1.000001  M/MC/MCB/DBIx-Error-1.0.1.tar.gz
 DBIx::Export                       0.01  A/AD/ADAMK/DBIx-Export-0.01.tar.gz
 DBIx::Factory                      0.09  B/BA/BAHOOTYPR/DBIx-Factory-0.09.tar.gz
-DBIx::Fast                         0.17  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Base                  undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Cache                 undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Cached                undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Connector             undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Output                undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Profile::Base         undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Profile::MariaDB      undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Profile::mysql        undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Profile::Pg           undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Profile::SQLite       undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Profiler              undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Result                undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Schema                undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::SQL                   undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
-DBIx::Fast::Transaction           undef  H/HD/HDELGADO/DBIx-Fast-0.17.tar.gz
+DBIx::Fast                         0.18  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Base                  undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Cache                 undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Cached                undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Connector             undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Output                undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Profile::Base         undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Profile::MariaDB      undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Profile::mysql        undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Profile::Pg           undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Profile::SQLite       undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Profiler              undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Result                undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Schema                undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::SQL                   undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast::Transaction           undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
 DBIx::FetchLoop                     0.6  B/BI/BITS/DBIx-FetchLoop-0.6.tar.gz
 DBIx::FetchLoop::fetchrow_arrayref  0.6  B/BI/BITS/DBIx-FetchLoop-0.6.tar.gz
 DBIx::FetchLoop::fetchrow_hashref   0.6  B/BI/BITS/DBIx-FetchLoop-0.6.tar.gz
