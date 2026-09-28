@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261397
-Last-Updated: Mon, 28 Sep 2026 00:17:02 GMT
+Last-Updated: Mon, 28 Sep 2026 01:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -218865,30 +218865,30 @@ SPVM::Format                      undef  K/KI/KIMOTO/SPVM-0.990199.tar.gz
 SPVM::Getopt::Long                0.004  K/KI/KIMOTO/SPVM-Getopt-Long-0.004.tar.gz
 SPVM::Getopt::Long::Spec          undef  K/KI/KIMOTO/SPVM-Getopt-Long-0.004.tar.gz
 SPVM::Global                      undef  K/KI/KIMOTO/SPVM-0.990199.tar.gz
-SPVM::Go                          0.046  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Channel                 undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Channel::Wait           undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Context                 undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Context::CanncelCallback undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Context::Derived        undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Context::Error::Canceled undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Context::Error::DeadlineExceeded undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Context::Value          undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
+SPVM::Go                          0.047  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Channel                 undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Channel::Wait           undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Context                 undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Context::CanncelCallback undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Context::Derived        undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Context::Error::Canceled undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Context::Error::DeadlineExceeded undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Context::Value          undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
 SPVM::Go::Coroutine               undef  K/KI/KIMOTO/SPVM-Go-0.030.tar.gz
-SPVM::Go::Duration_1l             undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Error::IOTimeout        undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Goroutine               undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::OS::Signal              undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
+SPVM::Go::Duration_1l             undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Error::IOTimeout        undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Goroutine               undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::OS::Signal              undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
 SPVM::Go::Poll                    undef  K/KI/KIMOTO/SPVM-Go-0.030.tar.gz
 SPVM::Go::Resource::UV            undef  K/KI/KIMOTO/SPVM-Go-0.044.tar.gz
-SPVM::Go::Schedule                undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Schedule::Info          undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
+SPVM::Go::Schedule                undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Schedule::Info          undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
 SPVM::Go::Schedule::Task          undef  K/KI/KIMOTO/SPVM-Go-0.031.tar.gz
-SPVM::Go::Select                  undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Select::Case            undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Select::Result          undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Sync::WaitGroup         undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
-SPVM::Go::Time                    undef  K/KI/KIMOTO/SPVM-Go-0.046.tar.gz
+SPVM::Go::Select                  undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Select::Case            undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Select::Result          undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Sync::WaitGroup         undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
+SPVM::Go::Time                    undef  K/KI/KIMOTO/SPVM-Go-0.047.tar.gz
 SPVM::Go::UV                      undef  K/KI/KIMOTO/SPVM-Go-0.044.tar.gz
 SPVM::Go::UV::Callback::Async     undef  K/KI/KIMOTO/SPVM-Go-0.044.tar.gz
 SPVM::Go::UV::Callback::Close     undef  K/KI/KIMOTO/SPVM-Go-0.044.tar.gz
