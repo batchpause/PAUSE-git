@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668050
+Line-Count:  668051
 Written-By:  PAUSE version 1.005
-Date:        Mon, 28 Sep 2026 20:41:26 GMT
+Date:        Mon, 28 Sep 2026 21:18:27 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -8557,6 +8557,7 @@ Amazon::API::SecretsManager,BIGFOOT,f
 Amazon::API::ServiceHook,BIGFOOT,f
 Amazon::API::Signature4,BIGFOOT,f
 Amazon::API::Template,BIGFOOT,f
+Amazon::API::Utils,BIGFOOT,f
 Amazon::API::XML::Simple,BIGFOOT,f
 Amazon::CloudFront::SignedURL,ZONCOEN,f
 Amazon::CloudFront::Thin,GARU,f
