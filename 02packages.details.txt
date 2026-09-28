@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261405
-Last-Updated: Mon, 28 Sep 2026 21:17:03 GMT
+Last-Updated: Mon, 28 Sep 2026 21:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -66106,7 +66106,7 @@ Devel::Timer                       0.14  M/MA/MANWAR/Devel-Timer-0.14.tar.gz
 Devel::TimeStats                   0.04  C/CA/CAFEGRATZ/Devel-TimeStats-0.04.tar.gz
 Devel::TimeThis                  0.0223  J/JO/JOHANL/Devel-PerlySense-0.0223.tar.gz
 Devel::Tinderbox::Reporter         0.10  M/MS/MSCHWERN/Devel-Tinderbox-Reporter-0.10.tar.gz
-Devel::tkdb                         2.4  V/VK/VKON/Devel-tkdb-2.4.tar.gz
+Devel::tkdb                         2.5  V/VK/VKON/Devel-tkdb-2.5.tar.gz
 Devel::Todo::Find                 1.205  M/MT/MTHURN/Devel-Todo-Find-1.205.tar.gz
 Devel::Tokenizer::C                0.11  M/MH/MHX/Devel-Tokenizer-C-0.11.tar.gz
 Devel::Trace                       0.12  M/MJ/MJD/Devel-Trace-0.12.tar.gz
