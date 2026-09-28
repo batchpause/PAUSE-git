@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261401
-Last-Updated: Mon, 28 Sep 2026 19:41:01 GMT
+Last-Updated: Mon, 28 Sep 2026 19:54:43 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -80766,7 +80766,7 @@ Full::Role                        1.004  T/TE/TEAM/Full-1.004.tar.gz
 Full::Script                      1.004  T/TE/TEAM/Full-1.004.tar.gz
 Fun                                0.05  D/DO/DOY/Fun-0.05.tar.gz
 func                              undef  I/IN/INGY/YAMLScript-0.0.5.tar.gz
-Func::Util                         0.04  L/LN/LNATION/Func-Util-0.04.tar.gz
+Func::Util                         1.00  L/LN/LNATION/Func-Util-1.00.tar.gz
 Function::Composition          0.000002  S/SH/SHELLING/Function-Composition-0.0.2.tar.gz
 Function::Fallback::CoreOrPP      0.090  P/PE/PERLANCAR/Function-Fallback-CoreOrPP-0.090.tar.gz
 Function::ID                       0.02  R/RO/ROODE/Function_ID-0.02.tar.gz
