@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261397
-Last-Updated: Mon, 28 Sep 2026 06:54:07 GMT
+Last-Updated: Mon, 28 Sep 2026 07:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -13517,7 +13517,7 @@ App::ParseNetstat                 0.150  P/PE/PERLANCAR/App-ParseNetstat-0.150.t
 App::ParseSearchStringFromURL     0.004  P/PE/PERLANCAR/App-ParseSearchStringFromURL-0.004.tar.gz
 App::ParseServices                0.002  P/PE/PERLANCAR/App-ParseServices-0.002.tar.gz
 App::part                          0.07  C/CO/CORION/App-part-0.07.tar.gz
-App::Pasar                         0.01  M/MA/MAUKE/App-Pasar-0.01.tar.gz
+App::Pasar                         0.02  M/MA/MAUKE/App-Pasar-0.02.tar.gz
 App::PassManager               1.113580  O/OL/OLIVER/App-passmanager-1.113580.tar.gz
 App::PassManager::Command::init 1.113580  O/OL/OLIVER/App-passmanager-1.113580.tar.gz
 App::PassManager::Command::newuser 1.113580  O/OL/OLIVER/App-passmanager-1.113580.tar.gz
