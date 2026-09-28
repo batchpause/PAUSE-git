@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261401
-Last-Updated: Mon, 28 Sep 2026 19:54:43 GMT
+Line-Count:   261404
+Last-Updated: Mon, 28 Sep 2026 20:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -205849,6 +205849,7 @@ RT::Action::SLA                   undef  A/AL/ALEXMV/RT-Extension-SLA-1.04.tar.g
 RT::Action::SLA_SetDefault        undef  A/AL/ALEXMV/RT-Extension-SLA-1.04.tar.gz
 RT::Action::SLA_SetDue            undef  A/AL/ALEXMV/RT-Extension-SLA-1.04.tar.gz
 RT::Action::SLA_SetStarts         undef  A/AL/ALEXMV/RT-Extension-SLA-1.04.tar.gz
+RT::Action::Slack                 undef  T/TA/TACKITTJ/RT-Extension-Slack-1.1.tar.gz
 RT::Action::SMSNotify             undef  R/RI/RINGERC/RT/Extension/SMSNotify/RT-Extension-SMSNotify-1.04.tar.gz
 RT::Action::TicketAgingActivate   undef  R/RU/RUZ/RT-Extension-TicketAging-0.12.tar.gz
 RT::Action::UpdateIcestack         0.01  M/MA/MARKI/RT-Action-UpdateIcestack-0.01.tar.gz
@@ -205920,6 +205921,7 @@ RT::Condition::SLA                undef  A/AL/ALEXMV/RT-Extension-SLA-1.04.tar.g
 RT::Condition::SLA_RequireDefault undef  A/AL/ALEXMV/RT-Extension-SLA-1.04.tar.gz
 RT::Condition::SLA_RequireDueSet  undef  A/AL/ALEXMV/RT-Extension-SLA-1.04.tar.gz
 RT::Condition::SLA_RequireStartsSet undef  A/AL/ALEXMV/RT-Extension-SLA-1.04.tar.gz
+RT::Condition::SlackCondition     undef  T/TA/TACKITTJ/RT-Extension-Slack-1.1.tar.gz
 RT::Condition::TimeWorkedChange   undef  A/AL/ALEXMV/RT-Extension-ParentTimeWorked-1.02.tar.gz
 RT::Condition::UntouchedInBusinessHours 0.03  F/FA/FALCONE/RT-Condition-UntouchedInBusinessHours-0.03.tar.gz
 RT::Config                        undef  E/EL/ELACOUR/RT-Extension-UserDetails-0.03.tar.gz
@@ -206180,6 +206182,7 @@ RT::Extension::SideBySideView      2.01  C/CL/CLOOS/RT-Extension-SideBySideView-
 RT::Extension::SkipQuotes          0.01  T/TS/TSKHO/RT-Extension-SkipQuotes-0.01.tar.gz
 RT::Extension::SLA                 1.04  A/AL/ALEXMV/RT-Extension-SLA-1.04.tar.gz
 RT::Extension::SLA::Test          undef  T/TS/TSIBLEY/RT-Extension-SLA-0.06.tar.gz
+RT::Extension::Slack                1.1  T/TA/TACKITTJ/RT-Extension-Slack-1.1.tar.gz
 RT::Extension::SMSNotify           1.04  R/RI/RINGERC/RT/Extension/SMSNotify/RT-Extension-SMSNotify-1.04.tar.gz
 RT::Extension::SMSNotify::OnShift undef  R/RI/RINGERC/RT/Extension/SMSNotify/RT-Extension-SMSNotify-1.04.tar.gz
 RT::Extension::SMSNotify::PagerForUser undef  R/RI/RINGERC/RT/Extension/SMSNotify/RT-Extension-SMSNotify-1.04.tar.gz

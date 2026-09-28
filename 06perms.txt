@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668047
+Line-Count:  668050
 Written-By:  PAUSE version 1.005
-Date:        Mon, 28 Sep 2026 18:41:57 GMT
+Date:        Mon, 28 Sep 2026 20:41:26 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -554316,6 +554316,7 @@ RT::Action::SetPriorityFromHeader,BPS,f
 RT::Action::SetPriorityFromHeader,RUZ,c
 RT::Action::SetPriorityFromHeader,TSIBLEY,c
 RT::Action::SetStatus,BPS,f
+RT::Action::Slack,TACKITTJ,f
 RT::Action::TicketAgingActivate,ALEXMV,c
 RT::Action::TicketAgingActivate,BPS,f
 RT::Action::TicketAgingActivate,JESSE,c
@@ -554674,6 +554675,7 @@ RT::Condition::SLA_RequireStartsSet,BPS,f
 RT::Condition::SLA_RequireStartsSet,JESSE,c
 RT::Condition::SLA_RequireStartsSet,RUZ,c
 RT::Condition::SLA_RequireStartsSet,TSIBLEY,c
+RT::Condition::SlackCondition,TACKITTJ,f
 RT::Condition::TimeWorkedChange,ALEXMV,c
 RT::Condition::TimeWorkedChange,BPS,f
 RT::Condition::UntouchedInBusinessHours,BPS,f
@@ -555180,6 +555182,7 @@ RT::Extension::ShowTransactionSquelching,ALEXMV,c
 RT::Extension::ShowTransactionSquelching,BPS,f
 RT::Extension::SideBySideView,CLOOS,f
 RT::Extension::SkipQuotes,TSKHO,f
+RT::Extension::Slack,TACKITTJ,f
 RT::Extension::SpawnLinkedTicketInQueue,ALEXMV,c
 RT::Extension::SpawnLinkedTicketInQueue,BPS,f
 RT::Extension::SpawnLinkedTicketInQueue,CLKAO,c
