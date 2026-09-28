@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261397
-Last-Updated: Mon, 28 Sep 2026 01:29:02 GMT
+Last-Updated: Mon, 28 Sep 2026 03:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4483,7 +4483,7 @@ Alien::MUSCLE                      0.01  K/KI/KIWIROY/tmp/Alien-MUSCLE-0.01.tar.
 Alien::nasm                        0.23  P/PL/PLICEASE/Alien-nasm-0.23.tar.gz
 Alien::Nettle                      0.05  P/PL/PLICEASE/Alien-Nettle-0.05.tar.gz
 Alien::nghttp2                    0.003  J/JJ/JJNAPIORK/Alien-nghttp2-0.003.tar.gz
-Alien::ngtcp2                      0.02  H/HA/HAX/Alien-ngtcp2-0.02.tar.gz
+Alien::ngtcp2                      0.03  H/HA/HAX/Alien-ngtcp2-0.03.tar.gz
 Alien::Ninja                       0.03  Z/ZM/ZMUGHAL/Alien-Ninja-0.03.tar.gz
 Alien::NLopt                   v2.11.0.0  D/DJ/DJERIUS/Alien-NLopt-v2.11.0.0.tar.gz
 Alien::NLopt::Install::Files   v2.11.0.0  D/DJ/DJERIUS/Alien-NLopt-v2.11.0.0.tar.gz
