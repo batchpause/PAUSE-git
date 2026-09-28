@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261398
-Last-Updated: Mon, 28 Sep 2026 14:41:01 GMT
+Last-Updated: Mon, 28 Sep 2026 14:54:25 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -18314,9 +18314,9 @@ ASPEER::MakeMaker::Markdown::Pod  1.014  A/AS/ASPEER/ASPEER-MakeMaker-Markdown-P
 ASPEER::MakeMaker::Markdown::Pod::Constant 1.013  A/AS/ASPEER/ASPEER-MakeMaker-Markdown-Pod-1.014.tar.gz
 ASPEER::MakeMaker::Markdown::Pod::MM 1.013  A/AS/ASPEER/ASPEER-MakeMaker-Markdown-Pod-1.014.tar.gz
 ASPEER::MakeMaker::Markdown::Pod::MM::Constant 1.013  A/AS/ASPEER/ASPEER-MakeMaker-Markdown-Pod-1.014.tar.gz
-ASPEER::MakeMaker::Markdown::Publish 1.003  A/AS/ASPEER/ASPEER-MakeMaker-Markdown-Publish-1.003.tar.gz
-ASPEER::MakeMaker::Markdown::Publish::MM 1.003  A/AS/ASPEER/ASPEER-MakeMaker-Markdown-Publish-1.003.tar.gz
-ASPEER::MakeMaker::Markdown::Publish::MM::Constant 1.003  A/AS/ASPEER/ASPEER-MakeMaker-Markdown-Publish-1.003.tar.gz
+ASPEER::MakeMaker::Markdown::Publish 1.004  A/AS/ASPEER/ASPEER-MakeMaker-Markdown-Publish-1.004.tar.gz
+ASPEER::MakeMaker::Markdown::Publish::MM 1.004  A/AS/ASPEER/ASPEER-MakeMaker-Markdown-Publish-1.004.tar.gz
+ASPEER::MakeMaker::Markdown::Publish::MM::Constant 1.004  A/AS/ASPEER/ASPEER-MakeMaker-Markdown-Publish-1.004.tar.gz
 ASPEER::MakeMaker::MM             1.012  A/AS/ASPEER/ASPEER-MakeMaker-1.012.tar.gz
 ASPEER::MakeMaker::MM::Constant   1.012  A/AS/ASPEER/ASPEER-MakeMaker-1.012.tar.gz
 ASPEER::MakeMaker::MM::Import     1.012  A/AS/ASPEER/ASPEER-MakeMaker-1.012.tar.gz
@@ -127204,12 +127204,12 @@ Markdown::Pod::Embed::Constant    1.012  A/AS/ASPEER/Markdown-Pod-Embed-1.013.ta
 Markdown::Pod::Embed::Util        1.012  A/AS/ASPEER/Markdown-Pod-Embed-1.013.tar.gz
 Markdown::Pod::Handler            0.008  K/KE/KEEDI/Markdown-Pod-0.008.tar.gz
 Markdown::Pod::script             0.008  K/KE/KEEDI/Markdown-Pod-0.008.tar.gz
-Markdown::Publish                 1.003  A/AS/ASPEER/Markdown-Publish-1.003.tar.gz
-Markdown::Publish::Constant       1.003  A/AS/ASPEER/Markdown-Publish-1.003.tar.gz
-Markdown::Publish::Docusaurus     1.003  A/AS/ASPEER/Markdown-Publish-1.003.tar.gz
-Markdown::Publish::MkDocs         1.003  A/AS/ASPEER/Markdown-Publish-1.003.tar.gz
-Markdown::Publish::Starlight      1.003  A/AS/ASPEER/Markdown-Publish-1.003.tar.gz
-Markdown::Publish::VitePress      1.003  A/AS/ASPEER/Markdown-Publish-1.003.tar.gz
+Markdown::Publish                 1.004  A/AS/ASPEER/Markdown-Publish-1.004.tar.gz
+Markdown::Publish::Constant       1.004  A/AS/ASPEER/Markdown-Publish-1.004.tar.gz
+Markdown::Publish::Docusaurus     1.004  A/AS/ASPEER/Markdown-Publish-1.004.tar.gz
+Markdown::Publish::MkDocs         1.004  A/AS/ASPEER/Markdown-Publish-1.004.tar.gz
+Markdown::Publish::Starlight      1.004  A/AS/ASPEER/Markdown-Publish-1.004.tar.gz
+Markdown::Publish::VitePress      1.004  A/AS/ASPEER/Markdown-Publish-1.004.tar.gz
 Markdown::Render                 v2.0.4  B/BI/BIGFOOT/Markdown-Render-2.0.4.tar.gz
 Markdown::Simple                   0.22  L/LN/LNATION/Markdown-Simple-0.22.tar.gz
 Markdown::Table                    0.04  P/PE/PERLSRVDE/Markdown-Table-0.04.tar.gz
@@ -259963,8 +259963,8 @@ YAML::yq::Helper               0.002000  V/VV/VVELOX/YAML-yq-Helper-0.2.0.tar.gz
 yaml_mapping                      undef  T/TI/TINITA/YAML-1.321.tar.gz
 yaml_scalar                       undef  T/TI/TINITA/YAML-1.321.tar.gz
 yaml_sequence                     undef  T/TI/TINITA/YAML-1.321.tar.gz
-YAMLScript                     0.003001  I/IN/INGY/YAMLScript-0.3.1.tar.gz
-YAMLScript::Alien                 undef  I/IN/INGY/YAMLScript-0.3.1.tar.gz
+YAMLScript                     0.003002  I/IN/INGY/YAMLScript-0.3.2.tar.gz
+YAMLScript::Alien                 undef  I/IN/INGY/YAMLScript-0.3.2.tar.gz
 YAMLScript::Base                  undef  I/IN/INGY/YAMLScript-0.0.7.tar.gz
 YAMLScript::Call                  undef  I/IN/INGY/YAMLScript-0.0.16.tar.gz
 YAMLScript::CLI                   undef  I/IN/INGY/YAMLScript-0.1.3.tar.gz
