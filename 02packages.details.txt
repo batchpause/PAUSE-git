@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261398
-Last-Updated: Mon, 28 Sep 2026 08:41:02 GMT
+Last-Updated: Mon, 28 Sep 2026 13:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -43647,7 +43647,7 @@ Chef::REST::Client::roles             1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
 Chef::REST::Client::runlist           1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
 Chef::REST::Client::sandboxes         1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
 Chef::REST::Client::search            1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
-Chem::Structure::Parser           0.034  D/DC/DCON/Chem-Structure-Parser-0.034.tar.gz
+Chem::Structure::Parser           0.035  D/DC/DCON/Chem-Structure-Parser-0.035.tar.gz
 Chemistry::3DBuilder               0.10  I/IT/ITUB/Chemistry-3DBuilder-0.10.tar.gz
 Chemistry::Artificial::Graphics    0.01  B/BR/BREQUESEN/Chemistry-Artificial-Graphics-0.01.tar.gz
 Chemistry::Artificial::SQL         0.01  B/BR/BREQUESEN/Chemistry-Artificial-SQL-0.01.tar.gz
