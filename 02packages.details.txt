@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261398
-Last-Updated: Mon, 28 Sep 2026 07:41:02 GMT
+Last-Updated: Mon, 28 Sep 2026 08:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -49363,8 +49363,8 @@ cPanel::APIClient::X::Base        undef  C/CP/CPANEL/cPanel-APIClient-0.10.tar.g
 cPanel::APIClient::X::CommandFailed undef  C/CP/CPANEL/cPanel-APIClient-0.10.tar.gz
 cPanel::APIClient::X::HTTP        undef  C/CP/CPANEL/cPanel-APIClient-0.10.tar.gz
 cPanel::APIClient::X::SubTransport undef  C/CP/CPANEL/cPanel-APIClient-0.10.tar.gz
-Cpanel::JSON::XS                   4.52  R/RU/RURBAN/Cpanel-JSON-XS-4.52.tar.gz
-Cpanel::JSON::XS::Type            undef  R/RU/RURBAN/Cpanel-JSON-XS-4.52.tar.gz
+Cpanel::JSON::XS                   4.53  R/RU/RURBAN/Cpanel-JSON-XS-4.53.tar.gz
+Cpanel::JSON::XS::Type            undef  R/RU/RURBAN/Cpanel-JSON-XS-4.53.tar.gz
 cPanel::MemTest                     0.3  D/DM/DMUEY/cPanel-MemTest-0.3.tar.gz
 cPanel::nginx                      0.01  I/ID/IDIVISION/cPanel-nginx-v0.01.tar.gz
 cPanel::PublicAPI                   2.8  C/CP/CPANEL/cPanel-PublicAPI-2.8.tar.gz
@@ -205358,11 +205358,11 @@ RPC::Switch::Client                0.22  W/WI/WIEGEROP/RPC-Switch-Client-0.22.ta
 RPC::Switch::Client::ReqAuth      undef  W/WI/WIEGEROP/RPC-Switch-Client-0.22.tar.gz
 RPC::Switch::Client::ReqAuth::Password undef  W/WI/WIEGEROP/RPC-Switch-Client-0.22.tar.gz
 RPC::Switch::Client::Steps        undef  W/WI/WIEGEROP/RPC-Switch-Client-0.22.tar.gz
-RPC::Switch::Client::Tiny          1.67  B/BD/BDZ/RPC-Switch-Client-Tiny-1.67.tar.gz
-RPC::Switch::Client::Tiny::Async    1.2  B/BD/BDZ/RPC-Switch-Client-Tiny-1.67.tar.gz
-RPC::Switch::Client::Tiny::Error    1.1  B/BD/BDZ/RPC-Switch-Client-Tiny-1.67.tar.gz
-RPC::Switch::Client::Tiny::Netstring 1.14  B/BD/BDZ/RPC-Switch-Client-Tiny-1.67.tar.gz
-RPC::Switch::Client::Tiny::SessionCache 1.22  B/BD/BDZ/RPC-Switch-Client-Tiny-1.67.tar.gz
+RPC::Switch::Client::Tiny          1.69  B/BD/BDZ/RPC-Switch-Client-Tiny-1.69.tar.gz
+RPC::Switch::Client::Tiny::Async    1.2  B/BD/BDZ/RPC-Switch-Client-Tiny-1.69.tar.gz
+RPC::Switch::Client::Tiny::Error    1.1  B/BD/BDZ/RPC-Switch-Client-Tiny-1.69.tar.gz
+RPC::Switch::Client::Tiny::Netstring 1.14  B/BD/BDZ/RPC-Switch-Client-Tiny-1.69.tar.gz
+RPC::Switch::Client::Tiny::SessionCache 1.22  B/BD/BDZ/RPC-Switch-Client-Tiny-1.69.tar.gz
 RPC::ToWorker                     0.601  M/MU/MUIR/modules/Proc-Parallel-0.601.tar.gz
 RPC::ToWorker::AllDone            0.601  M/MU/MUIR/modules/Proc-Parallel-0.601.tar.gz
 RPC::ToWorker::Callback           undef  M/MU/MUIR/modules/Proc-Parallel-0.601.tar.gz
