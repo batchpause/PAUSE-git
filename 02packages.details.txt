@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261398
-Last-Updated: Mon, 28 Sep 2026 14:54:25 GMT
+Last-Updated: Mon, 28 Sep 2026 16:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -3544,10 +3544,10 @@ Aion::Pleroma                     undef  D/DA/DART/Aion-2.4.tar.gz
 Aion::Query                      v0.0.6  D/DA/DART/Aion-Query-0.0.6.tar.gz
 Aion::Query::Transaction          undef  D/DA/DART/Aion-Query-0.0.6.tar.gz
 Aion::Refmark                     undef  D/DA/DART/Aion-Telemetry-0.0.1.tar.gz
-Aion::Run                        v0.0.3  D/DA/DART/Aion-Run-0.0.3.tar.gz
-Aion::Run::Runner                 undef  D/DA/DART/Aion-Run-0.0.3.tar.gz
-Aion::Run::RunRun                 undef  D/DA/DART/Aion-Run-0.0.3.tar.gz
-Aion::Run::RunsRun                undef  D/DA/DART/Aion-Run-0.0.3.tar.gz
+Aion::Run                        v0.0.4  D/DA/DART/Aion-Run-0.0.4.tar.gz
+Aion::Run::Runner                 undef  D/DA/DART/Aion-Run-0.0.4.tar.gz
+Aion::Run::RunRun                 undef  D/DA/DART/Aion-Run-0.0.4.tar.gz
+Aion::Run::RunsRun                undef  D/DA/DART/Aion-Run-0.0.4.tar.gz
 Aion::Spirit                     v0.0.1  D/DA/DART/Aion-Spirit-0.0.1.tar.gz
 Aion::Surf                       v0.0.3  D/DA/DART/Aion-Surf-0.0.3.tar.gz
 Aion::Telemetry                  v0.0.1  D/DA/DART/Aion-Telemetry-0.0.1.tar.gz
@@ -22615,14 +22615,14 @@ Barcode::DataMatrix::Reed         undef  M/MS/MSTRAT/Barcode-DataMatrix-0.10.tar
 Barcode::ZBar                      0.10  T/TI/TIMLEGGE/Barcode-ZBar-0.10.tar.gz
 Barcode::ZBar::Error               0.10  T/TI/TIMLEGGE/Barcode-ZBar-0.10.tar.gz
 bare                               0.02  B/BR/BRIANSKI/bare-0.02.tar.gz
-BarefootJS                      v0.38.0  K/KF/KFLY/BarefootJS-0.38.0.tar.gz
+BarefootJS                      v0.39.0  K/KF/KFLY/BarefootJS-0.39.0.tar.gz
 BarefootJS::_TZProbe           0.029000  K/KF/KFLY/BarefootJS-0.29.0.tar.gz
-BarefootJS::Backend::Mojo       v0.38.0  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.38.0.tar.gz
-BarefootJS::Backend::Xslate     v0.38.0  K/KF/KFLY/BarefootJS-Backend-Xslate-0.38.0.tar.gz
-BarefootJS::Date                v0.38.0  K/KF/KFLY/BarefootJS-0.38.0.tar.gz
-BarefootJS::DevReload           v0.38.0  K/KF/KFLY/BarefootJS-0.38.0.tar.gz
-BarefootJS::Evaluator           v0.38.0  K/KF/KFLY/BarefootJS-0.38.0.tar.gz
-BarefootJS::SearchParams        v0.38.0  K/KF/KFLY/BarefootJS-0.38.0.tar.gz
+BarefootJS::Backend::Mojo       v0.39.0  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.0.tar.gz
+BarefootJS::Backend::Xslate     v0.39.0  K/KF/KFLY/BarefootJS-Backend-Xslate-0.39.0.tar.gz
+BarefootJS::Date                v0.39.0  K/KF/KFLY/BarefootJS-0.39.0.tar.gz
+BarefootJS::DevReload           v0.39.0  K/KF/KFLY/BarefootJS-0.39.0.tar.gz
+BarefootJS::Evaluator           v0.39.0  K/KF/KFLY/BarefootJS-0.39.0.tar.gz
+BarefootJS::SearchParams        v0.39.0  K/KF/KFLY/BarefootJS-0.39.0.tar.gz
 bareword::filehandles             0.007  I/IL/ILMARI/bareword-filehandles-0.007.tar.gz
 barewords                          0.01  S/SA/SALVA/barewords-0.01.tar.gz
 Barracuda::Api                     0.03  M/MQ/MQL/Barracuda-Api-0.03.tar.gz
@@ -135756,8 +135756,8 @@ Mojolicious::Plugin::AutoRoutePm   0.23  E/EB/EBRUNI/Mojolicious-Plugin-AutoRout
 Mojolicious::Plugin::AutoSecrets  0.006  M/MH/MHOWARD/Mojolicious-Plugin-AutoSecrets-0.006.tar.gz
 Mojolicious::Plugin::AWS           0.21  S/SC/SCOTTW/Mojolicious-Plugin-AWS-0.21.tar.gz
 Mojolicious::Plugin::Badge         1.12  G/GD/GDT/Mojolicious-Plugin-Badge-1.12.tar.gz
-Mojolicious::Plugin::BarefootJS v0.38.0  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.38.0.tar.gz
-Mojolicious::Plugin::BarefootJS::DevReload v0.38.0  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.38.0.tar.gz
+Mojolicious::Plugin::BarefootJS v0.39.0  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.0.tar.gz
+Mojolicious::Plugin::BarefootJS::DevReload v0.39.0  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.0.tar.gz
 Mojolicious::Plugin::BasicAuth     0.08  T/TE/TEMPIRE/Mojolicious-Plugin-BasicAuth-0.08.tar.gz
 Mojolicious::Plugin::BasicAuthPlus  1.0  B/BL/BLR/Mojolicious-Plugin-BasicAuthPlus-1.0.tar.gz
 Mojolicious::Plugin::Bcrypt        0.14  M/MI/MINIMAL/Mojolicious-Plugin-Bcrypt-0.14.tar.gz
@@ -148027,8 +148027,8 @@ Net::OpenSSH::Compat::SSH2::File   0.09  S/SA/SALVA/Net-OpenSSH-Compat-0.09.tar.
 Net::OpenSSH::Compat::SSH2::SFTP   0.09  S/SA/SALVA/Net-OpenSSH-Compat-0.09.tar.gz
 Net::OpenSSH::ConnectionCache     undef  S/SA/SALVA/Net-OpenSSH-0.84.tar.gz
 Net::OpenSSH::ModuleLoader        undef  S/SA/SALVA/Net-OpenSSH-0.84.tar.gz
-Net::OpenSSH::More                 1.04  T/TE/TEODESIAN/Net-OpenSSH-More-1.04.tar.gz
-Net::OpenSSH::More::Linux          1.04  T/TE/TEODESIAN/Net-OpenSSH-More-1.04.tar.gz
+Net::OpenSSH::More                 1.05  T/TE/TEODESIAN/Net-OpenSSH-More-1.05.tar.gz
+Net::OpenSSH::More::Linux          1.05  T/TE/TEODESIAN/Net-OpenSSH-More-1.05.tar.gz
 Net::OpenSSH::ObjectRemote        undef  S/SA/SALVA/Net-OpenSSH-0.84.tar.gz
 Net::OpenSSH::Parallel             0.14  S/SA/SALVA/Net-OpenSSH-Parallel-0.14.tar.gz
 Net::OpenSSH::Parallel::Constants  0.12  S/SA/SALVA/Net-OpenSSH-Parallel-0.14.tar.gz
