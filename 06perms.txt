@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668042
+Line-Count:  668043
 Written-By:  PAUSE version 1.005
-Date:        Mon, 28 Sep 2026 07:42:20 GMT
+Date:        Mon, 28 Sep 2026 09:29:10 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -108201,8 +108201,9 @@ DBIx::Class::Storage::Debug::PrettyPrint,ELLIOTT,c
 DBIx::Class::Storage::Debug::PrettyPrint,ETHER,c
 DBIx::Class::Storage::Debug::PrettyPrint,FLORA,c
 DBIx::Class::Storage::Debug::PrettyPrint,FREW,c
+DBIx::Class::Storage::Debug::PrettyPrint,GETTY,f
 DBIx::Class::Storage::Debug::PrettyPrint,HAARG,c
-DBIx::Class::Storage::Debug::PrettyPrint,ILMARI,f
+DBIx::Class::Storage::Debug::PrettyPrint,ILMARI,c
 DBIx::Class::Storage::Debug::PrettyPrint,JJNAPIORK,c
 DBIx::Class::Storage::Debug::PrettyPrint,MITHALDU,c
 DBIx::Class::Storage::Debug::PrettyPrint,NWIGER,c
