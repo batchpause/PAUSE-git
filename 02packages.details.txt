@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261416
-Last-Updated: Tue, 29 Sep 2026 22:29:02 GMT
+Last-Updated: Tue, 29 Sep 2026 23:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -55505,7 +55505,7 @@ Data::Microformat::hCard::organization 0.04  U/US/USSJOIN/Data-Microformat-0.04.
 Data::Microformat::hCard::type     0.04  U/US/USSJOIN/Data-Microformat-0.04.tar.gz
 Data::Microformat::hFeed          undef  U/US/USSJOIN/Data-Microformat-0.04.tar.gz
 Data::Microformat::hFeed::hEntry  undef  U/US/USSJOIN/Data-Microformat-0.04.tar.gz
-Data::MinHash::Shared              0.04  E/EG/EGOR/Data-MinHash-Shared-0.04.tar.gz
+Data::MinHash::Shared              0.05  E/EG/EGOR/Data-MinHash-Shared-0.05.tar.gz
 Data::MiniDumpX                0.000001  P/PE/PERLANCAR/Data-MiniDumpX-0.000001.tar.gz
 Data::Mining::Apriori              0.18  A/AG/AGRACIANO/Data-Mining-Apriori-0.18.tar.gz
 Data::Mining::AssociationRules      0.1  D/DF/DFRANKOW/Data-Mining-AssociationRules-0.10.tar.gz
