@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261405
-Last-Updated: Tue, 29 Sep 2026 02:17:02 GMT
+Last-Updated: Tue, 29 Sep 2026 06:41:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -107850,13 +107850,13 @@ Internals                           1.1  S/ST/STBEY/Internals-1.1.tar.gz
 Internals::CountObjects            0.05  J/JJ/JJORE/Internals-CountObjects-0.05.tar.gz
 Internals::DumpArenas              0.12  J/JJ/JJORE/Internals-DumpArenas-0.12.tar.gz
 Internals::GraphArenas             0.01  J/JJ/JJORE/Internals-GraphArenas-0.01.tar.gz
-InternetData                   1.007000  M/MS/MSLM/InternetData-1.7.0.tar.gz
-InternetData::Database         1.007000  M/MS/MSLM/InternetData-1.7.0.tar.gz
-InternetData::Error            1.007000  M/MS/MSLM/InternetData-1.7.0.tar.gz
-InternetData::Oauth            1.007000  M/MS/MSLM/InternetData-1.7.0.tar.gz
-InternetData::OauthAccessDeniedError 1.007000  M/MS/MSLM/InternetData-1.7.0.tar.gz
-InternetData::OauthError       1.007000  M/MS/MSLM/InternetData-1.7.0.tar.gz
-InternetData::OauthExpiredTokenError 1.007000  M/MS/MSLM/InternetData-1.7.0.tar.gz
+InternetData                   1.007001  M/MS/MSLM/InternetData-1.7.1.tar.gz
+InternetData::Database         1.007001  M/MS/MSLM/InternetData-1.7.1.tar.gz
+InternetData::Error            1.007001  M/MS/MSLM/InternetData-1.7.1.tar.gz
+InternetData::Oauth            1.007001  M/MS/MSLM/InternetData-1.7.1.tar.gz
+InternetData::OauthAccessDeniedError 1.007001  M/MS/MSLM/InternetData-1.7.1.tar.gz
+InternetData::OauthError       1.007001  M/MS/MSLM/InternetData-1.7.1.tar.gz
+InternetData::OauthExpiredTokenError 1.007001  M/MS/MSLM/InternetData-1.7.1.tar.gz
 Interpolation                      0.74  J/JE/JENDA/Interpolation-0.74.tar.gz
 Interpolation::A2A                 0.71  J/JE/JENDA/Interpolation-0.71.tar.gz
 Interpolation::A2S                 0.71  J/JE/JENDA/Interpolation-0.71.tar.gz
