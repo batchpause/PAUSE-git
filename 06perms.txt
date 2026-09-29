@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668055
+Line-Count:  668083
 Written-By:  PAUSE version 1.005
-Date:        Tue, 29 Sep 2026 20:17:45 GMT
+Date:        Tue, 29 Sep 2026 22:30:23 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -566118,6 +566118,10 @@ SNMP::Info::CiscoAgg,CVICENTE,c
 SNMP::Info::CiscoAgg,EMILLER,c
 SNMP::Info::CiscoAgg,MAXB,c
 SNMP::Info::CiscoAgg,OLIVER,f
+SNMP::Info::CiscoAuthFramework,CVICENTE,c
+SNMP::Info::CiscoAuthFramework,EMILLER,c
+SNMP::Info::CiscoAuthFramework,MAXB,c
+SNMP::Info::CiscoAuthFramework,OLIVER,f
 SNMP::Info::CiscoBGP,CVICENTE,c
 SNMP::Info::CiscoBGP,EMILLER,c
 SNMP::Info::CiscoBGP,MAXB,c
@@ -566326,6 +566330,10 @@ SNMP::Info::Layer2::Kentrox,CVICENTE,c
 SNMP::Info::Layer2::Kentrox,EMILLER,c
 SNMP::Info::Layer2::Kentrox,MAXB,c
 SNMP::Info::Layer2::Kentrox,OLIVER,f
+SNMP::Info::Layer2::Microsens,CVICENTE,c
+SNMP::Info::Layer2::Microsens,EMILLER,c
+SNMP::Info::Layer2::Microsens,MAXB,c
+SNMP::Info::Layer2::Microsens,OLIVER,f
 SNMP::Info::Layer2::N2270,CVICENTE,c
 SNMP::Info::Layer2::N2270,EMILLER,c
 SNMP::Info::Layer2::N2270,MAXB,c
@@ -566498,6 +566506,10 @@ SNMP::Info::Layer3::F5,CVICENTE,c
 SNMP::Info::Layer3::F5,EMILLER,c
 SNMP::Info::Layer3::F5,MAXB,c
 SNMP::Info::Layer3::F5,OLIVER,f
+SNMP::Info::Layer3::F5OS,CVICENTE,c
+SNMP::Info::Layer3::F5OS,EMILLER,c
+SNMP::Info::Layer3::F5OS,MAXB,c
+SNMP::Info::Layer3::F5OS,OLIVER,f
 SNMP::Info::Layer3::Force10,CVICENTE,c
 SNMP::Info::Layer3::Force10,EMILLER,c
 SNMP::Info::Layer3::Force10,MAXB,c
@@ -566534,6 +566546,10 @@ SNMP::Info::Layer3::Juniper,CVICENTE,c
 SNMP::Info::Layer3::Juniper,EMILLER,c
 SNMP::Info::Layer3::Juniper,MAXB,c
 SNMP::Info::Layer3::Juniper,OLIVER,f
+SNMP::Info::Layer3::Lancom,CVICENTE,c
+SNMP::Info::Layer3::Lancom,EMILLER,c
+SNMP::Info::Layer3::Lancom,MAXB,c
+SNMP::Info::Layer3::Lancom,OLIVER,f
 SNMP::Info::Layer3::Lantronix,CVICENTE,c
 SNMP::Info::Layer3::Lantronix,EMILLER,c
 SNMP::Info::Layer3::Lantronix,MAXB,c
@@ -566614,6 +566630,10 @@ SNMP::Info::Layer3::SonicWALL,CVICENTE,c
 SNMP::Info::Layer3::SonicWALL,EMILLER,c
 SNMP::Info::Layer3::SonicWALL,MAXB,c
 SNMP::Info::Layer3::SonicWALL,OLIVER,f
+SNMP::Info::Layer3::Sophos,CVICENTE,c
+SNMP::Info::Layer3::Sophos,EMILLER,c
+SNMP::Info::Layer3::Sophos,MAXB,c
+SNMP::Info::Layer3::Sophos,OLIVER,f
 SNMP::Info::Layer3::Steelfusion,CVICENTE,c
 SNMP::Info::Layer3::Steelfusion,EMILLER,c
 SNMP::Info::Layer3::Steelfusion,MAXB,c
@@ -566678,6 +566698,10 @@ SNMP::Info::Layer7::HWGroup,CVICENTE,c
 SNMP::Info::Layer7::HWGroup,EMILLER,c
 SNMP::Info::Layer7::HWGroup,MAXB,c
 SNMP::Info::Layer7::HWGroup,OLIVER,f
+SNMP::Info::Layer7::Kemp,CVICENTE,c
+SNMP::Info::Layer7::Kemp,EMILLER,c
+SNMP::Info::Layer7::Kemp,MAXB,c
+SNMP::Info::Layer7::Kemp,OLIVER,f
 SNMP::Info::Layer7::Liebert,CVICENTE,c
 SNMP::Info::Layer7::Liebert,EMILLER,c
 SNMP::Info::Layer7::Liebert,MAXB,c
@@ -566690,6 +566714,10 @@ SNMP::Info::Layer7::Netscaler,CVICENTE,c
 SNMP::Info::Layer7::Netscaler,EMILLER,c
 SNMP::Info::Layer7::Netscaler,MAXB,c
 SNMP::Info::Layer7::Netscaler,OLIVER,f
+SNMP::Info::Layer7::QNAP,CVICENTE,c
+SNMP::Info::Layer7::QNAP,EMILLER,c
+SNMP::Info::Layer7::QNAP,MAXB,c
+SNMP::Info::Layer7::QNAP,OLIVER,f
 SNMP::Info::Layer7::Stormshield,CVICENTE,c
 SNMP::Info::Layer7::Stormshield,EMILLER,c
 SNMP::Info::Layer7::Stormshield,MAXB,c
