@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261407
-Last-Updated: Tue, 29 Sep 2026 17:41:02 GMT
+Last-Updated: Tue, 29 Sep 2026 18:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -54862,7 +54862,7 @@ Data::HTML::Footer                 0.02  S/SK/SKIM/Data-HTML-Footer-0.02.tar.gz
 Data::HTML::TreeDumper           v0.0.4  T/TA/TAKEASH/Data-HTML-TreeDumper-v0.0.4.tar.gz
 Data::HTMLDumper                   0.08  P/PH/PHILCROW/Data-HTMLDumper-0.08.tar.gz
 Data::HTMLDumper::Output           0.01  P/PH/PHILCROW/Data-HTMLDumper-0.08.tar.gz
-Data::HyperLogLog::Shared          0.05  E/EG/EGOR/Data-HyperLogLog-Shared-0.05.tar.gz
+Data::HyperLogLog::Shared          0.06  E/EG/EGOR/Data-HyperLogLog-Shared-0.06.tar.gz
 Data::ICal                         0.24  B/BP/BPS/Data-ICal-0.24.tar.gz
 Data::ICal::DateTime               0.82  F/FG/FGLOCK/Data-ICal-DateTime-0.82.tar.gz
 Data::ICal::DAVAdapter             0.03  C/CO/CORION/Meetup-API-0.03.tar.gz
