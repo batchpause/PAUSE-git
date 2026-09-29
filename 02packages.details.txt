@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261405
-Last-Updated: Mon, 28 Sep 2026 23:54:26 GMT
+Last-Updated: Tue, 29 Sep 2026 01:54:12 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -58582,7 +58582,7 @@ Database::BI::Model::DataSource   0.009  N/NH/NHORNE/Database-BI-0.009.0.tar.gz
 Database::Cassandra::Client           1  L/LA/LASTMAC/Database-Cassandra-Client-1.tar.gz
 Database::DumpTruck                 1.2  L/LK/LKUNDRAK/Database-DumpTruck-1.2.tar.gz
 Database::Format::Text             1.03  D/DE/DEVDOS/Database-Format-Text-1.03.tar.gz
-Database::Join                 0.007001  N/NH/NHORNE/Database-Join-0.007.1.tar.gz
+Database::Join                    0.008  N/NH/NHORNE/Database-Join-0.008.0.tar.gz
 Database::ManagedHandle           0.003  M/MI/MIKKOI/Database-ManagedHandle-0.003.tar.gz
 Database::Migrator                 0.14  M/MA/MAXMIND/Database-Migrator-0.14.tar.gz
 Database::Migrator::Core           0.14  M/MA/MAXMIND/Database-Migrator-0.14.tar.gz
