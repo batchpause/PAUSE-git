@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261405
-Last-Updated: Tue, 29 Sep 2026 11:29:01 GMT
+Line-Count:   261406
+Last-Updated: Tue, 29 Sep 2026 12:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -53553,6 +53553,7 @@ DarkPAN::Indexer::Format::SQLite      0  B/BI/BIGFOOT/DarkPAN-Indexer-1.0.2.tar.
 DarkPAN::Indexer::Storage             0  B/BI/BIGFOOT/DarkPAN-Indexer-1.0.2.tar.gz
 DarkPAN::Indexer::Storage::Filesystem 0  B/BI/BIGFOOT/DarkPAN-Indexer-1.0.2.tar.gz
 DarkPAN::Indexer::Storage::S3         0  B/BI/BIGFOOT/DarkPAN-Indexer-1.0.2.tar.gz
+DarkPAN::Resolver::SQLite        v1.0.2  B/BI/BIGFOOT/DarkPAN-Resolver-SQLite-1.0.2.tar.gz
 DarkPAN::Utils                   v1.1.0  B/BI/BIGFOOT/DarkPAN-Utils-1.1.0.tar.gz
 DarkPAN::Utils::Docs             v1.1.0  B/BI/BIGFOOT/DarkPAN-Utils-1.1.0.tar.gz
 DarkSky::API                   1.001005  M/MA/MARTYLOO/DarkSky-API-1.1.5.tar.gz
