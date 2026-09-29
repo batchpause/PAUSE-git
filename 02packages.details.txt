@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261409
-Last-Updated: Tue, 29 Sep 2026 21:53:50 GMT
+Last-Updated: Tue, 29 Sep 2026 22:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -55395,7 +55395,7 @@ Data::Localize::Util              undef  D/DM/DMAKI/Data-Localize-0.00028.tar.gz
 Data::Localize::YAML              0.002  B/BR/BRTASTIC/Data-Localize-YAML-0.002.tar.gz
 Data::Locations                     5.5  S/ST/STBEY/Data-Locations-5.5.tar.gz
 Data::Lock                         1.03  D/DA/DANKOGAI/Data-Lock-1.03.tar.gz
-Data::Log::Shared                  0.07  E/EG/EGOR/Data-Log-Shared-0.07.tar.gz
+Data::Log::Shared                  0.08  E/EG/EGOR/Data-Log-Shared-0.08.tar.gz
 Data::Login                        0.05  S/SK/SKIM/Data-Login-0.05.tar.gz
 Data::Login::Role                  0.05  S/SK/SKIM/Data-Login-0.05.tar.gz
 Data::Lotter                    0.00004  K/KA/KASHIWABA/Data-Lotter-0.00004.tar.gz
