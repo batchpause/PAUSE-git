@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261407
-Last-Updated: Tue, 29 Sep 2026 18:17:01 GMT
+Line-Count:   261408
+Last-Updated: Tue, 29 Sep 2026 19:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -56466,8 +56466,8 @@ Data::PcAxis                   0.000007  F/FO/FOD/Data-PcAxis-0.0.7.tar.gz
 Data::Peek                         0.54  H/HM/HMBRAND/Data-Peek-0.54.tgz
 Data::Pensieve                     0.03  A/AQ/AQUILINA/Data-Pensieve-0.03a.tar.gz
 Data::Pensieve::Revision          undef  A/AQ/AQUILINA/Data-Pensieve-0.03a.tar.gz
-Data::PerfectHash::Shared          0.02  E/EG/EGOR/Data-PerfectHash-Shared-0.02.tar.gz
-Data::PerfectHash::Shared::Builder 0.02  E/EG/EGOR/Data-PerfectHash-Shared-0.02.tar.gz
+Data::PerfectHash::Shared          0.03  E/EG/EGOR/Data-PerfectHash-Shared-0.03.tar.gz
+Data::PerfectHash::Shared::Builder 0.03  E/EG/EGOR/Data-PerfectHash-Shared-0.03.tar.gz
 Data::Perl                     0.002011  T/TO/TOBYINK/Data-Perl-0.002011.tar.gz
 Data::Perl::Bool               0.002011  T/TO/TOBYINK/Data-Perl-0.002011.tar.gz
 Data::Perl::Bool::MooseLike    0.001009  T/TO/TOBYINK/MooX-HandlesVia-0.001009.tar.gz
@@ -228785,6 +228785,7 @@ Test::JavaScript                   0.06  K/KE/KEVINJ/Test-JavaScript-0.06.tar.gz
 Test::JavaScript::More            undef  C/CL/CLAESJAC/JavaScript-1.16.tar.gz
 Test::JSON                         0.11  O/OV/OVID/Test-JSON-0.11.tar.gz
 Test::JSON::Assert                undef  S/SG/SGREEN/JSON-Assert-0.08.tar.gz
+Test::JSON::Diff                   0.01  P/PL/PLICEASE/Test-JSON-Diff-0.01.tar.gz
 Test::JSON::Entails                 0.2  V/VO/VOJ/Test-JSON-Entails-0.2.tar.gz
 Test::JSON::More                   0.02  B/BA/BAYASHI/Test-JSON-More-0.02.tar.gz
 Test::JSON::RPC::Autodoc           0.15  Y/YU/YUSUKEBE/Test-JSON-RPC-Autodoc-0.15.tar.gz
