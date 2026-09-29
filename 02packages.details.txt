@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261407
-Last-Updated: Tue, 29 Sep 2026 16:17:02 GMT
+Last-Updated: Tue, 29 Sep 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -53954,7 +53954,7 @@ Data::BitStream::Vec               0.08  D/DA/DANAJ/Data-BitStream-0.08.tar.gz
 Data::BitStream::WordVec           0.08  D/DA/DANAJ/Data-BitStream-0.08.tar.gz
 Data::BitStream::XS                0.08  D/DA/DANAJ/Data-BitStream-XS-0.08.tar.gz
 Data::BLNS                     20182514.062550  D/DC/DCONWAY/Data-BLNS-20182514.062550.tar.gz
-Data::BloomFilter::Shared          0.06  E/EG/EGOR/Data-BloomFilter-Shared-0.06.tar.gz
+Data::BloomFilter::Shared          0.07  E/EG/EGOR/Data-BloomFilter-Shared-0.07.tar.gz
 Data::Bool                      2.98014  F/FE/FERREIRA/Data-Bool-2.98014.tar.gz
 Data::Bool::Impl                2.98014  F/FE/FERREIRA/Data-Bool-2.98014.tar.gz
 Data::BT::PhoneBill                1.00  T/TM/TMTM/Data-BT-PhoneBill-1.00.tar.gz
