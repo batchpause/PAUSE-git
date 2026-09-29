@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261407
-Last-Updated: Tue, 29 Sep 2026 17:17:02 GMT
+Last-Updated: Tue, 29 Sep 2026 17:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -67826,7 +67826,7 @@ Dist::Zilla::Plugin::Author::CSSON::GithubActions 0.0107  C/CS/CSSON/Dist-Zilla-
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::BaseWorkflow 0.0103  C/CS/CSSON/Dist-Zilla-Plugin-Author-CSSON-GithubActions-0.0103.tar.gz
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::Role::Workflow 0.0103  C/CS/CSSON/Dist-Zilla-Plugin-Author-CSSON-GithubActions-0.0103.tar.gz
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::Workflow::TestWithMakefile 0.0107  C/CS/CSSON/Dist-Zilla-Plugin-Author-CSSON-GithubActions-0.0107.tar.gz
-Dist::Zilla::Plugin::Author::GETTY::GiteaMeta 0.325  G/GE/GETTY/Dist-Zilla-PluginBundle-Author-GETTY-0.325.tar.gz
+Dist::Zilla::Plugin::Author::GETTY::GiteaMeta 0.326  G/GE/GETTY/Dist-Zilla-PluginBundle-Author-GETTY-0.326.tar.gz
 Dist::Zilla::Plugin::Author::GSG v0.6.2  G/GS/GSG/Dist-Zilla-PluginBundle-Author-GSG-v0.6.2.tar.gz
 Dist::Zilla::Plugin::Author::GSG::HasVersionTests v0.6.2  G/GS/GSG/Dist-Zilla-PluginBundle-Author-GSG-v0.6.2.tar.gz
 Dist::Zilla::Plugin::Author::HAYOBAAN::LinkCheck 0.016  H/HA/HAYOBAAN/Dist-Zilla-PluginBundle-Author-HAYOBAAN-0.016.tar.gz
@@ -68587,8 +68587,8 @@ Dist::Zilla::PluginBundle::Author::DOMM 0.912  D/DO/DOMM/Dist-Zilla-PluginBundle
 Dist::Zilla::PluginBundle::Author::ETHER 0.174  E/ET/ETHER/Dist-Zilla-PluginBundle-Author-ETHER-0.174.tar.gz
 Dist::Zilla::PluginBundle::Author::FERREIRA v0.4.0  F/FE/FERREIRA/Dist-Zilla-PluginBundle-Author-FERREIRA-0.4.0.tar.gz
 Dist::Zilla::PluginBundle::Author::GABRIEL 0.01  G/GA/GABRIEL/Dist-Zilla-PluginBundle-Author-GABRIEL-0.01.tar.gz
-Dist::Zilla::PluginBundle::Author::GETTY 0.325  G/GE/GETTY/Dist-Zilla-PluginBundle-Author-GETTY-0.325.tar.gz
-Dist::Zilla::PluginBundle::Author::GETTY::Docker 0.325  G/GE/GETTY/Dist-Zilla-PluginBundle-Author-GETTY-0.325.tar.gz
+Dist::Zilla::PluginBundle::Author::GETTY 0.326  G/GE/GETTY/Dist-Zilla-PluginBundle-Author-GETTY-0.326.tar.gz
+Dist::Zilla::PluginBundle::Author::GETTY::Docker 0.326  G/GE/GETTY/Dist-Zilla-PluginBundle-Author-GETTY-0.326.tar.gz
 Dist::Zilla::PluginBundle::Author::GSG v0.6.2  G/GS/GSG/Dist-Zilla-PluginBundle-Author-GSG-v0.6.2.tar.gz
 Dist::Zilla::PluginBundle::Author::GTERMARS 0.06  G/GT/GTERMARS/Dist-Zilla-PluginBundle-Author-GTERMARS-0.06.tar.gz
 Dist::Zilla::PluginBundle::Author::HAYOBAAN 0.016  H/HA/HAYOBAAN/Dist-Zilla-PluginBundle-Author-HAYOBAAN-0.016.tar.gz
@@ -195319,7 +195319,7 @@ Pod::Elemental::Paragraph      0.103006  R/RJ/RJBS/Pod-Elemental-0.103006.tar.gz
 Pod::Elemental::PerlMunger     0.200007  R/RJ/RJBS/Pod-Elemental-PerlMunger-0.200007.tar.gz
 Pod::Elemental::Selectors      0.103006  R/RJ/RJBS/Pod-Elemental-0.103006.tar.gz
 Pod::Elemental::Transformer    0.103006  R/RJ/RJBS/Pod-Elemental-0.103006.tar.gz
-Pod::Elemental::Transformer::Author::GETTY 0.325  G/GE/GETTY/Dist-Zilla-PluginBundle-Author-GETTY-0.325.tar.gz
+Pod::Elemental::Transformer::Author::GETTY 0.326  G/GE/GETTY/Dist-Zilla-PluginBundle-Author-GETTY-0.326.tar.gz
 Pod::Elemental::Transformer::Codebox 0.101001  R/RJ/RJBS/Pod-Elemental-Transformer-SynHi-0.101001.tar.gz
 Pod::Elemental::Transformer::Cowl_GenDoc undef  Z/ZM/ZMUGHAL/RDF-Cowl-1.0.0.tar.gz
 Pod::Elemental::Transformer::Ditaa 0.001006  F/FR/FREW/Pod-Weaver-Plugin-Ditaa-0.001006.tar.gz
@@ -195841,7 +195841,7 @@ Pod::Weaver::PluginBundle::Author::CCM 0.012  C/CC/CCM/Dist-Zilla-PluginBundle-A
 Pod::Weaver::PluginBundle::Author::CSSON 0.1101  C/CS/CSSON/Pod-Weaver-PluginBundle-Author-CSSON-0.1101.tar.gz
 Pod::Weaver::PluginBundle::Author::DOHERTY 0.010  D/DO/DOHERTY/Pod-Weaver-PluginBundle-Author-DOHERTY-0.010.tar.gz
 Pod::Weaver::PluginBundle::Author::ETHER 0.174  E/ET/ETHER/Dist-Zilla-PluginBundle-Author-ETHER-0.174.tar.gz
-Pod::Weaver::PluginBundle::Author::GETTY 0.325  G/GE/GETTY/Dist-Zilla-PluginBundle-Author-GETTY-0.325.tar.gz
+Pod::Weaver::PluginBundle::Author::GETTY 0.326  G/GE/GETTY/Dist-Zilla-PluginBundle-Author-GETTY-0.326.tar.gz
 Pod::Weaver::PluginBundle::Author::HAYOBAAN 0.016  H/HA/HAYOBAAN/Dist-Zilla-PluginBundle-Author-HAYOBAAN-0.016.tar.gz
 Pod::Weaver::PluginBundle::Author::IOANR 1.230480  I/IO/IOANR/Dist-Zilla-PluginBundle-Author-IOANR-1.230480.tar.gz
 Pod::Weaver::PluginBundle::Author::KENTNL 0.001003  K/KE/KENTNL/Pod-Weaver-PluginBundle-Author-KENTNL-0.001003.tar.gz
