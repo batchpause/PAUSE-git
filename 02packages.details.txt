@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261425
-Last-Updated: Wed, 30 Sep 2026 05:29:01 GMT
+Last-Updated: Wed, 30 Sep 2026 06:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -53961,18 +53961,18 @@ Data::BT::PhoneBill                1.00  T/TM/TMTM/Data-BT-PhoneBill-1.00.tar.gz
 Data::BT::PhoneBill::_Call         1.00  T/TM/TMTM/Data-BT-PhoneBill-1.00.tar.gz
 Data::Bucketeer                   0.006  R/RJ/RJBS/Data-Bucketeer-0.006.tar.gz
 Data::Buffer                       0.06  T/TI/TIMLEGGE/Data-Buffer-0.06.tar.gz
-Data::Buffer::Shared               0.08  E/EG/EGOR/Data-Buffer-Shared-0.08.tar.gz
-Data::Buffer::Shared::F32          0.08  E/EG/EGOR/Data-Buffer-Shared-0.08.tar.gz
-Data::Buffer::Shared::F64          0.08  E/EG/EGOR/Data-Buffer-Shared-0.08.tar.gz
-Data::Buffer::Shared::I16          0.08  E/EG/EGOR/Data-Buffer-Shared-0.08.tar.gz
-Data::Buffer::Shared::I32          0.08  E/EG/EGOR/Data-Buffer-Shared-0.08.tar.gz
-Data::Buffer::Shared::I64          0.08  E/EG/EGOR/Data-Buffer-Shared-0.08.tar.gz
-Data::Buffer::Shared::I8           0.08  E/EG/EGOR/Data-Buffer-Shared-0.08.tar.gz
-Data::Buffer::Shared::Str          0.08  E/EG/EGOR/Data-Buffer-Shared-0.08.tar.gz
-Data::Buffer::Shared::U16          0.08  E/EG/EGOR/Data-Buffer-Shared-0.08.tar.gz
-Data::Buffer::Shared::U32          0.08  E/EG/EGOR/Data-Buffer-Shared-0.08.tar.gz
-Data::Buffer::Shared::U64          0.08  E/EG/EGOR/Data-Buffer-Shared-0.08.tar.gz
-Data::Buffer::Shared::U8           0.08  E/EG/EGOR/Data-Buffer-Shared-0.08.tar.gz
+Data::Buffer::Shared               0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
+Data::Buffer::Shared::F32          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
+Data::Buffer::Shared::F64          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
+Data::Buffer::Shared::I16          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
+Data::Buffer::Shared::I32          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
+Data::Buffer::Shared::I64          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
+Data::Buffer::Shared::I8           0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
+Data::Buffer::Shared::Str          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
+Data::Buffer::Shared::U16          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
+Data::Buffer::Shared::U32          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
+Data::Buffer::Shared::U64          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
+Data::Buffer::Shared::U8           0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
 Data::Bvec                         1.01  B/BB/BBAXTER/Data-Bvec-1.01.tar.gz
 Data::BytesLocker              v1.0.8.0  A/AJ/AJGB/Crypt-NaCl-Sodium-1.0.8.0.tar.gz
 Data::CapabilityBased          0.001000  M/MS/MSTROUT/Data-CapabilityBased-0.001000.tar.gz
