@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261425
-Last-Updated: Wed, 30 Sep 2026 10:54:22 GMT
+Last-Updated: Wed, 30 Sep 2026 11:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -56711,7 +56711,7 @@ Data::Radius::DictionaryParser    undef  P/PO/PORTAONE/Data-Radius-1.2.9.tar.gz
 Data::Radius::Encode              undef  P/PO/PORTAONE/Data-Radius-1.2.9.tar.gz
 Data::Radius::Packet              undef  P/PO/PORTAONE/Data-Radius-1.2.9.tar.gz
 Data::Radius::Util                undef  P/PO/PORTAONE/Data-Radius-1.2.9.tar.gz
-Data::RadixTree::Shared            0.05  E/EG/EGOR/Data-RadixTree-Shared-0.05.tar.gz
+Data::RadixTree::Shared            0.06  E/EG/EGOR/Data-RadixTree-Shared-0.06.tar.gz
 Data::Rand                     0.000004  D/DM/DMUEY/Data-Rand-0.0.4.tar.gz
 Data::Rand::Obscure               0.021  R/RK/RKRIMEN/Data-Rand-Obscure-0.021.tar.gz
 Data::Rand::Obscure::Generator    undef  R/RK/RKRIMEN/Data-Rand-Obscure-0.021.tar.gz
