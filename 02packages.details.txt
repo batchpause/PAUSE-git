@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261425
-Last-Updated: Wed, 30 Sep 2026 12:17:02 GMT
+Last-Updated: Wed, 30 Sep 2026 13:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -56659,11 +56659,11 @@ Data::Properties                   1.07  J/JV/JV/Data-Properties-1.07.tar.gz
 Data::Properties::JSON            0.004  J/JO/JOHND/Data-Properties-JSON-0.004.tar.gz
 Data::Properties::YAML             0.04  J/JO/JOHND/Data-Properties-YAML-0.04.tar.gz
 Data::PropertyList             1998.1217  E/EV/EVO/Data-PropertyList-1998.1217.tar.gz
-Data::PubSub::Shared               0.10  E/EG/EGOR/Data-PubSub-Shared-0.10.tar.gz
-Data::PubSub::Shared::Int          0.10  E/EG/EGOR/Data-PubSub-Shared-0.10.tar.gz
-Data::PubSub::Shared::Int16        0.10  E/EG/EGOR/Data-PubSub-Shared-0.10.tar.gz
-Data::PubSub::Shared::Int32        0.10  E/EG/EGOR/Data-PubSub-Shared-0.10.tar.gz
-Data::PubSub::Shared::Str          0.10  E/EG/EGOR/Data-PubSub-Shared-0.10.tar.gz
+Data::PubSub::Shared               0.11  E/EG/EGOR/Data-PubSub-Shared-0.11.tar.gz
+Data::PubSub::Shared::Int          0.11  E/EG/EGOR/Data-PubSub-Shared-0.11.tar.gz
+Data::PubSub::Shared::Int16        0.11  E/EG/EGOR/Data-PubSub-Shared-0.11.tar.gz
+Data::PubSub::Shared::Int32        0.11  E/EG/EGOR/Data-PubSub-Shared-0.11.tar.gz
+Data::PubSub::Shared::Str          0.11  E/EG/EGOR/Data-PubSub-Shared-0.11.tar.gz
 Data::Pulp                         0.01  R/RK/RKRIMEN/Data-Pulp-0.01.tar.gz
 Data::Pulp::Carp                  undef  R/RK/RKRIMEN/Data-Pulp-0.01.tar.gz
 Data::Pulp::Pulper                undef  R/RK/RKRIMEN/Data-Pulp-0.01.tar.gz
