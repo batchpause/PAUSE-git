@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261425
-Last-Updated: Wed, 30 Sep 2026 14:17:02 GMT
+Line-Count:   261426
+Last-Updated: Wed, 30 Sep 2026 14:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81206,14 +81206,14 @@ FusqlFS::Formatter::Htmltable     undef  K/KS/KSTEPME/FusqlFS-0.009.tar.gz
 FusqlFS::Formatter::Native        undef  K/KS/KSTEPME/FusqlFS-0.009.tar.gz
 FusqlFS::Interface                undef  K/KS/KSTEPME/FusqlFS-0.001.tar.gz
 FusqlFS::Version                  0.009  K/KS/KSTEPME/FusqlFS-0.009.tar.gz
-Future                             0.52  P/PE/PEVANS/Future-0.52.tar.gz
+Future                             0.53  P/PE/PEVANS/Future-0.53.tar.gz
 Future::AsyncAwait                 0.71  P/PE/PEVANS/Future-AsyncAwait-0.71.tar.gz
 Future::AsyncAwait::Awaitable      0.71  P/PE/PEVANS/Future-AsyncAwait-0.71.tar.gz
 Future::AsyncAwait::ExtensionBuilder 0.71  P/PE/PEVANS/Future-AsyncAwait-0.71.tar.gz
 Future::AsyncAwait::Hooks          0.02  P/PE/PEVANS/Future-AsyncAwait-Hooks-0.02.tar.gz
 Future::AsyncAwait::Metrics        0.01  P/PE/PEVANS/Future-AsyncAwait-Metrics-0.01.tar.gz
 Future::Buffer                     0.06  P/PE/PEVANS/Future-Buffer-0.06.tar.gz
-Future::Exception                  0.52  P/PE/PEVANS/Future-0.52.tar.gz
+Future::Exception                  0.53  P/PE/PEVANS/Future-0.53.tar.gz
 Future::HTTP                       0.17  C/CO/CORION/Future-HTTP-0.17.tar.gz
 Future::HTTP::AnyEvent             0.17  C/CO/CORION/Future-HTTP-0.17.tar.gz
 Future::HTTP::Handler              0.17  C/CO/CORION/Future-HTTP-0.17.tar.gz
@@ -81239,8 +81239,8 @@ Future::IO::Resolver::Using::Socket 0.04  P/PE/PEVANS/Future-IO-Resolver-0.04.ta
 Future::IO::System                 0.23  P/PE/PEVANS/Future-IO-0.23.tar.gz
 Future::IO::TLS                   0.001  L/LE/LEONT/Future-IO-TLS-0.001.tar.gz
 Future::Mojo                      1.003  D/DB/DBOOK/Future-Mojo-1.003.tar.gz
-Future::Mutex                      0.52  P/PE/PEVANS/Future-0.52.tar.gz
-Future::PP                         0.52  P/PE/PEVANS/Future-0.52.tar.gz
+Future::Mutex                      0.53  P/PE/PEVANS/Future-0.53.tar.gz
+Future::PP                         0.53  P/PE/PEVANS/Future-0.53.tar.gz
 Future::Q                         0.120  T/TO/TOSHIOITO/Future-Q-0.120.tar.gz
 Future::Queue                      0.52  P/PE/PEVANS/Future-Queue-0.52.tar.gz
 Future::Role::Promisify           1.003  D/DB/DBOOK/Future-Mojo-1.003.tar.gz
@@ -81248,7 +81248,7 @@ Future::Selector                   0.05  P/PE/PEVANS/Future-Selector-0.05.tar.gz
 Future::Uring                     0.005  L/LE/LEONT/Future-Uring-0.005.tar.gz
 Future::Uring::Exception          0.005  L/LE/LEONT/Future-Uring-0.005.tar.gz
 Future::Uring::Handle             0.005  L/LE/LEONT/Future-Uring-0.005.tar.gz
-Future::Utils                      0.52  P/PE/PEVANS/Future-0.52.tar.gz
+Future::Utils                      0.53  P/PE/PEVANS/Future-0.53.tar.gz
 Future::Workflow                   0.02  P/PE/PEVANS/Future-Workflow-0.02.tar.gz
 Future::Workflow::Pipeline         0.02  P/PE/PEVANS/Future-Workflow-0.02.tar.gz
 Future::XS                         0.15  P/PE/PEVANS/Future-XS-0.15.tar.gz
@@ -228678,9 +228678,9 @@ test::fuse28::Directory           undef  T/TO/TOSHIFJW/Fuse-Class-0.03.tar.gz
 test::fuse28::Entity              undef  T/TO/TOSHIFJW/Fuse-Class-0.03.tar.gz
 test::fuse28::File                undef  T/TO/TOSHIFJW/Fuse-Class-0.03.tar.gz
 test::fuse28::Symlink             undef  T/TO/TOSHIFJW/Fuse-Class-0.03.tar.gz
-Test::Future                       0.52  P/PE/PEVANS/Future-0.52.tar.gz
+Test::Future                       0.53  P/PE/PEVANS/Future-0.53.tar.gz
 Test::Future::AsyncAwait::Awaitable 0.71  P/PE/PEVANS/Future-AsyncAwait-0.71.tar.gz
-Test::Future::Deferred             0.52  P/PE/PEVANS/Future-0.52.tar.gz
+Test::Future::Deferred             0.53  P/PE/PEVANS/Future-0.53.tar.gz
 Test::Future::IO                   0.07  P/PE/PEVANS/Test-Future-IO-0.07.tar.gz
 Test::Future::IO::Impl             0.21  P/PE/PEVANS/Test-Future-IO-Impl-0.21.tar.gz
 Test::Games::BonDigi               0.02  C/CO/COSIMO/Games-BonDigi-0.02.tar.gz
@@ -229328,6 +229328,7 @@ Test::Perl::Tags                   0.32  O/OS/OSFAMERON/Perl-Tags-0.32.tar.gz
 Test::PerlTidy                 20260110  S/SH/SHLOMIF/Test-PerlTidy-20260110.tar.gz
 Test::PerlTidy::Concurrent        undef  W/WT/WTERTIUS/Test-PerlTidy-Concurrent-0.1.1.tar.gz
 Test::PerlTidy::XTFiles           0.001  S/SK/SKIRMESS/Test-PerlTidy-XTFiles-0.001.tar.gz
+Test::Permissions                 0.001  N/NH/NHORNE/Test-Permissions-0.001.0.tar.gz
 Test::Ping                        0.210  X/XS/XSAWYERX/Test-Ping-0.210.tar.gz
 Test::Ping::Ties::BIND            0.210  X/XS/XSAWYERX/Test-Ping-0.210.tar.gz
 Test::Ping::Ties::HIRES           0.210  X/XS/XSAWYERX/Test-Ping-0.210.tar.gz
