@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261430
-Last-Updated: Wed, 30 Sep 2026 21:17:02 GMT
+Last-Updated: Wed, 30 Sep 2026 22:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -57887,7 +57887,7 @@ Data::Timeline::Formatter::HTML 1.100860  M/MA/MARCEL/Data-Timeline-1.100860.tar
 Data::Timeline::Formatter::SimpleTable 1.100860  M/MA/MARCEL/Data-Timeline-1.100860.tar.gz
 Data::TimeSeries                   0.53  T/TO/TOMMIE/Data-TimeSeries-0.53.tgz
 Data::TimeSeries::ChronoKey       undef  T/TO/TOMMIE/Data-TimeSeries-0.53.tgz
-Data::TimingWheel::Shared          0.03  E/EG/EGOR/Data-TimingWheel-Shared-0.03.tar.gz
+Data::TimingWheel::Shared          0.04  E/EG/EGOR/Data-TimingWheel-Shared-0.04.tar.gz
 Data::Token                    0.000003  S/SC/SCOTT/Data-Token-v0.0.3.tar.gz
 Data::Toolkit                       1.1  A/AF/AFINDLAY/Data-Toolkit-1.1.tar.gz
 Data::Toolkit::Connector            1.0  A/AF/AFINDLAY/Data-Toolkit-1.1.tar.gz
