@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261426
-Last-Updated: Wed, 30 Sep 2026 16:29:02 GMT
+Last-Updated: Wed, 30 Sep 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -55627,7 +55627,7 @@ Data::Multihash                    0.03  R/RI/RIGHTFOLD/Data-Multihash-0.03-fix.
 Data::MultiValuedHash             1.081  D/DU/DUNCAND/Data-MultiValuedHash-1.081.tar.gz
 Data::Munge                       0.111  M/MA/MAUKE/Data-Munge-0.111.tar.gz
 Data::Navigation::Item             0.02  S/SK/SKIM/Data-Navigation-Item-0.02.tar.gz
-Data::NDArray::Shared              0.05  E/EG/EGOR/Data-NDArray-Shared-0.05.tar.gz
+Data::NDArray::Shared              0.06  E/EG/EGOR/Data-NDArray-Shared-0.06.tar.gz
 Data::Nest                         0.06  M/MU/MUDDYDIXN/Data-Nest-0.06.tar.gz
 Data::Nested                       3.12  S/SB/SBECK/Data-Nested-3.12.tar.gz
 Data::Nested::Multiele             3.12  S/SB/SBECK/Data-Nested-3.12.tar.gz
@@ -204492,19 +204492,19 @@ rig::parser::yaml                  0.04  R/RO/RODRIGO/rig-0.04.tar.gz
 rig::task::modern                  0.04  R/RO/RODRIGO/rig-0.04.tar.gz
 rig::task::red                     0.04  R/RO/RODRIGO/rig-0.04.tar.gz
 RightScale::Query                 undef  M/MQ/MQTECH/RightScale-Query-0.201.tar.gz
-Riji                             v1.1.4  S/SO/SONGMU/Riji-v1.1.4.tar.gz
-Riji::CLI                         undef  S/SO/SONGMU/Riji-v1.1.4.tar.gz
-Riji::CLI::Help                   undef  S/SO/SONGMU/Riji-v1.1.4.tar.gz
-Riji::CLI::NewEntry               undef  S/SO/SONGMU/Riji-v1.1.4.tar.gz
-Riji::CLI::Publish                undef  S/SO/SONGMU/Riji-v1.1.4.tar.gz
+Riji                             v1.2.0  S/SO/SONGMU/Riji-v1.2.0.tar.gz
+Riji::CLI                         undef  S/SO/SONGMU/Riji-v1.2.0.tar.gz
+Riji::CLI::Help                   undef  S/SO/SONGMU/Riji-v1.2.0.tar.gz
+Riji::CLI::NewEntry               undef  S/SO/SONGMU/Riji-v1.2.0.tar.gz
+Riji::CLI::Publish                undef  S/SO/SONGMU/Riji-v1.2.0.tar.gz
 Riji::CLI::Publish::Scanner       undef  S/SO/SONGMU/Riji-v0.9.1.tar.gz
-Riji::CLI::Setup                  undef  S/SO/SONGMU/Riji-v1.1.4.tar.gz
-Riji::Model::Article              undef  S/SO/SONGMU/Riji-v1.1.4.tar.gz
-Riji::Model::Atom                 undef  S/SO/SONGMU/Riji-v1.1.4.tar.gz
-Riji::Model::Blog                 undef  S/SO/SONGMU/Riji-v1.1.4.tar.gz
-Riji::Model::Entry                undef  S/SO/SONGMU/Riji-v1.1.4.tar.gz
-Riji::Model::Tag                  undef  S/SO/SONGMU/Riji-v1.1.4.tar.gz
-Riji::Models                      undef  S/SO/SONGMU/Riji-v1.1.4.tar.gz
+Riji::CLI::Setup                  undef  S/SO/SONGMU/Riji-v1.2.0.tar.gz
+Riji::Model::Article              undef  S/SO/SONGMU/Riji-v1.2.0.tar.gz
+Riji::Model::Atom                 undef  S/SO/SONGMU/Riji-v1.2.0.tar.gz
+Riji::Model::Blog                 undef  S/SO/SONGMU/Riji-v1.2.0.tar.gz
+Riji::Model::Entry                undef  S/SO/SONGMU/Riji-v1.2.0.tar.gz
+Riji::Model::Tag                  undef  S/SO/SONGMU/Riji-v1.2.0.tar.gz
+Riji::Models                      undef  S/SO/SONGMU/Riji-v1.2.0.tar.gz
 Rinchi::CIGIPP                     0.02  B/BM/BMAMES/Rinchi-CIGIPP-0.02.tar.gz
 Rinchi::CIGIPP::AerosolConcentrationResponse 0.01  B/BM/BMAMES/Rinchi-CIGIPP-0.02.tar.gz
 Rinchi::CIGIPP::AnimationStopNotification 0.01  B/BM/BMAMES/Rinchi-CIGIPP-0.02.tar.gz
