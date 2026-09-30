@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261426
-Last-Updated: Wed, 30 Sep 2026 16:17:02 GMT
+Last-Updated: Wed, 30 Sep 2026 16:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -205849,7 +205849,7 @@ RT::Action::NotifyAtTicketLevelAsComment undef  T/TS/TSIBLEY/RT-Extension-Notify
 RT::Action::NotifyGroup            0.02  R/RU/RUZ/RT-Action-NotifyGroup-0.02.tar.gz
 RT::Action::NotifyGroupAsComment   0.01  R/RU/RUZ/RT-Action-NotifyGroup-0.02.tar.gz
 RT::Action::NotifyOwners          undef  I/ID/IDN/RT-Extension-NotifyOwners-0.02.tar.gz
-RT::Action::OwnerAwayReassign     undef  F/FI/FIREFART/RT-Extension-AwayMode-0.04.tar.gz
+RT::Action::OwnerAwayReassign     undef  F/FI/FIREFART/RT-Extension-AwayMode-0.05.tar.gz
 RT::Action::ParseACNS             undef  A/AL/ALEXMV/RT-Extension-ACNS-1.00.tar.gz
 RT::Action::PushoverNotify        undef  R/RI/RINGERC/RT/Extension/PushoverNotify/RT-Extension-PushoverNotify-0.01.tar.gz
 RT::Action::ReassignOwner         undef  F/FA/FALCONE/RT-Extension-ReassignOwner-0.01.tar.gz
@@ -205927,7 +205927,7 @@ RT::Condition::NotStartedInBusinessHours 0.3  B/BH/BHEISIG/RT-Condition-NotStart
 RT::Condition::OnAbandoned        undef  F/FA/FALCONE/RT-Condition-OwnershipChanges-0.01.tar.gz
 RT::Condition::OnOwned            undef  F/FA/FALCONE/RT-Condition-OwnershipChanges-0.01.tar.gz
 RT::Condition::Owner              undef  T/TS/TSIBLEY/RT-Extension-NotifyBasedOnOwnership-0.01.tar.gz
-RT::Condition::OwnerAway          undef  F/FI/FIREFART/RT-Extension-AwayMode-0.04.tar.gz
+RT::Condition::OwnerAway          undef  F/FI/FIREFART/RT-Extension-AwayMode-0.05.tar.gz
 RT::Condition::OwnershipChanges    0.01  F/FA/FALCONE/RT-Condition-OwnershipChanges-0.01.tar.gz
 RT::Condition::RequestorReply     undef  B/BP/BPS/RT-Extension-HelpDesk-1.00.tar.gz
 RT::Condition::SLA                undef  A/AL/ALEXMV/RT-Extension-SLA-1.04.tar.gz
@@ -205998,7 +205998,7 @@ RT::Extension::AutomaticAssignment::Filter::MemberOfRole undef  B/BP/BPS/RT-Exte
 RT::Extension::AutomaticAssignment::Filter::UserDefined undef  B/BP/BPS/RT-Extension-AutomaticAssignment-2.00.tar.gz
 RT::Extension::AutomaticAssignment::Filter::WorkSchedule undef  B/BP/BPS/RT-Extension-AutomaticAssignment-2.00.tar.gz
 RT::Extension::AutomaticAssignment::Test undef  B/BP/BPS/RT-Extension-AutomaticAssignment-2.00.tar.gz
-RT::Extension::AwayMode            0.04  F/FI/FIREFART/RT-Extension-AwayMode-0.04.tar.gz
+RT::Extension::AwayMode            0.05  F/FI/FIREFART/RT-Extension-AwayMode-0.05.tar.gz
 RT::Extension::AWS::Assets         0.09  B/BP/BPS/RT-Extension-AWS-Assets-0.09.tar.gz
 RT::Extension::BecomeUser          0.02  M/MB/MBP/RT-Extension-BecomeUser-1.01.tar.gz
 RT::Extension::BooleanCustomField  0.05  G/GI/GIBUS/RT-Extension-BooleanCustomField-0.05.tar.gz
