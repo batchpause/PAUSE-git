@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261416
-Last-Updated: Wed, 30 Sep 2026 00:41:02 GMT
+Last-Updated: Wed, 30 Sep 2026 01:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -54260,7 +54260,7 @@ Data::CouchDB::Connection          0.14  B/BI/BINARY/Data-CouchDB-0.14.tar.gz
 Data::CouchDB::Exceptions          0.14  B/BI/BINARY/Data-CouchDB-0.14.tar.gz
 Data::CouchDB::Handler             0.14  B/BI/BINARY/Data-CouchDB-0.14.tar.gz
 Data::CouchDB::Role::VersionedData 0.14  B/BI/BINARY/Data-CouchDB-0.14.tar.gz
-Data::CountingBloomFilter::Shared  0.03  E/EG/EGOR/Data-CountingBloomFilter-Shared-0.03.tar.gz
+Data::CountingBloomFilter::Shared  0.04  E/EG/EGOR/Data-CountingBloomFilter-Shared-0.04.tar.gz
 Data::CountMinSketch::Shared       0.05  E/EG/EGOR/Data-CountMinSketch-Shared-0.05.tar.gz
 Data::Couplet                  0.02004314  K/KE/KENTNL/Data-Couplet-0.02004314.tar.gz
 Data::Couplet::Extension       0.02004314  K/KE/KENTNL/Data-Couplet-0.02004314.tar.gz
