@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261416
-Last-Updated: Tue, 29 Sep 2026 23:17:02 GMT
+Last-Updated: Wed, 30 Sep 2026 00:17:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -53923,7 +53923,7 @@ Data::BISON::Encoder           0.000003  A/AN/ANDYA/Data-BISON-v0.0.3.tar.gz
 Data::BISON::yEnc                 undef  A/AN/ANDYA/Data-BISON-v0.0.3.tar.gz
 Data::Bitfield                     0.04  P/PE/PEVANS/Data-Bitfield-0.04.tar.gz
 Data::BitMask                      1.00  T/TE/TEVERETT/Data-BitMask-1.00.tar.gz
-Data::BitSet::Shared               0.07  E/EG/EGOR/Data-BitSet-Shared-0.07.tar.gz
+Data::BitSet::Shared               0.08  E/EG/EGOR/Data-BitSet-Shared-0.08.tar.gz
 Data::BitStream                    0.08  D/DA/DANAJ/Data-BitStream-0.08.tar.gz
 Data::BitStream::Base              0.08  D/DA/DANAJ/Data-BitStream-0.08.tar.gz
 Data::BitStream::BitVec            0.08  D/DA/DANAJ/Data-BitStream-0.08.tar.gz
