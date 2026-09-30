@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261422
-Last-Updated: Wed, 30 Sep 2026 03:17:02 GMT
+Last-Updated: Wed, 30 Sep 2026 03:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -60182,16 +60182,16 @@ DateTime::LazyInit::Constructor_new 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.
 DateTime::LazyInit::Constructor_now 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
 DateTime::LazyInit::Constructor_today 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
 DateTime::LeapSecond               1.67  D/DR/DROLSKY/DateTime-1.67.tar.gz
-DateTime::Lite                 0.009000  J/JD/JDEGUEST/DateTime-Lite-v0.9.0.tar.gz
-DateTime::Lite::_FakeLocale    0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.9.0.tar.gz
-DateTime::Lite::_Thawed        0.009000  J/JD/JDEGUEST/DateTime-Lite-v0.9.0.tar.gz
-DateTime::Lite::Duration       0.001002  J/JD/JDEGUEST/DateTime-Lite-v0.9.0.tar.gz
-DateTime::Lite::Exception      0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.9.0.tar.gz
-DateTime::Lite::Infinite       0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.9.0.tar.gz
-DateTime::Lite::Infinite::Future 0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.9.0.tar.gz
-DateTime::Lite::Infinite::Past 0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.9.0.tar.gz
-DateTime::Lite::PP             0.001002  J/JD/JDEGUEST/DateTime-Lite-v0.9.0.tar.gz
-DateTime::Lite::TimeZone       0.005009  J/JD/JDEGUEST/DateTime-Lite-v0.9.0.tar.gz
+DateTime::Lite                 0.010000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
+DateTime::Lite::_FakeLocale    0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
+DateTime::Lite::_Thawed        0.010000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
+DateTime::Lite::Duration       0.001002  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
+DateTime::Lite::Exception      0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
+DateTime::Lite::Infinite       0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
+DateTime::Lite::Infinite::Future 0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
+DateTime::Lite::Infinite::Past 0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
+DateTime::Lite::PP             0.001002  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
+DateTime::Lite::TimeZone       0.005009  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
 DateTime::Locale                   1.46  D/DR/DROLSKY/DateTime-Locale-1.46.tar.gz
 DateTime::Locale::Base             1.46  D/DR/DROLSKY/DateTime-Locale-1.46.tar.gz
 DateTime::Locale::Catalog          1.46  D/DR/DROLSKY/DateTime-Locale-1.46.tar.gz
