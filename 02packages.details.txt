@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261426
-Last-Updated: Wed, 30 Sep 2026 18:54:37 GMT
+Last-Updated: Wed, 30 Sep 2026 19:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -56874,7 +56874,7 @@ Data::ReqRep::Shared               0.09  E/EG/EGOR/Data-ReqRep-Shared-0.09.tar.g
 Data::ReqRep::Shared::Client       0.09  E/EG/EGOR/Data-ReqRep-Shared-0.09.tar.gz
 Data::ReqRep::Shared::Int          0.09  E/EG/EGOR/Data-ReqRep-Shared-0.09.tar.gz
 Data::ReqRep::Shared::Int::Client  0.09  E/EG/EGOR/Data-ReqRep-Shared-0.09.tar.gz
-Data::Reservoir::Shared            0.04  E/EG/EGOR/Data-Reservoir-Shared-0.04.tar.gz
+Data::Reservoir::Shared            0.05  E/EG/EGOR/Data-Reservoir-Shared-0.05.tar.gz
 Data::Resolver                    0.006  P/PO/POLETTIX/Data-Resolver-0.006.tar.gz
 Data::Resolver::Alternatives      0.006  P/PO/POLETTIX/Data-Resolver-0.006.tar.gz
 Data::Resolver::Asset             0.006  P/PO/POLETTIX/Data-Resolver-0.006.tar.gz
