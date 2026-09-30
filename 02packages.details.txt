@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261426
-Last-Updated: Wed, 30 Sep 2026 19:29:02 GMT
+Last-Updated: Wed, 30 Sep 2026 20:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -48858,7 +48858,7 @@ CPAN::Local::Role::MetaCPAN::API  0.001  R/RS/RSRCHBOY/CPAN-Local-Role-MetaCPAN-
 CPAN::Local::Role::Prune          0.010  P/PS/PSHANGOV/CPAN-Local-0.010.tar.gz
 CPAN::Local::Role::Remove         0.010  P/PS/PSHANGOV/CPAN-Local-0.010.tar.gz
 CPAN::LWP::UserAgent             1.9601  A/AN/ANDK/CPAN-2.41.tar.gz
-CPAN::Maker                     v2.0.11  B/BI/BIGFOOT/CPAN-Maker-2.0.11.tar.gz
+CPAN::Maker                     v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
 CPAN::Maker::Bootstrapper        v2.2.3  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.2.3.tar.gz
 CPAN::Maker::Bootstrapper::ConfigReader 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.2.3.tar.gz
 CPAN::Maker::Bootstrapper::Constants  0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.2.3.tar.gz
@@ -48877,11 +48877,11 @@ CPAN::Maker::Bootstrapper::Role::LLM::Utils 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrap
 CPAN::Maker::Bootstrapper::Role::ResolveVars 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.2.3.tar.gz
 CPAN::Maker::Bootstrapper::Role::ScaffoldImporter 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.2.3.tar.gz
 CPAN::Maker::Bootstrapper::Role::Version 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.3.tar.gz
-CPAN::Maker::Constants          v2.0.11  B/BI/BIGFOOT/CPAN-Maker-2.0.11.tar.gz
-CPAN::Maker::Role::FileUtils    v2.0.11  B/BI/BIGFOOT/CPAN-Maker-2.0.11.tar.gz
-CPAN::Maker::Role::ModuleUtils  v2.0.11  B/BI/BIGFOOT/CPAN-Maker-2.0.11.tar.gz
-CPAN::Maker::Role::Provides           0  B/BI/BIGFOOT/CPAN-Maker-2.0.11.tar.gz
-CPAN::Maker::Utils              v2.0.11  B/BI/BIGFOOT/CPAN-Maker-2.0.11.tar.gz
+CPAN::Maker::Constants          v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
+CPAN::Maker::Role::FileUtils    v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
+CPAN::Maker::Role::ModuleUtils  v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
+CPAN::Maker::Role::Provides           0  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
+CPAN::Maker::Utils              v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
 CPAN::Meta                     2.150015  E/ET/ETHER/CPAN-Meta-2.150015.tar.gz
 CPAN::Meta::Check                 0.018  L/LE/LEONT/CPAN-Meta-Check-0.018.tar.gz
 CPAN::Meta::Converter          2.150015  E/ET/ETHER/CPAN-Meta-2.150015.tar.gz
@@ -54802,7 +54802,7 @@ Data::HashMap::SI32                0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
 Data::HashMap::SS                  0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
 Data::HashType                     0.07  S/SK/SKIM/Data-HashType-0.07.tar.gz
 Data::Header::Fields               0.05  J/JK/JKUTEJ/Data-Header-Fields-0.05.tar.gz
-Data::Heap::Shared                 0.09  E/EG/EGOR/Data-Heap-Shared-0.09.tar.gz
+Data::Heap::Shared                 0.10  E/EG/EGOR/Data-Heap-Shared-0.10.tar.gz
 Data::HexConverter                 0.65  J/JK/JKSTILL/Data-HexConverter-0.65.tar.gz
 Data::HexDump                      0.04  N/NE/NEILB/Data-HexDump-0.04.tar.gz
 Data::HexDump::Range               0.13  N/NK/NKH/Data-HexDump-Range-0.13.72.tar.gz
