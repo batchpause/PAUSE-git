@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261425
-Last-Updated: Wed, 30 Sep 2026 06:41:02 GMT
+Last-Updated: Wed, 30 Sep 2026 06:54:14 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -6435,18 +6435,18 @@ Apache2::AMFTrace                  4.33  I/IF/IFUSCHINI/Apache2-ApacheMobileFilt
 Apache2::AMFWebService             4.33  I/IF/IFUSCHINI/Apache2-ApacheMobileFilter-4.33.tar.gz
 Apache2::AMFWURFLFilter            4.33  I/IF/IFUSCHINI/Apache2-ApacheMobileFilter-4.33.tar.gz
 Apache2::AMFWURFLFilterMemcached   4.33  I/IF/IFUSCHINI/Apache2-ApacheMobileFilter-4.33.tar.gz
-Apache2::API                   0.005005  J/JD/JDEGUEST/Apache2-API-v0.5.5.tar.gz
-Apache2::API::DateTime         0.001003  J/JD/JDEGUEST/Apache2-API-v0.5.5.tar.gz
-Apache2::API::Headers::Accept  0.001000  J/JD/JDEGUEST/Apache2-API-v0.5.5.tar.gz
-Apache2::API::Headers::AcceptCommon 0.001000  J/JD/JDEGUEST/Apache2-API-v0.5.5.tar.gz
-Apache2::API::Headers::AcceptLanguage 0.001000  J/JD/JDEGUEST/Apache2-API-v0.5.5.tar.gz
-Apache2::API::Password         0.005005  J/JD/JDEGUEST/Apache2-API-v0.5.5.tar.gz
-Apache2::API::Query            0.001000  J/JD/JDEGUEST/Apache2-API-v0.5.5.tar.gz
-Apache2::API::Request          0.004002  J/JD/JDEGUEST/Apache2-API-v0.5.5.tar.gz
-Apache2::API::Request::Params  0.001001  J/JD/JDEGUEST/Apache2-API-v0.5.5.tar.gz
-Apache2::API::Request::Upload  0.001000  J/JD/JDEGUEST/Apache2-API-v0.5.5.tar.gz
-Apache2::API::Response         0.002000  J/JD/JDEGUEST/Apache2-API-v0.5.5.tar.gz
-Apache2::API::Status           0.002001  J/JD/JDEGUEST/Apache2-API-v0.5.5.tar.gz
+Apache2::API                   0.005006  J/JD/JDEGUEST/Apache2-API-v0.5.6.tar.gz
+Apache2::API::DateTime         0.001003  J/JD/JDEGUEST/Apache2-API-v0.5.6.tar.gz
+Apache2::API::Headers::Accept  0.001000  J/JD/JDEGUEST/Apache2-API-v0.5.6.tar.gz
+Apache2::API::Headers::AcceptCommon 0.001000  J/JD/JDEGUEST/Apache2-API-v0.5.6.tar.gz
+Apache2::API::Headers::AcceptLanguage 0.001000  J/JD/JDEGUEST/Apache2-API-v0.5.6.tar.gz
+Apache2::API::Password         0.005006  J/JD/JDEGUEST/Apache2-API-v0.5.6.tar.gz
+Apache2::API::Query            0.001000  J/JD/JDEGUEST/Apache2-API-v0.5.6.tar.gz
+Apache2::API::Request          0.004003  J/JD/JDEGUEST/Apache2-API-v0.5.6.tar.gz
+Apache2::API::Request::Params  0.001001  J/JD/JDEGUEST/Apache2-API-v0.5.6.tar.gz
+Apache2::API::Request::Upload  0.001000  J/JD/JDEGUEST/Apache2-API-v0.5.6.tar.gz
+Apache2::API::Response         0.002000  J/JD/JDEGUEST/Apache2-API-v0.5.6.tar.gz
+Apache2::API::Status           0.002001  J/JD/JDEGUEST/Apache2-API-v0.5.6.tar.gz
 Apache2::Archive                    0.2  D/DA/DAMOG/Apache2-Archive-0.2.tar.gz
 Apache2::ASP                       2.46  J/JO/JOHND/Apache2-ASP-2.46.tar.gz
 Apache2::ASP::ApacheRequest       undef  J/JO/JOHND/Apache2-ASP-1.59.tar.gz
