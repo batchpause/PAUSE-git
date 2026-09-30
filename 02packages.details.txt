@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261424
-Last-Updated: Wed, 30 Sep 2026 04:54:20 GMT
+Line-Count:   261425
+Last-Updated: Wed, 30 Sep 2026 05:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -55316,7 +55316,7 @@ Data::InputMonster::Util::Catalyst 0.006  R/RJ/RJBS/Data-InputMonster-Util-Catal
 Data::Inspect                      0.05  O/OW/OWL/Data-Inspect-0.05.tar.gz
 Data::Integer                     0.007  R/RR/RRWO/Data-Integer-0.007.tar.gz
 Data::Interactive::Inspect         0.07  T/TL/TLINDEN/Data-Interactive-Inspect-0.07.tar.gz
-Data::Intern::Shared               0.05  E/EG/EGOR/Data-Intern-Shared-0.05.tar.gz
+Data::Intern::Shared               0.06  E/EG/EGOR/Data-Intern-Shared-0.06.tar.gz
 Data::IntervalTree::Shared         0.03  E/EG/EGOR/Data-IntervalTree-Shared-0.03.tar.gz
 Data::IO                         0.0006  F/FE/FERREIRA/Template-Process-0.0006.tar.gz
 Data::IPV4::Range::Parse           1.05  A/AK/AKALINUX/Data-IPV4-Range-Parse-1.05.tar.gz
@@ -191247,6 +191247,7 @@ Perl::Critic::Policy::Subroutines::ProhibitManyArgs 1.156  P/PE/PETDANCE/Perl-Cr
 Perl::Critic::Policy::Subroutines::ProhibitNestedSubs 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::Subroutines::ProhibitQualifiedSubDeclarations 0.08  P/PE/PETDANCE/Perl-Critic-StricterSubs-0.08.tar.gz
 Perl::Critic::Policy::Subroutines::ProhibitReturnSort 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
+Perl::Critic::Policy::Subroutines::ProhibitSingleUseLexicalSubs 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-Subroutines-ProhibitSingleUseLexicalSubs-0.001.tar.gz
 Perl::Critic::Policy::Subroutines::ProhibitSubroutinePrototypes 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::Subroutines::ProhibitTailRecursion 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-Subroutines-ProhibitTailRecursion-0.001.tar.gz
 Perl::Critic::Policy::Subroutines::ProhibitUnderscorePrivateSubs 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-Subroutines-ProhibitUnderscorePrivateSubs-0.001.tar.gz
