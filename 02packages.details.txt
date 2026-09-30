@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261426
-Last-Updated: Wed, 30 Sep 2026 14:54:31 GMT
+Last-Updated: Wed, 30 Sep 2026 15:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -56697,11 +56697,11 @@ Data::Query                       undef  M/MS/MSTROUT/Data-CapabilityBased-0.001
 Data::Queue                      1.0002  A/AK/AKALINUX/Data-Queue-1.0002.tar.gz
 Data::Queue::Batch                 0.04  I/IL/ILLO/Data-Queue-Batch-0.04.tar.gz
 Data::Queue::Persistent            0.13  R/RE/REVMISCHA/Data-Queue-Persistent-0.13.tar.gz
-Data::Queue::Shared                0.09  E/EG/EGOR/Data-Queue-Shared-0.09.tar.gz
-Data::Queue::Shared::Int           0.09  E/EG/EGOR/Data-Queue-Shared-0.09.tar.gz
-Data::Queue::Shared::Int16         0.09  E/EG/EGOR/Data-Queue-Shared-0.09.tar.gz
-Data::Queue::Shared::Int32         0.09  E/EG/EGOR/Data-Queue-Shared-0.09.tar.gz
-Data::Queue::Shared::Str           0.09  E/EG/EGOR/Data-Queue-Shared-0.09.tar.gz
+Data::Queue::Shared                0.10  E/EG/EGOR/Data-Queue-Shared-0.10.tar.gz
+Data::Queue::Shared::Int           0.10  E/EG/EGOR/Data-Queue-Shared-0.10.tar.gz
+Data::Queue::Shared::Int16         0.10  E/EG/EGOR/Data-Queue-Shared-0.10.tar.gz
+Data::Queue::Shared::Int32         0.10  E/EG/EGOR/Data-Queue-Shared-0.10.tar.gz
+Data::Queue::Shared::Str           0.10  E/EG/EGOR/Data-Queue-Shared-0.10.tar.gz
 Data::QuickMemoPlus::Reader        0.12  B/BS/BSHIELDS/Data-QuickMemoPlus-Reader-0.12.tar.gz
 Data::Radius                   1.002009  P/PO/PORTAONE/Data-Radius-1.2.9.tar.gz
 Data::Radius::Constants           undef  P/PO/PORTAONE/Data-Radius-1.2.9.tar.gz
