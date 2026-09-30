@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261425
-Last-Updated: Wed, 30 Sep 2026 13:41:02 GMT
+Last-Updated: Wed, 30 Sep 2026 14:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -54724,7 +54724,7 @@ Data::Gimei::Random               undef  Y/YO/YOUPONG/Data-Gimei-v0.5.0.tar.gz
 Data::Gimei::Word                 undef  Y/YO/YOUPONG/Data-Gimei-v0.5.0.tar.gz
 Data::Google::Visualization::DataSource 0.01  S/SA/SARGIE/Data-Google-Visualization-DataSource-0.01.tar.gz
 Data::Google::Visualization::DataTable 0.11  S/SA/SARGIE/Data-Google-Visualization-DataTable-0.11.tar.gz
-Data::Graph::Shared                0.07  E/EG/EGOR/Data-Graph-Shared-0.07.tar.gz
+Data::Graph::Shared                0.08  E/EG/EGOR/Data-Graph-Shared-0.08.tar.gz
 Data::Graph::Util                 0.007  P/PE/PERLANCAR/Data-Graph-Util-0.007.tar.gz
 Data::Grid                         0.07  D/DO/DORIAN/Data-Grid-0.07.tar.gz
 Data::Grid::Cell                   0.06  D/DO/DORIAN/Data-Grid-0.07.tar.gz
