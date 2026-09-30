@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261425
-Last-Updated: Wed, 30 Sep 2026 13:17:02 GMT
+Last-Updated: Wed, 30 Sep 2026 13:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -231330,7 +231330,7 @@ Text::Macros                       0.04  J/JD/JDPORTER/Text-Macros-0.04.tar.gz
 Text::MacroScript                  2.14  P/PS/PSCUST/Text-MacroScript-2.14.tar.gz
 Text::Markdown                 1.000031  B/BO/BOBTFISH/Text-Markdown-1.000031.tar.gz
 Text::Markdown::ApacheHandler      0.04  K/KU/KULP/Text-Markdown-ApacheHandler-0.04.tar.gz
-Text::Markdown::Discount           0.18  S/SO/SONGMU/Text-Markdown-Discount-0.18.tar.gz
+Text::Markdown::Discount           0.19  S/SO/SONGMU/Text-Markdown-Discount-0.19.tar.gz
 Text::Markdown::Hoedown            1.03  T/TO/TOKUHIROM/Text-Markdown-Hoedown-1.03.tar.gz
 Text::Markdown::PerlExtensions     0.06  N/NE/NEILB/Text-Markdown-PerlExtensions-0.06.tar.gz
 Text::Markdown::Slidy              0.04  S/SO/SONGMU/Text-Markdown-Slidy-0.04.tar.gz
