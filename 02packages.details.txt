@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261425
-Last-Updated: Wed, 30 Sep 2026 06:54:14 GMT
+Last-Updated: Wed, 30 Sep 2026 07:17:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -57763,15 +57763,15 @@ Data::STUID::Server                   0  D/DM/DMAKI/Data-STUID-0.01.tar.gz
 Data::Swap                         0.08  X/XM/XMATH/Data-Swap-0.08.tar.gz
 Data::Sync                         0.08  C/CC/CCOLBOURN/Data-Sync/Data-Sync-0.08.tar.gz
 Data::Sync::Advanced              undef  C/CC/CCOLBOURN/Data-Sync/Data-Sync-0.08.tar.gz
-Data::Sync::Shared                 0.09  E/EG/EGOR/Data-Sync-Shared-0.09.tar.gz
-Data::Sync::Shared::Barrier        0.09  E/EG/EGOR/Data-Sync-Shared-0.09.tar.gz
-Data::Sync::Shared::Condvar        0.09  E/EG/EGOR/Data-Sync-Shared-0.09.tar.gz
-Data::Sync::Shared::Condvar::Guard 0.09  E/EG/EGOR/Data-Sync-Shared-0.09.tar.gz
-Data::Sync::Shared::Once           0.09  E/EG/EGOR/Data-Sync-Shared-0.09.tar.gz
-Data::Sync::Shared::RWLock         0.09  E/EG/EGOR/Data-Sync-Shared-0.09.tar.gz
-Data::Sync::Shared::RWLock::Guard  0.09  E/EG/EGOR/Data-Sync-Shared-0.09.tar.gz
-Data::Sync::Shared::Semaphore      0.09  E/EG/EGOR/Data-Sync-Shared-0.09.tar.gz
-Data::Sync::Shared::Semaphore::Guard 0.09  E/EG/EGOR/Data-Sync-Shared-0.09.tar.gz
+Data::Sync::Shared                 0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
+Data::Sync::Shared::Barrier        0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
+Data::Sync::Shared::Condvar        0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
+Data::Sync::Shared::Condvar::Guard 0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
+Data::Sync::Shared::Once           0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
+Data::Sync::Shared::RWLock         0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
+Data::Sync::Shared::RWLock::Guard  0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
+Data::Sync::Shared::Semaphore      0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
+Data::Sync::Shared::Semaphore::Guard 0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
 Data::Tab                          0.02  M/MI/MICHAEL/Data-Tab-0.02.tar.gz
 Data::Tab::db                      0.02  M/MI/MICHAEL/Data-Tab-0.02.tar.gz
 Data::Table                        1.78  E/EZ/EZDB/Data-Table-1.78.tar.gz
