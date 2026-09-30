@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261422
-Last-Updated: Wed, 30 Sep 2026 03:41:02 GMT
+Line-Count:   261423
+Last-Updated: Wed, 30 Sep 2026 04:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -54592,7 +54592,7 @@ Data::Feed::Web::Content          undef  D/DM/DMAKI/Data-Feed-0.00015.tar.gz
 Data::Feed::Web::Enclosure        undef  D/DM/DMAKI/Data-Feed-0.00015.tar.gz
 Data::Feed::Web::Entry            undef  D/DM/DMAKI/Data-Feed-0.00015.tar.gz
 Data::Feed::Web::Feed             undef  D/DM/DMAKI/Data-Feed-0.00015.tar.gz
-Data::Fenwick2D::Shared            0.03  E/EG/EGOR/Data-Fenwick2D-Shared-0.03.tar.gz
+Data::Fenwick2D::Shared            0.04  E/EG/EGOR/Data-Fenwick2D-Shared-0.04.tar.gz
 Data::Fenwick::Shared              0.05  E/EG/EGOR/Data-Fenwick-Shared-0.05.tar.gz
 Data::Fetch                        0.07  N/NH/NHORNE/Data-Fetch-0.07.tar.gz
 Data::FetchPath                    0.02  O/OV/OVID/Data-FetchPath-0.02.tar.gz
@@ -191213,6 +191213,7 @@ Perl::Critic::Policy::RegularExpressions::ProhibitEmptyAlternatives 0.006  W/WY/
 Perl::Critic::Policy::RegularExpressions::ProhibitEnumeratedClasses 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::RegularExpressions::ProhibitEscapedMetacharacters 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::RegularExpressions::ProhibitFixedStringMatches 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
+Perl::Critic::Policy::RegularExpressions::ProhibitRegexForStringEquality 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-RegularExpressions-ProhibitRegexForStringEquality-0.001.tar.gz
 Perl::Critic::Policy::RegularExpressions::ProhibitRegexToChomp 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-RegularExpressions-ProhibitRegexToChomp-0.001.tar.gz
 Perl::Critic::Policy::RegularExpressions::ProhibitRegexToStripAffix 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-RegularExpressions-ProhibitRegexToStripAffix-0.001.tar.gz
 Perl::Critic::Policy::RegularExpressions::ProhibitSingleCharAlternation 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
