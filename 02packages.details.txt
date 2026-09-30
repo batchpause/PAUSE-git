@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261425
-Last-Updated: Wed, 30 Sep 2026 08:17:01 GMT
+Last-Updated: Wed, 30 Sep 2026 09:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -55317,7 +55317,7 @@ Data::Inspect                      0.05  O/OW/OWL/Data-Inspect-0.05.tar.gz
 Data::Integer                     0.007  R/RR/RRWO/Data-Integer-0.007.tar.gz
 Data::Interactive::Inspect         0.07  T/TL/TLINDEN/Data-Interactive-Inspect-0.07.tar.gz
 Data::Intern::Shared               0.06  E/EG/EGOR/Data-Intern-Shared-0.06.tar.gz
-Data::IntervalTree::Shared         0.03  E/EG/EGOR/Data-IntervalTree-Shared-0.03.tar.gz
+Data::IntervalTree::Shared         0.04  E/EG/EGOR/Data-IntervalTree-Shared-0.04.tar.gz
 Data::IO                         0.0006  F/FE/FERREIRA/Template-Process-0.0006.tar.gz
 Data::IPV4::Range::Parse           1.05  A/AK/AKALINUX/Data-IPV4-Range-Parse-1.05.tar.gz
 Data::ISO8583                      2.44  C/CA/CADE/Data-ISO8583-2.44.tar.gz
