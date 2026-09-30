@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668093
+Line-Count:  668097
 Written-By:  PAUSE version 1.005
-Date:        Wed, 30 Sep 2026 14:42:17 GMT
+Date:        Wed, 30 Sep 2026 20:41:12 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -65958,6 +65958,8 @@ CPAN::Maker::Bootstrapper::Constants,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::CreateConfig,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::CreateDeps,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::Critic,BIGFOOT,f
+CPAN::Maker::Bootstrapper::Role::DarkPANRequires,BIGFOOT,f
+CPAN::Maker::Bootstrapper::Role::DepsFilter,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::ExtraFiles,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::Filter,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::Init,BIGFOOT,f
@@ -65967,6 +65969,8 @@ CPAN::Maker::Bootstrapper::Role::LLM::Models,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::LLM::Reviewer,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::LLM::Utils,BIGFOOT,f
+CPAN::Maker::Bootstrapper::Role::PAUSEUpload,BIGFOOT,f
+CPAN::Maker::Bootstrapper::Role::Provides,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::ResolveVars,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::ScaffoldImporter,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::Version,BIGFOOT,f
