@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261430
-Last-Updated: Wed, 30 Sep 2026 23:17:02 GMT
+Last-Updated: Wed, 30 Sep 2026 23:54:31 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -12265,7 +12265,7 @@ App::makebeamerinfo::Transitions      0  J/JB/JBERGER/App-makebeamerinfo-2.002.t
 App::makedist                     undef  W/WO/WOLDRICH/App-makedist-0.026.tar.gz
 App::makedpkg                      0.05  V/VO/VOJ/App-makedpkg-0.05.tar.gz
 App::MakeEPUB                    v0.3.2  M/MA/MAMAWE/App-MakeEPUB-v0.3.2.tar.gz
-App::makefilepl2cpanfile           0.05  N/NH/NHORNE/App-makefilepl2cpanfile-0.05.tar.gz
+App::makefilepl2cpanfile           0.06  N/NH/NHORNE/App-makefilepl2cpanfile-0.06.tar.gz
 App::MaMGal                         1.6  P/PO/PORRIDGE/App-MaMGal-1.6.tar.gz
 App::MaMGal::Base                 undef  P/PO/PORRIDGE/App-MaMGal-1.6.tar.gz
 App::MaMGal::CommandChecker       undef  P/PO/PORRIDGE/App-MaMGal-1.6.tar.gz
