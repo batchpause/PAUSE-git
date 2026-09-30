@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261426
-Last-Updated: Wed, 30 Sep 2026 15:17:02 GMT
+Last-Updated: Wed, 30 Sep 2026 16:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -54298,7 +54298,7 @@ Data::Dataset::Classic::Adapter::PDL::Matrix 0.001  P/PA/PABLROD/Data-Dataset-Cl
 Data::Dataset::Classic::Anscombe  0.001  P/PA/PABLROD/Data-Dataset-Classic-0.001.tar.gz
 Data::Dataset::Classic::Iris      0.001  P/PA/PABLROD/Data-Dataset-Classic-0.001.tar.gz
 Data::Dataset::Classic::Titanic  0.0103  G/GE/GENE/Data-Dataset-Classic-Titanic-0.0103.tar.gz
-Data::DDSketch::Shared             0.03  E/EG/EGOR/Data-DDSketch-Shared-0.03.tar.gz
+Data::DDSketch::Shared             0.04  E/EG/EGOR/Data-DDSketch-Shared-0.04.tar.gz
 Data::Debug                        0.04  G/GE/GEISTBERG/Data-Debug-0.04.tar.gz
 Data::DEC                          0.03  K/KI/KITOMER/Data-DEC-0.03.tar.gz
 Data::DEC::Declaration            undef  K/KI/KITOMER/Data-DEC-0.03.tar.gz
@@ -129411,7 +129411,7 @@ MathWorks::Type::platformList     undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
 MathWorks::Type::product          undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
 MathWorks::Type::productDepItem   undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
 MathWorks::Type::productDepList   undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
-Matplotlib::Simple                0.316  D/DC/DCON/Matplotlib-Simple-0.316.tar.gz
+Matplotlib::Simple                0.317  D/DC/DCON/Matplotlib-Simple-0.317.tar.gz
 Matrix::Simple                     1.04  O/OX/OXJGOUO/Matrix-Simple-1.04.tar.gz
 Matts::Message                    undef  M/MS/MSERGEANT/Matts-Message-Parser-1.0.tar.gz
 Matts::Message::Parser              1.0  M/MS/MSERGEANT/Matts-Message-Parser-1.0.tar.gz
@@ -228931,7 +228931,7 @@ Test::MethodFixtures               0.08  M/MJ/MJEMMESON/Test-MethodFixtures-0.08
 Test::MethodFixtures::Storage      0.08  M/MJ/MJEMMESON/Test-MethodFixtures-0.08.tar.gz
 Test::MethodFixtures::Storage::File 0.08  M/MJ/MJEMMESON/Test-MethodFixtures-0.08.tar.gz
 Test::MethodName                   0.01  B/BA/BAYASHI/Test-MethodName-0.01.tar.gz
-Test::Metrics::Any                 0.01  P/PE/PEVANS/Test-Metrics-Any-0.01.tar.gz
+Test::Metrics::Any                 0.02  P/PE/PEVANS/Test-Metrics-Any-0.02.tar.gz
 Test::Mimic                    0.009007  B/BR/BRENDAN/Test-Mimic-0.009007.tar.gz
 Test::Mimic::Generator         0.009005  B/BR/BRENDAN/Test-Mimic-Generator-0.009005.tar.gz
 Test::Mimic::Generator::_Implementation 0.009005  B/BR/BRENDAN/Test-Mimic-Generator-0.009005.tar.gz
