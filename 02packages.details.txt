@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261425
-Last-Updated: Wed, 30 Sep 2026 11:17:02 GMT
+Last-Updated: Wed, 30 Sep 2026 12:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -54813,7 +54813,7 @@ Data::Hierarchy                    0.34  C/CL/CLKAO/Data-Hierarchy-0.34.tar.gz
 Data::Hierarchy::Relative          0.34  C/CL/CLKAO/Data-Hierarchy-0.34.tar.gz
 Data::Hierarchy::Traverser         0.01  T/TI/TIGERPERL/Data-Hierarchy-Traverser-0.01.tar.gz
 Data::HierTimingWheel::Shared      0.03  E/EG/EGOR/Data-HierTimingWheel-Shared-0.03.tar.gz
-Data::Histogram::Shared            0.05  E/EG/EGOR/Data-Histogram-Shared-0.05.tar.gz
+Data::Histogram::Shared            0.06  E/EG/EGOR/Data-Histogram-Shared-0.06.tar.gz
 Data::Hive                        1.015  R/RJ/RJBS/Data-Hive-1.015.tar.gz
 Data::Hive::PathPacker            1.015  R/RJ/RJBS/Data-Hive-1.015.tar.gz
 Data::Hive::PathPacker::Flexible  1.015  R/RJ/RJBS/Data-Hive-1.015.tar.gz
