@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261425
-Last-Updated: Wed, 30 Sep 2026 10:17:01 GMT
+Last-Updated: Wed, 30 Sep 2026 10:54:22 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -30377,7 +30377,7 @@ Bundle::DBD::PgAsync           0.008001  R/RW/RWKST/DBD-PgAsync-0.8.1.tar.gz
 Bundle::DBD::PO                    2.10  S/ST/STEFFENW/Bundle-DBD-PO-2.10.tar.gz
 Bundle::DBD::Sys                  0.102  R/RE/REHSACK/DBD-Sys-0.102.tar.gz
 Bundle::DBD::Yaswi                 0.01  S/SA/SALVA/DBD-Yaswi-0.01.tar.gz
-Bundle::DBI                    12.008696  H/HM/HMBRAND/DBI-1.654.tgz
+Bundle::DBI                    12.008696  H/HM/HMBRAND/DBI-1.655.tgz
 Bundle::DBWIZ                      0.01  C/CA/CALVINM/Bundle-DBWIZ-0.01.tar.gz
 Bundle::Delivery                   0.03  W/WR/WROSS/Bundle-Delivery-0.03.tar.gz
 Bundle::Devel                       0.2  A/AD/ADAMK/Bundle-Devel-0.2.tar.gz
@@ -60901,7 +60901,7 @@ DBD::DB2::Constants                1.92  R/RO/ROCKETDB/DBD-DB2-1.92.tar.gz
 DBD::DB2::db                       1.92  R/RO/ROCKETDB/DBD-DB2-1.92.tar.gz
 DBD::DB2::dr                       1.92  R/RO/ROCKETDB/DBD-DB2-1.92.tar.gz
 DBD::DB2::st                       1.92  R/RO/ROCKETDB/DBD-DB2-1.92.tar.gz
-DBD::DBM                           0.08  H/HM/HMBRAND/DBI-1.654.tgz
+DBD::DBM                           0.08  H/HM/HMBRAND/DBI-1.655.tgz
 DBD::DBM::db                       0.08  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::DBM::dr                       0.08  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::DBM::st                       0.08  H/HM/HMBRAND/DBI-1.652.tgz
@@ -60933,7 +60933,7 @@ DBD::EmpressNet                    0.51  S/SW/SWILLIAM/DBD-EmpressNet-0.52.tar.g
 DBD::EmpressNet::db                0.51  S/SW/SWILLIAM/DBD-EmpressNet-0.52.tar.gz
 DBD::EmpressNet::dr                0.51  S/SW/SWILLIAM/DBD-EmpressNet-0.52.tar.gz
 DBD::EmpressNet::st                0.51  S/SW/SWILLIAM/DBD-EmpressNet-0.52.tar.gz
-DBD::ExampleP                  12.014311  H/HM/HMBRAND/DBI-1.654.tgz
+DBD::ExampleP                  12.014311  H/HM/HMBRAND/DBI-1.655.tgz
 DBD::ExampleP::db              12.014311  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::ExampleP::dr              12.014311  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::ExampleP::st              12.014311  H/HM/HMBRAND/DBI-1.652.tgz
@@ -60943,7 +60943,7 @@ DBD::Excel::dr                     0.07  A/AS/ASB/DBD-Excel-0.07.tar.gz
 DBD::Excel::st                     0.07  A/AS/ASB/DBD-Excel-0.07.tar.gz
 DBD::Excel::Statement              0.07  A/AS/ASB/DBD-Excel-0.07.tar.gz
 DBD::Excel::Table                  0.07  A/AS/ASB/DBD-Excel-0.07.tar.gz
-DBD::File                          0.45  H/HM/HMBRAND/DBI-1.654.tgz
+DBD::File                          0.45  H/HM/HMBRAND/DBI-1.655.tgz
 DBD::File::DataSource::File        0.45  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::File::DataSource::Stream      0.45  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::File::db                      0.45  H/HM/HMBRAND/DBI-1.652.tgz
@@ -60965,20 +60965,20 @@ DBD::Fulcrum                       0.20  S/SH/SHARI/DBD-Fulcrum-0.20.tar.gz
 DBD::Fulcrum::db                   0.20  S/SH/SHARI/DBD-Fulcrum-0.20.tar.gz
 DBD::Fulcrum::dr                   0.20  S/SH/SHARI/DBD-Fulcrum-0.20.tar.gz
 DBD::Fulcrum::st                   0.20  S/SH/SHARI/DBD-Fulcrum-0.20.tar.gz
-DBD::Gofer                     0.015327  H/HM/HMBRAND/DBI-1.654.tgz
+DBD::Gofer                     0.015327  H/HM/HMBRAND/DBI-1.655.tgz
 DBD::Gofer::db                 0.015327  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::Gofer::dr                 0.015327  H/HM/HMBRAND/DBI-1.652.tgz
-DBD::Gofer::Policy::Base       0.010088  H/HM/HMBRAND/DBI-1.654.tgz
-DBD::Gofer::Policy::classic    0.010088  H/HM/HMBRAND/DBI-1.654.tgz
-DBD::Gofer::Policy::pedantic   0.010088  H/HM/HMBRAND/DBI-1.654.tgz
-DBD::Gofer::Policy::rush       0.010088  H/HM/HMBRAND/DBI-1.654.tgz
+DBD::Gofer::Policy::Base       0.010088  H/HM/HMBRAND/DBI-1.655.tgz
+DBD::Gofer::Policy::classic    0.010088  H/HM/HMBRAND/DBI-1.655.tgz
+DBD::Gofer::Policy::pedantic   0.010088  H/HM/HMBRAND/DBI-1.655.tgz
+DBD::Gofer::Policy::rush       0.010088  H/HM/HMBRAND/DBI-1.655.tgz
 DBD::Gofer::st                 0.015327  H/HM/HMBRAND/DBI-1.652.tgz
-DBD::Gofer::Transport::Base    0.014121  H/HM/HMBRAND/DBI-1.654.tgz
-DBD::Gofer::Transport::corostream 2.165300  H/HM/HMBRAND/DBI-1.654.tgz
+DBD::Gofer::Transport::Base    0.014121  H/HM/HMBRAND/DBI-1.655.tgz
+DBD::Gofer::Transport::corostream 2.165300  H/HM/HMBRAND/DBI-1.655.tgz
 DBD::Gofer::Transport::http       1.017  T/TI/TIMB/GoferTransport-http-1.017.tar.gz
-DBD::Gofer::Transport::null    0.010088  H/HM/HMBRAND/DBI-1.654.tgz
-DBD::Gofer::Transport::pipeone 0.010088  H/HM/HMBRAND/DBI-1.654.tgz
-DBD::Gofer::Transport::stream  0.014599  H/HM/HMBRAND/DBI-1.654.tgz
+DBD::Gofer::Transport::null    0.010088  H/HM/HMBRAND/DBI-1.655.tgz
+DBD::Gofer::Transport::pipeone 0.010088  H/HM/HMBRAND/DBI-1.655.tgz
+DBD::Gofer::Transport::stream  0.014599  H/HM/HMBRAND/DBI-1.655.tgz
 DBD::Google                        0.51  D/DA/DARREN/DBD-Google-0.51.tar.gz
 DBD::Google::db                    2.00  D/DA/DARREN/DBD-Google-0.51.tar.gz
 DBD::Google::dr                    2.00  D/DA/DARREN/DBD-Google-0.51.tar.gz
@@ -61058,7 +61058,7 @@ DBD::MaxDB::GetInfo               undef  M/MA/MAXDB/DBD-MaxDB-7.7.05.00.tar.gz
 DBD::MaxDB::st                      7.6  M/MA/MAXDB/DBD-MaxDB-7.6.00.16.tar.gz
 DBD::MaxDB::TypeInfoAscii         undef  M/MA/MAXDB/DBD-MaxDB-7.7.05.00.tar.gz
 DBD::MaxDB::TypeInfoUnicode       undef  M/MA/MAXDB/DBD-MaxDB-7.7.05.00.tar.gz
-DBD::Mem                          0.001  H/HM/HMBRAND/DBI-1.654.tgz
+DBD::Mem                          0.001  H/HM/HMBRAND/DBI-1.655.tgz
 DBD::Mem::DataSource              0.001  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::Mem::db                      0.001  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::Mem::dr                      0.001  H/HM/HMBRAND/DBI-1.652.tgz
@@ -61132,7 +61132,7 @@ DBD::NET                           0.24  E/ED/EDLIU/DBD-NET-0.1.tgz
 DBD::NET::db                       0.24  E/ED/EDLIU/DBD-NET-0.1.tgz
 DBD::NET::dr                       0.24  E/ED/EDLIU/DBD-NET-0.1.tgz
 DBD::NET::st                       0.24  E/ED/EDLIU/DBD-NET-0.1.tgz
-DBD::NullP                     12.014715  H/HM/HMBRAND/DBI-1.654.tgz
+DBD::NullP                     12.014715  H/HM/HMBRAND/DBI-1.655.tgz
 DBD::NullP::db                 12.014715  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::NullP::dr                 12.014715  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::NullP::st                 12.014715  H/HM/HMBRAND/DBI-1.652.tgz
@@ -61240,7 +61240,7 @@ DBD::PrimeBase                   1.4003  P/PR/PRIMEBASE/DBD-PrimeBase-1.4003.tar
 DBD::PrimeBase::db               1.4003  P/PR/PRIMEBASE/DBD-PrimeBase-1.4003.tar.gz
 DBD::PrimeBase::dr               1.4003  P/PR/PRIMEBASE/DBD-PrimeBase-1.4003.tar.gz
 DBD::PrimeBase::st               1.4003  P/PR/PRIMEBASE/DBD-PrimeBase-1.4003.tar.gz
-DBD::Proxy                       0.2004  H/HM/HMBRAND/DBI-1.654.tgz
+DBD::Proxy                       0.2004  H/HM/HMBRAND/DBI-1.655.tgz
 DBD::Proxy::db                   0.2004  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::Proxy::dr                   0.2004  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::Proxy::RPC::PlClient        0.2004  H/HM/HMBRAND/DBI-1.652.tgz
@@ -61298,7 +61298,7 @@ DBD::Spanner                       0.01  C/CJ/CJCOLLIER/Google-Cloud/DBD-Spanner
 DBD::Spanner::db                   0.01  C/CJ/CJCOLLIER/Google-Cloud/DBD-Spanner-0.01.tar.gz
 DBD::Spanner::dr                   0.01  C/CJ/CJCOLLIER/Google-Cloud/DBD-Spanner-0.01.tar.gz
 DBD::Spanner::st                   0.01  C/CJ/CJCOLLIER/Google-Cloud/DBD-Spanner-0.01.tar.gz
-DBD::Sponge                    12.010003  H/HM/HMBRAND/DBI-1.654.tgz
+DBD::Sponge                    12.010003  H/HM/HMBRAND/DBI-1.655.tgz
 DBD::Sponge::db                12.010003  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::Sponge::dr                12.010003  H/HM/HMBRAND/DBI-1.652.tgz
 DBD::Sponge::st                12.010003  H/HM/HMBRAND/DBI-1.652.tgz
@@ -61495,17 +61495,17 @@ DBGp::Client::Response::Stream    undef  M/MB/MBARBON/DBGp-Client-0.12.tar.gz
 DBGp::Client::Response::Typemap   undef  M/MB/MBARBON/DBGp-Client-0.12.tar.gz
 DBGp::Client::Response::Typemap::Type undef  M/MB/MBARBON/DBGp-Client-0.12.tar.gz
 DBGp::Client::Stream              undef  M/MB/MBARBON/DBGp-Client-0.12.tar.gz
-DBI                               1.654  H/HM/HMBRAND/DBI-1.654.tgz
+DBI                               1.655  H/HM/HMBRAND/DBI-1.655.tgz
 DBI::BabyConnect                   0.93  M/MA/MAXOU/DBI-BabyConnect-0.93.tar.gz
 DBI::BabyConnect::Deb              0.93  M/MA/MAXOU/DBI-BabyConnect-0.93.tar.gz
 DBI::common                       1.652  H/HM/HMBRAND/DBI-1.652.tgz
-DBI::Const::GetInfo::ANSI      2.008697  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::Const::GetInfo::ODBC      2.011374  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::Const::GetInfoReturn      2.008697  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::Const::GetInfoType        2.008697  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::DBD                       12.015129  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::DBD::Metadata             2.014214  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::DBD::SqlEngine                0.06  H/HM/HMBRAND/DBI-1.654.tgz
+DBI::Const::GetInfo::ANSI      2.008697  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::Const::GetInfo::ODBC      2.011374  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::Const::GetInfoReturn      2.008697  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::Const::GetInfoType        2.008697  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::DBD                       12.015129  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::DBD::Metadata             2.014214  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::DBD::SqlEngine                0.06  H/HM/HMBRAND/DBI-1.655.tgz
 DBI::DBD::SqlEngine::DataSource    0.06  H/HM/HMBRAND/DBI-1.652.tgz
 DBI::DBD::SqlEngine::db            0.06  H/HM/HMBRAND/DBI-1.652.tgz
 DBI::DBD::SqlEngine::dr            0.06  H/HM/HMBRAND/DBI-1.652.tgz
@@ -61542,17 +61542,17 @@ DBI::Format::PartBox              11.98  D/DL/DLAMBLEY/DBI-Shell-11.98.tar.gz
 DBI::Format::Raw                    1.1  A/AN/ANDYDUNC/Orac-alpha-1.2.6.tar.gz
 DBI::Format::SQLMinus             11.98  D/DL/DLAMBLEY/DBI-Shell-11.98.tar.gz
 DBI::Format::String               11.98  D/DL/DLAMBLEY/DBI-Shell-11.98.tar.gz
-DBI::Gofer::Execute            0.014283  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::Gofer::Request            0.012537  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::Gofer::Response           0.011566  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::Gofer::Serializer::Base   0.009950  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::Gofer::Serializer::DataDumper 0.009950  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::Gofer::Serializer::Storable 0.015586  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::Gofer::Transport::Base    0.012537  H/HM/HMBRAND/DBI-1.654.tgz
+DBI::Gofer::Execute            0.014283  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::Gofer::Request            0.012537  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::Gofer::Response           0.011566  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::Gofer::Serializer::Base   0.009950  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::Gofer::Serializer::DataDumper 0.009950  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::Gofer::Serializer::Storable 0.015586  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::Gofer::Transport::Base    0.012537  H/HM/HMBRAND/DBI-1.655.tgz
 DBI::Gofer::Transport::mod_perl   1.017  T/TI/TIMB/GoferTransport-http-1.017.tar.gz
-DBI::Gofer::Transport::pipeone 0.012537  H/HM/HMBRAND/DBI-1.654.tgz
+DBI::Gofer::Transport::pipeone 0.012537  H/HM/HMBRAND/DBI-1.655.tgz
 DBI::Gofer::Transport::psgi       0.001  J/JW/JWRIGHT/Plack-App-DBI-Gofer-0.001.tar.gz
-DBI::Gofer::Transport::stream  0.012537  H/HM/HMBRAND/DBI-1.654.tgz
+DBI::Gofer::Transport::stream  0.012537  H/HM/HMBRAND/DBI-1.655.tgz
 DBI::Library                       1.18  L/LZ/LZE/MySQL-Admin-1.18.tar.gz
 DBI::Library::Database             1.18  L/LZ/LZE/MySQL-Admin-1.18.tar.gz
 DBI::Library::Database::db        undef  L/LZ/LZE/MySQL-Admin-1.18.tar.gz
@@ -61562,16 +61562,16 @@ DBI::Library::st                  undef  L/LZ/LZE/MySQL-Admin-1.18.tar.gz
 DBI::Lite                          0.01  I/IS/ISUNIX/DBI-Lite-0.01.tar.gz
 DBI::Log                           0.12  J/JA/JACOBG/DBI-Log-0.12.tar.gz
 DBI::Mock                         1.625  R/RE/REHSACK/DBI-Test-0.001.tar.gz
-DBI::Profile                   2.015065  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::ProfileData               2.010008  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::ProfileDumper             2.015325  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::ProfileDumper::Apache     2.014121  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::ProfileSubs               0.009396  H/HM/HMBRAND/DBI-1.654.tgz
-DBI::ProxyServer                 0.3005  H/HM/HMBRAND/DBI-1.654.tgz
+DBI::Profile                   2.015065  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::ProfileData               2.010008  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::ProfileDumper             2.015325  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::ProfileDumper::Apache     2.014121  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::ProfileSubs               0.009396  H/HM/HMBRAND/DBI-1.655.tgz
+DBI::ProxyServer                 0.3005  H/HM/HMBRAND/DBI-1.655.tgz
 DBI::ProxyServer::db             0.3005  H/HM/HMBRAND/DBI-1.652.tgz
 DBI::ProxyServer::dr             0.3005  H/HM/HMBRAND/DBI-1.652.tgz
 DBI::ProxyServer::st             0.3005  H/HM/HMBRAND/DBI-1.652.tgz
-DBI::PurePerl                  2.014286  H/HM/HMBRAND/DBI-1.654.tgz
+DBI::PurePerl                  2.014286  H/HM/HMBRAND/DBI-1.655.tgz
 DBI::ResultPager               0.009002  L/LR/LREEVES/DBI-ResultPager-0.9.2.tar.gz
 DBI::Shell                        11.98  D/DL/DLAMBLEY/DBI-Shell-11.98.tar.gz
 DBI::Shell::Completion            11.98  D/DL/DLAMBLEY/DBI-Shell-11.98.tar.gz
@@ -61579,7 +61579,7 @@ DBI::Shell::FindSqlFile           11.98  D/DL/DLAMBLEY/DBI-Shell-11.98.tar.gz
 DBI::Shell::Spool                 11.98  D/DL/DLAMBLEY/DBI-Shell-11.98.tar.gz
 DBI::Shell::SQLMinus              11.98  D/DL/DLAMBLEY/DBI-Shell-11.98.tar.gz
 DBI::Shell::Timing                11.98  D/DL/DLAMBLEY/DBI-Shell-11.98.tar.gz
-DBI::SQL::Nano                 1.015544  H/HM/HMBRAND/DBI-1.654.tgz
+DBI::SQL::Nano                 1.015544  H/HM/HMBRAND/DBI-1.655.tgz
 DBI::SQL::Nano::Statement_     1.015544  H/HM/HMBRAND/DBI-1.652.tgz
 DBI::SQL::Nano::Table_         1.015544  H/HM/HMBRAND/DBI-1.652.tgz
 DBI::Test                         0.001  R/RE/REHSACK/DBI-Test-0.001.tar.gz
@@ -61598,7 +61598,7 @@ DBI::Transaction                  0.101  P/PO/PORTON/DBI/DBI-Transaction-0.101.t
 DBI::Transaction::CannotRollback  0.101  P/PO/PORTON/DBI/DBI-Transaction-0.101.tar.gz
 DBI::Transaction::Repeated        0.101  P/PO/PORTON/DBI/DBI-Transaction-0.101.tar.gz
 DBI::Util::_accessor           0.009479  H/HM/HMBRAND/DBI-1.652.tgz
-DBI::Util::CacheMemory         0.010315  H/HM/HMBRAND/DBI-1.654.tgz
+DBI::Util::CacheMemory         0.010315  H/HM/HMBRAND/DBI-1.655.tgz
 DBIC::Violator                    0.900  V/VA/VANSTYN/DBIC-Violator-0.900.tar.gz
 DBIC::Violator::Collector         undef  V/VA/VANSTYN/DBIC-Violator-0.900.tar.gz
 DBIC::Violator::Collector::DbConn undef  V/VA/VANSTYN/DBIC-Violator-0.900.tar.gz
