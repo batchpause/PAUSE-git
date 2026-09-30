@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261430
-Last-Updated: Wed, 30 Sep 2026 20:54:39 GMT
+Last-Updated: Wed, 30 Sep 2026 21:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -54342,7 +54342,7 @@ Data::Dimensions                   0.05  A/AJ/AJGOUGH/Data-Dimensions-0.05.tar.g
 Data::Dimensions::Map             undef  A/AJ/AJGOUGH/Data-Dimensions-0.05.tar.gz
 Data::Dimensions::SickTie         undef  A/AJ/AJGOUGH/Data-Dimensions-0.05.tar.gz
 Data::Direct                       0.05  S/SC/SCHOP/Data-Direct-0.05.tar.gz
-Data::DisjointSet::Shared          0.05  E/EG/EGOR/Data-DisjointSet-Shared-0.05.tar.gz
+Data::DisjointSet::Shared          0.06  E/EG/EGOR/Data-DisjointSet-Shared-0.06.tar.gz
 Data::Display                      0.02  G/GE/GEOTIGER/Data-Display-0.02.tar.gz
 Data::Displaycolour              v0.8.0  L/LI/LION/Data-Displaycolour-v0.08.tar.gz
 Data::Displaycolour::Data        v0.8.0  L/LI/LION/Data-Displaycolour-v0.08.tar.gz
@@ -155016,12 +155016,12 @@ OrePAN2::Logger                   undef  O/OA/OALDERS/OrePAN2-0.54.tar.gz
 OrePAN2::Repository               undef  O/OA/OALDERS/OrePAN2-0.54.tar.gz
 OrePAN2::Repository::Cache        undef  O/OA/OALDERS/OrePAN2-0.54.tar.gz
 OrePAN2::Role::HasLogger          undef  O/OA/OALDERS/OrePAN2-0.54.tar.gz
-OrePAN2::S3                      v2.1.1  B/BI/BIGFOOT/OrePAN2-S3-2.1.1.tar.gz
-OrePAN2::S3::Indexer                  0  B/BI/BIGFOOT/OrePAN2-S3-2.1.1.tar.gz
-OrePAN2::S3::Role::Delete             0  B/BI/BIGFOOT/OrePAN2-S3-2.1.1.tar.gz
-OrePAN2::S3::Role::Inject        v2.1.1  B/BI/BIGFOOT/OrePAN2-S3-2.1.1.tar.gz
-OrePAN2::S3::Role::Upload             0  B/BI/BIGFOOT/OrePAN2-S3-2.1.1.tar.gz
-OrePAN2::S3::Role::UploadArtifacts    0  B/BI/BIGFOOT/OrePAN2-S3-2.1.1.tar.gz
+OrePAN2::S3                      v2.1.2  B/BI/BIGFOOT/OrePAN2-S3-2.1.2.tar.gz
+OrePAN2::S3::Indexer                  0  B/BI/BIGFOOT/OrePAN2-S3-2.1.2.tar.gz
+OrePAN2::S3::Role::Delete             0  B/BI/BIGFOOT/OrePAN2-S3-2.1.2.tar.gz
+OrePAN2::S3::Role::Inject        v2.1.2  B/BI/BIGFOOT/OrePAN2-S3-2.1.2.tar.gz
+OrePAN2::S3::Role::Upload             0  B/BI/BIGFOOT/OrePAN2-S3-2.1.2.tar.gz
+OrePAN2::S3::Role::UploadArtifacts    0  B/BI/BIGFOOT/OrePAN2-S3-2.1.2.tar.gz
 OrePAN2::Server                    0.04  H/HI/HIROBANEX/OrePAN2-Server-0.04.tar.gz
 OrePAN2::Server::CLI              undef  H/HI/HIROBANEX/OrePAN2-Server-0.04.tar.gz
 OrePAN::Archive                   undef  T/TO/TOKUHIROM/OrePAN-0.08.tar.gz
