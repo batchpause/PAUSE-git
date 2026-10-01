@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261458
-Last-Updated: Thu, 01 Oct 2026 10:54:18 GMT
+Last-Updated: Thu, 01 Oct 2026 12:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4624,7 +4624,7 @@ Alien::Uninum::Install::Files     0.005  Z/ZM/ZMUGHAL/Alien-Uninum-0.005.tar.gz
 Alien::UnRTF                       0.02  J/JO/JOENIO/Alien-UnRTF-0.02.tar.gz
 Alien::unzip                       0.03  P/PL/PLICEASE/Alien-unzip-0.03.tar.gz
 Alien::uPB                         0.15  M/MB/MBARBON/Alien-uPB-0.15.tar.gz
-Alien::uPB::Core                   0.20  M/MB/MBARBON/Alien-uPB-Core-0.20.tar.gz
+Alien::uPB::Core                   0.21  M/MB/MBARBON/Alien-uPB-Core-0.21.tar.gz
 Alien::Util                        2.88  P/PL/PLICEASE/Alien-Build-2.88.tar.gz
 Alien::V8                          0.05  E/ET/ETJ/Alien-V8-0.05.tar.gz
 Alien::VideoLAN::LibVLC            0.04  A/AS/ASOKOLOV/Alien-VideoLAN-LibVLC-0.04.tar.gz
