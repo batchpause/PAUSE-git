@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261502
-Last-Updated: Thu, 01 Oct 2026 17:41:02 GMT
+Line-Count:   261508
+Last-Updated: Thu, 01 Oct 2026 17:54:13 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -116458,48 +116458,54 @@ Langertha::HTTP::UserAgent        0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::ImageGen               0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::Input                  0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::Input::Tools           0.503  G/GE/GETTY/Langertha-0.503.tar.gz
-Langertha::Knarr                  1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::CLI             1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::CLI::Cmd::Check 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::CLI::Cmd::Container 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::CLI::Cmd::Init  1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::CLI::Cmd::Models 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::CLI::Cmd::Start 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Config          1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Handler         1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Handler::A2AClient 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Handler::ACPClient 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Handler::Code   1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Handler::Engine 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Handler::Passthrough 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Handler::Raider 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Handler::RequestLog 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Handler::Router 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Handler::Tracing 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
+Langertha::Knarr                  1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::CLI             1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::CLI::Cmd::Check 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::CLI::Cmd::Container 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::CLI::Cmd::Init  1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::CLI::Cmd::Models 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::CLI::Cmd::Start 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::CLI::Role::GlobalOptions 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Config          1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Handler         1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Handler::A2AClient 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Handler::ACPClient 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Handler::Code   1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Handler::Engine 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Handler::Passthrough 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Handler::Raider 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Handler::RequestLog 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Handler::Router 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Handler::Tracing 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Image           1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
 Langertha::Knarr::Input           0.007  G/GE/GETTY/Langertha-Knarr-0.007.tar.gz
 Langertha::Knarr::Input::Tools    0.007  G/GE/GETTY/Langertha-Knarr-0.007.tar.gz
+Langertha::Knarr::Manifest        1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
 Langertha::Knarr::Metrics         0.007  G/GE/GETTY/Langertha-Knarr-0.007.tar.gz
 Langertha::Knarr::Output          0.007  G/GE/GETTY/Langertha-Knarr-0.007.tar.gz
 Langertha::Knarr::Output::Tools   0.007  G/GE/GETTY/Langertha-Knarr-0.007.tar.gz
-Langertha::Knarr::Protocol        1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Protocol::A2A   1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Protocol::ACP   1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Protocol::AGUI  1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Protocol::Anthropic 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Protocol::Ollama 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Protocol::OpenAI 1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
+Langertha::Knarr::PassthroughUsage 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Protocol        1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Protocol::A2A   1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Protocol::ACP   1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Protocol::AGUI  1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Protocol::Anthropic 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Protocol::Ollama 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Protocol::OpenAI 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
 Langertha::Knarr::Proxy::Anthropic 0.007  G/GE/GETTY/Langertha-Knarr-0.007.tar.gz
 Langertha::Knarr::Proxy::Ollama   0.007  G/GE/GETTY/Langertha-Knarr-0.007.tar.gz
 Langertha::Knarr::Proxy::OpenAI   0.007  G/GE/GETTY/Langertha-Knarr-0.007.tar.gz
-Langertha::Knarr::PSGI            1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::PSGI::FakeReq   1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Request         1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::RequestLog      1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Response        1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Router          1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Session         1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Stream          1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
-Langertha::Knarr::Tracing         1.101  G/GE/GETTY/Langertha-Knarr-1.101.tar.gz
+Langertha::Knarr::PSGI            1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::PSGI::FakeReq   1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Reasoning       1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Request         1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::RequestLog      1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Response        1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Role::UpstreamHTTP 1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Router          1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Session         1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Stream          1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
+Langertha::Knarr::Tracing         1.102  G/GE/GETTY/Langertha-Knarr-1.102.tar.gz
 Langertha::Manifest               0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::Manifest::Auth         0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::Manifest::Builder      0.503  G/GE/GETTY/Langertha-0.503.tar.gz

@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668187
+Line-Count:  668193
 Written-By:  PAUSE version 1.005
-Date:        Thu, 01 Oct 2026 17:41:15 GMT
+Date:        Thu, 01 Oct 2026 17:55:31 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -344346,6 +344346,7 @@ Langertha::Knarr::CLI::Cmd::Container,GETTY,f
 Langertha::Knarr::CLI::Cmd::Init,GETTY,f
 Langertha::Knarr::CLI::Cmd::Models,GETTY,f
 Langertha::Knarr::CLI::Cmd::Start,GETTY,f
+Langertha::Knarr::CLI::Role::GlobalOptions,GETTY,f
 Langertha::Knarr::Config,GETTY,f
 Langertha::Knarr::Handler,GETTY,f
 Langertha::Knarr::Handler::A2AClient,GETTY,f
@@ -344357,13 +344358,16 @@ Langertha::Knarr::Handler::Raider,GETTY,f
 Langertha::Knarr::Handler::RequestLog,GETTY,f
 Langertha::Knarr::Handler::Router,GETTY,f
 Langertha::Knarr::Handler::Tracing,GETTY,f
+Langertha::Knarr::Image,GETTY,f
 Langertha::Knarr::Input,GETTY,f
 Langertha::Knarr::Input::Tools,GETTY,f
+Langertha::Knarr::Manifest,GETTY,f
 Langertha::Knarr::Metrics,GETTY,f
 Langertha::Knarr::Output,GETTY,f
 Langertha::Knarr::Output::Tools,GETTY,f
 Langertha::Knarr::PSGI,GETTY,f
 Langertha::Knarr::PSGI::FakeReq,GETTY,f
+Langertha::Knarr::PassthroughUsage,GETTY,f
 Langertha::Knarr::Protocol,GETTY,f
 Langertha::Knarr::Protocol::A2A,GETTY,f
 Langertha::Knarr::Protocol::ACP,GETTY,f
@@ -344374,9 +344378,11 @@ Langertha::Knarr::Protocol::OpenAI,GETTY,f
 Langertha::Knarr::Proxy::Anthropic,GETTY,f
 Langertha::Knarr::Proxy::Ollama,GETTY,f
 Langertha::Knarr::Proxy::OpenAI,GETTY,f
+Langertha::Knarr::Reasoning,GETTY,f
 Langertha::Knarr::Request,GETTY,f
 Langertha::Knarr::RequestLog,GETTY,f
 Langertha::Knarr::Response,GETTY,f
+Langertha::Knarr::Role::UpstreamHTTP,GETTY,f
 Langertha::Knarr::Router,GETTY,f
 Langertha::Knarr::Session,GETTY,f
 Langertha::Knarr::Stream,GETTY,f
