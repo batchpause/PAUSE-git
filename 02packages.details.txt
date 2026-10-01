@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261459
-Last-Updated: Thu, 01 Oct 2026 13:17:02 GMT
+Last-Updated: Thu, 01 Oct 2026 14:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -225531,7 +225531,7 @@ Task::Padre::Plugin::Deps          0.12  F/FA/FAYLAND/Task-Padre-Plugin-Deps-0.1
 Task::Padre::Plugins               0.26  F/FA/FAYLAND/Task-Padre-Plugins-0.26.tar.gz
 Task::Perl::Critic                1.008  T/TH/THALJEF/Task-Perl-Critic-1.008.tar.gz
 Task::Perl::Critic::IncludingOptionalDependencies 1.005  E/EL/ELLIOTJS/Task-Perl-Critic-IncludingOptionalDependencies-1.005.tar.gz
-Task::PerlCriticAllPolicies        0.07  G/GU/GUGOD/Task-PerlCriticAllPolicies-0.07.tar.gz
+Task::PerlCriticAllPolicies        0.08  G/GU/GUGOD/Task-PerlCriticAllPolicies-0.08.tar.gz
 Task::PerlFormance                0.010  S/SC/SCHWIGON/Task-PerlFormance-0.010.tar.gz
 Task::PerlX                        0.01  G/GU/GUGOD/Task-PerlX-0.01.tar.gz
 Task::Plack                        0.28  M/MI/MIYAGAWA/Task-Plack-0.28.tar.gz
