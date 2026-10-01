@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261430
-Last-Updated: Thu, 01 Oct 2026 01:17:03 GMT
+Last-Updated: Thu, 01 Oct 2026 01:54:27 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -123336,7 +123336,7 @@ Loctools::Net::OAuth2::Session::Google undef  A/AF/AFAN/Loctools-Net-1.0.tar.gz
 LocusLinkAccessor                     1  L/LD/LDS/Boulder-1.30.tar.gz
 log2_heatmap                        1.5  C/CJ/CJONES/Microarray-0.45c.zip
 Log4Perl::ImportHandle            0.033  A/AH/AHERNIT/Log4Perl-ImportHandle-0.033.tar.gz
-Log::Abstraction                   0.34  N/NH/NHORNE/Log-Abstraction-0.34.tar.gz
+Log::Abstraction                   0.35  N/NH/NHORNE/Log-Abstraction-0.35.tar.gz
 Log::Accounting                     0.3  O/OL/OLIMAUL/Log-Accounting-0.3.tar.gz
 Log::Accounting::Sendmail           0.2  O/OL/OLIMAUL/Log-Accounting-Sendmail-0.2.tar.gz
 Log::Agent                        1.005  M/MR/MROGASKI/Log-Agent-1.005.tar.gz
@@ -123374,7 +123374,7 @@ Log::AndError                      1.01  T/TB/TBOLIOLI/Log-AndError-1.01.tar.gz
 Log::AndError::Constants           0.01  T/TB/TBOLIOLI/Log-AndError-1.01.tar.gz
 Log::Any                          1.720  P/PR/PREACTION/Log-Any-1.720.tar.gz
 Log::Any::Adapter                 1.720  P/PR/PREACTION/Log-Any-1.720.tar.gz
-Log::Any::Adapter::Abstraction     0.34  N/NH/NHORNE/Log-Abstraction-0.34.tar.gz
+Log::Any::Adapter::Abstraction     0.35  N/NH/NHORNE/Log-Abstraction-0.35.tar.gz
 Log::Any::Adapter::AcmeLocal       0.11  S/SL/SLUDIN/Protocol-ACME-0.11.tar.gz
 Log::Any::Adapter::Apache2         0.02  I/IV/IVANYCH/Log-Any-Adapter-Apache2-0.02.tar.gz
 Log::Any::Adapter::Base           1.720  P/PR/PREACTION/Log-Any-1.720.tar.gz
