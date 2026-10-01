@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668128
+Line-Count:  668144
 Written-By:  PAUSE version 1.005
-Date:        Thu, 01 Oct 2026 08:55:29 GMT
+Date:        Thu, 01 Oct 2026 13:17:22 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -322103,33 +322103,47 @@ IO::Easy::File,APLA,f
 IO::EditPrompt,GWADEJ,f
 IO::Epoll,BRUCEK,f
 IO::Event,ADOPTME,c
-IO::Event,MUIR,f
+IO::Event,MUIR,c
+IO::Event,PLICEASE,f
 IO::Event::AnyEvent,ADOPTME,c
-IO::Event::AnyEvent,MUIR,f
+IO::Event::AnyEvent,MUIR,c
+IO::Event::AnyEvent,PLICEASE,f
 IO::Event::AnyEvent::Wrapper,ADOPTME,c
-IO::Event::AnyEvent::Wrapper,MUIR,f
+IO::Event::AnyEvent::Wrapper,MUIR,c
+IO::Event::AnyEvent::Wrapper,PLICEASE,f
 IO::Event::Callback,ADOPTME,c
-IO::Event::Callback,MUIR,f
+IO::Event::Callback,MUIR,c
+IO::Event::Callback,PLICEASE,f
 IO::Event::Common,ADOPTME,c
-IO::Event::Common,MUIR,f
+IO::Event::Common,MUIR,c
+IO::Event::Common,PLICEASE,f
 IO::Event::Emulate,ADOPTME,c
-IO::Event::Emulate,MUIR,f
+IO::Event::Emulate,MUIR,c
+IO::Event::Emulate,PLICEASE,f
 IO::Event::Emulate::Idle,ADOPTME,c
-IO::Event::Emulate::Idle,MUIR,f
+IO::Event::Emulate::Idle,MUIR,c
+IO::Event::Emulate::Idle,PLICEASE,f
 IO::Event::Emulate::Timer,ADOPTME,c
-IO::Event::Emulate::Timer,MUIR,f
+IO::Event::Emulate::Timer,MUIR,c
+IO::Event::Emulate::Timer,PLICEASE,f
 IO::Event::Event,ADOPTME,c
-IO::Event::Event,MUIR,f
+IO::Event::Event,MUIR,c
+IO::Event::Event,PLICEASE,f
 IO::Event::INET::Callback,ADOPTME,c
-IO::Event::INET::Callback,MUIR,f
+IO::Event::INET::Callback,MUIR,c
+IO::Event::INET::Callback,PLICEASE,f
 IO::Event::Socket::INET,ADOPTME,c
-IO::Event::Socket::INET,MUIR,f
+IO::Event::Socket::INET,MUIR,c
+IO::Event::Socket::INET,PLICEASE,f
 IO::Event::Socket::UNIX,ADOPTME,c
-IO::Event::Socket::UNIX,MUIR,f
+IO::Event::Socket::UNIX,MUIR,c
+IO::Event::Socket::UNIX,PLICEASE,f
 IO::Event::Timer,ADOPTME,c
-IO::Event::Timer,MUIR,f
+IO::Event::Timer,MUIR,c
+IO::Event::Timer,PLICEASE,f
 IO::Event::UNIX::Callback,ADOPTME,c
-IO::Event::UNIX::Callback,MUIR,f
+IO::Event::UNIX::Callback,MUIR,c
+IO::Event::UNIX::Callback,PLICEASE,f
 IO::EventMux,TLBDK,f
 IO::EventMux::Dump,TLBDK,c
 IO::EventMux::Socket::MsgHdr,TLBDK,f
@@ -657931,6 +657945,8 @@ Zonemaster::Engine::Nameserver::Cache::LocalCache,TGREENX,c
 Zonemaster::Engine::Nameserver::Cache::LocalCache,ZNMSTR,f
 Zonemaster::Engine::Nameserver::Cache::RedisCache,TGREENX,c
 Zonemaster::Engine::Nameserver::Cache::RedisCache,ZNMSTR,f
+Zonemaster::Engine::NameserverSet,TGREENX,c
+Zonemaster::Engine::NameserverSet,ZNMSTR,f
 Zonemaster::Engine::Net::IP,TGREENX,c
 Zonemaster::Engine::Net::IP,ZNMSTR,f
 Zonemaster::Engine::Normalization,TGREENX,c
