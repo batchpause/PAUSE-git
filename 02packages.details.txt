@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261459
-Last-Updated: Thu, 01 Oct 2026 16:17:01 GMT
+Last-Updated: Thu, 01 Oct 2026 16:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -49842,12 +49842,12 @@ CryoTel::CryoCon               0.000006  K/KE/KERR/CryoTel-CryoCon-0.0.6.tar.gz
 Crypt::AES::CTR                    0.03  K/KN/KNOWZERO/Crypt-AES-CTR-0.03.tar.gz
 Crypt::Affine                      0.15  M/MA/MANWAR/Crypt-Affine-0.15.tar.gz
 Crypt::Affine::Params              0.15  M/MA/MANWAR/Crypt-Affine-0.15.tar.gz
-Crypt::Age                        0.004  G/GE/GETTY/Crypt-Age-0.004.tar.gz
-Crypt::Age::Header                0.004  G/GE/GETTY/Crypt-Age-0.004.tar.gz
-Crypt::Age::Keys                  0.004  G/GE/GETTY/Crypt-Age-0.004.tar.gz
-Crypt::Age::Primitives            0.004  G/GE/GETTY/Crypt-Age-0.004.tar.gz
-Crypt::Age::Stanza                0.004  G/GE/GETTY/Crypt-Age-0.004.tar.gz
-Crypt::Age::Stanza::X25519        0.004  G/GE/GETTY/Crypt-Age-0.004.tar.gz
+Crypt::Age                        0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
+Crypt::Age::Header                0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
+Crypt::Age::Keys                  0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
+Crypt::Age::Primitives            0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
+Crypt::Age::Stanza                0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
+Crypt::Age::Stanza::X25519        0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
 Crypt::AllOrNothing                0.10  Z/ZA/ZANDET/Crypt-AllOrNothing-0.10.tar.gz
 Crypt::AllOrNothing::Util          0.09  Z/ZA/ZANDET/Crypt-AllOrNothing-Util-0.09.tar.gz
 Crypt::Anubis                       1.0  J/JC/JCDUQUE/Crypt-Anubis-1.0.4.tar.gz
@@ -204025,20 +204025,20 @@ Rex::Fork::Manager              v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Fork::Task                 v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::FS::File                   v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Gearman                   0.032000  J/JF/JFRIED/Rex-Gearman-0.32.0.tar.gz
-Rex::GPU                          0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
-Rex::GPU::Detect                  0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
-Rex::GPU::Detect::Sysfs           0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
-Rex::GPU::NVIDIA                  0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
-Rex::GPU::NVIDIA::Requirement     0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
-Rex::GPU::NVIDIA::Setup           0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
-Rex::GPU::NVIDIA::Setup::Apt      0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
-Rex::GPU::NVIDIA::Setup::Debian   0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
-Rex::GPU::NVIDIA::Setup::RHEL     0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
-Rex::GPU::NVIDIA::Setup::Rpm      0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
-Rex::GPU::NVIDIA::Setup::SUSE     0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
-Rex::GPU::NVIDIA::Setup::Ubuntu   0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
-Rex::GPU::NVIDIA::Setup::UbuntuDrivers 0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
-Rex::GPU::NVIDIA::VGPU            0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU                          0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU::Detect                  0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU::Detect::Sysfs           0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU::NVIDIA                  0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU::NVIDIA::Requirement     0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU::NVIDIA::Setup           0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU::NVIDIA::Setup::Apt      0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU::NVIDIA::Setup::Debian   0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU::NVIDIA::Setup::RHEL     0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU::NVIDIA::Setup::Rpm      0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU::NVIDIA::Setup::SUSE     0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU::NVIDIA::Setup::Ubuntu   0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU::NVIDIA::Setup::UbuntuDrivers 0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU::NVIDIA::VGPU            0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
 Rex::Group                      v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Group::Entry::Server       v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Group::Lookup::Command     v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
