@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261430
-Last-Updated: Thu, 01 Oct 2026 00:41:03 GMT
+Last-Updated: Thu, 01 Oct 2026 01:17:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -57525,7 +57525,7 @@ Data::Section::Seekable::Writer   0.092  P/PE/PERLANCAR/Data-Section-Seekable-0.
 Data::Section::Simple              0.07  M/MI/MIYAGAWA/Data-Section-Simple-0.07.tar.gz
 Data::Section::TestBase            0.13  T/TO/TOKUHIROM/Text-TestBase-0.13.tar.gz
 Data::Section::Writer              0.05  P/PL/PLICEASE/Data-Section-Writer-0.05.tar.gz
-Data::SegmentTree::Shared          0.05  E/EG/EGOR/Data-SegmentTree-Shared-0.05.tar.gz
+Data::SegmentTree::Shared          0.06  E/EG/EGOR/Data-SegmentTree-Shared-0.06.tar.gz
 Data::Selector                     1.02  J/JD/JDV/Data-Selector-1.02.tar.gz
 Data::Semantic                 1.101620  M/MA/MARCEL/Data-Semantic-1.101620.tar.gz
 Data::Semantic::Net            1.101760  M/MA/MARCEL/Data-Semantic-Net-1.101760.tar.gz
