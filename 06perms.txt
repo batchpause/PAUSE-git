@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668101
+Line-Count:  668127
 Written-By:  PAUSE version 1.005
-Date:        Thu, 01 Oct 2026 03:41:19 GMT
+Date:        Thu, 01 Oct 2026 04:18:07 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -338678,6 +338678,24 @@ KubeBuilder::TypeInferer,GETTY,c
 KubeBuilder::TypeInferer,JLMARTIN,f
 Kubectl::CLIWrapper,JLMARTIN,f
 Kubectl::CLIWrapper::Result,JLMARTIN,f
+Kubernetes::Comb,GETTY,f
+Kubernetes::Comb::CRD,GETTY,f
+Kubernetes::Comb::CRD::Comb,GETTY,f
+Kubernetes::Comb::CRD::CombCondition,GETTY,f
+Kubernetes::Comb::CRD::CombEndpoint,GETTY,f
+Kubernetes::Comb::CRD::CombResource,GETTY,f
+Kubernetes::Comb::CRD::CombSpec,GETTY,f
+Kubernetes::Comb::CRD::CombStatus,GETTY,f
+Kubernetes::Comb::CRD::CombUpstreamStatus,GETTY,f
+Kubernetes::Comb::Client::Async,GETTY,f
+Kubernetes::Comb::Client::Sync,GETTY,f
+Kubernetes::Comb::Endpoint,GETTY,f
+Kubernetes::Comb::Role::Client,GETTY,f
+Kubernetes::Comb::Role::Static,GETTY,f
+Kubernetes::Comb::Role::Upstream,GETTY,f
+Kubernetes::Comb::Static,GETTY,f
+Kubernetes::Comb::Upstream::K8s,GETTY,f
+Kubernetes::Comb::Upstream::Static,GETTY,f
 Kubernetes::REST,GETTY,c
 Kubernetes::REST,JLMARTIN,f
 Kubernetes::REST::APIError,GETTY,c
@@ -561896,6 +561914,7 @@ Rex::Fork::Task,FERKI,c
 Rex::Fork::Task,JFRIED,f
 Rex::GPU,GETTY,f
 Rex::GPU::Detect,GETTY,f
+Rex::GPU::Detect::Sysfs,GETTY,f
 Rex::GPU::NVIDIA,GETTY,f
 Rex::GPU::NVIDIA::Requirement,GETTY,f
 Rex::GPU::NVIDIA::Setup,GETTY,f
@@ -561905,6 +561924,7 @@ Rex::GPU::NVIDIA::Setup::RHEL,GETTY,f
 Rex::GPU::NVIDIA::Setup::Rpm,GETTY,f
 Rex::GPU::NVIDIA::Setup::SUSE,GETTY,f
 Rex::GPU::NVIDIA::Setup::Ubuntu,GETTY,f
+Rex::GPU::NVIDIA::Setup::UbuntuDrivers,GETTY,f
 Rex::GPU::NVIDIA::VGPU,GETTY,f
 Rex::Gearman,FERKI,c
 Rex::Gearman,JFRIED,f
@@ -562441,10 +562461,16 @@ Rex::Profiler,FERKI,c
 Rex::Profiler,JFRIED,f
 Rex::Rancher,GETTY,f
 Rex::Rancher::Agent,GETTY,f
+Rex::Rancher::Checksum,GETTY,f
 Rex::Rancher::Cilium,GETTY,f
+Rex::Rancher::Distribution,GETTY,f
+Rex::Rancher::Distribution::K3s,GETTY,f
+Rex::Rancher::Distribution::RKE2,GETTY,f
 Rex::Rancher::K8s,GETTY,f
 Rex::Rancher::Node,GETTY,f
+Rex::Rancher::Options,GETTY,f
 Rex::Rancher::Server,GETTY,f
+Rex::Rancher::Uninstall,GETTY,f
 Rex::Report,EHUELS,c
 Rex::Report,FERKI,c
 Rex::Report,JFRIED,f

@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261432
-Last-Updated: Thu, 01 Oct 2026 03:54:38 GMT
+Line-Count:   261458
+Last-Updated: Thu, 01 Oct 2026 04:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -56590,8 +56590,8 @@ Data::Pokemon::Go::Skill          undef  W/WO/WORTHMINE/Data-Pokemon-Go-0.14.tar
 Data::Polipo                       0.02  T/TO/TORU/Data-Polipo-0.02.tar.gz
 Data::Polymorph                    0.01  L/LI/LIEUTAR/Data-Polymorph-0.01.tar.gz
 Data::Pond                        0.006  D/DB/DBOOK/Data-Pond-0.006.tar.gz
-Data::Pool::Shared                 0.09  E/EG/EGOR/Data-Pool-Shared-0.09.tar.gz
-Data::Pool::Shared::Guard          0.09  E/EG/EGOR/Data-Pool-Shared-0.09.tar.gz
+Data::Pool::Shared                 0.10  E/EG/EGOR/Data-Pool-Shared-0.10.tar.gz
+Data::Pool::Shared::Guard          0.10  E/EG/EGOR/Data-Pool-Shared-0.10.tar.gz
 Data::Power::FaultDetectorBase     0.01  P/PY/PYH/Data-Power-FaultDetectorBase-0.01.tgz
 Data::Power::Inspection            0.07  P/PY/PYH/Data-Power-Inspection-0.07.tgz
 Data::PowerSet                     0.05  D/DL/DLAND/Data-PowerSet-0.05.tar.gz
@@ -114580,6 +114580,24 @@ KubeBuilder::Property             undef  J/JL/JLMARTIN/KubeBuilder-0.02.tar.gz
 KubeBuilder::TypeInferer          undef  J/JL/JLMARTIN/KubeBuilder-0.02.tar.gz
 Kubectl::CLIWrapper                0.06  J/JL/JLMARTIN/Kubectl-CLIWrapper-0.06.tar.gz
 Kubectl::CLIWrapper::Result       undef  J/JL/JLMARTIN/Kubectl-CLIWrapper-0.06.tar.gz
+Kubernetes::Comb                  0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::Client::Async   0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::Client::Sync    0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::CRD             0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::CRD::Comb       0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::CRD::CombCondition 0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::CRD::CombEndpoint 0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::CRD::CombResource 0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::CRD::CombSpec   0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::CRD::CombStatus 0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::CRD::CombUpstreamStatus 0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::Endpoint        0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::Role::Client    0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::Role::Static    0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::Role::Upstream  0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::Static          0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::Upstream::K8s   0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb::Upstream::Static 0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
 Kubernetes::REST                  1.109  G/GE/GETTY/Kubernetes-REST-1.109.tar.gz
 Kubernetes::REST::Admissionregistration 1.109  G/GE/GETTY/Kubernetes-REST-1.109.tar.gz
 Kubernetes::REST::APIError        1.109  G/GE/GETTY/Kubernetes-REST-1.109.tar.gz
@@ -204007,18 +204025,20 @@ Rex::Fork::Manager              v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Fork::Task                 v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::FS::File                   v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Gearman                   0.032000  J/JF/JFRIED/Rex-Gearman-0.32.0.tar.gz
-Rex::GPU                          0.002  G/GE/GETTY/Rex-GPU-0.002.tar.gz
-Rex::GPU::Detect                  0.002  G/GE/GETTY/Rex-GPU-0.002.tar.gz
-Rex::GPU::NVIDIA                  0.002  G/GE/GETTY/Rex-GPU-0.002.tar.gz
-Rex::GPU::NVIDIA::Requirement     0.002  G/GE/GETTY/Rex-GPU-0.002.tar.gz
-Rex::GPU::NVIDIA::Setup           0.002  G/GE/GETTY/Rex-GPU-0.002.tar.gz
-Rex::GPU::NVIDIA::Setup::Apt      0.002  G/GE/GETTY/Rex-GPU-0.002.tar.gz
-Rex::GPU::NVIDIA::Setup::Debian   0.002  G/GE/GETTY/Rex-GPU-0.002.tar.gz
-Rex::GPU::NVIDIA::Setup::RHEL     0.002  G/GE/GETTY/Rex-GPU-0.002.tar.gz
-Rex::GPU::NVIDIA::Setup::Rpm      0.002  G/GE/GETTY/Rex-GPU-0.002.tar.gz
-Rex::GPU::NVIDIA::Setup::SUSE     0.002  G/GE/GETTY/Rex-GPU-0.002.tar.gz
-Rex::GPU::NVIDIA::Setup::Ubuntu   0.002  G/GE/GETTY/Rex-GPU-0.002.tar.gz
-Rex::GPU::NVIDIA::VGPU            0.002  G/GE/GETTY/Rex-GPU-0.002.tar.gz
+Rex::GPU                          0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU::Detect                  0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU::Detect::Sysfs           0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU::NVIDIA                  0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU::NVIDIA::Requirement     0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU::NVIDIA::Setup           0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU::NVIDIA::Setup::Apt      0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU::NVIDIA::Setup::Debian   0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU::NVIDIA::Setup::RHEL     0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU::NVIDIA::Setup::Rpm      0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU::NVIDIA::Setup::SUSE     0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU::NVIDIA::Setup::Ubuntu   0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU::NVIDIA::Setup::UbuntuDrivers 0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
+Rex::GPU::NVIDIA::VGPU            0.003  G/GE/GETTY/Rex-GPU-0.003.tar.gz
 Rex::Group                      v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Group::Entry::Server       v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Group::Lookup::Command     v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
@@ -204196,12 +204216,18 @@ Rex::PkgConf                    v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::PkgConf::Base              v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::PkgConf::Debian            v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Profiler                   v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
-Rex::Rancher                      0.002  G/GE/GETTY/Rex-Rancher-0.002.tar.gz
-Rex::Rancher::Agent               0.002  G/GE/GETTY/Rex-Rancher-0.002.tar.gz
-Rex::Rancher::Cilium              0.002  G/GE/GETTY/Rex-Rancher-0.002.tar.gz
-Rex::Rancher::K8s                 0.002  G/GE/GETTY/Rex-Rancher-0.002.tar.gz
-Rex::Rancher::Node                0.002  G/GE/GETTY/Rex-Rancher-0.002.tar.gz
-Rex::Rancher::Server              0.002  G/GE/GETTY/Rex-Rancher-0.002.tar.gz
+Rex::Rancher                      0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
+Rex::Rancher::Agent               0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
+Rex::Rancher::Checksum            0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
+Rex::Rancher::Cilium              0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
+Rex::Rancher::Distribution        0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
+Rex::Rancher::Distribution::K3s   0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
+Rex::Rancher::Distribution::RKE2  0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
+Rex::Rancher::K8s                 0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
+Rex::Rancher::Node                0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
+Rex::Rancher::Options             0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
+Rex::Rancher::Server              0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
+Rex::Rancher::Uninstall           0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
 Rex::Report                     v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Report::Base               v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Report::YAML               v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
