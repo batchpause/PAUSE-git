@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668099
+Line-Count:  668101
 Written-By:  PAUSE version 1.005
-Date:        Thu, 01 Oct 2026 02:55:51 GMT
+Date:        Thu, 01 Oct 2026 03:41:19 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -338680,6 +338680,8 @@ Kubectl::CLIWrapper,JLMARTIN,f
 Kubectl::CLIWrapper::Result,JLMARTIN,f
 Kubernetes::REST,GETTY,c
 Kubernetes::REST,JLMARTIN,f
+Kubernetes::REST::APIError,GETTY,c
+Kubernetes::REST::APIError,JLMARTIN,f
 Kubernetes::REST::Admissionregistration,GETTY,c
 Kubernetes::REST::Admissionregistration,JLMARTIN,f
 Kubernetes::REST::Apiextensions,GETTY,c
