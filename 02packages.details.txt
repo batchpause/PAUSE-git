@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261431
-Last-Updated: Thu, 01 Oct 2026 02:54:32 GMT
+Last-Updated: Thu, 01 Oct 2026 03:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -43651,7 +43651,7 @@ Chef::REST::Client::roles             1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
 Chef::REST::Client::runlist           1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
 Chef::REST::Client::sandboxes         1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
 Chef::REST::Client::search            1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
-Chem::Structure::Parser           0.035  D/DC/DCON/Chem-Structure-Parser-0.035.tar.gz
+Chem::Structure::Parser           0.036  D/DC/DCON/Chem-Structure-Parser-0.036.tar.gz
 Chemistry::3DBuilder               0.10  I/IT/ITUB/Chemistry-3DBuilder-0.10.tar.gz
 Chemistry::Artificial::Graphics    0.01  B/BR/BREQUESEN/Chemistry-Artificial-Graphics-0.01.tar.gz
 Chemistry::Artificial::SQL         0.01  B/BR/BREQUESEN/Chemistry-Artificial-SQL-0.01.tar.gz
@@ -57912,7 +57912,7 @@ Data::TOON                         0.03  Y/YT/YTURTLE/Data-TOON-0.03.tar.gz
 Data::TOON::Decoder               undef  Y/YT/YTURTLE/Data-TOON-0.03.tar.gz
 Data::TOON::Encoder               undef  Y/YT/YTURTLE/Data-TOON-0.03.tar.gz
 Data::TOON::Validator             undef  Y/YT/YTURTLE/Data-TOON-0.03.tar.gz
-Data::TopK::Shared                 0.05  E/EG/EGOR/Data-TopK-Shared-0.05.tar.gz
+Data::TopK::Shared                 0.06  E/EG/EGOR/Data-TopK-Shared-0.06.tar.gz
 Data::ToruCa                       0.06  Y/YA/YAPPO/Data-ToruCa-0.06.tar.gz
 Data::Trace                        1.06  T/TI/TIMKA/Data-Trace-1.06.tar.gz
 Data::Tranco                      undef  G/GB/GBROWN/Data-Tranco-0.003.tar.gz
