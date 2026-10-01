@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668279
+Line-Count:  668329
 Written-By:  PAUSE version 1.005
-Date:        Thu, 01 Oct 2026 21:18:29 GMT
+Date:        Thu, 01 Oct 2026 21:55:31 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -344444,7 +344444,57 @@ Langertha::Raid::Loop,GETTY,f
 Langertha::Raid::Parallel,GETTY,f
 Langertha::Raid::Sequential,GETTY,f
 Langertha::Raider,GETTY,f
+Langertha::Raider::ACP::CLI,GETTY,f
+Langertha::Raider::ACP::Client,GETTY,f
+Langertha::Raider::Application,GETTY,f
+Langertha::Raider::Approval,GETTY,f
+Langertha::Raider::Binary,GETTY,f
+Langertha::Raider::CLI,GETTY,f
+Langertha::Raider::CLI::Commands,GETTY,f
+Langertha::Raider::CLI::Machine,GETTY,f
+Langertha::Raider::CLI::Main,GETTY,f
+Langertha::Raider::CLI::Output,GETTY,f
+Langertha::Raider::CLI::PromptBuilder,GETTY,f
+Langertha::Raider::CLI::Provider,GETTY,f
+Langertha::Raider::CLI::REPL,GETTY,f
+Langertha::Raider::CLI::Runner,GETTY,f
+Langertha::Raider::CLI::Sessions,GETTY,f
+Langertha::Raider::Config,GETTY,f
+Langertha::Raider::Config::Migrate,GETTY,f
+Langertha::Raider::ConnectCheck,GETTY,f
+Langertha::Raider::Detect,GETTY,f
+Langertha::Raider::EngineResolver,GETTY,f
+Langertha::Raider::FileTools,GETTY,f
+Langertha::Raider::Hall,GETTY,f
+Langertha::Raider::Hall::ACP,GETTY,f
+Langertha::Raider::Hall::ACP::SubStream,GETTY,f
+Langertha::Raider::Hall::CLI,GETTY,f
+Langertha::Raider::Hall::Cron,GETTY,f
+Langertha::Raider::Hall::MCP,GETTY,f
+Langertha::Raider::Hall::Protocol,GETTY,f
+Langertha::Raider::Hall::Raider,GETTY,f
+Langertha::Raider::Hall::Telegram,GETTY,f
+Langertha::Raider::HallTools,GETTY,f
+Langertha::Raider::Home,GETTY,f
+Langertha::Raider::Instructions,GETTY,f
+Langertha::Raider::Packs,GETTY,f
+Langertha::Raider::Packs::Collection,GETTY,f
+Langertha::Raider::Packs::Pack,GETTY,f
+Langertha::Raider::PerlTools,GETTY,f
+Langertha::Raider::Plugin::Events,GETTY,f
+Langertha::Raider::Plugin::Situation,GETTY,f
+Langertha::Raider::Plugin::Trace,GETTY,f
+Langertha::Raider::Provider::Activation,GETTY,f
+Langertha::Raider::Provider::Change,GETTY,f
+Langertha::Raider::Provider::Fetch,GETTY,f
 Langertha::Raider::Result,GETTY,f
+Langertha::Raider::Session,GETTY,f
+Langertha::Raider::Session::Journal,GETTY,f
+Langertha::Raider::SessionStore,GETTY,f
+Langertha::Raider::Skill,GETTY,f
+Langertha::Raider::ToolArgs,GETTY,f
+Langertha::Raider::ToolEffects,GETTY,f
+Langertha::Raider::WebTools,GETTY,f
 Langertha::RateLimit,GETTY,f
 Langertha::Reasoning,GETTY,f
 Langertha::Reasoning::BudgetPolicy,GETTY,f

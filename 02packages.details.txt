@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261538
-Last-Updated: Thu, 01 Oct 2026 21:17:02 GMT
+Line-Count:   261588
+Last-Updated: Thu, 01 Oct 2026 21:54:10 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -14344,12 +14344,12 @@ App::Rad::Plugin::ReadLine        0.002  F/FO/FOOLISH/App-Rad-Plugin-ReadLine-0.
 App::Rad::Plugin::ReadLine::Demo  0.002  F/FO/FOOLISH/App-Rad-Plugin-ReadLine-0.002.tar.gz
 App::Rad::Plugin::TT                0.2  F/FC/FCO/App-Rad-Plugin-TT/App-Rad-Plugin-TT-0.2.tar.gz
 App::Rad::Plugin::ValuePriority    0.02  F/FC/FCO/App-Rad-Plugin-ValuePriority-0.02.tar.gz
-App::Raider                       0.003  G/GE/GETTY/App-Raider-0.003.tar.gz
-App::Raider::FileTools            0.003  G/GE/GETTY/App-Raider-0.003.tar.gz
-App::Raider::Plugin::Situation    0.003  G/GE/GETTY/App-Raider-0.003.tar.gz
-App::Raider::Plugin::Trace        0.003  G/GE/GETTY/App-Raider-0.003.tar.gz
-App::Raider::Skill                0.003  G/GE/GETTY/App-Raider-0.003.tar.gz
-App::Raider::WebTools             0.003  G/GE/GETTY/App-Raider-0.003.tar.gz
+App::Raider                       0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+App::Raider::FileTools            0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+App::Raider::Plugin::Situation    0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+App::Raider::Plugin::Trace        0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+App::Raider::Skill                0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+App::Raider::WebTools             0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
 App::rainbarf                       1.5  S/SY/SYP/App-rainbarf-1.5.tar.gz
 App::Rakubrew                        45  P/PA/PATRICKB/App-Rakubrew-45.tar.gz
 App::Rakubrew::Build                 45  P/PA/PATRICKB/App-Rakubrew-45.tar.gz
@@ -116526,12 +116526,62 @@ Langertha::Plugin                 0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::Plugin::Langfuse       0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::Pricing                0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::PromptCache            0.503  G/GE/GETTY/Langertha-0.503.tar.gz
-Langertha::Raid                   0.502  G/GE/GETTY/Langertha-0.502.tar.gz
-Langertha::Raid::Loop             0.502  G/GE/GETTY/Langertha-0.502.tar.gz
-Langertha::Raid::Parallel         0.502  G/GE/GETTY/Langertha-0.502.tar.gz
-Langertha::Raid::Sequential       0.502  G/GE/GETTY/Langertha-0.502.tar.gz
-Langertha::Raider                 0.502  G/GE/GETTY/Langertha-0.502.tar.gz
-Langertha::Raider::Result         0.502  G/GE/GETTY/Langertha-0.502.tar.gz
+Langertha::Raid                   0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raid::Loop             0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raid::Parallel         0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raid::Sequential       0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider                 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::ACP::CLI       0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::ACP::Client    0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Application    0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Approval       0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Binary         0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::CLI            0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::CLI::Commands  0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::CLI::Machine   0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::CLI::Main      0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::CLI::Output    0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::CLI::PromptBuilder 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::CLI::Provider  0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::CLI::REPL      0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::CLI::Runner    0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::CLI::Sessions  0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Config         0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Config::Migrate 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::ConnectCheck   0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Detect         0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::EngineResolver 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::FileTools      0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Hall           0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Hall::ACP      0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Hall::ACP::SubStream 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Hall::CLI      0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Hall::Cron     0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Hall::MCP      0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Hall::Protocol 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Hall::Raider   0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Hall::Telegram 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::HallTools      0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Home           0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Instructions   0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Packs          0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Packs::Collection 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Packs::Pack    0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::PerlTools      0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Plugin::Events 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Plugin::Situation 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Plugin::Trace  0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Provider::Activation 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Provider::Change 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Provider::Fetch 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Result         0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Session        0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Session::Journal 0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::SessionStore   0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::Skill          0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::ToolArgs       0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::ToolEffects    0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
+Langertha::Raider::WebTools       0.503  G/GE/GETTY/Langertha-Raider-0.503.tar.gz
 Langertha::RateLimit              0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::Reasoning              0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::Reasoning::BudgetPolicy 0.503  G/GE/GETTY/Langertha-0.503.tar.gz
