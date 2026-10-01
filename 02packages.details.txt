@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261519
-Last-Updated: Thu, 01 Oct 2026 18:54:43 GMT
+Line-Count:   261521
+Last-Updated: Thu, 01 Oct 2026 19:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4874,6 +4874,7 @@ Amazon::API::Utils                    0  B/BI/BIGFOOT/Amazon-API-2.8.2.tar.gz
 Amazon::API::XML::Simple           2.25  B/BI/BIGFOOT/Amazon-API-2.8.2.tar.gz
 Amazon::CloudFront::SignedURL      0.03  Z/ZO/ZONCOEN/Amazon-CloudFront-SignedURL-0.03.tar.gz
 Amazon::CloudFront::Thin           0.05  G/GA/GARU/Amazon-CloudFront-Thin-0.05.tar.gz
+Amazon::CloudWatchLogs           v1.0.7  B/BI/BIGFOOT/Log-Log4perl-Appender-CloudWatchLogs-1.0.7.tar.gz
 Amazon::CreatorsAPI                0.01  B/BA/BAYASHI/Amazon-CreatorsAPI-0.01.tar.gz
 Amazon::CreatorsAPI::Auth         undef  B/BA/BAYASHI/Amazon-CreatorsAPI-0.01.tar.gz
 Amazon::Credentials              v2.0.1  B/BI/BIGFOOT/Amazon-Credentials-2.0.1.tar.gz
@@ -43653,7 +43654,7 @@ Chef::REST::Client::roles             1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
 Chef::REST::Client::runlist           1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
 Chef::REST::Client::sandboxes         1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
 Chef::REST::Client::search            1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
-Chem::Structure::Parser           0.036  D/DC/DCON/Chem-Structure-Parser-0.036.tar.gz
+Chem::Structure::Parser           0.037  D/DC/DCON/Chem-Structure-Parser-0.037.tar.gz
 Chemistry::3DBuilder               0.10  I/IT/ITUB/Chemistry-3DBuilder-0.10.tar.gz
 Chemistry::Artificial::Graphics    0.01  B/BR/BREQUESEN/Chemistry-Artificial-Graphics-0.01.tar.gz
 Chemistry::Artificial::SQL         0.01  B/BR/BREQUESEN/Chemistry-Artificial-SQL-0.01.tar.gz
@@ -123826,6 +123827,7 @@ Log::Log4perl::Appender::Chunk::Store::File 0.013  J/JE/JETEVE/Log-Log4perl-Appe
 Log::Log4perl::Appender::Chunk::Store::Memory 0.013  J/JE/JETEVE/Log-Log4perl-Appender-Chunk-0.013.tar.gz
 Log::Log4perl::Appender::Chunk::Store::Null 0.013  J/JE/JETEVE/Log-Log4perl-Appender-Chunk-0.013.tar.gz
 Log::Log4perl::Appender::Chunk::Store::S3 0.013  J/JE/JETEVE/Log-Log4perl-Appender-Chunk-0.013.tar.gz
+Log::Log4perl::Appender::CloudWatchLogs v1.0.7  B/BI/BIGFOOT/Log-Log4perl-Appender-CloudWatchLogs-1.0.7.tar.gz
 Log::Log4perl::Appender::DBI      undef  M/MS/MSCHILLI/Log-Log4perl-1.58.tar.gz
 Log::Log4perl::Appender::DBIx::Class 0.02  G/GP/GPHAT/Log-Log4perl-Appender-DBIx-Class-0.02.tar.gz
 Log::Log4perl::Appender::Elasticsearch 0.090  P/PA/PALIK/Log-Log4perl-Appender-Elasticsearch-0.09.tar.gz
