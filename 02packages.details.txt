@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261521
-Last-Updated: Thu, 01 Oct 2026 20:29:02 GMT
+Line-Count:   261538
+Last-Updated: Thu, 01 Oct 2026 21:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -116582,9 +116582,26 @@ Langertha::Runtime::Metrics       0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::Runtime::Metrics::OTLP 0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::ServerTool             0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::ServerToolCall         0.503  G/GE/GETTY/Langertha-0.503.tar.gz
-Langertha::Skeid                  0.002  G/GE/GETTY/Langertha-Skeid-0.002.tar.gz
-Langertha::Skeid::KeyBroker       0.002  G/GE/GETTY/Langertha-Skeid-0.002.tar.gz
-Langertha::Skeid::Proxy           0.002  G/GE/GETTY/Langertha-Skeid-0.002.tar.gz
+Langertha::Skeid                  0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::CapacityProbe   0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::CapacityProbe::Custom 0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::CapacityProbe::Prometheus 0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::CapacityProbe::Registry 0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::KeyBroker       0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::KeyBroker::OpenBao 0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::Protocol        0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::Protocol::Anthropic 0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::Protocol::Anthropic::Stream 0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::Protocol::Ollama 0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::Protocol::Ollama::Stream 0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::Protocol::Refusal 0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::Proxy           0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::Proxy::RelayContent 0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::Registry        0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::Secret          0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::UsageStore      0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::UsageStore::DBI 0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
+Langertha::Skeid::UsageStore::JsonLog 0.003  G/GE/GETTY/Langertha-Skeid-0.003.tar.gz
 Langertha::Spec::LMStudio         0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::Spec::Mistral          0.503  G/GE/GETTY/Langertha-0.503.tar.gz
 Langertha::Spec::Ollama           0.503  G/GE/GETTY/Langertha-0.503.tar.gz
