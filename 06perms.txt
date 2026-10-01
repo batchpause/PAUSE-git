@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668145
+Line-Count:  668187
 Written-By:  PAUSE version 1.005
-Date:        Thu, 01 Oct 2026 17:17:24 GMT
+Date:        Thu, 01 Oct 2026 17:41:15 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -344287,12 +344287,15 @@ Lang::Tree::Builder::Scalar,BILLHAILS,f
 Lang::Tree::Builder::Tokenizer,BILLHAILS,f
 Lang::wxLocale,OESTERHOL,f
 Langertha,GETTY,f
+Langertha::CachedContent,GETTY,f
+Langertha::CallResult,GETTY,f
 Langertha::Chat,GETTY,f
 Langertha::Content,GETTY,f
 Langertha::Content::Image,GETTY,f
 Langertha::Cost,GETTY,f
 Langertha::Embedder,GETTY,f
 Langertha::Engine::AKI,GETTY,f
+Langertha::Engine::AKIAnthropic,GETTY,f
 Langertha::Engine::AKIOpenAI,GETTY,f
 Langertha::Engine::Anthropic,GETTY,f
 Langertha::Engine::AnthropicBase,GETTY,f
@@ -344300,6 +344303,7 @@ Langertha::Engine::Cerebras,GETTY,f
 Langertha::Engine::DeepSeek,GETTY,f
 Langertha::Engine::Gemini,GETTY,f
 Langertha::Engine::Groq,GETTY,f
+Langertha::Engine::Hetzner,GETTY,f
 Langertha::Engine::HuggingFace,GETTY,f
 Langertha::Engine::LMStudio,GETTY,f
 Langertha::Engine::LMStudioAnthropic,GETTY,f
@@ -344308,6 +344312,8 @@ Langertha::Engine::LlamaCpp,GETTY,f
 Langertha::Engine::MiniMax,GETTY,f
 Langertha::Engine::MiniMaxAnthropic,GETTY,f
 Langertha::Engine::Mistral,GETTY,f
+Langertha::Engine::Moonshot,GETTY,f
+Langertha::Engine::MoonshotAnthropic,GETTY,f
 Langertha::Engine::NousResearch,GETTY,f
 Langertha::Engine::Ollama,GETTY,f
 Langertha::Engine::OllamaOpenAI,GETTY,f
@@ -344322,8 +344328,14 @@ Langertha::Engine::SGLang,GETTY,f
 Langertha::Engine::Scaleway,GETTY,f
 Langertha::Engine::TSystems,GETTY,f
 Langertha::Engine::TranscriptionBase,GETTY,f
+Langertha::Engine::VLLMHook,GETTY,f
 Langertha::Engine::Whisper,GETTY,f
+Langertha::Engine::XAI,GETTY,f
 Langertha::Engine::vLLM,GETTY,f
+Langertha::HTTP::BoundedDecode,GETTY,f
+Langertha::HTTP::ConnectCheck,GETTY,f
+Langertha::HTTP::Redirect,GETTY,f
+Langertha::HTTP::UserAgent,GETTY,f
 Langertha::ImageGen,GETTY,f
 Langertha::Input,GETTY,f
 Langertha::Input::Tools,GETTY,f
@@ -344369,12 +344381,21 @@ Langertha::Knarr::Router,GETTY,f
 Langertha::Knarr::Session,GETTY,f
 Langertha::Knarr::Stream,GETTY,f
 Langertha::Knarr::Tracing,GETTY,f
+Langertha::Manifest,GETTY,f
+Langertha::Manifest::Auth,GETTY,f
+Langertha::Manifest::Builder,GETTY,f
+Langertha::Manifest::Endpoint,GETTY,f
+Langertha::Manifest::Model,GETTY,f
+Langertha::Manifest::Validation,GETTY,f
 Langertha::Metrics,GETTY,f
+Langertha::ModelProbe,GETTY,f
+Langertha::Moment,GETTY,f
 Langertha::Output,GETTY,f
 Langertha::Output::Tools,GETTY,f
 Langertha::Plugin,GETTY,f
 Langertha::Plugin::Langfuse,GETTY,f
 Langertha::Pricing,GETTY,f
+Langertha::PromptCache,GETTY,f
 Langertha::Raid,GETTY,f
 Langertha::Raid::Loop,GETTY,f
 Langertha::Raid::Parallel,GETTY,f
@@ -344382,9 +344403,16 @@ Langertha::Raid::Sequential,GETTY,f
 Langertha::Raider,GETTY,f
 Langertha::Raider::Result,GETTY,f
 Langertha::RateLimit,GETTY,f
+Langertha::Reasoning,GETTY,f
+Langertha::Reasoning::BudgetPolicy,GETTY,f
+Langertha::Reasoning::Profile,GETTY,f
 Langertha::Request::HTTP,GETTY,f
+Langertha::Request::SyncHTTP,GETTY,f
 Langertha::Response,GETTY,f
 Langertha::Result,GETTY,f
+Langertha::Role::AnthropicCompatible,GETTY,f
+Langertha::Role::AsyncHTTP,GETTY,f
+Langertha::Role::CachedContent,GETTY,f
 Langertha::Role::Capabilities,GETTY,f
 Langertha::Role::Chat,GETTY,f
 Langertha::Role::ContextSize,GETTY,f
@@ -344392,6 +344420,7 @@ Langertha::Role::Embedding,GETTY,f
 Langertha::Role::HTTP,GETTY,f
 Langertha::Role::HermesTools,GETTY,f
 Langertha::Role::ImageGeneration,GETTY,f
+Langertha::Role::ImageInput,GETTY,f
 Langertha::Role::JSON,GETTY,f
 Langertha::Role::KeepAlive,GETTY,f
 Langertha::Role::Langfuse,GETTY,f
@@ -344400,10 +344429,16 @@ Langertha::Role::OpenAICompatible,GETTY,f
 Langertha::Role::OpenAPI,GETTY,f
 Langertha::Role::ParallelToolUse,GETTY,f
 Langertha::Role::PluginHost,GETTY,f
+Langertha::Role::PromptCache,GETTY,f
+Langertha::Role::ReasoningEffort,GETTY,f
 Langertha::Role::ResponseFormat,GETTY,f
 Langertha::Role::ResponseSize,GETTY,f
+Langertha::Role::ResponsesCompatible,GETTY,f
 Langertha::Role::Runnable,GETTY,f
+Langertha::Role::Runtime::MetricsPoll,GETTY,f
+Langertha::Role::RuntimeKnobs,GETTY,f
 Langertha::Role::Seed,GETTY,f
+Langertha::Role::ServerTools,GETTY,f
 Langertha::Role::StaticModels,GETTY,f
 Langertha::Role::Streaming,GETTY,f
 Langertha::Role::SystemPrompt,GETTY,f
@@ -344412,6 +344447,11 @@ Langertha::Role::ThinkTag,GETTY,f
 Langertha::Role::Tools,GETTY,f
 Langertha::Role::Transcription,GETTY,f
 Langertha::RunContext,GETTY,f
+Langertha::Runtime::Knobs,GETTY,f
+Langertha::Runtime::Metrics,GETTY,f
+Langertha::Runtime::Metrics::OTLP,GETTY,f
+Langertha::ServerTool,GETTY,f
+Langertha::ServerToolCall,GETTY,f
 Langertha::Skeid,GETTY,f
 Langertha::Skeid::KeyBroker,GETTY,f
 Langertha::Skeid::Proxy,GETTY,f
@@ -344424,8 +344464,10 @@ Langertha::Stream::Chunk,GETTY,f
 Langertha::Tool,GETTY,f
 Langertha::ToolCall,GETTY,f
 Langertha::ToolChoice,GETTY,f
+Langertha::ToolResult,GETTY,f
 Langertha::Usage,GETTY,f
 Langertha::UsageRecord,GETTY,f
+Langertha::VLLMHook::Config,GETTY,f
 LangerthaX,GETTY,f
 Language::AttributeGrammar,LPALMER,f
 Language::AttributeGrammar::Annotator,LPALMER,f
