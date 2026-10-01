@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261458
-Last-Updated: Thu, 01 Oct 2026 06:54:20 GMT
+Last-Updated: Thu, 01 Oct 2026 08:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -258451,16 +258451,16 @@ XML::TreePuller::Element::Attribute 0.001000  T/TR/TRIDDLE/XML-TreePuller-0.1.2.
 XML::TreePuller::Element::Document 0.001000  T/TR/TRIDDLE/XML-TreePuller-0.1.2.tar.gz
 XML::Trivial                       0.06  P/PA/PAJOUT/XML-Trivial-0.06.tar.gz
 XML::Trivial::Element              0.06  P/PA/PAJOUT/XML-Trivial-0.06.tar.gz
-XML::Twig                          3.54  M/MI/MIROD/XML-Twig-3.54.tar.gz
-XML::Twig::Elt                     3.54  M/MI/MIROD/XML-Twig-3.54.tar.gz
-XML::Twig::Entity                  3.54  M/MI/MIROD/XML-Twig-3.54.tar.gz
-XML::Twig::Entity_list             3.54  M/MI/MIROD/XML-Twig-3.54.tar.gz
-XML::Twig::Notation                3.54  M/MI/MIROD/XML-Twig-3.54.tar.gz
-XML::Twig::Notation_list           3.54  M/MI/MIROD/XML-Twig-3.54.tar.gz
-XML::Twig::XPath                   0.02  M/MI/MIROD/XML-Twig-3.54.tar.gz
-XML::Twig::XPath::Attribute        0.02  M/MI/MIROD/XML-Twig-3.54.tar.gz
-XML::Twig::XPath::Elt              0.02  M/MI/MIROD/XML-Twig-3.54.tar.gz
-XML::Twig::XPath::Namespace        0.02  M/MI/MIROD/XML-Twig-3.54.tar.gz
+XML::Twig                          3.55  M/MI/MIROD/XML-Twig-3.55.tar.gz
+XML::Twig::Elt                     3.55  M/MI/MIROD/XML-Twig-3.55.tar.gz
+XML::Twig::Entity                  3.55  M/MI/MIROD/XML-Twig-3.55.tar.gz
+XML::Twig::Entity_list             3.55  M/MI/MIROD/XML-Twig-3.55.tar.gz
+XML::Twig::Notation                3.55  M/MI/MIROD/XML-Twig-3.55.tar.gz
+XML::Twig::Notation_list           3.55  M/MI/MIROD/XML-Twig-3.55.tar.gz
+XML::Twig::XPath                   0.02  M/MI/MIROD/XML-Twig-3.55.tar.gz
+XML::Twig::XPath::Attribute        0.02  M/MI/MIROD/XML-Twig-3.55.tar.gz
+XML::Twig::XPath::Elt              0.02  M/MI/MIROD/XML-Twig-3.55.tar.gz
+XML::Twig::XPath::Namespace        0.02  M/MI/MIROD/XML-Twig-3.55.tar.gz
 XML::UM                            0.01  T/TJ/TJMATHER/XML-UM-0.01.tar.gz
 XML::UM::SlowMapper               undef  E/EN/ENNO/libxml-enno-1.02.tar.gz
 XML::UM::SlowMapper::UTF8         undef  E/EN/ENNO/libxml-enno-1.02.tar.gz
