@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261458
-Last-Updated: Thu, 01 Oct 2026 08:17:02 GMT
+Last-Updated: Thu, 01 Oct 2026 10:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -48859,28 +48859,28 @@ CPAN::Local::Role::Prune          0.010  P/PS/PSHANGOV/CPAN-Local-0.010.tar.gz
 CPAN::Local::Role::Remove         0.010  P/PS/PSHANGOV/CPAN-Local-0.010.tar.gz
 CPAN::LWP::UserAgent             1.9601  A/AN/ANDK/CPAN-2.41.tar.gz
 CPAN::Maker                     v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
-CPAN::Maker::Bootstrapper        v2.3.5  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::ConfigReader 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Constants  0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::CreateConfig 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::CreateDeps 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::Critic 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::DarkPANRequires 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::DepsFilter 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::ExtraFiles v2.3.5  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::Filter 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::Init 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::Installer v2.3.5  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::LLM::Annotator 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::LLM::Models 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::LLM::Reviewer 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::LLM::Utils 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::PAUSEUpload 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::Provides 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::ResolveVars 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::ScaffoldImporter 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
-CPAN::Maker::Bootstrapper::Role::Version 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
+CPAN::Maker::Bootstrapper        v2.3.6  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::ConfigReader 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Constants  0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::CreateConfig 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::CreateDeps 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::Critic 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::DarkPANRequires 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::DepsFilter 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::ExtraFiles v2.3.6  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::Filter 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::Init 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::Installer v2.3.6  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::LLM::Annotator 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::LLM::Models 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::LLM::Reviewer 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::LLM::Utils 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::PAUSEUpload 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::Provides 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::ResolveVars 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::ScaffoldImporter 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
+CPAN::Maker::Bootstrapper::Role::Version 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
 CPAN::Maker::Constants          v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
 CPAN::Maker::Role::FileUtils    v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
 CPAN::Maker::Role::ModuleUtils  v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
@@ -86732,7 +86732,7 @@ Git::Release::BranchManager       undef  C/CO/CORNELIUS/Git-Release-0.05.tar.gz
 Git::Release::Config              undef  C/CO/CORNELIUS/Git-Release-0.05.tar.gz
 Git::Release::Remote              undef  C/CO/CORNELIUS/Git-Release-0.05.tar.gz
 Git::Release::RemoteManager       undef  C/CO/CORNELIUS/Git-Release-0.05.tar.gz
-Git::ReleaseDiffs                     0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
+Git::ReleaseDiffs                     0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
 Git::ReleaseRepo                  0.006  P/PR/PREACTION/Git-ReleaseRepo-0.006.tar.gz
 Git::ReleaseRepo::Command         0.006  P/PR/PREACTION/Git-ReleaseRepo-0.006.tar.gz
 Git::ReleaseRepo::Command::add    0.006  P/PR/PREACTION/Git-ReleaseRepo-0.006.tar.gz
@@ -230757,7 +230757,7 @@ Text::ASCIIMathML::Node            0.81  N/NO/NODINE/Text-ASCIIMathML-0.81.tar.g
 Text::ASCIIPipe                1.001000  T/TH/THORGIS/Text-ASCIIPipe-1.001000.tar.gz
 Text::ASCIITable                   0.22  L/LU/LUNATIC/Text-ASCIITable-0.22.tar.gz
 Text::ASCIITable::EasyTable       1.006  B/BI/BIGFOOT/Text-ASCIITable-EasyTable-1.006.tar.gz
-Text::ASCIITable::FixANSI        v1.0.0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.5.tar.gz
+Text::ASCIITable::FixANSI        v1.0.0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.3.6.tar.gz
 Text::ASCIITable::Wrap              0.2  L/LU/LUNATIC/Text-ASCIITable-0.22.tar.gz
 Text::AsciiTeX                     0.05  J/JB/JBERGER/Text-AsciiTeX-0.05.tar.gz
 Text::Aspell                       0.09  H/HA/HANK/Text-Aspell-0.09.tar.gz
