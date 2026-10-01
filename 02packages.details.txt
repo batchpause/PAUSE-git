@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261430
-Last-Updated: Wed, 30 Sep 2026 23:54:31 GMT
+Last-Updated: Thu, 01 Oct 2026 00:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -56993,7 +56993,7 @@ Data::RingBuffer::Shared           0.07  E/EG/EGOR/Data-RingBuffer-Shared-0.07.t
 Data::RingBuffer::Time             0.02  Z/ZH/ZHMYLOVE/Data-RingBuffer-Time-0.02.tar.gz
 Data::Rlist                        1.44  A/AS/ASPINDLER/Data-Rlist-1.44.tar.gz
 Data::Rmap                         0.65  B/BO/BOWMANBS/Data-Rmap-0.65.tar.gz
-Data::RoaringBitmap::Shared        0.05  E/EG/EGOR/Data-RoaringBitmap-Shared-0.05.tar.gz
+Data::RoaringBitmap::Shared        0.06  E/EG/EGOR/Data-RoaringBitmap-Shared-0.06.tar.gz
 Data::RoundRobin                   0.03  G/GU/GUGOD/Data-RoundRobin-0.03.tar.gz
 Data::RoundRobinShared             0.11  S/SP/SPRADEEP/Data-RoundRobinShared-0.11.tar.gz
 Data::Roundtrip                    0.31  B/BL/BLIAKO/Data-Roundtrip-0.31.tar.gz
