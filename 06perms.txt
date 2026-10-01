@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668193
+Line-Count:  668256
 Written-By:  PAUSE version 1.005
-Date:        Thu, 01 Oct 2026 17:55:31 GMT
+Date:        Thu, 01 Oct 2026 18:18:06 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -36995,6 +36995,15 @@ Aware::Session,TBR,f
 Aware::Status,TBR,f
 Aws::Polly::Select,PRBRENAN,f
 Aws::Polly::Select::Speaker,PRBRENAN,f
+Ax,DROLSKY,c
+Ax,EXODIST,f
+Ax,HAARG,c
+Ax,JBERGER,c
+Ax,MSCHWERN,c
+Ax,PREACTION,c
+Ax,RJBS,c
+Ax,WOLFSAGE,c
+Ax,XSAWYERX,c
 AxKit,HANDOFF,c
 AxKit,MSERGEANT,f
 AxKit2,HANDOFF,c
@@ -61819,6 +61828,15 @@ Buzznet::Comment,KWOOLERY,f
 Buzznet::Entry,KWOOLERY,f
 Buzznet::Gallery,KWOOLERY,f
 Buzznet::Profile,KWOOLERY,f
+Bx,DROLSKY,c
+Bx,EXODIST,f
+Bx,HAARG,c
+Bx,JBERGER,c
+Bx,MSCHWERN,c
+Bx,PREACTION,c
+Bx,RJBS,c
+Bx,WOLFSAGE,c
+Bx,XSAWYERX,c
 ByClock,SCHAFFTER,c
 ByteBeat,INGY,f
 ByteBeat::Compiler,INGY,f
@@ -103446,6 +103464,15 @@ Cwd,XSAWYERX,c
 Cwd::Ext,LEOCHARRE,f
 Cwd::Guard,KAZEBURO,f
 Cwd::utf8,HAYOBAAN,f
+Cx,DROLSKY,c
+Cx,EXODIST,f
+Cx,HAARG,c
+Cx,JBERGER,c
+Cx,MSCHWERN,c
+Cx,PREACTION,c
+Cx,RJBS,c
+Cx,WOLFSAGE,c
+Cx,XSAWYERX,c
 CyberSource,PSMIRNOV,f
 Cycle::Detect,EXODIST,f
 Cyrillic,INA,f
@@ -126424,6 +126451,15 @@ Deplide::RFID::EPCISSubmitter,AVAJADI,f
 Deploy,RMICHAUD,f
 Deployer::Image::PNG,NPLATONOV,f
 Depot,MIKIO,f
+Deps::Dx,DROLSKY,c
+Deps::Dx,EXODIST,f
+Deps::Dx,HAARG,c
+Deps::Dx,JBERGER,c
+Deps::Dx,MSCHWERN,c
+Deps::Dx,PREACTION,c
+Deps::Dx,RJBS,c
+Deps::Dx,WOLFSAGE,c
+Deps::Dx,XSAWYERX,c
 Derived,MSCHLUE,f
 DerivedUnit,COSMOLOJ,f
 Des::perl,MICB,c
@@ -601005,6 +601041,15 @@ Test2::Harness::Config,PREACTION,c
 Test2::Harness::Config,RJBS,c
 Test2::Harness::Config,WOLFSAGE,c
 Test2::Harness::Config,XSAWYERX,c
+Test2::Harness::DB::Postgresql,DROLSKY,c
+Test2::Harness::DB::Postgresql,EXODIST,f
+Test2::Harness::DB::Postgresql,HAARG,c
+Test2::Harness::DB::Postgresql,JBERGER,c
+Test2::Harness::DB::Postgresql,MSCHWERN,c
+Test2::Harness::DB::Postgresql,PREACTION,c
+Test2::Harness::DB::Postgresql,RJBS,c
+Test2::Harness::DB::Postgresql,WOLFSAGE,c
+Test2::Harness::DB::Postgresql,XSAWYERX,c
 Test2::Harness::DirORM,DROLSKY,c
 Test2::Harness::DirORM,EXODIST,f
 Test2::Harness::DirORM,JBERGER,c
@@ -610987,6 +611032,24 @@ TestML::Tiny::Runtime,INGY,f
 TestML::Topic,INGY,f
 TestML::Transform,INGY,f
 TestML::Util,INGY,f
+TestMod1,DROLSKY,c
+TestMod1,EXODIST,f
+TestMod1,HAARG,c
+TestMod1,JBERGER,c
+TestMod1,MSCHWERN,c
+TestMod1,PREACTION,c
+TestMod1,RJBS,c
+TestMod1,WOLFSAGE,c
+TestMod1,XSAWYERX,c
+TestMod2,DROLSKY,c
+TestMod2,EXODIST,f
+TestMod2,HAARG,c
+TestMod2,JBERGER,c
+TestMod2,MSCHWERN,c
+TestMod2,PREACTION,c
+TestMod2,RJBS,c
+TestMod2,WOLFSAGE,c
+TestMod2,XSAWYERX,c
 TestModule,JWU,f
 TestMore::testmorepm,APML,f
 TestMore::testmorepm,GOZER,c
