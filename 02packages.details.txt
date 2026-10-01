@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261458
-Last-Updated: Thu, 01 Oct 2026 04:17:02 GMT
+Last-Updated: Thu, 01 Oct 2026 05:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -54327,7 +54327,7 @@ Data::Define                       1.03  S/ST/STRO/Data-Define-1.03.tar.gz
 Data::Delete                       0.07  M/MA/MATEU/Data-Skeleton-0.07.tar.gz
 Data::Demos                    0.000002  I/IN/INGY/Data-Demos-0.0.2.tar.gz
 Data::Denter                       0.15  I/IN/INGY/Data-Denter-0.15.tar.gz
-Data::Deque::Shared                0.10  E/EG/EGOR/Data-Deque-Shared-0.10.tar.gz
+Data::Deque::Shared                0.11  E/EG/EGOR/Data-Deque-Shared-0.11.tar.gz
 Data::Describe                     1.03  G/GE/GEOTIGER/Data-Describe-1.03.tar.gz
 Data::DFA                      20201031  P/PR/PRBRENAN/Data-DFA-20201031.tar.gz
 Data::DFA::Parser                 undef  P/PR/PRBRENAN/Data-DFA-20191028.tar.gz
