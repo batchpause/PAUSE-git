@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261432
-Last-Updated: Thu, 01 Oct 2026 03:41:02 GMT
+Last-Updated: Thu, 01 Oct 2026 03:54:38 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -143088,10 +143088,10 @@ Net::Async::IMAP::Client          0.004  T/TE/TEAM/Net-Async-IMAP-0.004.tar.gz
 Net::Async::IMAP::Server          0.003  T/TE/TEAM/Net-Async-IMAP-0.004.tar.gz
 Net::Async::IRC                    0.12  P/PE/PEVANS/Net-Async-IRC-0.12.tar.gz
 Net::Async::IRC::Protocol          0.12  P/PE/PEVANS/Net-Async-IRC-0.12.tar.gz
-Net::Async::Kubernetes            0.008  G/GE/GETTY/Net-Async-Kubernetes-0.008.tar.gz
-Net::Async::Kubernetes::Controller 0.008  G/GE/GETTY/Net-Async-Kubernetes-0.008.tar.gz
-Net::Async::Kubernetes::PortForwardSession 0.008  G/GE/GETTY/Net-Async-Kubernetes-0.008.tar.gz
-Net::Async::Kubernetes::Watcher   0.008  G/GE/GETTY/Net-Async-Kubernetes-0.008.tar.gz
+Net::Async::Kubernetes            0.009  G/GE/GETTY/Net-Async-Kubernetes-0.009.tar.gz
+Net::Async::Kubernetes::Controller 0.009  G/GE/GETTY/Net-Async-Kubernetes-0.009.tar.gz
+Net::Async::Kubernetes::PortForwardSession 0.009  G/GE/GETTY/Net-Async-Kubernetes-0.009.tar.gz
+Net::Async::Kubernetes::Watcher   0.009  G/GE/GETTY/Net-Async-Kubernetes-0.009.tar.gz
 Net::Async::Matrix                 0.19  P/PE/PEVANS/Net-Async-Matrix-0.19.tar.gz
 Net::Async::Matrix::Room           0.19  P/PE/PEVANS/Net-Async-Matrix-0.19.tar.gz
 Net::Async::Matrix::Room::State    0.19  P/PE/PEVANS/Net-Async-Matrix-0.19.tar.gz
