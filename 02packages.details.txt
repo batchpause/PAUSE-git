@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261430
-Last-Updated: Thu, 01 Oct 2026 02:17:03 GMT
+Last-Updated: Thu, 01 Oct 2026 02:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -248426,13 +248426,13 @@ WebService::MoviePosterDB          0.18  C/CJ/CJK/WebService-MoviePosterDB-0.18.
 WebService::MoviePosterDB::Movie   0.18  C/CJ/CJK/WebService-MoviePosterDB-0.18.tar.gz
 WebService::MoviePosterDB::Poster  0.18  C/CJ/CJK/WebService-MoviePosterDB-0.18.tar.gz
 WebService::MtGox                  0.05  B/BE/BEPPU/WebService-MtGox-0.05.tar.gz
-WebService::MusicBrainz         v1.0.10  B/BF/BFAIST/WebService-MusicBrainz-1.0.10.tar.gz
+WebService::MusicBrainz         v1.0.11  B/BF/BFAIST/WebService-MusicBrainz-1.0.11.tar.gz
 WebService::MusicBrainz::Artist    0.94  B/BF/BFAIST/WebService-MusicBrainz-0.94.tar.gz
 WebService::MusicBrainz::Label     0.94  B/BF/BFAIST/WebService-MusicBrainz-0.94.tar.gz
 WebService::MusicBrainz::Query     0.94  B/BF/BFAIST/WebService-MusicBrainz-0.94.tar.gz
 WebService::MusicBrainz::Release   0.94  B/BF/BFAIST/WebService-MusicBrainz-0.94.tar.gz
 WebService::MusicBrainz::ReleaseGroup 0.94  B/BF/BFAIST/WebService-MusicBrainz-0.94.tar.gz
-WebService::MusicBrainz::Request    1.1  B/BF/BFAIST/WebService-MusicBrainz-1.0.10.tar.gz
+WebService::MusicBrainz::Request    1.1  B/BF/BFAIST/WebService-MusicBrainz-1.0.11.tar.gz
 WebService::MusicBrainz::Response  0.94  B/BF/BFAIST/WebService-MusicBrainz-0.94.tar.gz
 WebService::MusicBrainz::Response::Alias 0.94  B/BF/BFAIST/WebService-MusicBrainz-0.94.tar.gz
 WebService::MusicBrainz::Response::AliasList 0.94  B/BF/BFAIST/WebService-MusicBrainz-0.94.tar.gz
