@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261588
-Last-Updated: Thu, 01 Oct 2026 22:17:02 GMT
+Last-Updated: Thu, 01 Oct 2026 23:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -17597,13 +17597,13 @@ Archive::SimpleExtractor::Zip      0.03  T/TM/TMULEVICH/Archive-SimpleExtractor-
 Archive::StringToZip               1.03  B/BA/BABF/Archive-StringToZip-1.03.tar.gz
 Archive::TAP::Convert             0.007  B/BO/BORISD/Archive-TAP-Convert-0.007.tar.gz
 Archive::TAP::Peek                0.002  B/BO/BORISD/Archive-TAP-Peek-0.002.tar.gz
-Archive::Tar                       3.12  B/BI/BINGOS/Archive-Tar-3.12.tar.gz
+Archive::Tar                       3.14  B/BI/BINGOS/Archive-Tar-3.14.tar.gz
 Archive::Tar::_io                  0.22  S/SR/SRZ/Archive-Tar-0.22.tar.gz
 Archive::Tar::Builder            2.5006  X/XA/XAN/Archive-Tar-Builder-2.5006.tar.gz
 Archive::Tar::Builder::HardlinkCache undef  X/XA/XAN/Archive-Tar-Builder-2.5006.tar.gz
 Archive::Tar::Builder::UserCache  undef  X/XA/XAN/Archive-Tar-Builder-2.5006.tar.gz
-Archive::Tar::Constant             3.12  B/BI/BINGOS/Archive-Tar-3.12.tar.gz
-Archive::Tar::File                 3.12  B/BI/BINGOS/Archive-Tar-3.12.tar.gz
+Archive::Tar::Constant             3.14  B/BI/BINGOS/Archive-Tar-3.14.tar.gz
+Archive::Tar::File                 3.14  B/BI/BINGOS/Archive-Tar-3.14.tar.gz
 Archive::Tar::LogError             0.04  N/NU/NUFFIN/Verby-Action-Untar-0.04.tar.gz
 Archive::Tar::Merge                0.01  M/MS/MSCHILLI/Archive-Tar-Merge-0.01.tar.gz
 Archive::Tar::Std                 undef  K/KA/KANE/Archive-Tar-0.23.tgz
