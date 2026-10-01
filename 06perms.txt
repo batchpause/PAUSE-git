@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668097
+Line-Count:  668099
 Written-By:  PAUSE version 1.005
-Date:        Wed, 30 Sep 2026 20:41:12 GMT
+Date:        Thu, 01 Oct 2026 02:55:51 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -325093,6 +325093,8 @@ IO::K8s::Cilium::V2::PortDenyRule,GETTY,c
 IO::K8s::Cilium::V2::PortDenyRule,JLMARTIN,f
 IO::K8s::Cilium::V2::PortInfo,GETTY,c
 IO::K8s::Cilium::V2::PortInfo,JLMARTIN,f
+IO::K8s::Cilium::V2::PortProtocol,GETTY,c
+IO::K8s::Cilium::V2::PortProtocol,JLMARTIN,f
 IO::K8s::Cilium::V2::PortRule,GETTY,c
 IO::K8s::Cilium::V2::PortRule,JLMARTIN,f
 IO::K8s::Cilium::V2::PortRuleDNS,GETTY,c
