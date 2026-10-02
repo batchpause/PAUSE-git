@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261588
-Last-Updated: Fri, 02 Oct 2026 01:17:02 GMT
+Last-Updated: Fri, 02 Oct 2026 01:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -140546,7 +140546,7 @@ Music::RhythmSet::Voice            0.06  J/JM/JMATES/Music-RhythmSet-0.06.tar.gz
 Music::Scala                       1.08  J/JM/JMATES/Music-Scala-1.08.tar.gz
 Music::ScaleNote                 0.0905  G/GE/GENE/Music-ScaleNote-0.0905.tar.gz
 Music::Scales                      0.13  G/GE/GENE/Music-Scales-0.13.tar.gz
-Music::SimpleDrumMachine         0.0600  G/GE/GENE/Music-SimpleDrumMachine-0.0600.tar.gz
+Music::SimpleDrumMachine         0.0601  G/GE/GENE/Music-SimpleDrumMachine-0.0601.tar.gz
 Music::Song                       undef  J/JR/JRED/Gtk2-Ex-FormFactory-0.67.tar.gz
 Music::Tag                       0.4103  E/EA/EALLENIII/Music-Tag-0.4103.tar.gz
 Music::Tag::Amazon               0.4101  E/EA/EALLENIII/Music-Tag-Amazon-0.4101.tar.gz
