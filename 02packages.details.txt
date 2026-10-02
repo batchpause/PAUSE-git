@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261579
-Last-Updated: Fri, 02 Oct 2026 17:17:01 GMT
+Last-Updated: Fri, 02 Oct 2026 17:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -112962,7 +112962,7 @@ JSAN::Parse::FileDeps              1.00  A/AD/ADAMK/JSAN-Parse-FileDeps-1.00.tar
 JSAN::ServerSide                   0.06  D/DR/DROLSKY/JSAN-ServerSide-0.06.tar.gz
 JSAN::Shell                        2.04  A/AD/ADAMK/JSAN-Shell-2.04.tar.gz
 JSAN::Transport                    0.29  A/AD/ADAMK/JSAN-Client-0.29.tar.gz
-JSCalendar::Duration              0.004  R/RJ/RJBS/JSCalendar-Duration-0.004.tar.gz
+JSCalendar::Duration              0.005  R/RJ/RJBS/JSCalendar-Duration-0.005.tar.gz
 jsFind                             0.06  D/DP/DPAVLIN/jsFind-0.06.tar.gz
 jsFind::Node                       0.06  D/DP/DPAVLIN/jsFind-0.06.tar.gz
 JSON                               4.11  I/IS/ISHIGAKI/JSON-4.11.tar.gz
