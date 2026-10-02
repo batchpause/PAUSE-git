@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261588
-Last-Updated: Fri, 02 Oct 2026 07:54:24 GMT
+Last-Updated: Fri, 02 Oct 2026 09:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -76793,7 +76793,7 @@ FFI::Build::File::GoMod            0.03  P/PL/PLICEASE/FFI-Platypus-Lang-Go-0.03
 FFI::Build::File::Library          2.12  P/PL/PLICEASE/FFI-Platypus-2.12.tar.gz
 FFI::Build::File::Object           2.12  P/PL/PLICEASE/FFI-Platypus-2.12.tar.gz
 FFI::Build::File::Pascal           0.11  P/PL/PLICEASE/FFI-Platypus-Lang-Pascal-0.11.tar.gz
-FFI::Build::File::VMod             0.03  P/PL/PLICEASE/FFI-Platypus-Lang-V-0.03.tar.gz
+FFI::Build::File::VMod             0.04  P/PL/PLICEASE/FFI-Platypus-Lang-V-0.04.tar.gz
 FFI::Build::File::Zig              0.02  P/PL/PLICEASE/FFI-Platypus-Lang-Zig-0.02.tar.gz
 FFI::Build::MM                     2.12  P/PL/PLICEASE/FFI-Platypus-2.12.tar.gz
 FFI::Build::MM::FBX                2.12  P/PL/PLICEASE/FFI-Platypus-2.12.tar.gz
@@ -76849,7 +76849,7 @@ FFI::Platypus::Lang::Go            0.03  P/PL/PLICEASE/FFI-Platypus-Lang-Go-0.03
 FFI::Platypus::Lang::Pascal        0.11  P/PL/PLICEASE/FFI-Platypus-Lang-Pascal-0.11.tar.gz
 FFI::Platypus::Lang::Raw           0.06  P/PL/PLICEASE/FFI-Platypus-Legacy-Raw-0.06.tar.gz
 FFI::Platypus::Lang::Rust          0.17  P/PL/PLICEASE/FFI-Platypus-Lang-Rust-0.17.tar.gz
-FFI::Platypus::Lang::V             0.03  P/PL/PLICEASE/FFI-Platypus-Lang-V-0.03.tar.gz
+FFI::Platypus::Lang::V             0.04  P/PL/PLICEASE/FFI-Platypus-Lang-V-0.04.tar.gz
 FFI::Platypus::Lang::Win32         2.12  P/PL/PLICEASE/FFI-Platypus-2.12.tar.gz
 FFI::Platypus::Lang::Zig           0.02  P/PL/PLICEASE/FFI-Platypus-Lang-Zig-0.02.tar.gz
 FFI::Platypus::Legacy              2.12  P/PL/PLICEASE/FFI-Platypus-2.12.tar.gz
