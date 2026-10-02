@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261579
-Last-Updated: Fri, 02 Oct 2026 15:17:02 GMT
+Last-Updated: Fri, 02 Oct 2026 15:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -65091,7 +65091,7 @@ DesktopWorkspaceRole::Source::DefHash 0.001  P/PE/PERLANCAR/DesktopWorkspaceRole
 DesktopWorkspaceRole::Spec::Basic v1.0.1  P/PE/PERLANCAR/DesktopWorkspace-1.0.1.tar.gz
 DesktopWorkspaceRoles::Standard   0.001  P/PE/PERLANCAR/DesktopWorkspaceRoles-Standard-0.001.tar.gz
 DestructAssign                 0.002007  C/CI/CINDY/DestructAssign-0.002007.tar.gz
-Destructure::Declare               1.00  L/LN/LNATION/Destructure-Declare-1.00.tar.gz
+Destructure::Declare               1.01  L/LN/LNATION/Destructure-Declare-1.01.tar.gz
 Detect::Module                      1.2  R/RP/RPOLZER/Detect-Module-1.2.tar.gz
 Detect::Module::Internal            1.2  R/RP/RPOLZER/Detect-Module-1.2.tar.gz
 Dev::Bollocks                      0.06  T/TE/TELS/Dev-Bollocks-0.06.tar.gz
