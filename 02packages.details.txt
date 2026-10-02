@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261579
-Last-Updated: Fri, 02 Oct 2026 15:29:02 GMT
+Last-Updated: Fri, 02 Oct 2026 15:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -41649,7 +41649,7 @@ CGI::IDS::Whitelist              1.0217  H/HI/HINNERK/PerlIDS/CGI-IDS-1.0217.tar
 CGI::ImageMagick                  undef  G/GR/GRICHTER/Apache-ImageMagick-2.0b7.tar.gz
 CGI::ImageMagick::SubRequest      undef  G/GR/GRICHTER/Apache-ImageMagick-2.0b7.tar.gz
 CGI::Imagemap                         2  J/JP/JPIERCE/CGI-Imagemap-2.01.tgz
-CGI::Info                          1.14  N/NH/NHORNE/apples-sprayer-0j@icloudcom/CGI-Info-1.14.tar.gz
+CGI::Info                          1.15  N/NH/NHORNE/CGI-Info-1.15.tar.gz
 CGI::Inspect                        0.5  A/AW/AWWAIID/CGI-Inspect-0.5.tar.gz
 CGI::Inspect::Here                undef  A/AW/AWWAIID/CGI-Inspect-0.5.tar.gz
 CGI::Inspect::Plugin              undef  A/AW/AWWAIID/CGI-Inspect-0.5.tar.gz
@@ -193068,14 +193068,14 @@ PHP                                0.15  M/MO/MOB/PHP-0.15.tar.gz
 PHP::Array                         0.15  M/MO/MOB/PHP-0.15.tar.gz
 PHP::ArrayHandle                   0.15  M/MO/MOB/PHP-0.15.tar.gz
 PHP::DateTime                      0.09  B/BL/BLUEFEET/PHP-DateTime-0.09.tar.gz
-PHP::Decode                       0.302  B/BD/BDZ/PHP-Decode-0.302.tar.gz
-PHP::Decode::Array                 0.15  B/BD/BDZ/PHP-Decode-0.302.tar.gz
-PHP::Decode::Func                 undef  B/BD/BDZ/PHP-Decode-0.302.tar.gz
-PHP::Decode::Op                    0.41  B/BD/BDZ/PHP-Decode-0.302.tar.gz
-PHP::Decode::Parser               0.127  B/BD/BDZ/PHP-Decode-0.302.tar.gz
-PHP::Decode::Test                 0.301  B/BD/BDZ/PHP-Decode-0.302.tar.gz
-PHP::Decode::Tokenizer             1.47  B/BD/BDZ/PHP-Decode-0.302.tar.gz
-PHP::Decode::Transformer          0.301  B/BD/BDZ/PHP-Decode-0.302.tar.gz
+PHP::Decode                       0.303  B/BD/BDZ/PHP-Decode-0.303.tar.gz
+PHP::Decode::Array                 0.15  B/BD/BDZ/PHP-Decode-0.303.tar.gz
+PHP::Decode::Func                 0.132  B/BD/BDZ/PHP-Decode-0.303.tar.gz
+PHP::Decode::Op                    0.41  B/BD/BDZ/PHP-Decode-0.303.tar.gz
+PHP::Decode::Parser               0.130  B/BD/BDZ/PHP-Decode-0.303.tar.gz
+PHP::Decode::Test                 0.301  B/BD/BDZ/PHP-Decode-0.303.tar.gz
+PHP::Decode::Tokenizer             1.48  B/BD/BDZ/PHP-Decode-0.303.tar.gz
+PHP::Decode::Transformer          0.301  B/BD/BDZ/PHP-Decode-0.303.tar.gz
 PHP::Entity                        0.15  M/MO/MOB/PHP-0.15.tar.gz
 PHP::Functions::File               0.04  T/TN/TNAGA/PHP-Functions-File-0.04.tar.gz
 PHP::Functions::Mail               0.04  Y/YA/YAPPO/PHP-Functions-Mail-0.04.tar.gz
