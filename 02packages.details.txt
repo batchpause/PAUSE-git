@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261588
-Last-Updated: Fri, 02 Oct 2026 02:29:01 GMT
+Last-Updated: Fri, 02 Oct 2026 03:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -9546,7 +9546,7 @@ App::CLI::Plugin::Parallel::ForkManager 1.1  H/HO/HOLLY/App-CLI-Plugin-Parallel-
 App::CLI::Plugin::Proc::PID::File   1.3  H/HO/HOLLY/App-CLI-Plugin-Proc-PID-File-1.3.tar.gz
 App::CLI::Plugin::StackTrace        1.1  H/HO/HOLLY/App-CLI-Plugin-StackTrace-1.1.tar.gz
 App::CLI::Toolkit                  0.03  S/SW/SWHITAKER/App-CLI-Toolkit-0.03.tar.gz
-App::ClipboardUtils               0.014  P/PE/PERLANCAR/App-ClipboardUtils-0.014.tar.gz
+App::ClipboardUtils               0.015  P/PE/PERLANCAR/App-ClipboardUtils-0.015.tar.gz
 App::clipbored                    undef  W/WO/WOLDRICH/App-clipbored-1.2.9.tar.gz
 App::CLITestUtils                 0.002  P/PE/PERLANCAR/App-CLITestUtils-0.002.tar.gz
 App::cloc                          1.76  F/FI/FIBO/App-cloc-1.76.tar.gz
@@ -10257,7 +10257,7 @@ App::Dothe                       v0.0.1  Y/YA/YANICK/App-Dothe-0.0.1.tar.gz
 App::Dothe::Task                 v0.0.1  Y/YA/YANICK/App-Dothe-0.0.1.tar.gz
 App::DoubleUp                  0.004002  S/ST/STUIFZAND/App-DoubleUp-0.4.2.tar.gz
 App::Download                  1.000001  B/BE/BESSARABV/App-Download-1.0.1.tar.gz
-App::DownloadsDirUtils            0.008  P/PE/PERLANCAR/App-DownloadsDirUtils-0.008.tar.gz
+App::DownloadsDirUtils            0.009  P/PE/PERLANCAR/App-DownloadsDirUtils-0.009.tar.gz
 App::dozo                          1.01  U/UT/UTASHIRO/App-dozo-1.01.tar.gz
 App::DPath                         0.12  S/SC/SCHWIGON/App-DPath-0.12.tar.gz
 App::DrivePlayer               0.002010  M/MV/MVSJES/App-DrivePlayer-0.2.10.tar.gz
@@ -77932,7 +77932,7 @@ File::Util::Manual             4.132140  T/TO/TOMMY/File-Util-4.132140.tar.gz
 File::Util::Manual::Examples   4.132140  T/TO/TOMMY/File-Util-4.132140.tar.gz
 File::Util::Rename                0.003  P/PE/PERLANCAR/File-Util-Rename-0.003.tar.gz
 File::Util::Rename::NoClobber     0.003  P/PE/PERLANCAR/File-Util-Rename-0.003.tar.gz
-File::Util::Sort                  0.011  P/PE/PERLANCAR/File-Util-Sort-0.011.tar.gz
+File::Util::Sort                  0.012  P/PE/PERLANCAR/File-Util-Sort-0.012.tar.gz
 File::Util::Symlink               0.006  P/PE/PERLANCAR/File-Util-Symlink-0.006.tar.gz
 File::Util::Tempdir               0.034  P/PE/PERLANCAR/File-Util-Tempdir-0.034.tar.gz
 File::Util::Test                  0.632  P/PE/PERLANCAR/File-Util-Test-0.632.tar.gz
