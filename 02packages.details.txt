@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261588
-Last-Updated: Fri, 02 Oct 2026 09:54:53 GMT
+Last-Updated: Fri, 02 Oct 2026 10:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -14387,13 +14387,13 @@ App::rbinperl                     0.700  R/RW/RWSTAUNER/App-rlibperl-0.700.tar.g
 App::RcloneUtils                  0.002  P/PE/PERLANCAR/App-RcloneUtils-0.002.tar.gz
 App::rcmd                         undef  R/RE/REISINGE/App-rcmd-0.005.tar.gz
 App::Rcsync                        0.03  P/PS/PSHANGOV/App-Rcsync-0.03.tar.gz
-App::rdapper                       1.25  G/GB/GBROWN/App-rdapper-1.25.tar.gz
-App::rdapper::l10n                undef  G/GB/GBROWN/App-rdapper-1.25.tar.gz
-App::rdapper::l10n::de            undef  G/GB/GBROWN/App-rdapper-1.25.tar.gz
-App::rdapper::l10n::en            undef  G/GB/GBROWN/App-rdapper-1.25.tar.gz
-App::rdapper::l10n::es            undef  G/GB/GBROWN/App-rdapper-1.25.tar.gz
-App::rdapper::l10n::fr            undef  G/GB/GBROWN/App-rdapper-1.25.tar.gz
-App::rdapper::l10n::pt            undef  G/GB/GBROWN/App-rdapper-1.25.tar.gz
+App::rdapper                       1.26  G/GB/GBROWN/App-rdapper-1.26.tar.gz
+App::rdapper::l10n                undef  G/GB/GBROWN/App-rdapper-1.26.tar.gz
+App::rdapper::l10n::de            undef  G/GB/GBROWN/App-rdapper-1.26.tar.gz
+App::rdapper::l10n::en            undef  G/GB/GBROWN/App-rdapper-1.26.tar.gz
+App::rdapper::l10n::es            undef  G/GB/GBROWN/App-rdapper-1.26.tar.gz
+App::rdapper::l10n::fr            undef  G/GB/GBROWN/App-rdapper-1.26.tar.gz
+App::rdapper::l10n::pt            undef  G/GB/GBROWN/App-rdapper-1.26.tar.gz
 App::rdfns                     20230619  V/VO/VOJ/RDF-NS-20230619.tar.gz
 App::readbuffer                    0.02  T/TU/TULAMILI/App-readbuffer-0.02.tar.gz
 App::realpath                     0.004  P/PE/PERLANCAR/App-realpath-0.004.tar.gz
@@ -17432,7 +17432,7 @@ Archive::Any::Plugin::Zip        0.0946  O/OA/OALDERS/Archive-Any-0.0946.tar.gz
 Archive::Any::Tar                0.0946  O/OA/OALDERS/Archive-Any-0.0946.tar.gz
 Archive::Any::Zip                0.0946  O/OA/OALDERS/Archive-Any-0.0946.tar.gz
 Archive::Ar                        2.02  J/JB/JBAZIK/Archive-Ar-2.02.tar.gz
-Archive::Ar::Libarchive            2.09  P/PL/PLICEASE/Archive-Ar-Libarchive-2.09.tar.gz
+Archive::Ar::Libarchive            2.10  P/PL/PLICEASE/Archive-Ar-Libarchive-2.10.tar.gz
 Archive::Ar::Ng                    2.04  M/MI/MITHR/Archive-Ar-Ng-2.04.tar.gz
 Archive::Asar                      0.02  M/MA/MAUKE/Archive-Asar-0.02.tar.gz
 Archive::BagIt                    0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
