@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261588
-Last-Updated: Fri, 02 Oct 2026 03:17:02 GMT
+Last-Updated: Fri, 02 Oct 2026 04:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -28475,13 +28475,13 @@ BioX::Map::CLIS                0.000012  P/PE/PEKINGSAM/BioX-Map-0.0.12.tar.gz
 BioX::Map::CLIS::Cmd::Compare  0.000012  P/PE/PEKINGSAM/BioX-Map-0.0.12.tar.gz
 BioX::Map::CLIS::Cmd::Map      0.000012  P/PE/PEKINGSAM/BioX-Map-0.0.12.tar.gz
 BioX::Map::CLIS::Cmd::MapCompare 0.000012  P/PE/PEKINGSAM/BioX-Map-0.0.12.tar.gz
-BioX::Seq                      0.008012  V/VO/VOLKENING/BioX-Seq-0.008012.tar.gz
-BioX::Seq::Fetch                  undef  V/VO/VOLKENING/BioX-Seq-0.008012.tar.gz
-BioX::Seq::Stream                 undef  V/VO/VOLKENING/BioX-Seq-0.008012.tar.gz
-BioX::Seq::Stream::FASTA          undef  V/VO/VOLKENING/BioX-Seq-0.008012.tar.gz
-BioX::Seq::Stream::FASTQ          undef  V/VO/VOLKENING/BioX-Seq-0.008012.tar.gz
-BioX::Seq::Stream::TwoBit         undef  V/VO/VOLKENING/BioX-Seq-0.008012.tar.gz
-BioX::Seq::Utils                  undef  V/VO/VOLKENING/BioX-Seq-0.008012.tar.gz
+BioX::Seq                      0.008013  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
+BioX::Seq::Fetch                  undef  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
+BioX::Seq::Stream                 undef  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
+BioX::Seq::Stream::FASTA          undef  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
+BioX::Seq::Stream::FASTQ          undef  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
+BioX::Seq::Stream::TwoBit         undef  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
+BioX::Seq::Utils                  undef  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
 BioX::SeqUtils::Promoter       0.001001  C/CS/CSTEPHENE/BioX-SeqUtils-Promoter-0.1.1.tar.gz
 BioX::SeqUtils::Promoter::Alignment 0.001001  C/CS/CSTEPHENE/BioX-SeqUtils-Promoter-0.1.1.tar.gz
 BioX::SeqUtils::Promoter::Annotations 0.001001  C/CS/CSTEPHENE/BioX-SeqUtils-Promoter-0.1.1.tar.gz
@@ -133207,7 +133207,7 @@ MIDI::Praxis::Variation          0.0607  G/GE/GENE/MIDI-Praxis-Variation-0.0607.
 MIDI::Realtime                     0.01  F/FO/FOOCHRE/MIDI-Realtime-0.01.tar.gz
 MIDI::RtController               0.0808  G/GE/GENE/MIDI-RtController-0.0808.tar.gz
 MIDI::RtController::Filter       0.0105  G/GE/GENE/MIDI-RtController-Filter-0.0105.tar.gz
-MIDI::RtController::Filter::CC   0.1406  G/GE/GENE/MIDI-RtController-Filter-CC-0.1406.tar.gz
+MIDI::RtController::Filter::CC   0.1407  G/GE/GENE/MIDI-RtController-Filter-CC-0.1407.tar.gz
 MIDI::RtController::Filter::Drums 0.0402  G/GE/GENE/MIDI-RtController-Filter-Drums-0.0402.tar.gz
 MIDI::RtController::Filter::Math 0.0503  G/GE/GENE/MIDI-RtController-Filter-Tonal-0.0503.tar.gz
 MIDI::RtController::Filter::Tonal 0.0503  G/GE/GENE/MIDI-RtController-Filter-Tonal-0.0503.tar.gz
