@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261588
-Last-Updated: Fri, 02 Oct 2026 04:41:02 GMT
+Last-Updated: Fri, 02 Oct 2026 04:54:40 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -28475,13 +28475,13 @@ BioX::Map::CLIS                0.000012  P/PE/PEKINGSAM/BioX-Map-0.0.12.tar.gz
 BioX::Map::CLIS::Cmd::Compare  0.000012  P/PE/PEKINGSAM/BioX-Map-0.0.12.tar.gz
 BioX::Map::CLIS::Cmd::Map      0.000012  P/PE/PEKINGSAM/BioX-Map-0.0.12.tar.gz
 BioX::Map::CLIS::Cmd::MapCompare 0.000012  P/PE/PEKINGSAM/BioX-Map-0.0.12.tar.gz
-BioX::Seq                      0.008013  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
-BioX::Seq::Fetch                  undef  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
-BioX::Seq::Stream                 undef  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
-BioX::Seq::Stream::FASTA          undef  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
-BioX::Seq::Stream::FASTQ          undef  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
-BioX::Seq::Stream::TwoBit         undef  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
-BioX::Seq::Utils                  undef  V/VO/VOLKENING/BioX-Seq-0.008013.tar.gz
+BioX::Seq                      0.008014  V/VO/VOLKENING/BioX-Seq-0.008014.tar.gz
+BioX::Seq::Fetch                  undef  V/VO/VOLKENING/BioX-Seq-0.008014.tar.gz
+BioX::Seq::Stream                 undef  V/VO/VOLKENING/BioX-Seq-0.008014.tar.gz
+BioX::Seq::Stream::FASTA          undef  V/VO/VOLKENING/BioX-Seq-0.008014.tar.gz
+BioX::Seq::Stream::FASTQ          undef  V/VO/VOLKENING/BioX-Seq-0.008014.tar.gz
+BioX::Seq::Stream::TwoBit         undef  V/VO/VOLKENING/BioX-Seq-0.008014.tar.gz
+BioX::Seq::Utils                  undef  V/VO/VOLKENING/BioX-Seq-0.008014.tar.gz
 BioX::SeqUtils::Promoter       0.001001  C/CS/CSTEPHENE/BioX-SeqUtils-Promoter-0.1.1.tar.gz
 BioX::SeqUtils::Promoter::Alignment 0.001001  C/CS/CSTEPHENE/BioX-SeqUtils-Promoter-0.1.1.tar.gz
 BioX::SeqUtils::Promoter::Annotations 0.001001  C/CS/CSTEPHENE/BioX-SeqUtils-Promoter-0.1.1.tar.gz
