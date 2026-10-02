@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261303
-Last-Updated: Fri, 02 Oct 2026 21:54:49 GMT
+Last-Updated: Fri, 02 Oct 2026 22:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -148359,12 +148359,12 @@ Net::Pushover                     0.021  D/DV/DVINCI/Net-Pushover-0.021.tar.gz
 Net::pWhoIs                    1.002000  M/MH/MHEARSE/Net-pWhoIs-1.2.0.tar.gz
 Net::QMQP                          0.01  K/KO/KOBAYASI/Net-QMQP-0.01.tar.gz
 Net::QMTP                          0.06  J/JR/JRAFTERY/Net-QMTP-0.06.tar.gz
-Net::QUIC                          0.01  H/HA/HAX/Net-QUIC-0.01.tar.gz
-Net::QUIC::Connection              0.01  H/HA/HAX/Net-QUIC-0.01.tar.gz
-Net::QUIC::Datagram                0.01  H/HA/HAX/Net-QUIC-0.01.tar.gz
-Net::QUIC::Driver                  0.01  H/HA/HAX/Net-QUIC-0.01.tar.gz
-Net::QUIC::Endpoint                0.01  H/HA/HAX/Net-QUIC-0.01.tar.gz
-Net::QUIC::Stream                  0.01  H/HA/HAX/Net-QUIC-0.01.tar.gz
+Net::QUIC                          0.02  H/HA/HAX/Net-QUIC-0.02.tar.gz
+Net::QUIC::Connection              0.02  H/HA/HAX/Net-QUIC-0.02.tar.gz
+Net::QUIC::Datagram                0.02  H/HA/HAX/Net-QUIC-0.02.tar.gz
+Net::QUIC::Driver                  0.02  H/HA/HAX/Net-QUIC-0.02.tar.gz
+Net::QUIC::Endpoint                0.02  H/HA/HAX/Net-QUIC-0.02.tar.gz
+Net::QUIC::Stream                  0.02  H/HA/HAX/Net-QUIC-0.02.tar.gz
 Net::RabbitFoot                    1.03  I/IK/IKUTA/Net-RabbitFoot-1.03.tar.gz
 Net::RabbitFoot::Channel           1.03  I/IK/IKUTA/Net-RabbitFoot-1.03.tar.gz
 Net::RabbitFoot::Cmd              undef  I/IK/IKUTA/Net-RabbitFoot-1.03.tar.gz
