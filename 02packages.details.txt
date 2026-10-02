@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261588
-Last-Updated: Fri, 02 Oct 2026 00:29:02 GMT
+Last-Updated: Fri, 02 Oct 2026 01:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -46064,7 +46064,7 @@ CljPerl::Seq                       0.10  W/WE/WEHU/CljPerl-0.10.tar.gz
 CljPerl::SocketServer              0.10  W/WE/WEHU/CljPerl-0.10.tar.gz
 CljPerl::Var                       0.10  W/WE/WEHU/CljPerl-0.10.tar.gz
 clobber                            0.04  J/JP/JPIERCE/clobber-0.04.tgz
-Clone                              0.50  A/AT/ATOOMIC/Clone-0.50.tar.gz
+Clone                              0.51  A/AT/ATOOMIC/Clone-0.51.tar.gz
 Clone::Any                         1.01  E/EV/EVO/Clone-Any-1.01.tar.gz
 Clone::AsUTF8Bytes                 0.34  M/MA/MARKF/Clone-AsUTF8Bytes-0.34.tar.gz
 Clone::Choose                     0.010  H/HE/HERMES/Clone-Choose-0.010.tar.gz
