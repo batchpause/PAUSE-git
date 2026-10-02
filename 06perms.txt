@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668329
+Line-Count:  668360
 Written-By:  PAUSE version 1.005
-Date:        Thu, 01 Oct 2026 21:55:31 GMT
+Date:        Fri, 02 Oct 2026 09:29:07 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -58636,9 +58636,11 @@ Bread::Board::Dumper,DMAKI,c
 Bread::Board::Dumper,DOY,c
 Bread::Board::Dumper,STEVAN,f
 Bread::Board::Dumper,YANICK,c
+Bread::Board::GraphViz,DMAKI,c
 Bread::Board::GraphViz,DOY,c
 Bread::Board::GraphViz,STEVAN,f
 Bread::Board::GraphViz,YANICK,c
+Bread::Board::GraphViz::App,DMAKI,c
 Bread::Board::GraphViz::App,DOY,c
 Bread::Board::GraphViz::App,STEVAN,f
 Bread::Board::GraphViz::App,YANICK,c
@@ -387522,7 +387524,14 @@ Moose::Meta::TypeConstraint::Registry,HDP,c
 Moose::Meta::TypeConstraint::Registry,PERIGRIN,c
 Moose::Meta::TypeConstraint::Registry,SARTAK,c
 Moose::Meta::TypeConstraint::Registry,STEVAN,f
+Moose::Meta::TypeConstraint::Role,DOY,c
+Moose::Meta::TypeConstraint::Role,DROLSKY,c
 Moose::Meta::TypeConstraint::Role,ETHER,c
+Moose::Meta::TypeConstraint::Role,FLORA,c
+Moose::Meta::TypeConstraint::Role,GRODITI,c
+Moose::Meta::TypeConstraint::Role,HDP,c
+Moose::Meta::TypeConstraint::Role,PERIGRIN,c
+Moose::Meta::TypeConstraint::Role,SARTAK,c
 Moose::Meta::TypeConstraint::Role,STEVAN,f
 Moose::Meta::TypeConstraint::TypeArray,ADOPTME,f
 Moose::Meta::TypeConstraint::Union,DOY,c
@@ -387550,12 +387559,20 @@ Moose::Object,PERIGRIN,c
 Moose::Object,SARTAK,c
 Moose::Object,STEVAN,f
 Moose::OldDocs,DROLSKY,f
+Moose::Policy,ARCANEZ,c
+Moose::Policy,BOBTFISH,c
 Moose::Policy,DROLSKY,c
+Moose::Policy,DRUOSO,c
+Moose::Policy,ETHER,c
 Moose::Policy,FLORA,c
 Moose::Policy,GRODITI,c
 Moose::Policy,SARTAK,c
 Moose::Policy,STEVAN,f
+Moose::Policy::FollowPBP,ARCANEZ,c
+Moose::Policy::FollowPBP,BOBTFISH,c
 Moose::Policy::FollowPBP,DROLSKY,c
+Moose::Policy::FollowPBP,DRUOSO,c
+Moose::Policy::FollowPBP,ETHER,c
 Moose::Policy::FollowPBP,FLORA,c
 Moose::Policy::FollowPBP,GRODITI,c
 Moose::Policy::FollowPBP,SARTAK,c
@@ -387566,8 +387583,14 @@ Moose::Policy::FollowPBP::Attribute,DROLSKY,c
 Moose::Policy::FollowPBP::Attribute,DRUOSO,c
 Moose::Policy::FollowPBP::Attribute,ETHER,c
 Moose::Policy::FollowPBP::Attribute,FLORA,c
+Moose::Policy::FollowPBP::Attribute,GRODITI,c
+Moose::Policy::FollowPBP::Attribute,SARTAK,c
 Moose::Policy::FollowPBP::Attribute,STEVAN,f
+Moose::Policy::JavaAccessors,ARCANEZ,c
+Moose::Policy::JavaAccessors,BOBTFISH,c
 Moose::Policy::JavaAccessors,DROLSKY,c
+Moose::Policy::JavaAccessors,DRUOSO,c
+Moose::Policy::JavaAccessors,ETHER,c
 Moose::Policy::JavaAccessors,FLORA,c
 Moose::Policy::JavaAccessors,GRODITI,c
 Moose::Policy::JavaAccessors,SARTAK,c
@@ -387578,8 +387601,14 @@ Moose::Policy::JavaAccessors::Attribute,DROLSKY,c
 Moose::Policy::JavaAccessors::Attribute,DRUOSO,c
 Moose::Policy::JavaAccessors::Attribute,ETHER,c
 Moose::Policy::JavaAccessors::Attribute,FLORA,c
+Moose::Policy::JavaAccessors::Attribute,GRODITI,c
+Moose::Policy::JavaAccessors::Attribute,SARTAK,c
 Moose::Policy::JavaAccessors::Attribute,STEVAN,f
+Moose::Policy::SingleInheritence,ARCANEZ,c
+Moose::Policy::SingleInheritence,BOBTFISH,c
 Moose::Policy::SingleInheritence,DROLSKY,c
+Moose::Policy::SingleInheritence,DRUOSO,c
+Moose::Policy::SingleInheritence,ETHER,c
 Moose::Policy::SingleInheritence,FLORA,c
 Moose::Policy::SingleInheritence,GRODITI,c
 Moose::Policy::SingleInheritence,SARTAK,c
@@ -387590,6 +387619,8 @@ Moose::Policy::SingleInheritence::MetaClass,DROLSKY,c
 Moose::Policy::SingleInheritence::MetaClass,DRUOSO,c
 Moose::Policy::SingleInheritence::MetaClass,ETHER,c
 Moose::Policy::SingleInheritence::MetaClass,FLORA,c
+Moose::Policy::SingleInheritence::MetaClass,GRODITI,c
+Moose::Policy::SingleInheritence::MetaClass,SARTAK,c
 Moose::Policy::SingleInheritence::MetaClass,STEVAN,f
 Moose::Role,DOY,c
 Moose::Role,DROLSKY,c
