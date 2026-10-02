@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261578
-Last-Updated: Fri, 02 Oct 2026 12:54:55 GMT
+Last-Updated: Fri, 02 Oct 2026 13:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -229474,7 +229474,7 @@ Test::Perl::Tags                   0.32  O/OS/OSFAMERON/Perl-Tags-0.32.tar.gz
 Test::PerlTidy                 20260110  S/SH/SHLOMIF/Test-PerlTidy-20260110.tar.gz
 Test::PerlTidy::Concurrent        undef  W/WT/WTERTIUS/Test-PerlTidy-Concurrent-0.1.1.tar.gz
 Test::PerlTidy::XTFiles           0.001  S/SK/SKIRMESS/Test-PerlTidy-XTFiles-0.001.tar.gz
-Test::Permissions                 0.001  N/NH/NHORNE/Test-Permissions-0.001.0.tar.gz
+Test::Permissions              0.001001  N/NH/NHORNE/Test-Permissions-0.001.1.tar.gz
 Test::Ping                        0.210  X/XS/XSAWYERX/Test-Ping-0.210.tar.gz
 Test::Ping::Ties::BIND            0.210  X/XS/XSAWYERX/Test-Ping-0.210.tar.gz
 Test::Ping::Ties::HIRES           0.210  X/XS/XSAWYERX/Test-Ping-0.210.tar.gz
