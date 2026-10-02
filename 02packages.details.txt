@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261301
-Last-Updated: Fri, 02 Oct 2026 21:41:02 GMT
+Line-Count:   261303
+Last-Updated: Fri, 02 Oct 2026 21:54:49 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -238154,6 +238154,8 @@ users::User                       undef  S/ST/STDCRM/ZZZ-SDK-0.0.2.tar.gz
 users::UsersOperations            undef  S/ST/STDCRM/ZZZ-SDK-0.0.2.tar.gz
 UserSignature                     undef  S/ST/STDCRM/ZZZ-SDK-0.0.2.tar.gz
 UserStoryData                     undef  M/MS/MSCHWERN/XPlanner-0.01.tar.gz
+Ushuffle                           1.00  M/MT/MTW/Ushuffle-1.00.tar.gz
+Ushuffle::Shuffler                 1.00  M/MT/MTW/Ushuffle-1.00.tar.gz
 USPS::RateRequest                1.0004  R/RI/RIZEN/USPS-RateRequest-1.0004.tar.gz
 usw                                0.12  W/WO/WORTHMINE/usw-0.12.tar.gz
 usww                               0.12  W/WO/WORTHMINE/usw-0.12.tar.gz
