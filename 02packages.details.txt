@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261579
-Last-Updated: Fri, 02 Oct 2026 16:55:02 GMT
+Last-Updated: Fri, 02 Oct 2026 17:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -31445,7 +31445,7 @@ Business::IS::PIN                  0.06  A/AV/AVAR/Business-IS-PIN-0.06.tar.gz
 Business::ISBN                    3.014  B/BR/BRIANDFOY/Business-ISBN-3.014.tar.gz
 Business::ISBN10                  3.014  B/BR/BRIANDFOY/Business-ISBN-3.014.tar.gz
 Business::ISBN13                  3.014  B/BR/BRIANDFOY/Business-ISBN-3.014.tar.gz
-Business::ISBN::Data           20261001.001  B/BR/BRIANDFOY/Business-ISBN-Data-20261001.001.tar.gz
+Business::ISBN::Data           20261002.001  B/BR/BRIANDFOY/Business-ISBN-Data-20261002.001.tar.gz
 Business::ISIN                     0.20  D/DI/DIVEC/Business-ISIN-0.20.tgz
 Business::ISMN                    1.205  B/BR/BRIANDFOY/Business-ISMN-1.205.tar.gz
 Business::ISMN::Data              1.205  B/BR/BRIANDFOY/Business-ISMN-1.205.tar.gz
