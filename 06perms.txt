@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668360
+Line-Count:  668364
 Written-By:  PAUSE version 1.005
-Date:        Fri, 02 Oct 2026 09:29:07 GMT
+Date:        Fri, 02 Oct 2026 12:56:12 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -23354,6 +23354,10 @@ App::Sysadmin::Log::Simple::File,DOHERTY,f
 App::Sysadmin::Log::Simple::HTTP,DOHERTY,f
 App::Sysadmin::Log::Simple::Twitter,DOHERTY,f
 App::Sysadmin::Log::Simple::UDP,DOHERTY,f
+App::Syslogd,NHORNE,f
+App::Syslogd::Cache,NHORNE,f
+App::Syslogd::I18N,NHORNE,f
+App::Syslogd::I18N::en,NHORNE,f
 App::SystemdUtils,PERLANCAR,f
 App::TDWTF,MGV,f
 App::TEWK::tt,TEWK,f
