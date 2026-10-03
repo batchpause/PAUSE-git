@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261308
-Last-Updated: Sat, 03 Oct 2026 13:17:02 GMT
+Last-Updated: Sat, 03 Oct 2026 15:17:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -47364,9 +47364,9 @@ Config::Model::Backend::OpenSsh::Sshd 2.010002001  D/DD/DDUMONT/Config-Model-Ope
 Config::Model::Backend::PerlFile  2.167  D/DD/DDUMONT/Config-Model-2.167.tar.gz
 Config::Model::Backend::PlainFile 2.167  D/DD/DDUMONT/Config-Model-2.167.tar.gz
 Config::Model::Backend::ShellVar  2.167  D/DD/DDUMONT/Config-Model-2.167.tar.gz
-Config::Model::Backend::Systemd 0.261001  D/DD/DDUMONT/Config-Model-Systemd-0.261.1.tar.gz
-Config::Model::Backend::Systemd::Layers 0.261001  D/DD/DDUMONT/Config-Model-Systemd-0.261.1.tar.gz
-Config::Model::Backend::Systemd::Unit 0.261001  D/DD/DDUMONT/Config-Model-Systemd-0.261.1.tar.gz
+Config::Model::Backend::Systemd 0.261002  D/DD/DDUMONT/Config-Model-Systemd-0.261.2.tar.gz
+Config::Model::Backend::Systemd::Layers 0.261002  D/DD/DDUMONT/Config-Model-Systemd-0.261.2.tar.gz
+Config::Model::Backend::Systemd::Unit 0.261002  D/DD/DDUMONT/Config-Model-Systemd-0.261.2.tar.gz
 Config::Model::Backend::Xorg      1.116  D/DD/DDUMONT/Config-Model-Xorg-1.116.tar.gz
 Config::Model::Backend::Xorg::Read 1.116  D/DD/DDUMONT/Config-Model-Xorg-1.116.tar.gz
 Config::Model::Backend::Xorg::Write 1.116  D/DD/DDUMONT/Config-Model-Xorg-1.116.tar.gz
@@ -47428,7 +47428,7 @@ Config::Model::Role::WarpMaster   2.167  D/DD/DDUMONT/Config-Model-2.167.tar.gz
 Config::Model::Role::WarpSubject  2.167  D/DD/DDUMONT/Config-Model-2.167.tar.gz
 Config::Model::SearchElement      2.167  D/DD/DDUMONT/Config-Model-2.167.tar.gz
 Config::Model::SimpleUI           2.167  D/DD/DDUMONT/Config-Model-2.167.tar.gz
-Config::Model::Systemd         0.261001  D/DD/DDUMONT/Config-Model-Systemd-0.261.1.tar.gz
+Config::Model::Systemd         0.261002  D/DD/DDUMONT/Config-Model-Systemd-0.261.2.tar.gz
 Config::Model::TermUI             2.167  D/DD/DDUMONT/Config-Model-2.167.tar.gz
 Config::Model::Tester             4.010  D/DD/DDUMONT/Config-Model-Tester-4.010.tar.gz
 Config::Model::Tester::Setup      4.010  D/DD/DDUMONT/Config-Model-Tester-4.010.tar.gz
