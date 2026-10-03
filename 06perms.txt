@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668372
+Line-Count:  668376
 Written-By:  PAUSE version 1.005
-Date:        Sat, 03 Oct 2026 04:41:10 GMT
+Date:        Sat, 03 Oct 2026 17:29:25 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -129533,8 +129533,10 @@ Developer::Dashboard::CLI::API,MICVU,f
 Developer::Dashboard::CLI::Ask,MICVU,f
 Developer::Dashboard::CLI::Complete,MICVU,f
 Developer::Dashboard::CLI::Files,MICVU,f
+Developer::Dashboard::CLI::Help,MICVU,f
 Developer::Dashboard::CLI::OpenFile,MICVU,f
 Developer::Dashboard::CLI::OpenFileChooser,MICVU,f
+Developer::Dashboard::CLI::OpenFileGrep,MICVU,f
 Developer::Dashboard::CLI::OpenFileJavaSource,MICVU,f
 Developer::Dashboard::CLI::OpenFileUtil,MICVU,f
 Developer::Dashboard::CLI::Paths,MICVU,f
@@ -129552,12 +129554,14 @@ Developer::Dashboard::CLI::Which,MICVU,f
 Developer::Dashboard::Codec,MICVU,f
 Developer::Dashboard::Collector,MICVU,f
 Developer::Dashboard::CollectorRunner,MICVU,f
+Developer::Dashboard::CommandRunner,MICVU,f
 Developer::Dashboard::Config,MICVU,f
 Developer::Dashboard::DataHelper,MICVU,f
 Developer::Dashboard::DirEntries,MICVU,f
 Developer::Dashboard::DockerCompose,MICVU,f
 Developer::Dashboard::Doctor,MICVU,f
 Developer::Dashboard::EnvAudit,MICVU,f
+Developer::Dashboard::EnvInclude,MICVU,f
 Developer::Dashboard::EnvLoader,MICVU,f
 Developer::Dashboard::File,MICVU,f
 Developer::Dashboard::FileRegistry,MICVU,f
