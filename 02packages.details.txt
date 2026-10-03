@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261312
-Last-Updated: Sat, 03 Oct 2026 17:41:02 GMT
+Last-Updated: Sat, 03 Oct 2026 18:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -65509,33 +65509,33 @@ Devel::DumpTrace                   0.29  M/MO/MOB/Devel-DumpTrace-0.29.tar.gz
 Devel::DumpTrace::PPI              0.28  M/MO/MOB/Devel-DumpTrace-0.29.tar.gz
 Devel::Dumpvar                     1.06  A/AD/ADAMK/Devel-Dumpvar-1.06.tar.gz
 Devel::Dwarn                      undef  E/ET/ETHER/Data-Dumper-Concise-2.023.tar.gz
-Devel::ebug                        0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Backend               0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Backend::Plugin::ActionPoints 0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Backend::Plugin::Basic 0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Backend::Plugin::Codelines 0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Backend::Plugin::Commands 0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Backend::Plugin::Eval 0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Backend::Plugin::Filenames 0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Backend::Plugin::Output 0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Backend::Plugin::Pad  0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Backend::Plugin::Ping 0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Backend::Plugin::Run  0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Backend::Plugin::StackTrace 0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Console               0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
+Devel::ebug                        0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Backend               0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Backend::Plugin::ActionPoints 0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Backend::Plugin::Basic 0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Backend::Plugin::Codelines 0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Backend::Plugin::Commands 0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Backend::Plugin::Eval 0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Backend::Plugin::Filenames 0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Backend::Plugin::Output 0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Backend::Plugin::Pad  0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Backend::Plugin::Ping 0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Backend::Plugin::Run  0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Backend::Plugin::StackTrace 0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Console               0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
 Devel::ebug::HTTP                  0.37  P/PL/PLICEASE/Devel-ebug-HTTP-0.37.tar.gz
 Devel::ebug::HTTP::App             0.37  P/PL/PLICEASE/Devel-ebug-HTTP-0.37.tar.gz
 Devel::ebug::HTTP::Controller::Root 0.36  P/PL/PLICEASE/Devel-ebug-HTTP-0.36.tar.gz
-Devel::ebug::Plugin::ActionPoints  0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Plugin::Basic         0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Plugin::Codelines     0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Plugin::Eval          0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Plugin::Filenames     0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Plugin::Output        0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Plugin::Pad           0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Plugin::Run           0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Plugin::StackTrace    0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
-Devel::ebug::Wire                  0.68  P/PL/PLICEASE/Devel-ebug-0.68.tar.gz
+Devel::ebug::Plugin::ActionPoints  0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Plugin::Basic         0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Plugin::Codelines     0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Plugin::Eval          0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Plugin::Filenames     0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Plugin::Output        0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Plugin::Pad           0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Plugin::Run           0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Plugin::StackTrace    0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
+Devel::ebug::Wire                  0.69  P/PL/PLICEASE/Devel-ebug-0.69.tar.gz
 Devel::EdTrace                     0.10  E/ES/ESP/Devel-EdTrace-0.95.tar.gz
 Devel::End::PrintINC              0.002  P/PE/PERLANCAR/Devel-End-PrintINC-0.002.tar.gz
 Devel::End::PrintINCVersion       0.001  P/PE/PERLANCAR/Devel-End-PrintINCVersion-0.001.tar.gz
