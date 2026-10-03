@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261308
-Last-Updated: Sat, 03 Oct 2026 16:54:05 GMT
+Last-Updated: Sat, 03 Oct 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -157316,8 +157316,8 @@ Params::Validate::Dependencies::Documenter 2.00  D/DC/DCANTRELL/Params-Validate-
 Params::Validate::Dummy            0.03  I/IV/IVORW/Module-Optional-0.03.tar.gz
 Params::Validate::Micro           0.032  H/HD/HDP/Params-Validate-Micro-0.032.tar.gz
 Params::Validate::PP               1.31  D/DR/DROLSKY/Params-Validate-1.31.tar.gz
-Params::Validate::Strict           0.40  N/NH/NHORNE/Params-Validate-Strict-0.40.tar.gz
-Params::Validate::Strict::BNF      0.40  N/NH/NHORNE/Params-Validate-Strict-0.40.tar.gz
+Params::Validate::Strict           0.41  N/NH/NHORNE/Params-Validate-Strict-0.41.tar.gz
+Params::Validate::Strict::BNF      0.41  N/NH/NHORNE/Params-Validate-Strict-0.41.tar.gz
 Params::Validate::XS               1.31  D/DR/DROLSKY/Params-Validate-1.31.tar.gz
 Params::ValidationCompiler         0.31  D/DR/DROLSKY/Params-ValidationCompiler-0.31.tar.gz
 Params::ValidationCompiler::Compiler 0.31  D/DR/DROLSKY/Params-ValidationCompiler-0.31.tar.gz
