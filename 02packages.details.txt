@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261305
-Last-Updated: Sat, 03 Oct 2026 01:41:02 GMT
+Last-Updated: Sat, 03 Oct 2026 02:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -10398,22 +10398,22 @@ App::Egaz::Command::raxml         undef  W/WA/WANGQ/App-Egaz-0.2.9.tar.gz
 App::Egaz::Command::repeatmasker  undef  W/WA/WANGQ/App-Egaz-0.2.9.tar.gz
 App::Egaz::Command::template      undef  W/WA/WANGQ/App-Egaz-0.2.9.tar.gz
 App::Egaz::Common                 undef  W/WA/WANGQ/App-Egaz-0.2.9.tar.gz
-App::ElasticSearch::Utilities       9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::Aggregations undef  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::Connection 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::HTTPRequest 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::Metrics 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::Query 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::QueryString 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::QueryString::BareWords 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::QueryString::FileExpansion 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::QueryString::IP 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::QueryString::Nested 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::QueryString::Plugin 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::QueryString::Ranges 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::QueryString::Text 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::QueryString::Underscored 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
-App::ElasticSearch::Utilities::VersionHacks 9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
+App::ElasticSearch::Utilities       9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::Aggregations undef  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::Connection 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::HTTPRequest 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::Metrics 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::Query 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::QueryString 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::QueryString::BareWords 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::QueryString::FileExpansion 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::QueryString::IP 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::QueryString::Nested 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::QueryString::Plugin 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::QueryString::Ranges 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::QueryString::Text 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::QueryString::Underscored 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
+App::ElasticSearch::Utilities::VersionHacks 9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
 App::ElbV2                            0  B/BI/BIGFOOT/App-FargateStack-1.0.50.tar.gz
 App::Elog                          0.08  J/JA/JACOBG/App-Elog-0.08.tar.gz
 App::elsquid                      undef  S/SA/SALVOR/App-elsquid-0.15.tar.gz
@@ -148360,12 +148360,12 @@ Net::Pushover                     0.021  D/DV/DVINCI/Net-Pushover-0.021.tar.gz
 Net::pWhoIs                    1.002000  M/MH/MHEARSE/Net-pWhoIs-1.2.0.tar.gz
 Net::QMQP                          0.01  K/KO/KOBAYASI/Net-QMQP-0.01.tar.gz
 Net::QMTP                          0.06  J/JR/JRAFTERY/Net-QMTP-0.06.tar.gz
-Net::QUIC                          0.02  H/HA/HAX/Net-QUIC-0.02.tar.gz
-Net::QUIC::Connection              0.02  H/HA/HAX/Net-QUIC-0.02.tar.gz
-Net::QUIC::Datagram                0.02  H/HA/HAX/Net-QUIC-0.02.tar.gz
-Net::QUIC::Driver                  0.02  H/HA/HAX/Net-QUIC-0.02.tar.gz
-Net::QUIC::Endpoint                0.02  H/HA/HAX/Net-QUIC-0.02.tar.gz
-Net::QUIC::Stream                  0.02  H/HA/HAX/Net-QUIC-0.02.tar.gz
+Net::QUIC                          0.03  H/HA/HAX/Net-QUIC-0.03.tar.gz
+Net::QUIC::Connection              0.03  H/HA/HAX/Net-QUIC-0.03.tar.gz
+Net::QUIC::Datagram                0.03  H/HA/HAX/Net-QUIC-0.03.tar.gz
+Net::QUIC::Driver                  0.03  H/HA/HAX/Net-QUIC-0.03.tar.gz
+Net::QUIC::Endpoint                0.03  H/HA/HAX/Net-QUIC-0.03.tar.gz
+Net::QUIC::Stream                  0.03  H/HA/HAX/Net-QUIC-0.03.tar.gz
 Net::RabbitFoot                    1.03  I/IK/IKUTA/Net-RabbitFoot-1.03.tar.gz
 Net::RabbitFoot::Channel           1.03  I/IK/IKUTA/Net-RabbitFoot-1.03.tar.gz
 Net::RabbitFoot::Cmd              undef  I/IK/IKUTA/Net-RabbitFoot-1.03.tar.gz
@@ -236007,7 +236007,7 @@ Types::DBIx::Class             1.000006  Y/YA/YARY/Types-DBIx-Class-1.000006.tar
 Types::Digest                    v0.1.2  J/JA/JASEI/Types-Digest-0.1.2.tar.gz
 Types::Dist                        0.10  R/RE/RENEEB/Types-RENEEB-0.10.tar.gz
 Types::DualVar                    0.001  T/TO/TOBYINK/Types-DualVar-0.001.tar.gz
-Types::ElasticSearch                9.0  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.0.tar.gz
+Types::ElasticSearch                9.1  B/BL/BLHOTSKY/App-ElasticSearch-Utilities-9.1.tar.gz
 Types::Encodings                  0.003  T/TO/TOBYINK/Types-Encodings-0.003.tar.gz
 Types::Equal                       0.03  K/KF/KFLY/Types-Equal-0.03.tar.gz
 Types::Git                         0.04  B/BL/BLUEFEET/Types-Git-0.04.tar.gz
