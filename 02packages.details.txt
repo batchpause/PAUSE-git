@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261312
-Last-Updated: Sat, 03 Oct 2026 18:17:02 GMT
+Last-Updated: Sat, 03 Oct 2026 18:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -228386,7 +228386,7 @@ Test::Device::Chip::Adapter        0.27  P/PE/PEVANS/Device-Chip-0.27.tar.gz
 Test::Device::SerialPort           0.05  C/CO/COSIMO/Test-Device-SerialPort-0.05.tar.gz
 Test::DiagINC                     0.010  D/DA/DAGOLDEN/Test-DiagINC-0.010.tar.gz
 Test::DiagRef                  1.132080  D/DO/DOLMEN/Test-DiagRef-1.132080.tar.gz
-Test::Differences                  0.72  D/DC/DCANTRELL/Test-Differences-0.72.tar.gz
+Test::Differences                  0.73  D/DC/DCANTRELL/Test-Differences-0.73.tar.gz
 Test::Difflet                     undef  T/TO/TOKUHIROM/Data-Difflet-0.11.tar.gz
 Test::Dir                          1.16  M/MT/MTHURN/Test-Dir-1.16.tar.gz
 Test::Dir::Base                   1.005  M/MT/MTHURN/Test-Dir-1.16.tar.gz
