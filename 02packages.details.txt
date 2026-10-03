@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261303
-Last-Updated: Fri, 02 Oct 2026 22:41:02 GMT
+Line-Count:   261304
+Last-Updated: Sat, 03 Oct 2026 01:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -157684,6 +157684,7 @@ Parse::CPAN::Whois                 0.02  M/MA/MARTIJN/Parse-CPAN-Whois-0.02.tar.
 Parse::CPAN::Whois::Author         0.01  M/MA/MARTIJN/Parse-CPAN-Whois-0.02.tar.gz
 Parse::CPinfo                     0.882  M/MM/MMLANGE/Parse-CPinfo-0.882.tar.gz
 Parse::Crontab                     0.05  S/SO/SONGMU/Parse-Crontab-0.05.tar.gz
+Parse::Crontab::English            0.01  T/TA/TALEXB/Parse-Crontab-English-0.01.tar.gz
 Parse::Crontab::Entry             undef  S/SO/SONGMU/Parse-Crontab-0.05.tar.gz
 Parse::Crontab::Entry::Comment    undef  S/SO/SONGMU/Parse-Crontab-0.05.tar.gz
 Parse::Crontab::Entry::Empty      undef  S/SO/SONGMU/Parse-Crontab-0.05.tar.gz
@@ -215274,7 +215275,7 @@ SimpleDBI                          0.02  A/AB/ABBYPAN/SimpleDBI-0.02.tar.gz
 SimpleDBI::mysql                  undef  A/AB/ABBYPAN/SimpleDBI-0.02.tar.gz
 SimpleException                   0.103  C/CA/CAPOEIRAB/Exceptions-0.103.tar.gz
 SimpleFlake                        0.11  J/JE/JEGADE/SimpleFlake-0.11.tar.gz
-SimpleFlow                        0.191  D/DC/DCON/SimpleFlow-0.191.tar.gz
+SimpleFlow                        0.192  D/DC/DCON/SimpleFlow-0.192.tar.gz
 SimpleMock                         0.05  C/CH/CHOLLOWAY/SimpleMock-0.05.tar.gz
 SimpleMock::Mocks::DBI             0.05  C/CH/CHOLLOWAY/SimpleMock-0.05.tar.gz
 SimpleMock::Mocks::LWP::UserAgent  0.05  C/CH/CHOLLOWAY/SimpleMock-0.05.tar.gz
