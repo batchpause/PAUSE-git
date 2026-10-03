@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668376
+Line-Count:  668391
 Written-By:  PAUSE version 1.005
-Date:        Sat, 03 Oct 2026 17:29:25 GMT
+Date:        Sat, 03 Oct 2026 21:29:27 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -362863,6 +362863,19 @@ Mail::Convert::Mbox::ToEml,ADOPTME,f
 Mail::Convert::Mbox::ToEml,RJBS,c
 Mail::DKIM,JASLONG,f
 Mail::DKIM,MBRADSHAW,c
+Mail::DKIM2,BRONG,f
+Mail::DKIM2::Common,BRONG,f
+Mail::DKIM2::DSN,BRONG,f
+Mail::DKIM2::HeaderParser,BRONG,f
+Mail::DKIM2::MessageInstance,BRONG,f
+Mail::DKIM2::MessageStore,BRONG,f
+Mail::DKIM2::Reflector,BRONG,f
+Mail::DKIM2::Signature,BRONG,f
+Mail::DKIM2::Signer,BRONG,f
+Mail::DKIM2::Split,BRONG,f
+Mail::DKIM2::TagValueList,BRONG,f
+Mail::DKIM2::Validate,BRONG,f
+Mail::DKIM2::Verifier,BRONG,f
 Mail::DKIM::ARC::MessageSignature,JASLONG,f
 Mail::DKIM::ARC::MessageSignature,MBRADSHAW,c
 Mail::DKIM::ARC::Seal,JASLONG,f
@@ -363486,6 +363499,8 @@ Mail::Milter::Authentication::Handler::Blocker,MBRADSHAW,f
 Mail::Milter::Authentication::Handler::ClamAV,MBRADSHAW,f
 Mail::Milter::Authentication::Handler::DKIM,ADAVIS,c
 Mail::Milter::Authentication::Handler::DKIM,MBRADSHAW,f
+Mail::Milter::Authentication::Handler::DKIM2Sign,BRONG,f
+Mail::Milter::Authentication::Handler::DKIM2Verify,BRONG,f
 Mail::Milter::Authentication::Handler::DMARC,ADAVIS,c
 Mail::Milter::Authentication::Handler::DMARC,MBRADSHAW,f
 Mail::Milter::Authentication::Handler::IPRev,ADAVIS,c
