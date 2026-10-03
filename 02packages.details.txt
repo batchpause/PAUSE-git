@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261308
-Last-Updated: Sat, 03 Oct 2026 10:53:57 GMT
+Last-Updated: Sat, 03 Oct 2026 11:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -199410,7 +199410,7 @@ Punk::DBI                          0.55  L/LN/LNATION/Punk-0.55.tar.gz
 Punk::DBI::db                      0.55  L/LN/LNATION/Punk-0.55.tar.gz
 Punk::DBI::st                      0.55  L/LN/LNATION/Punk-0.55.tar.gz
 Punk::DevError                     0.55  L/LN/LNATION/Punk-0.55.tar.gz
-Punk::Feed                         0.03  L/LN/LNATION/Punk-Feed-0.03.tar.gz
+Punk::Feed                         0.04  L/LN/LNATION/Punk-Feed-0.04.tar.gz
 Punk::Future                       0.55  L/LN/LNATION/Punk-0.55.tar.gz
 Punk::Generate                     0.55  L/LN/LNATION/Punk-0.55.tar.gz
 Punk::GraphQL                      0.02  L/LN/LNATION/Punk-GraphQL-0.02.tar.gz
@@ -199500,7 +199500,7 @@ Punk::Plugin::Challenge            0.01  L/LN/LNATION/Punk-Challenge-0.01.tar.gz
 Punk::Plugin::ClamAV               0.02  L/LN/LNATION/Punk-ClamAV-0.02.tar.gz
 Punk::Plugin::ConditionalGet       0.55  L/LN/LNATION/Punk-0.55.tar.gz
 Punk::Plugin::CSP                  0.55  L/LN/LNATION/Punk-0.55.tar.gz
-Punk::Plugin::Feed                 0.03  L/LN/LNATION/Punk-Feed-0.03.tar.gz
+Punk::Plugin::Feed                 0.04  L/LN/LNATION/Punk-Feed-0.04.tar.gz
 Punk::Plugin::GraphQL              0.02  L/LN/LNATION/Punk-GraphQL-0.02.tar.gz
 Punk::Plugin::Health               0.55  L/LN/LNATION/Punk-0.55.tar.gz
 Punk::Plugin::I18n                 0.55  L/LN/LNATION/Punk-0.55.tar.gz
