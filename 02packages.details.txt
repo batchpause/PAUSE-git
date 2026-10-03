@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261312
-Last-Updated: Sat, 03 Oct 2026 20:54:02 GMT
+Last-Updated: Sat, 03 Oct 2026 21:17:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -126828,7 +126828,7 @@ MARC::File::MicroLIF              undef  G/GM/GMCHARLT/MARC-Record-2.0.7.tar.gz
 MARC::File::MiJ                    0.04  G/GM/GMCHARLT/MARC-File-MiJ-0.04.tar.gz
 MARC::File::SAX                   undef  G/GM/GMCHARLT/MARC-XML-0.93.tar.gz
 MARC::File::USMARC                undef  G/GM/GMCHARLT/MARC-Record-2.0.7.tar.gz
-MARC::File::XML                1.000005  G/GM/GMCHARLT/MARC-File-XML-1.0.5.tar.gz
+MARC::File::XML                1.000006  G/GM/GMCHARLT/MARC-File-XML-1.0.6.tar.gz
 MARC::Indexer                      0.04  N/NK/NKUITSE/MARC-Indexer-0.04.tar.gz
 MARC::Indexer::Config             undef  N/NK/NKUITSE/MARC-Indexer-0.04.tar.gz
 MARC::Leader                       0.09  S/SK/SKIM/MARC-Leader-0.09.tar.gz
