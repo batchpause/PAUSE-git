@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261343
-Last-Updated: Sun, 04 Oct 2026 12:54:16 GMT
+Last-Updated: Sun, 04 Oct 2026 13:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -225375,7 +225375,7 @@ Task::Map::Tube::Metro             0.13  S/SK/SKIM/Task-Map-Tube-Metro-0.13.tar.
 Task::MapMetro::Dev              0.1201  C/CS/CSSON/Task-MapMetro-Dev-0.1201.tar.gz
 Task::MapMetro::Maps             0.1302  C/CS/CSSON/Task-MapMetro-Maps-0.1302.tar.gz
 Task::Markdown::Pod               0.003  A/AS/ASPEER/Task-Markdown-Pod-0.003.tar.gz
-Task::Markdown::Publish           0.002  A/AS/ASPEER/Task-Markdown-Publish-0.002.tar.gz
+Task::Markdown::Publish           0.003  A/AS/ASPEER/Task-Markdown-Publish-0.003.tar.gz
 Task::Math::Symbolic               1.01  S/SM/SMUELLER/Task-Math-Symbolic-1.01.tar.gz
 Task::MemManager                   0.10  C/CH/CHRISARG/Task-MemManager-0.10.tar.gz
 Task::MemManager::CMalloc          0.04  C/CH/CHRISARG/Task-MemManager-CMalloc-0.04.tar.gz
