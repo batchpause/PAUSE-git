@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261343
-Last-Updated: Sun, 04 Oct 2026 13:17:01 GMT
+Last-Updated: Sun, 04 Oct 2026 14:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -156260,7 +156260,7 @@ Padre::Wx::WizardLibrary           0.90  P/PL/PLAVEN/Padre-0.90.tar.gz
 PadWalker                           2.5  R/RO/ROBIN/PadWalker-2.5.tar.gz
 Page                              undef  A/AW/AWWAIID/Continuity-Widget-0.01.tar.gz
 PagerDuty::Agent                   0.02  Q/QR/QRRY/PagerDuty-Agent-0.02.tar.gz
-PAGI                           0.002012  J/JJ/JJNAPIORK/PAGI-0.002012.tar.gz
+PAGI                           0.002013  J/JJ/JJNAPIORK/PAGI-0.002013.tar.gz
 PAGI::App::Cascade             0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
 PAGI::App::Directory           0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
 PAGI::App::File                0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
