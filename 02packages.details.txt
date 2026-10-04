@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261355
-Last-Updated: Sun, 04 Oct 2026 16:17:02 GMT
+Last-Updated: Sun, 04 Oct 2026 16:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -259946,7 +259946,7 @@ YAMLScript::Runtime               undef  I/IN/INGY/YAMLScript-0.0.5.tar.gz
 YAMLScript::Str                   undef  I/IN/INGY/YAMLScript-0.0.16.tar.gz
 YAMLScript::Test                  undef  I/IN/INGY/YAMLScript-Lingy-0.2.1.tar.gz
 YAMLScript::Util                  undef  I/IN/INGY/YAMLScript-0.0.16.tar.gz
-YAMLStar                       0.001021  I/IN/INGY/YAMLStar-0.1.21.tar.gz
+YAMLStar                       0.001023  I/IN/INGY/YAMLStar-0.1.23.tar.gz
 YAMLTest                       0.001000  I/IN/INGY/YAMLTest-0.1.0.tar.gz
 YamlTime                           0.19  I/IN/INGY/YamlTime-0.19.tar.gz
 YamlTime::Command                  0.19  I/IN/INGY/YamlTime-0.19.tar.gz
