@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261355
-Last-Updated: Sun, 04 Oct 2026 17:29:01 GMT
+Last-Updated: Sun, 04 Oct 2026 17:54:12 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -237046,13 +237046,13 @@ UMMF::XForm::FoldMultipleInheritance 1.008  K/KS/KSTEPHENS/UMMF-1.02.tar.gz
 UMMF::XForm::Merge                1.006  K/KS/KSTEPHENS/UMMF-1.02.tar.gz
 Unamerican::Truth                  1.08  B/BE/BEPPU/Unamerican-Truth-1.08.tar.gz
 UnazuSan                           0.03  S/SO/SONGMU/UnazuSan-0.03.tar.gz
-Unblock::HTTP1                     0.01  H/HA/HAX/Unblock-HTTP1-0.01.tar.gz
-Unblock::HTTP1::_Engine           undef  H/HA/HAX/Unblock-HTTP1-0.01.tar.gz
-Unblock::HTTP1::_Native           undef  H/HA/HAX/Unblock-HTTP1-0.01.tar.gz
-Unblock::HTTP1::_Wire             undef  H/HA/HAX/Unblock-HTTP1-0.01.tar.gz
-Unblock::HTTP1::Client             0.01  H/HA/HAX/Unblock-HTTP1-0.01.tar.gz
-Unblock::HTTP1::Server             0.01  H/HA/HAX/Unblock-HTTP1-0.01.tar.gz
-Unblock::HTTP1::Transaction        0.01  H/HA/HAX/Unblock-HTTP1-0.01.tar.gz
+Unblock::HTTP1                     0.02  H/HA/HAX/Unblock-HTTP1-0.02.tar.gz
+Unblock::HTTP1::_Engine           undef  H/HA/HAX/Unblock-HTTP1-0.02.tar.gz
+Unblock::HTTP1::_Native           undef  H/HA/HAX/Unblock-HTTP1-0.02.tar.gz
+Unblock::HTTP1::_Wire             undef  H/HA/HAX/Unblock-HTTP1-0.02.tar.gz
+Unblock::HTTP1::Client             0.02  H/HA/HAX/Unblock-HTTP1-0.02.tar.gz
+Unblock::HTTP1::Server             0.02  H/HA/HAX/Unblock-HTTP1-0.02.tar.gz
+Unblock::HTTP1::Transaction        0.02  H/HA/HAX/Unblock-HTTP1-0.02.tar.gz
 Unblock::HTTP2                     0.02  H/HA/HAX/Unblock-HTTP2-0.02.tar.gz
 Unblock::HTTP2::Client             0.02  H/HA/HAX/Unblock-HTTP2-0.02.tar.gz
 Unblock::HTTP2::Server             0.02  H/HA/HAX/Unblock-HTTP2-0.02.tar.gz
