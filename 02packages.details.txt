@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261354
-Last-Updated: Sun, 04 Oct 2026 15:17:02 GMT
+Line-Count:   261355
+Last-Updated: Sun, 04 Oct 2026 15:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -237279,14 +237279,15 @@ Uniform::HTMX::Dancer2             1.00  H/HA/HAX/Uniform-HTMX-Dancer2-1.00.tar.
 Uniform::HTMX::Mojolicious         1.02  H/HA/HAX/Uniform-HTMX-Mojolicious-1.02.tar.gz
 Uniform::HTMX::PAGI                1.02  H/HA/HAX/Uniform-HTMX-PAGI-1.02.tar.gz
 Uniform::HTMX::PSGI                1.03  H/HA/HAX/Uniform-HTMX-PSGI-1.03.tar.gz
-Uniform::HTTP                      0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
-Uniform::HTTP::Auth                0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
-Uniform::HTTP::Auth::Basic         0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
-Uniform::HTTP::Auth::Bearer        0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
-Uniform::HTTP::Auth::Digest        0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
-Uniform::HTTP::Message             0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
-Uniform::HTTP::Request             0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
-Uniform::HTTP::Response            0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
+Uniform::HTTP                      0.05  H/HA/HAX/Uniform-HTTP-0.05.tar.gz
+Uniform::HTTP::Auth                0.05  H/HA/HAX/Uniform-HTTP-0.05.tar.gz
+Uniform::HTTP::Auth::Basic         0.05  H/HA/HAX/Uniform-HTTP-0.05.tar.gz
+Uniform::HTTP::Auth::Bearer        0.05  H/HA/HAX/Uniform-HTTP-0.05.tar.gz
+Uniform::HTTP::Auth::Digest        0.05  H/HA/HAX/Uniform-HTTP-0.05.tar.gz
+Uniform::HTTP::FastPath            0.05  H/HA/HAX/Uniform-HTTP-0.05.tar.gz
+Uniform::HTTP::Message             0.05  H/HA/HAX/Uniform-HTTP-0.05.tar.gz
+Uniform::HTTP::Request             0.05  H/HA/HAX/Uniform-HTTP-0.05.tar.gz
+Uniform::HTTP::Response            0.05  H/HA/HAX/Uniform-HTTP-0.05.tar.gz
 Uniform::Upload                    0.02  H/HA/HAX/Uniform-Upload-0.02.tar.gz
 Uniform::Upload::File              0.02  H/HA/HAX/Uniform-Upload-0.02.tar.gz
 Uniform::Upload::PAGI              1.02  H/HA/HAX/Uniform-Upload-PAGI-1.02.tar.gz
