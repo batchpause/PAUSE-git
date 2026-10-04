@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261355
-Last-Updated: Sun, 04 Oct 2026 17:54:12 GMT
+Line-Count:   261407
+Last-Updated: Sun, 04 Oct 2026 18:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -3556,6 +3556,22 @@ Aion::Type::DNF                   undef  D/DA/DART/Aion-2.4.tar.gz
 Aion::Type::Espresso              undef  D/DA/DART/Aion-2.4.tar.gz
 Aion::Type::Lim                   undef  D/DA/DART/Aion-2.4.tar.gz
 Aion::Types                       undef  D/DA/DART/Aion-2.4.tar.gz
+Airlock                           0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::Client                   0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::Code                     0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::Factor                   0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::Factor::Callback         0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::Factor::TOTP             0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::Factor::Upstream         0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::HTTPMessage              0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::Policy                   0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::QR                       0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::Result                   0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::Role::Endpoints          0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::Store::Memory            0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::Test::Store              0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::Upstream::Authentik      0.001  G/GE/GETTY/Airlock-0.001.tar.gz
+Airlock::Upstream::Keycloak       0.001  G/GE/GETTY/Airlock-0.001.tar.gz
 AIS::client                        0.07  D/DA/DAVIDNICO/AIS/AIS-client-0.07.tar.gz
 Aitextcleaner::FormattingResidue 0.002000  B/BA/BAIWEI/Aitextcleaner-FormattingResidue-0.2.0.tar.gz
 AIX::LPP::lpp_name                  0.5  C/CR/CRITTER/AIX-LPP-0.5.tar.gz
@@ -142942,6 +142958,14 @@ Net::Async::AMQP::Server::VHost   2.000  T/TE/TEAM/Net-Async-AMQP-2.000.tar.gz
 Net::Async::AMQP::Storage         2.000  T/TE/TEAM/Net-Async-AMQP-2.000.tar.gz
 Net::Async::AMQP::Utils           2.000  T/TE/TEAM/Net-Async-AMQP-2.000.tar.gz
 Net::Async::ArtNet                 0.04  P/PE/PEVANS/Net-Async-ArtNet-0.04.tar.gz
+Net::Async::Authentik             0.001  G/GE/GETTY/Net-Async-Authentik-0.001.tar.gz
+Net::Async::Authentik::API        0.001  G/GE/GETTY/Net-Async-Authentik-0.001.tar.gz
+Net::Async::Authentik::Error      0.001  G/GE/GETTY/Net-Async-Authentik-0.001.tar.gz
+Net::Async::Authentik::Error::API 0.001  G/GE/GETTY/Net-Async-Authentik-0.001.tar.gz
+Net::Async::Authentik::Error::Network 0.001  G/GE/GETTY/Net-Async-Authentik-0.001.tar.gz
+Net::Async::Authentik::Error::Validation 0.001  G/GE/GETTY/Net-Async-Authentik-0.001.tar.gz
+Net::Async::Authentik::OIDC       0.001  G/GE/GETTY/Net-Async-Authentik-0.001.tar.gz
+Net::Async::Authentik::Role::HTTP 0.001  G/GE/GETTY/Net-Async-Authentik-0.001.tar.gz
 Net::Async::Beanstalk             0.002  C/CH/CHOHAG/Net-Async-Beanstalk-0.002.tar.gz
 Net::Async::Beanstalk::Constant   0.001  C/CH/CHOHAG/Net-Async-Beanstalk-0.002.tar.gz
 Net::Async::Beanstalk::Receive    0.001  C/CH/CHOHAG/Net-Async-Beanstalk-0.002.tar.gz
@@ -143008,6 +143032,15 @@ Net::Async::IMAP::Client          0.004  T/TE/TEAM/Net-Async-IMAP-0.004.tar.gz
 Net::Async::IMAP::Server          0.003  T/TE/TEAM/Net-Async-IMAP-0.004.tar.gz
 Net::Async::IRC                    0.12  P/PE/PEVANS/Net-Async-IRC-0.12.tar.gz
 Net::Async::IRC::Protocol          0.12  P/PE/PEVANS/Net-Async-IRC-0.12.tar.gz
+Net::Async::Keycloak              0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
+Net::Async::Keycloak::Admin       0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
+Net::Async::Keycloak::Auth        0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
+Net::Async::Keycloak::Error       0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
+Net::Async::Keycloak::Error::API  0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
+Net::Async::Keycloak::Error::Network 0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
+Net::Async::Keycloak::Error::Validation 0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
+Net::Async::Keycloak::OIDC        0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
+Net::Async::Keycloak::Role::HTTP  0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
 Net::Async::Kubernetes            0.009  G/GE/GETTY/Net-Async-Kubernetes-0.009.tar.gz
 Net::Async::Kubernetes::Controller 0.009  G/GE/GETTY/Net-Async-Kubernetes-0.009.tar.gz
 Net::Async::Kubernetes::PortForwardSession 0.009  G/GE/GETTY/Net-Async-Kubernetes-0.009.tar.gz
@@ -251587,6 +251620,15 @@ WWW::Auth::FTP                    undef  E/EM/EMRYS/WWW-Auth-1.01.tar.gz
 WWW::Auth::Template               undef  E/EM/EMRYS/WWW-Auth-1.01.tar.gz
 WWW::Authen::Simple                1.22  U/UN/UNRTST/WWW-Authen-Simple-1.22.tar.gz
 WWW::Authenticate              0.006000  B/BA/BARNINGER/WWW-Authenticate-0.6-1.tar.gz
+WWW::Authentik                    0.001  G/GE/GETTY/WWW-Authentik-0.001.tar.gz
+WWW::Authentik::API               0.001  G/GE/GETTY/WWW-Authentik-0.001.tar.gz
+WWW::Authentik::Diff              0.001  G/GE/GETTY/WWW-Authentik-0.001.tar.gz
+WWW::Authentik::Error             0.001  G/GE/GETTY/WWW-Authentik-0.001.tar.gz
+WWW::Authentik::Error::API        0.001  G/GE/GETTY/WWW-Authentik-0.001.tar.gz
+WWW::Authentik::Error::Network    0.001  G/GE/GETTY/WWW-Authentik-0.001.tar.gz
+WWW::Authentik::Error::Validation 0.001  G/GE/GETTY/WWW-Authentik-0.001.tar.gz
+WWW::Authentik::OIDC              0.001  G/GE/GETTY/WWW-Authentik-0.001.tar.gz
+WWW::Authentik::Role::HTTP        0.001  G/GE/GETTY/WWW-Authentik-0.001.tar.gz
 WWW::AuthTicket                    0.01  W/WI/WINGMAN/WWW-AuthTicket-0.01.tar.gz
 WWW::Authy                        0.002  G/GE/GETTY/WWW-Authy-0.002.tar.gz
 WWW::Automate                      0.21  S/SK/SKUD/WWW-Automate-0.21.tar.gz
@@ -252694,6 +252736,16 @@ WWW::KeenIO                        0.02  M/MA/MANOWAR/WWW-KeenIO-0.02.tar.gz
 WWW::KeePassHttp                  0.020  P/PE/PETERCJ/WWW-KeePassHttp-0.020.tar.gz
 WWW::KeePassHttp::Entry           0.020  P/PE/PETERCJ/WWW-KeePassHttp-0.020.tar.gz
 WWW::KeePassRest                   0.01  M/MI/MICHAEL/WWW-KeePassRest-0.01.tar.gz
+WWW::Keycloak                     0.001  G/GE/GETTY/WWW-Keycloak-0.001.tar.gz
+WWW::Keycloak::Admin              0.001  G/GE/GETTY/WWW-Keycloak-0.001.tar.gz
+WWW::Keycloak::Auth               0.001  G/GE/GETTY/WWW-Keycloak-0.001.tar.gz
+WWW::Keycloak::Diff               0.001  G/GE/GETTY/WWW-Keycloak-0.001.tar.gz
+WWW::Keycloak::Error              0.001  G/GE/GETTY/WWW-Keycloak-0.001.tar.gz
+WWW::Keycloak::Error::API         0.001  G/GE/GETTY/WWW-Keycloak-0.001.tar.gz
+WWW::Keycloak::Error::Network     0.001  G/GE/GETTY/WWW-Keycloak-0.001.tar.gz
+WWW::Keycloak::Error::Validation  0.001  G/GE/GETTY/WWW-Keycloak-0.001.tar.gz
+WWW::Keycloak::OIDC               0.001  G/GE/GETTY/WWW-Keycloak-0.001.tar.gz
+WWW::Keycloak::Role::HTTP         0.001  G/GE/GETTY/WWW-Keycloak-0.001.tar.gz
 WWW::KGS::GameArchives             0.06  A/AN/ANAZAWA/WWW-KGS-GameArchives-0.06.tar.gz
 WWW::Kickstarter               1.016000  I/IK/IKEGAMI/WWW-Kickstarter-v1.16.0.tar.gz
 WWW::Kickstarter::Data            undef  I/IK/IKEGAMI/WWW-Kickstarter-v1.16.0.tar.gz

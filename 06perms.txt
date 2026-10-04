@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668421
+Line-Count:  668473
 Written-By:  PAUSE version 1.005
-Date:        Sun, 04 Oct 2026 15:18:24 GMT
+Date:        Sun, 04 Oct 2026 18:17:39 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -6499,6 +6499,22 @@ Aion::Type::DNF,DART,f
 Aion::Type::Espresso,DART,f
 Aion::Type::Lim,DART,f
 Aion::Types,DART,f
+Airlock,GETTY,f
+Airlock::Client,GETTY,f
+Airlock::Code,GETTY,f
+Airlock::Factor,GETTY,f
+Airlock::Factor::Callback,GETTY,f
+Airlock::Factor::TOTP,GETTY,f
+Airlock::Factor::Upstream,GETTY,f
+Airlock::HTTPMessage,GETTY,f
+Airlock::Policy,GETTY,f
+Airlock::QR,GETTY,f
+Airlock::Result,GETTY,f
+Airlock::Role::Endpoints,GETTY,f
+Airlock::Store::Memory,GETTY,f
+Airlock::Test::Store,GETTY,f
+Airlock::Upstream::Authentik,GETTY,f
+Airlock::Upstream::Keycloak,GETTY,f
 Airport,TULSOFT,f
 Aitextcleaner::FormattingResidue,BAIWEI,f
 Akado::Account,BESSARABV,f
@@ -397943,6 +397959,14 @@ Net::Async::AMQP::Storage,TEAM,f
 Net::Async::AMQP::Utils,PEVANS,c
 Net::Async::AMQP::Utils,TEAM,f
 Net::Async::ArtNet,PEVANS,f
+Net::Async::Authentik,GETTY,f
+Net::Async::Authentik::API,GETTY,f
+Net::Async::Authentik::Error,GETTY,f
+Net::Async::Authentik::Error::API,GETTY,f
+Net::Async::Authentik::Error::Network,GETTY,f
+Net::Async::Authentik::Error::Validation,GETTY,f
+Net::Async::Authentik::OIDC,GETTY,f
+Net::Async::Authentik::Role::HTTP,GETTY,f
 Net::Async::Beanstalk,CHOHAG,f
 Net::Async::Beanstalk::Constant,CHOHAG,f
 Net::Async::Beanstalk::Receive,CHOHAG,f
@@ -398050,6 +398074,15 @@ Net::Async::IMAP::Server,TEAM,f
 Net::Async::IRC,PEVANS,f
 Net::Async::IRC::Message,PEVANS,f
 Net::Async::IRC::Protocol,PEVANS,f
+Net::Async::Keycloak,GETTY,f
+Net::Async::Keycloak::Admin,GETTY,f
+Net::Async::Keycloak::Auth,GETTY,f
+Net::Async::Keycloak::Error,GETTY,f
+Net::Async::Keycloak::Error::API,GETTY,f
+Net::Async::Keycloak::Error::Network,GETTY,f
+Net::Async::Keycloak::Error::Validation,GETTY,f
+Net::Async::Keycloak::OIDC,GETTY,f
+Net::Async::Keycloak::Role::HTTP,GETTY,f
 Net::Async::Kubernetes,GETTY,f
 Net::Async::Kubernetes::Controller,GETTY,f
 Net::Async::Kubernetes::PortForwardSession,GETTY,f
@@ -632034,6 +632067,15 @@ WWW::Auth::Template,EMRYS,f
 WWW::AuthTicket,WINGMAN,f
 WWW::Authen::Simple,UNRTST,f
 WWW::Authenticate,BARNINGER,f
+WWW::Authentik,GETTY,f
+WWW::Authentik::API,GETTY,f
+WWW::Authentik::Diff,GETTY,f
+WWW::Authentik::Error,GETTY,f
+WWW::Authentik::Error::API,GETTY,f
+WWW::Authentik::Error::Network,GETTY,f
+WWW::Authentik::Error::Validation,GETTY,f
+WWW::Authentik::OIDC,GETTY,f
+WWW::Authentik::Role::HTTP,GETTY,f
 WWW::Authy,GETTY,f
 WWW::Automate,ADOPTME,f
 WWW::Automate,APEIRON,c
@@ -633616,6 +633658,16 @@ WWW::KeePassHttp,PETERCJ,f
 WWW::KeePassHttp::Entry,PETERCJ,f
 WWW::KeePassRest,MICHAEL,f
 WWW::KeenIO,MANOWAR,f
+WWW::Keycloak,GETTY,f
+WWW::Keycloak::Admin,GETTY,f
+WWW::Keycloak::Auth,GETTY,f
+WWW::Keycloak::Diff,GETTY,f
+WWW::Keycloak::Error,GETTY,f
+WWW::Keycloak::Error::API,GETTY,f
+WWW::Keycloak::Error::Network,GETTY,f
+WWW::Keycloak::Error::Validation,GETTY,f
+WWW::Keycloak::OIDC,GETTY,f
+WWW::Keycloak::Role::HTTP,GETTY,f
 WWW::Kickstarter,IKEGAMI,f
 WWW::Kickstarter::Data,IKEGAMI,f
 WWW::Kickstarter::Data::Categories,IKEGAMI,f
