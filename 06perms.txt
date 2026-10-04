@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668413
+Line-Count:  668421
 Written-By:  PAUSE version 1.005
-Date:        Sun, 04 Oct 2026 14:42:18 GMT
+Date:        Sun, 04 Oct 2026 15:18:24 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -623857,6 +623857,13 @@ UnRTF::Test,JOENIO,f
 Unamerican::Truth,BEPPU,f
 UnaryOp,PERRAD,c
 UnazuSan,SONGMU,f
+Unblock::HTTP1,HAX,f
+Unblock::HTTP1::Client,HAX,f
+Unblock::HTTP1::Server,HAX,f
+Unblock::HTTP1::Transaction,HAX,f
+Unblock::HTTP1::_Engine,HAX,f
+Unblock::HTTP1::_Native,HAX,f
+Unblock::HTTP1::_Wire,HAX,f
 Unblock::HTTP2,HAX,f
 Unblock::HTTP2::Client,HAX,f
 Unblock::HTTP2::Server,HAX,f
@@ -624153,6 +624160,7 @@ Uniform::HTTP::Auth,HAX,f
 Uniform::HTTP::Auth::Basic,HAX,f
 Uniform::HTTP::Auth::Bearer,HAX,f
 Uniform::HTTP::Auth::Digest,HAX,f
+Uniform::HTTP::FastPath,HAX,f
 Uniform::HTTP::Message,HAX,f
 Uniform::HTTP::Request,HAX,f
 Uniform::HTTP::Response,HAX,f
