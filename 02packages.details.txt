@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261342
-Last-Updated: Sun, 04 Oct 2026 09:29:01 GMT
+Last-Updated: Sun, 04 Oct 2026 09:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -237260,8 +237260,8 @@ UniEvent::Tty                     undef  S/SY/SYBER/UniEvent-1.2.14.tar.gz
 UniEvent::Udp                     undef  S/SY/SYBER/UniEvent-1.2.14.tar.gz
 UniEvent::WebSocket            1.000003  S/SY/SYBER/UniEvent-WebSocket-1.0.3.tar.gz
 UniEvent::Work                    undef  S/SY/SYBER/UniEvent-1.2.14.tar.gz
-Uniform                            1.04  H/HA/HAX/Uniform-1.04.tar.gz
-Uniform::Exceptions                1.02  H/HA/HAX/Uniform-1.04.tar.gz
+Uniform                            1.05  H/HA/HAX/Uniform-1.05.tar.gz
+Uniform::Exceptions                1.02  H/HA/HAX/Uniform-1.05.tar.gz
 Uniform::HTMX                      0.16  H/HA/HAX/Uniform-HTMX-0.16.tar.gz
 Uniform::HTMX::Dancer2             1.00  H/HA/HAX/Uniform-HTMX-Dancer2-1.00.tar.gz
 Uniform::HTMX::Mojolicious         1.02  H/HA/HAX/Uniform-HTMX-Mojolicious-1.02.tar.gz
@@ -237278,7 +237278,7 @@ Uniform::HTTP::Response            0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
 Uniform::Upload                    0.02  H/HA/HAX/Uniform-Upload-0.02.tar.gz
 Uniform::Upload::File              0.02  H/HA/HAX/Uniform-Upload-0.02.tar.gz
 Uniform::Upload::PAGI              1.02  H/HA/HAX/Uniform-Upload-PAGI-1.02.tar.gz
-Uniform::Utils                     1.02  H/HA/HAX/Uniform-1.04.tar.gz
+Uniform::Utils                     1.02  H/HA/HAX/Uniform-1.05.tar.gz
 UnigeneAccessor                28051999  L/LD/LDS/Boulder-1.15.tar.gz
 UniGreek                            0.2  N/NJ/NJFRANCK/unigreek-0.2.tar.gz
 UniLog                             0.14  T/TP/TPABA/UniLog/UniLog-0.14.tar.gz
