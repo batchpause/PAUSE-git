@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261329
-Last-Updated: Sun, 04 Oct 2026 05:29:02 GMT
+Last-Updated: Sun, 04 Oct 2026 06:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -107622,13 +107622,13 @@ Internals                           1.1  S/ST/STBEY/Internals-1.1.tar.gz
 Internals::CountObjects            0.05  J/JJ/JJORE/Internals-CountObjects-0.05.tar.gz
 Internals::DumpArenas              0.12  J/JJ/JJORE/Internals-DumpArenas-0.12.tar.gz
 Internals::GraphArenas             0.01  J/JJ/JJORE/Internals-GraphArenas-0.01.tar.gz
-InternetData                   1.008000  M/MS/MSLM/InternetData-1.8.0.tar.gz
-InternetData::Database         1.008000  M/MS/MSLM/InternetData-1.8.0.tar.gz
-InternetData::Error            1.008000  M/MS/MSLM/InternetData-1.8.0.tar.gz
-InternetData::Oauth            1.008000  M/MS/MSLM/InternetData-1.8.0.tar.gz
-InternetData::OauthAccessDeniedError 1.008000  M/MS/MSLM/InternetData-1.8.0.tar.gz
-InternetData::OauthError       1.008000  M/MS/MSLM/InternetData-1.8.0.tar.gz
-InternetData::OauthExpiredTokenError 1.008000  M/MS/MSLM/InternetData-1.8.0.tar.gz
+InternetData                   1.008001  M/MS/MSLM/InternetData-1.8.1.tar.gz
+InternetData::Database         1.008001  M/MS/MSLM/InternetData-1.8.1.tar.gz
+InternetData::Error            1.008001  M/MS/MSLM/InternetData-1.8.1.tar.gz
+InternetData::Oauth            1.008001  M/MS/MSLM/InternetData-1.8.1.tar.gz
+InternetData::OauthAccessDeniedError 1.008001  M/MS/MSLM/InternetData-1.8.1.tar.gz
+InternetData::OauthError       1.008001  M/MS/MSLM/InternetData-1.8.1.tar.gz
+InternetData::OauthExpiredTokenError 1.008001  M/MS/MSLM/InternetData-1.8.1.tar.gz
 Interpolation                      0.74  J/JE/JENDA/Interpolation-0.74.tar.gz
 Interpolation::A2A                 0.71  J/JE/JENDA/Interpolation-0.71.tar.gz
 Interpolation::A2S                 0.71  J/JE/JENDA/Interpolation-0.71.tar.gz
@@ -237254,14 +237254,14 @@ Uniform::HTMX::Dancer2             1.00  H/HA/HAX/Uniform-HTMX-Dancer2-1.00.tar.
 Uniform::HTMX::Mojolicious         1.02  H/HA/HAX/Uniform-HTMX-Mojolicious-1.02.tar.gz
 Uniform::HTMX::PAGI                1.02  H/HA/HAX/Uniform-HTMX-PAGI-1.02.tar.gz
 Uniform::HTMX::PSGI                1.03  H/HA/HAX/Uniform-HTMX-PSGI-1.03.tar.gz
-Uniform::HTTP                      0.03  H/HA/HAX/Uniform-HTTP-0.03.tar.gz
-Uniform::HTTP::Auth                0.03  H/HA/HAX/Uniform-HTTP-0.03.tar.gz
-Uniform::HTTP::Auth::Basic         0.03  H/HA/HAX/Uniform-HTTP-0.03.tar.gz
-Uniform::HTTP::Auth::Bearer        0.03  H/HA/HAX/Uniform-HTTP-0.03.tar.gz
-Uniform::HTTP::Auth::Digest        0.03  H/HA/HAX/Uniform-HTTP-0.03.tar.gz
-Uniform::HTTP::Message             0.03  H/HA/HAX/Uniform-HTTP-0.03.tar.gz
-Uniform::HTTP::Request             0.03  H/HA/HAX/Uniform-HTTP-0.03.tar.gz
-Uniform::HTTP::Response            0.03  H/HA/HAX/Uniform-HTTP-0.03.tar.gz
+Uniform::HTTP                      0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
+Uniform::HTTP::Auth                0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
+Uniform::HTTP::Auth::Basic         0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
+Uniform::HTTP::Auth::Bearer        0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
+Uniform::HTTP::Auth::Digest        0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
+Uniform::HTTP::Message             0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
+Uniform::HTTP::Request             0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
+Uniform::HTTP::Response            0.04  H/HA/HAX/Uniform-HTTP-0.04.tar.gz
 Uniform::Upload                    0.02  H/HA/HAX/Uniform-Upload-0.02.tar.gz
 Uniform::Upload::File              0.02  H/HA/HAX/Uniform-Upload-0.02.tar.gz
 Uniform::Upload::PAGI              1.02  H/HA/HAX/Uniform-Upload-PAGI-1.02.tar.gz
