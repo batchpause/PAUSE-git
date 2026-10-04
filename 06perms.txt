@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668404
+Line-Count:  668408
 Written-By:  PAUSE version 1.005
-Date:        Sun, 04 Oct 2026 09:18:24 GMT
+Date:        Sun, 04 Oct 2026 09:29:26 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -121704,6 +121704,10 @@ Data::TagDB::Exporter,LION,f
 Data::TagDB::Exporter,STEPHANJ,c
 Data::TagDB::Factory,LION,f
 Data::TagDB::Factory,STEPHANJ,c
+Data::TagDB::Interface::Includeable,LION,f
+Data::TagDB::Interface::Includeable,STEPHANJ,c
+Data::TagDB::Interface::Plugin,LION,f
+Data::TagDB::Interface::Plugin,STEPHANJ,c
 Data::TagDB::Iterator,LION,f
 Data::TagDB::Iterator,STEPHANJ,c
 Data::TagDB::Link,LION,f
