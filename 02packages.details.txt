@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261347
-Last-Updated: Sun, 04 Oct 2026 14:41:02 GMT
+Last-Updated: Sun, 04 Oct 2026 14:54:09 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -129338,7 +129338,7 @@ MathWorks::Type::platformList     undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
 MathWorks::Type::product          undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
 MathWorks::Type::productDepItem   undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
 MathWorks::Type::productDepList   undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
-Matplotlib::Simple                0.317  D/DC/DCON/Matplotlib-Simple-0.317.tar.gz
+Matplotlib::Simple                0.318  D/DC/DCON/Matplotlib-Simple-0.318.tar.gz
 Matrix::Simple                     1.04  O/OX/OXJGOUO/Matrix-Simple-1.04.tar.gz
 Matts::Message                    undef  M/MS/MSERGEANT/Matts-Message-Parser-1.0.tar.gz
 Matts::Message::Parser              1.0  M/MS/MSERGEANT/Matts-Message-Parser-1.0.tar.gz
