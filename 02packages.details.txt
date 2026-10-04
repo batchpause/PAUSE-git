@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261407
-Last-Updated: Sun, 04 Oct 2026 18:29:02 GMT
+Last-Updated: Sun, 04 Oct 2026 18:54:16 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -125389,19 +125389,19 @@ Mail::DeliveryStatus::Report      1.543  R/RJ/RJBS/Mail-DeliveryStatus-BouncePar
 Mail::Dir                          0.03  X/XA/XAN/Mail-Dir-0.03.tar.gz
 Mail::Dir::Message                undef  X/XA/XAN/Mail-Dir-0.03.tar.gz
 Mail::DKIM                     1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
-Mail::DKIM2                        0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
-Mail::DKIM2::Common                0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
-Mail::DKIM2::DSN                   0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
-Mail::DKIM2::HeaderParser          0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
-Mail::DKIM2::MessageInstance       0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
-Mail::DKIM2::MessageStore          0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
-Mail::DKIM2::Reflector             0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
-Mail::DKIM2::Signature             0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
-Mail::DKIM2::Signer                0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
-Mail::DKIM2::Split                 0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
-Mail::DKIM2::TagValueList          0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
-Mail::DKIM2::Validate              0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
-Mail::DKIM2::Verifier              0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
+Mail::DKIM2                        0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
+Mail::DKIM2::Common                0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
+Mail::DKIM2::DSN                   0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
+Mail::DKIM2::HeaderParser          0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
+Mail::DKIM2::MessageInstance       0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
+Mail::DKIM2::MessageStore          0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
+Mail::DKIM2::Reflector             0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
+Mail::DKIM2::Signature             0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
+Mail::DKIM2::Signer                0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
+Mail::DKIM2::Split                 0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
+Mail::DKIM2::TagValueList          0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
+Mail::DKIM2::Validate              0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
+Mail::DKIM2::Verifier              0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
 Mail::DKIM::Algorithm::Base    1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
 Mail::DKIM::Algorithm::dk_rsa_sha1 1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
 Mail::DKIM::Algorithm::ed25519_sha256 1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
@@ -125749,8 +125749,8 @@ Mail::Milter::Authentication::Handler::BIMI 4.20261001  M/MB/MBRADSHAW/Mail-Milt
 Mail::Milter::Authentication::Handler::Blocker 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
 Mail::Milter::Authentication::Handler::ClamAV 2.20180611  M/MB/MBRADSHAW/Mail-Milter-Authentication-Extra-2.20180611.tar.gz
 Mail::Milter::Authentication::Handler::DKIM 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
-Mail::Milter::Authentication::Handler::DKIM2Sign 0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
-Mail::Milter::Authentication::Handler::DKIM2Verify 0.11  B/BR/BRONG/Mail-DKIM2-0.11.tar.gz
+Mail::Milter::Authentication::Handler::DKIM2Sign 0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
+Mail::Milter::Authentication::Handler::DKIM2Verify 0.12  B/BR/BRONG/Mail-DKIM2-0.12.tar.gz
 Mail::Milter::Authentication::Handler::DMARC 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
 Mail::Milter::Authentication::Handler::IPRev 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
 Mail::Milter::Authentication::Handler::LocalIP 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
@@ -237090,17 +237090,17 @@ Unblock::HTTP2                     0.02  H/HA/HAX/Unblock-HTTP2-0.02.tar.gz
 Unblock::HTTP2::Client             0.02  H/HA/HAX/Unblock-HTTP2-0.02.tar.gz
 Unblock::HTTP2::Server             0.02  H/HA/HAX/Unblock-HTTP2-0.02.tar.gz
 Unblock::HTTP2::Stream             0.02  H/HA/HAX/Unblock-HTTP2-0.02.tar.gz
-Unblock::HTTP3                     0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
-Unblock::HTTP3::Body::Reader       0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
-Unblock::HTTP3::Body::Stream       0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
-Unblock::HTTP3::Capsule            0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
-Unblock::HTTP3::Capsule::Parser    0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
-Unblock::HTTP3::Capsule::Stream    0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
-Unblock::HTTP3::Connection         0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
-Unblock::HTTP3::Extension::Stream  0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
+Unblock::HTTP3                     0.02  H/HA/HAX/Unblock-HTTP3-0.02.tar.gz
+Unblock::HTTP3::Body::Reader       0.02  H/HA/HAX/Unblock-HTTP3-0.02.tar.gz
+Unblock::HTTP3::Body::Stream       0.02  H/HA/HAX/Unblock-HTTP3-0.02.tar.gz
+Unblock::HTTP3::Capsule            0.02  H/HA/HAX/Unblock-HTTP3-0.02.tar.gz
+Unblock::HTTP3::Capsule::Parser    0.02  H/HA/HAX/Unblock-HTTP3-0.02.tar.gz
+Unblock::HTTP3::Capsule::Stream    0.02  H/HA/HAX/Unblock-HTTP3-0.02.tar.gz
+Unblock::HTTP3::Connection         0.02  H/HA/HAX/Unblock-HTTP3-0.02.tar.gz
+Unblock::HTTP3::Extension::Stream  0.02  H/HA/HAX/Unblock-HTTP3-0.02.tar.gz
 Unblock::HTTP3::Request            0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
 Unblock::HTTP3::Response           0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
-Unblock::HTTP3::Transaction        0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
+Unblock::HTTP3::Transaction        0.02  H/HA/HAX/Unblock-HTTP3-0.02.tar.gz
 UnclosedOpeningDelim              undef  D/DC/DCONWAY/Test-Subunits-0.000003.tar.gz
 unconstant                         0.09  E/EC/ECARROLL/unconstant-0.09.tar.gz
 undefined                         undef  S/SA/SAMV/Net-SSLeay-OO-0.02.tar.gz
