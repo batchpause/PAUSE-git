@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668477
+Line-Count:  668480
 Written-By:  PAUSE version 1.005
-Date:        Sun, 04 Oct 2026 22:18:21 GMT
+Date:        Sun, 04 Oct 2026 22:30:21 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -29736,14 +29736,17 @@ Archive::BagIt::Fast,WILLIW,c
 Archive::BagIt::Plugin::Algorithm::BLAKE3,ART,f
 Archive::BagIt::Plugin::Algorithm::MD5,ART,f
 Archive::BagIt::Plugin::Algorithm::MD5,WILLIW,c
+Archive::BagIt::Plugin::Algorithm::SHA256,ART,f
 Archive::BagIt::Plugin::Algorithm::SHA512,ART,f
 Archive::BagIt::Plugin::Algorithm::SHA512,WILLIW,c
 Archive::BagIt::Plugin::BLAKE3,ART,f
 Archive::BagIt::Plugin::Manifest::BLAKE3,ART,f
 Archive::BagIt::Plugin::Manifest::MD5,ART,f
 Archive::BagIt::Plugin::Manifest::MD5,WILLIW,c
+Archive::BagIt::Plugin::Manifest::SHA256,ART,f
 Archive::BagIt::Plugin::Manifest::SHA512,ART,f
 Archive::BagIt::Plugin::Manifest::SHA512,WILLIW,c
+Archive::BagIt::Plugin::SHA256,ART,f
 Archive::BagIt::Role::Algorithm,ART,f
 Archive::BagIt::Role::Algorithm,WILLIW,c
 Archive::BagIt::Role::Manifest,ART,f
