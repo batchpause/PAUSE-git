@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261327
-Last-Updated: Sat, 03 Oct 2026 21:41:02 GMT
+Line-Count:   261328
+Last-Updated: Sun, 04 Oct 2026 00:17:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -15838,7 +15838,7 @@ App::SeismicUnixGui::sunix::well::sulprime 0.000001  G/GL/GLLORE/App-SeismicUnix
 App::SeismicUnixGui::sunix::well::suwellrf 0.000001  G/GL/GLLORE/App-SeismicUnixGui-0.87.6.tar.gz
 App::seq::intrange                0.002  P/PE/PERLANCAR/App-seq-intrange-0.002.tar.gz
 App::seq::numseq                  0.001  P/PE/PERLANCAR/App-seq-numseq-0.001.tar.gz
-App::seq::pl                      0.002  P/PE/PERLANCAR/App-seq-pl-0.002.tar.gz
+App::seq::pl                      0.004  P/PE/PERLANCAR/App-seq-pl-0.004.tar.gz
 App::SeqPericmd                   0.050  P/PE/PERLANCAR/App-SeqPericmd-0.050.tar.gz
 App::Serializer                    6783  S/SP/SPADKINS/App-Context-0.968.tar.gz
 App::Serializer::Html              6000  S/SP/SPADKINS/App-Context-0.968.tar.gz
@@ -221523,6 +221523,7 @@ string::hashref                   0.100  W/WB/WBRASWELL/Perl-Types-0.100.tar.gz
 string::hashref::arrayref         0.100  W/WB/WBRASWELL/Perl-Types-0.100.tar.gz
 String::HexConvert                 0.02  A/AH/AHERNIT/String-HexConvert-0.02.tar.gz
 String::Ident                      0.05  J/JK/JKUTEJ/String-Ident-0.05.tar.gz
+String::Increment::Parts          0.001  P/PE/PERLANCAR/String-Increment-Parts-0.001.tar.gz
 String::Incremental                0.01  I/IS/ISSM/String-Incremental-0.01.tar.gz
 String::Incremental::Char         undef  I/IS/ISSM/String-Incremental-0.01.tar.gz
 String::Incremental::FormatParser undef  I/IS/ISSM/String-Incremental-0.01.tar.gz
