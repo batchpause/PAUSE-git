@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261408
-Last-Updated: Sun, 04 Oct 2026 21:29:02 GMT
+Line-Count:   261411
+Last-Updated: Sun, 04 Oct 2026 22:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -17449,8 +17449,11 @@ Archive::BagIt::App::Verify       0.049  R/RJ/RJESCHMI/Archive-BagIt-App-0.049.t
 Archive::BagIt::Base              0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
 Archive::BagIt::DotBagIt          0.070  A/AR/ART/Archive-BagIt-0.070.tar.gz
 Archive::BagIt::Fast              0.090  A/AR/ART/Archive-BagIt-Fast-0.090.tar.gz
+Archive::BagIt::Plugin::Algorithm::BLAKE3 0.002  A/AR/ART/Archive-BagIt-Plugin-BLAKE3-0.002.tar.gz
 Archive::BagIt::Plugin::Algorithm::MD5 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
 Archive::BagIt::Plugin::Algorithm::SHA512 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
+Archive::BagIt::Plugin::BLAKE3    0.002  A/AR/ART/Archive-BagIt-Plugin-BLAKE3-0.002.tar.gz
+Archive::BagIt::Plugin::Manifest::BLAKE3 0.002  A/AR/ART/Archive-BagIt-Plugin-BLAKE3-0.002.tar.gz
 Archive::BagIt::Plugin::Manifest::MD5 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
 Archive::BagIt::Plugin::Manifest::SHA512 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
 Archive::BagIt::Role::Algorithm   0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
