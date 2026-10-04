@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261343
-Last-Updated: Sun, 04 Oct 2026 12:29:02 GMT
+Last-Updated: Sun, 04 Oct 2026 12:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -127137,12 +127137,12 @@ Markdown::Pod::Embed::Constant    1.012  A/AS/ASPEER/Markdown-Pod-Embed-1.013.ta
 Markdown::Pod::Embed::Util        1.012  A/AS/ASPEER/Markdown-Pod-Embed-1.013.tar.gz
 Markdown::Pod::Handler            0.008  K/KE/KEEDI/Markdown-Pod-0.008.tar.gz
 Markdown::Pod::script             0.008  K/KE/KEEDI/Markdown-Pod-0.008.tar.gz
-Markdown::Publish                 1.004  A/AS/ASPEER/Markdown-Publish-1.004.tar.gz
-Markdown::Publish::Constant       1.004  A/AS/ASPEER/Markdown-Publish-1.004.tar.gz
-Markdown::Publish::Docusaurus     1.004  A/AS/ASPEER/Markdown-Publish-1.004.tar.gz
-Markdown::Publish::MkDocs         1.004  A/AS/ASPEER/Markdown-Publish-1.004.tar.gz
-Markdown::Publish::Starlight      1.004  A/AS/ASPEER/Markdown-Publish-1.004.tar.gz
-Markdown::Publish::VitePress      1.004  A/AS/ASPEER/Markdown-Publish-1.004.tar.gz
+Markdown::Publish                 1.005  A/AS/ASPEER/Markdown-Publish-1.005.tar.gz
+Markdown::Publish::Constant       1.004  A/AS/ASPEER/Markdown-Publish-1.005.tar.gz
+Markdown::Publish::Docusaurus     1.004  A/AS/ASPEER/Markdown-Publish-1.005.tar.gz
+Markdown::Publish::MkDocs         1.004  A/AS/ASPEER/Markdown-Publish-1.005.tar.gz
+Markdown::Publish::Starlight      1.004  A/AS/ASPEER/Markdown-Publish-1.005.tar.gz
+Markdown::Publish::VitePress      1.004  A/AS/ASPEER/Markdown-Publish-1.005.tar.gz
 Markdown::Render                 v2.0.4  B/BI/BIGFOOT/Markdown-Render-2.0.4.tar.gz
 Markdown::Simple                   0.22  L/LN/LNATION/Markdown-Simple-0.22.tar.gz
 Markdown::Table                    0.04  P/PE/PERLSRVDE/Markdown-Table-0.04.tar.gz
@@ -225374,7 +225374,7 @@ Task::Map::Tube::Bundle        1.000007  M/MA/MANWAR/Task-Map-Tube-Bundle-v1.0.7
 Task::Map::Tube::Metro             0.13  S/SK/SKIM/Task-Map-Tube-Metro-0.13.tar.gz
 Task::MapMetro::Dev              0.1201  C/CS/CSSON/Task-MapMetro-Dev-0.1201.tar.gz
 Task::MapMetro::Maps             0.1302  C/CS/CSSON/Task-MapMetro-Maps-0.1302.tar.gz
-Task::Markdown::Pod               0.002  A/AS/ASPEER/Task-Markdown-Pod-0.002.tar.gz
+Task::Markdown::Pod               0.003  A/AS/ASPEER/Task-Markdown-Pod-0.003.tar.gz
 Task::Markdown::Publish           0.002  A/AS/ASPEER/Task-Markdown-Publish-0.002.tar.gz
 Task::Math::Symbolic               1.01  S/SM/SMUELLER/Task-Math-Symbolic-1.01.tar.gz
 Task::MemManager                   0.10  C/CH/CHRISARG/Task-MemManager-0.10.tar.gz
