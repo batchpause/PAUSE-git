@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261420
-Last-Updated: Mon, 05 Oct 2026 15:17:02 GMT
+Line-Count:   261421
+Last-Updated: Mon, 05 Oct 2026 16:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -13732,16 +13732,16 @@ App::PerlFuzzyTokenFinder::MatchedPosition undef  U/UT/UTGWKK/App-PerlFuzzyToken
 App::PerlGlue                      0.04  S/SH/SHINGO/App-PerlGlue-0.04.tar.gz
 App::PerlGzipScript              v0.0.3  S/SK/SKAJI/App-PerlGzipScript-v0.0.3.tar.gz
 App::perlhl                       0.007  D/DO/DOHERTY/App-perlhl-0.007.tar.gz
-App::perlimports               0.000065  O/OA/OALDERS/App-perlimports-0.000065.tar.gz
-App::perlimports::Annotations  0.000065  O/OA/OALDERS/App-perlimports-0.000065.tar.gz
-App::perlimports::CLI          0.000065  O/OA/OALDERS/App-perlimports-0.000065.tar.gz
-App::perlimports::Config       0.000065  O/OA/OALDERS/App-perlimports-0.000065.tar.gz
-App::perlimports::Document     0.000065  O/OA/OALDERS/App-perlimports-0.000065.tar.gz
-App::perlimports::ExportInspector 0.000065  O/OA/OALDERS/App-perlimports-0.000065.tar.gz
-App::perlimports::Include      0.000065  O/OA/OALDERS/App-perlimports-0.000065.tar.gz
-App::perlimports::Role::Logger 0.000065  O/OA/OALDERS/App-perlimports-0.000065.tar.gz
-App::perlimports::Sandbox      0.000065  O/OA/OALDERS/App-perlimports-0.000065.tar.gz
-App::perlimports::Sorter       0.000065  O/OA/OALDERS/App-perlimports-0.000065.tar.gz
+App::perlimports               0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
+App::perlimports::Annotations  0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
+App::perlimports::CLI          0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
+App::perlimports::Config       0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
+App::perlimports::Document     0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
+App::perlimports::ExportInspector 0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
+App::perlimports::Include      0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
+App::perlimports::Role::Logger 0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
+App::perlimports::Sandbox      0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
+App::perlimports::Sorter       0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
 App::PerlLocalEnv                 undef  M/MA/MART/perl-local-env-0.03.tar.gz
 App::perlminlint                   0.24  H/HK/HKOBA/App-perlminlint-0.24.tar.gz
 App::perlminlint::Object          undef  H/HK/HKOBA/App-perlminlint-0.24.tar.gz
@@ -123698,6 +123698,7 @@ Log::Log4perl::Appender::Lim::CLI  0.15  J/JE/JELU/Log-Log4perl-Appender-Lim-CLI
 Log::Log4perl::Appender::Limit     1.53  M/MS/MSCHILLI/Log-Log4perl-1.58.tar.gz
 Log::Log4perl::Appender::LogGer   0.001  P/PE/PERLANCAR/Log-Log4perl-Appender-LogGer-0.001.tar.gz
 Log::Log4perl::Appender::Lumberjack 1.00  B/BE/BENNING/Log-Log4perl-Appender-Lumberjack-1.00.tar.gz
+Log::Log4perl::Appender::OpenTelemetry 0.001000  A/AB/ABRAXXA/Log-Log4perl-Appender-OpenTelemetry-0.001000.tar.gz
 Log::Log4perl::Appender::RabbitMQ 0.200002  A/AB/ABRAXXA/Log-Log4perl-Appender-RabbitMQ-0.200002.tar.gz
 Log::Log4perl::Appender::Raven    0.006  J/JE/JETEVE/Log-Log4perl-Appender-Raven-0.006.tar.gz
 Log::Log4perl::Appender::Redis     0.01  F/FR/FRAZAO/Log-Log4perl-Appender-Redis-0.01.tar.gz
