@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668533
+Line-Count:  668545
 Written-By:  PAUSE version 1.005
-Date:        Mon, 05 Oct 2026 01:18:23 GMT
+Date:        Mon, 05 Oct 2026 01:55:36 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -375225,6 +375225,12 @@ Minilla::CLI::New,SLANNING,c
 Minilla::CLI::New,SONGMU,c
 Minilla::CLI::New,SYOHEX,c
 Minilla::CLI::New,TOKUHIROM,f
+Minilla::CLI::Prepare,MIYAGAWA,c
+Minilla::CLI::Prepare,SKAJI,c
+Minilla::CLI::Prepare,SLANNING,c
+Minilla::CLI::Prepare,SONGMU,c
+Minilla::CLI::Prepare,SYOHEX,c
+Minilla::CLI::Prepare,TOKUHIROM,f
 Minilla::CLI::Release,MIYAGAWA,c
 Minilla::CLI::Release,SKAJI,c
 Minilla::CLI::Release,SLANNING,c
@@ -375243,6 +375249,12 @@ Minilla::CLI::Test,SLANNING,c
 Minilla::CLI::Test,SONGMU,c
 Minilla::CLI::Test,SYOHEX,c
 Minilla::CLI::Test,TOKUHIROM,f
+Minilla::Changes,MIYAGAWA,c
+Minilla::Changes,SKAJI,c
+Minilla::Changes,SLANNING,c
+Minilla::Changes,SONGMU,c
+Minilla::Changes,SYOHEX,c
+Minilla::Changes,TOKUHIROM,f
 Minilla::Error::CommandExit,MIYAGAWA,c
 Minilla::Error::CommandExit,SKAJI,c
 Minilla::Error::CommandExit,SLANNING,c
