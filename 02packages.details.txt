@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261420
-Last-Updated: Mon, 05 Oct 2026 07:17:02 GMT
+Last-Updated: Mon, 05 Oct 2026 09:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -86123,33 +86123,33 @@ Getopt::O2                       v1.1.0  S/SC/SCHIECHEO/Getopt-O2-v1.1.0.tar.gz
 Getopt::O2::Rule                  undef  S/SC/SCHIECHEO/Getopt-O2-v1.1.0.tar.gz
 Getopt::OO                         0.07  S/SJ/SJSMITH/Getopt-OO-0.07.tar.gz
 Getopt::optparse               1.006000  M/MH/MHEARSE/Getopt-optparse-1.6.0.tar.gz
-Getopt::Pad                        0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Completion            0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Config                0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Config::Format        0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Config::Format::Json  0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Config::Format::Yaml  0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Error                 0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::ExitRequest           0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Help                  0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Parser                0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Registry              0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Result                0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Result::Generator     0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Spec                  0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Spec::Arg             0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Spec::Config          0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Spec::Level           0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Spec::Option          0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Type                  0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Type::Dir             0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Type::File            0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Type::Float           0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Type::Int             0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Type::Number          0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Type::Path            0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Type::Url             0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
-Getopt::Pad::Util                  0.04  D/DA/DAVENONYM/Getopt-Pad-0.04.tar.gz
+Getopt::Pad                        0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Completion            0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Config                0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Config::Format        0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Config::Format::Json  0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Config::Format::Yaml  0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Error                 0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::ExitRequest           0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Help                  0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Parser                0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Registry              0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Result                0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Result::Generator     0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Spec                  0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Spec::Arg             0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Spec::Config          0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Spec::Level           0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Spec::Option          0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Type                  0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Type::Dir             0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Type::File            0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Type::Float           0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Type::Int             0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Type::Number          0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Type::Path            0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Type::Url             0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
+Getopt::Pad::Util                  0.05  D/DA/DAVENONYM/Getopt-Pad-0.05.tar.gz
 Getopt::Panjang                    0.04  P/PE/PERLANCAR/Getopt-Panjang-0.04.tar.gz
 Getopt::Param                  0.000005  D/DM/DMUEY/Getopt-Param-0.0.5.tar.gz
 Getopt::Param::Tiny                 0.5  D/DM/DMUEY/Getopt-Param-Tiny-0.5.tar.gz
