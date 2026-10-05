@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261421
-Last-Updated: Mon, 05 Oct 2026 21:29:02 GMT
+Line-Count:   261422
+Last-Updated: Mon, 05 Oct 2026 21:54:50 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -63318,22 +63318,23 @@ DBIx::EnumConstraints              0.05  B/BO/BOSU/DBIx-EnumConstraints-0.05.tar
 DBIx::Error                    1.000001  M/MC/MCB/DBIx-Error-1.0.1.tar.gz
 DBIx::Export                       0.01  A/AD/ADAMK/DBIx-Export-0.01.tar.gz
 DBIx::Factory                      0.09  B/BA/BAHOOTYPR/DBIx-Factory-0.09.tar.gz
-DBIx::Fast                         0.18  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Base                  undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Cache                 undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Cached                undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Connector             undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Output                undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Profile::Base         undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Profile::MariaDB      undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Profile::mysql        undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Profile::Pg           undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Profile::SQLite       undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Profiler              undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Result                undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Schema                undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::SQL                   undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
-DBIx::Fast::Transaction           undef  H/HD/HDELGADO/DBIx-Fast-0.18.tar.gz
+DBIx::Fast                         0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Base                   0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Cache                  0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Cached                 0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Connector              0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Output                 0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Profile::Base          0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Profile::MariaDB       0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Profile::mysql         0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Profile::Pg            0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Profile::SQLite        0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Profiler               0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Result                 0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Schema                 0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::SQL                    0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::Transaction            0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
+DBIx::Fast::X                      0.19  H/HD/HDELGADO/DBIx-Fast-0.19.tar.gz
 DBIx::FetchLoop                     0.6  B/BI/BITS/DBIx-FetchLoop-0.6.tar.gz
 DBIx::FetchLoop::fetchrow_arrayref  0.6  B/BI/BITS/DBIx-FetchLoop-0.6.tar.gz
 DBIx::FetchLoop::fetchrow_hashref   0.6  B/BI/BITS/DBIx-FetchLoop-0.6.tar.gz
