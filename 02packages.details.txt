@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261421
-Last-Updated: Mon, 05 Oct 2026 20:41:02 GMT
+Last-Updated: Mon, 05 Oct 2026 20:54:46 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4659,7 +4659,7 @@ Alien::wxWidgets                   0.69  M/MD/MDOOTSON/Alien-wxWidgets-0.69.tar.
 Alien::wxWidgets::Utility          0.59  M/MD/MDOOTSON/Alien-wxWidgets-0.69.tar.gz
 Alien::XGBoost                     0.05  P/PA/PABLROD/Alien-XGBoost-0.05.tar.gz
 Alien::XInputSimulator            0.001  A/AT/ATHREEF/Alien-XInputSimulator-0.001.tar.gz
-Alien::Xmake                     v1.0.3  S/SA/SANKO/Alien-Xmake-v1.0.3.tar.gz
+Alien::Xmake                     v1.0.4  S/SA/SANKO/Alien-Xmake-v1.0.4.tar.gz
 Alien::Xmake::Project            v1.0.0  S/SA/SANKO/Alien-Xmake-Project-v1.0.0.tar.gz
 Alien::Xmake::Project::Namespace v1.0.0  S/SA/SANKO/Alien-Xmake-Project-v1.0.0.tar.gz
 Alien::Xmake::Project::Option    v1.0.0  S/SA/SANKO/Alien-Xmake-Project-v1.0.0.tar.gz
