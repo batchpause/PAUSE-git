@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261420
-Last-Updated: Mon, 05 Oct 2026 05:29:02 GMT
+Last-Updated: Mon, 05 Oct 2026 06:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -76674,18 +76674,18 @@ Fennec::Util                      undef  E/EX/EXODIST/Fennec-2.018.tar.gz
 Fern                              undef  W/WS/WSCHROED/Fern-0.2.tar.gz
 Festival::Client                    1.0  G/GO/GOSSAMER/Festival-Client-1.0.tar.gz
 Festival::Client::Async          0.0303  D/DJ/DJHD/Festival-Client-Async-0.0303.tar.gz
-Fetch                              0.28  L/LN/LNATION/Fetch-0.28.tar.gz
-Fetch::CookieJar                   0.28  L/LN/LNATION/Fetch-0.28.tar.gz
-Fetch::Future                      0.28  L/LN/LNATION/Fetch-0.28.tar.gz
-Fetch::Headers                     0.28  L/LN/LNATION/Fetch-0.28.tar.gz
+Fetch                              0.29  L/LN/LNATION/Fetch-0.29.tar.gz
+Fetch::CookieJar                   0.29  L/LN/LNATION/Fetch-0.29.tar.gz
+Fetch::Future                      0.29  L/LN/LNATION/Fetch-0.29.tar.gz
+Fetch::Headers                     0.29  L/LN/LNATION/Fetch-0.29.tar.gz
 Fetch::Image                   1.000000  M/MA/MARKELLIS/Fetch-Image-1.000000.tar.gz
-Fetch::Loop                        0.28  L/LN/LNATION/Fetch-0.28.tar.gz
-Fetch::Loop::AnyEvent              0.28  L/LN/LNATION/Fetch-0.28.tar.gz
-Fetch::Loop::Hyperman              0.28  L/LN/LNATION/Fetch-0.28.tar.gz
-Fetch::Loop::IOAsync               0.28  L/LN/LNATION/Fetch-0.28.tar.gz
-Fetch::Loop::Standalone            0.28  L/LN/LNATION/Fetch-0.28.tar.gz
-Fetch::Response                    0.28  L/LN/LNATION/Fetch-0.28.tar.gz
-Fetch::WebSocket                   0.28  L/LN/LNATION/Fetch-0.28.tar.gz
+Fetch::Loop                        0.29  L/LN/LNATION/Fetch-0.29.tar.gz
+Fetch::Loop::AnyEvent              0.29  L/LN/LNATION/Fetch-0.29.tar.gz
+Fetch::Loop::Hyperman              0.29  L/LN/LNATION/Fetch-0.29.tar.gz
+Fetch::Loop::IOAsync               0.29  L/LN/LNATION/Fetch-0.29.tar.gz
+Fetch::Loop::Standalone            0.29  L/LN/LNATION/Fetch-0.29.tar.gz
+Fetch::Response                    0.29  L/LN/LNATION/Fetch-0.29.tar.gz
+Fetch::WebSocket                   0.29  L/LN/LNATION/Fetch-0.29.tar.gz
 Fetcher                           undef  J/JA/JALYCAI/article_fetcher.zip
 fewer                             0.204  R/RJ/RJBS/fewer-0.204.tar.gz
 Fey                                0.44  D/DR/DROLSKY/Fey-0.44.tar.gz
