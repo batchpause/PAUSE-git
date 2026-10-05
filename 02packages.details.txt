@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261421
-Last-Updated: Mon, 05 Oct 2026 17:54:29 GMT
+Last-Updated: Mon, 05 Oct 2026 18:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -41758,7 +41758,7 @@ CGI::LDAPSession                    0.9  J/JE/JEFF/CGISession.tar.gz
 CGI::LDAPSession::CGI               0.9  J/JE/JEFF/CGISession.tar.gz
 CGI::LDAPSession::CookieJar::DBI  undef  J/JE/JEFF/CGISession.tar.gz
 CGI::LDAPSession::LDAPServer        0.9  J/JE/JEFF/CGISession.tar.gz
-CGI::Lingua                        0.85  N/NH/NHORNE/CGI-Lingua-0.85.tar.gz
+CGI::Lingua                        0.86  N/NH/NHORNE/CGI-Lingua-0.86.tar.gz
 CGI::List                          0.05  R/RO/ROMDAV/CGI-List-0.05.tar.gz
 CGI::Listman                       0.05  H/HP/HPYHACKER/CGI-Listman-0.05.tar.gz
 CGI::Listman::dictionary           0.02  H/HP/HPYHACKER/CGI-Listman-0.02.tar.gz
