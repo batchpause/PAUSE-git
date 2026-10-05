@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261421
-Last-Updated: Mon, 05 Oct 2026 20:17:02 GMT
+Last-Updated: Mon, 05 Oct 2026 20:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -79414,7 +79414,7 @@ Font::Fret                        1.202  B/BH/BHALLISSY/Font-TTF-Scripts-1.06.ta
 Font::Fret::Default               1.202  B/BH/BHALLISSY/Font-TTF-Scripts-1.06.tar.gz
 FONT::FT2                      0.001000  C/CA/CAFFIEND/font_ft2_0.1.0.tgz
 Font::GlyphNames                1.00000  S/SP/SPROUT/Font-GlyphNames-1.00000.tar.gz
-Font::Metrics                      1.00  L/LN/LNATION/Font-Metrics-1.00.tar.gz
+Font::Metrics                      1.01  L/LN/LNATION/Font-Metrics-1.01.tar.gz
 Font::Metrics::Courier            undef  G/GA/GAAS/Font-AFM-1.20.tar.gz
 Font::Metrics::CourierBold        undef  G/GA/GAAS/Font-AFM-1.20.tar.gz
 Font::Metrics::CourierBoldOblique undef  G/GA/GAAS/Font-AFM-1.20.tar.gz
@@ -117399,7 +117399,7 @@ LaunchParam                        1.06  C/CN/CNANDOR/Mac-Carbon-0.82.tar.gz
 Lavoco::Web::App                   0.06  C/CA/CAGAO/Lavoco-Web-App-0.06.tar.gz
 Lavoco::Web::Editor                0.07  C/CA/CAGAO/Lavoco-Web-Editor-0.07.tar.gz
 layout                             0.13  B/BA/BAERGAJ/Shipment-0.13.tar.gz
-Layout::Flex                       0.05  L/LN/LNATION/Layout-Flex-0.05.tar.gz
+Layout::Flex                       0.06  L/LN/LNATION/Layout-Flex-0.06.tar.gz
 Layout::Manager                    0.35  G/GP/GPHAT/Layout-Manager-0.35.tar.gz
 Layout::Manager::Absolute         undef  G/GP/GPHAT/Layout-Manager-0.35.tar.gz
 Layout::Manager::Axis             undef  G/GP/GPHAT/Layout-Manager-0.35.tar.gz
@@ -127168,7 +127168,7 @@ Markdown::Publish::MkDocs         1.004  A/AS/ASPEER/Markdown-Publish-1.005.tar.
 Markdown::Publish::Starlight      1.004  A/AS/ASPEER/Markdown-Publish-1.005.tar.gz
 Markdown::Publish::VitePress      1.004  A/AS/ASPEER/Markdown-Publish-1.005.tar.gz
 Markdown::Render                 v2.0.4  B/BI/BIGFOOT/Markdown-Render-2.0.4.tar.gz
-Markdown::Simple                   0.22  L/LN/LNATION/Markdown-Simple-0.22.tar.gz
+Markdown::Simple                   0.23  L/LN/LNATION/Markdown-Simple-0.23.tar.gz
 Markdown::Table                    0.04  P/PE/PERLSRVDE/Markdown-Table-0.04.tar.gz
 Markdown::To::POD                  0.06  P/PE/PERLANCAR/Markdown-To-POD-0.06.tar.gz
 Markdown::TOC                      0.01  I/IM/IMAGO/Markdown-TOC-0.01.tar.gz
