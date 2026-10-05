@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261421
-Last-Updated: Mon, 05 Oct 2026 16:54:35 GMT
+Last-Updated: Mon, 05 Oct 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -124945,19 +124945,19 @@ Mac::PopClip::Quick::Role::Regex 1.000002  M/MA/MARKF/Mac-PopClip-Quick-1.000002
 Mac::PopClip::Quick::Role::WritePlist 1.000002  M/MA/MARKF/Mac-PopClip-Quick-1.000002.tar.gz
 Mac::Processes                     1.06  C/CN/CNANDOR/Mac-Carbon-0.82.tar.gz
 Mac::Processes::_ProcessInfoMap    1.06  C/CN/CNANDOR/Mac-Carbon-0.82.tar.gz
-Mac::PropertyList                 1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::array          1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::Boolean        1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::Container      1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::data           1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::date           1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::dict           1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::false          1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::integer        1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::Item           1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::LineListSource 1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::ReadBinary     1.506  B/BR/BRIANDFOY/Mac-PropertyList-1.602.tar.gz
-Mac::PropertyList::real           1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
+Mac::PropertyList                 1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::array          1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::Boolean        1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::Container      1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::data           1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::date           1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::dict           1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::false          1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::integer        1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::Item           1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::LineListSource 1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::ReadBinary     1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::real           1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
 Mac::PropertyList::SAX            1.002  K/KU/KULP/Mac-PropertyList-SAX-1.002.tar.gz
 Mac::PropertyList::SAX::array     1.002  K/KU/KULP/Mac-PropertyList-SAX-1.002.tar.gz
 Mac::PropertyList::SAX::Boolean   1.002  K/KU/KULP/Mac-PropertyList-SAX-1.002.tar.gz
@@ -124972,14 +124972,14 @@ Mac::PropertyList::SAX::Scalar    1.002  K/KU/KULP/Mac-PropertyList-SAX-1.002.ta
 Mac::PropertyList::SAX::string    1.002  K/KU/KULP/Mac-PropertyList-SAX-1.002.tar.gz
 Mac::PropertyList::SAX::true      1.002  K/KU/KULP/Mac-PropertyList-SAX-1.002.tar.gz
 Mac::PropertyList::SAX::uid       1.002  K/KU/KULP/Mac-PropertyList-SAX-1.002.tar.gz
-Mac::PropertyList::Scalar         1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::Source         1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::string         1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::TextSource     1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::true           1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::uid            1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::ustring        1.606  B/BR/BRIANDFOY/Mac-PropertyList-1.606.tar.gz
-Mac::PropertyList::WriteBinary    1.505  B/BR/BRIANDFOY/Mac-PropertyList-1.602.tar.gz
+Mac::PropertyList::Scalar         1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::Source         1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::string         1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::TextSource     1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::true           1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::uid            1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::ustring        1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
+Mac::PropertyList::WriteBinary    1.607  B/BR/BRIANDFOY/Mac-PropertyList-1.607.tar.gz
 Mac::PropertyList::XS              0.06  K/KU/KULP/Mac-PropertyList-XS-0.06.tar.gz
 Mac::PropertyListFilter            0.02  J/JG/JGOFF/Mac-PropertyListFilter-0.02.tar.gz
 Mac::QuickBundle                   0.03  M/MB/MBARBON/Mac-QuickBundle-0.03.tar.gz
