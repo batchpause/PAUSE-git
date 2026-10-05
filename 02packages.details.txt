@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261420
-Last-Updated: Mon, 05 Oct 2026 02:41:02 GMT
+Last-Updated: Mon, 05 Oct 2026 05:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -48701,7 +48701,7 @@ CPAN::02Packages::Search         v1.0.0  S/SK/SKAJI/CPAN-02Packages-Search-v1.0.
 CPAN::Admin                       5.501  A/AN/ANDK/CPAN-2.41.tar.gz
 CPAN::API::BuildPL                0.002  L/LE/LEONT/CPAN-API-BuildPL-0.002.tar.gz
 CPAN::Audit                    20260622.001  B/BR/BRIANDFOY/CPAN-Audit-20260622.001.tar.gz
-CPAN::Audit::DB                20261002.009  B/BR/BRIANDFOY/CPANSA-DB-20261002.009.tar.gz
+CPAN::Audit::DB                20261004.001  B/BR/BRIANDFOY/CPANSA-DB-20261004.001.tar.gz
 CPAN::Audit::Discover             1.001  B/BR/BRIANDFOY/CPAN-Audit-20260622.001.tar.gz
 CPAN::Audit::Discover::Cpanfile   1.001  B/BR/BRIANDFOY/CPAN-Audit-20260622.001.tar.gz
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  B/BR/BRIANDFOY/CPAN-Audit-20260622.001.tar.gz
@@ -49537,7 +49537,7 @@ CPANPLUS::YACSmoke::IniFiles       1.08  B/BI/BINGOS/CPANPLUS-YACSmoke-1.08.tar.
 CPANPLUS::YACSmoke::locallib       1.08  B/BI/BINGOS/CPANPLUS-YACSmoke-1.08.tar.gz
 CPANPLUS::YACSmoke::ReAssemble     1.08  B/BI/BINGOS/CPANPLUS-YACSmoke-1.08.tar.gz
 CPANPLUS::YACSmoke::SortVers       1.08  B/BI/BINGOS/CPANPLUS-YACSmoke-1.08.tar.gz
-CPANSA::DB                     20261002.009  B/BR/BRIANDFOY/CPANSA-DB-20261002.009.tar.gz
+CPANSA::DB                     20261004.001  B/BR/BRIANDFOY/CPANSA-DB-20261004.001.tar.gz
 CPANSEC::Admin                    0.001  G/GA/GARU/CPANSec-Admin-0.001.tar.gz
 CPANSEC::Admin::Command           undef  G/GA/GARU/CPANSec-Admin-0.001.tar.gz
 CPANSEC::Admin::Command::Amend    undef  G/GA/GARU/CPANSec-Admin-0.001.tar.gz
@@ -150243,9 +150243,9 @@ Net::Whois::Object::RtrSet::AFRINIC undef  A/AA/AASSAD/Net-Whois-RIPE-2.008001.t
 Net::Whois::Object::RtrSet::APNIC undef  A/AA/AASSAD/Net-Whois-RIPE-2.008001.tar.gz
 Net::Whois::Parser                 0.08  I/IV/IVSOKOLOV/Net-Whois-Parser-0.08.tar.gz
 Net::Whois::Proxy                   1.9  C/CF/CFABER/Net-Whois-Proxy-1.9.tar.gz
-Net::Whois::Raw                 2.99043  N/NA/NALOBIN/Net-Whois-Raw-2.99043.tar.gz
-Net::Whois::Raw::Common         2.99043  N/NA/NALOBIN/Net-Whois-Raw-2.99043.tar.gz
-Net::Whois::Raw::Data           2.99043  N/NA/NALOBIN/Net-Whois-Raw-2.99043.tar.gz
+Net::Whois::Raw                 2.99044  N/NA/NALOBIN/Net-Whois-Raw-2.99044.tar.gz
+Net::Whois::Raw::Common         2.99044  N/NA/NALOBIN/Net-Whois-Raw-2.99044.tar.gz
+Net::Whois::Raw::Data           2.99044  N/NA/NALOBIN/Net-Whois-Raw-2.99044.tar.gz
 Net::Whois::RegistryFusion         0.05  I/IL/ILIAL/Net-Whois-RegistryFusion-0.05.tar.gz
 Net::Whois::RIPE               2.008001  A/AA/AASSAD/Net-Whois-RIPE-2.008001.tar.gz
 Net::Whois::RIPE::Iterator         1.30  L/LM/LMC/Net-Whois-RIPE-1.31.tar.gz
