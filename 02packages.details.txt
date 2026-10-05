@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261422
-Last-Updated: Mon, 05 Oct 2026 22:54:46 GMT
+Last-Updated: Mon, 05 Oct 2026 23:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -107351,7 +107351,7 @@ IngyPrelude                    0.000001  I/IN/INGY/IngyPrelude-0.0.1.tar.gz
 INI::Examples                     0.001  P/PE/PERLANCAR/INI-Examples-0.001.tar.gz
 INI_File                          0.001  G/GE/GETTY/INI_File-0.001.tar.gz
 IniConf                            1.03  R/RB/RBOW/IniConf-1.03.tar.gz
-iniweb                            undef  B/BR/BRIANDFOY/Mojolicious-Plugin-DirectoryServer-1.006.tar.gz
+iniweb                            undef  B/BR/BRIANDFOY/Mojolicious-Plugin-DirectoryServer-1.007.tar.gz
 Inky                           0.161810  M/MF/MFONTANI/Inky-0.161810.tar.gz
 Inline                             0.87  I/IN/INGY/Inline-0.87.tar.gz
 Inline::ASM                        0.03  N/NE/NEILW/Inline-ASM-0.03.tar.gz
@@ -135831,7 +135831,7 @@ Mojolicious::Plugin::Directory     0.14  H/HA/HAYAJO/Mojolicious-Plugin-Director
 Mojolicious::Plugin::Directory::Stylish 1.006  C/CO/COFFEE/Mojolicious-Plugin-Directory-Stylish-1.006.tar.gz
 Mojolicious::Plugin::DirectoryHandler undef  R/RE/RES/Mojo-Darkpan-0.09.tar.gz
 Mojolicious::Plugin::DirectoryQueue 0.01  F/FU/FUKAI/Mojolicious-Plugin-DirectoryQueue-0.01.tar.gz
-Mojolicious::Plugin::DirectoryServer 1.006  B/BR/BRIANDFOY/Mojolicious-Plugin-DirectoryServer-1.006.tar.gz
+Mojolicious::Plugin::DirectoryServer 1.007  B/BR/BRIANDFOY/Mojolicious-Plugin-DirectoryServer-1.007.tar.gz
 Mojolicious::Plugin::Disqus        1.22  M/MA/MADCAT/Mojolicious-Plugin-Disqus-1.22.tar.gz
 Mojolicious::Plugin::DOCRenderer   5.02  E/EX/EXC/Mojolicious-Plugin-DOCRenderer-5.02.tar.gz
 Mojolicious::Plugin::DomIdHelper   0.04  S/SH/SHAW/Mojolicious-Plugin-DomIdHelper-0.04.tar.gz
