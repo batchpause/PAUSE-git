@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261420
-Last-Updated: Mon, 05 Oct 2026 02:17:02 GMT
+Last-Updated: Mon, 05 Oct 2026 02:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -237096,12 +237096,12 @@ Unblock::HTTP1::Client             0.03  H/HA/HAX/Unblock-HTTP1-0.03.tar.gz
 Unblock::HTTP1::NativeABI         undef  H/HA/HAX/Unblock-HTTP1-0.03.tar.gz
 Unblock::HTTP1::Server             0.03  H/HA/HAX/Unblock-HTTP1-0.03.tar.gz
 Unblock::HTTP1::Transaction        0.03  H/HA/HAX/Unblock-HTTP1-0.03.tar.gz
-Unblock::HTTP2                     0.04  H/HA/HAX/Unblock-HTTP2-0.04.tar.gz
-Unblock::HTTP2::Client             0.04  H/HA/HAX/Unblock-HTTP2-0.04.tar.gz
-Unblock::HTTP2::NativeABI          0.04  H/HA/HAX/Unblock-HTTP2-0.04.tar.gz
-Unblock::HTTP2::Server             0.04  H/HA/HAX/Unblock-HTTP2-0.04.tar.gz
+Unblock::HTTP2                     0.10  H/HA/HAX/Unblock-HTTP2-0.10.tar.gz
+Unblock::HTTP2::Client             0.10  H/HA/HAX/Unblock-HTTP2-0.10.tar.gz
+Unblock::HTTP2::NativeABI          0.10  H/HA/HAX/Unblock-HTTP2-0.10.tar.gz
+Unblock::HTTP2::Server             0.10  H/HA/HAX/Unblock-HTTP2-0.10.tar.gz
 Unblock::HTTP2::Stream             0.02  H/HA/HAX/Unblock-HTTP2-0.02.tar.gz
-Unblock::HTTP2::Transaction        0.04  H/HA/HAX/Unblock-HTTP2-0.04.tar.gz
+Unblock::HTTP2::Transaction        0.10  H/HA/HAX/Unblock-HTTP2-0.10.tar.gz
 Unblock::HTTP3                     0.03  H/HA/HAX/Unblock-HTTP3-0.03.tar.gz
 Unblock::HTTP3::Body::Reader       0.03  H/HA/HAX/Unblock-HTTP3-0.03.tar.gz
 Unblock::HTTP3::Body::Stream       0.03  H/HA/HAX/Unblock-HTTP3-0.03.tar.gz
