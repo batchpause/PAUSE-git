@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261421
-Last-Updated: Mon, 05 Oct 2026 19:54:45 GMT
+Last-Updated: Mon, 05 Oct 2026 20:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -65262,7 +65262,7 @@ Devel::Caller                      2.07  R/RC/RCLAMP/Devel-Caller-2.07.tar.gz
 Devel::Caller::IgnoreNamespaces     1.1  D/DC/DCANTRELL/Devel-Caller-IgnoreNamespaces-1.1.tar.gz
 Devel::Caller::Perl                 1.4  C/CW/CWEST/Devel-Caller-Perl-1.4.tar.gz
 Devel::Caller::Util               0.042  P/PE/PERLANCAR/Devel-Caller-Util-0.042.tar.gz
-Devel::CallParser                 0.005  L/LN/LNATION/Devel-CallParser-0.005.tar.gz
+Devel::CallParser                 0.006  L/LN/LNATION/Devel-CallParser-0.006.tar.gz
 Devel::CallSequence               undef  P/PH/PHILCROW/UML-Sequence-0.08.tar.gz
 Devel::callsfrom                  undef  B/BR/BRUMMETT/UR-0.47.tar.gz
 Devel::Callsite                1.000001  R/RO/ROCKY/Devel-Callsite-1.0.1.tar.gz
@@ -79414,7 +79414,7 @@ Font::Fret                        1.202  B/BH/BHALLISSY/Font-TTF-Scripts-1.06.ta
 Font::Fret::Default               1.202  B/BH/BHALLISSY/Font-TTF-Scripts-1.06.tar.gz
 FONT::FT2                      0.001000  C/CA/CAFFIEND/font_ft2_0.1.0.tgz
 Font::GlyphNames                1.00000  S/SP/SPROUT/Font-GlyphNames-1.00000.tar.gz
-Font::Metrics                      0.03  L/LN/LNATION/Font-Metrics-0.03.tar.gz
+Font::Metrics                      1.00  L/LN/LNATION/Font-Metrics-1.00.tar.gz
 Font::Metrics::Courier            undef  G/GA/GAAS/Font-AFM-1.20.tar.gz
 Font::Metrics::CourierBold        undef  G/GA/GAAS/Font-AFM-1.20.tar.gz
 Font::Metrics::CourierBoldOblique undef  G/GA/GAAS/Font-AFM-1.20.tar.gz
@@ -155705,7 +155705,7 @@ Package::Rename                    0.02  L/LE/LEONT/Package-Rename-0.02.tar.gz
 Package::Role::ini                 0.07  M/MR/MRDVT/Package-Role-ini-0.07.tar.gz
 Package::Stash                     0.40  E/ET/ETHER/Package-Stash-0.40.tar.gz
 Package::Stash::PP                 0.40  E/ET/ETHER/Package-Stash-0.40.tar.gz
-Package::Stash::XS                 0.30  E/ET/ETHER/Package-Stash-XS-0.30.tar.gz
+Package::Stash::XS                 0.32  E/ET/ETHER/Package-Stash-XS-0.32.tar.gz
 Package::Strictures            1.000001  K/KE/KENTNL/Package-Strictures-1.000001.tar.gz
 Package::Strictures::Register  1.000001  K/KE/KENTNL/Package-Strictures-1.000001.tar.gz
 Package::Strictures::Registry  1.000001  K/KE/KENTNL/Package-Strictures-1.000001.tar.gz
