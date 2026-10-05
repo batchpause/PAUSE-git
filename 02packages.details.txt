@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261421
-Last-Updated: Mon, 05 Oct 2026 19:17:02 GMT
+Last-Updated: Mon, 05 Oct 2026 19:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -8532,7 +8532,7 @@ ApiTypes::TrackedLink              0.03  E/EL/ELASTICML/ElasticEmail-0.03.tar.gz
 ApiTypes::TrackingType             0.03  E/EL/ELASTICML/ElasticEmail-0.03.tar.gz
 ApiTypes::Usage                    0.03  E/EL/ELASTICML/ElasticEmail-0.03.tar.gz
 APNS::Agent                        0.06  S/SO/SONGMU/APNS-Agent-0.06.tar.gz
-Apophis                            0.06  L/LN/LNATION/Apophis-0.06.tar.gz
+Apophis                            1.00  L/LN/LNATION/Apophis-1.00.tar.gz
 App                               13887  S/SP/SPADKINS/App-Context-0.968.tar.gz
 App1                              undef  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
 App1::CustInfo                    undef  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
@@ -101707,7 +101707,7 @@ Heap::Elem::StrRev                 0.80  J/JM/JMM/Heap-0.80.tar.gz
 Heap::Fibonacci                    0.80  J/JM/JMM/Heap-0.80.tar.gz
 Heap::Fibonacci::Fast            0.0101  R/RA/RANDIR/Heap-Fibonacci-Fast-0.0101.tar.gz
 Heap::MinMax                       1.04  M/MB/MBEEBE/Heap-MinMax-1.04.tar.gz
-Heap::PQ                           0.07  L/LN/LNATION/Heap-PQ-0.07.tar.gz
+Heap::PQ                           1.00  L/LN/LNATION/Heap-PQ-1.00.tar.gz
 Heap::Priority                     0.01  J/JF/JFREEMAN/Heap-Priority-0.01.tar.gz
 Heap::Simple                       0.13  T/TH/THOSPEL/Heap-Simple-0.13.tar.gz
 Heap::Simple::Any                  0.03  T/TH/THOSPEL/Heap-Simple-Perl-0.14.tar.gz
@@ -200129,7 +200129,7 @@ QQ::weixin::work::wedoc::vip       0.10  Y/YO/YOURSELF/QQ-weixin-work-v0.12.zip
 QQ::weixin::work::wedrive          0.10  Y/YO/YOURSELF/QQ-weixin-work-v0.12.zip
 QQ::weixin::work::wedrive::vip     0.10  Y/YO/YOURSELF/QQ-weixin-work-v0.12.zip
 qq_eval_namespace                 undef  W/WY/WYANT/Astro-App-Satpass2-0.059.tar.gz
-QR::Code                           0.05  L/LN/LNATION/QR-Code-0.05.tar.gz
+QR::Code                           1.00  L/LN/LNATION/QR-Code-1.00.tar.gz
 QRCode::Any                       0.003  P/PE/PERLANCAR/QRCode-Any-0.003.tar.gz
 QRCode::Base45                     0.03  Y/YE/YENYA/QRCode-Base45-0.03.tar.gz
 QRCode::Encoder                   0.005  P/PO/POLETTIX/QRCode-Encoder-0.005.tar.gz
