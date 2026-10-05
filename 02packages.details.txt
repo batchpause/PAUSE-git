@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261422
-Last-Updated: Mon, 05 Oct 2026 21:54:50 GMT
+Last-Updated: Mon, 05 Oct 2026 22:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -27154,22 +27154,22 @@ Bio::MLST::Validate::Executable v2.1.1706216  A/AJ/AJPAGE/Bio-MLST-Check-2.1.170
 Bio::MLST::Validate::File      v2.1.1706216  A/AJ/AJPAGE/Bio-MLST-Check-2.1.1706216.tar.gz
 Bio::MLST::Validate::Resource  v2.1.1706216  A/AJ/AJPAGE/Bio-MLST-Check-2.1.1706216.tar.gz
 Bio::MolEvol::CodonModel       1.007002  C/CJ/CJFIELDS/BioPerl-1.007002.tar.gz
-Bio::MUST::Apps::Debrief42     0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::Debrief42::OrgReport 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::Debrief42::RunReport 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::Debrief42::TaxReport 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::Debrief42::TaxReport::NewSeq 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::FortyTwo      0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::FortyTwo::AliProcessor 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::FortyTwo::OrgProcessor 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::FortyTwo::RunProcessor 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
+Bio::MUST::Apps::Debrief42     0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::Debrief42::OrgReport 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::Debrief42::RunReport 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::Debrief42::TaxReport 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::Debrief42::TaxReport::NewSeq 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::FortyTwo      0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::FortyTwo::AliProcessor 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::FortyTwo::OrgProcessor 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::FortyTwo::RunProcessor 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
 Bio::MUST::Apps::HmmCleaner    0.243280  D/DB/DBAURAIN/Bio-MUST-Apps-HmmCleaner-0.243280.tar.gz
 Bio::MUST::Apps::HmmCleaner::Cleaner 0.243280  D/DB/DBAURAIN/Bio-MUST-Apps-HmmCleaner-0.243280.tar.gz
 Bio::MUST::Apps::HmmCleaner::Process 0.243280  D/DB/DBAURAIN/Bio-MUST-Apps-HmmCleaner-0.243280.tar.gz
-Bio::MUST::Apps::Leel          0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::Leel::AliProcessor 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::Leel::OrgProcessor 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::Leel::RunProcessor 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
+Bio::MUST::Apps::Leel          0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::Leel::AliProcessor 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::Leel::OrgProcessor 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::Leel::RunProcessor 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
 Bio::MUST::Apps::OmpaPa        0.260260  D/DB/DBAURAIN/Bio-MUST-Apps-OmpaPa-0.260260.tar.gz
 Bio::MUST::Apps::OmpaPa::Blast 0.260260  D/DB/DBAURAIN/Bio-MUST-Apps-OmpaPa-0.260260.tar.gz
 Bio::MUST::Apps::OmpaPa::Hmmer 0.260260  D/DB/DBAURAIN/Bio-MUST-Apps-OmpaPa-0.260260.tar.gz
@@ -27177,11 +27177,11 @@ Bio::MUST::Apps::OmpaPa::Parameters 0.260260  D/DB/DBAURAIN/Bio-MUST-Apps-OmpaPa
 Bio::MUST::Apps::OmpaPa::Roles::Parsable 0.260260  D/DB/DBAURAIN/Bio-MUST-Apps-OmpaPa-0.260260.tar.gz
 Bio::MUST::Apps::OmpaPa::Types 0.260260  D/DB/DBAURAIN/Bio-MUST-Apps-OmpaPa-0.260260.tar.gz
 Bio::MUST::Apps::Physeter      0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-Physeter-0.213470.tar.gz
-Bio::MUST::Apps::Roles::AliProcable 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::Roles::Configable 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::Roles::OrgProcable 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::Roles::RunProcable 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
-Bio::MUST::Apps::SlaveAligner::Local 0.213470  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.213470.tar.gz
+Bio::MUST::Apps::Roles::AliProcable 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::Roles::Configable 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::Roles::OrgProcable 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::Roles::RunProcable 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
+Bio::MUST::Apps::SlaveAligner::Local 0.262780  D/DB/DBAURAIN/Bio-MUST-Apps-FortyTwo-0.262780.tar.gz
 Bio::MUST::Apps::TwoScalp      0.243240  D/DB/DBAURAIN/Bio-MUST-Apps-TwoScalp-0.243240.tar.gz
 Bio::MUST::Apps::TwoScalp::AlignAll 0.243240  D/DB/DBAURAIN/Bio-MUST-Apps-TwoScalp-0.243240.tar.gz
 Bio::MUST::Apps::TwoScalp::Profile2Profile 0.243240  D/DB/DBAURAIN/Bio-MUST-Apps-TwoScalp-0.243240.tar.gz
