@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261421
-Last-Updated: Mon, 05 Oct 2026 20:54:46 GMT
+Last-Updated: Mon, 05 Oct 2026 21:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -153162,39 +153162,39 @@ ODS::Table::ResultSet             undef  L/LN/LNATION/ODS-0.05.tar.gz
 ODS::Table::Row                   undef  L/LN/LNATION/ODS-0.05.tar.gz
 ODS::Translator                   undef  L/LN/LNATION/ODS-0.05.tar.gz
 ODS::Utils                        undef  L/LN/LNATION/ODS-0.05.tar.gz
-oEdtk                            2.1071  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::AddrField                   0.01  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::C7Doc                       0.04  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::C7Tag                       0.05  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::Config                    1.9061  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::DateField                   0.14  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::DBAdmin                   2.1071  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::Dict                      0.7012  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::Doc                         0.05  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::EDMS                      0.8035  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::Field                       0.01  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::FPField                     0.01  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::libC7                     0.0056  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::libDev                     0.316  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::libXls                     0.463  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::logger                    1.6051  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
+oEdtk                            2.1101  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::AddrField                   0.01  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::C7Doc                       0.04  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::C7Tag                       0.05  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::Config                    1.9061  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::DateField                   0.14  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::DBAdmin                   2.1101  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::Dict                      0.7012  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::Doc                         0.05  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::EDMS                      0.8035  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::Field                       0.01  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::FPField                     0.01  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::libC7                     0.0056  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::libDev                     0.316  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::libXls                     0.463  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::logger                    1.6051  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
 oEdtk::logger2                   1.8083  G/GR/GRECHARY/oEdtk-1.8123.tar.gz
-oEdtk::Main                      1.8122  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::Messenger                  0.001  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::OmgrIdxDoc                0.8021  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::Outmngr                   1.5051  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::Record                    0.7005  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::RecordParser              0.7006  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::Run                       1.5041  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::SignedField                 0.01  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::Spool                      0.019  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::TexDoc                    0.7004  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::TexTag                      0.08  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::trackEdtk                 0.8051  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::Tracking                  2.1061  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::tuiEdtk                   0.0032  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::Util                        0.01  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
-oEdtk::XPath                       0.01  G/GR/GRECHARY/oEdtk-2.1071.tar.gz
+oEdtk::Main                      1.8122  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::Messenger                  0.001  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::OmgrIdxDoc                0.8021  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::Outmngr                   1.5051  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::Record                    0.7005  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::RecordParser              0.7006  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::Run                       1.5041  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::SignedField                 0.01  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::Spool                      0.019  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::TexDoc                    0.7004  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::TexTag                      0.08  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::trackEdtk                 0.8051  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::Tracking                  2.1061  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::tuiEdtk                   0.0032  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::Util                        0.01  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
+oEdtk::XPath                       0.01  G/GR/GRECHARY/oEdtk-2.1101.tar.gz
 OEIS                           2021041201  A/AB/ABIGAIL/OEIS-2021041201.tar.gz
 OEIS::A000045                  2021041201  A/AB/ABIGAIL/OEIS-2021041201.tar.gz
 of                                undef  G/GS/GSAR/perl-5.6.1.tar.gz
