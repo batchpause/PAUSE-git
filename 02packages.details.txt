@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261421
-Last-Updated: Mon, 05 Oct 2026 19:29:02 GMT
+Last-Updated: Mon, 05 Oct 2026 19:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -102233,7 +102233,7 @@ Horris::Connection::Plugin::RPC   undef  A/AA/AANOAA/Horris-v0.1.2.tar.gz
 Horris::Connection::Plugin::Twitter undef  A/AA/AANOAA/Horris-v0.1.2.tar.gz
 Horris::Message                   undef  A/AA/AANOAA/Horris-v0.1.2.tar.gz
 Horris::Message::Address          undef  A/AA/AANOAA/Horris-v0.1.2.tar.gz
-Horus                              0.09  L/LN/LNATION/Horus-0.09.tar.gz
+Horus                              1.00  L/LN/LNATION/Horus-1.00.tar.gz
 Hostfile::Manager                  0.09  M/MI/MIRABELLA/Hostfile-Manager-0.09.tar.gz
 Howdy                              0.01  P/PV/PVHP/ptkFAQ-0_03.tar.gz
 HP15                               1.15  I/IN/INA/Char/HP15/Char-HP15-1.15.tar.gz
@@ -211223,7 +211223,7 @@ Seis::Str                         undef  T/TO/TOKUHIROM/Seis-0.12.tar.gz
 Seis::Sub                         undef  T/TO/TOKUHIROM/Seis-0.12.tar.gz
 Seis::Undef                       undef  T/TO/TOKUHIROM/Seis-0.12.tar.gz
 Seis::Whatever                    undef  T/TO/TOKUHIROM/Seis-0.12.tar.gz
-Sekhmet                            0.02  L/LN/LNATION/Sekhmet-0.02.tar.gz
+Sekhmet                            1.00  L/LN/LNATION/Sekhmet-1.00.tar.gz
 selector                          undef  S/SH/SHERWOOD/xisofs-1.3.tar.gz
 SelectPdf                        v1.4.0  S/SE/SELECTPDF/SelectPdf-1.4.0.tar.gz
 SelectPdf::ApiClient             v1.4.0  S/SE/SELECTPDF/SelectPdf-1.4.0.tar.gz
@@ -216160,7 +216160,7 @@ Slovo::Task::SendOnboardingEmail  undef  B/BE/BEROV/Slovo-2023.03.22.tar.gz
 Slovo::Task::SendPasswEmail       undef  B/BE/BEROV/Slovo-2023.03.22.tar.gz
 Slovo::Themes::Malka              undef  B/BE/BEROV/Slovo-2023.03.22.tar.gz
 Slovo::Validator                  undef  B/BE/BEROV/Slovo-2023.03.22.tar.gz
-Slug                               0.03  L/LN/LNATION/Slug-0.03.tar.gz
+Slug                               1.00  L/LN/LNATION/Slug-1.00.tar.gz
 Slurm::Sacctmgr                1.001000  P/PA/PAYERLE/Slurm-Sacctmgr-1.1.0.tar.gz
 Slurm::Sacctmgr::Account          undef  P/PA/PAYERLE/Slurm-Sacctmgr-1.1.0.tar.gz
 Slurm::Sacctmgr::Association      undef  P/PA/PAYERLE/Slurm-Sacctmgr-1.1.0.tar.gz
@@ -233246,7 +233246,7 @@ Tie::NumRange                     0.021  P/PI/PINYAN/Tie-NumRange-0.021.tar.gz
 Tie::NumRange::Wrap               0.021  P/PI/PINYAN/Tie-NumRange-0.021.tar.gz
 Tie::OffsetArray                   0.01  J/JD/JDPORTER/Tie-OffsetArray-0.01.tar.gz
 Tie::OneOff                        1.03  N/NO/NOBULL/Tie-OneOff-1.03.tar.gz
-Tie::OrderedHash                   0.05  L/LN/LNATION/Tie-OrderedHash-0.05.tar.gz
+Tie::OrderedHash                   1.00  L/LN/LNATION/Tie-OrderedHash-1.00.tar.gz
 Tie::PagedArray                    0.02  K/KA/KARB/dataware/Tie-PagedArray-0.0.3.tar.gz
 Tie::Parent                        1.10  J/JO/JONASBN/Tie-Tools-1.10.tar.gz
 Tie::PerFH                         1.00  P/PI/PINYAN/Tie-PerFH-1.00.tar.gz
