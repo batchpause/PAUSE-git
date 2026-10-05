@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261421
-Last-Updated: Mon, 05 Oct 2026 19:41:02 GMT
+Last-Updated: Mon, 05 Oct 2026 19:54:45 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -12308,7 +12308,7 @@ App::manwrap::pm                  0.006  P/PE/PERLANCAR/App-manwrap-pm-0.006.tar
 App::Map::Metro                  0.0200  C/CS/CSSON/App-Map-Metro-0.0200.tar.gz
 App::MARC::Count                   0.05  S/SK/SKIM/App-MARC-Count-0.05.tar.gz
 App::MARC::Field008                0.01  S/SK/SKIM/App-MARC-Field008-0.01.tar.gz
-App::MARC::Filter                  0.12  S/SK/SKIM/App-MARC-Filter-0.12.tar.gz
+App::MARC::Filter                  0.13  S/SK/SKIM/App-MARC-Filter-0.13.tar.gz
 App::MARC::Leader                  0.11  S/SK/SKIM/App-MARC-Leader-0.11.tar.gz
 App::MARC::List                    0.09  S/SK/SKIM/App-MARC-List-0.09.tar.gz
 App::MARC::Record::Stats           0.02  S/SK/SKIM/App-MARC-Record-Stats-0.02.tar.gz
@@ -117493,7 +117493,7 @@ Legacy::Graphics::Browser::Synteny 0.01  L/LD/LDS/GBrowse-2.56.tar.gz
 Legacy::Graphics::Browser::Util       0  L/LD/LDS/GBrowse-2.55.tar.gz
 Legacy::Graphics::BrowserConfig       0  L/LD/LDS/GBrowse-2.55.tar.gz
 LegalPerson                       undef  S/SA/SAMV/Tangram-2.12.tar.gz
-Legba                              0.08  L/LN/LNATION/Legba-0.08.tar.gz
+Legba                              0.09  L/LN/LNATION/Legba-0.09.tar.gz
 LEGO::Color                         0.4  A/AV/AVIF/LEGO-Colors-0.4.tar.gz
 LEGO::Colors                        0.4  A/AV/AVIF/LEGO-Colors-0.4.tar.gz
 Lego::From::PNG                    0.04  G/GA/GAUDEON/Lego-From-PNG-0.04.tar.gz
@@ -152512,9 +152512,9 @@ Object::Previous                 1.1012  J/JE/JETTERO/Object-Previous-1.1012.tar
 Object::Properties                1.003  A/AR/ARISTOTLE/Object-Properties-1.003.tar.gz
 Object::Properties::Base          1.003  A/AR/ARISTOTLE/Object-Properties-1.003.tar.gz
 Object::props                       2.4  S/SK/SKNPP/OOTools-2.41.tar.gz
-Object::Proto                      0.23  L/LN/LNATION/Object-Proto-0.23.tar.gz
+Object::Proto                      1.00  L/LN/LNATION/Object-Proto-1.00.tar.gz
 Object::Proto::Install::Files     undef  L/LN/LNATION/Object-Proto-0.19.tar.gz
-Object::Proto::Sugar               0.06  L/LN/LNATION/Object-Proto-Sugar-0.06.tar.gz
+Object::Proto::Sugar               1.00  L/LN/LNATION/Object-Proto-Sugar-1.00.tar.gz
 Object::Prototype                  0.02  D/DA/DANKOGAI/Object-Prototype-0.02.tar.gz
 Object::Quick                     undef  E/EX/EXODIST/Mock-Quick-1.111.tar.gz
 Object::RateLimiter            1.004001  A/AV/AVENJ/Object-RateLimiter-1.004001.tar.gz
@@ -192944,15 +192944,15 @@ Physics::Ballistics                1.03  T/TT/TTKCIAR/Physics-Ballistics-1.03.ta
 Physics::Ballistics::External      1.03  T/TT/TTKCIAR/Physics-Ballistics-1.03.tar.gz
 Physics::Ballistics::Internal      1.03  T/TT/TTKCIAR/Physics-Ballistics-1.03.tar.gz
 Physics::Ballistics::Terminal      1.03  T/TT/TTKCIAR/Physics-Ballistics-1.03.tar.gz
-Physics::Balls                     0.07  L/LN/LNATION/Physics-Balls-0.07.tar.gz
-Physics::Balls::Ball               0.07  L/LN/LNATION/Physics-Balls-0.07.tar.gz
-Physics::Balls::Engine             0.07  L/LN/LNATION/Physics-Balls-0.07.tar.gz
-Physics::Balls::Error              0.07  L/LN/LNATION/Physics-Balls-0.07.tar.gz
-Physics::Balls::Outcome            0.07  L/LN/LNATION/Physics-Balls-0.07.tar.gz
-Physics::Balls::Strike             0.07  L/LN/LNATION/Physics-Balls-0.07.tar.gz
-Physics::Balls::Table              0.07  L/LN/LNATION/Physics-Balls-0.07.tar.gz
-Physics::Balls::Tick               0.07  L/LN/LNATION/Physics-Balls-0.07.tar.gz
-Physics::Balls::World              0.07  L/LN/LNATION/Physics-Balls-0.07.tar.gz
+Physics::Balls                     0.08  L/LN/LNATION/Physics-Balls-0.08.tar.gz
+Physics::Balls::Ball               0.08  L/LN/LNATION/Physics-Balls-0.08.tar.gz
+Physics::Balls::Engine             0.08  L/LN/LNATION/Physics-Balls-0.08.tar.gz
+Physics::Balls::Error              0.08  L/LN/LNATION/Physics-Balls-0.08.tar.gz
+Physics::Balls::Outcome            0.08  L/LN/LNATION/Physics-Balls-0.08.tar.gz
+Physics::Balls::Strike             0.08  L/LN/LNATION/Physics-Balls-0.08.tar.gz
+Physics::Balls::Table              0.08  L/LN/LNATION/Physics-Balls-0.08.tar.gz
+Physics::Balls::Tick               0.08  L/LN/LNATION/Physics-Balls-0.08.tar.gz
+Physics::Balls::World              0.08  L/LN/LNATION/Physics-Balls-0.08.tar.gz
 Physics::CPD                       0.03  J/JO/JOVAN/Physics-CPD-0.03.tar.gz
 Physics::CPD::Stellarator          0.03  J/JO/JOVAN/Physics-CPD-0.03.tar.gz
 Physics::CVD                       0.03  J/JO/JOVAN/Physics-CVD-0.03.tar.gz
