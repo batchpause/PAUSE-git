@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261422
-Last-Updated: Mon, 05 Oct 2026 22:17:02 GMT
+Last-Updated: Mon, 05 Oct 2026 22:54:46 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -45969,15 +45969,15 @@ CLI::Popt                          0.01  F/FE/FELIPE/CLI-Popt-0.01.tar.gz
 CLI::Popt::X                      undef  F/FE/FELIPE/CLI-Popt-0.01.tar.gz
 CLI::Popt::X::BadOption           undef  F/FE/FELIPE/CLI-Popt-0.01.tar.gz
 CLI::Popt::X::Base                undef  F/FE/FELIPE/CLI-Popt-0.01.tar.gz
-CLI::Simple                      v2.2.4  B/BI/BIGFOOT/CLI-Simple-2.2.4.tar.gz
-CLI::Simple::Constants           v2.2.4  B/BI/BIGFOOT/CLI-Simple-2.2.4.tar.gz
-CLI::Simple::DumpSpec                 0  B/BI/BIGFOOT/CLI-Simple-2.2.4.tar.gz
-CLI::Simple::Helpers                  0  B/BI/BIGFOOT/CLI-Simple-2.2.4.tar.gz
-CLI::Simple::Migrate                  0  B/BI/BIGFOOT/CLI-Simple-2.2.4.tar.gz
-CLI::Simple::Modulino                 0  B/BI/BIGFOOT/CLI-Simple-2.2.4.tar.gz
-CLI::Simple::Scaffold                 0  B/BI/BIGFOOT/CLI-Simple-2.2.4.tar.gz
-CLI::Simple::Shell                    0  B/BI/BIGFOOT/CLI-Simple-2.2.4.tar.gz
-CLI::Simple::Utils               v2.2.4  B/BI/BIGFOOT/CLI-Simple-2.2.4.tar.gz
+CLI::Simple                      v2.2.5  B/BI/BIGFOOT/CLI-Simple-2.2.5.tar.gz
+CLI::Simple::Constants           v2.2.5  B/BI/BIGFOOT/CLI-Simple-2.2.5.tar.gz
+CLI::Simple::DumpSpec                 0  B/BI/BIGFOOT/CLI-Simple-2.2.5.tar.gz
+CLI::Simple::Helpers                  0  B/BI/BIGFOOT/CLI-Simple-2.2.5.tar.gz
+CLI::Simple::Migrate                  0  B/BI/BIGFOOT/CLI-Simple-2.2.5.tar.gz
+CLI::Simple::Modulino                 0  B/BI/BIGFOOT/CLI-Simple-2.2.5.tar.gz
+CLI::Simple::Scaffold                 0  B/BI/BIGFOOT/CLI-Simple-2.2.5.tar.gz
+CLI::Simple::Shell                    0  B/BI/BIGFOOT/CLI-Simple-2.2.5.tar.gz
+CLI::Simple::Utils               v2.2.5  B/BI/BIGFOOT/CLI-Simple-2.2.5.tar.gz
 CLI::Startup                       0.29  B/BU/BUDNEY/CLI-Startup-0.29.tar.gz
 CLI::Table::Key::Finder            0.31  T/TU/TULAMILI/CLI-Table-Key-Finder-0.31.tar.gz
 CLI::Table::Util                   0.06  T/TU/TULAMILI/CLI-Table-Util-0.06.tar.gz
