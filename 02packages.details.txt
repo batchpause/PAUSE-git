@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261422
-Last-Updated: Mon, 05 Oct 2026 23:54:45 GMT
+Last-Updated: Tue, 06 Oct 2026 00:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -22636,14 +22636,14 @@ Barcode::DataMatrix::Reed         undef  M/MS/MSTRAT/Barcode-DataMatrix-0.10.tar
 Barcode::ZBar                      0.10  T/TI/TIMLEGGE/Barcode-ZBar-0.10.tar.gz
 Barcode::ZBar::Error               0.10  T/TI/TIMLEGGE/Barcode-ZBar-0.10.tar.gz
 bare                               0.02  B/BR/BRIANSKI/bare-0.02.tar.gz
-BarefootJS                      v0.39.2  K/KF/KFLY/BarefootJS-0.39.2.tar.gz
+BarefootJS                      v0.39.3  K/KF/KFLY/BarefootJS-0.39.3.tar.gz
 BarefootJS::_TZProbe           0.029000  K/KF/KFLY/BarefootJS-0.29.0.tar.gz
-BarefootJS::Backend::Mojo       v0.39.2  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.2.tar.gz
-BarefootJS::Backend::Xslate     v0.39.2  K/KF/KFLY/BarefootJS-Backend-Xslate-0.39.2.tar.gz
-BarefootJS::Date                v0.39.2  K/KF/KFLY/BarefootJS-0.39.2.tar.gz
-BarefootJS::DevReload           v0.39.2  K/KF/KFLY/BarefootJS-0.39.2.tar.gz
-BarefootJS::Evaluator           v0.39.2  K/KF/KFLY/BarefootJS-0.39.2.tar.gz
-BarefootJS::SearchParams        v0.39.2  K/KF/KFLY/BarefootJS-0.39.2.tar.gz
+BarefootJS::Backend::Mojo       v0.39.3  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.3.tar.gz
+BarefootJS::Backend::Xslate     v0.39.3  K/KF/KFLY/BarefootJS-Backend-Xslate-0.39.3.tar.gz
+BarefootJS::Date                v0.39.3  K/KF/KFLY/BarefootJS-0.39.3.tar.gz
+BarefootJS::DevReload           v0.39.3  K/KF/KFLY/BarefootJS-0.39.3.tar.gz
+BarefootJS::Evaluator           v0.39.3  K/KF/KFLY/BarefootJS-0.39.3.tar.gz
+BarefootJS::SearchParams        v0.39.3  K/KF/KFLY/BarefootJS-0.39.3.tar.gz
 bareword::filehandles             0.007  I/IL/ILMARI/bareword-filehandles-0.007.tar.gz
 barewords                          0.01  S/SA/SALVA/barewords-0.01.tar.gz
 Barracuda::Api                     0.03  M/MQ/MQL/Barracuda-Api-0.03.tar.gz
@@ -135715,8 +135715,8 @@ Mojolicious::Plugin::AutoRoutePm   0.23  E/EB/EBRUNI/Mojolicious-Plugin-AutoRout
 Mojolicious::Plugin::AutoSecrets  0.006  M/MH/MHOWARD/Mojolicious-Plugin-AutoSecrets-0.006.tar.gz
 Mojolicious::Plugin::AWS           0.21  S/SC/SCOTTW/Mojolicious-Plugin-AWS-0.21.tar.gz
 Mojolicious::Plugin::Badge         1.12  G/GD/GDT/Mojolicious-Plugin-Badge-1.12.tar.gz
-Mojolicious::Plugin::BarefootJS v0.39.2  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.2.tar.gz
-Mojolicious::Plugin::BarefootJS::DevReload v0.39.2  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.2.tar.gz
+Mojolicious::Plugin::BarefootJS v0.39.3  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.3.tar.gz
+Mojolicious::Plugin::BarefootJS::DevReload v0.39.3  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.3.tar.gz
 Mojolicious::Plugin::BasicAuth     0.08  T/TE/TEMPIRE/Mojolicious-Plugin-BasicAuth-0.08.tar.gz
 Mojolicious::Plugin::BasicAuthPlus  1.0  B/BL/BLR/Mojolicious-Plugin-BasicAuthPlus-1.0.tar.gz
 Mojolicious::Plugin::Bcrypt        0.14  M/MI/MINIMAL/Mojolicious-Plugin-Bcrypt-0.14.tar.gz
@@ -220764,7 +220764,7 @@ Stats::Fermi::FermiDiracStats     undef  K/KO/KOBOLDWIZ/Perl5/Stats-Fermi-0.1.7.
 Stats::Hawking                 0.001003  K/KO/KOBOLDWIZ/Perl5/Stats-Hawking-0.1.3.tar.gz
 Stats::Hawking::HawkingTemperature undef  K/KO/KOBOLDWIZ/Perl5/Stats-Hawking-0.1.3.tar.gz
 Stats::Hawking::HTRandom          undef  K/KO/KOBOLDWIZ/Perl5/Stats-Hawking-0.1.3.tar.gz
-Stats::LikeR                     0.3213  D/DC/DCON/Stats-LikeR-0.3213.tar.gz
+Stats::LikeR                     0.3214  D/DC/DCON/Stats-LikeR-0.3214.tar.gz
 Stats::LikeR::col                  0.28  D/DC/DCON/Stats-LikeR-0.28.tar.gz
 Stats::LikeR::Pred                 0.16  D/DC/DCON/Stats-LikeR-0.16.tar.gz
 StatsView::Graph                   1.15  A/AB/ABURLISON/StatsView-1.4.tar.gz
@@ -221571,7 +221571,7 @@ string::hashref                   0.100  W/WB/WBRASWELL/Perl-Types-0.100.tar.gz
 string::hashref::arrayref         0.100  W/WB/WBRASWELL/Perl-Types-0.100.tar.gz
 String::HexConvert                 0.02  A/AH/AHERNIT/String-HexConvert-0.02.tar.gz
 String::Ident                      0.05  J/JK/JKUTEJ/String-Ident-0.05.tar.gz
-String::Increment::Parts          0.002  P/PE/PERLANCAR/String-Increment-Parts-0.002.tar.gz
+String::Increment::Parts          0.003  P/PE/PERLANCAR/String-Increment-Parts-0.003.tar.gz
 String::Incremental                0.01  I/IS/ISSM/String-Incremental-0.01.tar.gz
 String::Incremental::Char         undef  I/IS/ISSM/String-Incremental-0.01.tar.gz
 String::Incremental::FormatParser undef  I/IS/ISSM/String-Incremental-0.01.tar.gz
