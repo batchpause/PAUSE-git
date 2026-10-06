@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261423
-Last-Updated: Tue, 06 Oct 2026 13:55:00 GMT
+Line-Count:   261424
+Last-Updated: Tue, 06 Oct 2026 14:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -191272,6 +191272,7 @@ Perl::Critic::Policy::ValuesAndExpressions::ProhibitImplicitNewlines 1.156  P/PE
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitInterpolationOfLiterals 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitLeadingZeros 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitListsInMultiConstants undef  S/SN/SNEZ/Perl-Critic-PolicyBundle-SNEZ-0.03.tar.gz
+Perl::Critic::Policy::ValuesAndExpressions::ProhibitLiteralArithmetic 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-ValuesAndExpressions-ProhibitLiteralArithmetic-0.001.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitLongChainsOfMethodCalls 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitMagicNumbers 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitMismatchedOperators 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
