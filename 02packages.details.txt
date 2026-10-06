@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261422
-Last-Updated: Tue, 06 Oct 2026 08:41:01 GMT
+Last-Updated: Tue, 06 Oct 2026 09:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -107975,20 +107975,20 @@ IO::EPP::Test::CNic               undef  V/VA/VADIML/IO-EPP-0.004.tar.gz
 IO::EPP::Test::Server             undef  V/VA/VADIML/IO-EPP-0.004.tar.gz
 IO::EPP::Test::VerisignCore       undef  V/VA/VADIML/IO-EPP-0.004.tar.gz
 IO::EPP::Verisign                 undef  V/VA/VADIML/IO-EPP-0.004.tar.gz
-IO::Event                         0.813  M/MU/MUIR/modules/IO-Event-0.813.tar.gz
-IO::Event::AnyEvent               undef  M/MU/MUIR/modules/IO-Event-0.813.tar.gz
+IO::Event                         0.814  P/PL/PLICEASE/IO-Event-0.814.tar.gz
+IO::Event::AnyEvent               0.814  P/PL/PLICEASE/IO-Event-0.814.tar.gz
 IO::Event::AnyEvent::Wrapper      undef  M/MU/MUIR/modules/IO-Event-0.813.tar.gz
-IO::Event::Callback               undef  M/MU/MUIR/modules/IO-Event-0.813.tar.gz
+IO::Event::Callback               0.814  P/PL/PLICEASE/IO-Event-0.814.tar.gz
 IO::Event::Common                 0.813  M/MU/MUIR/modules/IO-Event-0.813.tar.gz
-IO::Event::Emulate                undef  M/MU/MUIR/modules/IO-Event-0.813.tar.gz
+IO::Event::Emulate                0.814  P/PL/PLICEASE/IO-Event-0.814.tar.gz
 IO::Event::Emulate::Idle          undef  M/MU/MUIR/modules/IO-Event-0.813.tar.gz
 IO::Event::Emulate::Timer         undef  M/MU/MUIR/modules/IO-Event-0.813.tar.gz
-IO::Event::Event                  undef  M/MU/MUIR/modules/IO-Event-0.813.tar.gz
-IO::Event::INET::Callback         undef  M/MU/MUIR/modules/IO-Event-0.813.tar.gz
+IO::Event::Event                  0.814  P/PL/PLICEASE/IO-Event-0.814.tar.gz
+IO::Event::INET::Callback         0.814  P/PL/PLICEASE/IO-Event-0.814.tar.gz
 IO::Event::Socket::INET           0.813  M/MU/MUIR/modules/IO-Event-0.813.tar.gz
-IO::Event::Socket::UNIX           0.813  M/MU/MUIR/modules/IO-Event-0.813.tar.gz
+IO::Event::Socket::UNIX           0.814  P/PL/PLICEASE/IO-Event-0.814.tar.gz
 IO::Event::Timer                  0.704  M/MU/MUIR/modules/IO-Event-0.704.tar.gz
-IO::Event::UNIX::Callback         undef  M/MU/MUIR/modules/IO-Event-0.813.tar.gz
+IO::Event::UNIX::Callback         0.814  P/PL/PLICEASE/IO-Event-0.814.tar.gz
 IO::EventMux                       2.02  T/TL/TLBDK/IO-EventMux-2.02.tar.gz
 IO::EventMux::Socket::MsgHdr       0.02  T/TL/TLBDK/IO-EventMux-Socket-MsgHdr-0.02.tar.gz
 IO::Events                          0.6  K/KA/KARASIK/IO-Events-0.6.tar.gz
