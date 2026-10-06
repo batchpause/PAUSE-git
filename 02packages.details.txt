@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261422
-Last-Updated: Tue, 06 Oct 2026 01:29:02 GMT
+Last-Updated: Tue, 06 Oct 2026 01:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -47137,7 +47137,7 @@ Conf::Libconfig::ParseSource      undef  C/CN/CNANGEL/Conf-Libconfig-1.1.2.tar.g
 Conf::Libconfig::WrapXS           undef  C/CN/CNANGEL/Conf-Libconfig-1.1.2.tar.gz
 Config::Abstract                   0.16  A/AV/AVAJADI/Config-Abstract-0.16.tar.gz
 Config::Abstract::Ini              0.16  A/AV/AVAJADI/Config-Abstract-0.16.tar.gz
-Config::Abstraction                0.40  N/NH/NHORNE/Config-Abstraction-0.40.tar.gz
+Config::Abstraction                0.41  N/NH/NHORNE/Config-Abstraction-0.41.tar.gz
 Config::Access::Driver              1.0  B/BO/BODOLFO/Config-Access-Driver-1.0.0.tar.gz
 Config::Ant                        0.01  S/SN/SNKWATT/Config-Ant-0.01.tar.gz
 Config::Any                        0.33  H/HA/HAARG/Config-Any-0.33.tar.gz
