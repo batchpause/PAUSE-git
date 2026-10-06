@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261422
-Last-Updated: Tue, 06 Oct 2026 09:29:02 GMT
+Line-Count:   261423
+Last-Updated: Tue, 06 Oct 2026 13:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -144574,19 +144574,20 @@ Net::DNS::RR::TXT                  2003  N/NL/NLNETLABS/Net-DNS-1.57.tar.gz
 Net::DNS::RR::URI                  2003  N/NL/NLNETLABS/Net-DNS-1.57.tar.gz
 Net::DNS::RR::X25                  2002  N/NL/NLNETLABS/Net-DNS-1.57.tar.gz
 Net::DNS::RR::ZONEMD               2003  N/NL/NLNETLABS/Net-DNS-1.57.tar.gz
-Net::DNS::SEC                      1.27  N/NL/NLNETLABS/Net-DNS-SEC-1.27.tar.gz
-Net::DNS::SEC::Digest              2002  N/NL/NLNETLABS/Net-DNS-SEC-1.27.tar.gz
-Net::DNS::SEC::Digest::MD5         2002  N/NL/NLNETLABS/Net-DNS-SEC-1.27.tar.gz
-Net::DNS::SEC::Digest::SHA         2002  N/NL/NLNETLABS/Net-DNS-SEC-1.27.tar.gz
-Net::DNS::SEC::Digest::SHA3        2002  N/NL/NLNETLABS/Net-DNS-SEC-1.27.tar.gz
-Net::DNS::SEC::Digest::SM3         2002  N/NL/NLNETLABS/Net-DNS-SEC-1.27.tar.gz
-Net::DNS::SEC::DSA                 2042  N/NL/NLNETLABS/Net-DNS-SEC-1.27.tar.gz
+Net::DNS::SEC                      1.28  N/NL/NLNETLABS/Net-DNS-SEC-1.28.tar.gz
+Net::DNS::SEC::Digest              2002  N/NL/NLNETLABS/Net-DNS-SEC-1.28.tar.gz
+Net::DNS::SEC::Digest::MD5         2002  N/NL/NLNETLABS/Net-DNS-SEC-1.28.tar.gz
+Net::DNS::SEC::Digest::SHA         2002  N/NL/NLNETLABS/Net-DNS-SEC-1.28.tar.gz
+Net::DNS::SEC::Digest::SHA3        2002  N/NL/NLNETLABS/Net-DNS-SEC-1.28.tar.gz
+Net::DNS::SEC::Digest::SM3         2002  N/NL/NLNETLABS/Net-DNS-SEC-1.28.tar.gz
+Net::DNS::SEC::DSA                 2042  N/NL/NLNETLABS/Net-DNS-SEC-1.28.tar.gz
 Net::DNS::SEC::ECCGOST             1853  N/NL/NLNETLABS/Net-DNS-SEC-1.19.tar.gz
-Net::DNS::SEC::ECDSA               2002  N/NL/NLNETLABS/Net-DNS-SEC-1.27.tar.gz
-Net::DNS::SEC::EdDSA               2002  N/NL/NLNETLABS/Net-DNS-SEC-1.27.tar.gz
-Net::DNS::SEC::Keyset              2002  N/NL/NLNETLABS/Net-DNS-SEC-1.27.tar.gz
-Net::DNS::SEC::Private             2003  N/NL/NLNETLABS/Net-DNS-SEC-1.27.tar.gz
-Net::DNS::SEC::RSA                 2042  N/NL/NLNETLABS/Net-DNS-SEC-1.27.tar.gz
+Net::DNS::SEC::ECDSA               2002  N/NL/NLNETLABS/Net-DNS-SEC-1.28.tar.gz
+Net::DNS::SEC::EdDSA               2002  N/NL/NLNETLABS/Net-DNS-SEC-1.28.tar.gz
+Net::DNS::SEC::Keyset              2002  N/NL/NLNETLABS/Net-DNS-SEC-1.28.tar.gz
+Net::DNS::SEC::MLDSA               2063  N/NL/NLNETLABS/Net-DNS-SEC-1.28.tar.gz
+Net::DNS::SEC::Private             2063  N/NL/NLNETLABS/Net-DNS-SEC-1.28.tar.gz
+Net::DNS::SEC::RSA                 2042  N/NL/NLNETLABS/Net-DNS-SEC-1.28.tar.gz
 Net::DNS::SEC::Validator           1.31  G/GS/GSM/Net-DNS-SEC-Validator-1.31.tar.gz
 Net::DNS::SPF::Expander           0.021  A/AM/AMIRI/Net-DNS-SPF-Expander-0.021.tar.gz
 Net::DNS::Text                     2043  N/NL/NLNETLABS/Net-DNS-1.57.tar.gz
@@ -229270,7 +229271,7 @@ Test::Perl::Tags                   0.32  O/OS/OSFAMERON/Perl-Tags-0.32.tar.gz
 Test::PerlTidy                 20260110  S/SH/SHLOMIF/Test-PerlTidy-20260110.tar.gz
 Test::PerlTidy::Concurrent        undef  W/WT/WTERTIUS/Test-PerlTidy-Concurrent-0.1.1.tar.gz
 Test::PerlTidy::XTFiles           0.001  S/SK/SKIRMESS/Test-PerlTidy-XTFiles-0.001.tar.gz
-Test::Permissions              0.001001  N/NH/NHORNE/Test-Permissions-0.001.1.tar.gz
+Test::Permissions              0.001002  N/NH/NHORNE/Test-Permissions-0.001.2.tar.gz
 Test::Ping                        0.210  X/XS/XSAWYERX/Test-Ping-0.210.tar.gz
 Test::Ping::Ties::BIND            0.210  X/XS/XSAWYERX/Test-Ping-0.210.tar.gz
 Test::Ping::Ties::HIRES           0.210  X/XS/XSAWYERX/Test-Ping-0.210.tar.gz
