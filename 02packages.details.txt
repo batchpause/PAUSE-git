@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261427
-Last-Updated: Tue, 06 Oct 2026 18:54:57 GMT
+Last-Updated: Tue, 06 Oct 2026 20:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81405,17 +81405,17 @@ Game::CharacterSheetGenerator::DwarfNames undef  S/SC/SCHROEDER/Game-CharacterSh
 Game::CharacterSheetGenerator::ElfNames undef  S/SC/SCHROEDER/Game-CharacterSheetGenerator-1.03.tar.gz
 Game::CharacterSheetGenerator::HalflingNames undef  S/SC/SCHROEDER/Game-CharacterSheetGenerator-1.03.tar.gz
 Game::CharacterSheetGenerator::HumanNames undef  S/SC/SCHROEDER/Game-CharacterSheetGenerator-1.03.tar.gz
-Game::Checkers                     0.01  L/LN/LNATION/Game-Checkers-0.01.tar.gz
-Game::Checkers::Board              0.01  L/LN/LNATION/Game-Checkers-0.01.tar.gz
-Game::Checkers::Bot                0.01  L/LN/LNATION/Game-Checkers-0.01.tar.gz
-Game::Checkers::Error              0.01  L/LN/LNATION/Game-Checkers-0.01.tar.gz
-Game::Checkers::Move               0.01  L/LN/LNATION/Game-Checkers-0.01.tar.gz
-Game::Checkers::Notation           0.01  L/LN/LNATION/Game-Checkers-0.01.tar.gz
-Game::Checkers::Piece              0.01  L/LN/LNATION/Game-Checkers-0.01.tar.gz
-Game::Checkers::Result             0.01  L/LN/LNATION/Game-Checkers-0.01.tar.gz
-Game::Checkers::Rules              0.01  L/LN/LNATION/Game-Checkers-0.01.tar.gz
-Game::Checkers::Squares            0.01  L/LN/LNATION/Game-Checkers-0.01.tar.gz
-Game::Checkers::Terminal           0.01  L/LN/LNATION/Game-Checkers-0.01.tar.gz
+Game::Checkers                     0.02  L/LN/LNATION/Game-Checkers-0.02.tar.gz
+Game::Checkers::Board              0.02  L/LN/LNATION/Game-Checkers-0.02.tar.gz
+Game::Checkers::Bot                0.02  L/LN/LNATION/Game-Checkers-0.02.tar.gz
+Game::Checkers::Error              0.02  L/LN/LNATION/Game-Checkers-0.02.tar.gz
+Game::Checkers::Move               0.02  L/LN/LNATION/Game-Checkers-0.02.tar.gz
+Game::Checkers::Notation           0.02  L/LN/LNATION/Game-Checkers-0.02.tar.gz
+Game::Checkers::Piece              0.02  L/LN/LNATION/Game-Checkers-0.02.tar.gz
+Game::Checkers::Result             0.02  L/LN/LNATION/Game-Checkers-0.02.tar.gz
+Game::Checkers::Rules              0.02  L/LN/LNATION/Game-Checkers-0.02.tar.gz
+Game::Checkers::Squares            0.02  L/LN/LNATION/Game-Checkers-0.02.tar.gz
+Game::Checkers::Terminal           0.02  L/LN/LNATION/Game-Checkers-0.02.tar.gz
 Game::Collisions                    0.5  T/TM/TMURRAY/Game-Collisions-0.5.tar.gz
 Game::Collisions::AABB              0.5  T/TM/TMURRAY/Game-Collisions-0.5.tar.gz
 Game::Collisions::UserData          0.5  T/TM/TMURRAY/Game-Collisions-0.5.tar.gz
