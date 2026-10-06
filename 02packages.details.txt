@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261423
-Last-Updated: Tue, 06 Oct 2026 13:41:02 GMT
+Last-Updated: Tue, 06 Oct 2026 13:55:00 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -54797,32 +54797,32 @@ Data::Hash::Patch::Smart::Engine  undef  N/NH/NHORNE/Data-Hash-Patch-Smart-0.01.
 Data::Hash::Totals                 0.10  P/PE/PETDANCE/Data-Hash-Totals-0.10.tar.gz
 Data::Hash::Transform              0.05  N/NE/NEILB/Module-Which-0.05.tar.gz
 Data::HashArray                    1.03  A/AU/AULUSOY/Data-HashArray-1.03.tar.gz
-Data::HashMap                      0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::I16                 0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::I16A                0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::I16S                0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::I32                 0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::I32A                0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::I32S                0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::IA                  0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::II                  0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::IS                  0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::SA                  0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::Shared              0.21  E/EG/EGOR/Data-HashMap-Shared-0.21.tar.gz
-Data::HashMap::Shared::I16         0.21  E/EG/EGOR/Data-HashMap-Shared-0.21.tar.gz
-Data::HashMap::Shared::I16S        0.21  E/EG/EGOR/Data-HashMap-Shared-0.21.tar.gz
-Data::HashMap::Shared::I32         0.21  E/EG/EGOR/Data-HashMap-Shared-0.21.tar.gz
-Data::HashMap::Shared::I32S        0.21  E/EG/EGOR/Data-HashMap-Shared-0.21.tar.gz
-Data::HashMap::Shared::II          0.21  E/EG/EGOR/Data-HashMap-Shared-0.21.tar.gz
-Data::HashMap::Shared::IS          0.21  E/EG/EGOR/Data-HashMap-Shared-0.21.tar.gz
-Data::HashMap::Shared::SI          0.21  E/EG/EGOR/Data-HashMap-Shared-0.21.tar.gz
-Data::HashMap::Shared::SI16        0.21  E/EG/EGOR/Data-HashMap-Shared-0.21.tar.gz
-Data::HashMap::Shared::SI32        0.21  E/EG/EGOR/Data-HashMap-Shared-0.21.tar.gz
-Data::HashMap::Shared::SS          0.21  E/EG/EGOR/Data-HashMap-Shared-0.21.tar.gz
-Data::HashMap::SI                  0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::SI16                0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::SI32                0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
-Data::HashMap::SS                  0.09  E/EG/EGOR/Data-HashMap-0.09.tar.gz
+Data::HashMap                      0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::I16                 0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::I16A                0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::I16S                0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::I32                 0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::I32A                0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::I32S                0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::IA                  0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::II                  0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::IS                  0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::SA                  0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::Shared              0.22  E/EG/EGOR/Data-HashMap-Shared-0.22.tar.gz
+Data::HashMap::Shared::I16         0.22  E/EG/EGOR/Data-HashMap-Shared-0.22.tar.gz
+Data::HashMap::Shared::I16S        0.22  E/EG/EGOR/Data-HashMap-Shared-0.22.tar.gz
+Data::HashMap::Shared::I32         0.22  E/EG/EGOR/Data-HashMap-Shared-0.22.tar.gz
+Data::HashMap::Shared::I32S        0.22  E/EG/EGOR/Data-HashMap-Shared-0.22.tar.gz
+Data::HashMap::Shared::II          0.22  E/EG/EGOR/Data-HashMap-Shared-0.22.tar.gz
+Data::HashMap::Shared::IS          0.22  E/EG/EGOR/Data-HashMap-Shared-0.22.tar.gz
+Data::HashMap::Shared::SI          0.22  E/EG/EGOR/Data-HashMap-Shared-0.22.tar.gz
+Data::HashMap::Shared::SI16        0.22  E/EG/EGOR/Data-HashMap-Shared-0.22.tar.gz
+Data::HashMap::Shared::SI32        0.22  E/EG/EGOR/Data-HashMap-Shared-0.22.tar.gz
+Data::HashMap::Shared::SS          0.22  E/EG/EGOR/Data-HashMap-Shared-0.22.tar.gz
+Data::HashMap::SI                  0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::SI16                0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::SI32                0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
+Data::HashMap::SS                  0.10  E/EG/EGOR/Data-HashMap-0.10.tar.gz
 Data::HashType                     0.07  S/SK/SKIM/Data-HashType-0.07.tar.gz
 Data::Header::Fields               0.05  J/JK/JKUTEJ/Data-Header-Fields-0.05.tar.gz
 Data::Heap::Shared                 0.10  E/EG/EGOR/Data-Heap-Shared-0.10.tar.gz
