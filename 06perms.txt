@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668549
+Line-Count:  668569
 Written-By:  PAUSE version 1.005
-Date:        Wed, 07 Oct 2026 11:55:45 GMT
+Date:        Wed, 07 Oct 2026 12:30:13 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -577878,12 +577878,32 @@ Sekhmet,LNATION,f
 SelFile,PVHP,f
 SelectPdf,SELECTPDF,f
 SelectPdf::ApiClient,SELECTPDF,f
+SelectPdf::ApiEnums,SELECTPDF,f
 SelectPdf::AsyncJobClient,SELECTPDF,f
+SelectPdf::DemoException,SELECTPDF,f
+SelectPdf::DemoRateLimitException,SELECTPDF,f
+SelectPdf::DemoSafetyException,SELECTPDF,f
+SelectPdf::DemoUnsupportedException,SELECTPDF,f
 SelectPdf::HtmlToPdfClient,SELECTPDF,f
+SelectPdf::InvoiceClient,SELECTPDF,f
+SelectPdf::OutputFormat,SELECTPDF,f
+SelectPdf::PageLayout,SELECTPDF,f
+SelectPdf::PageMode,SELECTPDF,f
+SelectPdf::PageNumbersAlignment,SELECTPDF,f
+SelectPdf::PageOrientation,SELECTPDF,f
+SelectPdf::PageSize,SELECTPDF,f
 SelectPdf::PdfMergeClient,SELECTPDF,f
+SelectPdf::PdfStandard,SELECTPDF,f
 SelectPdf::PdfToTextClient,SELECTPDF,f
+SelectPdf::RenderingEngine,SELECTPDF,f
+SelectPdf::SecureProtocol,SELECTPDF,f
+SelectPdf::StartupMode,SELECTPDF,f
+SelectPdf::TextLayout,SELECTPDF,f
 SelectPdf::UsageClient,SELECTPDF,f
 SelectPdf::WebElementsClient,SELECTPDF,f
+SelectPdf::ZugferdProfile,SELECTPDF,f
+SelectPdf::ZugferdRelationship,SELECTPDF,f
+SelectPdf::ZugferdSchema,SELECTPDF,f
 SelectSaver,BMORROW,c
 SelectSaver,BOOK,c
 SelectSaver,CHIPS,c
