@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261427
-Last-Updated: Wed, 07 Oct 2026 01:17:01 GMT
+Last-Updated: Wed, 07 Oct 2026 05:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -218924,22 +218924,22 @@ SPVM::Immutable::ShortList        undef  K/KI/KIMOTO/SPVM-0.990199.tar.gz
 SPVM::Immutable::StringList       undef  K/KI/KIMOTO/SPVM-0.990199.tar.gz
 SPVM::Int                         undef  K/KI/KIMOTO/SPVM-0.990199.tar.gz
 SPVM::IntList                     undef  K/KI/KIMOTO/SPVM-0.990199.tar.gz
-SPVM::IO                          0.251  K/KI/KIMOTO/SPVM-IO-0.251.tar.gz
-SPVM::IO::Dir                     undef  K/KI/KIMOTO/SPVM-IO-0.251.tar.gz
-SPVM::IO::File                    undef  K/KI/KIMOTO/SPVM-IO-0.251.tar.gz
-SPVM::IO::Handle                  undef  K/KI/KIMOTO/SPVM-IO-0.251.tar.gz
+SPVM::IO                          0.252  K/KI/KIMOTO/SPVM-IO-0.252.tar.gz
+SPVM::IO::Dir                     undef  K/KI/KIMOTO/SPVM-IO-0.252.tar.gz
+SPVM::IO::File                    undef  K/KI/KIMOTO/SPVM-IO-0.252.tar.gz
+SPVM::IO::Handle                  undef  K/KI/KIMOTO/SPVM-IO-0.252.tar.gz
 SPVM::IO::Handle::Interface       undef  K/KI/KIMOTO/SPVM-IO-0.17.tar.gz
-SPVM::IO::Poll                    undef  K/KI/KIMOTO/SPVM-IO-0.251.tar.gz
-SPVM::IO::Select                  undef  K/KI/KIMOTO/SPVM-IO-0.251.tar.gz
-SPVM::IO::Socket                  undef  K/KI/KIMOTO/SPVM-IO-0.251.tar.gz
-SPVM::IO::Socket::INET            undef  K/KI/KIMOTO/SPVM-IO-0.251.tar.gz
-SPVM::IO::Socket::INET6           undef  K/KI/KIMOTO/SPVM-IO-0.251.tar.gz
+SPVM::IO::Poll                    undef  K/KI/KIMOTO/SPVM-IO-0.252.tar.gz
+SPVM::IO::Select                  undef  K/KI/KIMOTO/SPVM-IO-0.252.tar.gz
+SPVM::IO::Socket                  undef  K/KI/KIMOTO/SPVM-IO-0.252.tar.gz
+SPVM::IO::Socket::INET            undef  K/KI/KIMOTO/SPVM-IO-0.252.tar.gz
+SPVM::IO::Socket::INET6           undef  K/KI/KIMOTO/SPVM-IO-0.252.tar.gz
 SPVM::IO::Socket::Interface       undef  K/KI/KIMOTO/SPVM-IO-0.17.tar.gz
-SPVM::IO::Socket::IP              undef  K/KI/KIMOTO/SPVM-IO-0.251.tar.gz
-SPVM::IO::Socket::IP::Import::IPv4 undef  K/KI/KIMOTO/SPVM-IO-0.251.tar.gz
-SPVM::IO::Socket::IP::Import::IPv6 undef  K/KI/KIMOTO/SPVM-IO-0.251.tar.gz
+SPVM::IO::Socket::IP              undef  K/KI/KIMOTO/SPVM-IO-0.252.tar.gz
+SPVM::IO::Socket::IP::Import::IPv4 undef  K/KI/KIMOTO/SPVM-IO-0.252.tar.gz
+SPVM::IO::Socket::IP::Import::IPv6 undef  K/KI/KIMOTO/SPVM-IO-0.252.tar.gz
 SPVM::IO::Socket::SSL             0.019  K/KI/KIMOTO/SPVM-IO-Socket-SSL-0.019.tar.gz
-SPVM::IO::Socket::UNIX            undef  K/KI/KIMOTO/SPVM-IO-0.251.tar.gz
+SPVM::IO::Socket::UNIX            undef  K/KI/KIMOTO/SPVM-IO-0.252.tar.gz
 SPVM::IO::Util                    undef  K/KI/KIMOTO/SPVM-IO-0.17.tar.gz
 SPVM::JIT                         undef  K/KI/KIMOTO/SPVM-0.990199.tar.gz
 SPVM::JSON                        1.003  K/KI/KIMOTO/SPVM-JSON-1.003.tar.gz
