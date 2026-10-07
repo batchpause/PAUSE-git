@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261427
-Last-Updated: Tue, 06 Oct 2026 20:29:02 GMT
+Last-Updated: Wed, 07 Oct 2026 00:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -221576,7 +221576,7 @@ string::hashref                   0.100  W/WB/WBRASWELL/Perl-Types-0.100.tar.gz
 string::hashref::arrayref         0.100  W/WB/WBRASWELL/Perl-Types-0.100.tar.gz
 String::HexConvert                 0.02  A/AH/AHERNIT/String-HexConvert-0.02.tar.gz
 String::Ident                      0.05  J/JK/JKUTEJ/String-Ident-0.05.tar.gz
-String::Increment::Parts          0.003  P/PE/PERLANCAR/String-Increment-Parts-0.003.tar.gz
+String::Increment::Parts          0.004  P/PE/PERLANCAR/String-Increment-Parts-0.004.tar.gz
 String::Incremental                0.01  I/IS/ISSM/String-Incremental-0.01.tar.gz
 String::Incremental::Char         undef  I/IS/ISSM/String-Incremental-0.01.tar.gz
 String::Incremental::FormatParser undef  I/IS/ISSM/String-Incremental-0.01.tar.gz
