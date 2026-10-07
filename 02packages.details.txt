@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261427
-Last-Updated: Wed, 07 Oct 2026 07:41:02 GMT
+Last-Updated: Wed, 07 Oct 2026 08:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -98610,11 +98610,11 @@ Google::ProtocolBuffers::CodeGen  undef  S/SA/SAXJAZMAN/protobuf/Google-Protocol
 Google::ProtocolBuffers::Compiler undef  S/SA/SAXJAZMAN/protobuf/Google-ProtocolBuffers-0.12.tar.gz
 Google::ProtocolBuffers::Compiler::SymbolTable undef  S/SA/SAXJAZMAN/protobuf/Google-ProtocolBuffers-0.12.tar.gz
 Google::ProtocolBuffers::Constants undef  S/SA/SAXJAZMAN/protobuf/Google-ProtocolBuffers-0.12.tar.gz
-Google::ProtocolBuffers::Dynamic   0.43  M/MB/MBARBON/Google-ProtocolBuffers-Dynamic-0.43.tar.gz
-Google::ProtocolBuffers::Dynamic::AddPragma undef  M/MB/MBARBON/Google-ProtocolBuffers-Dynamic-0.43.tar.gz
-Google::ProtocolBuffers::Dynamic::MakeModule undef  M/MB/MBARBON/Google-ProtocolBuffers-Dynamic-0.43.tar.gz
-Google::ProtocolBuffers::Dynamic::ProtocInterface undef  M/MB/MBARBON/Google-ProtocolBuffers-Dynamic-0.43.tar.gz
-Google::ProtocolBuffers::Dynamic::ProtocPlugin undef  M/MB/MBARBON/Google-ProtocolBuffers-Dynamic-0.43.tar.gz
+Google::ProtocolBuffers::Dynamic   0.44  M/MB/MBARBON/Google-ProtocolBuffers-Dynamic-0.44.tar.gz
+Google::ProtocolBuffers::Dynamic::AddPragma undef  M/MB/MBARBON/Google-ProtocolBuffers-Dynamic-0.44.tar.gz
+Google::ProtocolBuffers::Dynamic::MakeModule undef  M/MB/MBARBON/Google-ProtocolBuffers-Dynamic-0.44.tar.gz
+Google::ProtocolBuffers::Dynamic::ProtocInterface undef  M/MB/MBARBON/Google-ProtocolBuffers-Dynamic-0.44.tar.gz
+Google::ProtocolBuffers::Dynamic::ProtocPlugin undef  M/MB/MBARBON/Google-ProtocolBuffers-Dynamic-0.44.tar.gz
 Google::ProtocolBuffers::Enum      0.12  S/SA/SAXJAZMAN/protobuf/Google-ProtocolBuffers-0.12.tar.gz
 Google::ProtocolBuffers::Group     0.12  S/SA/SAXJAZMAN/protobuf/Google-ProtocolBuffers-0.12.tar.gz
 Google::ProtocolBuffers::Message   0.12  S/SA/SAXJAZMAN/protobuf/Google-ProtocolBuffers-0.12.tar.gz
