@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261452
-Last-Updated: Wed, 07 Oct 2026 13:41:02 GMT
+Last-Updated: Wed, 07 Oct 2026 13:54:35 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -74527,7 +74527,7 @@ EV::ClickHouse::Pool               0.06  E/EG/EGOR/EV-ClickHouse-0.06.tar.gz
 EV::ClickHouse::Streamer           0.06  E/EG/EGOR/EV-ClickHouse-0.06.tar.gz
 EV::Cron                       0.123600  L/LO/LOSYME/EV-Cron-0.123600.tar.gz
 EV::Embed                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
-EV::Etcd                           0.10  E/EG/EGOR/EV-Etcd-0.10.tar.gz
+EV::Etcd                           0.11  E/EG/EGOR/EV-Etcd-0.11.tar.gz
 EV::Fork                          undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Future                         0.07  E/EG/EGOR/EV-Future-0.07.tar.gz
 EV::Future::Handle                 0.07  E/EG/EGOR/EV-Future-0.07.tar.gz
