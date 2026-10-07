@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261427
-Last-Updated: Wed, 07 Oct 2026 00:29:03 GMT
+Last-Updated: Wed, 07 Oct 2026 00:41:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -193652,7 +193652,7 @@ Plack::App::Gearman::Status    0.001001  M/MS/MSTOCK/Plack-App-Gearman-Status-0.
 Plack::App::GitHub::WebHook         0.9  V/VO/VOJ/Plack-App-GitHub-WebHook-0.9.tar.gz
 Plack::App::GitHub::WebHook::Exception 0.9  V/VO/VOJ/Plack-App-GitHub-WebHook-0.9.tar.gz
 Plack::App::GitHub::WebHook::Logger 0.9  V/VO/VOJ/Plack-App-GitHub-WebHook-0.9.tar.gz
-Plack::App::GitHubPages::Faux      0.03  P/PL/PLICEASE/Plack-App-GitHubPages-Faux-0.03.tar.gz
+Plack::App::GitHubPages::Faux      0.04  P/PL/PLICEASE/Plack-App-GitHubPages-Faux-0.04.tar.gz
 Plack::App::GitSmartHttp           0.07  Y/YA/YAMAMOTO/Plack-App-GitSmartHttp-0.07.tar.gz
 Plack::App::GraphEasy              0.01  B/BA/BAYASHI/Plack-App-GraphEasy-0.01.tar.gz
 Plack::App::GraphQL               0.003  J/JJ/JJNAPIORK/Plack-App-GraphQL-0.003.tar.gz
