@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261427
-Last-Updated: Wed, 07 Oct 2026 10:41:02 GMT
+Last-Updated: Wed, 07 Oct 2026 11:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -48799,9 +48799,9 @@ CPAN::Exception::yaml_not_installed 5.5  A/AN/ANDK/CPAN-2.41.tar.gz
 CPAN::Exception::yaml_process_error 5.5  A/AN/ANDK/CPAN-2.41.tar.gz
 CPAN::Faker                       0.012  R/RJ/RJBS/CPAN-Faker-0.012.tar.gz
 CPAN::Faker::HTTPD                0.002  P/PS/PSHANGOV/CPAN-Faker-HTTPD-0.002.tar.gz
-CPAN::FindDependencies             3.14  D/DC/DCANTRELL/CPAN-FindDependencies-3.14.tar.gz
-CPAN::FindDependencies::Dependency 3.04  D/DC/DCANTRELL/CPAN-FindDependencies-3.14.tar.gz
-CPAN::FindDependencies::MakeMaker   1.0  D/DC/DCANTRELL/CPAN-FindDependencies-3.14.tar.gz
+CPAN::FindDependencies             4.00  D/DC/DCANTRELL/CPAN-FindDependencies-4.00.tar.gz
+CPAN::FindDependencies::Dependency 3.04  D/DC/DCANTRELL/CPAN-FindDependencies-4.00.tar.gz
+CPAN::FindDependencies::MakeMaker   1.0  D/DC/DCANTRELL/CPAN-FindDependencies-4.00.tar.gz
 CPAN::FirstTime                  5.5319  A/AN/ANDK/CPAN-2.41.tar.gz
 CPAN::Flatten                      0.01  S/SK/SKAJI/CPAN-Flatten-0.01.tar.gz
 CPAN::Flatten::CLI                undef  S/SK/SKAJI/CPAN-Flatten-0.01.tar.gz
