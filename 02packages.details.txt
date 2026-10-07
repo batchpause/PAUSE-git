@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261427
-Last-Updated: Wed, 07 Oct 2026 00:41:03 GMT
+Last-Updated: Wed, 07 Oct 2026 01:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -57510,7 +57510,7 @@ Data::SCORM::Organization          0.01  O/OS/OSFAMERON/Data-SCORM-0.07.tar.gz
 Data::SCORM::Resource              0.01  O/OS/OSFAMERON/Data-SCORM-0.07.tar.gz
 Data::SCORM::Types                undef  O/OS/OSFAMERON/Data-SCORM-0.07.tar.gz
 Data::Scroller                     1.00  B/BE/BENH/Data-Scroller-1.00.tar.gz
-Data::SCS::DefParser               0.11  N/NA/NAUTOFON/Data-SCS-DefParser-0.11.tar.gz
+Data::SCS::DefParser               0.12  N/NA/NAUTOFON/Data-SCS-DefParser-0.12.tar.gz
 Data::SeaBASS                  0.192600  J/JL/JLEFLER/Data-SeaBASS-0.192600.tar.gz
 Data::Search                       0.03  A/AL/ALX/Data-Search-0.03.tar.gz
 Data::SearchEngine                 0.33  A/AN/ANELSON/Data-SearchEngine-0.33.tar.gz
@@ -140334,14 +140334,14 @@ Music::NeoRiemannianTonnetz        0.27  J/JM/JMATES/Music-NeoRiemannianTonnetz-
 Music::Note                        0.01  B/BD/BDAGLISH/Music-Note-0.01.tar.gz
 Music::Note::Frequency             0.05  K/KR/KROH/Music-Note-Frequency-0.05.tar.gz
 Music::Note::Role::Operators       0.04  Z/ZA/ZARQUON/Music-Note-Role-Operators-0.04.tar.gz
-Music::NWC2MusicXML            0.001001  N/NH/NHORNE/Music-NWC2MusicXML-0.001.1.tar.gz
-Music::NWC2MusicXML::Diagnostics 0.001001  N/NH/NHORNE/Music-NWC2MusicXML-0.001.1.tar.gz
-Music::NWC2MusicXML::Event     0.001001  N/NH/NHORNE/Music-NWC2MusicXML-0.001.1.tar.gz
-Music::NWC2MusicXML::MusicXML  0.001001  N/NH/NHORNE/Music-NWC2MusicXML-0.001.1.tar.gz
-Music::NWC2MusicXML::NWC       0.001001  N/NH/NHORNE/Music-NWC2MusicXML-0.001.1.tar.gz
-Music::NWC2MusicXML::Parser    0.001001  N/NH/NHORNE/Music-NWC2MusicXML-0.001.1.tar.gz
-Music::NWC2MusicXML::Score     0.001001  N/NH/NHORNE/Music-NWC2MusicXML-0.001.1.tar.gz
-Music::NWC2MusicXML::Staff     0.001001  N/NH/NHORNE/Music-NWC2MusicXML-0.001.1.tar.gz
+Music::NWC2MusicXML            0.001002  N/NH/NHORNE/Music-NWC2MusicXML-0.001.2.tar.gz
+Music::NWC2MusicXML::Diagnostics 0.001002  N/NH/NHORNE/Music-NWC2MusicXML-0.001.2.tar.gz
+Music::NWC2MusicXML::Event     0.001002  N/NH/NHORNE/Music-NWC2MusicXML-0.001.2.tar.gz
+Music::NWC2MusicXML::MusicXML  0.001002  N/NH/NHORNE/Music-NWC2MusicXML-0.001.2.tar.gz
+Music::NWC2MusicXML::NWC       0.001002  N/NH/NHORNE/Music-NWC2MusicXML-0.001.2.tar.gz
+Music::NWC2MusicXML::Parser    0.001002  N/NH/NHORNE/Music-NWC2MusicXML-0.001.2.tar.gz
+Music::NWC2MusicXML::Score     0.001002  N/NH/NHORNE/Music-NWC2MusicXML-0.001.2.tar.gz
+Music::NWC2MusicXML::Staff     0.001002  N/NH/NHORNE/Music-NWC2MusicXML-0.001.2.tar.gz
 Music::Percussion::Tabla         0.0709  G/GE/GENE/Music-Percussion-Tabla-0.0709.tar.gz
 Music::PitchNum                    0.09  J/JM/JMATES/Music-PitchNum-0.09.tar.gz
 Music::PitchNum::ABC               0.09  J/JM/JMATES/Music-PitchNum-0.09.tar.gz
