@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261455
-Last-Updated: Wed, 07 Oct 2026 18:17:02 GMT
+Last-Updated: Wed, 07 Oct 2026 18:54:36 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -13732,16 +13732,16 @@ App::PerlFuzzyTokenFinder::MatchedPosition undef  U/UT/UTGWKK/App-PerlFuzzyToken
 App::PerlGlue                      0.04  S/SH/SHINGO/App-PerlGlue-0.04.tar.gz
 App::PerlGzipScript              v0.0.3  S/SK/SKAJI/App-PerlGzipScript-v0.0.3.tar.gz
 App::perlhl                       0.007  D/DO/DOHERTY/App-perlhl-0.007.tar.gz
-App::perlimports               0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
-App::perlimports::Annotations  0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
-App::perlimports::CLI          0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
-App::perlimports::Config       0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
-App::perlimports::Document     0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
-App::perlimports::ExportInspector 0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
-App::perlimports::Include      0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
-App::perlimports::Role::Logger 0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
-App::perlimports::Sandbox      0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
-App::perlimports::Sorter       0.000066  O/OA/OALDERS/App-perlimports-0.000066.tar.gz
+App::perlimports               0.000067  O/OA/OALDERS/App-perlimports-0.000067.tar.gz
+App::perlimports::Annotations  0.000067  O/OA/OALDERS/App-perlimports-0.000067.tar.gz
+App::perlimports::CLI          0.000067  O/OA/OALDERS/App-perlimports-0.000067.tar.gz
+App::perlimports::Config       0.000067  O/OA/OALDERS/App-perlimports-0.000067.tar.gz
+App::perlimports::Document     0.000067  O/OA/OALDERS/App-perlimports-0.000067.tar.gz
+App::perlimports::ExportInspector 0.000067  O/OA/OALDERS/App-perlimports-0.000067.tar.gz
+App::perlimports::Include      0.000067  O/OA/OALDERS/App-perlimports-0.000067.tar.gz
+App::perlimports::Role::Logger 0.000067  O/OA/OALDERS/App-perlimports-0.000067.tar.gz
+App::perlimports::Sandbox      0.000067  O/OA/OALDERS/App-perlimports-0.000067.tar.gz
+App::perlimports::Sorter       0.000067  O/OA/OALDERS/App-perlimports-0.000067.tar.gz
 App::PerlLocalEnv                 undef  M/MA/MART/perl-local-env-0.03.tar.gz
 App::perlminlint                   0.24  H/HK/HKOBA/App-perlminlint-0.24.tar.gz
 App::perlminlint::Object          undef  H/HK/HKOBA/App-perlminlint-0.24.tar.gz
