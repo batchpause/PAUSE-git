@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261453
-Last-Updated: Wed, 07 Oct 2026 15:41:02 GMT
+Last-Updated: Wed, 07 Oct 2026 16:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -212834,7 +212834,7 @@ Shell::Carapace::SSH              undef  K/KA/KABLAMO/Shell-Carapace-0.22.tar.gz
 Shell::Cmd                         3.06  S/SB/SBECK/Shell-Cmd-3.06.tar.gz
 Shell::Command                     0.06  F/FL/FLORA/Shell-Command-0.06.tar.gz
 Shell::Completer                  0.002  P/PE/PERLANCAR/Shell-Completer-0.002.tar.gz
-Shell::Config::Generate            0.35  P/PL/PLICEASE/Shell-Config-Generate-0.35.tar.gz
+Shell::Config::Generate            0.36  P/PL/PLICEASE/Shell-Config-Generate-0.36.tar.gz
 Shell::Connection                 undef  A/AN/ANDYDUNC/Orac-alpha-1.2.6.tar.gz
 Shell::Current                    undef  A/AN/ANDYDUNC/Orac-alpha-1.2.6.tar.gz
 Shell::Do                           1.0  A/AN/ANDYDUNC/Orac-alpha-1.2.6.tar.gz
