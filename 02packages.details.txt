@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261427
-Last-Updated: Wed, 07 Oct 2026 06:29:02 GMT
+Last-Updated: Wed, 07 Oct 2026 07:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81381,18 +81381,18 @@ Game::Asset::SDLSound               0.2  T/TM/TMURRAY/Game-Asset-SDLSound-0.2.ta
 Game::Asset::SDLSound::Manager      0.2  T/TM/TMURRAY/Game-Asset-SDLSound-0.2.tar.gz
 Game::Asset::Type                   0.6  T/TM/TMURRAY/Game-Asset-0.6.tar.gz
 Game::Asset::YAML                   0.6  T/TM/TMURRAY/Game-Asset-0.6.tar.gz
-Game::Backgammon                   0.01  L/LN/LNATION/Game-Backgammon-0.01.tar.gz
-Game::Backgammon::Board            0.01  L/LN/LNATION/Game-Backgammon-0.01.tar.gz
-Game::Backgammon::Bot              0.01  L/LN/LNATION/Game-Backgammon-0.01.tar.gz
-Game::Backgammon::Dice             0.01  L/LN/LNATION/Game-Backgammon-0.01.tar.gz
-Game::Backgammon::Error            0.01  L/LN/LNATION/Game-Backgammon-0.01.tar.gz
-Game::Backgammon::Move             0.01  L/LN/LNATION/Game-Backgammon-0.01.tar.gz
-Game::Backgammon::Notation         0.01  L/LN/LNATION/Game-Backgammon-0.01.tar.gz
-Game::Backgammon::Result           0.01  L/LN/LNATION/Game-Backgammon-0.01.tar.gz
-Game::Backgammon::Rules            0.01  L/LN/LNATION/Game-Backgammon-0.01.tar.gz
-Game::Backgammon::Shots            0.01  L/LN/LNATION/Game-Backgammon-0.01.tar.gz
-Game::Backgammon::Terminal         0.01  L/LN/LNATION/Game-Backgammon-0.01.tar.gz
-Game::Backgammon::Turn             0.01  L/LN/LNATION/Game-Backgammon-0.01.tar.gz
+Game::Backgammon                   0.02  L/LN/LNATION/Game-Backgammon-0.02.tar.gz
+Game::Backgammon::Board            0.02  L/LN/LNATION/Game-Backgammon-0.02.tar.gz
+Game::Backgammon::Bot              0.02  L/LN/LNATION/Game-Backgammon-0.02.tar.gz
+Game::Backgammon::Dice             0.02  L/LN/LNATION/Game-Backgammon-0.02.tar.gz
+Game::Backgammon::Error            0.02  L/LN/LNATION/Game-Backgammon-0.02.tar.gz
+Game::Backgammon::Move             0.02  L/LN/LNATION/Game-Backgammon-0.02.tar.gz
+Game::Backgammon::Notation         0.02  L/LN/LNATION/Game-Backgammon-0.02.tar.gz
+Game::Backgammon::Result           0.02  L/LN/LNATION/Game-Backgammon-0.02.tar.gz
+Game::Backgammon::Rules            0.02  L/LN/LNATION/Game-Backgammon-0.02.tar.gz
+Game::Backgammon::Shots            0.02  L/LN/LNATION/Game-Backgammon-0.02.tar.gz
+Game::Backgammon::Terminal         0.02  L/LN/LNATION/Game-Backgammon-0.02.tar.gz
+Game::Backgammon::Turn             0.02  L/LN/LNATION/Game-Backgammon-0.02.tar.gz
 Game::Battleship                 0.0602  G/GE/GENE/Game-Battleship-0.0602.tar.gz
 Game::Battleship::Craft          0.0602  G/GE/GENE/Game-Battleship-0.0602.tar.gz
 Game::Battleship::Grid           0.0602  G/GE/GENE/Game-Battleship-0.0602.tar.gz
@@ -81552,17 +81552,17 @@ Game::Mahjong::Wall                0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
 Game::Marad                        0.07  J/JM/JMATES/Game-Marad-0.07.tar.gz
 Game::Ninja                    0.001001  K/KO/KOBOLDWIZ/Perl5/Game-Ninja-0.1.6.tar.gz
 Game::NURBS                    0.001001  K/KO/KOBOLDWIZ/Perl5/Game-NURBS-0.1.13.tar.gz
-Game::Oware                        0.01  L/LN/LNATION/Game-Oware-0.01.tar.gz
-Game::Oware::Board                 0.01  L/LN/LNATION/Game-Oware-0.01.tar.gz
-Game::Oware::Bot                   0.01  L/LN/LNATION/Game-Oware-0.01.tar.gz
-Game::Oware::Error                 0.01  L/LN/LNATION/Game-Oware-0.01.tar.gz
-Game::Oware::Move                  0.01  L/LN/LNATION/Game-Oware-0.01.tar.gz
-Game::Oware::Notation              0.01  L/LN/LNATION/Game-Oware-0.01.tar.gz
-Game::Oware::Result                0.01  L/LN/LNATION/Game-Oware-0.01.tar.gz
-Game::Oware::Rules                 0.01  L/LN/LNATION/Game-Oware-0.01.tar.gz
-Game::Oware::Scoring               0.01  L/LN/LNATION/Game-Oware-0.01.tar.gz
-Game::Oware::Terminal              0.01  L/LN/LNATION/Game-Oware-0.01.tar.gz
-Game::Oware::Variant               0.01  L/LN/LNATION/Game-Oware-0.01.tar.gz
+Game::Oware                        0.02  L/LN/LNATION/Game-Oware-0.02.tar.gz
+Game::Oware::Board                 0.02  L/LN/LNATION/Game-Oware-0.02.tar.gz
+Game::Oware::Bot                   0.02  L/LN/LNATION/Game-Oware-0.02.tar.gz
+Game::Oware::Error                 0.02  L/LN/LNATION/Game-Oware-0.02.tar.gz
+Game::Oware::Move                  0.02  L/LN/LNATION/Game-Oware-0.02.tar.gz
+Game::Oware::Notation              0.02  L/LN/LNATION/Game-Oware-0.02.tar.gz
+Game::Oware::Result                0.02  L/LN/LNATION/Game-Oware-0.02.tar.gz
+Game::Oware::Rules                 0.02  L/LN/LNATION/Game-Oware-0.02.tar.gz
+Game::Oware::Scoring               0.02  L/LN/LNATION/Game-Oware-0.02.tar.gz
+Game::Oware::Terminal              0.02  L/LN/LNATION/Game-Oware-0.02.tar.gz
+Game::Oware::Variant               0.02  L/LN/LNATION/Game-Oware-0.02.tar.gz
 Game::Pexeso                       0.01  P/PO/POTYL/Game-Pexeso-0.01.tar.gz
 Game::Pexeso::Card                undef  P/PO/POTYL/Game-Pexeso-0.01.tar.gz
 Game::Pexeso::Spinner             undef  P/PO/POTYL/Game-Pexeso-0.01.tar.gz
