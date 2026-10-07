@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261455
-Last-Updated: Wed, 07 Oct 2026 16:41:02 GMT
+Last-Updated: Wed, 07 Oct 2026 17:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -58579,8 +58579,8 @@ Data::ZPath::Node              0.001000  T/TO/TOBYINK/Data-ZPath-0.001000.tar.gz
 Data::ZPath::NodeList          0.001000  T/TO/TOBYINK/Data-ZPath-0.001000.tar.gz
 data_file                          2.22  C/CJ/CJONES/Microarray-0.45c.zip
 DataAccess                        undef  A/AY/AYMULYAR/SemMed-Interface-0.05.tar.gz
-Database::Abstraction              0.47  N/NH/NHORNE/Database-Abstraction-0.47.tar.gz
-Database::Abstraction::Query       0.47  N/NH/NHORNE/Database-Abstraction-0.47.tar.gz
+Database::Abstraction              0.48  N/NH/NHORNE/Database-Abstraction-0.48.tar.gz
+Database::Abstraction::Query       0.48  N/NH/NHORNE/Database-Abstraction-0.48.tar.gz
 Database::Async                   0.019  T/TE/TEAM/Database-Async-0.019.tar.gz
 Database::Async::Backoff          0.019  T/TE/TEAM/Database-Async-0.019.tar.gz
 Database::Async::Backoff::Exponential 0.019  T/TE/TEAM/Database-Async-0.019.tar.gz
