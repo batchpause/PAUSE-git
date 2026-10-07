@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261427
-Last-Updated: Wed, 07 Oct 2026 10:29:01 GMT
+Last-Updated: Wed, 07 Oct 2026 10:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -107096,12 +107096,12 @@ Imager::File::HEIF                0.007  T/TO/TONYC/Imager-File-HEIF-0.007.tar.g
 Imager::File::HEIF::Encoder           1  T/TO/TONYC/Imager-File-HEIF-0.007.tar.gz
 Imager::File::HEIF::Encoder::Parameter 1.000  T/TO/TONYC/Imager-File-HEIF-0.007.tar.gz
 Imager::File::ICO                  0.09  T/TO/TONYC/Imager-1.038.tar.gz
-Imager::File::JPEG                1.006  T/TO/TONYC/Imager-File-JPEG-1.006.tar.gz
+Imager::File::JPEG                1.007  T/TO/TONYC/Imager-File-JPEG-1.007.tar.gz
 Imager::File::PNG                 1.005  T/TO/TONYC/Imager-File-PNG-1.005.tar.gz
 Imager::File::QOI                 1.000  T/TO/TONYC/Imager-File-QOI-1.000.tar.gz
 Imager::File::SGI                  0.07  T/TO/TONYC/Imager-1.038.tar.gz
 Imager::File::SIXEL               1.001  D/DA/DAVENONYM/Imager-File-SIXEL-1.001.tar.gz
-Imager::File::TIFF                1.006  T/TO/TONYC/Imager-File-TIFF-1.006.tar.gz
+Imager::File::TIFF                1.007  T/TO/TONYC/Imager-File-TIFF-1.007.tar.gz
 Imager::File::WEBP                0.006  T/TO/TONYC/Imager-File-WEBP-0.006.tar.gz
 Imager::Fill                      1.013  T/TO/TONYC/Imager-1.038.tar.gz
 Imager::Filter::Autocrop           1.23  L/LE/LEADER/Imager-Filter-Autocrop-1.23.tar.gz
@@ -107118,7 +107118,7 @@ Imager::Filter::Statistic         undef  G/GU/GUGOD/Imager-Filter-Statistic-0.00
 Imager::Font                      1.039  T/TO/TONYC/Imager-1.038.tar.gz
 Imager::Font::BBox                1.007  T/TO/TONYC/Imager-1.038.tar.gz
 Imager::Font::FreeType2           1.021  T/TO/TONYC/Imager-1.038.tar.gz
-Imager::Font::FT2                 1.006  T/TO/TONYC/Imager-Font-FT2-1.006.tar.gz
+Imager::Font::FT2                 1.007  T/TO/TONYC/Imager-Font-FT2-1.007.tar.gz
 Imager::Font::Image               1.000  T/TO/TONYC/Imager-1.038.tar.gz
 Imager::Font::T1                  1.031  T/TO/TONYC/Imager-Font-T1-1.031.tar.gz
 Imager::Font::Test                1.002  T/TO/TONYC/Imager-1.038.tar.gz
