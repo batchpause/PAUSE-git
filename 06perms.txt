@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668570
+Line-Count:  668572
 Written-By:  PAUSE version 1.005
-Date:        Wed, 07 Oct 2026 14:30:19 GMT
+Date:        Wed, 07 Oct 2026 16:41:15 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -108915,6 +108915,7 @@ DBIx::Factory,BAHOOTYPR,f
 DBIx::Fast,HDELGADO,f
 DBIx::Fast::Base,HDELGADO,f
 DBIx::Fast::Cache,HDELGADO,f
+DBIx::Fast::Cache::Redis,HDELGADO,f
 DBIx::Fast::Cached,HDELGADO,f
 DBIx::Fast::Connector,HDELGADO,f
 DBIx::Fast::Output,HDELGADO,f
@@ -108927,6 +108928,7 @@ DBIx::Fast::Profiler,HDELGADO,f
 DBIx::Fast::Result,HDELGADO,f
 DBIx::Fast::SQL,HDELGADO,f
 DBIx::Fast::Schema,HDELGADO,f
+DBIx::Fast::Test::Mock,HDELGADO,f
 DBIx::Fast::Transaction,HDELGADO,f
 DBIx::Fast::X,HDELGADO,f
 DBIx::FedDB,ROGERHALL,f
