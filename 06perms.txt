@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668575
+Line-Count:  668585
 Written-By:  PAUSE version 1.005
-Date:        Thu, 08 Oct 2026 18:18:19 GMT
+Date:        Thu, 08 Oct 2026 19:41:49 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -153250,6 +153250,16 @@ Game::Mahjong::Terminal,LNATION,f
 Game::Mahjong::Tiles,LNATION,f
 Game::Mahjong::Wall,LNATION,f
 Game::Marad,JMATES,f
+Game::Merrills,LNATION,f
+Game::Merrills::Board,LNATION,f
+Game::Merrills::Bot,LNATION,f
+Game::Merrills::Error,LNATION,f
+Game::Merrills::Move,LNATION,f
+Game::Merrills::Notation,LNATION,f
+Game::Merrills::Points,LNATION,f
+Game::Merrills::Result,LNATION,f
+Game::Merrills::Rules,LNATION,f
+Game::Merrills::Terminal,LNATION,f
 Game::NURBS,KOBOLDWIZ,f
 Game::Ninja,KOBOLDWIZ,f
 Game::Oware,LNATION,f
