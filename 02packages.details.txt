@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261457
-Last-Updated: Thu, 08 Oct 2026 16:41:02 GMT
+Last-Updated: Thu, 08 Oct 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -44476,7 +44476,7 @@ Citrix::LaunchMesg                 0.25  O/OH/OHOLLMEN/Citrix-0.25.tar.gz
 Citrix::SessionSet                 0.25  O/OH/OHOLLMEN/Citrix-0.25.tar.gz
 Citrix::SessOp                     0.25  O/OH/OHOLLMEN/Citrix-0.25.tar.gz
 City                                  1  M/MS/MSCHLUE/Class-Classgen-classgen-3.03.tar.gz
-ClamAV::Clamd                      0.07  L/LN/LNATION/ClamAV-Clamd-0.07.tar.gz
+ClamAV::Clamd                      0.08  L/LN/LNATION/ClamAV-Clamd-0.08.tar.gz
 ClamAV::Client                     0.11  J/JM/JMEHNLE/clamav-client/ClamAV-Client-0.11.tar.gz
 ClamAV::Client::Error              0.11  J/JM/JMEHNLE/clamav-client/ClamAV-Client-0.11.tar.gz
 ClamAV::Config                     0.11  J/JM/JMEHNLE/clamav-client/ClamAV-Client-0.11.tar.gz
