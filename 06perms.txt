@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668586
+Line-Count:  668590
 Written-By:  PAUSE version 1.005
-Date:        Thu, 08 Oct 2026 20:29:38 GMT
+Date:        Thu, 08 Oct 2026 22:42:16 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -114239,6 +114239,10 @@ Dancer2::Session::Memcached,YANICK,f
 Dancer2::Session::MongoDB,CROMEDOME,c
 Dancer2::Session::MongoDB,YANICK,f
 Dancer2::Session::PSGI,RUSSELLJ,f
+Dancer2::Session::Pg,MIKKOI,f
+Dancer2::Session::Pg::Cipher,MIKKOI,f
+Dancer2::Session::Pg::Cipher::AESGCM,MIKKOI,f
+Dancer2::Session::Pg::Cipher::ChaCha20Poly1305,MIKKOI,f
 Dancer2::Session::Redis,BURNERSK,c
 Dancer2::Session::Redis,SIMBABQUE,f
 Dancer2::Session::Redis,SYSPETE,c
