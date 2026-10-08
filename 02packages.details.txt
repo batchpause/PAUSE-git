@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261457
-Last-Updated: Thu, 08 Oct 2026 16:29:02 GMT
+Last-Updated: Thu, 08 Oct 2026 16:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -73936,7 +73936,7 @@ EntityModel::Web::User            0.004  T/TE/TEAM/EntityModel-Web-0.004.tar.gz
 Entrez                              1.1  L/LD/LDS/Boulder-1.30.tar.gz
 EntryDialog                         0.1  R/RK/RKIES/Tk-EntryDialog-0.10.tar.gz
 enum                               1.12  N/NE/NEILB/enum-1.12.tar.gz
-Enum::Declare                      1.00  L/LN/LNATION/Enum-Declare-1.00.tar.gz
+Enum::Declare                      1.01  L/LN/LNATION/Enum-Declare-1.01.tar.gz
 Enum::Declare::Common              1.00  L/LN/LNATION/Enum-Declare-Common-1.00.tar.gz
 Enum::Declare::Common::Bool       undef  L/LN/LNATION/Enum-Declare-Common-1.00.tar.gz
 Enum::Declare::Common::Calendar   undef  L/LN/LNATION/Enum-Declare-Common-1.00.tar.gz
@@ -73958,8 +73958,8 @@ Enum::Declare::Common::Sort       undef  L/LN/LNATION/Enum-Declare-Common-1.00.t
 Enum::Declare::Common::Status     undef  L/LN/LNATION/Enum-Declare-Common-1.00.tar.gz
 Enum::Declare::Common::Timezone   undef  L/LN/LNATION/Enum-Declare-Common-1.00.tar.gz
 Enum::Declare::Common::TimezoneOffset undef  L/LN/LNATION/Enum-Declare-Common-1.00.tar.gz
-Enum::Declare::Meta               undef  L/LN/LNATION/Enum-Declare-1.00.tar.gz
-Enum::Declare::Set                undef  L/LN/LNATION/Enum-Declare-1.00.tar.gz
+Enum::Declare::Meta               undef  L/LN/LNATION/Enum-Declare-1.01.tar.gz
+Enum::Declare::Set                undef  L/LN/LNATION/Enum-Declare-1.01.tar.gz
 enum::fields                        1.0  D/DM/DMLLOYD/enum-fields-1.0.tar.gz
 enum::fields::extending               1  D/DM/DMLLOYD/enum-fields-1.0.tar.gz
 enum::hash                         1.00  C/CF/CFRANKS/enum-hash-1.00.tar.gz
