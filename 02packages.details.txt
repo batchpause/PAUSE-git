@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261469
-Last-Updated: Thu, 08 Oct 2026 21:54:11 GMT
+Line-Count:   261473
+Last-Updated: Thu, 08 Oct 2026 22:54:06 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -53166,6 +53166,10 @@ Dancer2::Session::DBIC::Serializer::YAML undef  H/HO/HORNBURG/Dancer2-Session-DB
 Dancer2::Session::JSON            0.003  C/CR/CROMEDOME/Dancer2-Session-JSON-0.003.tar.gz
 Dancer2::Session::Memcached       0.007  Y/YA/YANICK/Dancer2-Session-Memcached-0.007.tar.gz
 Dancer2::Session::MongoDB         0.004  C/CR/CROMEDOME/Dancer2-Session-MongoDB-0.004.tar.gz
+Dancer2::Session::Pg              0.001  M/MI/MIKKOI/Dancer2-Session-Pg-0.001.tar.gz
+Dancer2::Session::Pg::Cipher      0.001  M/MI/MIKKOI/Dancer2-Session-Pg-0.001.tar.gz
+Dancer2::Session::Pg::Cipher::AESGCM 0.001  M/MI/MIKKOI/Dancer2-Session-Pg-0.001.tar.gz
+Dancer2::Session::Pg::Cipher::ChaCha20Poly1305 0.001  M/MI/MIKKOI/Dancer2-Session-Pg-0.001.tar.gz
 Dancer2::Session::PSGI            0.010  R/RU/RUSSELLJ/Dancer2-Session-PSGI-0.010.tar.gz
 Dancer2::Session::Redis           0.008  S/SY/SYSPETE/Dancer2-Session-Redis-0.008.tar.gz
 Dancer2::Session::Redis::Serialization::Sereal 0.002  S/SY/SYSPETE/Dancer2-Session-Redis-0.008.tar.gz
