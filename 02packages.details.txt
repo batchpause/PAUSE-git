@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261456
-Last-Updated: Thu, 08 Oct 2026 16:17:02 GMT
+Line-Count:   261457
+Last-Updated: Thu, 08 Oct 2026 16:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -65011,7 +65011,7 @@ DefHash                          v2.0.1  P/PE/PERLANCAR/DefHash-2.0.1.tar.gz
 DefHash::Examples                 0.002  P/PE/PERLANCAR/DefHash-Examples-0.002.tar.gz
 define                             1.04  N/NE/NEILB/define-1.04.tar.gz
 Defined::KV                       0.001  R/RO/ROBN/Defined-KV-0.001.tar.gz
-Deflate::Faster                    0.02  E/EG/EGOR/Deflate-Faster-0.02.tar.gz
+Deflate::Faster                    0.03  E/EG/EGOR/Deflate-Faster-0.03.tar.gz
 delay_use                          1.00  M/MA/MAKOTO/delay_use-1.00.tar.gz
 DelayLine                          0.02  L/LT/LTHEGLER/DelayLine-0.02.tar.gz
 DelayRequest                      undef  S/SU/SULLR/App-HTTP_Proxy_IMP-0.957.tar.gz
@@ -125406,19 +125406,20 @@ Mail::DeliveryStatus::Report      1.543  R/RJ/RJBS/Mail-DeliveryStatus-BouncePar
 Mail::Dir                          0.03  X/XA/XAN/Mail-Dir-0.03.tar.gz
 Mail::Dir::Message                undef  X/XA/XAN/Mail-Dir-0.03.tar.gz
 Mail::DKIM                     1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
-Mail::DKIM2                        0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
-Mail::DKIM2::Common                0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
-Mail::DKIM2::DSN                   0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
-Mail::DKIM2::HeaderParser          0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
-Mail::DKIM2::MessageInstance       0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
-Mail::DKIM2::MessageStore          0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
-Mail::DKIM2::Reflector             0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
-Mail::DKIM2::Signature             0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
-Mail::DKIM2::Signer                0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
-Mail::DKIM2::Split                 0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
-Mail::DKIM2::TagValueList          0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
-Mail::DKIM2::Validate              0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
-Mail::DKIM2::Verifier              0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
+Mail::DKIM2                        0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::DKIM2::Common                0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::DKIM2::DSN                   0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::DKIM2::Gate                  0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::DKIM2::HeaderParser          0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::DKIM2::MessageInstance       0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::DKIM2::MessageStore          0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::DKIM2::Reflector             0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::DKIM2::Signature             0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::DKIM2::Signer                0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::DKIM2::Split                 0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::DKIM2::TagValueList          0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::DKIM2::Validate              0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::DKIM2::Verifier              0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
 Mail::DKIM::Algorithm::Base    1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
 Mail::DKIM::Algorithm::dk_rsa_sha1 1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
 Mail::DKIM::Algorithm::ed25519_sha256 1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
@@ -125766,8 +125767,8 @@ Mail::Milter::Authentication::Handler::BIMI 4.20261001  M/MB/MBRADSHAW/Mail-Milt
 Mail::Milter::Authentication::Handler::Blocker 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
 Mail::Milter::Authentication::Handler::ClamAV 2.20180611  M/MB/MBRADSHAW/Mail-Milter-Authentication-Extra-2.20180611.tar.gz
 Mail::Milter::Authentication::Handler::DKIM 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
-Mail::Milter::Authentication::Handler::DKIM2Sign 0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
-Mail::Milter::Authentication::Handler::DKIM2Verify 0.13  B/BR/BRONG/Mail-DKIM2-0.13.tar.gz
+Mail::Milter::Authentication::Handler::DKIM2Sign 0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
+Mail::Milter::Authentication::Handler::DKIM2Verify 0.14  B/BR/BRONG/Mail-DKIM2-0.14.tar.gz
 Mail::Milter::Authentication::Handler::DMARC 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
 Mail::Milter::Authentication::Handler::IPRev 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
 Mail::Milter::Authentication::Handler::LocalIP 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
