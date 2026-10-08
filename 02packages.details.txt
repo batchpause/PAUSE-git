@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261458
-Last-Updated: Thu, 08 Oct 2026 18:17:02 GMT
+Last-Updated: Thu, 08 Oct 2026 18:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -124160,7 +124160,7 @@ Logwatch::RecordTree              2.056  R/RE/REID/Logwatch-RecordTree-2.056.tar
 Logwatch::RecordTree::IPv4        2.056  R/RE/REID/Logwatch-RecordTree-2.056.tar.gz
 Long::Jump                     0.000005  E/EX/EXODIST/Long-Jump-0.000005.tar.gz
 LongSearch                        undef  O/OH/OHOLLMEN/JRPC-0.61.tar.gz
-Loo                                0.12  L/LN/LNATION/Loo-0.12.tar.gz
+Loo                                0.13  L/LN/LNATION/Loo-0.13.tar.gz
 LooksLike                      v0.20.60  B/BO/BOBK/LooksLike-v0.20.060.tar.gz
 Loompa                             0.51  H/HD/HDP/Loompa-0.51.tar.gz
 Loop                               1.00  G/GS/GSLONDON/Loop-1.00.tar.gz
