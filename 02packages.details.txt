@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261457
-Last-Updated: Thu, 08 Oct 2026 17:41:02 GMT
+Last-Updated: Thu, 08 Oct 2026 17:54:17 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81474,18 +81474,18 @@ Game::Floppy                       0.08  L/LN/LNATION/Game-Floppy-0.08.tar.gz
 Game::Floppy::Bird                 0.08  L/LN/LNATION/Game-Floppy-0.08.tar.gz
 Game::Floppy::Sprite               0.08  L/LN/LNATION/Game-Floppy-0.08.tar.gz
 Game::Floppy::Tube                 0.08  L/LN/LNATION/Game-Floppy-0.08.tar.gz
-Game::Gin                          0.01  L/LN/LNATION/Game-Gin-0.01.tar.gz
-Game::Gin::Bot                     0.01  L/LN/LNATION/Game-Gin-0.01.tar.gz
-Game::Gin::Card                    0.01  L/LN/LNATION/Game-Gin-0.01.tar.gz
-Game::Gin::Deadwood                0.01  L/LN/LNATION/Game-Gin-0.01.tar.gz
-Game::Gin::Deal                    0.01  L/LN/LNATION/Game-Gin-0.01.tar.gz
-Game::Gin::Deck                    0.01  L/LN/LNATION/Game-Gin-0.01.tar.gz
-Game::Gin::Error                   0.01  L/LN/LNATION/Game-Gin-0.01.tar.gz
-Game::Gin::Hand                    0.01  L/LN/LNATION/Game-Gin-0.01.tar.gz
-Game::Gin::Meld                    0.01  L/LN/LNATION/Game-Gin-0.01.tar.gz
-Game::Gin::Scoring                 0.01  L/LN/LNATION/Game-Gin-0.01.tar.gz
-Game::Gin::Search                  0.01  L/LN/LNATION/Game-Gin-0.01.tar.gz
-Game::Gin::Terminal                0.01  L/LN/LNATION/Game-Gin-0.01.tar.gz
+Game::Gin                          0.02  L/LN/LNATION/Game-Gin-0.02.tar.gz
+Game::Gin::Bot                     0.02  L/LN/LNATION/Game-Gin-0.02.tar.gz
+Game::Gin::Card                    0.02  L/LN/LNATION/Game-Gin-0.02.tar.gz
+Game::Gin::Deadwood                0.02  L/LN/LNATION/Game-Gin-0.02.tar.gz
+Game::Gin::Deal                    0.02  L/LN/LNATION/Game-Gin-0.02.tar.gz
+Game::Gin::Deck                    0.02  L/LN/LNATION/Game-Gin-0.02.tar.gz
+Game::Gin::Error                   0.02  L/LN/LNATION/Game-Gin-0.02.tar.gz
+Game::Gin::Hand                    0.02  L/LN/LNATION/Game-Gin-0.02.tar.gz
+Game::Gin::Meld                    0.02  L/LN/LNATION/Game-Gin-0.02.tar.gz
+Game::Gin::Scoring                 0.02  L/LN/LNATION/Game-Gin-0.02.tar.gz
+Game::Gin::Search                  0.02  L/LN/LNATION/Game-Gin-0.02.tar.gz
+Game::Gin::Terminal                0.02  L/LN/LNATION/Game-Gin-0.02.tar.gz
 Game::Go                           0.01  L/LN/LNATION/Game-Go-0.01.tar.gz
 Game::Go::Board                    0.01  L/LN/LNATION/Game-Go-0.01.tar.gz
 Game::Go::Bot                      0.01  L/LN/LNATION/Game-Go-0.01.tar.gz
