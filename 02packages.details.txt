@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261456
-Last-Updated: Thu, 08 Oct 2026 02:17:02 GMT
+Last-Updated: Thu, 08 Oct 2026 04:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -124561,18 +124561,18 @@ Lustre::LFS                        0.01  A/AD/ADRIAN/Lustre-LFS-0.01.tar.gz
 Lustre::LFS::Dir                  undef  A/AD/ADRIAN/Lustre-LFS-0.01.tar.gz
 Lustre::LFS::File                 undef  A/AD/ADRIAN/Lustre-LFS-0.01.tar.gz
 Lutherie::FretCalc                 0.33  D/DS/DSPARLING/Lutherie-FretCalc-0.33.tar.gz
-Luv::CLI                          0.004  N/NO/NOBUNAGA/Luv-CLI-0.004.tar.gz
-Luv::CLI::Command::Add            undef  N/NO/NOBUNAGA/Luv-CLI-0.004.tar.gz
-Luv::CLI::Command::Build          undef  N/NO/NOBUNAGA/Luv-CLI-0.004.tar.gz
-Luv::CLI::Command::Init           undef  N/NO/NOBUNAGA/Luv-CLI-0.004.tar.gz
-Luv::CLI::Command::List           undef  N/NO/NOBUNAGA/Luv-CLI-0.004.tar.gz
-Luv::CLI::Command::Remove         undef  N/NO/NOBUNAGA/Luv-CLI-0.004.tar.gz
-Luv::CLI::Command::Search         undef  N/NO/NOBUNAGA/Luv-CLI-0.004.tar.gz
-Luv::CLI::Command::Update         undef  N/NO/NOBUNAGA/Luv-CLI-0.004.tar.gz
-Luv::CLI::Git                     undef  N/NO/NOBUNAGA/Luv-CLI-0.004.tar.gz
-Luv::CLI::Manifest                undef  N/NO/NOBUNAGA/Luv-CLI-0.004.tar.gz
-Luv::CLI::Package                 undef  N/NO/NOBUNAGA/Luv-CLI-0.004.tar.gz
-Luv::CLI::Registry                undef  N/NO/NOBUNAGA/Luv-CLI-0.004.tar.gz
+Luv::CLI                          0.005  N/NO/NOBUNAGA/Luv-CLI-0.005.tar.gz
+Luv::CLI::Command::Add            undef  N/NO/NOBUNAGA/Luv-CLI-0.005.tar.gz
+Luv::CLI::Command::Build          undef  N/NO/NOBUNAGA/Luv-CLI-0.005.tar.gz
+Luv::CLI::Command::Init           undef  N/NO/NOBUNAGA/Luv-CLI-0.005.tar.gz
+Luv::CLI::Command::List           undef  N/NO/NOBUNAGA/Luv-CLI-0.005.tar.gz
+Luv::CLI::Command::Remove         undef  N/NO/NOBUNAGA/Luv-CLI-0.005.tar.gz
+Luv::CLI::Command::Search         undef  N/NO/NOBUNAGA/Luv-CLI-0.005.tar.gz
+Luv::CLI::Command::Update         undef  N/NO/NOBUNAGA/Luv-CLI-0.005.tar.gz
+Luv::CLI::Git                     undef  N/NO/NOBUNAGA/Luv-CLI-0.005.tar.gz
+Luv::CLI::Manifest                undef  N/NO/NOBUNAGA/Luv-CLI-0.005.tar.gz
+Luv::CLI::Package                 undef  N/NO/NOBUNAGA/Luv-CLI-0.005.tar.gz
+Luv::CLI::Registry                undef  N/NO/NOBUNAGA/Luv-CLI-0.005.tar.gz
 Lux::IO                            0.07  K/KE/KENTARO/Lux-IO-0.07.tar.gz
 Lux::IO::Btree                    undef  K/KE/KENTARO/Lux-IO-0.07.tar.gz
 LV                                0.006  T/TO/TOBYINK/LV-0.006.tar.gz
