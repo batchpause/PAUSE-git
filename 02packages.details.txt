@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261458
-Last-Updated: Thu, 08 Oct 2026 19:17:02 GMT
+Last-Updated: Thu, 08 Oct 2026 19:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -74547,7 +74547,7 @@ EV::Loop                          undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.2
 EV::Loop::Async                    1.01  M/ML/MLEHMANN/EV-Loop-Async-1.01.tar.gz
 EV::MakeMaker                     undef  M/ML/MLEHMANN/EV-4.37.tar.gz
 EV::MariaDB                        0.08  E/EG/EGOR/EV-MariaDB-0.08.tar.gz
-EV::Memcached                      0.05  E/EG/EGOR/EV-Memcached-0.05.tar.gz
+EV::Memcached                      0.06  E/EG/EGOR/EV-Memcached-0.06.tar.gz
 EV::Nats                           0.05  E/EG/EGOR/EV-Nats-0.05.tar.gz
 EV::Nats::JetStream               undef  E/EG/EGOR/EV-Nats-0.05.tar.gz
 EV::Nats::KV                      undef  E/EG/EGOR/EV-Nats-0.05.tar.gz
