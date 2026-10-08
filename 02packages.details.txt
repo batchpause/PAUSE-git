@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261457
-Last-Updated: Thu, 08 Oct 2026 17:29:02 GMT
+Last-Updated: Thu, 08 Oct 2026 17:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -51670,7 +51670,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressi
 Cucumber::TagExpressions::Node  v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressions-11.0.1.tar.gz
 Cucumber::TagExpressions::NotNode v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressions-11.0.1.tar.gz
 Cucumber::TagExpressions::OrNode v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressions-11.0.1.tar.gz
-Cucumber::Test::Release::Automation undef  C/CU/CUKEBOT/Cucumber-Test-Release-Automation-v0.0.157.tar.gz
+Cucumber::Test::Release::Automation undef  C/CU/CUKEBOT/Cucumber-Test-Release-Automation-v0.0.158.tar.gz
 CUI                               undef  A/AY/AYMULYAR/SemMed-Interface-0.05.tar.gz
 Curia                               1.0  M/MI/MIKIO/qdbm-perl-1.8.14.tar.gz
 Curl::Impersonate                  0.02  E/EG/EGOR/Curl-Impersonate-0.02.tar.gz
@@ -74553,7 +74553,7 @@ EV::Nats::JetStream               undef  E/EG/EGOR/EV-Nats-0.05.tar.gz
 EV::Nats::KV                      undef  E/EG/EGOR/EV-Nats-0.05.tar.gz
 EV::Nats::ObjectStore             undef  E/EG/EGOR/EV-Nats-0.05.tar.gz
 EV::Periodic                      undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
-EV::Pg                             0.08  E/EG/EGOR/EV-Pg-0.08.tar.gz
+EV::Pg                             0.09  E/EG/EGOR/EV-Pg-0.09.tar.gz
 EV::Prepare                       undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Redis                          0.16  E/EG/EGOR/EV-Redis-0.16.tar.gz
 EV::Signal                        undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
@@ -129837,8 +129837,8 @@ Medical::OPCS4::Graph             undef  S/SD/SDEN/Medical-OPCS4-0.003.tar.gz
 Medical::OPCS4::Parser            undef  S/SD/SDEN/Medical-OPCS4-0.003.tar.gz
 Medical::OPCS4::Term              undef  S/SD/SDEN/Medical-OPCS4-0.003.tar.gz
 MedlineAccessor                    1.02  L/LD/LDS/Boulder-1.30.tar.gz
-Medusa                             0.05  L/LN/LNATION/Medusa-0.05.tar.gz
-Medusa::Logger                    undef  L/LN/LNATION/Medusa-0.05.tar.gz
+Medusa                             0.06  L/LN/LNATION/Medusa-0.06.tar.gz
+Medusa::Logger                    undef  L/LN/LNATION/Medusa-0.06.tar.gz
 Medusa::XS                         0.02  L/LN/LNATION/Medusa-XS-0.02.tar.gz
 Medusa::XS::Logger                undef  L/LN/LNATION/Medusa-XS-0.02.tar.gz
 Meerkat                           0.016  D/DA/DAGOLDEN/Meerkat-0.016.tar.gz
