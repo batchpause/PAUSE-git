@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261456
-Last-Updated: Thu, 08 Oct 2026 11:29:02 GMT
+Last-Updated: Thu, 08 Oct 2026 12:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -229469,7 +229469,7 @@ Test::RestAPI::Endpoint           undef  J/JA/JASEI/Test-RestAPI-0.1.6.tar.gz
 Test::RestAPI::MojoGenerator      undef  J/JA/JASEI/Test-RestAPI-0.1.6.tar.gz
 Test::Resub                        2.03  K/KO/KOLYA/Test-Resub-2.03.tar.gz
 Test::Retry                        0.01  M/MO/MOTEMEN/Test-Retry-0.01.tar.gz
-Test::Returns                      0.04  N/NH/NHORNE/Test-Returns-0.04.tar.gz
+Test::Returns                      0.05  N/NH/NHORNE/Test-Returns-0.05.tar.gz
 Test::Reuse                       0.001  B/BR/BRADH/Test-Reuse-0.001.tar.gz
 Test::Rinci                       0.156  P/PE/PERLANCAR/Test-Rinci-0.156.tar.gz
 Test::Rinci::CmdLine              0.001  P/PE/PERLANCAR/Test-Rinci-CmdLine-0.001.tar.gz
