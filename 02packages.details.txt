@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261456
-Last-Updated: Thu, 08 Oct 2026 14:54:06 GMT
+Last-Updated: Thu, 08 Oct 2026 15:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -32736,23 +32736,23 @@ Callable                           0.02  A/AL/ALTOMRU/Callable-0.02.tar.gz
 Callback                           1.07  M/MU/MUIR/modules/Callback-1.07.tar.gz
 Callback::Cleanup                  0.03  N/NU/NUFFIN/Callback-Cleanup-0.03.tar.gz
 Callback::Frame                   1.102  F/FR/FRACTAL/Callback-Frame-1.102.tar.gz
-CallBackery                    0.061000  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::Config               undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::Controller::RpcService undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::Database             undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::Exception            undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::GuiPlugin::Abstract  undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::GuiPlugin::AbstractAction undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::GuiPlugin::AbstractCardlist undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::GuiPlugin::AbstractForm undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::GuiPlugin::AbstractHtml undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::GuiPlugin::AbstractTable undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::GuiPlugin::UserForm  undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::GuiPlugin::Users     undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::Model::ConfigJsonSchema undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::Plugin::Doc          undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::Translate            undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
-CallBackery::User                 undef  O/OE/OETIKER/CallBackery-0.61.0.tar.gz
+CallBackery                    0.061001  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::Config               undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::Controller::RpcService undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::Database             undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::Exception            undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::GuiPlugin::Abstract  undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::GuiPlugin::AbstractAction undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::GuiPlugin::AbstractCardlist undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::GuiPlugin::AbstractForm undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::GuiPlugin::AbstractHtml undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::GuiPlugin::AbstractTable undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::GuiPlugin::UserForm  undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::GuiPlugin::Users     undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::Model::ConfigJsonSchema undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::Plugin::Doc          undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::Translate            undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
+CallBackery::User                 undef  O/OE/OETIKER/CallBackery-0.61.1.tar.gz
 callee                         1.100820  M/MA/MARCEL/callee-1.100820.tar.gz
 Caller::Easy                       0.03  W/WO/WORTHMINE/Caller-Easy-0.03.tar.gz
 Caller::Hide                   0.000001  S/SN/SNEZ/Caller-Hide-v0.0.1.tar.gz
