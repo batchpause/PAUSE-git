@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261469
-Last-Updated: Thu, 08 Oct 2026 20:54:17 GMT
+Last-Updated: Thu, 08 Oct 2026 21:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -128114,7 +128114,7 @@ Math::Cephes::Matrix             0.5308  S/SH/SHLOMIF/Math-Cephes-0.5308.tar.gz
 Math::Cephes::Polynomial         0.5308  S/SH/SHLOMIF/Math-Cephes-0.5308.tar.gz
 Math::Cephesc                    0.5308  S/SH/SHLOMIF/Math-Cephes-0.5308.tar.gz
 Math::CheckDigits                  0.05  S/SO/SONGMU/Math-CheckDigits-0.05.tar.gz
-Math::Clipper                      1.29  S/SH/SHELDRAKE/Math-Clipper-1.29.tar.gz
+Math::Clipper                      1.30  S/SM/SMUELLER/Math-Clipper-1.30.tar.gz
 Math::CMA                           0.1  B/BJ/BJOERN/Math-CMA-0.1.tar.gz
 Math::Combinatorics                0.09  A/AL/ALLENDAY/Math-Combinatorics-0.09.tar.gz
 Math::Complex                      1.59  Z/ZE/ZEFRAM/Math-Complex-1.59.tar.gz
@@ -129289,10 +129289,10 @@ Math::SymbolicX::NoSimplification  1.01  S/SM/SMUELLER/Math-SymbolicX-NoSimplifi
 Math::SymbolicX::ParserExtensionFactory 3.02  S/SM/SMUELLER/Math-SymbolicX-ParserExtensionFactory-3.02.tar.gz
 Math::SymbolicX::Statistics::Distributions 1.02  S/SM/SMUELLER/Math-SymbolicX-Statistics-Distributions-1.02.tar.gz
 Math::Systems                      0.01  W/WI/WILL/Math-Systems-0.01.tar.gz
-Math::SZaru                        0.01  S/SM/SMUELLER/Math-SZaru-0.01.tar.gz
-Math::SZaru::QuantileEstimator        0  S/SM/SMUELLER/Math-SZaru-0.01.tar.gz
-Math::SZaru::TopEstimator             0  S/SM/SMUELLER/Math-SZaru-0.01.tar.gz
-Math::SZaru::UniqueEstimator          0  S/SM/SMUELLER/Math-SZaru-0.01.tar.gz
+Math::SZaru                        0.02  S/SM/SMUELLER/Math-SZaru-0.02.tar.gz
+Math::SZaru::QuantileEstimator    undef  S/SM/SMUELLER/Math-SZaru-0.02.tar.gz
+Math::SZaru::TopEstimator         undef  S/SM/SMUELLER/Math-SZaru-0.02.tar.gz
+Math::SZaru::UniqueEstimator      undef  S/SM/SMUELLER/Math-SZaru-0.02.tar.gz
 Math::TamuAnova                1.000002  V/VD/VDANJEAN/Math-TamuAnova-1.0.2.tar.gz
 Math::Tau                         undef  C/CH/CHEN/Math-Tau-1.003.tar.gz
 Math::Taylor                       1.00  S/SM/SMUELLER/Math-Taylor-1.00.tar.gz
