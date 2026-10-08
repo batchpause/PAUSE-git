@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261469
-Last-Updated: Thu, 08 Oct 2026 20:29:02 GMT
+Last-Updated: Thu, 08 Oct 2026 20:54:17 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -51670,7 +51670,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressi
 Cucumber::TagExpressions::Node  v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressions-11.0.1.tar.gz
 Cucumber::TagExpressions::NotNode v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressions-11.0.1.tar.gz
 Cucumber::TagExpressions::OrNode v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressions-11.0.1.tar.gz
-Cucumber::Test::Release::Automation undef  C/CU/CUKEBOT/Cucumber-Test-Release-Automation-v0.0.158.tar.gz
+Cucumber::Test::Release::Automation undef  C/CU/CUKEBOT/Cucumber-Test-Release-Automation-v0.0.159.tar.gz
 CUI                               undef  A/AY/AYMULYAR/SemMed-Interface-0.05.tar.gz
 Curia                               1.0  M/MI/MIKIO/qdbm-perl-1.8.14.tar.gz
 Curl::Impersonate                  0.02  E/EG/EGOR/Curl-Impersonate-0.02.tar.gz
@@ -75563,19 +75563,19 @@ ExtUtils::SVDmaker                 1.12  S/SO/SOFTDIA/ExtUtils-SVDmaker-0.10.tar
 ExtUtils::TBone                   1.124  E/ER/ERYQ/ExtUtils-TBone-1.124.tar.gz
 ExtUtils::testlib                  7.78  B/BI/BINGOS/ExtUtils-MakeMaker-7.78.tar.gz
 ExtUtils::Typemap                  1.00  S/SM/SMUELLER/ExtUtils-Typemap-1.00.tar.gz
-ExtUtils::Typemap::Basic           1.05  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.05.tar.gz
-ExtUtils::Typemap::Default         1.05  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.05.tar.gz
+ExtUtils::Typemap::Basic           1.06  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.06.tar.gz
+ExtUtils::Typemap::Default         1.06  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.06.tar.gz
 ExtUtils::Typemap::InputMap        1.00  S/SM/SMUELLER/ExtUtils-Typemap-1.00.tar.gz
-ExtUtils::Typemap::ObjectMap       1.05  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.05.tar.gz
+ExtUtils::Typemap::ObjectMap       1.06  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.06.tar.gz
 ExtUtils::Typemap::OutputMap       1.00  S/SM/SMUELLER/ExtUtils-Typemap-1.00.tar.gz
-ExtUtils::Typemap::STL             1.05  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.05.tar.gz
-ExtUtils::Typemap::STL::String     1.05  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.05.tar.gz
-ExtUtils::Typemap::STL::Vector     1.05  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.05.tar.gz
+ExtUtils::Typemap::STL             1.06  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.06.tar.gz
+ExtUtils::Typemap::STL::String     1.06  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.06.tar.gz
+ExtUtils::Typemap::STL::Vector     1.06  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.06.tar.gz
 ExtUtils::Typemap::Type            1.00  S/SM/SMUELLER/ExtUtils-Typemap-1.00.tar.gz
 ExtUtils::Typemaps                 3.64  L/LE/LEONT/ExtUtils-ParseXS-3.64.tar.gz
-ExtUtils::Typemaps::Basic          1.05  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.05.tar.gz
+ExtUtils::Typemaps::Basic          1.06  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.06.tar.gz
 ExtUtils::Typemaps::Cmd            3.64  L/LE/LEONT/ExtUtils-ParseXS-3.64.tar.gz
-ExtUtils::Typemaps::Default        1.05  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.05.tar.gz
+ExtUtils::Typemaps::Default        1.06  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.06.tar.gz
 ExtUtils::Typemaps::Excommunicated 0.01  S/SM/SMUELLER/ExtUtils-Typemaps-Excommunicated-0.01.tar.gz
 ExtUtils::Typemaps::InputMap       3.64  L/LE/LEONT/ExtUtils-ParseXS-3.64.tar.gz
 ExtUtils::Typemaps::IntObj        0.004  L/LE/LEONT/ExtUtils-Typemaps-Misc-0.004.tar.gz
@@ -75583,7 +75583,7 @@ ExtUtils::Typemaps::Magic         0.010  L/LE/LEONT/ExtUtils-Typemaps-Magic-0.01
 ExtUtils::Typemaps::MagicBuf      0.010  L/LE/LEONT/ExtUtils-Typemaps-Magic-0.010.tar.gz
 ExtUtils::Typemaps::MagicExt      0.010  L/LE/LEONT/ExtUtils-Typemaps-Magic-0.010.tar.gz
 ExtUtils::Typemaps::Misc          0.004  L/LE/LEONT/ExtUtils-Typemaps-Misc-0.004.tar.gz
-ExtUtils::Typemaps::ObjectMap      1.05  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.05.tar.gz
+ExtUtils::Typemaps::ObjectMap      1.06  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.06.tar.gz
 ExtUtils::Typemaps::OpaqueObj     0.004  L/LE/LEONT/ExtUtils-Typemaps-Misc-0.004.tar.gz
 ExtUtils::Typemaps::OutputMap      3.64  L/LE/LEONT/ExtUtils-ParseXS-3.64.tar.gz
 ExtUtils::Typemaps::PackedVal     0.004  L/LE/LEONT/ExtUtils-Typemaps-Misc-0.004.tar.gz
@@ -75591,11 +75591,11 @@ ExtUtils::Typemaps::Signal        0.009  L/LE/LEONT/ExtUtils-Typemaps-Signal-0.0
 ExtUtils::Typemaps::Signo         0.009  L/LE/LEONT/ExtUtils-Typemaps-Signal-0.009.tar.gz
 ExtUtils::Typemaps::SigSet        0.009  L/LE/LEONT/ExtUtils-Typemaps-Signal-0.009.tar.gz
 ExtUtils::Typemaps::Slurp         0.004  L/LE/LEONT/ExtUtils-Typemaps-Misc-0.004.tar.gz
-ExtUtils::Typemaps::STL            1.05  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.05.tar.gz
+ExtUtils::Typemaps::STL            1.06  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.06.tar.gz
 ExtUtils::Typemaps::STL::Extra     0.01  P/PA/PABLROD/ExtUtils-Typemaps-STL-Extra-0.001.tar.gz
-ExtUtils::Typemaps::STL::List      1.05  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.05.tar.gz
-ExtUtils::Typemaps::STL::String    1.05  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.05.tar.gz
-ExtUtils::Typemaps::STL::Vector    1.05  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.05.tar.gz
+ExtUtils::Typemaps::STL::List      1.06  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.06.tar.gz
+ExtUtils::Typemaps::STL::String    1.06  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.06.tar.gz
+ExtUtils::Typemaps::STL::Vector    1.06  S/SM/SMUELLER/ExtUtils-Typemaps-Default-1.06.tar.gz
 ExtUtils::Typemaps::TimeSpec      0.009  L/LE/LEONT/ExtUtils-Typemaps-Signal-0.009.tar.gz
 ExtUtils::Typemaps::Type           3.64  L/LE/LEONT/ExtUtils-ParseXS-3.64.tar.gz
 ExtUtils::XSBuilder                0.28  G/GR/GRICHTER/ExtUtils-XSBuilder-0.28.tar.gz
