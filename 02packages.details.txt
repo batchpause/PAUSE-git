@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261457
-Last-Updated: Thu, 08 Oct 2026 17:17:02 GMT
+Last-Updated: Thu, 08 Oct 2026 17:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -212723,7 +212723,7 @@ Shadowd::Connector                  2.0  Z/ZI/ZITHB/Shadowd-Connector-2.0.0.tar.
 Shadowd::Connector::CGI             2.0  Z/ZI/ZITHB/Shadowd-Connector-2.0.0.tar.gz
 Shadowd::Connector::Mojolicious     2.0  Z/ZI/ZITHB/Shadowd-Connector-2.0.0.tar.gz
 Shannon::Entropy                   1.12  L/LN/LNATION/Shannon-Entropy-1.12.tar.gz
-Shannon::Entropy::XS               1.16  L/LN/LNATION/Shannon-Entropy-XS-1.16.tar.gz
+Shannon::Entropy::XS               1.17  L/LN/LNATION/Shannon-Entropy-XS-1.17.tar.gz
 Shape::RegularPolygon              0.01  K/KZ/KZTOMITA/Shape-RegularPolygon-0.01.tar.gz
 Shardcache::Client                 0.05  X/XA/XANT/Shardcache-Client-0.05.tar.gz
 Shardcache::Client::Fast           0.20  X/XA/XANT/Shardcache-Client-Fast-0.20.tar.gz
