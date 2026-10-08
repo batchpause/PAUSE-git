@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261457
-Last-Updated: Thu, 08 Oct 2026 17:54:17 GMT
+Line-Count:   261458
+Last-Updated: Thu, 08 Oct 2026 18:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -129839,8 +129839,8 @@ Medical::OPCS4::Term              undef  S/SD/SDEN/Medical-OPCS4-0.003.tar.gz
 MedlineAccessor                    1.02  L/LD/LDS/Boulder-1.30.tar.gz
 Medusa                             0.06  L/LN/LNATION/Medusa-0.06.tar.gz
 Medusa::Logger                    undef  L/LN/LNATION/Medusa-0.06.tar.gz
-Medusa::XS                         0.02  L/LN/LNATION/Medusa-XS-0.02.tar.gz
-Medusa::XS::Logger                undef  L/LN/LNATION/Medusa-XS-0.02.tar.gz
+Medusa::XS                         0.03  L/LN/LNATION/Medusa-XS-0.03.tar.gz
+Medusa::XS::Logger                undef  L/LN/LNATION/Medusa-XS-0.03.tar.gz
 Meerkat                           0.016  D/DA/DAGOLDEN/Meerkat-0.016.tar.gz
 Meerkat::Collection               0.016  D/DA/DAGOLDEN/Meerkat-0.016.tar.gz
 Meerkat::Cursor                   0.016  D/DA/DAGOLDEN/Meerkat-0.016.tar.gz
@@ -190871,6 +190871,7 @@ Perl::Critic::Compatibility       1.001  E/EL/ELLIOTJS/Perl-Critic-Compatibility
 Perl::Critic::Config              1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Dancer2            0.4100  G/GE/GEEKRUTH/Perl-Critic-Dancer2-0.4100.tar.gz
 Perl::Critic::Deprecated          1.119  T/TH/THALJEF/Perl-Critic-Deprecated-1.119.tar.gz
+Perl::Critic::Distribution        0.001  T/TE/TEODESIAN/Perl-Critic-Distribution-0.001.tar.gz
 Perl::Critic::Document            1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Dynamic              0.05  T/TH/THALJEF/Perl-Critic-Dynamic-0.05.tar.gz
 Perl::Critic::DynamicPolicy        0.05  T/TH/THALJEF/Perl-Critic-Dynamic-0.05.tar.gz
