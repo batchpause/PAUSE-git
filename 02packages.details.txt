@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261456
-Last-Updated: Thu, 08 Oct 2026 13:54:12 GMT
+Last-Updated: Thu, 08 Oct 2026 14:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -74555,7 +74555,7 @@ EV::Nats::ObjectStore             undef  E/EG/EGOR/EV-Nats-0.05.tar.gz
 EV::Periodic                      undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Pg                             0.08  E/EG/EGOR/EV-Pg-0.08.tar.gz
 EV::Prepare                       undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
-EV::Redis                          0.15  E/EG/EGOR/EV-Redis-0.15.tar.gz
+EV::Redis                          0.16  E/EG/EGOR/EV-Redis-0.16.tar.gz
 EV::Signal                        undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Stat                          undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Telegram::TDLib                0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
