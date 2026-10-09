@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261489
-Last-Updated: Fri, 09 Oct 2026 14:54:24 GMT
+Line-Count:   261493
+Last-Updated: Fri, 09 Oct 2026 15:17:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -107944,11 +107944,12 @@ IO::Compress                      2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Adapter::Bzip2      2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Adapter::Deflate    2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Adapter::Identity   2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
-IO::Compress::Adapter::Lzip       2.224  P/PM/PMQS/IO-Compress-Lzma-2.224.tar.gz
-IO::Compress::Adapter::Lzma       2.224  P/PM/PMQS/IO-Compress-Lzma-2.224.tar.gz
+IO::Compress::Adapter::Lzf        2.225  P/PM/PMQS/IO-Compress-Lzf-2.225.tar.gz
+IO::Compress::Adapter::Lzip       2.225  P/PM/PMQS/IO-Compress-Lzma-2.225.tar.gz
+IO::Compress::Adapter::Lzma       2.225  P/PM/PMQS/IO-Compress-Lzma-2.225.tar.gz
 IO::Compress::Adapter::LZO        2.224  P/PM/PMQS/IO-Compress-Lzop-2.224.tar.gz
-IO::Compress::Adapter::Xz         2.224  P/PM/PMQS/IO-Compress-Lzma-2.224.tar.gz
-IO::Compress::Adapter::Zstd       2.224  P/PM/PMQS/IO-Compress-Zstd-2.224.tar.gz
+IO::Compress::Adapter::Xz         2.225  P/PM/PMQS/IO-Compress-Lzma-2.225.tar.gz
+IO::Compress::Adapter::Zstd       2.225  P/PM/PMQS/IO-Compress-Zstd-2.225.tar.gz
 IO::Compress::Base                2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Base::Common        2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Brotli              0.022  T/TI/TIMLEGGE/IO-Compress-Brotli-0.022.tar.gz
@@ -107956,17 +107957,18 @@ IO::Compress::Bzip2               2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Deflate             2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Gzip                2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Gzip::Constants     2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
-IO::Compress::Lzip                2.224  P/PM/PMQS/IO-Compress-Lzma-2.224.tar.gz
-IO::Compress::Lzma                2.224  P/PM/PMQS/IO-Compress-Lzma-2.224.tar.gz
+IO::Compress::Lzf                 2.225  P/PM/PMQS/IO-Compress-Lzf-2.225.tar.gz
+IO::Compress::Lzip                2.225  P/PM/PMQS/IO-Compress-Lzma-2.225.tar.gz
+IO::Compress::Lzma                2.225  P/PM/PMQS/IO-Compress-Lzma-2.225.tar.gz
 IO::Compress::Lzop                2.224  P/PM/PMQS/IO-Compress-Lzop-2.224.tar.gz
 IO::Compress::Lzop::Constants     2.224  P/PM/PMQS/IO-Compress-Lzop-2.224.tar.gz
 IO::Compress::RawDeflate          2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
-IO::Compress::Xz                  2.224  P/PM/PMQS/IO-Compress-Lzma-2.224.tar.gz
+IO::Compress::Xz                  2.225  P/PM/PMQS/IO-Compress-Lzma-2.225.tar.gz
 IO::Compress::Zip                 2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Zip::Constants      2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Zlib::Constants     2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Zlib::Extra         2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
-IO::Compress::Zstd                2.224  P/PM/PMQS/IO-Compress-Zstd-2.224.tar.gz
+IO::Compress::Zstd                2.225  P/PM/PMQS/IO-Compress-Zstd-2.225.tar.gz
 IO::CSVHeaderFile                  0.04  V/VA/VASEK/IO-CSVHeaderFile-0.04.tar.gz
 IO::DB                              0.1  D/DB/DBIALAC/SDP/SDP-0.1.tar.gz
 IO::Default                        1.03  N/NW/NWIGER/IO-Default-1.03.tar.gz
@@ -110586,11 +110588,12 @@ IO::Tty::Util                      0.03  P/PA/PATL/IO-Tty-Util-0.03.tar.gz
 IO::Uncompress::Adapter::Bunzip2  2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Uncompress::Adapter::Identity 2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Uncompress::Adapter::Inflate  2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
+IO::Uncompress::Adapter::Lzf      2.225  P/PM/PMQS/IO-Compress-Lzf-2.225.tar.gz
 IO::Uncompress::Adapter::LZO      2.224  P/PM/PMQS/IO-Compress-Lzop-2.224.tar.gz
-IO::Uncompress::Adapter::UnLzip   2.224  P/PM/PMQS/IO-Compress-Lzma-2.224.tar.gz
-IO::Uncompress::Adapter::UnLzma   2.224  P/PM/PMQS/IO-Compress-Lzma-2.224.tar.gz
-IO::Uncompress::Adapter::UnXz     2.224  P/PM/PMQS/IO-Compress-Lzma-2.224.tar.gz
-IO::Uncompress::Adapter::UnZstd   2.224  P/PM/PMQS/IO-Compress-Zstd-2.224.tar.gz
+IO::Uncompress::Adapter::UnLzip   2.225  P/PM/PMQS/IO-Compress-Lzma-2.225.tar.gz
+IO::Uncompress::Adapter::UnLzma   2.225  P/PM/PMQS/IO-Compress-Lzma-2.225.tar.gz
+IO::Uncompress::Adapter::UnXz     2.225  P/PM/PMQS/IO-Compress-Lzma-2.225.tar.gz
+IO::Uncompress::Adapter::UnZstd   2.225  P/PM/PMQS/IO-Compress-Zstd-2.225.tar.gz
 IO::Uncompress::AnyInflate        2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Uncompress::AnyUncompress     2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Uncompress::Base              2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
@@ -110599,13 +110602,14 @@ IO::Uncompress::Bunzip2           2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Uncompress::Gunzip            2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Uncompress::Inflate           2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Uncompress::RawInflate        2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
-IO::Uncompress::UnLzip            2.224  P/PM/PMQS/IO-Compress-Lzma-2.224.tar.gz
-IO::Uncompress::UnLzma            2.224  P/PM/PMQS/IO-Compress-Lzma-2.224.tar.gz
+IO::Uncompress::UnLzf             2.225  P/PM/PMQS/IO-Compress-Lzf-2.225.tar.gz
+IO::Uncompress::UnLzip            2.225  P/PM/PMQS/IO-Compress-Lzma-2.225.tar.gz
+IO::Uncompress::UnLzma            2.225  P/PM/PMQS/IO-Compress-Lzma-2.225.tar.gz
 IO::Uncompress::UnLzop            2.224  P/PM/PMQS/IO-Compress-Lzop-2.224.tar.gz
 IO::Uncompress::Untar              1.02  C/CD/CDRAKE/IO-Uncompress-Untar-1.02.tar.gz
-IO::Uncompress::UnXz              2.224  P/PM/PMQS/IO-Compress-Lzma-2.224.tar.gz
+IO::Uncompress::UnXz              2.225  P/PM/PMQS/IO-Compress-Lzma-2.225.tar.gz
 IO::Uncompress::Unzip             2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
-IO::Uncompress::UnZstd            2.224  P/PM/PMQS/IO-Compress-Zstd-2.224.tar.gz
+IO::Uncompress::UnZstd            2.225  P/PM/PMQS/IO-Compress-Zstd-2.225.tar.gz
 IO::Unread                         1.04  B/BM/BMORROW/IO-Unread-1.04.tar.gz
 IO::Uring                         0.014  L/LE/LEONT/IO-Uring-0.014.tar.gz
 IO::Uring::BufferGroup            0.014  L/LE/LEONT/IO-Uring-0.014.tar.gz
