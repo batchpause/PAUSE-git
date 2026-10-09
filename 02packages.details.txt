@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261493
-Last-Updated: Fri, 09 Oct 2026 16:41:02 GMT
+Line-Count:   261504
+Last-Updated: Fri, 09 Oct 2026 17:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81548,24 +81548,24 @@ Game::Life::NDim::Board          v0.0.4  I/IV/IVANWILLS/Game-Life-NDim-v0.0.4.ta
 Game::Life::NDim::Dim            v0.0.4  I/IV/IVANWILLS/Game-Life-NDim-v0.0.4.tar.gz
 Game::Life::NDim::Life           v0.0.4  I/IV/IVANWILLS/Game-Life-NDim-v0.0.4.tar.gz
 Game::Lottery                      1.04  B/BR/BRAINBUZ/Game-Lottery-1.04.tar.gz
-Game::Mahjong                      0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Bot                 0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Decompose           0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Error               0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Fan                 0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Fans                0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Hand                0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Meld                0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Notation            0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Result              0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Rules               0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Score               0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Search              0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Shanten             0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Tally               0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Terminal            0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Tiles               0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
-Game::Mahjong::Wall                0.01  L/LN/LNATION/Game-Mahjong-0.01.tar.gz
+Game::Mahjong                      0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Bot                 0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Decompose           0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Error               0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Fan                 0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Fans                0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Hand                0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Meld                0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Notation            0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Result              0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Rules               0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Score               0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Search              0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Shanten             0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Tally               0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Terminal            0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Tiles               0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
+Game::Mahjong::Wall                0.02  L/LN/LNATION/Game-Mahjong-0.02.tar.gz
 Game::Marad                        0.07  J/JM/JMATES/Game-Marad-0.07.tar.gz
 Game::Merrills                     0.01  L/LN/LNATION/Game-Merrills-0.01.tar.gz
 Game::Merrills::Board              0.01  L/LN/LNATION/Game-Merrills-0.01.tar.gz
@@ -81609,6 +81609,17 @@ Game::Reversi::Scoring             0.01  L/LN/LNATION/Game-Reversi-0.01.tar.gz
 Game::Reversi::Terminal            0.01  L/LN/LNATION/Game-Reversi-0.01.tar.gz
 Game::RockPaperScissor             0.01  S/SP/SPAJAI/Game-RockPaperScissor-0.01.tar.gz
 Game::RockPaperScissorsLizardSpock 0.01  D/DM/DMUEY/Game-RockPaperScissorsLizardSpock-0.01.tar.gz
+Game::RoyalUr                      0.01  L/LN/LNATION/Game-RoyalUr-0.01.tar.gz
+Game::RoyalUr::Bot                 0.01  L/LN/LNATION/Game-RoyalUr-0.01.tar.gz
+Game::RoyalUr::Dice                0.01  L/LN/LNATION/Game-RoyalUr-0.01.tar.gz
+Game::RoyalUr::Engine              0.01  L/LN/LNATION/Game-RoyalUr-0.01.tar.gz
+Game::RoyalUr::Error               0.01  L/LN/LNATION/Game-RoyalUr-0.01.tar.gz
+Game::RoyalUr::Move                0.01  L/LN/LNATION/Game-RoyalUr-0.01.tar.gz
+Game::RoyalUr::Notation            0.01  L/LN/LNATION/Game-RoyalUr-0.01.tar.gz
+Game::RoyalUr::Result              0.01  L/LN/LNATION/Game-RoyalUr-0.01.tar.gz
+Game::RoyalUr::Rules               0.01  L/LN/LNATION/Game-RoyalUr-0.01.tar.gz
+Game::RoyalUr::Terminal            0.01  L/LN/LNATION/Game-RoyalUr-0.01.tar.gz
+Game::RoyalUr::Variant             0.01  L/LN/LNATION/Game-RoyalUr-0.01.tar.gz
 Game::Schnapsen                    0.01  L/LN/LNATION/Game-Schnapsen-0.01.tar.gz
 Game::Schnapsen::Bot               0.01  L/LN/LNATION/Game-Schnapsen-0.01.tar.gz
 Game::Schnapsen::Card              0.01  L/LN/LNATION/Game-Schnapsen-0.01.tar.gz
