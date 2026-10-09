@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261526
-Last-Updated: Fri, 09 Oct 2026 20:17:02 GMT
+Last-Updated: Fri, 09 Oct 2026 20:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -3649,7 +3649,7 @@ Algorithm::BIT2D::XS              0.003  M/MG/MGV/Algorithm-BIT-XS-0.003.tar.gz
 Algorithm::BIT::XS                0.003  M/MG/MGV/Algorithm-BIT-XS-0.003.tar.gz
 Algorithm::Bitonic::Sort           0.06  B/BL/BLUET/Algorithm-Bitonic-Sort-0.06.tar.gz
 Algorithm::BitVector               1.26  A/AV/AVIKAK/Algorithm-BitVector-1.26.tar.gz
-Algorithm::BloomFilter             0.02  S/SM/SMUELLER/Algorithm-BloomFilter-0.02.tar.gz
+Algorithm::BloomFilter             0.03  S/SM/SMUELLER/Algorithm-BloomFilter-0.03.tar.gz
 Algorithm::BoostedDecisionTree     3.43  A/AV/AVIKAK/Algorithm-DecisionTree-3.43.tar.gz
 Algorithm::BreakOverlappingRectangles 0.01  S/SA/SALVA/Algorithm-BreakOverlappingRectangles-0.01.tar.gz
 Algorithm::BreakOverlappingRectangles::Iterator 0.01  S/SA/SALVA/Algorithm-BreakOverlappingRectangles-0.01.tar.gz
