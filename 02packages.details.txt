@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261486
-Last-Updated: Fri, 09 Oct 2026 12:54:18 GMT
+Line-Count:   261489
+Last-Updated: Fri, 09 Oct 2026 13:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -143827,7 +143827,10 @@ Net::BrowserID::Verify            0.003  C/CH/CHILTS/Net-BrowserID-Verify-0.003.
 Net::Bullfinch                     0.16  F/FL/FLORA/Net-Bullfinch-0.16.tar.gz
 Net::Bullfinch::Iterator           0.16  F/FL/FLORA/Net-Bullfinch-0.16.tar.gz
 Net::Calais                        1.02  A/AA/AAR/Net-Calais-1.02.tar.gz
+Net::CalDAV::FindEntry             0.01  C/CO/CORION/Net-CalDAV-FindEntry-0.01.tar.gz
+Net::CalDAV::Utils                 0.01  C/CO/CORION/Net-CalDAV-FindEntry-0.01.tar.gz
 Net::CalDAVTalk                    0.18  B/BR/BRONG/Net-CalDAVTalk-0.18.tar.gz
+Net::CalDAVTalk::Extended          0.01  C/CO/CORION/Net-CalDAV-FindEntry-0.01.tar.gz
 Net::CalDAVTalk::TimeZones        undef  B/BR/BRONG/Net-CalDAVTalk-0.18.tar.gz
 Net::Camera::Edimax::IC1500       1.008  M/ME/MEH/Net-Camera-Edimax-IC1500-1.008.tar.gz
 Net::Camera::Sercomm::ICamera2     0.02  M/MR/MRDVT/Net-Camera-Sercomm-ICamera2-0.02.tar.gz
