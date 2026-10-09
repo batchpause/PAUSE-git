@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261506
-Last-Updated: Fri, 09 Oct 2026 17:54:31 GMT
+Line-Count:   261507
+Last-Updated: Fri, 09 Oct 2026 18:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -137189,8 +137189,9 @@ Monitoring::Reporter::Web::Plugin::Demo 0.01  T/TE/TEX/Monitoring-Reporter-0.01.
 Monitoring::Reporter::Web::Plugin::History 0.01  T/TE/TEX/Monitoring-Reporter-0.01.tar.gz
 Monitoring::Reporter::Web::Plugin::List 0.01  T/TE/TEX/Monitoring-Reporter-0.01.tar.gz
 Monitoring::Reporter::Web::Plugin::Selftest 0.01  T/TE/TEX/Monitoring-Reporter-0.01.tar.gz
-Monitoring::Sneck              1.004002  V/VV/VVELOX/Monitoring-Sneck-1.4.2.tar.gz
+Monitoring::Sneck              1.005000  V/VV/VVELOX/Monitoring-Sneck-1.5.0.tar.gz
 Monitoring::Sneck::Boop_Snoot  0.002000  V/VV/VVELOX/Monitoring-Sneck-Boop_Snoot-0.2.0.tar.gz
+Monitoring::Sneck::Config      1.005000  V/VV/VVELOX/Monitoring-Sneck-1.5.0.tar.gz
 Monitoring::Spooler                0.05  T/TE/TEX/Monitoring-Spooler-0.05.tar.gz
 Monitoring::Spooler::Cmd           0.05  T/TE/TEX/Monitoring-Spooler-0.05.tar.gz
 Monitoring::Spooler::Cmd::Command  0.05  T/TE/TEX/Monitoring-Spooler-0.05.tar.gz
