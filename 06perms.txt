@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668604
+Line-Count:  668605
 Written-By:  PAUSE version 1.005
-Date:        Fri, 09 Oct 2026 06:42:15 GMT
+Date:        Fri, 09 Oct 2026 12:55:45 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -541654,6 +541654,7 @@ Pheno::Ranker::IO,MRUEDA,f
 Pheno::Ranker::Metrics,MRUEDA,f
 Pheno::Ranker::Options,MRUEDA,f
 Pheno::Ranker::Stats,MRUEDA,f
+Pheno::Ranker::Version,MRUEDA,f
 Phenona,DKU,f
 Phenona::Deploy,DKU,f
 Phenyx::Utils,ALEXMASS,f
