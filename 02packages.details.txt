@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261531
-Last-Updated: Fri, 09 Oct 2026 21:17:01 GMT
+Line-Count:   261530
+Last-Updated: Fri, 09 Oct 2026 21:54:32 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -148603,7 +148603,6 @@ Net::Radius::Server::Set::Replace 1.075  L/LU/LUISMUNOZ/Net-Radius-Server-1.116.
 Net::Radius::Server::Set::Simple  1.075  L/LU/LUISMUNOZ/Net-Radius-Server-1.116.tar.gz
 Net::Radius::SSG                   0.04  C/CM/CMYERS/Net-Radius-SSG-0.04.tar.gz
 Net::RADSWrappers                  0.01  D/DE/DEANF/Net-RADSWrappers-0.01.tgz
-Net::Random                        2.33  D/DC/DCANTRELL/Net-Random-2.33.tar.gz
 Net::Random::QRBG                  0.02  B/BG/BGARBER/Net-Random-QRBG-0.02.tar.gz
 Net::RawIP                         0.25  S/SA/SAPER/Net-RawIP-0.25.tar.gz
 Net::RawIP::ethhdr                 0.24  S/SA/SAPER/Net-RawIP-0.25.tar.gz
