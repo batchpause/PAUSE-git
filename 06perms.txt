@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668595
+Line-Count:  668604
 Written-By:  PAUSE version 1.005
-Date:        Fri, 09 Oct 2026 05:18:11 GMT
+Date:        Fri, 09 Oct 2026 06:42:15 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -153100,6 +153100,15 @@ Game::Battleship::Craft,GENE,f
 Game::Battleship::Grid,GENE,f
 Game::Battleship::Player,GENE,f
 Game::BeyondMath24,CHENYR,c
+Game::Brandubh,LNATION,f
+Game::Brandubh::Bot,LNATION,f
+Game::Brandubh::Engine,LNATION,f
+Game::Brandubh::Error,LNATION,f
+Game::Brandubh::Notation,LNATION,f
+Game::Brandubh::Result,LNATION,f
+Game::Brandubh::Rules,LNATION,f
+Game::Brandubh::Terminal,LNATION,f
+Game::Brandubh::Variant,LNATION,f
 Game::CharacterSheetGenerator,SCHROEDER,f
 Game::CharacterSheetGenerator::Command::multiple,SCHROEDER,f
 Game::CharacterSheetGenerator::Command::random,SCHROEDER,f
