@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261489
-Last-Updated: Fri, 09 Oct 2026 13:41:02 GMT
+Last-Updated: Fri, 09 Oct 2026 13:54:41 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -47043,12 +47043,12 @@ Compress::LZW::Decompressor        0.04  M/MH/MHOWARD/Compress-LZW-0.04.tar.gz
 Compress::LZW::Progressive        0.102  E/EW/EWATERS/Compress-LZW-Progressive-0.102.tar.gz
 Compress::LZW::Progressive::Dict    0.1  E/EW/EWATERS/Compress-LZW-Progressive-0.102.tar.gz
 Compress::Raw::Bunzip2            2.005  P/PM/PMQS/Compress-Raw-Bzip2-2.005.tar.gz
-Compress::Raw::Bzip2              2.224  P/PM/PMQS/Compress-Raw-Bzip2-2.224.tar.gz
+Compress::Raw::Bzip2              2.225  P/PM/PMQS/Compress-Raw-Bzip2-2.225.tar.gz
 Compress::Raw::Lzma               2.224  P/PM/PMQS/Compress-Raw-Lzma-2.224.tar.gz
 Compress::Raw::Lzma::Decoder      undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 Compress::Raw::Lzma::Encoder      undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 Compress::Raw::Lzma::Options      undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
-Compress::Raw::Zlib               2.224  P/PM/PMQS/Compress-Raw-Zlib-2.224.tar.gz
+Compress::Raw::Zlib               2.225  P/PM/PMQS/Compress-Raw-Zlib-2.225.tar.gz
 Compress::SelfExtracting           0.04  S/SE/SEANO/Compress-SelfExtracting-0.04.tgz
 Compress::SelfExtracting::Filter  undef  S/SE/SEANO/Compress-SelfExtracting-0.04.tgz
 Compress::SelfExtracting::LZ77     0.04  S/SE/SEANO/Compress-SelfExtracting-0.04.tgz
