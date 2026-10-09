@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261485
-Last-Updated: Fri, 09 Oct 2026 07:17:02 GMT
+Last-Updated: Fri, 09 Oct 2026 07:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -234989,13 +234989,13 @@ Travel::Status::DE::URA::Result    2.01  D/DE/DERF/Travel-Status-DE-URA-2.01.tar
 Travel::Status::DE::URA::Stop      2.01  D/DE/DERF/Travel-Status-DE-URA-2.01.tar.gz
 Travel::Status::DE::VRR            3.21  D/DE/DERF/Travel-Status-DE-VRR-3.21.tar.gz
 Travel::Status::GB::TFL            2.01  D/DE/DERF/Travel-Status-DE-URA-2.01.tar.gz
-Travel::Status::MOTIS              0.05  D/DE/DERF/Travel-Status-MOTIS-0.05.tar.gz
-Travel::Status::MOTIS::Polyline    0.05  D/DE/DERF/Travel-Status-MOTIS-0.05.tar.gz
-Travel::Status::MOTIS::Services    0.05  D/DE/DERF/Travel-Status-MOTIS-0.05.tar.gz
-Travel::Status::MOTIS::Stop        0.05  D/DE/DERF/Travel-Status-MOTIS-0.05.tar.gz
-Travel::Status::MOTIS::Stopover    0.05  D/DE/DERF/Travel-Status-MOTIS-0.05.tar.gz
-Travel::Status::MOTIS::Trip        0.05  D/DE/DERF/Travel-Status-MOTIS-0.05.tar.gz
-Travel::Status::MOTIS::TripAtStopover 0.05  D/DE/DERF/Travel-Status-MOTIS-0.05.tar.gz
+Travel::Status::MOTIS              0.06  D/DE/DERF/Travel-Status-MOTIS-0.06.tar.gz
+Travel::Status::MOTIS::Polyline    0.06  D/DE/DERF/Travel-Status-MOTIS-0.06.tar.gz
+Travel::Status::MOTIS::Services    0.06  D/DE/DERF/Travel-Status-MOTIS-0.06.tar.gz
+Travel::Status::MOTIS::Stop        0.06  D/DE/DERF/Travel-Status-MOTIS-0.06.tar.gz
+Travel::Status::MOTIS::Stopover    0.06  D/DE/DERF/Travel-Status-MOTIS-0.06.tar.gz
+Travel::Status::MOTIS::Trip        0.06  D/DE/DERF/Travel-Status-MOTIS-0.06.tar.gz
+Travel::Status::MOTIS::TripAtStopover 0.06  D/DE/DERF/Travel-Status-MOTIS-0.06.tar.gz
 Traveller::Hex                    undef  S/SC/SCHROEDER/App-traveller-1.02.tar.gz
 Traveller::Mapper                 undef  S/SC/SCHROEDER/App-traveller-1.02.tar.gz
 Traveller::Mapper::Classic        undef  S/SC/SCHROEDER/App-traveller-1.02.tar.gz
