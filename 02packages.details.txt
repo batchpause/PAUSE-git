@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261507
-Last-Updated: Fri, 09 Oct 2026 19:17:02 GMT
+Line-Count:   261526
+Last-Updated: Fri, 09 Oct 2026 20:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -137189,9 +137189,9 @@ Monitoring::Reporter::Web::Plugin::Demo 0.01  T/TE/TEX/Monitoring-Reporter-0.01.
 Monitoring::Reporter::Web::Plugin::History 0.01  T/TE/TEX/Monitoring-Reporter-0.01.tar.gz
 Monitoring::Reporter::Web::Plugin::List 0.01  T/TE/TEX/Monitoring-Reporter-0.01.tar.gz
 Monitoring::Reporter::Web::Plugin::Selftest 0.01  T/TE/TEX/Monitoring-Reporter-0.01.tar.gz
-Monitoring::Sneck              1.005000  V/VV/VVELOX/Monitoring-Sneck-1.5.0.tar.gz
+Monitoring::Sneck              1.006000  V/VV/VVELOX/Monitoring-Sneck-1.6.0.tar.gz
 Monitoring::Sneck::Boop_Snoot  0.002000  V/VV/VVELOX/Monitoring-Sneck-Boop_Snoot-0.2.0.tar.gz
-Monitoring::Sneck::Config      1.005000  V/VV/VVELOX/Monitoring-Sneck-1.5.0.tar.gz
+Monitoring::Sneck::Config      1.006000  V/VV/VVELOX/Monitoring-Sneck-1.6.0.tar.gz
 Monitoring::Spooler                0.05  T/TE/TEX/Monitoring-Spooler-0.05.tar.gz
 Monitoring::Spooler::Cmd           0.05  T/TE/TEX/Monitoring-Spooler-0.05.tar.gz
 Monitoring::Spooler::Cmd::Command  0.05  T/TE/TEX/Monitoring-Spooler-0.05.tar.gz
@@ -152577,42 +152577,42 @@ Object::Recorder                   0.01  N/NI/NILSONSFJ/Object-Recorder-0.01.tar
 Object::Recorder::Storage          0.01  N/NI/NILSONSFJ/Object-Recorder-0.01.tar.gz
 Object::Registrar                  0.01  U/UA/UARUN/Object-Registrar-0.01.tar.gz
 Object::Releaser                   0.12  M/MI/MIKO/Object-Releaser-0.12.tar.gz
-Object::Remote                 0.005001  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::CodeContainer     undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Connection        undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::ConnectionServer  undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Connector::INET   undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Connector::Local  undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Connector::LocalSudo undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Connector::SSH    undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Connector::STDIO  undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Connector::UNIX   undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::FatNode           undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::FromData          undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Future            undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::GlobContainer     undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::GlobProxy         undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Handle            undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Logging           undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Logging::LogAnyInjector undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Logging::Logger   undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Logging::Router   undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Logging::TestLogger undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Loop              undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::MiniLoop          undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::ModuleLoader      undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::ModuleLoader::Hook undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::ModuleSender      undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Node              undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Null              undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Prompt            undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Proxy             undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::ReadChannel       undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Role::Connector   undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Role::Connector::PerlInterpreter undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Role::LogForwarder undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::Tied              undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
-Object::Remote::WatchDog          undef  E/EH/EHUELS/Object-Remote-0.005001.tar.gz
+Object::Remote                 0.005002  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::CodeContainer     undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Connection        undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::ConnectionServer  undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Connector::INET   undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Connector::Local  undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Connector::LocalSudo undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Connector::SSH    undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Connector::STDIO  undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Connector::UNIX   undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::FatNode           undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::FromData          undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Future            undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::GlobContainer     undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::GlobProxy         undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Handle            undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Logging           undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Logging::LogAnyInjector undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Logging::Logger   undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Logging::Router   undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Logging::TestLogger undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Loop              undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::MiniLoop          undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::ModuleLoader      undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::ModuleLoader::Hook undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::ModuleSender      undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Node              undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Null              undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Prompt            undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Proxy             undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::ReadChannel       undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Role::Connector   undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Role::Connector::PerlInterpreter undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Role::LogForwarder undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::Tied              undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote::WatchDog          undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
 Object::Result                 0.000003  D/DC/DCONWAY/Object-Result-0.000003.tar.gz
 Object::Result::Object         0.000003  D/DC/DCONWAY/Object-Result-0.000003.tar.gz
 Object::Signature                  1.08  E/ET/ETHER/Object-Signature-1.08.tar.gz
@@ -192508,6 +192508,25 @@ PersonName::Format::SurnameAllCapsName 0.001001  J/JD/JDEGUEST/PersonName-Format
 PersonVisitor                      0.13  B/BA/BAERGAJ/Shipment-0.13.tar.gz
 Perspective                           1  C/CE/CECALA/CECALA.tar.gz
 PESEL::Generator                   1.41  S/ST/STRZELEC/PESEL-Generator-1.41.tar.gz
+Peta::NN                       0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Backend              0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Backend::PDL         0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Backend::Plain       0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Backend::WebGPU      0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Chain                0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Codec                0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Data                 0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Fused                0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Inference            0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Job                  0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Layer::Activation    0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Layer::Dense         0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Layer::Embed         0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Model                0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Optimizer            0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Parallel             0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::Pipeline             0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::NN::RNG                  0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
 Petal                              2.26  N/NI/NINE/Petal-2.26.tar.gz
 Petal::Cache::Disk                undef  N/NI/NINE/Petal-2.26.tar.gz
 Petal::Cache::Memory              undef  N/NI/NINE/Petal-2.26.tar.gz

@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668622
+Line-Count:  668677
 Written-By:  PAUSE version 1.005
-Date:        Fri, 09 Oct 2026 18:17:17 GMT
+Date:        Fri, 09 Oct 2026 20:17:39 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -416470,6 +416470,7 @@ Object::Remote,ETHER,c
 Object::Remote,HAARG,f
 Object::Remote,JJNAPIORK,c
 Object::Remote,MITHALDU,c
+Object::Remote,MSTROUT,c
 Object::Remote,PHAYLON,c
 Object::Remote,VANSTYN,c
 Object::Remote::CodeContainer,BOBTFISH,c
@@ -416479,6 +416480,7 @@ Object::Remote::CodeContainer,ETHER,c
 Object::Remote::CodeContainer,HAARG,f
 Object::Remote::CodeContainer,JJNAPIORK,c
 Object::Remote::CodeContainer,MITHALDU,c
+Object::Remote::CodeContainer,MSTROUT,c
 Object::Remote::CodeContainer,PHAYLON,c
 Object::Remote::CodeContainer,VANSTYN,c
 Object::Remote::Connection,BOBTFISH,c
@@ -416488,6 +416490,7 @@ Object::Remote::Connection,ETHER,c
 Object::Remote::Connection,HAARG,f
 Object::Remote::Connection,JJNAPIORK,c
 Object::Remote::Connection,MITHALDU,c
+Object::Remote::Connection,MSTROUT,c
 Object::Remote::Connection,PHAYLON,c
 Object::Remote::Connection,VANSTYN,c
 Object::Remote::ConnectionServer,BOBTFISH,c
@@ -416497,6 +416500,7 @@ Object::Remote::ConnectionServer,ETHER,c
 Object::Remote::ConnectionServer,HAARG,f
 Object::Remote::ConnectionServer,JJNAPIORK,c
 Object::Remote::ConnectionServer,MITHALDU,c
+Object::Remote::ConnectionServer,MSTROUT,c
 Object::Remote::ConnectionServer,PHAYLON,c
 Object::Remote::ConnectionServer,VANSTYN,c
 Object::Remote::Connector::INET,BOBTFISH,c
@@ -416506,6 +416510,7 @@ Object::Remote::Connector::INET,ETHER,c
 Object::Remote::Connector::INET,HAARG,f
 Object::Remote::Connector::INET,JJNAPIORK,c
 Object::Remote::Connector::INET,MITHALDU,c
+Object::Remote::Connector::INET,MSTROUT,c
 Object::Remote::Connector::INET,PHAYLON,c
 Object::Remote::Connector::INET,VANSTYN,c
 Object::Remote::Connector::Local,BOBTFISH,c
@@ -416515,6 +416520,7 @@ Object::Remote::Connector::Local,ETHER,c
 Object::Remote::Connector::Local,HAARG,f
 Object::Remote::Connector::Local,JJNAPIORK,c
 Object::Remote::Connector::Local,MITHALDU,c
+Object::Remote::Connector::Local,MSTROUT,c
 Object::Remote::Connector::Local,PHAYLON,c
 Object::Remote::Connector::Local,VANSTYN,c
 Object::Remote::Connector::LocalSudo,BOBTFISH,c
@@ -416524,6 +416530,7 @@ Object::Remote::Connector::LocalSudo,ETHER,c
 Object::Remote::Connector::LocalSudo,HAARG,f
 Object::Remote::Connector::LocalSudo,JJNAPIORK,c
 Object::Remote::Connector::LocalSudo,MITHALDU,c
+Object::Remote::Connector::LocalSudo,MSTROUT,c
 Object::Remote::Connector::LocalSudo,PHAYLON,c
 Object::Remote::Connector::LocalSudo,VANSTYN,c
 Object::Remote::Connector::SSH,BOBTFISH,c
@@ -416533,6 +416540,7 @@ Object::Remote::Connector::SSH,ETHER,c
 Object::Remote::Connector::SSH,HAARG,f
 Object::Remote::Connector::SSH,JJNAPIORK,c
 Object::Remote::Connector::SSH,MITHALDU,c
+Object::Remote::Connector::SSH,MSTROUT,c
 Object::Remote::Connector::SSH,PHAYLON,c
 Object::Remote::Connector::SSH,VANSTYN,c
 Object::Remote::Connector::STDIO,BOBTFISH,c
@@ -416542,6 +416550,7 @@ Object::Remote::Connector::STDIO,ETHER,c
 Object::Remote::Connector::STDIO,HAARG,f
 Object::Remote::Connector::STDIO,JJNAPIORK,c
 Object::Remote::Connector::STDIO,MITHALDU,c
+Object::Remote::Connector::STDIO,MSTROUT,c
 Object::Remote::Connector::STDIO,PHAYLON,c
 Object::Remote::Connector::STDIO,VANSTYN,c
 Object::Remote::Connector::UNIX,BOBTFISH,c
@@ -416551,6 +416560,7 @@ Object::Remote::Connector::UNIX,ETHER,c
 Object::Remote::Connector::UNIX,HAARG,f
 Object::Remote::Connector::UNIX,JJNAPIORK,c
 Object::Remote::Connector::UNIX,MITHALDU,c
+Object::Remote::Connector::UNIX,MSTROUT,c
 Object::Remote::Connector::UNIX,PHAYLON,c
 Object::Remote::Connector::UNIX,VANSTYN,c
 Object::Remote::FatNode,BOBTFISH,c
@@ -416560,6 +416570,7 @@ Object::Remote::FatNode,ETHER,c
 Object::Remote::FatNode,HAARG,f
 Object::Remote::FatNode,JJNAPIORK,c
 Object::Remote::FatNode,MITHALDU,c
+Object::Remote::FatNode,MSTROUT,c
 Object::Remote::FatNode,PHAYLON,c
 Object::Remote::FatNode,VANSTYN,c
 Object::Remote::FromData,BOBTFISH,c
@@ -416569,6 +416580,7 @@ Object::Remote::FromData,ETHER,c
 Object::Remote::FromData,HAARG,f
 Object::Remote::FromData,JJNAPIORK,c
 Object::Remote::FromData,MITHALDU,c
+Object::Remote::FromData,MSTROUT,c
 Object::Remote::FromData,PHAYLON,c
 Object::Remote::FromData,VANSTYN,c
 Object::Remote::Future,BOBTFISH,c
@@ -416578,6 +416590,7 @@ Object::Remote::Future,ETHER,c
 Object::Remote::Future,HAARG,f
 Object::Remote::Future,JJNAPIORK,c
 Object::Remote::Future,MITHALDU,c
+Object::Remote::Future,MSTROUT,c
 Object::Remote::Future,PHAYLON,c
 Object::Remote::Future,VANSTYN,c
 Object::Remote::GlobContainer,BOBTFISH,c
@@ -416587,6 +416600,7 @@ Object::Remote::GlobContainer,ETHER,c
 Object::Remote::GlobContainer,HAARG,f
 Object::Remote::GlobContainer,JJNAPIORK,c
 Object::Remote::GlobContainer,MITHALDU,c
+Object::Remote::GlobContainer,MSTROUT,c
 Object::Remote::GlobContainer,PHAYLON,c
 Object::Remote::GlobContainer,VANSTYN,c
 Object::Remote::GlobProxy,BOBTFISH,c
@@ -416596,6 +416610,7 @@ Object::Remote::GlobProxy,ETHER,c
 Object::Remote::GlobProxy,HAARG,f
 Object::Remote::GlobProxy,JJNAPIORK,c
 Object::Remote::GlobProxy,MITHALDU,c
+Object::Remote::GlobProxy,MSTROUT,c
 Object::Remote::GlobProxy,PHAYLON,c
 Object::Remote::GlobProxy,VANSTYN,c
 Object::Remote::Handle,BOBTFISH,c
@@ -416605,6 +416620,7 @@ Object::Remote::Handle,ETHER,c
 Object::Remote::Handle,HAARG,f
 Object::Remote::Handle,JJNAPIORK,c
 Object::Remote::Handle,MITHALDU,c
+Object::Remote::Handle,MSTROUT,c
 Object::Remote::Handle,PHAYLON,c
 Object::Remote::Handle,VANSTYN,c
 Object::Remote::Logging,BOBTFISH,c
@@ -416614,6 +416630,7 @@ Object::Remote::Logging,ETHER,c
 Object::Remote::Logging,HAARG,f
 Object::Remote::Logging,JJNAPIORK,c
 Object::Remote::Logging,MITHALDU,c
+Object::Remote::Logging,MSTROUT,c
 Object::Remote::Logging,PHAYLON,c
 Object::Remote::Logging,VANSTYN,c
 Object::Remote::Logging::LogAnyInjector,BOBTFISH,c
@@ -416623,6 +416640,7 @@ Object::Remote::Logging::LogAnyInjector,ETHER,c
 Object::Remote::Logging::LogAnyInjector,HAARG,f
 Object::Remote::Logging::LogAnyInjector,JJNAPIORK,c
 Object::Remote::Logging::LogAnyInjector,MITHALDU,c
+Object::Remote::Logging::LogAnyInjector,MSTROUT,c
 Object::Remote::Logging::LogAnyInjector,PHAYLON,c
 Object::Remote::Logging::LogAnyInjector,VANSTYN,c
 Object::Remote::Logging::Logger,BOBTFISH,c
@@ -416632,6 +416650,7 @@ Object::Remote::Logging::Logger,ETHER,c
 Object::Remote::Logging::Logger,HAARG,f
 Object::Remote::Logging::Logger,JJNAPIORK,c
 Object::Remote::Logging::Logger,MITHALDU,c
+Object::Remote::Logging::Logger,MSTROUT,c
 Object::Remote::Logging::Logger,PHAYLON,c
 Object::Remote::Logging::Logger,VANSTYN,c
 Object::Remote::Logging::Router,BOBTFISH,c
@@ -416641,6 +416660,7 @@ Object::Remote::Logging::Router,ETHER,c
 Object::Remote::Logging::Router,HAARG,f
 Object::Remote::Logging::Router,JJNAPIORK,c
 Object::Remote::Logging::Router,MITHALDU,c
+Object::Remote::Logging::Router,MSTROUT,c
 Object::Remote::Logging::Router,PHAYLON,c
 Object::Remote::Logging::Router,VANSTYN,c
 Object::Remote::Logging::TestLogger,BOBTFISH,c
@@ -416650,6 +416670,7 @@ Object::Remote::Logging::TestLogger,ETHER,c
 Object::Remote::Logging::TestLogger,HAARG,f
 Object::Remote::Logging::TestLogger,JJNAPIORK,c
 Object::Remote::Logging::TestLogger,MITHALDU,c
+Object::Remote::Logging::TestLogger,MSTROUT,c
 Object::Remote::Logging::TestLogger,PHAYLON,c
 Object::Remote::Logging::TestLogger,VANSTYN,c
 Object::Remote::Loop,BOBTFISH,c
@@ -416659,6 +416680,7 @@ Object::Remote::Loop,ETHER,c
 Object::Remote::Loop,HAARG,f
 Object::Remote::Loop,JJNAPIORK,c
 Object::Remote::Loop,MITHALDU,c
+Object::Remote::Loop,MSTROUT,c
 Object::Remote::Loop,PHAYLON,c
 Object::Remote::Loop,VANSTYN,c
 Object::Remote::MiniLoop,BOBTFISH,c
@@ -416668,6 +416690,7 @@ Object::Remote::MiniLoop,ETHER,c
 Object::Remote::MiniLoop,HAARG,f
 Object::Remote::MiniLoop,JJNAPIORK,c
 Object::Remote::MiniLoop,MITHALDU,c
+Object::Remote::MiniLoop,MSTROUT,c
 Object::Remote::MiniLoop,PHAYLON,c
 Object::Remote::MiniLoop,VANSTYN,c
 Object::Remote::ModuleLoader,BOBTFISH,c
@@ -416677,6 +416700,7 @@ Object::Remote::ModuleLoader,ETHER,c
 Object::Remote::ModuleLoader,HAARG,f
 Object::Remote::ModuleLoader,JJNAPIORK,c
 Object::Remote::ModuleLoader,MITHALDU,c
+Object::Remote::ModuleLoader,MSTROUT,c
 Object::Remote::ModuleLoader,PHAYLON,c
 Object::Remote::ModuleLoader,VANSTYN,c
 Object::Remote::ModuleLoader::Hook,BOBTFISH,c
@@ -416686,6 +416710,7 @@ Object::Remote::ModuleLoader::Hook,ETHER,c
 Object::Remote::ModuleLoader::Hook,HAARG,f
 Object::Remote::ModuleLoader::Hook,JJNAPIORK,c
 Object::Remote::ModuleLoader::Hook,MITHALDU,c
+Object::Remote::ModuleLoader::Hook,MSTROUT,c
 Object::Remote::ModuleLoader::Hook,PHAYLON,c
 Object::Remote::ModuleLoader::Hook,VANSTYN,c
 Object::Remote::ModuleSender,BOBTFISH,c
@@ -416695,6 +416720,7 @@ Object::Remote::ModuleSender,ETHER,c
 Object::Remote::ModuleSender,HAARG,f
 Object::Remote::ModuleSender,JJNAPIORK,c
 Object::Remote::ModuleSender,MITHALDU,c
+Object::Remote::ModuleSender,MSTROUT,c
 Object::Remote::ModuleSender,PHAYLON,c
 Object::Remote::ModuleSender,VANSTYN,c
 Object::Remote::Node,BOBTFISH,c
@@ -416704,6 +416730,7 @@ Object::Remote::Node,ETHER,c
 Object::Remote::Node,HAARG,f
 Object::Remote::Node,JJNAPIORK,c
 Object::Remote::Node,MITHALDU,c
+Object::Remote::Node,MSTROUT,c
 Object::Remote::Node,PHAYLON,c
 Object::Remote::Node,VANSTYN,c
 Object::Remote::Null,BOBTFISH,c
@@ -416713,6 +416740,7 @@ Object::Remote::Null,ETHER,c
 Object::Remote::Null,HAARG,f
 Object::Remote::Null,JJNAPIORK,c
 Object::Remote::Null,MITHALDU,c
+Object::Remote::Null,MSTROUT,c
 Object::Remote::Null,PHAYLON,c
 Object::Remote::Null,VANSTYN,c
 Object::Remote::Prompt,BOBTFISH,c
@@ -416722,6 +416750,7 @@ Object::Remote::Prompt,ETHER,c
 Object::Remote::Prompt,HAARG,f
 Object::Remote::Prompt,JJNAPIORK,c
 Object::Remote::Prompt,MITHALDU,c
+Object::Remote::Prompt,MSTROUT,c
 Object::Remote::Prompt,PHAYLON,c
 Object::Remote::Prompt,VANSTYN,c
 Object::Remote::Proxy,BOBTFISH,c
@@ -416731,6 +416760,7 @@ Object::Remote::Proxy,ETHER,c
 Object::Remote::Proxy,HAARG,f
 Object::Remote::Proxy,JJNAPIORK,c
 Object::Remote::Proxy,MITHALDU,c
+Object::Remote::Proxy,MSTROUT,c
 Object::Remote::Proxy,PHAYLON,c
 Object::Remote::Proxy,VANSTYN,c
 Object::Remote::ReadChannel,BOBTFISH,c
@@ -416740,6 +416770,7 @@ Object::Remote::ReadChannel,ETHER,c
 Object::Remote::ReadChannel,HAARG,f
 Object::Remote::ReadChannel,JJNAPIORK,c
 Object::Remote::ReadChannel,MITHALDU,c
+Object::Remote::ReadChannel,MSTROUT,c
 Object::Remote::ReadChannel,PHAYLON,c
 Object::Remote::ReadChannel,VANSTYN,c
 Object::Remote::Role::Connector,BOBTFISH,c
@@ -416749,6 +416780,7 @@ Object::Remote::Role::Connector,ETHER,c
 Object::Remote::Role::Connector,HAARG,f
 Object::Remote::Role::Connector,JJNAPIORK,c
 Object::Remote::Role::Connector,MITHALDU,c
+Object::Remote::Role::Connector,MSTROUT,c
 Object::Remote::Role::Connector,PHAYLON,c
 Object::Remote::Role::Connector,VANSTYN,c
 Object::Remote::Role::Connector::PerlInterpreter,BOBTFISH,c
@@ -416758,6 +416790,7 @@ Object::Remote::Role::Connector::PerlInterpreter,ETHER,c
 Object::Remote::Role::Connector::PerlInterpreter,HAARG,f
 Object::Remote::Role::Connector::PerlInterpreter,JJNAPIORK,c
 Object::Remote::Role::Connector::PerlInterpreter,MITHALDU,c
+Object::Remote::Role::Connector::PerlInterpreter,MSTROUT,c
 Object::Remote::Role::Connector::PerlInterpreter,PHAYLON,c
 Object::Remote::Role::Connector::PerlInterpreter,VANSTYN,c
 Object::Remote::Role::LogForwarder,BOBTFISH,c
@@ -416767,6 +416800,7 @@ Object::Remote::Role::LogForwarder,ETHER,c
 Object::Remote::Role::LogForwarder,HAARG,f
 Object::Remote::Role::LogForwarder,JJNAPIORK,c
 Object::Remote::Role::LogForwarder,MITHALDU,c
+Object::Remote::Role::LogForwarder,MSTROUT,c
 Object::Remote::Role::LogForwarder,PHAYLON,c
 Object::Remote::Role::LogForwarder,VANSTYN,c
 Object::Remote::Tied,BOBTFISH,c
@@ -416776,6 +416810,7 @@ Object::Remote::Tied,ETHER,c
 Object::Remote::Tied,HAARG,f
 Object::Remote::Tied,JJNAPIORK,c
 Object::Remote::Tied,MITHALDU,c
+Object::Remote::Tied,MSTROUT,c
 Object::Remote::Tied,PHAYLON,c
 Object::Remote::Tied,VANSTYN,c
 Object::Remote::WatchDog,BOBTFISH,c
@@ -416785,6 +416820,7 @@ Object::Remote::WatchDog,ETHER,c
 Object::Remote::WatchDog,HAARG,f
 Object::Remote::WatchDog,JJNAPIORK,c
 Object::Remote::WatchDog,MITHALDU,c
+Object::Remote::WatchDog,MSTROUT,c
 Object::Remote::WatchDog,PHAYLON,c
 Object::Remote::WatchDog,VANSTYN,c
 Object::Result,DCONWAY,f
@@ -541330,6 +541366,25 @@ PersonPage,MISHIN,f
 PersonVisitor,BAERGAJ,f
 Personality::Type::MBTI,NFERRAZ,f
 Perspective,CECALA,f
+Peta::NN,PETAMEM,f
+Peta::NN::Backend,PETAMEM,f
+Peta::NN::Backend::PDL,PETAMEM,f
+Peta::NN::Backend::Plain,PETAMEM,f
+Peta::NN::Backend::WebGPU,PETAMEM,f
+Peta::NN::Chain,PETAMEM,f
+Peta::NN::Codec,PETAMEM,f
+Peta::NN::Data,PETAMEM,f
+Peta::NN::Fused,PETAMEM,f
+Peta::NN::Inference,PETAMEM,f
+Peta::NN::Job,PETAMEM,f
+Peta::NN::Layer::Activation,PETAMEM,f
+Peta::NN::Layer::Dense,PETAMEM,f
+Peta::NN::Layer::Embed,PETAMEM,f
+Peta::NN::Model,PETAMEM,f
+Peta::NN::Optimizer,PETAMEM,f
+Peta::NN::Parallel,PETAMEM,f
+Peta::NN::Pipeline,PETAMEM,f
+Peta::NN::RNG,PETAMEM,f
 Petal,BPOSTLE,f
 Petal,NINE,c
 Petal::Cache::Disk,BPOSTLE,f
