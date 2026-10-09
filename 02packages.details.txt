@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261485
-Last-Updated: Fri, 09 Oct 2026 07:29:02 GMT
+Last-Updated: Fri, 09 Oct 2026 09:54:12 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -35516,7 +35516,7 @@ Catmandu::XML::Transformer         0.17  V/VO/VOJ/Catmandu-XML-0.17.tar.gz
 Catmandu::XSD                      0.05  H/HO/HOCHSTEN/Catmandu-XSD-0.05.tar.gz
 Catmandu::Z3950                    0.06  H/HO/HOCHSTEN/Catmandu-Z3950-0.06.tar.gz
 Catmandu::Zotero                   0.07  H/HO/HOCHSTEN/Catmandu-Zotero-0.07.tar.gz
-Catppuccin                        0.001  R/RO/ROBN/Catppuccin-0.001.tar.gz
+Catppuccin                        0.002  R/RO/ROBN/Catppuccin-0.002.tar.gz
 Cave::Wrapper                  1.000001  K/KE/KENTNL/Cave-Wrapper-1.000001.tar.gz
 Cavil::CLI                         0.04  K/KR/KRAIH/Cavil-CLI-0.04.tar.gz
 Cavil::CLI::Archive               undef  K/KR/KRAIH/Cavil-CLI-0.04.tar.gz
