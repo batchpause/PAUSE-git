@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668677
+Line-Count:  668682
 Written-By:  PAUSE version 1.005
-Date:        Fri, 09 Oct 2026 20:17:39 GMT
+Date:        Fri, 09 Oct 2026 21:18:34 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -66006,6 +66006,7 @@ CPAN::Maker,BIGFOOT,f
 CPAN::Maker::Bootstrapper,BIGFOOT,f
 CPAN::Maker::Bootstrapper::ConfigReader,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Constants,BIGFOOT,f
+CPAN::Maker::Bootstrapper::Role::CreateBuildConfig,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::CreateConfig,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::CreateDeps,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::Critic,BIGFOOT,f
@@ -66022,10 +66023,14 @@ CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::LLM::Reviewer,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::LLM::Utils,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::PAUSEUpload,BIGFOOT,f
+CPAN::Maker::Bootstrapper::Role::PerlCritic,BIGFOOT,f
+CPAN::Maker::Bootstrapper::Role::PerlTidy,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::Provides,BIGFOOT,f
+CPAN::Maker::Bootstrapper::Role::ReconcileDeps,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::ResolveVars,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::ScaffoldImporter,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::ShowDefaults,BIGFOOT,f
+CPAN::Maker::Bootstrapper::Role::UpdateAvailable,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::Version,BIGFOOT,f
 CPAN::Maker::Constants,BIGFOOT,f
 CPAN::Maker::Role::FileUtils,BIGFOOT,f
