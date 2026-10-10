@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261534
-Last-Updated: Sat, 10 Oct 2026 22:17:02 GMT
+Line-Count:   261535
+Last-Updated: Sat, 10 Oct 2026 22:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -86673,14 +86673,15 @@ Git::Megapull                  0.101752  R/RJ/RJBS/Git-Megapull-0.101752.tar.gz
 Git::Megapull::Source          0.101752  R/RJ/RJBS/Git-Megapull-0.101752.tar.gz
 Git::Megapull::Source::Github  0.101752  R/RJ/RJBS/Git-Megapull-0.101752.tar.gz
 Git::Message                     v4.0.0  G/GN/GNUSTAVO/Git-Hooks-4.0.0.tar.gz
-Git::MoreHooks                    0.019  M/MI/MIKKOI/Git-MoreHooks-0.019.tar.gz
-Git::MoreHooks::CheckCommitAuthorFromMailmap 0.019  M/MI/MIKKOI/Git-MoreHooks-0.019.tar.gz
-Git::MoreHooks::CheckCommitBase   0.019  M/MI/MIKKOI/Git-MoreHooks-0.019.tar.gz
-Git::MoreHooks::CheckIndent       0.019  M/MI/MIKKOI/Git-MoreHooks-0.019.tar.gz
-Git::MoreHooks::CheckPerl         0.019  M/MI/MIKKOI/Git-MoreHooks-0.019.tar.gz
-Git::MoreHooks::GitRepoAdmin      0.019  M/MI/MIKKOI/Git-MoreHooks-0.019.tar.gz
-Git::MoreHooks::ScanCtags         0.019  M/MI/MIKKOI/Git-MoreHooks-0.019.tar.gz
-Git::MoreHooks::TriggerJenkins    0.019  M/MI/MIKKOI/Git-MoreHooks-0.019.tar.gz
+Git::MoreHooks                    0.020  M/MI/MIKKOI/Git-MoreHooks-0.020.tar.gz
+Git::MoreHooks::CheckCommitAuthorFromMailmap 0.020  M/MI/MIKKOI/Git-MoreHooks-0.020.tar.gz
+Git::MoreHooks::CheckCommitBase   0.020  M/MI/MIKKOI/Git-MoreHooks-0.020.tar.gz
+Git::MoreHooks::CheckIndent       0.020  M/MI/MIKKOI/Git-MoreHooks-0.020.tar.gz
+Git::MoreHooks::CheckPerl         0.020  M/MI/MIKKOI/Git-MoreHooks-0.020.tar.gz
+Git::MoreHooks::CheckTrailers     0.020  M/MI/MIKKOI/Git-MoreHooks-0.020.tar.gz
+Git::MoreHooks::GitRepoAdmin      0.020  M/MI/MIKKOI/Git-MoreHooks-0.020.tar.gz
+Git::MoreHooks::ScanCtags         0.020  M/MI/MIKKOI/Git-MoreHooks-0.020.tar.gz
+Git::MoreHooks::TriggerJenkins    0.020  M/MI/MIKKOI/Git-MoreHooks-0.020.tar.gz
 Git::Native                       0.006  G/GE/GETTY/Git-Native-0.006.tar.gz
 Git::Native::Blob                 0.006  G/GE/GETTY/Git-Native-0.006.tar.gz
 Git::Native::Branch               0.006  G/GE/GETTY/Git-Native-0.006.tar.gz

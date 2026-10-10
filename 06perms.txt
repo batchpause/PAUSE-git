@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668686
+Line-Count:  668687
 Written-By:  PAUSE version 1.005
-Date:        Sat, 10 Oct 2026 16:29:41 GMT
+Date:        Sat, 10 Oct 2026 22:42:26 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -159474,6 +159474,7 @@ Git::MoreHooks::CheckCommitAuthorFromMailmap,MIKKOI,f
 Git::MoreHooks::CheckCommitBase,MIKKOI,f
 Git::MoreHooks::CheckIndent,MIKKOI,f
 Git::MoreHooks::CheckPerl,MIKKOI,f
+Git::MoreHooks::CheckTrailers,MIKKOI,f
 Git::MoreHooks::GitRepoAdmin,MIKKOI,f
 Git::MoreHooks::ScanCtags,MIKKOI,f
 Git::MoreHooks::TriggerJenkins,MIKKOI,f
