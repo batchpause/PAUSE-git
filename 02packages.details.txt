@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261533
-Last-Updated: Sat, 10 Oct 2026 12:54:26 GMT
+Last-Updated: Sat, 10 Oct 2026 13:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -22637,14 +22637,14 @@ Barcode::DataMatrix::Reed         undef  M/MS/MSTRAT/Barcode-DataMatrix-0.10.tar
 Barcode::ZBar                      0.10  T/TI/TIMLEGGE/Barcode-ZBar-0.10.tar.gz
 Barcode::ZBar::Error               0.10  T/TI/TIMLEGGE/Barcode-ZBar-0.10.tar.gz
 bare                               0.02  B/BR/BRIANSKI/bare-0.02.tar.gz
-BarefootJS                      v0.39.4  K/KF/KFLY/BarefootJS-0.39.4.tar.gz
+BarefootJS                      v0.39.5  K/KF/KFLY/BarefootJS-0.39.5.tar.gz
 BarefootJS::_TZProbe           0.029000  K/KF/KFLY/BarefootJS-0.29.0.tar.gz
-BarefootJS::Backend::Mojo       v0.39.4  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.4.tar.gz
-BarefootJS::Backend::Xslate     v0.39.4  K/KF/KFLY/BarefootJS-Backend-Xslate-0.39.4.tar.gz
-BarefootJS::Date                v0.39.4  K/KF/KFLY/BarefootJS-0.39.4.tar.gz
-BarefootJS::DevReload           v0.39.4  K/KF/KFLY/BarefootJS-0.39.4.tar.gz
-BarefootJS::Evaluator           v0.39.4  K/KF/KFLY/BarefootJS-0.39.4.tar.gz
-BarefootJS::SearchParams        v0.39.4  K/KF/KFLY/BarefootJS-0.39.4.tar.gz
+BarefootJS::Backend::Mojo       v0.39.5  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.5.tar.gz
+BarefootJS::Backend::Xslate     v0.39.5  K/KF/KFLY/BarefootJS-Backend-Xslate-0.39.5.tar.gz
+BarefootJS::Date                v0.39.5  K/KF/KFLY/BarefootJS-0.39.5.tar.gz
+BarefootJS::DevReload           v0.39.5  K/KF/KFLY/BarefootJS-0.39.5.tar.gz
+BarefootJS::Evaluator           v0.39.5  K/KF/KFLY/BarefootJS-0.39.5.tar.gz
+BarefootJS::SearchParams        v0.39.5  K/KF/KFLY/BarefootJS-0.39.5.tar.gz
 bareword::filehandles             0.007  I/IL/ILMARI/bareword-filehandles-0.007.tar.gz
 barewords                          0.01  S/SA/SALVA/barewords-0.01.tar.gz
 Barracuda::Api                     0.03  M/MQ/MQL/Barracuda-Api-0.03.tar.gz
@@ -81601,17 +81601,17 @@ Game::Pexeso::Spinner             undef  P/PO/POTYL/Game-Pexeso-0.01.tar.gz
 Game::PlatformsOfPeril             0.11  J/JM/JMATES/Game-PlatformsOfPeril-0.11.tar.gz
 Game::PseudoRand                   0.03  J/JM/JMATES/Game-PseudoRand-0.03.tar.gz
 Game::RaycastFOV                   2.03  J/JM/JMATES/Game-RaycastFOV-2.03.tar.gz
-Game::Reversi                      0.01  L/LN/LNATION/Game-Reversi-0.01.tar.gz
-Game::Reversi::Board               0.01  L/LN/LNATION/Game-Reversi-0.01.tar.gz
-Game::Reversi::Bot                 0.01  L/LN/LNATION/Game-Reversi-0.01.tar.gz
-Game::Reversi::Error               0.01  L/LN/LNATION/Game-Reversi-0.01.tar.gz
-Game::Reversi::Move                0.01  L/LN/LNATION/Game-Reversi-0.01.tar.gz
-Game::Reversi::Notation            0.01  L/LN/LNATION/Game-Reversi-0.01.tar.gz
-Game::Reversi::Opening             0.01  L/LN/LNATION/Game-Reversi-0.01.tar.gz
-Game::Reversi::Result              0.01  L/LN/LNATION/Game-Reversi-0.01.tar.gz
-Game::Reversi::Rules               0.01  L/LN/LNATION/Game-Reversi-0.01.tar.gz
-Game::Reversi::Scoring             0.01  L/LN/LNATION/Game-Reversi-0.01.tar.gz
-Game::Reversi::Terminal            0.01  L/LN/LNATION/Game-Reversi-0.01.tar.gz
+Game::Reversi                      0.02  L/LN/LNATION/Game-Reversi-0.02.tar.gz
+Game::Reversi::Board               0.02  L/LN/LNATION/Game-Reversi-0.02.tar.gz
+Game::Reversi::Bot                 0.02  L/LN/LNATION/Game-Reversi-0.02.tar.gz
+Game::Reversi::Error               0.02  L/LN/LNATION/Game-Reversi-0.02.tar.gz
+Game::Reversi::Move                0.02  L/LN/LNATION/Game-Reversi-0.02.tar.gz
+Game::Reversi::Notation            0.02  L/LN/LNATION/Game-Reversi-0.02.tar.gz
+Game::Reversi::Opening             0.02  L/LN/LNATION/Game-Reversi-0.02.tar.gz
+Game::Reversi::Result              0.02  L/LN/LNATION/Game-Reversi-0.02.tar.gz
+Game::Reversi::Rules               0.02  L/LN/LNATION/Game-Reversi-0.02.tar.gz
+Game::Reversi::Scoring             0.02  L/LN/LNATION/Game-Reversi-0.02.tar.gz
+Game::Reversi::Terminal            0.02  L/LN/LNATION/Game-Reversi-0.02.tar.gz
 Game::RockPaperScissor             0.01  S/SP/SPAJAI/Game-RockPaperScissor-0.01.tar.gz
 Game::RockPaperScissorsLizardSpock 0.01  D/DM/DMUEY/Game-RockPaperScissorsLizardSpock-0.01.tar.gz
 Game::RoyalUr                      0.01  L/LN/LNATION/Game-RoyalUr-0.01.tar.gz
@@ -135770,8 +135770,8 @@ Mojolicious::Plugin::AutoRoutePm   0.23  E/EB/EBRUNI/Mojolicious-Plugin-AutoRout
 Mojolicious::Plugin::AutoSecrets  0.006  M/MH/MHOWARD/Mojolicious-Plugin-AutoSecrets-0.006.tar.gz
 Mojolicious::Plugin::AWS           0.21  S/SC/SCOTTW/Mojolicious-Plugin-AWS-0.21.tar.gz
 Mojolicious::Plugin::Badge         1.12  G/GD/GDT/Mojolicious-Plugin-Badge-1.12.tar.gz
-Mojolicious::Plugin::BarefootJS v0.39.4  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.4.tar.gz
-Mojolicious::Plugin::BarefootJS::DevReload v0.39.4  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.4.tar.gz
+Mojolicious::Plugin::BarefootJS v0.39.5  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.5.tar.gz
+Mojolicious::Plugin::BarefootJS::DevReload v0.39.5  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.39.5.tar.gz
 Mojolicious::Plugin::BasicAuth     0.08  T/TE/TEMPIRE/Mojolicious-Plugin-BasicAuth-0.08.tar.gz
 Mojolicious::Plugin::BasicAuthPlus  1.0  B/BL/BLR/Mojolicious-Plugin-BasicAuthPlus-1.0.tar.gz
 Mojolicious::Plugin::Bcrypt        0.14  M/MI/MINIMAL/Mojolicious-Plugin-Bcrypt-0.14.tar.gz
