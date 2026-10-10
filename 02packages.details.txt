@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261531
-Last-Updated: Sat, 10 Oct 2026 10:17:02 GMT
+Line-Count:   261533
+Last-Updated: Sat, 10 Oct 2026 10:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -128301,6 +128301,8 @@ Math::Geometry::Construction::Types 0.024  L/LG/LGEHLEN/Math-Geometry-Constructi
 Math::Geometry::Construction::Vector 0.024  L/LG/LGEHLEN/Math-Geometry-Construction-0.024.tar.gz
 Math::Geometry::Delaunay           0.21  S/SH/SHELDRAKE/Math-Geometry-Delaunay-0.21.tar.gz
 Math::Geometry::GPC                1.03  D/DV/DVDPOL/Math-Geometry-GPC-1.03.tar.gz
+Math::Geometry::HexGrid            0.01  S/SM/SMUELLER/Math-Geometry-HexGrid-0.01.tar.gz
+Math::Geometry::HexGrid::Hex       0.01  S/SM/SMUELLER/Math-Geometry-HexGrid-0.01.tar.gz
 Math::Geometry::IntersectionArea   0.01  S/SA/SALVA/Math-Geometry-IntersectionArea-0.01.tar.gz
 Math::Geometry::Multidimensional   0.02  J/JI/JIMI/Math-Geometry-Multidimensional-0.02.tar.gz
 Math::Geometry::Planar             1.18  D/DV/DVDPOL/Math-Geometry-Planar-1.18-withoutworldwriteables.tar.gz
