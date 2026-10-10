@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261534
-Last-Updated: Sat, 10 Oct 2026 17:17:02 GMT
+Last-Updated: Sat, 10 Oct 2026 22:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -152583,42 +152583,42 @@ Object::Recorder                   0.01  N/NI/NILSONSFJ/Object-Recorder-0.01.tar
 Object::Recorder::Storage          0.01  N/NI/NILSONSFJ/Object-Recorder-0.01.tar.gz
 Object::Registrar                  0.01  U/UA/UARUN/Object-Registrar-0.01.tar.gz
 Object::Releaser                   0.12  M/MI/MIKO/Object-Releaser-0.12.tar.gz
-Object::Remote                 0.005002  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::CodeContainer     undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Connection        undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::ConnectionServer  undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Connector::INET   undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Connector::Local  undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Connector::LocalSudo undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Connector::SSH    undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Connector::STDIO  undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Connector::UNIX   undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::FatNode           undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::FromData          undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Future            undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::GlobContainer     undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::GlobProxy         undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Handle            undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Logging           undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Logging::LogAnyInjector undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Logging::Logger   undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Logging::Router   undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Logging::TestLogger undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Loop              undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::MiniLoop          undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::ModuleLoader      undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::ModuleLoader::Hook undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::ModuleSender      undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Node              undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Null              undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Prompt            undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Proxy             undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::ReadChannel       undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Role::Connector   undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Role::Connector::PerlInterpreter undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Role::LogForwarder undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::Tied              undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
-Object::Remote::WatchDog          undef  E/EH/EHUELS/Object-Remote-0.005002.tar.gz
+Object::Remote                 0.005003  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::CodeContainer     undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Connection        undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::ConnectionServer  undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Connector::INET   undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Connector::Local  undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Connector::LocalSudo undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Connector::SSH    undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Connector::STDIO  undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Connector::UNIX   undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::FatNode           undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::FromData          undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Future            undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::GlobContainer     undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::GlobProxy         undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Handle            undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Logging           undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Logging::LogAnyInjector undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Logging::Logger   undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Logging::Router   undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Logging::TestLogger undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Loop              undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::MiniLoop          undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::ModuleLoader      undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::ModuleLoader::Hook undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::ModuleSender      undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Node              undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Null              undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Prompt            undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Proxy             undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::ReadChannel       undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Role::Connector   undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Role::Connector::PerlInterpreter undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Role::LogForwarder undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::Tied              undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
+Object::Remote::WatchDog          undef  E/EH/EHUELS/Object-Remote-0.005003.tar.gz
 Object::Result                 0.000003  D/DC/DCONWAY/Object-Result-0.000003.tar.gz
 Object::Result::Object         0.000003  D/DC/DCONWAY/Object-Result-0.000003.tar.gz
 Object::Signature                  1.08  E/ET/ETHER/Object-Signature-1.08.tar.gz
