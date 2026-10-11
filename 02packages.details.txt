@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261780
-Last-Updated: Sun, 11 Oct 2026 12:54:41 GMT
+Last-Updated: Sun, 11 Oct 2026 13:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -134785,8 +134785,8 @@ Module::Requires                   0.03  Y/YA/YAPPO/Module-Requires-0.03.tar.gz
 Module::Runtime                   0.018  H/HA/HAARG/Module-Runtime-0.018.tar.gz
 Module::Runtime::Conflicts        0.003  E/ET/ETHER/Module-Runtime-Conflicts-0.003.tar.gz
 Module::ScanDeps                   1.37  R/RS/RSCHUPP/Module-ScanDeps-1.37.tar.gz
-Module::ScanDeps::FindRequires   v1.9.1  B/BI/BIGFOOT/Module-ScanDeps-Static-1.9.1.tar.gz
-Module::ScanDeps::Static         v1.9.1  B/BI/BIGFOOT/Module-ScanDeps-Static-1.9.1.tar.gz
+Module::ScanDeps::FindRequires   v1.9.5  B/BI/BIGFOOT/Module-ScanDeps-Static-1.9.5.tar.gz
+Module::ScanDeps::Static         v1.9.5  B/BI/BIGFOOT/Module-ScanDeps-Static-1.9.5.tar.gz
 Module::ScanDeps::Static::VERSION v1.7.8  B/BI/BIGFOOT/Module-ScanDeps-Static-1.7.8.tar.gz
 Module::ScanDeps::VERSION        v1.7.0  B/BI/BIGFOOT/Module-ScanDeps-Static-1.7.0.tar.gz
 Module::Setup                      0.09  Y/YA/YAPPO/Module-Setup-0.09.tar.gz
