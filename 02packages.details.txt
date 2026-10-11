@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261551
-Last-Updated: Sun, 11 Oct 2026 11:17:01 GMT
+Line-Count:   261600
+Last-Updated: Sun, 11 Oct 2026 12:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -20638,15 +20638,15 @@ Asyncore                           0.08  S/SE/SEBA/Asyncore-0.08.tar.gz
 Asyncore::Dispatcher               0.08  S/SE/SEBA/Asyncore-0.08.tar.gz
 AsyncPing                      2016.1207  X/XI/XINFWANG/AsyncPing-2016.1207.tar.gz
 AsyncTimeout                       0.14  A/AR/ARISTOTLE/Async-0.14.tar.gz
-At                               v1.7.0  S/SA/SANKO/At-v1.7.0.tar.gz
-At::Error                        v1.7.0  S/SA/SANKO/At-v1.7.0.tar.gz
-At::Protocol::DID                v1.7.0  S/SA/SANKO/At-v1.7.0.tar.gz
-At::Protocol::Firehose           v1.7.0  S/SA/SANKO/At-v1.7.0.tar.gz
-At::Protocol::Handle             v1.7.0  S/SA/SANKO/At-v1.7.0.tar.gz
-At::Protocol::NSID               v1.7.0  S/SA/SANKO/At-v1.7.0.tar.gz
-At::Protocol::Session            v1.7.0  S/SA/SANKO/At-v1.7.0.tar.gz
-At::Protocol::URI                v1.7.0  S/SA/SANKO/At-v1.7.0.tar.gz
-At::UserAgent                    v1.7.0  S/SA/SANKO/At-v1.7.0.tar.gz
+At                               v1.8.0  S/SA/SANKO/At-v1.8.0.tar.gz
+At::Error                        v1.8.0  S/SA/SANKO/At-v1.8.0.tar.gz
+At::Protocol::DID                v1.8.0  S/SA/SANKO/At-v1.8.0.tar.gz
+At::Protocol::Firehose           v1.8.0  S/SA/SANKO/At-v1.8.0.tar.gz
+At::Protocol::Handle             v1.8.0  S/SA/SANKO/At-v1.8.0.tar.gz
+At::Protocol::NSID               v1.8.0  S/SA/SANKO/At-v1.8.0.tar.gz
+At::Protocol::Session            v1.8.0  S/SA/SANKO/At-v1.8.0.tar.gz
+At::Protocol::URI                v1.8.0  S/SA/SANKO/At-v1.8.0.tar.gz
+At::UserAgent                    v1.8.0  S/SA/SANKO/At-v1.8.0.tar.gz
 AtExit                             2.05  J/JA/JANITOR/AtExit-2.05.tar.gz
 ath                               1.005  D/DB/DBOOK/Math-Calc-Parser-1.005.tar.gz
 Atheme                           0.0001  S/ST/STEPHANJ/Atheme-0.0001.tar.gz
@@ -45840,6 +45840,55 @@ Claude::Agent::Permission::Result::Allow undef  L/LN/LNATION/Claude-Agent-0.13.t
 Claude::Agent::Permission::Result::Deny undef  L/LN/LNATION/Claude-Agent-0.13.tar.gz
 Claude::Agent::Query              undef  L/LN/LNATION/Claude-Agent-0.13.tar.gz
 Claude::Agent::Subagent           undef  L/LN/LNATION/Claude-Agent-0.13.tar.gz
+Clay::UI                           0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::_error                   0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::_FrameRegistry           0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::_keys                    0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::_validate                0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Box                      0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Enum::Bubble             0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Enum::Result             0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Events::Event            0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Events::OnBlur           0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Events::OnFocus          0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Events::OnHoverStart     0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Events::OnHoverStopped   0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Events::OnPress          0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Events::OnRelease        0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Events::OnScroll         0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Grid                     0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Grid::_IdLease           0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Grid::_IdSpace           0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Grid::Cell               0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Grid::Row                0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Interaction              0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Revision                 0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Core::Container    0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Core::Element      0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Core::Preparable   0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Core::Stateful     0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Core::TextNode     0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Events::Emitter    0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Events::Listener   0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Interaction::Disableable 0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Interaction::Focusable 0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Interaction::HasFocusOrder 0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Interaction::Hoverable 0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Interaction::Pressable 0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Layout::GridCell   0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Layout::HasFloating 0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Layout::HasLayout  0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Layout::HasParent  0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Layout::HasScroll  0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Layout::HasSizingGroup 0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Style::HasBackground 0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Style::HasBorder   0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Style::HasCornerRadius 0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Role::Style::HasStates   0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::UI::Text                     0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::XS                           0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::XS::Context                  0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
+Clay::XS::StructError              0.06  D/DA/DAVENONYM/Clay-UI-0.06.tar.gz
 CLDR::Number                       0.19  P/PA/PATCH/CLDR-Number-0.19.tar.gz
 CLDR::Number::Constant             0.19  P/PA/PATCH/CLDR-Number-0.19.tar.gz
 CLDR::Number::Data::Base           0.19  P/PA/PATCH/CLDR-Number-0.19.tar.gz

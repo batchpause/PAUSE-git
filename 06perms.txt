@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668702
+Line-Count:  668751
 Written-By:  PAUSE version 1.005
-Date:        Sun, 11 Oct 2026 10:29:50 GMT
+Date:        Sun, 11 Oct 2026 12:17:23 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -96565,6 +96565,55 @@ Claude::Agent::Permission::Result::Allow,LNATION,f
 Claude::Agent::Permission::Result::Deny,LNATION,f
 Claude::Agent::Query,LNATION,f
 Claude::Agent::Subagent,LNATION,f
+Clay::UI,DAVENONYM,f
+Clay::UI::Box,DAVENONYM,f
+Clay::UI::Enum::Bubble,DAVENONYM,f
+Clay::UI::Enum::Result,DAVENONYM,f
+Clay::UI::Events::Event,DAVENONYM,f
+Clay::UI::Events::OnBlur,DAVENONYM,f
+Clay::UI::Events::OnFocus,DAVENONYM,f
+Clay::UI::Events::OnHoverStart,DAVENONYM,f
+Clay::UI::Events::OnHoverStopped,DAVENONYM,f
+Clay::UI::Events::OnPress,DAVENONYM,f
+Clay::UI::Events::OnRelease,DAVENONYM,f
+Clay::UI::Events::OnScroll,DAVENONYM,f
+Clay::UI::Grid,DAVENONYM,f
+Clay::UI::Grid::Cell,DAVENONYM,f
+Clay::UI::Grid::Row,DAVENONYM,f
+Clay::UI::Grid::_IdLease,DAVENONYM,f
+Clay::UI::Grid::_IdSpace,DAVENONYM,f
+Clay::UI::Interaction,DAVENONYM,f
+Clay::UI::Revision,DAVENONYM,f
+Clay::UI::Role::Core::Container,DAVENONYM,f
+Clay::UI::Role::Core::Element,DAVENONYM,f
+Clay::UI::Role::Core::Preparable,DAVENONYM,f
+Clay::UI::Role::Core::Stateful,DAVENONYM,f
+Clay::UI::Role::Core::TextNode,DAVENONYM,f
+Clay::UI::Role::Events::Emitter,DAVENONYM,f
+Clay::UI::Role::Events::Listener,DAVENONYM,f
+Clay::UI::Role::Interaction::Disableable,DAVENONYM,f
+Clay::UI::Role::Interaction::Focusable,DAVENONYM,f
+Clay::UI::Role::Interaction::HasFocusOrder,DAVENONYM,f
+Clay::UI::Role::Interaction::Hoverable,DAVENONYM,f
+Clay::UI::Role::Interaction::Pressable,DAVENONYM,f
+Clay::UI::Role::Layout::GridCell,DAVENONYM,f
+Clay::UI::Role::Layout::HasFloating,DAVENONYM,f
+Clay::UI::Role::Layout::HasLayout,DAVENONYM,f
+Clay::UI::Role::Layout::HasParent,DAVENONYM,f
+Clay::UI::Role::Layout::HasScroll,DAVENONYM,f
+Clay::UI::Role::Layout::HasSizingGroup,DAVENONYM,f
+Clay::UI::Role::Style::HasBackground,DAVENONYM,f
+Clay::UI::Role::Style::HasBorder,DAVENONYM,f
+Clay::UI::Role::Style::HasCornerRadius,DAVENONYM,f
+Clay::UI::Role::Style::HasStates,DAVENONYM,f
+Clay::UI::Text,DAVENONYM,f
+Clay::UI::_FrameRegistry,DAVENONYM,f
+Clay::UI::_error,DAVENONYM,f
+Clay::UI::_keys,DAVENONYM,f
+Clay::UI::_validate,DAVENONYM,f
+Clay::XS,DAVENONYM,f
+Clay::XS::Context,DAVENONYM,f
+Clay::XS::StructError,DAVENONYM,f
 Clean::Backspace,BBURCH,f
 Clean::Eval,EXODIST,f
 CleanINC,SUNNAVY,f
