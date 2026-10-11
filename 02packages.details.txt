@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261550
-Last-Updated: Sun, 11 Oct 2026 07:54:28 GMT
+Last-Updated: Sun, 11 Oct 2026 08:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -105979,14 +105979,14 @@ Hyper::Developer::Generator::Control::Flow 0.010  A/AC/ACID/Hyper-Developer-0.07
 Hyper::Developer::Generator::Environment 0.010  A/AC/ACID/Hyper-Developer-0.07.tar.gz
 Hyper::Developer::Model::Viewer   0.100  A/AC/ACID/Hyper-Developer-0.07.tar.gz
 Hyper::Developer::Server          undef  A/AC/ACID/Hyper-Developer-0.07.tar.gz
-Hyperman                           0.55  L/LN/LNATION/Hyperman-0.55.tar.gz
-Hyperman::Event::Epoll             0.55  L/LN/LNATION/Hyperman-0.55.tar.gz
-Hyperman::Event::IOUring           0.55  L/LN/LNATION/Hyperman-0.55.tar.gz
-Hyperman::Event::Kqueue            0.55  L/LN/LNATION/Hyperman-0.55.tar.gz
-Hyperman::Event::Poll              0.55  L/LN/LNATION/Hyperman-0.55.tar.gz
-Hyperman::Future                   0.55  L/LN/LNATION/Hyperman-0.55.tar.gz
-Hyperman::Loop                     0.55  L/LN/LNATION/Hyperman-0.55.tar.gz
-Hyperman::Writer                   0.55  L/LN/LNATION/Hyperman-0.55.tar.gz
+Hyperman                           0.56  L/LN/LNATION/Hyperman-0.56.tar.gz
+Hyperman::Event::Epoll             0.56  L/LN/LNATION/Hyperman-0.56.tar.gz
+Hyperman::Event::IOUring           0.56  L/LN/LNATION/Hyperman-0.56.tar.gz
+Hyperman::Event::Kqueue            0.56  L/LN/LNATION/Hyperman-0.56.tar.gz
+Hyperman::Event::Poll              0.56  L/LN/LNATION/Hyperman-0.56.tar.gz
+Hyperman::Future                   0.56  L/LN/LNATION/Hyperman-0.56.tar.gz
+Hyperman::Loop                     0.56  L/LN/LNATION/Hyperman-0.56.tar.gz
+Hyperman::Writer                   0.56  L/LN/LNATION/Hyperman-0.56.tar.gz
 Hyperscan                          0.04  M/MS/MSIKORA/Hyperscan-0.04.tar.gz
 Hyperscan::Database                0.04  M/MS/MSIKORA/Hyperscan-0.04.tar.gz
 Hyperscan::Matcher                 0.04  M/MS/MSIKORA/Hyperscan-0.04.tar.gz
@@ -193911,7 +193911,7 @@ Plack::Handler::H2::Writer        undef  R/RA/RAWLEYFOW/Plack-Handler-H2-0.0.5.t
 Plack::Handler::HTTP::Server::PSGI undef  M/MI/MIYAGAWA/Plack-1.0054.tar.gz
 Plack::Handler::HTTP::Server::Simple 0.16  M/MI/MIYAGAWA/HTTP-Server-Simple-PSGI-0.16.tar.gz
 Plack::Handler::HTTP::Server::Simple::PSGIServer 0.16  M/MI/MIYAGAWA/HTTP-Server-Simple-PSGI-0.16.tar.gz
-Plack::Handler::Hyperman           0.55  L/LN/LNATION/Hyperman-0.55.tar.gz
+Plack::Handler::Hyperman           0.56  L/LN/LNATION/Hyperman-0.56.tar.gz
 Plack::Handler::Martian            0.08  A/AL/ALTREUS/Martian-0.08.tar.gz
 Plack::Handler::Message::Passing  undef  B/BO/BOBTFISH/Message-Passing-PSGI-0.001.tar.gz
 Plack::Handler::Monoceros         undef  K/KA/KAZEBURO/Monoceros-0.29.tar.gz
