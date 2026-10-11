@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261550
-Last-Updated: Sun, 11 Oct 2026 08:41:02 GMT
+Last-Updated: Sun, 11 Oct 2026 09:17:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -220596,7 +220596,7 @@ Statistics::Benford                0.08  G/GR/GRAY/Statistics-Benford-0.08.tar.g
 Statistics::Burst                   0.2  T/TO/TOMMIE/Statistics-Burst-0.2.tgz
 Statistics::CalinskiHarabasz       0.01  A/AN/ANAGHAKK/Statistics-CalinskiHarabasz-0.01.tar.gz
 Statistics::Candidates            undef  T/TE/TERDOEST/Statistics-MaxEntropy-1.0.tar.gz
-Statistics::CaseResampling         0.17  S/SM/SMUELLER/Statistics-CaseResampling-0.17.tar.gz
+Statistics::CaseResampling         0.18  S/SM/SMUELLER/Statistics-CaseResampling-0.18.tar.gz
 Statistics::ChisqIndep              0.1  Y/YU/YUNFANG/Statistics-ChisqIndep-0.1.tar.gz
 Statistics::ChiSquare            1.0000  D/DC/DCANTRELL/Statistics-ChiSquare-1.0000.tar.gz
 Statistics::Cluto                  0.01  I/IH/IHARA/Statistics-Cluto-0.01.tar.gz
