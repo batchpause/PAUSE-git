@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261793
-Last-Updated: Sun, 11 Oct 2026 17:54:32 GMT
+Line-Count:   261794
+Last-Updated: Sun, 11 Oct 2026 18:54:47 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -123396,7 +123396,7 @@ Loctools::Net::OAuth2::Session::Google undef  A/AF/AFAN/Loctools-Net-1.0.tar.gz
 LocusLinkAccessor                     1  L/LD/LDS/Boulder-1.30.tar.gz
 log2_heatmap                        1.5  C/CJ/CJONES/Microarray-0.45c.zip
 Log4Perl::ImportHandle            0.033  A/AH/AHERNIT/Log4Perl-ImportHandle-0.033.tar.gz
-Log::Abstraction                   0.39  N/NH/NHORNE/Log-Abstraction-0.39.tar.gz
+Log::Abstraction                   0.40  N/NH/NHORNE/Log-Abstraction-0.40.tar.gz
 Log::Accounting                     0.3  O/OL/OLIMAUL/Log-Accounting-0.3.tar.gz
 Log::Accounting::Sendmail           0.2  O/OL/OLIMAUL/Log-Accounting-Sendmail-0.2.tar.gz
 Log::Agent                        1.005  M/MR/MROGASKI/Log-Agent-1.005.tar.gz
@@ -123434,7 +123434,7 @@ Log::AndError                      1.01  T/TB/TBOLIOLI/Log-AndError-1.01.tar.gz
 Log::AndError::Constants           0.01  T/TB/TBOLIOLI/Log-AndError-1.01.tar.gz
 Log::Any                          1.720  P/PR/PREACTION/Log-Any-1.720.tar.gz
 Log::Any::Adapter                 1.720  P/PR/PREACTION/Log-Any-1.720.tar.gz
-Log::Any::Adapter::Abstraction     0.39  N/NH/NHORNE/Log-Abstraction-0.39.tar.gz
+Log::Any::Adapter::Abstraction     0.40  N/NH/NHORNE/Log-Abstraction-0.40.tar.gz
 Log::Any::Adapter::AcmeLocal       0.11  S/SL/SLUDIN/Protocol-ACME-0.11.tar.gz
 Log::Any::Adapter::Apache2         0.02  I/IV/IVANYCH/Log-Any-Adapter-Apache2-0.02.tar.gz
 Log::Any::Adapter::Base           1.720  P/PR/PREACTION/Log-Any-1.720.tar.gz
@@ -229533,6 +229533,7 @@ Test::NoLoad                       0.03  B/BA/BAYASHI/Test-NoLoad-0.03.tar.gz
 Test::NoMalware                     3.1  J/JK/JKUTEJ/Test-NoMalware-3.1.tar.gz
 Test::NoOverride                   0.04  B/BA/BAYASHI/Test-NoOverride-0.04.tar.gz
 Test::NoPlan                     v0.0.6  D/DU/DUNCS/Test-NoPlan-v0.0.6.tar.gz
+Test::NoShadow                    0.001  N/NH/NHORNE/Test-NoShadow-0.001.0.tar.gz
 Test::NoSmartComments             0.005  R/RS/RSRCHBOY/Test-NoSmartComments-0.005.tar.gz
 Test::NoTabs                       2.02  E/ET/ETHER/Test-NoTabs-2.02.tar.gz
 Test::NoTravisEncVars             0.001  R/RS/RSRCHBOY/Test-NoTravisEncVars-0.001.tar.gz
