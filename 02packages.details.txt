@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261785
-Last-Updated: Sun, 11 Oct 2026 13:54:44 GMT
+Line-Count:   261791
+Last-Updated: Sun, 11 Oct 2026 14:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81551,9 +81551,15 @@ Game::Fanorona::Result             0.02  L/LN/LNATION/Game-Fanorona-0.02.tar.gz
 Game::Fanorona::Rules              0.02  L/LN/LNATION/Game-Fanorona-0.02.tar.gz
 Game::Fanorona::Terminal           0.02  L/LN/LNATION/Game-Fanorona-0.02.tar.gz
 Game::Fanorona::Variant            0.02  L/LN/LNATION/Game-Fanorona-0.02.tar.gz
-Game::Floppy                       0.08  L/LN/LNATION/Game-Floppy-0.08.tar.gz
+Game::Floppy                       0.09  L/LN/LNATION/Game-Floppy-0.09.tar.gz
 Game::Floppy::Bird                 0.08  L/LN/LNATION/Game-Floppy-0.08.tar.gz
+Game::Floppy::Bot                  0.09  L/LN/LNATION/Game-Floppy-0.09.tar.gz
+Game::Floppy::Error                0.09  L/LN/LNATION/Game-Floppy-0.09.tar.gz
+Game::Floppy::Raylib               0.09  L/LN/LNATION/Game-Floppy-0.09.tar.gz
+Game::Floppy::Result               0.09  L/LN/LNATION/Game-Floppy-0.09.tar.gz
 Game::Floppy::Sprite               0.08  L/LN/LNATION/Game-Floppy-0.08.tar.gz
+Game::Floppy::Terminal             0.09  L/LN/LNATION/Game-Floppy-0.09.tar.gz
+Game::Floppy::Ticker               0.09  L/LN/LNATION/Game-Floppy-0.09.tar.gz
 Game::Floppy::Tube                 0.08  L/LN/LNATION/Game-Floppy-0.08.tar.gz
 Game::Gin                          0.03  L/LN/LNATION/Game-Gin-0.03.tar.gz
 Game::Gin::Bot                     0.03  L/LN/LNATION/Game-Gin-0.03.tar.gz
