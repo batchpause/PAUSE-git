@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261550
-Last-Updated: Sun, 11 Oct 2026 09:29:02 GMT
+Last-Updated: Sun, 11 Oct 2026 09:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -127019,27 +127019,27 @@ MARC::Transform                0.003009  R/RE/REIVEUNE/MARC-Transform-0.003009.t
 MARC::Utils::MARC2Ini              0.02  B/BB/BBAXTER/MARC-Utils-MARC2Ini-0.02.tar.gz
 MARC::Utils::MARC2MARC_in_JSON     0.05  B/BB/BBAXTER/MARC-Utils-MARC2MARC_in_JSON-0.05.tar.gz
 MARC::Utils::MARC2Pairs            0.02  B/BB/BBAXTER/MARC-Utils-MARC2Pairs-0.02.tar.gz
-MARC::Validator                    0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Abstract          0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Const             0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
+MARC::Validator                    0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Abstract          0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Const             0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
 MARC::Validator::Filter            0.01  S/SK/SKIM/MARC-Validator-Filter-0.01.tar.gz
 MARC::Validator::Filter::Abstract  0.01  S/SK/SKIM/MARC-Validator-Filter-0.01.tar.gz
 MARC::Validator::Filter::Plugin::AACR2 0.01  S/SK/SKIM/MARC-Validator-Filter-0.01.tar.gz
 MARC::Validator::Filter::Plugin::Material 0.01  S/SK/SKIM/MARC-Validator-Filter-0.01.tar.gz
 MARC::Validator::Filter::Plugin::RDA 0.01  S/SK/SKIM/MARC-Validator-Filter-0.01.tar.gz
-MARC::Validator::Plugin::Field008  0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Plugin::Field020  0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Plugin::Field035  0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Plugin::Field040  0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Plugin::Field045  0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Plugin::Field080  0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Plugin::Field260  0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Plugin::Field264  0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Plugin::Field300  0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Plugin::Field500  0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Plugin::Field504  0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Plugin::Field655  0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
-MARC::Validator::Utils             0.22  S/SK/SKIM/MARC-Validator-0.22.tar.gz
+MARC::Validator::Plugin::Field008  0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Plugin::Field020  0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Plugin::Field035  0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Plugin::Field040  0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Plugin::Field045  0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Plugin::Field080  0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Plugin::Field260  0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Plugin::Field264  0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Plugin::Field300  0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Plugin::Field500  0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Plugin::Field504  0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Plugin::Field655  0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
+MARC::Validator::Utils             0.23  S/SK/SKIM/MARC-Validator-0.23.tar.gz
 MARC::Xform                        0.02  N/NK/NKUITSE/MARC-Xform-0.02.tar.gz
 MARC::Xform::AddRDA33x            undef  N/NK/NKUITSE/MARC-Xform-0.02.tar.gz
 Marek::Pod::HTML                   0.49  M/MA/MAREKR/MarekPodHtml-0.49.tar.gz
