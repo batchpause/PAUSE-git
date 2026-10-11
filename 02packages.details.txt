@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261794
-Last-Updated: Sun, 11 Oct 2026 18:54:47 GMT
+Line-Count:   261796
+Last-Updated: Sun, 11 Oct 2026 19:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -79055,6 +79055,8 @@ FIX::Parser::FIX44                 0.02  B/BI/BINARY/FIX-Parser-0.02.tar.gz
 Fixed                             0.003  T/TO/TOBYINK/Fixed-0.003.tar.gz
 fixedtime                          0.05  A/AB/ABELTJE/fixedtime-0.05.tar.gz
 FixerIO::API                   0.001000  W/WO/WOZNOTWOZ/FixerIO-API-0.1.0.tar.gz
+FixMP3Tags                         0.02  V/VR/VRSKI/FixMP3Tags-0.02.tar.gz
+FixMP3Tags::Processor             undef  V/VR/VRSKI/FixMP3Tags-0.02.tar.gz
 FixString                         undef  B/BR/BRIANDFOY/Unicode-Tussle-1.122.tar.gz
 Fl                             v0.99.15  S/SA/SANKO/Fl-0.99.15.tar.gz
 FL3                                0.03  A/AM/AMBS/Lingua/Lingua-FreeLing3-0.09.tar.gz
