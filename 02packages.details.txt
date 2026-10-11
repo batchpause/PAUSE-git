@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261549
-Last-Updated: Sun, 11 Oct 2026 06:41:02 GMT
+Last-Updated: Sun, 11 Oct 2026 07:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -212838,22 +212838,22 @@ ShardedKV::Storage::Redis::Hash    0.20  A/AV/AVAR/ShardedKV-0.20.tar.gz
 ShardedKV::Storage::Redis::String  0.20  A/AV/AVAR/ShardedKV-0.20.tar.gz
 ShardedKV::Storage::ReplicatedRest undef  D/DG/DGRYSKI/ShardedKV-Storage-Rest-0.8.tar.gz
 ShardedKV::Storage::Rest            0.8  D/DG/DGRYSKI/ShardedKV-Storage-Rest-0.8.tar.gz
-Shared::Arena                      0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::Bloom               0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::Cache               0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::CountMin            0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::Cuckoo              0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::Frozen              0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::Frozen::View        0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::Histogram           0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::HyperLogLog         0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::Lease               0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::Map                 0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::Rate                0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::Ring                0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::Ring::Cursor        0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::Ring::Group         0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
-Shared::Arena::Scoreboard          0.14  L/LN/LNATION/Shared-Arena-0.14.tar.gz
+Shared::Arena                      0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::Bloom               0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::Cache               0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::CountMin            0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::Cuckoo              0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::Frozen              0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::Frozen::View        0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::Histogram           0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::HyperLogLog         0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::Lease               0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::Map                 0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::Rate                0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::Ring                0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::Ring::Cursor        0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::Ring::Group         0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
+Shared::Arena::Scoreboard          0.15  L/LN/LNATION/Shared-Arena-0.15.tar.gz
 Shared::Examples::Net::Amazon::S3 0.992  B/BA/BARNEY/Net-Amazon-S3-0.992.tar.gz
 Shared::Examples::Net::Amazon::S3::ACL 0.89  L/LL/LLAP/Net-Amazon-S3-0.89.tar.gz
 Shared::Examples::Net::Amazon::S3::API 0.992  B/BA/BARNEY/Net-Amazon-S3-0.992.tar.gz
