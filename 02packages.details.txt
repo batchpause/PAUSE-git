@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261793
-Last-Updated: Sun, 11 Oct 2026 15:17:02 GMT
+Last-Updated: Sun, 11 Oct 2026 15:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -231654,23 +231654,23 @@ Text::MarkdownAdoc::Parser        undef  S/SP/SPATOCS/Text-MarkdownAdoc-0.1.0.ta
 Text::MarkdownAdoc::Refs          undef  S/SP/SPATOCS/Text-MarkdownAdoc-0.1.0.tar.gz
 Text::MarkdownTable            0.003001  V/VO/VOJ/Text-MarkdownTable-0.3.1.tar.gz
 Text::Markmoredown             0.000036  K/KI/KIAVASH/text/Text-Markmoredown-0.000036.tar.gz
-Text::Markup                       0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
+Text::Markup                       0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
 Text::Markup::Any                  0.04  S/SO/SONGMU/Text-Markup-Any-0.04.tar.gz
-Text::Markup::Asciidoc             0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::Asciidoctor          0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::Bbcode               0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::Cmd                 undef  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::CommonMark           0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::Creole               0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::HTML                 0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::Markdown             0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::Mediawiki            0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::Multimarkdown        0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::None                 0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::Pod                  0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::Rest                 0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::Textile              0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
-Text::Markup::Trac                 0.42  D/DW/DWHEELER/Text-Markup-0.42.tar.gz
+Text::Markup::Asciidoc             0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::Asciidoctor          0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::Bbcode               0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::Cmd                 undef  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::CommonMark           0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::Creole               0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::HTML                 0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::Markdown             0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::Mediawiki            0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::Multimarkdown        0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::None                 0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::Pod                  0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::Rest                 0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::Textile              0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
+Text::Markup::Trac                 0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
 Text::Match                    20201221  P/PR/PRBRENAN/Text-Match-20201221.tar.gz
 Text::Match::FastAlternatives      1.05  A/AR/ARC/Text-Match-FastAlternatives-1.05.tar.gz
 Text::MatchedPosition              0.03  B/BA/BAYASHI/Text-MatchedPosition-0.03.tar.gz
