@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261549
-Last-Updated: Sun, 11 Oct 2026 07:41:02 GMT
+Line-Count:   261550
+Last-Updated: Sun, 11 Oct 2026 07:54:28 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -80566,7 +80566,7 @@ Frost::Twilight::LRU               0.65  E/ER/ERNESTO/Frost-0.70.tar.gz
 Frost::Types                       0.64  E/ER/ERNESTO/Frost-0.70.tar.gz
 Frost::Util                         0.5  E/ER/ERNESTO/Frost-0.70.tar.gz
 Frost::Vault                       0.62  E/ER/ERNESTO/Frost-0.70.tar.gz
-Frozen                             0.08  L/LN/LNATION/Frozen-0.08.tar.gz
+Frozen                             0.09  L/LN/LNATION/Frozen-0.09.tar.gz
 Fry::Base                         undef  B/BO/BOZO/Fry-Shell-0.15.tar.gz
 Fry::Cmd                          undef  B/BO/BOZO/Fry-Shell-0.15.tar.gz
 Fry::Config::Default              undef  B/BO/BOZO/Fry-Shell-0.15.tar.gz
@@ -156380,6 +156380,7 @@ PAGI                           0.003000  J/JJ/JJNAPIORK/PAGI-0.003000.tar.gz
 PAGI::App::Cascade             0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
 PAGI::App::Directory           0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
 PAGI::App::File                0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
+PAGI::App::GoldenCage             0.001  B/BR/BRTASTIC/PAGI-App-GoldenCage-0.001.tar.gz
 PAGI::App::Healthcheck         0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
 PAGI::App::Loader              0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
 PAGI::App::NotFound            0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
@@ -221899,7 +221900,7 @@ StringHandle                       0.20  G/GM/GMAX/Chess-PGN-Parse-0.20.tar.gz
 Stringify::Deep                    0.03  A/AQ/AQUILINA/Stringify-Deep-0.03.tar.gz
 StrNum                            undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrNum.pm.gz
 StrTree                           undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrTree.pm.gz
-Struct::Codec                      0.08  L/LN/LNATION/Struct-Codec-0.08.tar.gz
+Struct::Codec                      0.09  L/LN/LNATION/Struct-Codec-0.09.tar.gz
 Struct::Compare                     1.0  Z/ZE/ZENSPIDER/Struct-Compare-1.0.1.tar.gz
 Struct::Conditional                1.04  L/LN/LNATION/Struct-Conditional-1.04.tar.gz
 Struct::Diff                       0.98  M/MI/MIXAS/Struct-Diff-0.98.tar.gz
