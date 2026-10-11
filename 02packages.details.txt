@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261799
-Last-Updated: Sun, 11 Oct 2026 20:29:02 GMT
+Line-Count:   261806
+Last-Updated: Sun, 11 Oct 2026 22:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -154688,6 +154688,8 @@ OpenTelemetry::Logs::Logger       0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Logs::LoggerProvider 0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Logs::LogRecord::Processor 0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Processor          0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
+OpenTelemetry::Processor::Batch   0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::Processor::Simple  0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
 OpenTelemetry::Propagator         0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Propagator::Baggage 0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Propagator::Composite 0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
@@ -154698,23 +154700,28 @@ OpenTelemetry::Propagator::TraceContext::TraceFlags 0.039  J/JJ/JJATRIA/OpenTele
 OpenTelemetry::Propagator::TraceContext::TraceParent 0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Propagator::TraceContext::TraceState 0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Proto              0.021  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.021.tar.gz
-OpenTelemetry::SDK                0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Exporter::Console 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::InstrumentationScope 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Resource      0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Trace::Sampler 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Trace::Sampler::AlwaysOff 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Trace::Sampler::AlwaysOn 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Trace::Sampler::ParentBased 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Trace::Sampler::Result 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Trace::Sampler::TraceIDRatioBased 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Trace::Span   0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Trace::Span::Processor::Batch 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Trace::Span::Processor::Simple 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Trace::Span::Readable 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Trace::SpanLimits 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Trace::Tracer 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
-OpenTelemetry::SDK::Trace::TracerProvider 0.028  J/JJ/JJATRIA/OpenTelemetry-SDK-0.028.tar.gz
+OpenTelemetry::SDK                0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Exporter::Console 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::InstrumentationScope 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Logs::Logger  0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Logs::LoggerProvider 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Logs::LogRecord 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Logs::LogRecord::Processor::Batch 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Logs::LogRecord::Processor::Simple 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Resource      0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Trace::Sampler 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Trace::Sampler::AlwaysOff 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Trace::Sampler::AlwaysOn 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Trace::Sampler::ParentBased 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Trace::Sampler::Result 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Trace::Sampler::TraceIDRatioBased 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Trace::Span   0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Trace::Span::Processor::Batch 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Trace::Span::Processor::Simple 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Trace::Span::Readable 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Trace::SpanLimits 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Trace::Tracer 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
+OpenTelemetry::SDK::Trace::TracerProvider 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
 OpenTelemetry::Trace              0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Trace::Event       0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Trace::Link        0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz

@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668950
+Line-Count:  668957
 Written-By:  PAUSE version 1.005
-Date:        Sun, 11 Oct 2026 20:18:16 GMT
+Date:        Sun, 11 Oct 2026 22:30:22 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -418807,6 +418807,8 @@ OpenTelemetry::Logs::LoggerProvider,JJATRIA,c
 OpenTelemetry::Logs::LoggerProvider,TEAM,f
 OpenTelemetry::Processor,JJATRIA,c
 OpenTelemetry::Processor,TEAM,f
+OpenTelemetry::Processor::Batch,JJATRIA,f
+OpenTelemetry::Processor::Simple,JJATRIA,f
 OpenTelemetry::Propagator,JJATRIA,c
 OpenTelemetry::Propagator,TEAM,f
 OpenTelemetry::Propagator::Baggage,JJATRIA,c
@@ -418829,6 +418831,11 @@ OpenTelemetry::Proto,JJATRIA,f
 OpenTelemetry::SDK,JJATRIA,f
 OpenTelemetry::SDK::Exporter::Console,JJATRIA,f
 OpenTelemetry::SDK::InstrumentationScope,JJATRIA,f
+OpenTelemetry::SDK::Logs::LogRecord,JJATRIA,f
+OpenTelemetry::SDK::Logs::LogRecord::Processor::Batch,JJATRIA,f
+OpenTelemetry::SDK::Logs::LogRecord::Processor::Simple,JJATRIA,f
+OpenTelemetry::SDK::Logs::Logger,JJATRIA,f
+OpenTelemetry::SDK::Logs::LoggerProvider,JJATRIA,f
 OpenTelemetry::SDK::Resource,JJATRIA,f
 OpenTelemetry::SDK::Trace::Sampler,JJATRIA,f
 OpenTelemetry::SDK::Trace::Sampler::AlwaysOff,JJATRIA,f
