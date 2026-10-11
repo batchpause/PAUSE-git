@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261551
-Last-Updated: Sun, 11 Oct 2026 10:54:46 GMT
+Last-Updated: Sun, 11 Oct 2026 11:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -200155,7 +200155,7 @@ Qmail::Deliverable::Client        undef  M/MS/MSIMERSON/Qmail-Deliverable-1.12.t
 Qmail::Deliverable::Status         1.12  M/MS/MSIMERSON/Qmail-Deliverable-1.12.tar.gz
 Qmail::Envelope                    0.53  M/MJ/MJA/Qmail-Envelope-0.53.tar.gz
 Qmail::Mysql                       0.02  E/EB/EBRUNI/Qmail-Mysql-0.02.tar.gz
-QMail::QueueHandler            2.000004  D/DA/DAVECROSS/QMail-QueueHandler-2.0.4.tar.gz
+QMail::QueueHandler            2.000005  D/DA/DAVECROSS/QMail-QueueHandler-2.0.5.tar.gz
 QMake::Project                     0.85  R/RO/ROHANPM/QMake-Project-0.85.tar.gz
 QML::File                          0.02  Z/ZB/ZBLAIR/QML-File-0.02.tar.gz
 qmp                                0.03  O/OH/OHOLLMEN/JRPC-0.61.tar.gz
