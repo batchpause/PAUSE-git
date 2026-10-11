@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668931
+Line-Count:  668942
 Written-By:  PAUSE version 1.005
-Date:        Sun, 11 Oct 2026 12:42:13 GMT
+Date:        Sun, 11 Oct 2026 13:56:16 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -153248,7 +153248,13 @@ Game::Fanorona::Terminal,LNATION,f
 Game::Fanorona::Variant,LNATION,f
 Game::Floppy,LNATION,f
 Game::Floppy::Bird,LNATION,f
+Game::Floppy::Bot,LNATION,f
+Game::Floppy::Error,LNATION,f
+Game::Floppy::Raylib,LNATION,f
+Game::Floppy::Result,LNATION,f
 Game::Floppy::Sprite,LNATION,f
+Game::Floppy::Terminal,LNATION,f
+Game::Floppy::Ticker,LNATION,f
 Game::Floppy::Tube,LNATION,f
 Game::Gin,LNATION,f
 Game::Gin::Bot,LNATION,f
@@ -599668,6 +599674,11 @@ Term::Cap,JSTOWE,c
 Term::Cap,P5P,f
 Term::Cap,TSANDERS,c
 Term::Chart,DYLAN,f
+Term::Chess,LNATION,f
+Term::Chess::Bot,LNATION,f
+Term::Chess::Error,LNATION,f
+Term::Chess::Game,LNATION,f
+Term::Chess::Watcher,LNATION,f
 Term::Choose,KUERBIS,f
 Term::Choose::Constants,KUERBIS,f
 Term::Choose::GC,KUERBIS,f
