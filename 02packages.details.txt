@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261600
-Last-Updated: Sun, 11 Oct 2026 12:17:02 GMT
+Line-Count:   261606
+Last-Updated: Sun, 11 Oct 2026 12:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81701,13 +81701,19 @@ Game::Schnapsen::Terminal          0.03  L/LN/LNATION/Game-Schnapsen-0.03.tar.gz
 Game::Schnapsen::Trick             0.03  L/LN/LNATION/Game-Schnapsen-0.03.tar.gz
 Game::Schnapsen::Variant           0.03  L/LN/LNATION/Game-Schnapsen-0.03.tar.gz
 Game::SDL                      0.001001  K/KO/KOBOLDWIZ/Perl5/Game-SDL-0.1.1.tar.gz
-Game::Snake                        0.11  L/LN/LNATION/Game-Snake-0.11.tar.gz
+Game::Snake                        0.12  L/LN/LNATION/Game-Snake-0.12.tar.gz
+Game::Snake::Bot                   0.12  L/LN/LNATION/Game-Snake-0.12.tar.gz
 Game::Snake::Cell                  0.11  L/LN/LNATION/Game-Snake-0.11.tar.gz
+Game::Snake::Error                 0.12  L/LN/LNATION/Game-Snake-0.12.tar.gz
 Game::Snake::Food                  0.11  L/LN/LNATION/Game-Snake-0.11.tar.gz
 Game::Snake::Head                  0.11  L/LN/LNATION/Game-Snake-0.11.tar.gz
+Game::Snake::Raylib                0.12  L/LN/LNATION/Game-Snake-0.12.tar.gz
+Game::Snake::Result                0.12  L/LN/LNATION/Game-Snake-0.12.tar.gz
 Game::Snake::Sprite                0.11  L/LN/LNATION/Game-Snake-0.11.tar.gz
 Game::Snake::Tail                  0.11  L/LN/LNATION/Game-Snake-0.11.tar.gz
+Game::Snake::Terminal              0.12  L/LN/LNATION/Game-Snake-0.12.tar.gz
 Game::Snake::Text                  0.11  L/LN/LNATION/Game-Snake-0.11.tar.gz
+Game::Snake::Ticker                0.12  L/LN/LNATION/Game-Snake-0.12.tar.gz
 Game::TextMapper                   1.09  S/SC/SCHROEDER/Game-TextMapper-1.09.tar.gz
 Game::TextMapper::Apocalypse      undef  S/SC/SCHROEDER/Game-TextMapper-1.09.tar.gz
 Game::TextMapper::Command::random undef  S/SC/SCHROEDER/Game-TextMapper-1.09.tar.gz
@@ -136523,7 +136529,7 @@ Mojolicious::Plugin::Webpack       1.02  J/JH/JHTHORSEN/Mojolicious-Plugin-Webpa
 Mojolicious::Plugin::WebPush       0.05  E/ET/ETJ/Mojolicious-Plugin-WebPush-0.05.tar.gz
 Mojolicious::Plugin::WebSocketProxy 0.16  D/DE/DERIV/Mojo-WebSocketProxy-0.16.tar.gz
 Mojolicious::Plugin::Webtail       0.07  H/HA/HAYAJO/Mojolicious-Plugin-Webtail-0.07.tar.gz
-Mojolicious::Plugin::WithCSRFProtection 1.02  I/IS/ISHIGAKI/Mojolicious-Plugin-WithCSRFProtection-1.02.tar.gz
+Mojolicious::Plugin::WithCSRFProtection 1.03  I/IS/ISHIGAKI/Mojolicious-Plugin-WithCSRFProtection-1.03.tar.gz
 Mojolicious::Plugin::Wolowitz  1.000001  G/GU/GUGOD/Mojolicious-Plugin-Wolowitz-1.0.1.tar.gz
 Mojolicious::Plugin::Wordpress     0.03  J/JH/JHTHORSEN/Mojolicious-Plugin-Wordpress-0.03.tar.gz
 Mojolicious::Plugin::WriteExcel    3.00  Z/ZA/ZAKAME/Mojolicious-Plugin-WriteExcel-3.00.tar.gz
