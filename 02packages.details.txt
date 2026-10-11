@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261536
-Last-Updated: Sun, 11 Oct 2026 00:41:02 GMT
+Last-Updated: Sun, 11 Oct 2026 01:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -228865,7 +228865,7 @@ Test::JSON::RPC::Autodoc::Request undef  Y/YU/YUSUKEBE/Test-JSON-RPC-Autodoc-0.1
 Test::JSON::RPC::Autodoc::Response undef  Y/YU/YUSUKEBE/Test-JSON-RPC-Autodoc-0.15.tar.gz
 Test::JSON::RPC::Autodoc::Validator undef  Y/YU/YUSUKEBE/Test-JSON-RPC-Autodoc-0.15.tar.gz
 Test::JSON::Schema                0.001  E/ET/ETHER/Test-JSON-Schema-0.001.tar.gz
-Test::JSON::Schema::Acceptance    1.039  E/ET/ETHER/Test-JSON-Schema-Acceptance-1.039.tar.gz
+Test::JSON::Schema::Acceptance    1.040  E/ET/ETHER/Test-JSON-Schema-Acceptance-1.040.tar.gz
 Test::JSON::Type                   0.04  S/SK/SKIM/Test-JSON-Type-0.04.tar.gz
 Test::JsonAPI::Autodoc             0.22  M/MO/MOZNION/Test-JsonAPI-Autodoc-0.22.tar.gz
 Test::JsonAPI::Autodoc::Markdown  undef  M/MO/MOZNION/Test-JsonAPI-Autodoc-0.22.tar.gz
@@ -228939,7 +228939,7 @@ Test::LocalFunctions::PPI         undef  M/MO/MOZNION/Test-LocalFunctions-0.23.t
 Test::LocalFunctions::Receptor    undef  M/MO/MOZNION/Test-LocalFunctions-0.23.tar.gz
 Test::LocalFunctions::Util        undef  M/MO/MOZNION/Test-LocalFunctions-0.23.tar.gz
 Test::Log4perl                   0.1001  F/FO/FOTANGO/Test-Log4perl-0.1001.tar.gz
-Test::Log::Abstraction            0.001  N/NH/NHORNE/Test-Log-Abstraction-0.001.0.tar.gz
+Test::Log::Abstraction            0.002  N/NH/NHORNE/Test-Log-Abstraction-0.002.0.tar.gz
 Test::Log::Dispatch                0.03  J/JS/JSWARTZ/Test-Log-Dispatch-0.03.tar.gz
 Test::Log::Log4perl                0.32  C/CL/CLKAO/Test-Log-Log4perl-0.32.tar.gz
 Test::LogFile                      0.04  K/KO/KOJIMAGI/Test-LogFile-0.04.tar.gz
