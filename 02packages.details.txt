@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261796
-Last-Updated: Sun, 11 Oct 2026 19:17:02 GMT
+Last-Updated: Sun, 11 Oct 2026 19:54:46 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -133157,7 +133157,7 @@ MIDI::RtMidi::FFI::Device          0.13  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.13.tar.
 MIDI::RtMidi::FFI::Device::In      0.13  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.13.tar.gz
 MIDI::RtMidi::FFI::Device::Out     0.13  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.13.tar.gz
 MIDI::RtMidi::ScorePlayer        0.0303  G/GE/GENE/MIDI-RtMidi-ScorePlayer-0.0303.tar.gz
-MIDI::RtMidi::Util               0.0502  G/GE/GENE/MIDI-RtMidi-Util-0.0502.tar.gz
+MIDI::RtMidi::Util               0.0503  G/GE/GENE/MIDI-RtMidi-Util-0.0503.tar.gz
 MIDI::Score                        0.84  C/CO/CONKLIN/MIDI-Perl-0.84.tar.gz
 MIDI::Segment                      0.03  J/JM/JMATES/MIDI-Segment-0.03.tar.gz
 MIDI::Simple                       0.84  C/CO/CONKLIN/MIDI-Perl-0.84.tar.gz
