@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668688
+Line-Count:  668698
 Written-By:  PAUSE version 1.005
-Date:        Sun, 11 Oct 2026 00:18:32 GMT
+Date:        Sun, 11 Oct 2026 02:18:19 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -153186,6 +153186,16 @@ Game::Entities,JJATRIA,f
 Game::FaceGenerator,SCHROEDER,f
 Game::FaceGenerator::Command::random,SCHROEDER,f
 Game::FaceGenerator::Core,SCHROEDER,f
+Game::Fanorona,LNATION,f
+Game::Fanorona::Bot,LNATION,f
+Game::Fanorona::Engine,LNATION,f
+Game::Fanorona::Error,LNATION,f
+Game::Fanorona::Move,LNATION,f
+Game::Fanorona::Notation,LNATION,f
+Game::Fanorona::Result,LNATION,f
+Game::Fanorona::Rules,LNATION,f
+Game::Fanorona::Terminal,LNATION,f
+Game::Fanorona::Variant,LNATION,f
 Game::Floppy,LNATION,f
 Game::Floppy::Bird,LNATION,f
 Game::Floppy::Sprite,LNATION,f

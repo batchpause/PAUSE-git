@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261537
-Last-Updated: Sun, 11 Oct 2026 01:54:35 GMT
+Line-Count:   261547
+Last-Updated: Sun, 11 Oct 2026 02:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81491,6 +81491,16 @@ Game::Entities                    0.101  J/JJ/JJATRIA/Game-Entities-0.101.tar.gz
 Game::FaceGenerator                1.04  S/SC/SCHROEDER/Game-FaceGenerator-1.04.tar.gz
 Game::FaceGenerator::Command::random undef  S/SC/SCHROEDER/Game-FaceGenerator-1.04.tar.gz
 Game::FaceGenerator::Core         undef  S/SC/SCHROEDER/Game-FaceGenerator-1.04.tar.gz
+Game::Fanorona                     0.01  L/LN/LNATION/Game-Fanorona-0.01.tar.gz
+Game::Fanorona::Bot                0.01  L/LN/LNATION/Game-Fanorona-0.01.tar.gz
+Game::Fanorona::Engine             0.01  L/LN/LNATION/Game-Fanorona-0.01.tar.gz
+Game::Fanorona::Error              0.01  L/LN/LNATION/Game-Fanorona-0.01.tar.gz
+Game::Fanorona::Move               0.01  L/LN/LNATION/Game-Fanorona-0.01.tar.gz
+Game::Fanorona::Notation           0.01  L/LN/LNATION/Game-Fanorona-0.01.tar.gz
+Game::Fanorona::Result             0.01  L/LN/LNATION/Game-Fanorona-0.01.tar.gz
+Game::Fanorona::Rules              0.01  L/LN/LNATION/Game-Fanorona-0.01.tar.gz
+Game::Fanorona::Terminal           0.01  L/LN/LNATION/Game-Fanorona-0.01.tar.gz
+Game::Fanorona::Variant            0.01  L/LN/LNATION/Game-Fanorona-0.01.tar.gz
 Game::Floppy                       0.08  L/LN/LNATION/Game-Floppy-0.08.tar.gz
 Game::Floppy::Bird                 0.08  L/LN/LNATION/Game-Floppy-0.08.tar.gz
 Game::Floppy::Sprite               0.08  L/LN/LNATION/Game-Floppy-0.08.tar.gz
