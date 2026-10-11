@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261551
-Last-Updated: Sun, 11 Oct 2026 10:29:01 GMT
+Last-Updated: Sun, 11 Oct 2026 10:54:46 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -153287,7 +153287,7 @@ Ogg::LibOgg                        0.02  V/VI/VIGITH/Ogg-LibOgg-0.02.tar.gz
 Ogg::Theora::LibTheora             0.04  V/VI/VIGITH/Ogg-Theora-LibTheora-0.04.tar.gz
 Ogg::Vorbis                        0.04  F/FO/FOOF/libvorbis-perl-0.05.tar.gz
 Ogg::Vorbis::Decoder                0.9  D/DA/DANIEL/Ogg-Vorbis-Decoder-0.9.tar.gz
-Ogg::Vorbis::Header                0.11  D/DA/DAVECROSS/Ogg-Vorbis-Header-0.11.tar.gz
+Ogg::Vorbis::Header                0.12  D/DA/DAVECROSS/Ogg-Vorbis-Header-0.12.tar.gz
 Ogg::Vorbis::Header::PurePerl      1.05  D/DA/DAVECROSS/Ogg-Vorbis-Header-PurePerl-1.05.tar.gz
 Ogg::Vorbis::LibVorbis             0.01  V/VI/VIGITH/Ogg-Vorbis-LibVorbis-0.01.tar.gz
 Ogma                               0.03  L/LN/LNATION/Ogma-0.03.tar.gz
@@ -153796,10 +153796,10 @@ OPCUA::Open62541::Test::Client    undef  B/BL/BLUHM/OPCUA-Open62541-2.10.tar.gz
 OPCUA::Open62541::Test::Logger    undef  B/BL/BLUHM/OPCUA-Open62541-2.10.tar.gz
 OPCUA::Open62541::Test::Server    undef  B/BL/BLUHM/OPCUA-Open62541-2.10.tar.gz
 open                               1.13  S/SH/SHAY/perl-5.42.3.tar.gz
-Open::API                          0.14  L/LN/LNATION/Open-API-0.14.tar.gz
-Open::API::Client                  0.13  L/LN/LNATION/Open-API-0.14.tar.gz
-Open::API::Plack                   0.13  L/LN/LNATION/Open-API-0.14.tar.gz
-Open::API::UI                      0.13  L/LN/LNATION/Open-API-0.14.tar.gz
+Open::API                          0.15  L/LN/LNATION/Open-API-0.15.tar.gz
+Open::API::Client                  0.13  L/LN/LNATION/Open-API-0.15.tar.gz
+Open::API::Plack                   0.13  L/LN/LNATION/Open-API-0.15.tar.gz
+Open::API::UI                      0.13  L/LN/LNATION/Open-API-0.15.tar.gz
 open::layers                      0.003  D/DB/DBOOK/open-layers-0.003.tar.gz
 Open::This                     0.000035  O/OA/OALDERS/Open-This-0.000035.tar.gz
 OpenAI::API                        0.37  N/NF/NFERRAZ/OpenAI-API-0.37.tar.gz
@@ -156381,7 +156381,7 @@ PAGI                           0.003000  J/JJ/JJNAPIORK/PAGI-0.003000.tar.gz
 PAGI::App::Cascade             0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
 PAGI::App::Directory           0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
 PAGI::App::File                0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
-PAGI::App::GoldenCage             0.001  B/BR/BRTASTIC/PAGI-App-GoldenCage-0.001.tar.gz
+PAGI::App::GoldenCage             0.002  B/BR/BRTASTIC/PAGI-App-GoldenCage-0.002.tar.gz
 PAGI::App::Healthcheck         0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
 PAGI::App::Loader              0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
 PAGI::App::NotFound            0.002002  J/JJ/JJNAPIORK/PAGI-Tools-0.002002.tar.gz
