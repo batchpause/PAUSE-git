@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261547
-Last-Updated: Sun, 11 Oct 2026 02:17:02 GMT
+Last-Updated: Sun, 11 Oct 2026 02:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -20638,15 +20638,15 @@ Asyncore                           0.08  S/SE/SEBA/Asyncore-0.08.tar.gz
 Asyncore::Dispatcher               0.08  S/SE/SEBA/Asyncore-0.08.tar.gz
 AsyncPing                      2016.1207  X/XI/XINFWANG/AsyncPing-2016.1207.tar.gz
 AsyncTimeout                       0.14  A/AR/ARISTOTLE/Async-0.14.tar.gz
-At                                  1.6  S/SA/SANKO/At-1.6.tar.gz
-At::Error                           1.1  S/SA/SANKO/At-1.6.tar.gz
-At::Protocol::DID                   1.0  S/SA/SANKO/At-1.6.tar.gz
-At::Protocol::Firehose              1.0  S/SA/SANKO/At-1.6.tar.gz
-At::Protocol::Handle                1.0  S/SA/SANKO/At-1.6.tar.gz
-At::Protocol::NSID                  1.0  S/SA/SANKO/At-1.6.tar.gz
-At::Protocol::Session               1.3  S/SA/SANKO/At-1.6.tar.gz
-At::Protocol::URI                   1.0  S/SA/SANKO/At-1.6.tar.gz
-At::UserAgent                       1.6  S/SA/SANKO/At-1.6.tar.gz
+At                                undef  S/SA/SANKO/At-1.6.tar.gz
+At::Error                         undef  S/SA/SANKO/At-1.6.tar.gz
+At::Protocol::DID                 undef  S/SA/SANKO/At-1.6.tar.gz
+At::Protocol::Firehose            undef  S/SA/SANKO/At-1.6.tar.gz
+At::Protocol::Handle              undef  S/SA/SANKO/At-1.6.tar.gz
+At::Protocol::NSID                undef  S/SA/SANKO/At-1.6.tar.gz
+At::Protocol::Session             undef  S/SA/SANKO/At-1.6.tar.gz
+At::Protocol::URI                 undef  S/SA/SANKO/At-1.6.tar.gz
+At::UserAgent                     undef  S/SA/SANKO/At-1.6.tar.gz
 AtExit                             2.05  J/JA/JANITOR/AtExit-2.05.tar.gz
 ath                               1.005  D/DB/DBOOK/Math-Calc-Parser-1.005.tar.gz
 Atheme                           0.0001  S/ST/STEPHANJ/Atheme-0.0001.tar.gz
