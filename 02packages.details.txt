@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261536
-Last-Updated: Sun, 11 Oct 2026 00:29:02 GMT
+Last-Updated: Sun, 11 Oct 2026 00:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81474,17 +81474,17 @@ Game::Dominoes::Scoring            0.02  L/LN/LNATION/Game-Dominoes-0.02.tar.gz
 Game::Dominoes::Set                0.02  L/LN/LNATION/Game-Dominoes-0.02.tar.gz
 Game::Dominoes::Terminal           0.02  L/LN/LNATION/Game-Dominoes-0.02.tar.gz
 Game::Dominoes::Tile               0.02  L/LN/LNATION/Game-Dominoes-0.02.tar.gz
-Game::Durak                        0.01  L/LN/LNATION/Game-Durak-0.01.tar.gz
-Game::Durak::Bot                   0.01  L/LN/LNATION/Game-Durak-0.01.tar.gz
-Game::Durak::Bout                  0.01  L/LN/LNATION/Game-Durak-0.01.tar.gz
-Game::Durak::Card                  0.01  L/LN/LNATION/Game-Durak-0.01.tar.gz
-Game::Durak::Deck                  0.01  L/LN/LNATION/Game-Durak-0.01.tar.gz
-Game::Durak::Error                 0.01  L/LN/LNATION/Game-Durak-0.01.tar.gz
-Game::Durak::Result                0.01  L/LN/LNATION/Game-Durak-0.01.tar.gz
-Game::Durak::Rules                 0.01  L/LN/LNATION/Game-Durak-0.01.tar.gz
-Game::Durak::Search                0.01  L/LN/LNATION/Game-Durak-0.01.tar.gz
-Game::Durak::Table                 0.01  L/LN/LNATION/Game-Durak-0.01.tar.gz
-Game::Durak::Terminal              0.01  L/LN/LNATION/Game-Durak-0.01.tar.gz
+Game::Durak                        0.02  L/LN/LNATION/Game-Durak-0.02.tar.gz
+Game::Durak::Bot                   0.02  L/LN/LNATION/Game-Durak-0.02.tar.gz
+Game::Durak::Bout                  0.02  L/LN/LNATION/Game-Durak-0.02.tar.gz
+Game::Durak::Card                  0.02  L/LN/LNATION/Game-Durak-0.02.tar.gz
+Game::Durak::Deck                  0.02  L/LN/LNATION/Game-Durak-0.02.tar.gz
+Game::Durak::Error                 0.02  L/LN/LNATION/Game-Durak-0.02.tar.gz
+Game::Durak::Result                0.02  L/LN/LNATION/Game-Durak-0.02.tar.gz
+Game::Durak::Rules                 0.02  L/LN/LNATION/Game-Durak-0.02.tar.gz
+Game::Durak::Search                0.02  L/LN/LNATION/Game-Durak-0.02.tar.gz
+Game::Durak::Table                 0.02  L/LN/LNATION/Game-Durak-0.02.tar.gz
+Game::Durak::Terminal              0.02  L/LN/LNATION/Game-Durak-0.02.tar.gz
 Game::EnergyLoop                   0.01  J/JM/JMATES/Game-EnergyLoop-0.01.tar.gz
 Game::Entities                    0.101  J/JJ/JJATRIA/Game-Entities-0.101.tar.gz
 Game::FaceGenerator                1.04  S/SC/SCHROEDER/Game-FaceGenerator-1.04.tar.gz
