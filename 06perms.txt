@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668965
+Line-Count:  668966
 Written-By:  PAUSE version 1.005
-Date:        Mon, 12 Oct 2026 10:56:00 GMT
+Date:        Mon, 12 Oct 2026 18:17:55 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -358230,6 +358230,7 @@ Logic::Relational::Goal::Call,MJOHNSON,f
 Logic::Relational::Goal::CellAt,MJOHNSON,f
 Logic::Relational::Goal::ConstraintFD,MJOHNSON,f
 Logic::Relational::Goal::Domain,MJOHNSON,f
+Logic::Relational::Goal::EndCall,MJOHNSON,f
 Logic::Relational::Goal::Fail,MJOHNSON,f
 Logic::Relational::Goal::GeneratorStep,MJOHNSON,f
 Logic::Relational::Goal::Guard,MJOHNSON,f

@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261814
-Last-Updated: Mon, 12 Oct 2026 17:54:11 GMT
+Line-Count:   261815
+Last-Updated: Mon, 12 Oct 2026 18:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -124236,42 +124236,43 @@ Logic::Easy                       undef  L/LP/LPALMER/Logic-0.02.tar.gz
 Logic::Expr                        0.02  J/JM/JMATES/Logic-Expr-0.02.tar.gz
 Logic::Expr::Parser                0.02  J/JM/JMATES/Logic-Expr-0.02.tar.gz
 Logic::Minimizer                   1.00  J/JG/JGAMBLE/Logic-Minimizer-1.00.tar.gz
-Logic::Relational                  0.01  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::ArrayRest      undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Atom           undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::ChangeEvent    undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Clause         undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Domain         undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::DSL            undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal           undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::All      undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::AllDifferent undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::Any      undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::Call     undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::CellAt   undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::ConstraintFD undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::Domain   undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::Fail     undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::GeneratorStep undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::Guard    undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::Identical undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::Is       undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::Label    undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::Not      undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::True     undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Goal::Unify    undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Program        undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Query          undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Serializer     undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Solution       undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::State          undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::StdLib         undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Substitution   undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Syntax          0.01  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Term           undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::TraceEvent     undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Unifier        undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
-Logic::Relational::Variable       undef  M/MJ/MJOHNSON/Logic-Relational-0.01.tar.gz
+Logic::Relational                  0.02  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::ArrayRest      undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Atom           undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::ChangeEvent    undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Clause         undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Domain         undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::DSL            undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal           undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::All      undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::AllDifferent undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::Any      undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::Call     undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::CellAt   undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::ConstraintFD undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::Domain   undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::EndCall  undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::Fail     undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::GeneratorStep undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::Guard    undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::Identical undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::Is       undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::Label    undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::Not      undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::True     undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Goal::Unify    undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Program        undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Query          undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Serializer     undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Solution       undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::State          undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::StdLib         undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Substitution   undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Syntax          0.02  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Term           undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::TraceEvent     undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Unifier        undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
+Logic::Relational::Variable       undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
 Logic::Stack                      undef  L/LP/LPALMER/Logic-0.02.tar.gz
 Logic::Stack::Cut                 undef  L/LP/LPALMER/Logic-0.02.tar.gz
 Logic::Stack::Mark                undef  L/LP/LPALMER/Logic-0.02.tar.gz
