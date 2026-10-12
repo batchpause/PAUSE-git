@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261810
-Last-Updated: Mon, 12 Oct 2026 09:29:02 GMT
+Line-Count:   261811
+Last-Updated: Mon, 12 Oct 2026 10:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -102539,6 +102539,7 @@ HTML::Acid::Buffer               v0.0.3  S/SI/SILASMONK/HTML-Acid-v0.0.3.tar.gz
 HTML::Acronyms                   v0.0.4  S/SH/SHLOMIF/HTML-Acronyms-0.0.4.tar.gz
 HTML::ActiveLink                   1.02  N/NW/NWIGER/HTML-ActiveLink-1.02.tar.gz
 HTML::Adsense                       0.2  S/SO/SOCK/HTML-Adsense-0.2.tar.gz
+HTML::Anchor::Audit               0.001  N/NE/NEDALDEV/HTML-Anchor-Audit-0.001.tar.gz
 HTML::AsHTML                       1.03  M/MI/MIKEDLR/Link_Controller-0.037.tar.gz
 HTML::AsSubs                       5.07  K/KE/KENTNL/HTML-Tree-5.07.tar.gz
 HTML::AsText::Fix                 0.003  S/SY/SYP/HTML-AsText-Fix-0.003.tar.gz
