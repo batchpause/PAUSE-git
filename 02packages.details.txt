@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261813
-Last-Updated: Mon, 12 Oct 2026 10:41:01 GMT
+Line-Count:   261814
+Last-Updated: Mon, 12 Oct 2026 10:54:32 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -8705,9 +8705,9 @@ App::ape::update                  0.001  T/TE/TEODESIAN/App-Prove-Plugin-Elastic
 App::Aphra                     0.002009  D/DA/DAVECROSS/App-Aphra-0.2.9.tar.gz
 App::Aphra::File                  undef  D/DA/DAVECROSS/App-Aphra-0.2.9.tar.gz
 App::ApplicationAutoscaling           0  B/BI/BIGFOOT/App-FargateStack-1.0.50.tar.gz
-App::AppSpec                      0.006  T/TI/TINITA/App-AppSpec-0.006.tar.gz
-App::AppSpec::Schema::Validator   0.006  T/TI/TINITA/App-AppSpec-0.006.tar.gz
-App::AppSpec::Spec                0.006  T/TI/TINITA/App-AppSpec-0.006.tar.gz
+App::AppSpec                     v0.7.0  T/TI/TINITA/App-AppSpec-v0.7.0.tar.gz
+App::AppSpec::Schema::Validator  v0.7.0  T/TI/TINITA/App-AppSpec-v0.7.0.tar.gz
+App::AppSpec::Spec               v0.7.0  T/TI/TINITA/App-AppSpec-v0.7.0.tar.gz
 App::aptperl                     v0.0.4  I/IV/IVANWILLS/App-aptperl-v0.0.4.tar.gz
 App::ArduinoBuilder                0.08  M/MA/MATHIAS/Dist-Setup/App-ArduinoBuilder-0.08.tar.gz
 App::ArduinoBuilder::Builder      undef  M/MA/MATHIAS/App-ArduinoBuilder/App-ArduinoBuilder-0.04.tar.gz
@@ -16120,30 +16120,31 @@ App::spaceless                     0.08  P/PL/PLICEASE/App-spaceless-0.08.tar.gz
 App::Spanel::BuildBindZones       0.002  P/PE/PERLANCAR/App-Spanel-BuildBindZones-0.002.tar.gz
 App::Spanel::BuildBindZonesFromPowerDNSDB 0.002  P/PE/PERLANCAR/App-Spanel-BuildBindZonesFromPowerDNSDB-0.002.tar.gz
 App::Spanel::TailWeblog           0.002  P/PE/PERLANCAR/App-Spanel-TailWeblog-0.002.tar.gz
-App::Spec                       v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Argument             v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
+App::Spec                       v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Argument             v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
 App::Spec::Bash                   0.002  T/TI/TINITA/App-Spec-Bash-0.002.tar.gz
 App::Spec::Bash::Spec             0.002  T/TI/TINITA/App-Spec-Bash-0.002.tar.gz
-App::Spec::Completion           v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Completion::Bash     v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Completion::Zsh      v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Option               v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Parameter            v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Plugin::Format       v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Plugin::Help         v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Plugin::Meta         v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Pod                  v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Role::Command        v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Role::Plugin         v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Role::Plugin::GlobalOptions v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Role::Plugin::Subcommand v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Run                  v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Run::Cmd             v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Run::Output          v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Run::Response        v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Run::Validator       v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Schema               v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
-App::Spec::Subcommand           v0.15.0  T/TI/TINITA/App-Spec-v0.15.0.tar.gz
+App::Spec::Completion           v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Completion::Bash     v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Completion::Fish     v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Completion::Zsh      v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Option               v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Parameter            v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Plugin::Format       v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Plugin::Help         v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Plugin::Meta         v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Pod                  v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Role::Command        v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Role::Plugin         v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Role::Plugin::GlobalOptions v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Role::Plugin::Subcommand v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Run                  v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Run::Cmd             v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Run::Output          v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Run::Response        v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Run::Validator       v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Schema               v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
+App::Spec::Subcommand           v0.16.0  T/TI/TINITA/App-Spec-v0.16.0.tar.gz
 App::SpeedTest                     0.31  H/HM/HMBRAND/App-SpeedTest-0.31.tgz
 App::sponge                       0.003  P/PE/PERLANCAR/App-sponge-0.003.tar.gz
 App::Spoor                         0.08  R/RO/RORYMCK/App-Spoor-0.08.tar.gz
