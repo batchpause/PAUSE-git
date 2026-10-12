@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261809
-Last-Updated: Mon, 12 Oct 2026 05:41:03 GMT
+Line-Count:   261810
+Last-Updated: Mon, 12 Oct 2026 05:54:32 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -215579,6 +215579,7 @@ Simulation::DiscreteEvent::Recorder 0.09  Z/ZW/ZWON/Simulation-DiscreteEvent-0.0
 Simulation::DiscreteEvent::Server  0.09  Z/ZW/ZWON/Simulation-DiscreteEvent-0.09.tar.gz
 Simulation::DiscreteEvent::Sink    0.09  Z/ZW/ZWON/Simulation-DiscreteEvent-0.09.tar.gz
 Simulation::Sensitivity            0.12  D/DA/DAGOLDEN/Simulation-Sensitivity-0.12.tar.gz
+singleton                           0.2  T/TR/TRUNAEV/singleton-0.2.tar.gz
 SIOC                           1.000000  G/GE/GEEWIZ/SIOC-v1.0.0.tar.gz
 SIOC::Community                1.000000  G/GE/GEEWIZ/SIOC-v1.0.0.tar.gz
 SIOC::Container                1.000000  G/GE/GEEWIZ/SIOC-v1.0.0.tar.gz
