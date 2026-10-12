@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668962
+Line-Count:  668964
 Written-By:  PAUSE version 1.005
-Date:        Mon, 12 Oct 2026 10:29:18 GMT
+Date:        Mon, 12 Oct 2026 10:41:55 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -66017,9 +66017,11 @@ CPAN::Maker::Bootstrapper::Role::DepsFilter,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::DistFile,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::ExtraFiles,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::Filter,BIGFOOT,f
+CPAN::Maker::Bootstrapper::Role::Importer,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::Init,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::Installer,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::LLM::Annotator,BIGFOOT,f
+CPAN::Maker::Bootstrapper::Role::LLM::ChangeLog,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::LLM::Models,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes,BIGFOOT,f
 CPAN::Maker::Bootstrapper::Role::LLM::Reviewer,BIGFOOT,f
