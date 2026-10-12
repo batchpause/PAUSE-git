@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261810
-Last-Updated: Mon, 12 Oct 2026 08:17:02 GMT
+Last-Updated: Mon, 12 Oct 2026 09:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -5058,12 +5058,12 @@ Ambassador::API::V2::Error        0.001  D/DR/DREAMHOST/Ambassador-API-V2-0.001.
 Ambassador::API::V2::Result       0.001  D/DR/DREAMHOST/Ambassador-API-V2-0.001.tar.gz
 Ambassador::API::V2::Role::HasJSON 0.001  D/DR/DREAMHOST/Ambassador-API-V2-0.001.tar.gz
 Ambassador::API::V2::Role::Response 0.001  D/DR/DREAMHOST/Ambassador-API-V2-0.001.tar.gz
-AmberDB                        5.026004  M/MC/MCETIN/AmberDB-5.26.4.tar.gz
-AmberDB::Array                 5.026004  M/MC/MCETIN/AmberDB-5.26.4.tar.gz
-AmberDB::Date                  5.026004  M/MC/MCETIN/AmberDB-5.26.4.tar.gz
-AmberDB::Locale                5.026004  M/MC/MCETIN/AmberDB-5.26.4.tar.gz
+AmberDB                        5.026005  M/MC/MCETIN/AmberDB-5.26.5.tar.gz
+AmberDB::Array                 5.026005  M/MC/MCETIN/AmberDB-5.26.5.tar.gz
+AmberDB::Date                  5.026005  M/MC/MCETIN/AmberDB-5.26.5.tar.gz
+AmberDB::Locale                5.026005  M/MC/MCETIN/AmberDB-5.26.5.tar.gz
 AmberDB::String                5.024000  M/MC/MCETIN/AmberDB-5.24.0.tar.gz
-AmberDB::Tools                 5.026004  M/MC/MCETIN/AmberDB-5.26.4.tar.gz
+AmberDB::Tools                 5.026005  M/MC/MCETIN/AmberDB-5.26.5.tar.gz
 AmberDB::Tools::Index          5.026000  M/MC/MCETIN/AmberDB-5.26.0.tar.gz
 AmberDB::Tools::Maintain       5.026000  M/MC/MCETIN/AmberDB-5.26.0.tar.gz
 AmberDB::Tools::Update         5.026000  M/MC/MCETIN/AmberDB-5.26.0.tar.gz
