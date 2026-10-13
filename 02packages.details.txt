@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261845
-Last-Updated: Tue, 13 Oct 2026 20:54:30 GMT
+Last-Updated: Tue, 13 Oct 2026 21:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -191070,7 +191070,7 @@ Perl::Critic::Exception::Parse    1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Freenode           v1.0.4  D/DB/DBOOK/Perl-Critic-Freenode-v1.0.4.tar.gz
 Perl::Critic::Freenode::Utils    v1.0.4  D/DB/DBOOK/Perl-Critic-Freenode-v1.0.4.tar.gz
 Perl::Critic::Git                v1.3.1  A/AU/AUBERTG/Perl-Critic-Git-v1.3.1.tar.gz
-Perl::Critic::Grape            0.001001  B/BB/BBLACKM/Perl-Critic-Grape-0.1.1.tar.gz
+Perl::Critic::Grape            0.001002  B/BB/BBLACKM/Perl-Critic-Grape-0.1.2.tar.gz
 Perl::Critic::Itch                 0.07  M/MA/MARCELO/Perl-Critic-Itch-0.07.tar.gz
 Perl::Critic::Lax                 0.014  R/RJ/RJBS/Perl-Critic-Lax-0.014.tar.gz
 Perl::Critic::logicLAB             0.11  J/JO/JONASBN/Perl-Critic-logicLAB-0.11.tar.gz
@@ -191139,7 +191139,7 @@ Perl::Critic::Policy::CodeLayout::RequireConsistentNewlines 1.156  P/PE/PETDANCE
 Perl::Critic::Policy::CodeLayout::RequireFinalSemicolon 100  K/KR/KRYDE/Perl-Critic-Pulp-100.tar.gz
 Perl::Critic::Policy::CodeLayout::RequireKRBracing undef  S/SN/SNEZ/Perl-Critic-PolicyBundle-SNEZ-0.03.tar.gz
 Perl::Critic::Policy::CodeLayout::RequireKRParens undef  S/SN/SNEZ/Perl-Critic-PolicyBundle-SNEZ-0.03.tar.gz
-Perl::Critic::Policy::CodeLayout::RequireParensWithBuiltins 0.001001  B/BB/BBLACKM/Perl-Critic-Grape-0.1.1.tar.gz
+Perl::Critic::Policy::CodeLayout::RequireParensWithBuiltins 0.001002  B/BB/BBLACKM/Perl-Critic-Grape-0.1.2.tar.gz
 Perl::Critic::Policy::CodeLayout::RequireSpaceAroundBinaryOperators undef  S/SN/SNEZ/Perl-Critic-PolicyBundle-SNEZ-0.03.tar.gz
 Perl::Critic::Policy::CodeLayout::RequireTidyCode 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::CodeLayout::RequireTrailingCommaAtNewline 100  K/KR/KRYDE/Perl-Critic-Pulp-100.tar.gz
@@ -191188,7 +191188,7 @@ Perl::Critic::Policy::ControlStructures::ProhibitCascadingIfElse 1.156  P/PE/PET
 Perl::Critic::Policy::ControlStructures::ProhibitCStyleForLoops 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitDeepNests 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitGotoIntoConstruct 0.07  D/DJ/DJZORT/Perl-Critic-PolicyBundle-LoopsAndLabels-0.07.tar.gz
-Perl::Critic::Policy::ControlStructures::ProhibitInlineDo 0.001001  B/BB/BBLACKM/Perl-Critic-Grape-0.1.1.tar.gz
+Perl::Critic::Policy::ControlStructures::ProhibitInlineDo 0.001002  B/BB/BBLACKM/Perl-Critic-Grape-0.1.2.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitLabelsWithSpecialBlockNames 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitMultipleSubscripts undef  S/SN/SNEZ/Perl-Critic-PolicyBundle-SNEZ-0.03.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitMutatingListFunctions 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
@@ -191363,9 +191363,9 @@ Perl::Critic::Policy::ProhibitUsageSubs 1.000  T/TE/TEODESIAN/perl-critic-policy
 Perl::Critic::Policy::ProhibitUseLib 1.000  T/TE/TEODESIAN/perl-critic-policy-prohibituselib-1.000.tar.gz
 Perl::Critic::Policy::References::ProhibitComplexDoubleSigils 0.2  X/XE/XENU/Perl-Critic-Policy-References-ProhibitComplexDoubleSigils-0.2.tar.gz
 Perl::Critic::Policy::References::ProhibitDoubleSigils 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
-Perl::Critic::Policy::References::ProhibitRefChecks 0.001001  B/BB/BBLACKM/Perl-Critic-Grape-0.1.1.tar.gz
-Perl::Critic::Policy::References::ProhibitUnnecessaryRefs 0.001001  B/BB/BBLACKM/Perl-Critic-Grape-0.1.1.tar.gz
-Perl::Critic::Policy::References::RequireSigils 0.001001  B/BB/BBLACKM/Perl-Critic-Grape-0.1.1.tar.gz
+Perl::Critic::Policy::References::ProhibitRefChecks 0.001002  B/BB/BBLACKM/Perl-Critic-Grape-0.1.2.tar.gz
+Perl::Critic::Policy::References::ProhibitUnnecessaryRefs 0.001002  B/BB/BBLACKM/Perl-Critic-Grape-0.1.2.tar.gz
+Perl::Critic::Policy::References::RequireSigils 0.001002  B/BB/BBLACKM/Perl-Critic-Grape-0.1.2.tar.gz
 Perl::Critic::Policy::RegularExpressions::PreventUselessMetacharacterEscapes 1.000  T/TE/TEODESIAN/Perl-Critic-Policy-RegularExpressions-PreventUselessMetacharacterEscapes-1.000.tar.gz
 Perl::Critic::Policy::RegularExpressions::ProhibitCaptureWithoutTest 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::RegularExpressions::ProhibitComplexRegexes 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
@@ -191414,9 +191414,9 @@ Perl::Critic::Policy::Subroutines::ProhibitUnderscorePrivateSubs 0.001  T/TE/TEO
 Perl::Critic::Policy::Subroutines::ProhibitUnusedPrivateSubroutines 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::Subroutines::ProtectPrivateSubs 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::Subroutines::RequireArgUnpacking 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
-Perl::Critic::Policy::Subroutines::RequireConsistentReturn 0.001001  B/BB/BBLACKM/Perl-Critic-Grape-0.1.1.tar.gz
+Perl::Critic::Policy::Subroutines::RequireConsistentReturn 0.001002  B/BB/BBLACKM/Perl-Critic-Grape-0.1.2.tar.gz
 Perl::Critic::Policy::Subroutines::RequireFinalReturn 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
-Perl::Critic::Policy::Subroutines::RequireSubOrder 0.001001  B/BB/BBLACKM/Perl-Critic-Grape-0.1.1.tar.gz
+Perl::Critic::Policy::Subroutines::RequireSubOrder 0.001002  B/BB/BBLACKM/Perl-Critic-Grape-0.1.2.tar.gz
 Perl::Critic::Policy::TestingAndDebugging::ProhibitNoStrict 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::TestingAndDebugging::ProhibitNoWarnings 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::TestingAndDebugging::ProhibitProlongedStrictureOverride 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
@@ -191479,7 +191479,7 @@ Perl::Critic::Policy::ValuesAndExpressions::RequireInterpolationOfMetachars 1.15
 Perl::Critic::Policy::ValuesAndExpressions::RequireNumberSeparators 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::RequireNumericVersion 100  K/KR/KRYDE/Perl-Critic-Pulp-100.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::RequireQuotedHeredocTerminator 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
-Perl::Critic::Policy::ValuesAndExpressions::RequireSlices 0.001001  B/BB/BBLACKM/Perl-Critic-Grape-0.1.1.tar.gz
+Perl::Critic::Policy::ValuesAndExpressions::RequireSlices 0.001002  B/BB/BBLACKM/Perl-Critic-Grape-0.1.2.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::RequireUpperCaseHeredocTerminator 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::RestrictLongStrings 1.003  T/TH/THALJEF/Perl-Critic-More-1.003.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::UnexpandedSpecialLiteral 100  K/KR/KRYDE/Perl-Critic-Pulp-100.tar.gz
@@ -191495,7 +191495,7 @@ Perl::Critic::Policy::Variables::ProhibitPackageVars 1.156  P/PE/PETDANCE/Perl-C
 Perl::Critic::Policy::Variables::ProhibitPerl4PackageNames 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::Variables::ProhibitPunctuationVars 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::Variables::ProhibitReusedNames 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
-Perl::Critic::Policy::Variables::ProhibitTopicIterator 0.001001  B/BB/BBLACKM/Perl-Critic-Grape-0.1.1.tar.gz
+Perl::Critic::Policy::Variables::ProhibitTopicIterator 0.001002  B/BB/BBLACKM/Perl-Critic-Grape-0.1.2.tar.gz
 Perl::Critic::Policy::Variables::ProhibitUnusedVariables 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::Variables::ProhibitUnusedVarsStricter 0.116  W/WY/WYANT/Perl-Critic-Policy-Variables-ProhibitUnusedVarsStricter-0.116.tar.gz
 Perl::Critic::Policy::Variables::ProhibitUselessInitialization 0.02  J/JT/JTRAMMELL/Perl-Critic-PetPeeves-JTRAMMELL-0.04.tar.gz
