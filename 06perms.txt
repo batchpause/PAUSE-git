@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668972
+Line-Count:  668989
 Written-By:  PAUSE version 1.005
-Date:        Tue, 13 Oct 2026 14:42:27 GMT
+Date:        Tue, 13 Oct 2026 17:29:36 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -153431,6 +153431,23 @@ Game::Snake::Terminal,LNATION,f
 Game::Snake::Text,LNATION,f
 Game::Snake::Ticker,LNATION,f
 Game::Terminal,LNATION,f
+Game::Terminal::Kit,LNATION,f
+Game::Terminal::Kit::Canvas,LNATION,f
+Game::Terminal::Kit::Choose,LNATION,f
+Game::Terminal::Kit::Form,LNATION,f
+Game::Terminal::Kit::Frame,LNATION,f
+Game::Terminal::Kit::Keys,LNATION,f
+Game::Terminal::Kit::Line,LNATION,f
+Game::Terminal::Kit::Log,LNATION,f
+Game::Terminal::Kit::Options,LNATION,f
+Game::Terminal::Kit::Picker,LNATION,f
+Game::Terminal::Kit::Run,LNATION,f
+Game::Terminal::Kit::Screen,LNATION,f
+Game::Terminal::Kit::Steer,LNATION,f
+Game::Terminal::Kit::Test::Handle,LNATION,f
+Game::Terminal::Kit::Test::Screen,LNATION,f
+Game::Terminal::Kit::Ticker,LNATION,f
+Game::Terminal::Kit::Widget,LNATION,f
 Game::Terminal::Menu,LNATION,f
 Game::TextMapper,SCHROEDER,f
 Game::TextMapper::Apocalypse,SCHROEDER,f
