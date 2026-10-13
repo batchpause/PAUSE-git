@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668971
+Line-Count:  668972
 Written-By:  PAUSE version 1.005
-Date:        Tue, 13 Oct 2026 06:42:16 GMT
+Date:        Tue, 13 Oct 2026 14:42:27 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -148388,6 +148388,7 @@ ForgeOps::Tracker::Changes,FORGEOPS,f
 ForgeOps::Tracker::Client,FORGEOPS,f
 ForgeOps::Tracker::Configuration,FORGEOPS,f
 ForgeOps::Tracker::DeliveryQueue,FORGEOPS,f
+ForgeOps::Tracker::DeliveryStatus,FORGEOPS,f
 ForgeOps::Tracker::EventBuilder,FORGEOPS,f
 ForgeOps::Tracker::HistogramBucketer,FORGEOPS,f
 ForgeOps::Tracker::Integrations::Dancer2,FORGEOPS,f
