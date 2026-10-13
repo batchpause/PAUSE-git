@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261838
-Last-Updated: Tue, 13 Oct 2026 19:17:01 GMT
+Last-Updated: Tue, 13 Oct 2026 19:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -102715,7 +102715,7 @@ HTML::ContentExtractor             0.03  J/JZ/JZHANG/HTML-ContentExtractor-0.03.
 HTML::Copy                         1.31  T/TK/TKURITA/HTML-Copy-1.31.tar.gz
 HTML::CruftText                    0.02  D/DR/DRLARO/HTML-CruftText-0.02.tar.gz
 HTML::CTPP2                    2.006007  S/ST/STELLAR/HTML-CTPP2-2.6.7.tar.gz
-HTML::D3                           0.18  N/NH/NHORNE/HTML-D3-0.18.tar.gz
+HTML::D3                           0.19  N/NH/NHORNE/HTML-D3-0.19.tar.gz
 HTML::Dashboard                    0.03  J/JA/JANERT/HTML-Dashboard-0.03.tar.gz
 HTML::Data::Parser                0.006  T/TO/TOBYINK/HTML-Data-Parser-0.006.tar.gz
 HTML::DataTable                    0.54  N/NI/NICWOLFF/HTML-DataTable-0.54.tar.gz
