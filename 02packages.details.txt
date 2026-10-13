@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261820
-Last-Updated: Tue, 13 Oct 2026 09:29:02 GMT
+Last-Updated: Tue, 13 Oct 2026 10:54:24 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -134398,7 +134398,7 @@ Module::Extract::DeclaredVersion  1.026  B/BR/BRIANDFOY/Module-Extract-DeclaredV
 Module::Extract::Namespaces       1.026  B/BR/BRIANDFOY/Module-Extract-Namespaces-1.026.tar.gz
 Module::Extract::Use              1.055  B/BR/BRIANDFOY/Module-Extract-Use-1.055.tar.gz
 Module::Extract::Use::Item        1.055  B/BR/BRIANDFOY/Module-Extract-Use-1.055.tar.gz
-Module::Extract::VERSION          1.121  B/BR/BRIANDFOY/Module-Extract-VERSION-1.121.tar.gz
+Module::Extract::VERSION          1.122  B/BR/BRIANDFOY/Module-Extract-VERSION-1.122.tar.gz
 Module::ExtractUse                0.345  D/DO/DOMM/Module-ExtractUse-0.345.tar.gz
 Module::ExtractUse::Grammar       0.345  D/DO/DOMM/Module-ExtractUse-0.345.tar.gz
 Module::Faker                     0.027  R/RJ/RJBS/Module-Faker-0.027.tar.gz
