@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261820
-Last-Updated: Tue, 13 Oct 2026 10:54:24 GMT
+Last-Updated: Tue, 13 Oct 2026 11:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -31474,7 +31474,7 @@ Business::IS::PIN                  0.06  A/AV/AVAR/Business-IS-PIN-0.06.tar.gz
 Business::ISBN                    3.014  B/BR/BRIANDFOY/Business-ISBN-3.014.tar.gz
 Business::ISBN10                  3.014  B/BR/BRIANDFOY/Business-ISBN-3.014.tar.gz
 Business::ISBN13                  3.014  B/BR/BRIANDFOY/Business-ISBN-3.014.tar.gz
-Business::ISBN::Data           20261003.001  B/BR/BRIANDFOY/Business-ISBN-Data-20261003.001.tar.gz
+Business::ISBN::Data           20261013.001  B/BR/BRIANDFOY/Business-ISBN-Data-20261013.001.tar.gz
 Business::ISIN                     0.20  D/DI/DIVEC/Business-ISIN-0.20.tgz
 Business::ISMN                    1.205  B/BR/BRIANDFOY/Business-ISMN-1.205.tar.gz
 Business::ISMN::Data              1.205  B/BR/BRIANDFOY/Business-ISMN-1.205.tar.gz
@@ -134398,7 +134398,7 @@ Module::Extract::DeclaredVersion  1.026  B/BR/BRIANDFOY/Module-Extract-DeclaredV
 Module::Extract::Namespaces       1.026  B/BR/BRIANDFOY/Module-Extract-Namespaces-1.026.tar.gz
 Module::Extract::Use              1.055  B/BR/BRIANDFOY/Module-Extract-Use-1.055.tar.gz
 Module::Extract::Use::Item        1.055  B/BR/BRIANDFOY/Module-Extract-Use-1.055.tar.gz
-Module::Extract::VERSION          1.122  B/BR/BRIANDFOY/Module-Extract-VERSION-1.122.tar.gz
+Module::Extract::VERSION          1.123  B/BR/BRIANDFOY/Module-Extract-VERSION-1.123.tar.gz
 Module::ExtractUse                0.345  D/DO/DOMM/Module-ExtractUse-0.345.tar.gz
 Module::ExtractUse::Grammar       0.345  D/DO/DOMM/Module-ExtractUse-0.345.tar.gz
 Module::Faker                     0.027  R/RJ/RJBS/Module-Faker-0.027.tar.gz
