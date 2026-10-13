@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261820
-Last-Updated: Tue, 13 Oct 2026 12:29:02 GMT
+Last-Updated: Tue, 13 Oct 2026 13:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -48754,16 +48754,16 @@ CPAN2RT::UsersSAXParser            0.03  R/RU/RUZ/CPAN2RT-0.03.tar.gz
 CPAN::02Packages::Search         v1.0.0  S/SK/SKAJI/CPAN-02Packages-Search-v1.0.0.tar.gz
 CPAN::Admin                       5.501  A/AN/ANDK/CPAN-2.41.tar.gz
 CPAN::API::BuildPL                0.002  L/LE/LEONT/CPAN-API-BuildPL-0.002.tar.gz
-CPAN::Audit                    20260622.001  B/BR/BRIANDFOY/CPAN-Audit-20260622.001.tar.gz
+CPAN::Audit                    20261013.002  B/BR/BRIANDFOY/CPAN-Audit-20261013.002.tar.gz
 CPAN::Audit::DB                20261011.003  B/BR/BRIANDFOY/CPANSA-DB-20261011.003.tar.gz
-CPAN::Audit::Discover             1.001  B/BR/BRIANDFOY/CPAN-Audit-20260622.001.tar.gz
-CPAN::Audit::Discover::Cpanfile   1.001  B/BR/BRIANDFOY/CPAN-Audit-20260622.001.tar.gz
-CPAN::Audit::Discover::CpanfileSnapshot 1.001  B/BR/BRIANDFOY/CPAN-Audit-20260622.001.tar.gz
-CPAN::Audit::Filter               1.001  B/BR/BRIANDFOY/CPAN-Audit-20260622.001.tar.gz
-CPAN::Audit::FreshnessCheck       1.002  B/BR/BRIANDFOY/CPAN-Audit-20260622.001.tar.gz
-CPAN::Audit::Installed            1.002  B/BR/BRIANDFOY/CPAN-Audit-20260622.001.tar.gz
-CPAN::Audit::Query                1.002  B/BR/BRIANDFOY/CPAN-Audit-20260622.001.tar.gz
-CPAN::Audit::Version              1.002  B/BR/BRIANDFOY/CPAN-Audit-20260622.001.tar.gz
+CPAN::Audit::Discover             1.001  B/BR/BRIANDFOY/CPAN-Audit-20261013.002.tar.gz
+CPAN::Audit::Discover::Cpanfile   1.001  B/BR/BRIANDFOY/CPAN-Audit-20261013.002.tar.gz
+CPAN::Audit::Discover::CpanfileSnapshot 1.001  B/BR/BRIANDFOY/CPAN-Audit-20261013.002.tar.gz
+CPAN::Audit::Filter               1.001  B/BR/BRIANDFOY/CPAN-Audit-20261013.002.tar.gz
+CPAN::Audit::FreshnessCheck       1.002  B/BR/BRIANDFOY/CPAN-Audit-20261013.002.tar.gz
+CPAN::Audit::Installed            1.002  B/BR/BRIANDFOY/CPAN-Audit-20261013.002.tar.gz
+CPAN::Audit::Query                1.002  B/BR/BRIANDFOY/CPAN-Audit-20261013.002.tar.gz
+CPAN::Audit::Version              1.002  B/BR/BRIANDFOY/CPAN-Audit-20261013.002.tar.gz
 CPAN::Author                     5.5002  A/AN/ANDK/CPAN-2.41.tar.gz
 CPAN::Author::FromRepoName        0.001  P/PE/PERLANCAR/CPAN-Info-FromRepoName-0.001.tar.gz
 CPAN::Author::FromURL             0.092  P/PE/PERLANCAR/CPAN-Info-FromURL-0.092.tar.gz
