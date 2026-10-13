@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261815
-Last-Updated: Tue, 13 Oct 2026 00:17:02 GMT
+Line-Count:   261820
+Last-Updated: Tue, 13 Oct 2026 06:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -49927,6 +49927,11 @@ Crypt::Age                        0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
 Crypt::Age::Header                0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
 Crypt::Age::Keys                  0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
 Crypt::Age::Primitives            0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
+Crypt::Age::Simple                0.001  P/PO/POLETTIX/Crypt-Age-Simple-0.001.tar.gz
+Crypt::Age::Simple::Buffer        undef  P/PO/POLETTIX/Crypt-Age-Simple-0.001.tar.gz
+Crypt::Age::Simple::Common        0.001  P/PO/POLETTIX/Crypt-Age-Simple-0.001.tar.gz
+Crypt::Age::Simple::Decrypt       undef  P/PO/POLETTIX/Crypt-Age-Simple-0.001.tar.gz
+Crypt::Age::Simple::Encrypt       undef  P/PO/POLETTIX/Crypt-Age-Simple-0.001.tar.gz
 Crypt::Age::Stanza                0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
 Crypt::Age::Stanza::X25519        0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
 Crypt::AllOrNothing                0.10  Z/ZA/ZANDET/Crypt-AllOrNothing-0.10.tar.gz
@@ -107782,13 +107787,13 @@ Internals                           1.1  S/ST/STBEY/Internals-1.1.tar.gz
 Internals::CountObjects            0.05  J/JJ/JJORE/Internals-CountObjects-0.05.tar.gz
 Internals::DumpArenas              0.12  J/JJ/JJORE/Internals-DumpArenas-0.12.tar.gz
 Internals::GraphArenas             0.01  J/JJ/JJORE/Internals-GraphArenas-0.01.tar.gz
-InternetData                   1.009002  M/MS/MSLM/InternetData-1.9.2.tar.gz
-InternetData::Database         1.009002  M/MS/MSLM/InternetData-1.9.2.tar.gz
-InternetData::Error            1.009002  M/MS/MSLM/InternetData-1.9.2.tar.gz
-InternetData::Oauth            1.009002  M/MS/MSLM/InternetData-1.9.2.tar.gz
-InternetData::OauthAccessDeniedError 1.009002  M/MS/MSLM/InternetData-1.9.2.tar.gz
-InternetData::OauthError       1.009002  M/MS/MSLM/InternetData-1.9.2.tar.gz
-InternetData::OauthExpiredTokenError 1.009002  M/MS/MSLM/InternetData-1.9.2.tar.gz
+InternetData                   1.009003  M/MS/MSLM/InternetData-1.9.3.tar.gz
+InternetData::Database         1.009003  M/MS/MSLM/InternetData-1.9.3.tar.gz
+InternetData::Error            1.009003  M/MS/MSLM/InternetData-1.9.3.tar.gz
+InternetData::Oauth            1.009003  M/MS/MSLM/InternetData-1.9.3.tar.gz
+InternetData::OauthAccessDeniedError 1.009003  M/MS/MSLM/InternetData-1.9.3.tar.gz
+InternetData::OauthError       1.009003  M/MS/MSLM/InternetData-1.9.3.tar.gz
+InternetData::OauthExpiredTokenError 1.009003  M/MS/MSLM/InternetData-1.9.3.tar.gz
 Interpolation                      0.74  J/JE/JENDA/Interpolation-0.74.tar.gz
 Interpolation::A2A                 0.71  J/JE/JENDA/Interpolation-0.71.tar.gz
 Interpolation::A2S                 0.71  J/JE/JENDA/Interpolation-0.71.tar.gz

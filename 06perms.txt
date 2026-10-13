@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668966
+Line-Count:  668971
 Written-By:  PAUSE version 1.005
-Date:        Mon, 12 Oct 2026 18:17:55 GMT
+Date:        Tue, 13 Oct 2026 06:42:16 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -101003,6 +101003,11 @@ Crypt::Age::Keys,GETTY,f
 Crypt::Age::Keys,POLETTIX,c
 Crypt::Age::Primitives,GETTY,f
 Crypt::Age::Primitives,POLETTIX,c
+Crypt::Age::Simple,POLETTIX,f
+Crypt::Age::Simple::Buffer,POLETTIX,f
+Crypt::Age::Simple::Common,POLETTIX,f
+Crypt::Age::Simple::Decrypt,POLETTIX,f
+Crypt::Age::Simple::Encrypt,POLETTIX,f
 Crypt::Age::Stanza,GETTY,f
 Crypt::Age::Stanza,POLETTIX,c
 Crypt::Age::Stanza::X25519,GETTY,f
