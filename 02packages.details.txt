@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261820
-Last-Updated: Tue, 13 Oct 2026 07:29:02 GMT
+Last-Updated: Tue, 13 Oct 2026 09:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -60891,13 +60891,13 @@ DB::Tutorial::DBIx::Class::PT::BR::Result::Namorada undef  H/HE/HERNAN/Tutorial-
 DB::Tutorial::DBIx::Class::PT::BR::Result::Pai undef  H/HE/HERNAN/Tutorial-DBIx-Class-Perl-ORM-Conexao-Com-Banco-de-Dados-PT-0.01.tar.gz
 DB::Utils                         undef  K/KE/KES/DB-Hooks-0.0201.tar.gz
 db_comparison                       1.7  C/CJ/CJONES/DBIx-Compare-1.7.tar.gz
-DB_File                           1.860  P/PM/PMQS/DB_File-1.860.tar.gz
-DB_File::BTREEINFO                1.860  P/PM/PMQS/DB_File-1.860.tar.gz
+DB_File                           1.861  P/PM/PMQS/DB_File-1.861.tar.gz
+DB_File::BTREEINFO                1.861  P/PM/PMQS/DB_File-1.861.tar.gz
 DB_File::DB_Database              0.031  R/RA/RANN/DB_File-DB_Database-0.031.tar.gz
-DB_File::HASHINFO                 1.860  P/PM/PMQS/DB_File-1.860.tar.gz
+DB_File::HASHINFO                 1.861  P/PM/PMQS/DB_File-1.861.tar.gz
 DB_File::Lock                      0.05  D/DH/DHARRIS/DB_File-Lock-0.05.tar.gz
 DB_File::Lock2                     777.  S/ST/STAS/DocSet-0.19.tar.gz
-DB_File::RECNOINFO                1.860  P/PM/PMQS/DB_File-1.860.tar.gz
+DB_File::RECNOINFO                1.861  P/PM/PMQS/DB_File-1.861.tar.gz
 DB_File::SV18x                     0.06  A/AN/ANDK/DB_File-SV18x-kit-0.06.tar.gz
 DB_File::Utils                    0.006  A/AM/AMBS/DB_File-Utils-0.006.tar.gz
 DB_File::Utils::Command           0.006  A/AM/AMBS/DB_File-Utils-0.006.tar.gz
