@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261815
-Last-Updated: Mon, 12 Oct 2026 21:29:02 GMT
+Last-Updated: Tue, 13 Oct 2026 00:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -13768,7 +13768,7 @@ App::perlmv::scriptlet::to_random 0.001  P/PE/PERLANCAR/App-perlmv-scriptlet-to_
 App::perlmv::scriptlet::to_random_ext 0.001  P/PE/PERLANCAR/App-perlmv-scriptlet-to_random-0.001.tar.gz
 App::perlmv::scriptlet::to_uuid   0.001  P/PE/PERLANCAR/App-perlmv-scriptlet-to_uuid-0.001.tar.gz
 App::perlmv::scriptlet::to_uuid_ext 0.001  P/PE/PERLANCAR/App-perlmv-scriptlet-to_uuid-0.001.tar.gz
-App::perlmv::scriptlet::with_number 0.002  P/PE/PERLANCAR/App-perlmv-scriptlet-with_number-0.002.tar.gz
+App::perlmv::scriptlet::with_number 0.003  P/PE/PERLANCAR/App-perlmv-scriptlet-with_number-0.003.tar.gz
 App::perlmv::scriptlets::std      0.609  P/PE/PERLANCAR/App-perlmv-0.609.tar.gz
 App::perlmv::u                    0.007  P/PE/PERLANCAR/App-perlmv-u-0.007.tar.gz
 App::PerlNitpick                   0.01  G/GU/GUGOD/App-PerlNitpick-0.01.tar.gz
