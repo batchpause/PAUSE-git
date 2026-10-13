@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668989
+Line-Count:  668996
 Written-By:  PAUSE version 1.005
-Date:        Tue, 13 Oct 2026 17:29:36 GMT
+Date:        Tue, 13 Oct 2026 20:55:53 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -311881,6 +311881,13 @@ HAL::Resource,CORION,f
 HAL::Tiny,ADDSICT,f
 HAM::Device::IcomCIV,EKKIP,f
 HAM::Device::IcomCIVSerialIO,EKKIP,f
+HAMT,LNATION,f
+HAMT::Map,LNATION,f
+HAMT::Map::Transient,LNATION,f
+HAMT::Set,LNATION,f
+HAMT::Set::Transient,LNATION,f
+HAMT::Vector,LNATION,f
+HAMT::Vector::Transient,LNATION,f
 HASH,SWALTERS,f
 HAS_ATTACH,SHAY,f
 HAS_HOOK,P5P,f
