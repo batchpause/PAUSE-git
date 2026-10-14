@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669006
+Line-Count:  669066
 Written-By:  PAUSE version 1.005
-Date:        Wed, 14 Oct 2026 18:30:17 GMT
+Date:        Wed, 14 Oct 2026 21:18:32 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -275715,6 +275715,62 @@ Google::Ads::GoogleAds::V25::Utils::ResourceNames,CHEVALIER,f
 Google::Ads::GoogleAds::V25::Utils::ResourceNames,DORASUN,c
 Google::Ads::GoogleAds::V25::Utils::ResourceNames,MATTIAT,c
 Google::Ads::GoogleAds::V25::Utils::ResourceNames,WFANSH,c
+Google::Ads::GoogleAds::V26::Errors::BudgetPerDayMinimumErrorDetails,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Errors::BudgetPerDayMinimumErrorDetails,DORASUN,c
+Google::Ads::GoogleAds::V26::Errors::BudgetPerDayMinimumErrorDetails,MATTIAT,c
+Google::Ads::GoogleAds::V26::Errors::BudgetPerDayMinimumErrorDetails,WFANSH,c
+Google::Ads::GoogleAds::V26::Errors::ErrorCode,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Errors::ErrorCode,DORASUN,c
+Google::Ads::GoogleAds::V26::Errors::ErrorCode,MATTIAT,c
+Google::Ads::GoogleAds::V26::Errors::ErrorCode,WFANSH,c
+Google::Ads::GoogleAds::V26::Errors::ErrorDetails,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Errors::ErrorDetails,DORASUN,c
+Google::Ads::GoogleAds::V26::Errors::ErrorDetails,MATTIAT,c
+Google::Ads::GoogleAds::V26::Errors::ErrorDetails,WFANSH,c
+Google::Ads::GoogleAds::V26::Errors::ErrorLocation,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Errors::ErrorLocation,DORASUN,c
+Google::Ads::GoogleAds::V26::Errors::ErrorLocation,MATTIAT,c
+Google::Ads::GoogleAds::V26::Errors::ErrorLocation,WFANSH,c
+Google::Ads::GoogleAds::V26::Errors::FieldPathElement,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Errors::FieldPathElement,DORASUN,c
+Google::Ads::GoogleAds::V26::Errors::FieldPathElement,MATTIAT,c
+Google::Ads::GoogleAds::V26::Errors::FieldPathElement,WFANSH,c
+Google::Ads::GoogleAds::V26::Errors::GoogleAdsError,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Errors::GoogleAdsError,DORASUN,c
+Google::Ads::GoogleAds::V26::Errors::GoogleAdsError,MATTIAT,c
+Google::Ads::GoogleAds::V26::Errors::GoogleAdsError,WFANSH,c
+Google::Ads::GoogleAds::V26::Errors::GoogleAdsFailure,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Errors::GoogleAdsFailure,DORASUN,c
+Google::Ads::GoogleAds::V26::Errors::GoogleAdsFailure,MATTIAT,c
+Google::Ads::GoogleAds::V26::Errors::GoogleAdsFailure,WFANSH,c
+Google::Ads::GoogleAds::V26::Errors::IncompatibleCloGoalsErrorDetails,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Errors::IncompatibleCloGoalsErrorDetails,DORASUN,c
+Google::Ads::GoogleAds::V26::Errors::IncompatibleCloGoalsErrorDetails,MATTIAT,c
+Google::Ads::GoogleAds::V26::Errors::IncompatibleCloGoalsErrorDetails,WFANSH,c
+Google::Ads::GoogleAds::V26::Errors::PolicyFindingDetails,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Errors::PolicyFindingDetails,DORASUN,c
+Google::Ads::GoogleAds::V26::Errors::PolicyFindingDetails,MATTIAT,c
+Google::Ads::GoogleAds::V26::Errors::PolicyFindingDetails,WFANSH,c
+Google::Ads::GoogleAds::V26::Errors::PolicyViolationDetails,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Errors::PolicyViolationDetails,DORASUN,c
+Google::Ads::GoogleAds::V26::Errors::PolicyViolationDetails,MATTIAT,c
+Google::Ads::GoogleAds::V26::Errors::PolicyViolationDetails,WFANSH,c
+Google::Ads::GoogleAds::V26::Errors::QuotaErrorDetails,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Errors::QuotaErrorDetails,DORASUN,c
+Google::Ads::GoogleAds::V26::Errors::QuotaErrorDetails,MATTIAT,c
+Google::Ads::GoogleAds::V26::Errors::QuotaErrorDetails,WFANSH,c
+Google::Ads::GoogleAds::V26::Errors::ReservationErrorDetails,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Errors::ReservationErrorDetails,DORASUN,c
+Google::Ads::GoogleAds::V26::Errors::ReservationErrorDetails,MATTIAT,c
+Google::Ads::GoogleAds::V26::Errors::ReservationErrorDetails,WFANSH,c
+Google::Ads::GoogleAds::V26::Errors::ResourceCountDetails,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Errors::ResourceCountDetails,DORASUN,c
+Google::Ads::GoogleAds::V26::Errors::ResourceCountDetails,MATTIAT,c
+Google::Ads::GoogleAds::V26::Errors::ResourceCountDetails,WFANSH,c
+Google::Ads::GoogleAds::V26::Utils::ResourceNames,CHEVALIER,f
+Google::Ads::GoogleAds::V26::Utils::ResourceNames,DORASUN,c
+Google::Ads::GoogleAds::V26::Utils::ResourceNames,MATTIAT,c
+Google::Ads::GoogleAds::V26::Utils::ResourceNames,WFANSH,c
 Google::Ads::GoogleAds::V2::Common::AdImageAsset,CHEVALIER,f
 Google::Ads::GoogleAds::V2::Common::AdImageAsset,MATTIAT,c
 Google::Ads::GoogleAds::V2::Common::AdImageAsset,WFANSH,c
@@ -539921,6 +539977,7 @@ Perl::Metrics::Simple::Output,MATISSE,f
 Perl::Metrics::Simple::Output::HTML,MATISSE,f
 Perl::Metrics::Simple::Output::JSON,MATISSE,f
 Perl::Metrics::Simple::Output::PlainText,MATISSE,f
+Perl::Minify,BAKERSCOT,f
 Perl::MinimumVersion,ADAMK,c
 Perl::MinimumVersion,CHORNY,c
 Perl::MinimumVersion,DBOOK,c
@@ -543725,6 +543782,9 @@ Plack::Middleware::OAuth::UserInfo::Live,CORNELIUS,c
 Plack::Middleware::OAuth::UserInfo::Live,YOANLIN,f
 Plack::Middleware::OAuth::UserInfo::Twitter,CORNELIUS,c
 Plack::Middleware::OAuth::UserInfo::Twitter,YOANLIN,f
+Plack::Middleware::OIDC,SMOURLHOU,f
+Plack::Middleware::OIDC::Logger,SMOURLHOU,f
+Plack::Middleware::OIDC::Redirect,SMOURLHOU,f
 Plack::Middleware::OpenTelemetry,ABH,f
 Plack::Middleware::Openqq::SelfTalkForbid,SJDY,f
 Plack::Middleware::Options,ADOPTME,f
