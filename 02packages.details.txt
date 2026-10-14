@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261874
-Last-Updated: Wed, 14 Oct 2026 21:54:24 GMT
+Last-Updated: Wed, 14 Oct 2026 22:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -155449,9 +155449,9 @@ Osgood::Server::Model::Object     undef  G/GP/GPHAT/Osgood-Server-2.0.1.tar.gz
 Osgood::Server::Model::OsgoodDB   undef  G/GP/GPHAT/Osgood-Server-2.0.1.tar.gz
 Osgood::Server::ResultSet::Event  undef  G/GP/GPHAT/Osgood-Server-2.0.1.tar.gz
 Osgood::Server::Schema            undef  G/GP/GPHAT/Osgood-Server-2.0.1.tar.gz
-OSLV::Monitor                  1.000006  V/VV/VVELOX/OSLV-Monitor-1.0.6.tar.gz
-OSLV::Monitor::Backends::cgroups 1.000006  V/VV/VVELOX/OSLV-Monitor-1.0.6.tar.gz
-OSLV::Monitor::Backends::FreeBSD 0.000006  V/VV/VVELOX/OSLV-Monitor-1.0.6.tar.gz
+OSLV::Monitor                  1.000007  V/VV/VVELOX/OSLV-Monitor-1.0.7.tar.gz
+OSLV::Monitor::Backends::cgroups 1.000006  V/VV/VVELOX/OSLV-Monitor-1.0.7.tar.gz
+OSLV::Monitor::Backends::FreeBSD 0.000006  V/VV/VVELOX/OSLV-Monitor-1.0.7.tar.gz
 OSPF::LSDB                         1.19  B/BL/BLUHM/OSPF-LSDB-1.19.tar.gz
 OSPF::LSDB::Cisco                 undef  B/BL/BLUHM/OSPF-LSDB-1.19.tar.gz
 OSPF::LSDB::gated                 undef  B/BL/BLUHM/OSPF-LSDB-1.19.tar.gz
@@ -261874,7 +261874,7 @@ Zuzuzoo::CLI                   0.001000  T/TO/TOBYINK/Zuzu-0.001000.tar.gz
 ZWave::Protocol                    0.04  M/MS/MSCHILLI/ZWave-Protocol-0.04.tar.gz
 Zwoelf::Hash::Union                 0.1  M/MG/MGUTSCH/Zwoelf-Hash-Union-0.1.tar.gz
 ZX81                              0.001  P/PS/PSCUST/ZX81-0.001.tar.gz
-ZX81::Tokenize                    0.002  P/PS/PSCUST/ZX81-Tokenize-0.002.tar.gz
+ZX81::Tokenize                    0.003  P/PS/PSCUST/ZX81-Tokenize-0.003.tar.gz
 zxidc                             undef  S/SA/SAMPO/zxid-0.4.tgz
 Zydeco                            0.617  T/TO/TOBYINK/Zydeco-0.617.tar.gz
 Zydeco::_Gather                   0.508  L/LN/LNATION/Mxpress-PDF-0.21.tar.gz
