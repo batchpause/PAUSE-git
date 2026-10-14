@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261848
-Last-Updated: Wed, 14 Oct 2026 06:41:02 GMT
+Line-Count:   261849
+Last-Updated: Wed, 14 Oct 2026 06:54:13 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81736,23 +81736,24 @@ Game::Snake::Terminal              0.12  L/LN/LNATION/Game-Snake-0.12.tar.gz
 Game::Snake::Text                  0.11  L/LN/LNATION/Game-Snake-0.11.tar.gz
 Game::Snake::Ticker                0.12  L/LN/LNATION/Game-Snake-0.12.tar.gz
 Game::Terminal                     0.01  L/LN/LNATION/Game-Terminal-0.01.tar.gz
-Game::Terminal::Kit                0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Canvas        0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Choose        0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Form          0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Frame         0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Keys          0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Line          0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Log           0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Options       0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Picker        0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Run           0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Screen        0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Steer         0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Test::Handle  0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Test::Screen  0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Ticker        0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
-Game::Terminal::Kit::Widget        0.03  L/LN/LNATION/Game-Terminal-Kit-0.03.tar.gz
+Game::Terminal::Kit                0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Canvas        0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Choose        0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Form          0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Frame         0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::History       0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Keys          0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Line          0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Log           0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Options       0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Picker        0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Run           0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Screen        0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Steer         0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Test::Handle  0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Test::Screen  0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Ticker        0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
+Game::Terminal::Kit::Widget        0.04  L/LN/LNATION/Game-Terminal-Kit-0.04.tar.gz
 Game::Terminal::Menu               0.01  L/LN/LNATION/Game-Terminal-0.01.tar.gz
 Game::TextMapper                   1.09  S/SC/SCHROEDER/Game-TextMapper-1.09.tar.gz
 Game::TextMapper::Apocalypse      undef  S/SC/SCHROEDER/Game-TextMapper-1.09.tar.gz
