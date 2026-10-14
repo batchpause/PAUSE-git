@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  668996
+Line-Count:  668998
 Written-By:  PAUSE version 1.005
-Date:        Tue, 13 Oct 2026 20:55:53 GMT
+Date:        Wed, 14 Oct 2026 02:55:43 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -19553,6 +19553,7 @@ App::Netdisco::DB::ResultSet::AccessControlListName,OLIVER,f
 App::Netdisco::DB::ResultSet::Admin,OLIVER,f
 App::Netdisco::DB::ResultSet::Device,OLIVER,f
 App::Netdisco::DB::ResultSet::DeviceBrowser,OLIVER,f
+App::Netdisco::DB::ResultSet::DeviceIp,OLIVER,f
 App::Netdisco::DB::ResultSet::DeviceModule,OLIVER,f
 App::Netdisco::DB::ResultSet::DevicePort,OLIVER,f
 App::Netdisco::DB::ResultSet::DevicePortLog,OLIVER,f
@@ -19733,6 +19734,7 @@ App::Netdisco::Web::Static,OLIVER,f
 App::Netdisco::Web::Statistics,OLIVER,f
 App::Netdisco::Web::Theme,OLIVER,f
 App::Netdisco::Web::TypeAhead,OLIVER,f
+App::Netdisco::Worker::Actions,OLIVER,f
 App::Netdisco::Worker::Loader,OLIVER,f
 App::Netdisco::Worker::Plugin,OLIVER,f
 App::Netdisco::Worker::Plugin::AddPseudoDevice,OLIVER,f
