@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669066
+Line-Count:  669067
 Written-By:  PAUSE version 1.005
-Date:        Wed, 14 Oct 2026 21:18:32 GMT
+Date:        Wed, 14 Oct 2026 21:29:28 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -56955,6 +56955,7 @@ BioX::SeqUtils::Promoter::SaveTypes::Text,CSTEPHENE,f
 BioX::SeqUtils::Promoter::Sequence,CSTEPHENE,f
 BioX::SeqUtils::Promoter::Sequences,CSTEPHENE,f
 BioX::SeqUtils::RandomSequence,ROGERHALL,f
+BioX::Tax::Kraken,VOLKENING,f
 BioX::Workflow,JILLROWE,f
 BioX::Workflow::Command,JILLROWE,f
 BioX::Workflow::Command::Exceptions,JILLROWE,f
