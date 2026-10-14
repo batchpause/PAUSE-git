@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261851
-Last-Updated: Wed, 14 Oct 2026 08:17:01 GMT
+Line-Count:   261852
+Last-Updated: Wed, 14 Oct 2026 12:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -238700,6 +238700,7 @@ Util::Any                          0.25  K/KT/KTAT/Util-Any-0.25.tar.gz
 util::argv                        undef  U/UT/UTASHIRO/App-optex-v0.0.4.tar.gz
 Util::BLOB                          0.1  A/AR/AREGGIORI/RDFStore-0.51.tar.gz
 Util::CommandLine                  1.10  G/GR/GRYPHON/Util-CommandLine-1.10.tar.gz
+Util::Con                          0.01  D/DC/DCON/Util-Con-0.01.tar.gz
 Util::EvalSnippet                  0.02  C/CH/CHOLLOWAY/Util-EvalSnippet-0.02.tar.gz
 util::filter                      undef  U/UT/UTASHIRO/App-optex-v0.0.4.tar.gz
 Util::H2O                          0.24  H/HA/HAUKEX/Util-H2O-0.24.tar.gz
