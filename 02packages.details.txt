@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261855
-Last-Updated: Wed, 14 Oct 2026 20:41:02 GMT
+Last-Updated: Wed, 14 Oct 2026 20:54:23 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -206259,7 +206259,7 @@ RT::Extension::PagerDuty           0.01  B/BP/BPS/RT-Extension-PagerDuty-0.01.ta
 RT::Extension::ParentTimeWorked    1.02  A/AL/ALEXMV/RT-Extension-ParentTimeWorked-1.02.tar.gz
 RT::Extension::PermissiveHTMLMail  1.00  A/AL/ALEXMV/RT-Extension-PermissiveHTMLMail-1.00.tar.gz
 RT::Extension::PinComment          0.01  A/AJ/AJWOOD/RT-Extension-PinComment-0.01.tar.gz
-RT::Extension::PreviewInSearch     1.00  B/BP/BPS/RT-Extension-PreviewInSearch-1.00.tar.gz
+RT::Extension::PreviewInSearch     1.01  B/BP/BPS/RT-Extension-PreviewInSearch-1.01.tar.gz
 RT::Extension::PriorityAsString    1.04  B/BP/BPS/RT-Extension-PriorityAsString-1.04.tar.gz
 RT::Extension::PushoverNotify      0.01  R/RI/RINGERC/RT/Extension/PushoverNotify/RT-Extension-PushoverNotify-0.01.tar.gz
 RT::Extension::PushoverNotify::PushoverNotification undef  R/RI/RINGERC/RT/Extension/PushoverNotify/RT-Extension-PushoverNotify-0.01.tar.gz
