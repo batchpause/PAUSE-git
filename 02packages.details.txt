@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261847
-Last-Updated: Wed, 14 Oct 2026 05:41:03 GMT
+Last-Updated: Wed, 14 Oct 2026 06:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -101443,13 +101443,13 @@ Ham::Resources::Utils              0.05  C/CJ/CJUAN/Ham-Resources-Utils-0.05.tar
 Ham::Scraper                        0.9  K/KW/KWITTMER/Ham-Scraper-0.9.tar.gz
 Ham::WorldMap                      0.01  D/DE/DEVZENDO/Ham-WorldMap-0.01.tar.gz
 Ham::WSJTX::Logparse               0.01  D/DE/DEVZENDO/Ham-WSJTX-Logparse-0.01.tar.gz
-HAMT                               0.01  L/LN/LNATION/HAMT-0.01.tar.gz
-HAMT::Map                          0.01  L/LN/LNATION/HAMT-0.01.tar.gz
-HAMT::Map::Transient               0.01  L/LN/LNATION/HAMT-0.01.tar.gz
-HAMT::Set                          0.01  L/LN/LNATION/HAMT-0.01.tar.gz
-HAMT::Set::Transient               0.01  L/LN/LNATION/HAMT-0.01.tar.gz
-HAMT::Vector                       0.01  L/LN/LNATION/HAMT-0.01.tar.gz
-HAMT::Vector::Transient            0.01  L/LN/LNATION/HAMT-0.01.tar.gz
+HAMT                               0.02  L/LN/LNATION/HAMT-0.02.tar.gz
+HAMT::Map                          0.02  L/LN/LNATION/HAMT-0.02.tar.gz
+HAMT::Map::Transient               0.02  L/LN/LNATION/HAMT-0.02.tar.gz
+HAMT::Set                          0.02  L/LN/LNATION/HAMT-0.02.tar.gz
+HAMT::Set::Transient               0.02  L/LN/LNATION/HAMT-0.02.tar.gz
+HAMT::Vector                       0.02  L/LN/LNATION/HAMT-0.02.tar.gz
+HAMT::Vector::Transient            0.02  L/LN/LNATION/HAMT-0.02.tar.gz
 Handel                          1.00014  C/CL/CLACO/Handel-1.00014.tar.gz
 Handel::Base                      undef  C/CL/CLACO/Handel-1.00014.tar.gz
 Handel::Cart                      undef  C/CL/CLACO/Handel-1.00014.tar.gz
