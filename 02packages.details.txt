@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261849
-Last-Updated: Wed, 14 Oct 2026 07:54:04 GMT
+Line-Count:   261851
+Last-Updated: Wed, 14 Oct 2026 08:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -47963,6 +47963,8 @@ Context::Singleton::Frame::Promise::Builder v1.0.9  B/BA/BARNEY/barney/Context-S
 Context::Singleton::Frame::Promise::Rule v1.0.9  B/BA/BARNEY/barney/Context-Singleton-1.0.9.tar.gz
 Context::Singleton::Frame::Result v1.0.5  B/BA/BARNEY/Context-Singleton-1.0.5.tar.gz
 Context::Singleton::Singleton    v1.0.9  B/BA/BARNEY/barney/Context-Singleton-1.0.9.tar.gz
+Context::Vars                      0.01  L/LN/LNATION/Context-Vars-0.01.tar.gz
+Context::Vars::Context             0.01  L/LN/LNATION/Context-Vars-0.01.tar.gz
 Contextual::Call                   0.01  H/HI/HIO/Contextual-Call-0.01.tar.gz
 Contextual::Diag                   0.04  K/KF/KFLY/Contextual-Diag-0.04.tar.gz
 Contextual::Diag::Value            0.04  K/KF/KFLY/Contextual-Diag-0.04.tar.gz
