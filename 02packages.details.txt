@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261855
-Last-Updated: Wed, 14 Oct 2026 19:41:02 GMT
+Last-Updated: Wed, 14 Oct 2026 20:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -112760,8 +112760,8 @@ JobAd::Model::position            undef  P/PH/PHILCROW/Gantry-3.42.tar.gz
 JobAd::Model::skill               undef  P/PH/PHILCROW/Gantry-3.42.tar.gz
 JobAd::Position                   undef  P/PH/PHILCROW/Gantry-3.42.tar.gz
 JobAd::Skill                      undef  P/PH/PHILCROW/Gantry-3.42.tar.gz
-JobCenter::Client::Mojo            0.47  W/WI/WIEGEROP/JobCenter-Client-Mojo-0.47.tar.gz
-JobCenter::Client::Mojo::Steps    undef  W/WI/WIEGEROP/JobCenter-Client-Mojo-0.47.tar.gz
+JobCenter::Client::Mojo            0.48  W/WI/WIEGEROP/JobCenter-Client-Mojo-0.48.tar.gz
+JobCenter::Client::Mojo::Steps    undef  W/WI/WIEGEROP/JobCenter-Client-Mojo-0.48.tar.gz
 jobject                        0.009002  Y/YE/YEWEI/Jvm-0.9.2.tar.gz
 Jobrun                             0.01  J/JK/JKSTILL/Jobrun-0.01.tar.gz
 John::DOE                          0.01  W/WO/WOLLMERS/John-Doe-0.01.tar.gz
