@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261853
-Last-Updated: Wed, 14 Oct 2026 15:17:03 GMT
+Last-Updated: Wed, 14 Oct 2026 15:53:53 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -50626,7 +50626,7 @@ Crypt::Passphrase::Util::Crypt64  0.023  L/LE/LEONT/Crypt-Passphrase-0.023.tar.g
 Crypt::Passphrase::Validator      0.023  L/LE/LEONT/Crypt-Passphrase-0.023.tar.gz
 Crypt::Passphrase::Yescrypt       0.002  L/LE/LEONT/Crypt-Passphrase-Yescrypt-0.002.tar.gz
 Crypt::Passwd                      0.03  L/LU/LUISMUNOZ/Crypt-Passwd-0.03.tar.gz
-Crypt::Passwd::XS                 0.601  C/CP/CPANEL/Crypt-Passwd-XS-0.601.tar.gz
+Crypt::Passwd::XS                 0.701  C/CP/CPANEL/Crypt-Passwd-XS-0.701.tar.gz
 Crypt::PasswdMD5                   1.46  R/RS/RSAVAGE/Crypt-PasswdMD5-1.46.tgz
 Crypt::Password                    0.28  D/DR/DRSTEVE/Crypt-Password-0.28.tgz
 Crypt::Password::StretchedHash     0.05  R/RI/RITOU/Crypt-Password-StretchedHash-0.05.tar.gz
@@ -81496,36 +81496,36 @@ Game::CharacterSheetGenerator::DwarfNames undef  S/SC/SCHROEDER/Game-CharacterSh
 Game::CharacterSheetGenerator::ElfNames undef  S/SC/SCHROEDER/Game-CharacterSheetGenerator-1.03.tar.gz
 Game::CharacterSheetGenerator::HalflingNames undef  S/SC/SCHROEDER/Game-CharacterSheetGenerator-1.03.tar.gz
 Game::CharacterSheetGenerator::HumanNames undef  S/SC/SCHROEDER/Game-CharacterSheetGenerator-1.03.tar.gz
-Game::Checkers                     0.03  L/LN/LNATION/Game-Checkers-0.03.tar.gz
-Game::Checkers::Board              0.03  L/LN/LNATION/Game-Checkers-0.03.tar.gz
-Game::Checkers::Bot                0.03  L/LN/LNATION/Game-Checkers-0.03.tar.gz
-Game::Checkers::Error              0.03  L/LN/LNATION/Game-Checkers-0.03.tar.gz
-Game::Checkers::Move               0.03  L/LN/LNATION/Game-Checkers-0.03.tar.gz
-Game::Checkers::Notation           0.03  L/LN/LNATION/Game-Checkers-0.03.tar.gz
-Game::Checkers::Piece              0.03  L/LN/LNATION/Game-Checkers-0.03.tar.gz
-Game::Checkers::Result             0.03  L/LN/LNATION/Game-Checkers-0.03.tar.gz
-Game::Checkers::Rules              0.03  L/LN/LNATION/Game-Checkers-0.03.tar.gz
-Game::Checkers::Squares            0.03  L/LN/LNATION/Game-Checkers-0.03.tar.gz
-Game::Checkers::Terminal           0.03  L/LN/LNATION/Game-Checkers-0.03.tar.gz
+Game::Checkers                     0.04  L/LN/LNATION/Game-Checkers-0.04.tar.gz
+Game::Checkers::Board              0.04  L/LN/LNATION/Game-Checkers-0.04.tar.gz
+Game::Checkers::Bot                0.04  L/LN/LNATION/Game-Checkers-0.04.tar.gz
+Game::Checkers::Error              0.04  L/LN/LNATION/Game-Checkers-0.04.tar.gz
+Game::Checkers::Move               0.04  L/LN/LNATION/Game-Checkers-0.04.tar.gz
+Game::Checkers::Notation           0.04  L/LN/LNATION/Game-Checkers-0.04.tar.gz
+Game::Checkers::Piece              0.04  L/LN/LNATION/Game-Checkers-0.04.tar.gz
+Game::Checkers::Result             0.04  L/LN/LNATION/Game-Checkers-0.04.tar.gz
+Game::Checkers::Rules              0.04  L/LN/LNATION/Game-Checkers-0.04.tar.gz
+Game::Checkers::Squares            0.04  L/LN/LNATION/Game-Checkers-0.04.tar.gz
+Game::Checkers::Terminal           0.04  L/LN/LNATION/Game-Checkers-0.04.tar.gz
 Game::Collisions                    0.5  T/TM/TMURRAY/Game-Collisions-0.5.tar.gz
 Game::Collisions::AABB              0.5  T/TM/TMURRAY/Game-Collisions-0.5.tar.gz
 Game::Collisions::UserData          0.5  T/TM/TMURRAY/Game-Collisions-0.5.tar.gz
-Game::Cribbage                     0.17  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Board             undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Deck              undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Deck::Card        undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Error             undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Hands             undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Play              undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Play::Card        undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Play::Score       undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Player            undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Player::Hand      undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Round             undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Round::Score      undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Rounds            undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Score             undef  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
-Game::Cribbage::Terminal           0.17  L/LN/LNATION/Game-Cribbage-0.17.tar.gz
+Game::Cribbage                     0.18  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Board             undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Deck              undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Deck::Card        undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Error             undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Hands             undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Play              undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Play::Card        undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Play::Score       undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Player            undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Player::Hand      undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Round             undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Round::Score      undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Rounds            undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Score             undef  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
+Game::Cribbage::Terminal           0.18  L/LN/LNATION/Game-Cribbage-0.18.tar.gz
 Game::Deckar                       0.02  J/JM/JMATES/Game-Deckar-0.02.tar.gz
 Game::Deckar::Card                undef  J/JM/JMATES/Game-Deckar-0.02.tar.gz
 Game::DijkstraMap                  1.05  J/JM/JMATES/Game-DijkstraMap-1.05.tar.gz
