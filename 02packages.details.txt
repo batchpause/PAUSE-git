@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261896
-Last-Updated: Thu, 15 Oct 2026 05:17:02 GMT
+Last-Updated: Thu, 15 Oct 2026 06:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -47964,8 +47964,8 @@ Context::Singleton::Frame::Promise::Builder v1.0.9  B/BA/BARNEY/barney/Context-S
 Context::Singleton::Frame::Promise::Rule v1.0.9  B/BA/BARNEY/barney/Context-Singleton-1.0.9.tar.gz
 Context::Singleton::Frame::Result v1.0.5  B/BA/BARNEY/Context-Singleton-1.0.5.tar.gz
 Context::Singleton::Singleton    v1.0.9  B/BA/BARNEY/barney/Context-Singleton-1.0.9.tar.gz
-Context::Vars                      0.03  L/LN/LNATION/Context-Vars-0.03.tar.gz
-Context::Vars::Context             0.03  L/LN/LNATION/Context-Vars-0.03.tar.gz
+Context::Vars                      0.04  L/LN/LNATION/Context-Vars-0.04.tar.gz
+Context::Vars::Context             0.04  L/LN/LNATION/Context-Vars-0.04.tar.gz
 Contextual::Call                   0.01  H/HI/HIO/Contextual-Call-0.01.tar.gz
 Contextual::Diag                   0.04  K/KF/KFLY/Contextual-Diag-0.04.tar.gz
 Contextual::Diag::Value            0.04  K/KF/KFLY/Contextual-Diag-0.04.tar.gz
@@ -101463,13 +101463,13 @@ Ham::Resources::Utils              0.05  C/CJ/CJUAN/Ham-Resources-Utils-0.05.tar
 Ham::Scraper                        0.9  K/KW/KWITTMER/Ham-Scraper-0.9.tar.gz
 Ham::WorldMap                      0.01  D/DE/DEVZENDO/Ham-WorldMap-0.01.tar.gz
 Ham::WSJTX::Logparse               0.01  D/DE/DEVZENDO/Ham-WSJTX-Logparse-0.01.tar.gz
-HAMT                               0.02  L/LN/LNATION/HAMT-0.02.tar.gz
-HAMT::Map                          0.02  L/LN/LNATION/HAMT-0.02.tar.gz
-HAMT::Map::Transient               0.02  L/LN/LNATION/HAMT-0.02.tar.gz
-HAMT::Set                          0.02  L/LN/LNATION/HAMT-0.02.tar.gz
-HAMT::Set::Transient               0.02  L/LN/LNATION/HAMT-0.02.tar.gz
-HAMT::Vector                       0.02  L/LN/LNATION/HAMT-0.02.tar.gz
-HAMT::Vector::Transient            0.02  L/LN/LNATION/HAMT-0.02.tar.gz
+HAMT                               0.03  L/LN/LNATION/HAMT-0.03.tar.gz
+HAMT::Map                          0.03  L/LN/LNATION/HAMT-0.03.tar.gz
+HAMT::Map::Transient               0.03  L/LN/LNATION/HAMT-0.03.tar.gz
+HAMT::Set                          0.03  L/LN/LNATION/HAMT-0.03.tar.gz
+HAMT::Set::Transient               0.03  L/LN/LNATION/HAMT-0.03.tar.gz
+HAMT::Vector                       0.03  L/LN/LNATION/HAMT-0.03.tar.gz
+HAMT::Vector::Transient            0.03  L/LN/LNATION/HAMT-0.03.tar.gz
 Handel                          1.00014  C/CL/CLACO/Handel-1.00014.tar.gz
 Handel::Base                      undef  C/CL/CLACO/Handel-1.00014.tar.gz
 Handel::Cart                      undef  C/CL/CLACO/Handel-1.00014.tar.gz
