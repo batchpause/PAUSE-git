@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261907
-Last-Updated: Thu, 15 Oct 2026 16:41:02 GMT
+Line-Count:   261908
+Last-Updated: Thu, 15 Oct 2026 17:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -85175,24 +85175,25 @@ Geo::Coder::Canada::Response       0.01  J/JE/JETTRA/Geo-Coder-Canada-0.01.tar.g
 Geo::Coder::Cloudmade               0.7  F/FR/FRIFFIN/Geo-Coder-Cloudmade-0.7.tar.gz
 Geo::Coder::DAMS                   0.01  B/BO/BOKUTIN/Geo-Coder-DAMS-0.01.tar.gz
 Geo::Coder::DataScienceToolkit     0.02  N/NH/NHORNE/Geo-Coder-DataScienceToolkit-0.02.tar.gz
-Geo::Coder::Free                   0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::Allow           undef  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::Config           0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::DB::MaxMind::admin 0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::DB::MaxMind::admin1 0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::DB::MaxMind::admin2 0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::DB::MaxMind::cities 0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::DB::OpenAddr     0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::DB::openaddresses 0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::DB::vwf_log      0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::Display          0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::Display::index   0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::Display::meta_data 0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::Display::query   0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::Local            0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::MaxMind          0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::OpenAddresses    0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
-Geo::Coder::Free::Utils            0.44  N/NH/NHORNE/Geo-Coder-Free-0.44.tar.gz
+Geo::Coder::Free                   0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::Allow           undef  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::Config           0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::DB::MaxMind::admin 0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::DB::MaxMind::admin1 0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::DB::MaxMind::admin2 0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::DB::MaxMind::cities 0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::DB::OpenAddr     0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::DB::openaddresses 0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::DB::vwf_log      0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::Display          0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::Display::index   0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::Display::meta_data 0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::Display::query   0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::Local            0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::MaxMind          0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::OpenAddresses    0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::Provenance       0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
+Geo::Coder::Free::Utils            0.45  N/NH/NHORNE/Geo-Coder-Free-0.45.tar.gz
 Geo::Coder::GeoApify               0.02  N/NH/NHORNE/Geo-Coder-GeoApify-0.02.tar.gz
 Geo::Coder::GeocodeFarm          0.0500  D/DE/DEXTER/Geo-Coder-GeocodeFarm-0.0500.tar.gz
 Geo::Coder::Google                 0.20  A/AR/ARCANEZ/Geo-Coder-Google-0.20.tar.gz
