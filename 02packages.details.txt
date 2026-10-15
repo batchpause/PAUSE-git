@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261919
-Last-Updated: Thu, 15 Oct 2026 19:41:02 GMT
+Last-Updated: Thu, 15 Oct 2026 20:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -154765,11 +154765,11 @@ OpenTelemetry::Constants          0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Context            0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Context::Key       0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Exporter           0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
-OpenTelemetry::Exporter::OTLP     0.021  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.021.tar.gz
-OpenTelemetry::Exporter::OTLP::Encoder::JSON 0.021  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.021.tar.gz
-OpenTelemetry::Exporter::OTLP::Encoder::Protobuf 0.021  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.021.tar.gz
-OpenTelemetry::Exporter::OTLP::Logs 0.021  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.021.tar.gz
-OpenTelemetry::Exporter::OTLP::Traces 0.021  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.021.tar.gz
+OpenTelemetry::Exporter::OTLP     0.022  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.022.tar.gz
+OpenTelemetry::Exporter::OTLP::Encoder::JSON 0.022  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.022.tar.gz
+OpenTelemetry::Exporter::OTLP::Encoder::Protobuf 0.022  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.022.tar.gz
+OpenTelemetry::Exporter::OTLP::Logs 0.022  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.022.tar.gz
+OpenTelemetry::Exporter::OTLP::Traces 0.022  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.022.tar.gz
 OpenTelemetry::Instrumentation    0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Instrumentation::caller 0.034  J/JJ/JJATRIA/OpenTelemetry-Instrumentation-namespace-0.034.tar.gz
 OpenTelemetry::Instrumentation::DBI 0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
@@ -154799,7 +154799,7 @@ OpenTelemetry::Propagator::TraceContext 0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.
 OpenTelemetry::Propagator::TraceContext::TraceFlags 0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Propagator::TraceContext::TraceParent 0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
 OpenTelemetry::Propagator::TraceContext::TraceState 0.039  J/JJ/JJATRIA/OpenTelemetry-0.039.tar.gz
-OpenTelemetry::Proto              0.021  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.021.tar.gz
+OpenTelemetry::Proto              0.022  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.022.tar.gz
 OpenTelemetry::SDK                0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
 OpenTelemetry::SDK::Exporter::Console 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
 OpenTelemetry::SDK::InstrumentationScope 0.100  J/JJ/JJATRIA/OpenTelemetry-SDK-0.100.tar.gz
