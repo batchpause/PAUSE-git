@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261897
-Last-Updated: Thu, 15 Oct 2026 15:54:14 GMT
+Line-Count:   261907
+Last-Updated: Thu, 15 Oct 2026 16:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81727,6 +81727,16 @@ Game::Schnapsen::Terminal          0.04  L/LN/LNATION/Game-Schnapsen-0.04.tar.gz
 Game::Schnapsen::Trick             0.04  L/LN/LNATION/Game-Schnapsen-0.04.tar.gz
 Game::Schnapsen::Variant           0.04  L/LN/LNATION/Game-Schnapsen-0.04.tar.gz
 Game::SDL                      0.001001  K/KO/KOBOLDWIZ/Perl5/Game-SDL-0.1.1.tar.gz
+Game::Shogi                        0.01  L/LN/LNATION/Game-Shogi-0.01.tar.gz
+Game::Shogi::Bot                   0.01  L/LN/LNATION/Game-Shogi-0.01.tar.gz
+Game::Shogi::Engine                0.01  L/LN/LNATION/Game-Shogi-0.01.tar.gz
+Game::Shogi::Error                 0.01  L/LN/LNATION/Game-Shogi-0.01.tar.gz
+Game::Shogi::Handicap              0.01  L/LN/LNATION/Game-Shogi-0.01.tar.gz
+Game::Shogi::Move                  0.01  L/LN/LNATION/Game-Shogi-0.01.tar.gz
+Game::Shogi::Notation              0.01  L/LN/LNATION/Game-Shogi-0.01.tar.gz
+Game::Shogi::Result                0.01  L/LN/LNATION/Game-Shogi-0.01.tar.gz
+Game::Shogi::Terminal              0.01  L/LN/LNATION/Game-Shogi-0.01.tar.gz
+Game::Shogi::USI                   0.01  L/LN/LNATION/Game-Shogi-0.01.tar.gz
 Game::Snake                        0.13  L/LN/LNATION/Game-Snake-0.13.tar.gz
 Game::Snake::Bot                   0.13  L/LN/LNATION/Game-Snake-0.13.tar.gz
 Game::Snake::Cell                  0.11  L/LN/LNATION/Game-Snake-0.11.tar.gz
