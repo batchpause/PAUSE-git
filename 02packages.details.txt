@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261919
-Last-Updated: Thu, 15 Oct 2026 19:29:02 GMT
+Last-Updated: Thu, 15 Oct 2026 19:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -13523,7 +13523,7 @@ App::pandoc::preprocess        0.009010  D/DB/DBR/App-pandoc-preprocess-v0.9.10.
 App::pandoc::preprocess::File    v0.3.1  D/DB/DBR/App-pandoc-preprocess-0.3.1.tar.gz
 App::PandoraPeriscope             undef  D/DE/DELON/App-PandoraPerisope-0.0.1.tar.gz
 App::paperback                     1.42  M/MO/MONACCI/app-paperback-1.42.tar.gz
-App::papersway                    3.002  S/SP/SPWHITTON/App-papersway-3.002.tar.gz
+App::papersway                    3.003  S/SP/SPWHITTON/App-papersway-3.003.tar.gz
 App::ParseBounceMessage           0.002  P/PE/PERLANCAR/App-ParseBounceMessage-0.002.tar.gz
 App::ParseCommandLineUtils        0.001  P/PE/PERLANCAR/App-ParseCommandLineUtils-0.001.tar.gz
 App::ParseCPANChanges             0.072  P/PE/PERLANCAR/App-ParseCPANChanges-0.072.tar.gz
