@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669108
+Line-Count:  669109
 Written-By:  PAUSE version 1.005
-Date:        Thu, 15 Oct 2026 02:17:44 GMT
+Date:        Thu, 15 Oct 2026 14:30:29 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -157189,6 +157189,7 @@ Geo::Coder::Cloudmade,FRIFFIN,f
 Geo::Coder::DAMS,BOKUTIN,f
 Geo::Coder::DataScienceToolkit,NHORNE,f
 Geo::Coder::Free,NHORNE,f
+Geo::Coder::Free::Allow,NHORNE,f
 Geo::Coder::Free::Config,NHORNE,f
 Geo::Coder::Free::DB,NHORNE,f
 Geo::Coder::Free::DB::MaxMind::admin,NHORNE,f
