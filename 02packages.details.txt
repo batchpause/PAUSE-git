@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261919
-Last-Updated: Thu, 15 Oct 2026 20:17:02 GMT
+Line-Count:   261921
+Last-Updated: Thu, 15 Oct 2026 20:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -17450,10 +17450,10 @@ Archive::Ar                        2.02  J/JB/JBAZIK/Archive-Ar-2.02.tar.gz
 Archive::Ar::Libarchive            2.10  P/PL/PLICEASE/Archive-Ar-Libarchive-2.10.tar.gz
 Archive::Ar::Ng                    2.04  M/MI/MITHR/Archive-Ar-Ng-2.04.tar.gz
 Archive::Asar                      0.02  M/MA/MAUKE/Archive-Asar-0.02.tar.gz
-Archive::BagIt                    0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
+Archive::BagIt                    0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
 Archive::BagIt::App               0.049  R/RJ/RJESCHMI/Archive-BagIt-App-0.049.tar.gz
 Archive::BagIt::App::Verify       0.049  R/RJ/RJESCHMI/Archive-BagIt-App-0.049.tar.gz
-Archive::BagIt::Base              0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
+Archive::BagIt::Base              0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
 Archive::BagIt::DotBagIt          0.070  A/AR/ART/Archive-BagIt-0.070.tar.gz
 Archive::BagIt::Fast              0.090  A/AR/ART/Archive-BagIt-Fast-0.090.tar.gz
 Archive::BagIt::Plugin::Algorithm::BLAKE3 0.002  A/AR/ART/Archive-BagIt-Plugin-BLAKE3-0.002.tar.gz
@@ -17465,14 +17465,16 @@ Archive::BagIt::Plugin::Manifest::BLAKE3 0.002  A/AR/ART/Archive-BagIt-Plugin-BL
 Archive::BagIt::Plugin::Manifest::MD5 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
 Archive::BagIt::Plugin::Manifest::SHA256 0.005  A/AR/ART/Archive-BagIt-Plugin-SHA256-0.005.tar.gz
 Archive::BagIt::Plugin::Manifest::SHA512 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
+Archive::BagIt::Plugin::MD5       0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
 Archive::BagIt::Plugin::SHA256    0.005  A/AR/ART/Archive-BagIt-Plugin-SHA256-0.005.tar.gz
-Archive::BagIt::Role::Algorithm   0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
-Archive::BagIt::Role::Manifest    0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
-Archive::BagIt::Role::OpenSSL     0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
-Archive::BagIt::Role::OpenSSL::Async 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
-Archive::BagIt::Role::OpenSSL::Sync 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
-Archive::BagIt::Role::Plugin      0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
-Archive::BagIt::Role::Portability 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
+Archive::BagIt::Plugin::SHA512    0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
+Archive::BagIt::Role::Algorithm   0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
+Archive::BagIt::Role::Manifest    0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
+Archive::BagIt::Role::OpenSSL     0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
+Archive::BagIt::Role::OpenSSL::Async 0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
+Archive::BagIt::Role::OpenSSL::Sync 0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
+Archive::BagIt::Role::Plugin      0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
+Archive::BagIt::Role::Portability 0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
 Archive::Builder                   1.16  A/AD/ADAMK/Archive-Builder-1.16.tar.gz
 Archive::Builder::Archive          1.16  A/AD/ADAMK/Archive-Builder-1.16.tar.gz
 Archive::Builder::File             1.16  A/AD/ADAMK/Archive-Builder-1.16.tar.gz
