@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669068
+Line-Count:  669108
 Written-By:  PAUSE version 1.005
-Date:        Thu, 15 Oct 2026 01:18:15 GMT
+Date:        Thu, 15 Oct 2026 02:17:44 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -666293,26 +666293,50 @@ oEdtk::C7Tag,DAUNAY,c
 oEdtk::C7Tag,GRECHARY,f
 oEdtk::Config,DAUNAY,c
 oEdtk::Config,GRECHARY,f
+oEdtk::Constants,DAUNAY,c
+oEdtk::Constants,GRECHARY,f
 oEdtk::DBAdmin,DAUNAY,c
 oEdtk::DBAdmin,GRECHARY,f
 oEdtk::DateField,DAUNAY,c
 oEdtk::DateField,GRECHARY,f
 oEdtk::Dict,DAUNAY,c
 oEdtk::Dict,GRECHARY,f
+oEdtk::DisseminationPlan,DAUNAY,c
+oEdtk::DisseminationPlan,GRECHARY,f
 oEdtk::Doc,DAUNAY,c
 oEdtk::Doc,GRECHARY,f
+oEdtk::ECM,DAUNAY,c
+oEdtk::ECM,GRECHARY,f
 oEdtk::EDM,DAUNAY,c
 oEdtk::EDM,GRECHARY,f
 oEdtk::EDMS,DAUNAY,c
 oEdtk::EDMS,GRECHARY,f
+oEdtk::Emailing,DAUNAY,c
+oEdtk::Emailing,GRECHARY,f
+oEdtk::Ext,DAUNAY,c
+oEdtk::Ext,GRECHARY,f
 oEdtk::FPField,DAUNAY,c
 oEdtk::FPField,GRECHARY,f
+oEdtk::FatalsToEmail,DAUNAY,c
+oEdtk::FatalsToEmail,GRECHARY,f
 oEdtk::Field,DAUNAY,c
 oEdtk::Field,GRECHARY,f
+oEdtk::FixIdx,DAUNAY,c
+oEdtk::FixIdx,GRECHARY,f
+oEdtk::IBAN,DAUNAY,c
+oEdtk::IBAN,GRECHARY,f
+oEdtk::Infinite,DAUNAY,c
+oEdtk::Infinite,GRECHARY,f
+oEdtk::Keycloak,DAUNAY,c
+oEdtk::Keycloak,GRECHARY,f
+oEdtk::LaTeX,DAUNAY,c
+oEdtk::LaTeX,GRECHARY,f
 oEdtk::Main,DAUNAY,c
 oEdtk::Main,GRECHARY,f
 oEdtk::Messenger,DAUNAY,c
 oEdtk::Messenger,GRECHARY,f
+oEdtk::Net,DAUNAY,c
+oEdtk::Net,GRECHARY,f
 oEdtk::OmgrIdxDoc,DAUNAY,c
 oEdtk::OmgrIdxDoc,GRECHARY,f
 oEdtk::Outmngr,DAUNAY,c
@@ -666321,8 +666345,12 @@ oEdtk::Record,DAUNAY,c
 oEdtk::Record,GRECHARY,f
 oEdtk::RecordParser,DAUNAY,c
 oEdtk::RecordParser,GRECHARY,f
+oEdtk::Restitution,DAUNAY,c
+oEdtk::Restitution,GRECHARY,f
 oEdtk::Run,DAUNAY,c
 oEdtk::Run,GRECHARY,f
+oEdtk::SchemaScan,DAUNAY,c
+oEdtk::SchemaScan,GRECHARY,f
 oEdtk::SignedField,DAUNAY,c
 oEdtk::SignedField,GRECHARY,f
 oEdtk::Spool,DAUNAY,c
@@ -666335,6 +666363,18 @@ oEdtk::Tracking,DAUNAY,c
 oEdtk::Tracking,GRECHARY,f
 oEdtk::Util,DAUNAY,c
 oEdtk::Util,GRECHARY,f
+oEdtk::Utils,DAUNAY,c
+oEdtk::Utils,GRECHARY,f
+oEdtk::XML::DTD,DAUNAY,c
+oEdtk::XML::DTD,GRECHARY,f
+oEdtk::XML::DTD::Utils,DAUNAY,c
+oEdtk::XML::DTD::Utils,GRECHARY,f
+oEdtk::XML::Default,DAUNAY,c
+oEdtk::XML::Default,GRECHARY,f
+oEdtk::XML::Generic,DAUNAY,c
+oEdtk::XML::Generic,GRECHARY,f
+oEdtk::XML::XSD,DAUNAY,c
+oEdtk::XML::XSD,GRECHARY,f
 oEdtk::XPath,DAUNAY,c
 oEdtk::XPath,GRECHARY,f
 oEdtk::chaineLib,DAUNAY,c
