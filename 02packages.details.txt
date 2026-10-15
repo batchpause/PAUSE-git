@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261897
-Last-Updated: Thu, 15 Oct 2026 14:29:02 GMT
+Last-Updated: Thu, 15 Oct 2026 15:54:14 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -59978,10 +59978,10 @@ Date::Manip::TZ::z00               7.00  S/SB/SBECK/Date-Manip-7.00.tar.gz
 Date::Manip::TZ_Base               7.00  S/SB/SBECK/Date-Manip-7.00.tar.gz
 Date::Manip::TZdata                7.00  S/SB/SBECK/Date-Manip-7.00.tar.gz
 Date::Manip::Zones                 7.00  S/SB/SBECK/Date-Manip-7.00.tar.gz
-Date::ManipX::Almanac             0.004  W/WY/WYANT/Date-ManipX-Almanac-0.004.tar.gz
-Date::ManipX::Almanac::Date       0.004  W/WY/WYANT/Date-ManipX-Almanac-0.004.tar.gz
-Date::ManipX::Almanac::Lang       0.004  W/WY/WYANT/Date-ManipX-Almanac-0.004.tar.gz
-Date::ManipX::Almanac::Lang::english 0.004  W/WY/WYANT/Date-ManipX-Almanac-0.004.tar.gz
+Date::ManipX::Almanac             0.005  W/WY/WYANT/Date-ManipX-Almanac-0.005.tar.gz
+Date::ManipX::Almanac::Date       0.005  W/WY/WYANT/Date-ManipX-Almanac-0.005.tar.gz
+Date::ManipX::Almanac::Lang       0.005  W/WY/WYANT/Date-ManipX-Almanac-0.005.tar.gz
+Date::ManipX::Almanac::Lang::english 0.005  W/WY/WYANT/Date-ManipX-Almanac-0.005.tar.gz
 Date::Maya                     2010011301  A/AB/ABIGAIL/Date-Maya-2010011301.tar.gz
 Date::MonthSet                      0.2  D/DI/DIZ/Date-MonthSet-0.2.tar.gz
 Date::MSAccess                     1.05  R/RS/RSAVAGE/Date-MSAccess-1.05.tgz
@@ -103483,7 +103483,7 @@ HTML::FromMail::Message            4.00  M/MA/MARKOV/HTML-FromMail-4.00.tar.gz
 HTML::FromMail::Object             4.00  M/MA/MARKOV/HTML-FromMail-4.00.tar.gz
 HTML::FromMail::Page               4.00  M/MA/MARKOV/HTML-FromMail-4.00.tar.gz
 HTML::FromText                     2.07  R/RJ/RJBS/HTML-FromText-2.07.tar.gz
-HTML::Genealogy::Map               0.04  N/NH/NHORNE/HTML-Genealogy-Map-0.04.tar.gz
+HTML::Genealogy::Map               0.05  N/NH/NHORNE/HTML-Genealogy-Map-0.05.tar.gz
 HTML::GenerateUtil                 1.21  R/RO/ROBM/HTML-GenerateUtil-1.21.tar.gz
 HTML::GenerateUtil::Escape         1.21  R/RO/ROBM/HTML-GenerateUtil-1.21.tar.gz
 HTML::GenToc                       3.20  R/RU/RUBYKAT/HTML-GenToc-3.20.tar.gz
@@ -143999,7 +143999,7 @@ Net::Camera::Sercomm::ICamera2     0.02  M/MR/MRDVT/Net-Camera-Sercomm-ICamera2-
 Net::CampaignMonitor           2.002002  J/JJ/JJC/Net-CampaignMonitor-v2.2.2.tar.gz
 Net::Canopy::BAM                   0.04  J/JA/JAUER/Net-Canopy-BAM-0.04.tgz
 Net::CapsuleCRM                1.151910  E/EL/ELLIOTT/Net-CapsuleCRM-1.151910.tar.gz
-Net::CardDAVTalk                   0.12  B/BR/BRONG/Net-CardDAVTalk-0.12.tar.gz
+Net::CardDAVTalk                   0.13  B/BR/BRONG/Net-CardDAVTalk-0.13.tar.gz
 Net::CardDAVTalk::VCard           undef  B/BR/BRONG/Net-CardDAVTalk-0.09.tar.gz
 Net::CascadeCopy               0.002006  V/VV/VVU/Net-CascadeCopy-0.2.6.tar.gz
 Net::Cassandra                     0.35  L/LB/LBROCARD/Net-Cassandra-0.35.tar.gz
