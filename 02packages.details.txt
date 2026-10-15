@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261896
-Last-Updated: Thu, 15 Oct 2026 07:54:25 GMT
+Last-Updated: Thu, 15 Oct 2026 08:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -231302,7 +231302,7 @@ Text::CSV_Multiline                0.01  J/JA/JASLONG/Text-CSV_Multiline-0.02.ta
 Text::CSV_PP                       2.06  I/IS/ISHIGAKI/Text-CSV-2.06.tar.gz
 Text::CSV_PP::Iterator             1.04  R/RS/RSAVAGE/Text-CSV_PP-Iterator-1.04.tgz
 Text::CSV_PP::Simple           0.000005  C/CO/COHTAN/Text-CSV_PP-Simple-0.0.5.tar.gz
-Text::CSV_XS                       1.64  H/HM/HMBRAND/Text-CSV_XS-1.64.tgz
+Text::CSV_XS                       1.65  H/HM/HMBRAND/Text-CSV_XS-1.65.tgz
 Text::CSV_XS::Backslash           0.001  P/PE/PERLANCAR/Text-CSV_XS-Backslash-0.001.tar.gz
 Text::CSV_XS::TSV                 0.003  P/PE/PERLANCAR/Text-CSV_XS-TSV-0.003.tar.gz
 Text::Darts                        0.10  D/DA/DANKOGAI/Text-Darts-0.10.tar.gz
