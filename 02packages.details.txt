@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261921
-Last-Updated: Thu, 15 Oct 2026 21:17:02 GMT
+Last-Updated: Thu, 15 Oct 2026 21:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -136348,7 +136348,7 @@ Mojolicious::Plugin::OIDC          1.05  S/SM/SMOURLHOU/Mojolicious-Plugin-OIDC-
 Mojolicious::Plugin::OnFork       0.006  G/GR/GRAF/Mojolicious-Plugin-OnFork-0.006.tar.gz
 Mojolicious::Plugin::OpenAPI       5.12  J/JH/JHTHORSEN/Mojolicious-Plugin-OpenAPI-5.12.tar.gz
 Mojolicious::Plugin::OpenAPI::Cors undef  J/JH/JHTHORSEN/Mojolicious-Plugin-OpenAPI-5.12.tar.gz
-Mojolicious::Plugin::OpenAPI::Modern 0.021  E/ET/ETHER/Mojolicious-Plugin-OpenAPI-Modern-0.021.tar.gz
+Mojolicious::Plugin::OpenAPI::Modern 0.022  E/ET/ETHER/Mojolicious-Plugin-OpenAPI-Modern-0.022.tar.gz
 Mojolicious::Plugin::OpenAPI::Parameters undef  J/JH/JHTHORSEN/Mojolicious-Plugin-OpenAPI-5.12.tar.gz
 Mojolicious::Plugin::OpenAPI::Security undef  J/JH/JHTHORSEN/Mojolicious-Plugin-OpenAPI-5.12.tar.gz
 Mojolicious::Plugin::OpenAPI::SpecRenderer undef  J/JH/JHTHORSEN/Mojolicious-Plugin-OpenAPI-5.12.tar.gz
@@ -245489,7 +245489,7 @@ WebFetch::Output::Dump         0.015009  I/IK/IKLUFT/WebFetch-0.15.9.tar.gz
 WebFetch::Output::TT           0.001000  I/IK/IKLUFT/WebFetch-Output-TT-0.1.0.tar.gz
 WebFetch::Output::TWiki        0.001000  I/IK/IKLUFT/WebFetch-Output-TWiki-0.1.0.tar.gz
 WebFetch::RSS                  0.003002  I/IK/IKLUFT/WebFetch-RSS-0.3.2.tar.gz
-WebForms                          2.1.1  E/EL/ELANAT/WFC-2.1.1.tar.gz
+WebForms                         v2.2.0  E/EL/ELANAT/WFC-2.2.0.tar.gz
 WebFS::FileCopy                    1.04  B/BZ/BZAJAC/WebFS-FileCopy-1.04.tar.gz
 WebFS::FileCopy::Put               1.04  B/BZ/BZAJAC/WebFS-FileCopy-1.04.tar.gz
 WebFS::FileCopy::Put::File         1.04  B/BZ/BZAJAC/WebFS-FileCopy-1.04.tar.gz
@@ -250099,7 +250099,7 @@ WFA::Client                        0.01  Q/QR/QRRY/WFA-Client-0.01.tar.gz
 WFA::Job                          undef  Q/QR/QRRY/WFA-Client-0.01.tar.gz
 WFA::Role::Response               undef  Q/QR/QRRY/WFA-Client-0.01.tar.gz
 WFA::Workflow                     undef  Q/QR/QRRY/WFA-Client-0.01.tar.gz
-WFC                               2.1.1  E/EL/ELANAT/WFC-2.1.1.tar.gz
+WFC                              v2.2.0  E/EL/ELANAT/WFC-2.2.0.tar.gz
 WG::API                         v0.13.0  C/CY/CYNOVG/WG-API-v0.13.tar.gz
 WG::API::Accounts                v0.5.0  C/CY/CYNOVG/WG-API-v0.05.tar.gz
 WG::API::Auth                   v0.13.0  C/CY/CYNOVG/WG-API-v0.13.tar.gz
