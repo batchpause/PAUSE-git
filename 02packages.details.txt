@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261921
-Last-Updated: Thu, 15 Oct 2026 20:54:16 GMT
+Last-Updated: Thu, 15 Oct 2026 21:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -17460,7 +17460,7 @@ Archive::BagIt::Plugin::Algorithm::BLAKE3 0.002  A/AR/ART/Archive-BagIt-Plugin-B
 Archive::BagIt::Plugin::Algorithm::MD5 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
 Archive::BagIt::Plugin::Algorithm::SHA256 0.005  A/AR/ART/Archive-BagIt-Plugin-SHA256-0.005.tar.gz
 Archive::BagIt::Plugin::Algorithm::SHA512 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
-Archive::BagIt::Plugin::BLAKE3    0.002  A/AR/ART/Archive-BagIt-Plugin-BLAKE3-0.002.tar.gz
+Archive::BagIt::Plugin::BLAKE3    0.003  A/AR/ART/Archive-BagIt-Plugin-BLAKE3-0.003.tar.gz
 Archive::BagIt::Plugin::Manifest::BLAKE3 0.002  A/AR/ART/Archive-BagIt-Plugin-BLAKE3-0.002.tar.gz
 Archive::BagIt::Plugin::Manifest::MD5 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
 Archive::BagIt::Plugin::Manifest::SHA256 0.005  A/AR/ART/Archive-BagIt-Plugin-SHA256-0.005.tar.gz
@@ -113212,7 +113212,7 @@ JSON::Schema::Helper              0.016  T/TO/TOBYINK/JSON-Schema-0.016.tar.gz
 JSON::Schema::Modern              0.651  E/ET/ETHER/JSON-Schema-Modern-0.651.tar.gz
 JSON::Schema::Modern::Annotation  0.651  E/ET/ETHER/JSON-Schema-Modern-0.651.tar.gz
 JSON::Schema::Modern::Document    0.651  E/ET/ETHER/JSON-Schema-Modern-0.651.tar.gz
-JSON::Schema::Modern::Document::OpenAPI 0.149  E/ET/ETHER/OpenAPI-Modern-0.149.tar.gz
+JSON::Schema::Modern::Document::OpenAPI 0.150  E/ET/ETHER/OpenAPI-Modern-0.150.tar.gz
 JSON::Schema::Modern::Error       0.651  E/ET/ETHER/JSON-Schema-Modern-0.651.tar.gz
 JSON::Schema::Modern::Result      0.651  E/ET/ETHER/JSON-Schema-Modern-0.651.tar.gz
 JSON::Schema::Modern::ResultNode  0.651  E/ET/ETHER/JSON-Schema-Modern-0.651.tar.gz
@@ -113224,8 +113224,8 @@ JSON::Schema::Modern::Vocabulary::Core 0.651  E/ET/ETHER/JSON-Schema-Modern-0.65
 JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.651  E/ET/ETHER/JSON-Schema-Modern-0.651.tar.gz
 JSON::Schema::Modern::Vocabulary::FormatAssertion 0.651  E/ET/ETHER/JSON-Schema-Modern-0.651.tar.gz
 JSON::Schema::Modern::Vocabulary::MetaData 0.651  E/ET/ETHER/JSON-Schema-Modern-0.651.tar.gz
-JSON::Schema::Modern::Vocabulary::OpenAPI 0.149  E/ET/ETHER/OpenAPI-Modern-0.149.tar.gz
-JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.149  E/ET/ETHER/OpenAPI-Modern-0.149.tar.gz
+JSON::Schema::Modern::Vocabulary::OpenAPI 0.150  E/ET/ETHER/OpenAPI-Modern-0.150.tar.gz
+JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.150  E/ET/ETHER/OpenAPI-Modern-0.150.tar.gz
 JSON::Schema::Modern::Vocabulary::Unevaluated 0.651  E/ET/ETHER/JSON-Schema-Modern-0.651.tar.gz
 JSON::Schema::Modern::Vocabulary::Validation 0.651  E/ET/ETHER/JSON-Schema-Modern-0.651.tar.gz
 JSON::Schema::Null                0.016  T/TO/TOBYINK/JSON-Schema-0.016.tar.gz
@@ -154006,8 +154006,8 @@ OpenAPI::Generator::From::Pod     undef  D/DO/DOOJONIO/OpenAPI-Generator-0.06.ta
 OpenAPI::Generator::Util          undef  D/DO/DOOJONIO/OpenAPI-Generator-0.06.tar.gz
 OpenAPI::Linter                    0.19  M/MA/MANWAR/OpenAPI-Linter-0.19.tar.gz
 OpenAPI::Linter::Location          0.19  M/MA/MANWAR/OpenAPI-Linter-0.19.tar.gz
-OpenAPI::Modern                   0.149  E/ET/ETHER/OpenAPI-Modern-0.149.tar.gz
-OpenAPI::Modern::Utilities        0.149  E/ET/ETHER/OpenAPI-Modern-0.149.tar.gz
+OpenAPI::Modern                   0.150  E/ET/ETHER/OpenAPI-Modern-0.150.tar.gz
+OpenAPI::Modern::Utilities        0.150  E/ET/ETHER/OpenAPI-Modern-0.150.tar.gz
 OpenAPI::PerlGenerator             0.02  C/CO/CORION/OpenAPI-PerlGenerator-0.02.tar.gz
 OpenAPI::PerlGenerator::Template   0.02  C/CO/CORION/OpenAPI-PerlGenerator-0.02.tar.gz
 OpenAPI::PerlGenerator::Template::Mojo 0.02  C/CO/CORION/OpenAPI-PerlGenerator-0.02.tar.gz
