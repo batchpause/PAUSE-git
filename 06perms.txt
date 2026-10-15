@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669120
+Line-Count:  669123
 Written-By:  PAUSE version 1.005
-Date:        Thu, 15 Oct 2026 17:29:09 GMT
+Date:        Thu, 15 Oct 2026 17:55:51 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -546878,6 +546878,9 @@ Power::Outlet::iBootBar,MRDVT,f
 Power::Outlet::iBootBarGroup,MRDVT,f
 PowerBuilder::DataWindow,SEBKIRCHE,f
 PowerBuilder::ORCA,ICHE,f
+PowerDNS::API::ACL,TEODESIAN,f
+PowerDNS::API::ACL::Proxy,TEODESIAN,f
+PowerDNS::API::ACL::Store,TEODESIAN,f
 PowerDNS::API::Client,ABH,f
 PowerDNS::API::Client::Request,ABH,f
 PowerDNS::API::Client::Response,ABH,f
