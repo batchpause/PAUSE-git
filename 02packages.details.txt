@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261896
-Last-Updated: Thu, 15 Oct 2026 12:54:31 GMT
+Last-Updated: Thu, 15 Oct 2026 13:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4321,7 +4321,7 @@ Alien::CFITSIO                 v4.6.2.5  D/DJ/DJERIUS/Alien-CFITSIO-v4.6.2.5.tar
 Alien::Chipmunk                0.001002  J/JT/JTPALMER/Alien-Chipmunk-0.001002.tar.gz
 Alien::chromaprint                 0.02  P/PL/PLICEASE/Alien-chromaprint-0.02.tar.gz
 Alien::CImg                        0.01  G/GU/GUGOD/Alien-CImg-0.01.tar.gz
-Alien::ckdl                       0.001  D/DA/DAVENONYM/Alien-ckdl-0.001.tar.gz
+Alien::ckdl                       0.002  D/DA/DAVENONYM/Alien-ckdl-0.002.tar.gz
 Alien::CLIPS                      undef  J/JO/JOVAN/Inline-CLIPS-0.002.tar.gz
 Alien::CMake                       0.12  P/PL/PLICEASE/Alien-CMake-0.12.tar.gz
 Alien::cmake3                      0.10  P/PL/PLICEASE/Alien-cmake3-0.10.tar.gz
@@ -231635,12 +231635,12 @@ Text::JSContact                    0.03  B/BR/BRONG/Text-JSContact-0.03.tar.gz
 Text::JSON::Nibble                 1.01  D/DA/DAEMON/Text-JSON-Nibble-1.01.tar.gz
 Text::Kakasi                       2.04  D/DA/DANKOGAI/Text-Kakasi-2.04.tar.gz
 Text::Karma                        0.05  H/HI/HINRIK/Text-Karma-0.05.tar.gz
-Text::KDL::XS                     0.002  D/DA/DAVENONYM/Text-KDL-XS-0.002.tar.gz
-Text::KDL::XS::Document           undef  D/DA/DAVENONYM/Text-KDL-XS-0.002.tar.gz
-Text::KDL::XS::Emitter            undef  D/DA/DAVENONYM/Text-KDL-XS-0.002.tar.gz
-Text::KDL::XS::Node               undef  D/DA/DAVENONYM/Text-KDL-XS-0.002.tar.gz
-Text::KDL::XS::Parser             undef  D/DA/DAVENONYM/Text-KDL-XS-0.002.tar.gz
-Text::KDL::XS::Value              undef  D/DA/DAVENONYM/Text-KDL-XS-0.002.tar.gz
+Text::KDL::XS                     0.003  D/DA/DAVENONYM/Text-KDL-XS-0.003.tar.gz
+Text::KDL::XS::Document           undef  D/DA/DAVENONYM/Text-KDL-XS-0.003.tar.gz
+Text::KDL::XS::Emitter            undef  D/DA/DAVENONYM/Text-KDL-XS-0.003.tar.gz
+Text::KDL::XS::Node               undef  D/DA/DAVENONYM/Text-KDL-XS-0.003.tar.gz
+Text::KDL::XS::Parser             undef  D/DA/DAVENONYM/Text-KDL-XS-0.003.tar.gz
+Text::KDL::XS::Value              undef  D/DA/DAVENONYM/Text-KDL-XS-0.003.tar.gz
 Text::Keywords                    0.900  G/GE/GETTY/Text-Keywords-0.900.tar.gz
 Text::Keywords::Container         0.900  G/GE/GETTY/Text-Keywords-0.900.tar.gz
 Text::Keywords::Found             0.900  G/GE/GETTY/Text-Keywords-0.900.tar.gz
@@ -238742,7 +238742,7 @@ Util::Any                          0.25  K/KT/KTAT/Util-Any-0.25.tar.gz
 util::argv                        undef  U/UT/UTASHIRO/App-optex-v0.0.4.tar.gz
 Util::BLOB                          0.1  A/AR/AREGGIORI/RDFStore-0.51.tar.gz
 Util::CommandLine                  1.10  G/GR/GRYPHON/Util-CommandLine-1.10.tar.gz
-Util::Con                          0.01  D/DC/DCON/Util-Con-0.01.tar.gz
+Util::Con                          0.02  D/DC/DCON/Util-Con-0.02.tar.gz
 Util::EvalSnippet                  0.02  C/CH/CHOLLOWAY/Util-EvalSnippet-0.02.tar.gz
 util::filter                      undef  U/UT/UTASHIRO/App-optex-v0.0.4.tar.gz
 Util::H2O                          0.24  H/HA/HAUKEX/Util-H2O-0.24.tar.gz
