@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669152
+Line-Count:  669159
 Written-By:  PAUSE version 1.005
-Date:        Fri, 16 Oct 2026 20:17:43 GMT
+Date:        Fri, 16 Oct 2026 22:18:34 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -96559,11 +96559,13 @@ Claude::Agent::Hook,LNATION,f
 Claude::Agent::Hook::Context,LNATION,f
 Claude::Agent::Hook::Executor,LNATION,f
 Claude::Agent::Hook::Matcher,LNATION,f
+Claude::Agent::Hook::Registry,LNATION,f
 Claude::Agent::Hook::Result,LNATION,f
 Claude::Agent::Logger,LNATION,f
 Claude::Agent::MCP,LNATION,f
 Claude::Agent::MCP::HTTPServer,LNATION,f
 Claude::Agent::MCP::HeaderUtils,LNATION,f
+Claude::Agent::MCP::SDKBridge,LNATION,f
 Claude::Agent::MCP::SDKRunner,LNATION,f
 Claude::Agent::MCP::SDKServer,LNATION,f
 Claude::Agent::MCP::SSEServer,LNATION,f
@@ -96573,8 +96575,12 @@ Claude::Agent::MCP::ToolDefinition,LNATION,f
 Claude::Agent::Message,LNATION,f
 Claude::Agent::Message::Assistant,LNATION,f
 Claude::Agent::Message::Base,LNATION,f
+Claude::Agent::Message::HookEvent,LNATION,f
+Claude::Agent::Message::RateLimitEvent,LNATION,f
 Claude::Agent::Message::Result,LNATION,f
+Claude::Agent::Message::StreamEvent,LNATION,f
 Claude::Agent::Message::System,LNATION,f
+Claude::Agent::Message::ToolProgress,LNATION,f
 Claude::Agent::Message::User,LNATION,f
 Claude::Agent::Options,LNATION,f
 Claude::Agent::Permission,LNATION,f
@@ -96584,6 +96590,7 @@ Claude::Agent::Permission::Result::Allow,LNATION,f
 Claude::Agent::Permission::Result::Deny,LNATION,f
 Claude::Agent::Query,LNATION,f
 Claude::Agent::Subagent,LNATION,f
+Claude::Agent::Types,LNATION,f
 Clay::UI,DAVENONYM,f
 Clay::UI::Box,DAVENONYM,f
 Clay::UI::Enum::Bubble,DAVENONYM,f
