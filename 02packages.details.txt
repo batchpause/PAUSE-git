@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261924
-Last-Updated: Fri, 16 Oct 2026 17:17:02 GMT
+Line-Count:   261926
+Last-Updated: Fri, 16 Oct 2026 17:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -233986,6 +233986,7 @@ Time::Human                        1.03  J/JH/JHOBLITT/Time-Human-1.03.tar.gz
 Time::Implementation              undef  F/FO/FOTANGO/Froody-42.034.tar.gz
 Time::Interval                    1.234  A/AH/AHICOX/Time-Interval-1.234.tar.gz
 Time::JulianDay                2026.033  B/BP/BPS/Time-ParseDate-2026.033.tar.gz
+Time::Keeper::Zone                 0.01  L/LN/LNATION/Time-Keeper-Zone-0.01.tar.gz
 Time::LeapSecond                   0.92  C/CH/CHANSEN/Time-Str-0.92.tar.gz
 Time::Left                        1.000  T/TF/TFBW/Time-Left-1.000.tar.gz
 Time::Limit                       0.003  T/TO/TOBYINK/Time-Limit-0.003.tar.gz
@@ -238767,6 +238768,7 @@ util                              undef  U/UT/UTASHIRO/App-optex-v0.0.4.tar.gz
 Util::Any                          0.25  K/KT/KTAT/Util-Any-0.25.tar.gz
 util::argv                        undef  U/UT/UTASHIRO/App-optex-v0.0.4.tar.gz
 Util::BLOB                          0.1  A/AR/AREGGIORI/RDFStore-0.51.tar.gz
+Util::Cn                          0.021  D/DC/DCON/Util-Cn-0.021.tar.gz
 Util::CommandLine                  1.10  G/GR/GRYPHON/Util-CommandLine-1.10.tar.gz
 Util::Con                          0.02  D/DC/DCON/Util-Con-0.02.tar.gz
 Util::EvalSnippet                  0.02  C/CH/CHOLLOWAY/Util-EvalSnippet-0.02.tar.gz
