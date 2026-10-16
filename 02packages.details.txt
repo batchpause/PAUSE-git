@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261938
-Last-Updated: Fri, 16 Oct 2026 20:17:01 GMT
+Last-Updated: Fri, 16 Oct 2026 20:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -238536,11 +238536,11 @@ URI::OpenURL::serviceType      0.004006  T/TI/TIMBRODY/URI-OpenURL-0.4.6.tar.gz
 URI::oracle                        0.24  D/DW/DWHEELER/URI-db-0.24.tar.gz
 URI::otpauth                       5.37  O/OA/OALDERS/URI-5.37.tar.gz
 URI::pack                      0.002001  D/DO/DOUGDUDE/URI-pack-0.002001.tar.gz
-URI::PackageURL                    2.25  G/GD/GDT/URI-PackageURL-2.25.tar.gz
-URI::PackageURL::App               2.25  G/GD/GDT/URI-PackageURL-2.25.tar.gz
+URI::PackageURL                    2.26  G/GD/GDT/URI-PackageURL-2.26.tar.gz
+URI::PackageURL::App               2.26  G/GD/GDT/URI-PackageURL-2.26.tar.gz
 URI::PackageURL::CLI               2.04  G/GD/GDT/URI-PackageURL-2.04.tar.gz
-URI::PackageURL::Type              2.25  G/GD/GDT/URI-PackageURL-2.25.tar.gz
-URI::PackageURL::Util              2.25  G/GD/GDT/URI-PackageURL-2.25.tar.gz
+URI::PackageURL::Type              2.26  G/GD/GDT/URI-PackageURL-2.26.tar.gz
+URI::PackageURL::Util              2.26  G/GD/GDT/URI-PackageURL-2.26.tar.gz
 URI::Parse::Instagram             0.001  P/PE/PERLANCAR/URI-Parse-Instagram-0.001.tar.gz
 URI::ParseSearchString             3.51  S/SD/SDEN/URI-ParseSearchString-3.51.tar.gz
 URI::ParseSearchString::More       0.19  O/OA/OALDERS/URI-ParseSearchString-More-0.19.tar.gz
@@ -238615,11 +238615,11 @@ URI::urn::isbn                     5.37  O/OA/OALDERS/URI-5.37.tar.gz
 URI::urn::oid                      5.37  O/OA/OALDERS/URI-5.37.tar.gz
 URI::urn::uuid                     0.03  M/MI/MIYAGAWA/URI-urn-uuid-0.03.tar.gz
 URI::UTF8::Punycode                1.05  T/TW/TWINKLE/URI-UTF8-Punycode-1.05.tar.gz
-URI::VersionRange                  2.25  G/GD/GDT/URI-PackageURL-2.25.tar.gz
-URI::VersionRange::App             2.25  G/GD/GDT/URI-PackageURL-2.25.tar.gz
-URI::VersionRange::Constraint      2.25  G/GD/GDT/URI-PackageURL-2.25.tar.gz
-URI::VersionRange::Util            2.25  G/GD/GDT/URI-PackageURL-2.25.tar.gz
-URI::VersionRange::Version         2.25  G/GD/GDT/URI-PackageURL-2.25.tar.gz
+URI::VersionRange                  2.26  G/GD/GDT/URI-PackageURL-2.26.tar.gz
+URI::VersionRange::App             2.26  G/GD/GDT/URI-PackageURL-2.26.tar.gz
+URI::VersionRange::Constraint      2.26  G/GD/GDT/URI-PackageURL-2.26.tar.gz
+URI::VersionRange::Util            2.26  G/GD/GDT/URI-PackageURL-2.26.tar.gz
+URI::VersionRange::Version         2.26  G/GD/GDT/URI-PackageURL-2.26.tar.gz
 URI::vertica                       0.24  D/DW/DWHEELER/URI-db-0.24.tar.gz
 URI::virtual                       0.02  R/RP/RPAUL/LWP-Protocol-virtual-0.02.tar.gz
 URI::WithBase                      5.37  O/OA/OALDERS/URI-5.37.tar.gz
