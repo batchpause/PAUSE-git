@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261929
-Last-Updated: Fri, 16 Oct 2026 17:41:02 GMT
+Last-Updated: Fri, 16 Oct 2026 17:54:40 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -122755,9 +122755,9 @@ Locale::Object::Currency::Converter 0.78  J/JR/JROBINSON/Locale-Object-0.82.tar.
 Locale::Object::DB                 0.78  J/JR/JROBINSON/Locale-Object-0.82.tar.gz
 Locale::Object::Language           0.78  J/JR/JROBINSON/Locale-Object-0.82.tar.gz
 Locale::PGetText                   0.16  M/MS/MSHOYHER/Locale-PGetText-0.16.tar.gz
-Locale::Places                     0.16  N/NH/NHORNE/Locale-Places-0.16.tar.gz
-Locale::Places::GB                 0.16  N/NH/NHORNE/Locale-Places-0.16.tar.gz
-Locale::Places::US                 0.16  N/NH/NHORNE/Locale-Places-0.16.tar.gz
+Locale::Places                     0.17  N/NH/NHORNE/Locale-Places-0.17.tar.gz
+Locale::Places::GB                 0.17  N/NH/NHORNE/Locale-Places-0.17.tar.gz
+Locale::Places::US                 0.17  N/NH/NHORNE/Locale-Places-0.17.tar.gz
 Locale::PO                         0.27  C/CO/COSIMO/Locale-PO-0.27.tar.gz
 Locale::PO::Callback               0.04  M/MA/MARNANEL/Locale-PO-Callback-0.04.tar.gz
 Locale::POFile                    undef  G/GU/GUIDO/libintl-perl-1.19.tar.gz
