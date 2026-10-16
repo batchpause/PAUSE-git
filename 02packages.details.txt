@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261924
-Last-Updated: Fri, 16 Oct 2026 07:17:02 GMT
+Last-Updated: Fri, 16 Oct 2026 08:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -67877,7 +67877,7 @@ Dist::Zilla::MintingProfile::Author::JACQUESG 0.02  J/JA/JACQUESG/Dist-Zilla-Plu
 Dist::Zilla::MintingProfile::Author::KENTNL 2.025021  K/KE/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-2.025021.tar.gz
 Dist::Zilla::MintingProfile::Author::LESPEA 1.008000  L/LE/LESPEA/Dist-Zilla-PluginBundle-Author-LESPEA-1.008000.tar.gz
 Dist::Zilla::MintingProfile::Author::MINTLAB 0.02  W/WA/WATERKIP/Dist-Zilla-PluginBundle-Author-MINTLAB-0.02.tar.gz
-Dist::Zilla::MintingProfile::Author::Plicease 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
+Dist::Zilla::MintingProfile::Author::Plicease 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
 Dist::Zilla::MintingProfile::Author::RWSTAUNER 6.002  R/RW/RWSTAUNER/Dist-Zilla-PluginBundle-Author-RWSTAUNER-6.002.tar.gz
 Dist::Zilla::MintingProfile::Author::TABULO 1.000014  T/TA/TABULO/Dist-Zilla-PluginBundle-Author-TABULO-1.000014.tar.gz
 Dist::Zilla::MintingProfile::Author::WATERKIP 3.3  W/WA/WATERKIP/Dist-Zilla-PluginBundle-Author-WATERKIP-3.3.tar.gz
@@ -67954,18 +67954,18 @@ Dist::Zilla::Plugin::Author::KENTNL::MinimumPerl 2.025021  K/KE/KENTNL/Dist-Zill
 Dist::Zilla::Plugin::Author::KENTNL::Prereqs::Latest::Selective 1.001001  K/KE/KENTNL/Dist-Zilla-Plugin-Author-KENTNL-Prereqs-Latest-Selective-1.001001.tar.gz
 Dist::Zilla::Plugin::Author::KENTNL::RecommendFixes 0.005004  K/KE/KENTNL/Dist-Zilla-Plugin-Author-KENTNL-RecommendFixes-0.005004.tar.gz
 Dist::Zilla::Plugin::Author::KENTNL::TravisCI 0.001004  K/KE/KENTNL/Dist-Zilla-Plugin-Author-KENTNL-TravisCI-0.001004.tar.gz
-Dist::Zilla::Plugin::Author::Plicease 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
-Dist::Zilla::Plugin::Author::Plicease::Cleaner 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
-Dist::Zilla::Plugin::Author::Plicease::Core 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
-Dist::Zilla::Plugin::Author::Plicease::Init2 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
-Dist::Zilla::Plugin::Author::Plicease::MakeMaker 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
-Dist::Zilla::Plugin::Author::Plicease::NoUnsafeInc 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
-Dist::Zilla::Plugin::Author::Plicease::PkgVersionBlock 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
-Dist::Zilla::Plugin::Author::Plicease::ReadmeAnyFromPod 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
-Dist::Zilla::Plugin::Author::Plicease::SpecialPrereqs 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
-Dist::Zilla::Plugin::Author::Plicease::Tests 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
-Dist::Zilla::Plugin::Author::Plicease::Thanks 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
-Dist::Zilla::Plugin::Author::Plicease::Upload 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
+Dist::Zilla::Plugin::Author::Plicease 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
+Dist::Zilla::Plugin::Author::Plicease::Cleaner 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
+Dist::Zilla::Plugin::Author::Plicease::Core 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
+Dist::Zilla::Plugin::Author::Plicease::Init2 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
+Dist::Zilla::Plugin::Author::Plicease::MakeMaker 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
+Dist::Zilla::Plugin::Author::Plicease::NoUnsafeInc 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
+Dist::Zilla::Plugin::Author::Plicease::PkgVersionBlock 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
+Dist::Zilla::Plugin::Author::Plicease::ReadmeAnyFromPod 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
+Dist::Zilla::Plugin::Author::Plicease::SpecialPrereqs 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
+Dist::Zilla::Plugin::Author::Plicease::Tests 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
+Dist::Zilla::Plugin::Author::Plicease::Thanks 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
+Dist::Zilla::Plugin::Author::Plicease::Upload 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
 Dist::Zilla::Plugin::Author::VDB::Hg::Commit v0.11.3  V/VD/VDB/Dist-Zilla-PluginBundle-Author-VDB-v0.11.3.tar.gz
 Dist::Zilla::Plugin::Author::VDB::Hg::Push v0.11.3  V/VD/VDB/Dist-Zilla-PluginBundle-Author-VDB-v0.11.3.tar.gz
 Dist::Zilla::Plugin::Author::VDB::Hg::Status v0.11.3  V/VD/VDB/Dist-Zilla-PluginBundle-Author-VDB-v0.11.3.tar.gz
@@ -68735,7 +68735,7 @@ Dist::Zilla::PluginBundle::Author::PERLANCAR 0.610  P/PE/PERLANCAR/Dist-Zilla-Pl
 Dist::Zilla::PluginBundle::Author::PERLANCAR::NonCPAN 0.610  P/PE/PERLANCAR/Dist-Zilla-PluginBundle-Author-PERLANCAR-0.610.tar.gz
 Dist::Zilla::PluginBundle::Author::PERLANCAR::NonCPAN::Task 0.610  P/PE/PERLANCAR/Dist-Zilla-PluginBundle-Author-PERLANCAR-0.610.tar.gz
 Dist::Zilla::PluginBundle::Author::PERLANCAR::Task 0.610  P/PE/PERLANCAR/Dist-Zilla-PluginBundle-Author-PERLANCAR-0.610.tar.gz
-Dist::Zilla::PluginBundle::Author::Plicease 2.80  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.80.tar.gz
+Dist::Zilla::PluginBundle::Author::Plicease 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
 Dist::Zilla::PluginBundle::Author::RAYM 0.002  R/RA/RAYM/Dist-Zilla-PluginBundle-Author-RAYM-0.002.tar.gz
 Dist::Zilla::PluginBundle::Author::REFECO 0.007  R/RE/REFECO/Dist-Zilla-PluginBundle-Author-REFECO-0.007.tar.gz
 Dist::Zilla::PluginBundle::Author::RHOELZ 0.07  R/RH/RHOELZ/Dist-Zilla-PluginBundle-Author-RHOELZ-0.07.tar.gz
