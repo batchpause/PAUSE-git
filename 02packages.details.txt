@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261923
-Last-Updated: Fri, 16 Oct 2026 00:17:02 GMT
+Last-Updated: Fri, 16 Oct 2026 00:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -65962,22 +65962,22 @@ Devel::Mutator::Command::Test     undef  V/VT/VTI/Devel-Mutator-0.03.tar.gz
 Devel::Mutator::Generator         undef  V/VT/VTI/Devel-Mutator-0.03.tar.gz
 Devel::NoGlobalSig             0.000001  E/EW/EWILHELM/Devel-NoGlobalSig-v0.0.1.tar.gz
 Devel::Nopeep                      0.01  W/WO/WOLFSAGE/Devel-Nopeep-0.01.tar.gz
-Devel::NYTProf                     6.15  J/JK/JKEENAN/Devel-NYTProf-6.15.tar.gz
-Devel::NYTProf::Apache             6.15  J/JK/JKEENAN/Devel-NYTProf-6.15.tar.gz
+Devel::NYTProf                     6.16  J/JK/JKEENAN/Devel-NYTProf-6.16.tar.gz
+Devel::NYTProf::Apache             6.16  J/JK/JKEENAN/Devel-NYTProf-6.16.tar.gz
 Devel::NYTProf::Callgrind::Ticks   0.02  A/AH/AHERNIT/Devel-NYTProf-Callgrind-TicksDiff-0.05.tar.gz
 Devel::NYTProf::Callgrind::TicksDiff 0.04  A/AH/AHERNIT/Devel-NYTProf-Callgrind-TicksDiff-0.05.tar.gz
-Devel::NYTProf::Constants         undef  J/JK/JKEENAN/Devel-NYTProf-6.15.tar.gz
-Devel::NYTProf::Core               6.15  J/JK/JKEENAN/Devel-NYTProf-6.15.tar.gz
-Devel::NYTProf::Data               6.15  J/JK/JKEENAN/Devel-NYTProf-6.15.tar.gz
-Devel::NYTProf::FileHandle        undef  J/JK/JKEENAN/Devel-NYTProf-6.15.tar.gz
-Devel::NYTProf::FileInfo          undef  J/JK/JKEENAN/Devel-NYTProf-6.15.tar.gz
+Devel::NYTProf::Constants         undef  J/JK/JKEENAN/Devel-NYTProf-6.16.tar.gz
+Devel::NYTProf::Core               6.16  J/JK/JKEENAN/Devel-NYTProf-6.16.tar.gz
+Devel::NYTProf::Data               6.16  J/JK/JKEENAN/Devel-NYTProf-6.16.tar.gz
+Devel::NYTProf::FileHandle        undef  J/JK/JKEENAN/Devel-NYTProf-6.16.tar.gz
+Devel::NYTProf::FileInfo          undef  J/JK/JKEENAN/Devel-NYTProf-6.16.tar.gz
 Devel::NYTProf::ModuleVersion      1.15  A/AK/AKAPLAN/Devel-NYTProf-1.15.tar.gz
-Devel::NYTProf::Reader             6.15  J/JK/JKEENAN/Devel-NYTProf-6.15.tar.gz
-Devel::NYTProf::ReadStream         6.15  J/JK/JKEENAN/Devel-NYTProf-6.15.tar.gz
-Devel::NYTProf::Run               undef  J/JK/JKEENAN/Devel-NYTProf-6.15.tar.gz
-Devel::NYTProf::SubCallInfo       undef  J/JK/JKEENAN/Devel-NYTProf-6.15.tar.gz
-Devel::NYTProf::SubInfo           undef  J/JK/JKEENAN/Devel-NYTProf-6.15.tar.gz
-Devel::NYTProf::Util               6.15  J/JK/JKEENAN/Devel-NYTProf-6.15.tar.gz
+Devel::NYTProf::Reader             6.16  J/JK/JKEENAN/Devel-NYTProf-6.16.tar.gz
+Devel::NYTProf::ReadStream         6.16  J/JK/JKEENAN/Devel-NYTProf-6.16.tar.gz
+Devel::NYTProf::Run               undef  J/JK/JKEENAN/Devel-NYTProf-6.16.tar.gz
+Devel::NYTProf::SubCallInfo       undef  J/JK/JKEENAN/Devel-NYTProf-6.16.tar.gz
+Devel::NYTProf::SubInfo           undef  J/JK/JKEENAN/Devel-NYTProf-6.16.tar.gz
+Devel::NYTProf::Util               6.16  J/JK/JKEENAN/Devel-NYTProf-6.16.tar.gz
 Devel::OOCallSeq                  undef  P/PH/PHILCROW/UML-Sequence-0.08.tar.gz
 Devel::Operation                   1.00  G/GL/GLENNWOOD/Devel-Diagram-1.00.tar.gz
 Devel::OpProf                       0.1  M/MI/MICB/DevelOpProf-0.2.tar.gz
