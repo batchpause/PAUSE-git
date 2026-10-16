@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261929
-Last-Updated: Fri, 16 Oct 2026 18:29:02 GMT
+Last-Updated: Fri, 16 Oct 2026 18:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -158089,7 +158089,7 @@ Parse::Fedora::Packages            0.06  R/RA/RARBOX/Parse-Fedora-Packages-0.06.
 Parse::FieldPath                  0.005  P/PB/PBOYD/Parse-FieldPath-0.005.tar.gz
 Parse::FieldPath::Parser          0.005  P/PB/PBOYD/Parse-FieldPath-0.005.tar.gz
 Parse::FieldPath::Role            0.005  P/PB/PBOYD/Parse-FieldPath-0.005.tar.gz
-Parse::File::Metadata              0.07  J/JK/JKEENAN/Parse-File-Metadata-0.07.tar.gz
+Parse::File::Metadata              0.08  J/JK/JKEENAN/Parse-File-Metadata-0.08.tar.gz
 Parse::FireDiamond                0.005  P/PE/PERLANCAR/Parse-FireDiamond-0.005.tar.gz
 Parse::FixedLength                 5.39  D/DO/DOUGW/Parse-FixedLength-5.39.tar.gz
 Parse::FixedLength::Converter      5.39  D/DO/DOUGW/Parse-FixedLength-5.39.tar.gz
