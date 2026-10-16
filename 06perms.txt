@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669143
+Line-Count:  669151
 Written-By:  PAUSE version 1.005
-Date:        Fri, 16 Oct 2026 17:41:38 GMT
+Date:        Fri, 16 Oct 2026 19:18:11 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -18080,6 +18080,14 @@ App::MBUtiny::Storage::HTTP::Client,ABALAMA,f
 App::MBUtiny::Storage::Local,ABALAMA,f
 App::MBUtiny::Storage::SFTP,ABALAMA,f
 App::MBUtiny::Util,ABALAMA,f
+App::MCP::CLI,MANWAR,f
+App::MCP::CLI::Client,MANWAR,f
+App::MCP::CLI::Command::call,MANWAR,f
+App::MCP::CLI::Command::interactive,MANWAR,f
+App::MCP::CLI::Command::list,MANWAR,f
+App::MCP::CLI::Command::servers,MANWAR,f
+App::MCP::CLI::Command::version,MANWAR,f
+App::MCP::CLI::Config,MANWAR,f
 App::MFILE,SMITHFARM,f
 App::MFILE::HTTP,SMITHFARM,f
 App::MFILE::WWW,SMITHFARM,f
