@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669163
+Line-Count:  669164
 Written-By:  PAUSE version 1.005
-Date:        Sat, 17 Oct 2026 18:30:14 GMT
+Date:        Sat, 17 Oct 2026 19:29:14 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -543671,7 +543671,8 @@ Plack::Middleware::DoormanGoogleFederatedLogin,GUGOD,f
 Plack::Middleware::DoormanOpenID,GUGOD,f
 Plack::Middleware::DoormanTwitter,GUGOD,f
 Plack::Middleware::ESI,BALDUR,f
-Plack::Middleware::ETag,FRANCKC,f
+Plack::Middleware::ETag,FRANCKC,c
+Plack::Middleware::ETag,RRWO,f
 Plack::Middleware::EasyHooks,ADOPTME,f
 Plack::Middleware::EasyHooks,HANDOFF,c
 Plack::Middleware::EasyHooks,PMAKHOLM,c
