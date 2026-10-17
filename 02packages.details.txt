@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261949
-Last-Updated: Sat, 17 Oct 2026 18:41:02 GMT
+Last-Updated: Sat, 17 Oct 2026 20:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -120605,7 +120605,7 @@ List::Range::Search::Liner        undef  K/KA/KARUPA/List-Range-0.02.tar.gz
 List::Range::Set                  undef  K/KA/KARUPA/List-Range-0.02.tar.gz
 List::Rank                        0.004  P/PE/PERLANCAR/List-Rank-0.004.tar.gz
 List::Regexp                       1.05  S/SG/SGRAY/List-Regexp-1.05.tar.gz
-List::RewriteElements              0.09  J/JK/JKEENAN/List-RewriteElements-0.09.tar.gz
+List::RewriteElements              0.10  J/JK/JKEENAN/List-RewriteElements-0.10.tar.gz
 List::Rotation                    1.010  P/PE/PELAGIC/List-Rotation-1.010.tar.gz
 List::Rotation::Alternate         1.010  P/PE/PELAGIC/List-Rotation-1.010.tar.gz
 List::Rotation::Cycle             1.009  P/PE/PELAGIC/List-Rotation-Cycle-1.009.tar.gz
