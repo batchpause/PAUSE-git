@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261946
-Last-Updated: Sat, 17 Oct 2026 10:54:32 GMT
+Last-Updated: Sat, 17 Oct 2026 11:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -334,11 +334,11 @@ Acme::Chef::Ingredient             1.00  W/WE/WERNERMP/Acme-Chef-1.03.tar.gz
 Acme::Chef::Recipe                 1.01  W/WE/WERNERMP/Acme-Chef-1.03.tar.gz
 Acme::ChuckNorris                   0.3  D/DM/DMUEY/Acme-ChuckNorris-0.3.tar.gz
 Acme::Class::Std                   0.01  N/NW/NWCLARK/Acme-Class-Std-0.01.tar.gz
-Acme::Claude::Shell                0.03  L/LN/LNATION/Acme-Claude-Shell-0.03.tar.gz
-Acme::Claude::Shell::Hooks        undef  L/LN/LNATION/Acme-Claude-Shell-0.03.tar.gz
-Acme::Claude::Shell::Query        undef  L/LN/LNATION/Acme-Claude-Shell-0.03.tar.gz
-Acme::Claude::Shell::Session      undef  L/LN/LNATION/Acme-Claude-Shell-0.03.tar.gz
-Acme::Claude::Shell::Tools        undef  L/LN/LNATION/Acme-Claude-Shell-0.03.tar.gz
+Acme::Claude::Shell                0.04  L/LN/LNATION/Acme-Claude-Shell-0.04.tar.gz
+Acme::Claude::Shell::Hooks        undef  L/LN/LNATION/Acme-Claude-Shell-0.04.tar.gz
+Acme::Claude::Shell::Query        undef  L/LN/LNATION/Acme-Claude-Shell-0.04.tar.gz
+Acme::Claude::Shell::Session      undef  L/LN/LNATION/Acme-Claude-Shell-0.04.tar.gz
+Acme::Claude::Shell::Tools        undef  L/LN/LNATION/Acme-Claude-Shell-0.04.tar.gz
 Acme::CM::Get                     0.002  P/PE/PERLANCAR/Acme-CM-Get-0.002.tar.gz
 Acme::CoC::Dice                    0.03  B/BE/BEDOSHI/Acme-CoC-Dice-0.03.tar.gz
 Acme::CoC::Types                  undef  B/BE/BEDOSHI/Acme-CoC-Dice-0.03.tar.gz
