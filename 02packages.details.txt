@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261946
-Last-Updated: Sat, 17 Oct 2026 10:29:02 GMT
+Last-Updated: Sat, 17 Oct 2026 10:54:32 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -17474,7 +17474,7 @@ Archive::BagIt::Plugin::Manifest::MD5 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
 Archive::BagIt::Plugin::Manifest::SHA256 0.005  A/AR/ART/Archive-BagIt-Plugin-SHA256-0.005.tar.gz
 Archive::BagIt::Plugin::Manifest::SHA512 0.101  A/AR/ART/Archive-BagIt-0.101.tar.gz
 Archive::BagIt::Plugin::MD5       0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
-Archive::BagIt::Plugin::SHA256    0.005  A/AR/ART/Archive-BagIt-Plugin-SHA256-0.005.tar.gz
+Archive::BagIt::Plugin::SHA256    0.006  A/AR/ART/Archive-BagIt-Plugin-SHA256-0.006.tar.gz
 Archive::BagIt::Plugin::SHA512    0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
 Archive::BagIt::Role::Algorithm   0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
 Archive::BagIt::Role::Manifest    0.102  A/AR/ART/Archive-BagIt-0.102.tar.gz
