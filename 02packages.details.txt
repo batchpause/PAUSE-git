@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261948
-Last-Updated: Sat, 17 Oct 2026 15:17:03 GMT
+Last-Updated: Sat, 17 Oct 2026 15:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -249870,7 +249870,7 @@ WebService::UPS::Activity         undef  K/KB/KBRANDT/WebService-UPS-0.11.tar.gz
 WebService::UPS::Address          undef  K/KB/KBRANDT/WebService-UPS-0.11.tar.gz
 WebService::UPS::TrackedPackage   undef  K/KB/KBRANDT/WebService-UPS-0.11.tar.gz
 WebService::UPS::TrackRequest       0.1  K/KB/KBRANDT/WebService-UPS-0.11.tar.gz
-WebService::UptimeKuma::Push      0.001  S/SK/SKIRMESS/WebService-UptimeKuma-Push-0.001.tar.gz
+WebService::UptimeKuma::Push      0.002  S/SK/SKIRMESS/WebService-UptimeKuma-Push-0.002.tar.gz
 WebService::Uptrack              v0.0.2  S/SH/SHUFF/WebService-Uptrack-v0.0.2.tar.gz
 WebService::UrbanAirship           0.04  G/GE/GEOFF/WebService-UrbanAirship-0.04.tar.gz
 WebService::UrbanAirship::APNS     0.02  G/GE/GEOFF/WebService-UrbanAirship-0.04.tar.gz
