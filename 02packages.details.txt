@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261946
-Last-Updated: Sat, 17 Oct 2026 11:54:26 GMT
+Line-Count:   261947
+Last-Updated: Sat, 17 Oct 2026 12:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -45803,16 +45803,17 @@ ClassTemplate                     undef  J/JP/JPR/Scalar-Validation-0.700.tar.gz
 Claude::Agent                      0.14  L/LN/LNATION/Claude-Agent-0.14.tar.gz
 Claude::Agent::CLI                undef  L/LN/LNATION/Claude-Agent-0.14.tar.gz
 Claude::Agent::Client             undef  L/LN/LNATION/Claude-Agent-0.14.tar.gz
-Claude::Agent::Code::Refactor      0.02  L/LN/LNATION/Claude-Agent-Code-Refactor-0.02.tar.gz
-Claude::Agent::Code::Refactor::Options undef  L/LN/LNATION/Claude-Agent-Code-Refactor-0.02.tar.gz
-Claude::Agent::Code::Refactor::Result undef  L/LN/LNATION/Claude-Agent-Code-Refactor-0.02.tar.gz
-Claude::Agent::Code::Review        0.02  L/LN/LNATION/Claude-Agent-Code-Review-0.02.tar.gz
-Claude::Agent::Code::Review::Filter undef  L/LN/LNATION/Claude-Agent-Code-Review-0.02.tar.gz
-Claude::Agent::Code::Review::Issue undef  L/LN/LNATION/Claude-Agent-Code-Review-0.02.tar.gz
-Claude::Agent::Code::Review::Options undef  L/LN/LNATION/Claude-Agent-Code-Review-0.02.tar.gz
-Claude::Agent::Code::Review::Perlcritic undef  L/LN/LNATION/Claude-Agent-Code-Review-0.02.tar.gz
-Claude::Agent::Code::Review::Report undef  L/LN/LNATION/Claude-Agent-Code-Review-0.02.tar.gz
-Claude::Agent::Code::Review::Tools undef  L/LN/LNATION/Claude-Agent-Code-Review-0.02.tar.gz
+Claude::Agent::Code::Refactor      0.03  L/LN/LNATION/Claude-Agent-Code-Refactor-0.03.tar.gz
+Claude::Agent::Code::Refactor::Options undef  L/LN/LNATION/Claude-Agent-Code-Refactor-0.03.tar.gz
+Claude::Agent::Code::Refactor::Result undef  L/LN/LNATION/Claude-Agent-Code-Refactor-0.03.tar.gz
+Claude::Agent::Code::Review        0.03  L/LN/LNATION/Claude-Agent-Code-Review-0.03.tar.gz
+Claude::Agent::Code::Review::Filter undef  L/LN/LNATION/Claude-Agent-Code-Review-0.03.tar.gz
+Claude::Agent::Code::Review::Issue undef  L/LN/LNATION/Claude-Agent-Code-Review-0.03.tar.gz
+Claude::Agent::Code::Review::Options undef  L/LN/LNATION/Claude-Agent-Code-Review-0.03.tar.gz
+Claude::Agent::Code::Review::Perlcritic undef  L/LN/LNATION/Claude-Agent-Code-Review-0.03.tar.gz
+Claude::Agent::Code::Review::Report undef  L/LN/LNATION/Claude-Agent-Code-Review-0.03.tar.gz
+Claude::Agent::Code::Review::Tools undef  L/LN/LNATION/Claude-Agent-Code-Review-0.03.tar.gz
+Claude::Agent::Code::Review::Types undef  L/LN/LNATION/Claude-Agent-Code-Review-0.03.tar.gz
 Claude::Agent::Content            undef  L/LN/LNATION/Claude-Agent-0.14.tar.gz
 Claude::Agent::Content::Text      undef  L/LN/LNATION/Claude-Agent-0.14.tar.gz
 Claude::Agent::Content::Thinking  undef  L/LN/LNATION/Claude-Agent-0.14.tar.gz
@@ -147034,7 +147035,7 @@ Net::IP::Identifier::WhoisParser  0.111  R/RE/REID/Net-IP-Identifier-0.111.tar.g
 Net::IP::Identifier_Role          0.111  R/RE/REID/Net-IP-Identifier-0.111.tar.gz
 Net::IP::Lite                      0.03  A/AL/ALEXKOM/Net-IP-Lite-0.03.tar.gz
 Net::IP::Lite::Net                 0.03  A/AL/ALEXKOM/Net-IP-Lite-0.03.tar.gz
-Net::IP::LPM                       1.12  R/RR/RRWO/Net-IP-LPM-1.12.tar.gz
+Net::IP::LPM                       1.13  R/RR/RRWO/Net-IP-LPM-1.13.tar.gz
 Net::IP::Match                 1.101700  M/MA/MARCEL/Net-IP-Match-1.101700.tar.gz
 Net::IP::Match::Bin                0.14  T/TO/TOMO/src/Net-IP-Match-Bin-0.14.tar.gz
 Net::IP::Match::Bin::Perl          0.01  T/TO/TOMO/src/Net-IP-Match-Bin-0.14.tar.gz
