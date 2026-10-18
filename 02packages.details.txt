@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261951
-Last-Updated: Sun, 18 Oct 2026 01:17:03 GMT
+Last-Updated: Sun, 18 Oct 2026 01:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -85672,7 +85672,7 @@ Geo::Location::IP::Role::HasLocales 0.005  V/VO/VOEGELAS/Geo-Location-IP-0.005.t
 Geo::Location::IP::Role::Record::HasConfidence 0.005  V/VO/VOEGELAS/Geo-Location-IP-0.005.tar.gz
 Geo::Location::IP::Role::Record::HasGeoNameId 0.005  V/VO/VOEGELAS/Geo-Location-IP-0.005.tar.gz
 Geo::Location::IP::Role::Record::HasNames 0.005  V/VO/VOEGELAS/Geo-Location-IP-0.005.tar.gz
-Geo::Location::Point               0.18  N/NH/NHORNE/Geo-Location-Point-0.18.tar.gz
+Geo::Location::Point               0.19  N/NH/NHORNE/Geo-Location-Point-0.19.tar.gz
 Geo::Location::TimeZone             0.1  B/BE/BEECEE/Geo-Location-TimeZone-0.1.tar.gz
 Geo::Location::TimeZone::A        undef  B/BE/BEECEE/Geo-Location-TimeZone-0.1.tar.gz
 Geo::Location::TimeZone::B        undef  B/BE/BEECEE/Geo-Location-TimeZone-0.1.tar.gz
