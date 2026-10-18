@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261971
-Last-Updated: Sun, 18 Oct 2026 17:17:02 GMT
+Last-Updated: Sun, 18 Oct 2026 17:54:17 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -10836,18 +10836,18 @@ App::FuguVM::Proxy::Cache      0.003001  S/SE/SENZILLA/App-FuguVM-0.3.1.tar.gz
 App::FuguVM::QMP               0.003001  S/SE/SENZILLA/App-FuguVM-0.3.1.tar.gz
 App::FuguVM::Remote            0.003001  S/SE/SENZILLA/App-FuguVM-0.3.1.tar.gz
 App::FuguVM::State             0.003001  S/SE/SENZILLA/App-FuguVM-0.3.1.tar.gz
-App::FuguWeb                   0.009000  S/SE/SENZILLA/App-FuguWeb-0.9.0.tar.gz
-App::FuguWeb::Check            0.009000  S/SE/SENZILLA/App-FuguWeb-0.9.0.tar.gz
-App::FuguWeb::CLI              0.009000  S/SE/SENZILLA/App-FuguWeb-0.9.0.tar.gz
-App::FuguWeb::Config           0.009000  S/SE/SENZILLA/App-FuguWeb-0.9.0.tar.gz
-App::FuguWeb::Config::Group    0.009000  S/SE/SENZILLA/App-FuguWeb-0.9.0.tar.gz
-App::FuguWeb::Index            0.009000  S/SE/SENZILLA/App-FuguWeb-0.9.0.tar.gz
-App::FuguWeb::Keys             0.009000  S/SE/SENZILLA/App-FuguWeb-0.9.0.tar.gz
-App::FuguWeb::Manual           0.009000  S/SE/SENZILLA/App-FuguWeb-0.9.0.tar.gz
-App::FuguWeb::Page             0.009000  S/SE/SENZILLA/App-FuguWeb-0.9.0.tar.gz
-App::FuguWeb::Render           0.009000  S/SE/SENZILLA/App-FuguWeb-0.9.0.tar.gz
-App::FuguWeb::Rotate           0.009000  S/SE/SENZILLA/App-FuguWeb-0.9.0.tar.gz
-App::FuguWeb::Site             0.009000  S/SE/SENZILLA/App-FuguWeb-0.9.0.tar.gz
+App::FuguWeb                   0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
+App::FuguWeb::Check            0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
+App::FuguWeb::CLI              0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
+App::FuguWeb::Config           0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
+App::FuguWeb::Config::Group    0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
+App::FuguWeb::Index            0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
+App::FuguWeb::Keys             0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
+App::FuguWeb::Manual           0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
+App::FuguWeb::Page             0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
+App::FuguWeb::Render           0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
+App::FuguWeb::Rotate           0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
+App::FuguWeb::Site             0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
 App::FzfUtils                     0.004  P/PE/PERLANCAR/App-FzfUtils-0.004.tar.gz
 App::Gallery                   0.001001  M/MG/MGV/App-Gallery-0.001001.tar.gz
 App::Games::Keno                  undef  T/TY/TYUPYRCML/App-Games-Keno-1.222540.tar.gz
