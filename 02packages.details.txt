@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261966
-Last-Updated: Sun, 18 Oct 2026 13:29:02 GMT
+Last-Updated: Sun, 18 Oct 2026 13:54:16 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81790,7 +81790,7 @@ Game::Sternhalma::Layout           0.01  L/LN/LNATION/Game-Sternhalma-0.01.tar.g
 Game::Sternhalma::Notation         0.01  L/LN/LNATION/Game-Sternhalma-0.01.tar.gz
 Game::Sternhalma::Result           0.01  L/LN/LNATION/Game-Sternhalma-0.01.tar.gz
 Game::Sternhalma::Terminal         0.01  L/LN/LNATION/Game-Sternhalma-0.01.tar.gz
-Game::Terminal                     0.03  L/LN/LNATION/Game-Terminal-0.03.tar.gz
+Game::Terminal                     0.04  L/LN/LNATION/Game-Terminal-0.04.tar.gz
 Game::Terminal::Kit                0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
 Game::Terminal::Kit::Canvas        0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
 Game::Terminal::Kit::Choose        0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
@@ -81809,7 +81809,7 @@ Game::Terminal::Kit::Test::Handle  0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar
 Game::Terminal::Kit::Test::Screen  0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
 Game::Terminal::Kit::Ticker        0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
 Game::Terminal::Kit::Widget        0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Menu               0.03  L/LN/LNATION/Game-Terminal-0.03.tar.gz
+Game::Terminal::Menu               0.04  L/LN/LNATION/Game-Terminal-0.04.tar.gz
 Game::TextMapper                   1.09  S/SC/SCHROEDER/Game-TextMapper-1.09.tar.gz
 Game::TextMapper::Apocalypse      undef  S/SC/SCHROEDER/Game-TextMapper-1.09.tar.gz
 Game::TextMapper::Command::random undef  S/SC/SCHROEDER/Game-TextMapper-1.09.tar.gz
