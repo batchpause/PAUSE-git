@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262034
-Last-Updated: Sun, 18 Oct 2026 23:41:02 GMT
+Last-Updated: Sun, 18 Oct 2026 23:54:39 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -143310,13 +143310,13 @@ Net::Async::Matrix                 0.19  P/PE/PEVANS/Net-Async-Matrix-0.19.tar.g
 Net::Async::Matrix::Room           0.19  P/PE/PEVANS/Net-Async-Matrix-0.19.tar.gz
 Net::Async::Matrix::Room::State    0.19  P/PE/PEVANS/Net-Async-Matrix-0.19.tar.gz
 Net::Async::Matrix::Utils          0.19  P/PE/PEVANS/Net-Async-Matrix-0.19.tar.gz
-Net::Async::MCP                   0.004  G/GE/GETTY/Net-Async-MCP-0.004.tar.gz
+Net::Async::MCP                   0.005  G/GE/GETTY/Net-Async-MCP-0.005.tar.gz
 Net::Async::MCP::Server           0.002  G/GE/GETTY/Net-Async-MCP-Server-0.002.tar.gz
 Net::Async::MCP::Server::Transport::Stdio 0.002  G/GE/GETTY/Net-Async-MCP-Server-0.002.tar.gz
 Net::Async::MCP::Server::Transport::StreamableHTTP 0.002  G/GE/GETTY/Net-Async-MCP-Server-0.002.tar.gz
-Net::Async::MCP::Transport::HTTP  0.004  G/GE/GETTY/Net-Async-MCP-0.004.tar.gz
-Net::Async::MCP::Transport::InProcess 0.004  G/GE/GETTY/Net-Async-MCP-0.004.tar.gz
-Net::Async::MCP::Transport::Stdio 0.004  G/GE/GETTY/Net-Async-MCP-0.004.tar.gz
+Net::Async::MCP::Transport::HTTP  0.005  G/GE/GETTY/Net-Async-MCP-0.005.tar.gz
+Net::Async::MCP::Transport::InProcess 0.005  G/GE/GETTY/Net-Async-MCP-0.005.tar.gz
+Net::Async::MCP::Transport::Stdio 0.005  G/GE/GETTY/Net-Async-MCP-0.005.tar.gz
 Net::Async::Memcached             0.001  T/TE/TEAM/Net-Async-Memcached-0.001.tar.gz
 Net::Async::Memcached::Client     0.001  T/TE/TEAM/Net-Async-Memcached-0.001.tar.gz
 Net::Async::MPD                   0.005  J/JJ/JJATRIA/Net-Async-MPD-0.005.tar.gz
