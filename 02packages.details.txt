@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261966
-Last-Updated: Sun, 18 Oct 2026 09:17:02 GMT
+Last-Updated: Sun, 18 Oct 2026 11:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -194336,7 +194336,7 @@ Plack::Middleware::EmulateOPTIONS v0.4.0  R/RR/RRWO/Plack-Middleware-EmulateOPTI
 Plack::Middleware::EnvTracer       0.03  B/BA/BAYASHI/Plack-Middleware-EnvTracer-0.03.tar.gz
 Plack::Middleware::ErrorDocument  undef  M/MI/MIYAGAWA/Plack-1.0055.tar.gz
 Plack::Middleware::ESI              0.1  B/BA/BALDUR/Plack-Middleware-ESI-0.1.tar.gz
-Plack::Middleware::ETag            0.05  F/FR/FRANCKC/Plack-Middleware-ETag-0.05.tar.gz
+Plack::Middleware::ETag            0.06  R/RR/RRWO/Plack-Middleware-ETag-0.06.tar.gz
 Plack::Middleware::Expires         0.06  K/KA/KAZEBURO/Plack-Middleware-Expires-0.06.tar.gz
 Plack::Middleware::ExtDirect       3.20  T/TO/TOKAREV/Plack-Middleware-ExtDirect-3.20.tar.gz
 Plack::Middleware::ExtDirect::Env  2.01  T/TO/TOKAREV/Plack-Middleware-ExtDirect-2.01.tar.gz
