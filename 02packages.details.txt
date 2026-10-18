@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261966
-Last-Updated: Sun, 18 Oct 2026 14:17:02 GMT
+Last-Updated: Sun, 18 Oct 2026 14:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -194451,9 +194451,9 @@ Plack::Middleware::OAuth::UserInfo::GitHub undef  C/CO/CORNELIUS/Plack-Middlewar
 Plack::Middleware::OAuth::UserInfo::Google undef  C/CO/CORNELIUS/Plack-Middleware-OAuth-0.10.tar.gz
 Plack::Middleware::OAuth::UserInfo::Live undef  C/CO/CORNELIUS/Plack-Middleware-OAuth-0.10.tar.gz
 Plack::Middleware::OAuth::UserInfo::Twitter undef  C/CO/CORNELIUS/Plack-Middleware-OAuth-0.10.tar.gz
-Plack::Middleware::OIDC            1.00  S/SM/SMOURLHOU/Plack-Middleware-OIDC-1.00.tar.gz
-Plack::Middleware::OIDC::Logger    1.00  S/SM/SMOURLHOU/Plack-Middleware-OIDC-1.00.tar.gz
-Plack::Middleware::OIDC::Redirect  1.00  S/SM/SMOURLHOU/Plack-Middleware-OIDC-1.00.tar.gz
+Plack::Middleware::OIDC            1.01  S/SM/SMOURLHOU/Plack-Middleware-OIDC-1.01.tar.gz
+Plack::Middleware::OIDC::Logger    1.01  S/SM/SMOURLHOU/Plack-Middleware-OIDC-1.01.tar.gz
+Plack::Middleware::OIDC::Redirect  1.01  S/SM/SMOURLHOU/Plack-Middleware-OIDC-1.01.tar.gz
 Plack::Middleware::Openqq::SelfTalkForbid undef  S/SJ/SJDY/Webqq-Client-8.5.3.tar.gz
 Plack::Middleware::OpenTelemetry 0.262410  A/AB/ABH/Plack-Middleware-OpenTelemetry-0.262410.tar.gz
 Plack::Middleware::Options         0.01  R/RH/RHOELZ/Plack-Middleware-Options-0.01.tar.gz
