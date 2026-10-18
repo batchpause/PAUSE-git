@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669183
+Line-Count:  669185
 Written-By:  PAUSE version 1.005
-Date:        Sun, 18 Oct 2026 15:55:51 GMT
+Date:        Sun, 18 Oct 2026 16:18:11 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -658330,6 +658330,8 @@ ZWave::Protocol,MSCHILLI,f
 ZX81,PSCUST,f
 ZX81::Tape,PSCUST,f
 ZX81::Tape::Line,PSCUST,f
+ZX81::Tape::Memory,PSCUST,f
+ZX81::Tape::Var,PSCUST,f
 ZX81::Tokenize,PSCUST,f
 ZZZ::SDK,STDCRM,f
 Zabbix2::API,FGA,c
