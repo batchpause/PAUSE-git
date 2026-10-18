@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261967
-Last-Updated: Sun, 18 Oct 2026 15:41:02 GMT
+Line-Count:   261968
+Last-Updated: Sun, 18 Oct 2026 15:54:12 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -85684,6 +85684,7 @@ Geo::Location::IP::Role::Record::HasConfidence 0.005  V/VO/VOEGELAS/Geo-Location
 Geo::Location::IP::Role::Record::HasGeoNameId 0.005  V/VO/VOEGELAS/Geo-Location-IP-0.005.tar.gz
 Geo::Location::IP::Role::Record::HasNames 0.005  V/VO/VOEGELAS/Geo-Location-IP-0.005.tar.gz
 Geo::Location::Point               0.19  N/NH/NHORNE/Geo-Location-Point-0.19.tar.gz
+Geo::Location::Predicate           0.01  N/NH/NHORNE/Geo-Location-Predicate-0.01.tar.gz
 Geo::Location::TimeZone             0.1  B/BE/BEECEE/Geo-Location-TimeZone-0.1.tar.gz
 Geo::Location::TimeZone::A        undef  B/BE/BEECEE/Geo-Location-TimeZone-0.1.tar.gz
 Geo::Location::TimeZone::B        undef  B/BE/BEECEE/Geo-Location-TimeZone-0.1.tar.gz
