@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261971
-Last-Updated: Sun, 18 Oct 2026 18:29:02 GMT
+Last-Updated: Sun, 18 Oct 2026 18:54:29 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -5664,7 +5664,7 @@ Antispam::Toolkit::Role::URIChecker 0.08  D/DR/DROLSKY/Antispam-Toolkit-0.08.tar
 Antispam::Toolkit::Role::UsernameChecker 0.08  D/DR/DROLSKY/Antispam-Toolkit-0.08.tar.gz
 Antispam::Toolkit::Types           0.08  D/DR/DROLSKY/Antispam-Toolkit-0.08.tar.gz
 Antispam::Toolkit::Types::Internal 0.08  D/DR/DROLSKY/Antispam-Toolkit-0.08.tar.gz
-Antsy                             0.907  B/BR/BRIANDFOY/Antsy-0.907.tar.gz
+Antsy                             0.908  B/BR/BRIANDFOY/Antsy-0.908.tar.gz
 AntTweakBar                        0.05  D/DM/DMOL/AntTweakBar-0.05.tar.gz
 AntTweakBar::Type                 undef  D/DM/DMOL/AntTweakBar-0.05.tar.gz
 Antybrowser                    1.000002  A/AN/ANTY/Antybrowser-1.0.2.tar.gz
