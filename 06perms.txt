@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669201
+Line-Count:  669257
 Written-By:  PAUSE version 1.005
-Date:        Sun, 18 Oct 2026 20:17:52 GMT
+Date:        Sun, 18 Oct 2026 20:41:19 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -541634,6 +541634,23 @@ PersonPage,MISHIN,f
 PersonVisitor,BAERGAJ,f
 Personality::Type::MBTI,NFERRAZ,f
 Perspective,CECALA,f
+Peta::Hearing,PETAMEM,f
+Peta::MIDI,PETAMEM,f
+Peta::MIDI::ALSA,PETAMEM,f
+Peta::MIDI::Decoder,PETAMEM,f
+Peta::MIDI::Device,PETAMEM,f
+Peta::MIDI::Device::In,PETAMEM,f
+Peta::MIDI::Device::Out,PETAMEM,f
+Peta::MIDI::Encoder,PETAMEM,f
+Peta::MIDI::Event,PETAMEM,f
+Peta::MP3::Encode,PETAMEM,f
+Peta::MP3::Encode::Bits,PETAMEM,f
+Peta::MP3::Encode::Filterbank,PETAMEM,f
+Peta::MP3::Encode::Filterbank::PDL,PETAMEM,f
+Peta::MP3::Encode::Filterbank::PDL::Imports,PETAMEM,f
+Peta::MP3::Encode::Psy,PETAMEM,f
+Peta::MP3::Encode::Quantize,PETAMEM,f
+Peta::MP3::Encode::Tables,PETAMEM,f
 Peta::NN,PETAMEM,f
 Peta::NN::Backend,PETAMEM,f
 Peta::NN::Backend::PDL,PETAMEM,f
@@ -541653,6 +541670,45 @@ Peta::NN::Optimizer,PETAMEM,f
 Peta::NN::Parallel,PETAMEM,f
 Peta::NN::Pipeline,PETAMEM,f
 Peta::NN::RNG,PETAMEM,f
+Peta::Synth,PETAMEM,f
+Peta::Synth::Analysis,PETAMEM,f
+Peta::Synth::Arpeggiator,PETAMEM,f
+Peta::Synth::EQ,PETAMEM,f
+Peta::Synth::Engine,PETAMEM,f
+Peta::Synth::Engine::GPU,PETAMEM,f
+Peta::Synth::Engine::PDL,PETAMEM,f
+Peta::Synth::Engine::PDL::Imports,PETAMEM,f
+Peta::Synth::Engine::Perl,PETAMEM,f
+Peta::Synth::FFT,PETAMEM,f
+Peta::Synth::Fluid,PETAMEM,f
+Peta::Synth::Input,PETAMEM,f
+Peta::Synth::Input::Raw,PETAMEM,f
+Peta::Synth::MIDI,PETAMEM,f
+Peta::Synth::MIDI::Stream,PETAMEM,f
+Peta::Synth::Output,PETAMEM,f
+Peta::Synth::Output::FLAC,PETAMEM,f
+Peta::Synth::Output::MP3,PETAMEM,f
+Peta::Synth::Output::Pipe,PETAMEM,f
+Peta::Synth::Output::PipeWire,PETAMEM,f
+Peta::Synth::Output::Pulse,PETAMEM,f
+Peta::Synth::Output::Vorbis,PETAMEM,f
+Peta::Synth::Output::WAV,PETAMEM,f
+Peta::Synth::Patch,PETAMEM,f
+Peta::Synth::Profile,PETAMEM,f
+Peta::Synth::Reverb,PETAMEM,f
+Peta::Synth::Server,PETAMEM,f
+Peta::Synth::Synth,PETAMEM,f
+Peta::Synth::Voice,PETAMEM,f
+Peta::Synth::Wavetable,PETAMEM,f
+Peta::Vorbis::Encode,PETAMEM,f
+Peta::Vorbis::Encode::Bits,PETAMEM,f
+Peta::Vorbis::Encode::Book,PETAMEM,f
+Peta::Vorbis::Encode::MDCT,PETAMEM,f
+Peta::Vorbis::Encode::MDCT::PDL,PETAMEM,f
+Peta::Vorbis::Encode::MDCT::PDL::Imports,PETAMEM,f
+Peta::Vorbis::Encode::Ogg,PETAMEM,f
+Peta::Vorbis::Encode::Psy,PETAMEM,f
+Peta::Vorbis::Encode::Weights,PETAMEM,f
 Petal,BPOSTLE,f
 Petal,NINE,c
 Petal::Cache::Disk,BPOSTLE,f

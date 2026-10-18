@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261972
-Last-Updated: Sun, 18 Oct 2026 20:17:02 GMT
+Line-Count:   262028
+Last-Updated: Sun, 18 Oct 2026 20:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -192740,6 +192740,23 @@ PersonName::Format::SurnameAllCapsName 0.001001  J/JD/JDEGUEST/PersonName-Format
 PersonVisitor                      0.13  B/BA/BAERGAJ/Shipment-0.13.tar.gz
 Perspective                           1  C/CE/CECALA/CECALA.tar.gz
 PESEL::Generator                   1.41  S/ST/STRZELEC/PESEL-Generator-1.41.tar.gz
+Peta::Hearing                  0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MIDI                     0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MIDI::ALSA               0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MIDI::Decoder            0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MIDI::Device             0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MIDI::Device::In         0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MIDI::Device::Out        0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MIDI::Encoder            0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MIDI::Event              0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MP3::Encode              0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MP3::Encode::Bits        0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MP3::Encode::Filterbank  0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MP3::Encode::Filterbank::PDL 0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MP3::Encode::Filterbank::PDL::Imports 0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MP3::Encode::Psy         0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MP3::Encode::Quantize    0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::MP3::Encode::Tables      0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
 Peta::NN                       0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
 Peta::NN::Backend              0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
 Peta::NN::Backend::PDL         0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
@@ -192759,6 +192776,45 @@ Peta::NN::Optimizer            0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
 Peta::NN::Parallel             0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
 Peta::NN::Pipeline             0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
 Peta::NN::RNG                  0.2610090  P/PE/PETAMEM/Peta-NN-0.2610090.tar.gz
+Peta::Synth                    0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Analysis          0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Arpeggiator       0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Engine            0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Engine::GPU       0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Engine::PDL       0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Engine::PDL::Imports 0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Engine::Perl      0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::EQ                0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::FFT               0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Fluid             0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Input             0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Input::Raw        0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::MIDI              0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::MIDI::Stream      0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Output            0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Output::FLAC      0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Output::MP3       0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Output::Pipe      0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Output::PipeWire  0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Output::Pulse     0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Output::Vorbis    0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Output::WAV       0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Patch             0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Profile           0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Reverb            0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Server            0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Synth             0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Voice             0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Synth::Wavetable         0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Vorbis::Encode           0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Vorbis::Encode::Bits     0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Vorbis::Encode::Book     0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Vorbis::Encode::MDCT     0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Vorbis::Encode::MDCT::PDL 0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Vorbis::Encode::MDCT::PDL::Imports 0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Vorbis::Encode::Ogg      0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Vorbis::Encode::Psy      0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
+Peta::Vorbis::Encode::Weights  0.2610180  P/PE/PETAMEM/Peta-Synth-0.2610180.tar.gz
 Petal                              2.26  N/NI/NINE/Petal-2.26.tar.gz
 Petal::Cache::Disk                undef  N/NI/NINE/Petal-2.26.tar.gz
 Petal::Cache::Memory              undef  N/NI/NINE/Petal-2.26.tar.gz
