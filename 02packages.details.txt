@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261951
-Last-Updated: Sun, 18 Oct 2026 06:54:14 GMT
+Last-Updated: Sun, 18 Oct 2026 07:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -113674,35 +113674,35 @@ KeePass::Keys::File               undef  Q/QG/QGARNIER/KeePass-Reader-0.2.tar.gz
 KeePass::Keys::Password           undef  Q/QG/QGARNIER/KeePass-Reader-0.2.tar.gz
 KeePass::Reader                     0.2  Q/QG/QGARNIER/KeePass-Reader-0.2.tar.gz
 keepResultIn                      undef  P/PF/PFLANZE/FunctionalPerl-0.72.76.tar.gz
-Kelp                               2.22  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Base                        undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Context                     undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Exception                   undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Generator                   undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Less                        undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Middleware                  undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Module                      undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
+Kelp                               2.23  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Base                        undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Context                     undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Exception                   undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Generator                   undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Less                        undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Middleware                  undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Module                      undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
 Kelp::Module::Bcrypt                0.2  M/MI/MINIMAL/Kelp-Module-Bcrypt-0.2.tar.gz
 Kelp::Module::Beam::Wire           1.00  B/BR/BRTASTIC/Kelp-Module-Beam-Wire-1.00.tar.gz
-Kelp::Module::Config              undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
+Kelp::Module::Config              undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
 Kelp::Module::Config::ConfigGeneral 0.03  Y/YA/YAKUNINK/Kelp-Module-Config-ConfigGeneral-0.03.tar.gz
 Kelp::Module::Config::General      0.04  Y/YA/YAKUNINK/Kelp-Module-Config-General-0.04.tar.gz
-Kelp::Module::Config::Less        undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Module::Config::Null        undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
+Kelp::Module::Config::Less        undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Module::Config::Null        undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
 Kelp::Module::Config::Sandbox     undef  M/MI/MINIMAL/Kelp-0.9015.tar.gz
 Kelp::Module::Config::YAML         1.00  B/BR/BRTASTIC/Kelp-Module-Config-YAML-1.00.tar.gz
-Kelp::Module::Encoder             undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
+Kelp::Module::Encoder             undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
 Kelp::Module::FlashMessage         0.05  N/NI/NICEPERL/Kelp-Module-FlashMessage-0.05.tar.gz
-Kelp::Module::JSON                undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
+Kelp::Module::JSON                undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
 Kelp::Module::JSON::XS            0.503  B/BR/BRTASTIC/Kelp-Module-JSON-XS-0.503.tar.gz
-Kelp::Module::Logger              undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
+Kelp::Module::Logger              undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
 Kelp::Module::Logger::Log4perl    0.003  Y/YA/YAKUNINK/Kelp-Module-Logger-Log4perl-0.003.tar.gz
-Kelp::Module::Logger::Simple      undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Module::Null                undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
+Kelp::Module::Logger::Simple      undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Module::Null                undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
 Kelp::Module::Raisin               1.01  B/BR/BRTASTIC/Kelp-Module-Raisin-1.01.tar.gz
 Kelp::Module::RDBO                0.205  M/MI/MINIMAL/Kelp-Module-RDBO-0.205.tar.gz
 Kelp::Module::Redis                0.01  M/MI/MINIMAL/Kelp-Module-Redis-0.01.tar.gz
-Kelp::Module::Routes              undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
+Kelp::Module::Routes              undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
 Kelp::Module::Sereal               2.10  B/BR/BRTASTIC/Kelp-Module-Sereal-2.10.tar.gz
 Kelp::Module::Sereal::Facade       2.10  B/BR/BRTASTIC/Kelp-Module-Sereal-2.10.tar.gz
 Kelp::Module::Storage::Abstract    1.00  B/BR/BRTASTIC/Kelp-Module-Storage-Abstract-1.00.tar.gz
@@ -113710,8 +113710,8 @@ Kelp::Module::Storage::Abstract::KelpExtensions 1.00  B/BR/BRTASTIC/Kelp-Module-
 Kelp::Module::Symbiosis            2.11  B/BR/BRTASTIC/Kelp-Module-Symbiosis-2.11.tar.gz
 Kelp::Module::Symbiosis::_Util     1.14  B/BR/BRTASTIC/Kelp-Module-Symbiosis-1.14.tar.gz
 Kelp::Module::Symbiosis::Base      2.11  B/BR/BRTASTIC/Kelp-Module-Symbiosis-2.11.tar.gz
-Kelp::Module::Template            undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Module::Template::Null      undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
+Kelp::Module::Template            undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Module::Template::Null      undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
 Kelp::Module::Template::Toolkit   0.301  M/MI/MINIMAL/Kelp-Module-Template-Toolkit-0.301.tar.gz
 Kelp::Module::Template::Xslate     0.01  M/MI/MINIMAL/Kelp-Module-Template-Xslate-0.01.tar.gz
 Kelp::Module::Template::XslateTT  1.002  S/ST/STRO/Kelp-Module-Template-XslateTT-1.002.tar.gz
@@ -113722,16 +113722,16 @@ Kelp::Module::Whelk                1.04  B/BR/BRTASTIC/Whelk-1.04.tar.gz
 Kelp::Module::YAML                 2.00  B/BR/BRTASTIC/Kelp-Module-YAML-2.00.tar.gz
 Kelp::Module::YAML::Facade         2.00  B/BR/BRTASTIC/Kelp-Module-YAML-2.00.tar.gz
 Kelp::Module::YAML::KelpExtensions 2.00  B/BR/BRTASTIC/Kelp-Module-YAML-2.00.tar.gz
-Kelp::Request                     undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Response                    undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Routes                      undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Routes::Controller          undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Routes::Location            undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Routes::Pattern             undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Template                    undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Test                        undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Test::CookieJar             undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
-Kelp::Util                        undef  B/BR/BRTASTIC/Kelp-2.22.tar.gz
+Kelp::Request                     undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Response                    undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Routes                      undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Routes::Controller          undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Routes::Location            undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Routes::Pattern             undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Template                    undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Test                        undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Test::CookieJar             undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
+Kelp::Util                        undef  B/BR/BRTASTIC/Kelp-2.23.tar.gz
 KelpX::AppBuilder                 0.005  B/BR/BRADH/KelpX-AppBuilder-0.005.tar.gz
 KelpX::AppBuilder::Object         undef  B/BR/BRADH/KelpX-AppBuilder-0.005.tar.gz
 KelpX::AppBuilder::Utils          undef  B/BR/BRADH/KelpX-AppBuilder-0.005.tar.gz
