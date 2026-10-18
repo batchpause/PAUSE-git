@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669166
+Line-Count:  669181
 Written-By:  PAUSE version 1.005
-Date:        Sun, 18 Oct 2026 00:18:30 GMT
+Date:        Sun, 18 Oct 2026 09:18:39 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -153446,6 +153446,17 @@ Game::Schnapsen::Search,LNATION,f
 Game::Schnapsen::Terminal,LNATION,f
 Game::Schnapsen::Trick,LNATION,f
 Game::Schnapsen::Variant,LNATION,f
+Game::Senet,LNATION,f
+Game::Senet::Bot,LNATION,f
+Game::Senet::Engine,LNATION,f
+Game::Senet::Error,LNATION,f
+Game::Senet::Move,LNATION,f
+Game::Senet::Notation,LNATION,f
+Game::Senet::Result,LNATION,f
+Game::Senet::Rules,LNATION,f
+Game::Senet::Sticks,LNATION,f
+Game::Senet::Terminal,LNATION,f
+Game::Senet::Variant,LNATION,f
 Game::Shogi,LNATION,f
 Game::Shogi::Bot,LNATION,f
 Game::Shogi::Engine,LNATION,f
@@ -616941,8 +616952,12 @@ Time::JulianDay,BPS,f
 Time::JulianDay,MUIR,c
 Time::JulianDay,OPENADMIN,c
 Time::Keeper,LNATION,f
+Time::Keeper::Date,LNATION,f
 Time::Keeper::Duration,LNATION,f
 Time::Keeper::Locale,LNATION,f
+Time::Keeper::MonthDay,LNATION,f
+Time::Keeper::Time,LNATION,f
+Time::Keeper::YearMonth,LNATION,f
 Time::Keeper::Zone,LNATION,f
 Time::LST,RGARTON,f
 Time::LeapSecond,CHANSEN,f

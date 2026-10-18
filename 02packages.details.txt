@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261951
-Last-Updated: Sun, 18 Oct 2026 07:29:02 GMT
+Line-Count:   261966
+Last-Updated: Sun, 18 Oct 2026 09:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81748,6 +81748,17 @@ Game::Schnapsen::Terminal          0.04  L/LN/LNATION/Game-Schnapsen-0.04.tar.gz
 Game::Schnapsen::Trick             0.04  L/LN/LNATION/Game-Schnapsen-0.04.tar.gz
 Game::Schnapsen::Variant           0.04  L/LN/LNATION/Game-Schnapsen-0.04.tar.gz
 Game::SDL                      0.001001  K/KO/KOBOLDWIZ/Perl5/Game-SDL-0.1.1.tar.gz
+Game::Senet                        0.01  L/LN/LNATION/Game-Senet-0.01.tar.gz
+Game::Senet::Bot                   0.01  L/LN/LNATION/Game-Senet-0.01.tar.gz
+Game::Senet::Engine                0.01  L/LN/LNATION/Game-Senet-0.01.tar.gz
+Game::Senet::Error                 0.01  L/LN/LNATION/Game-Senet-0.01.tar.gz
+Game::Senet::Move                  0.01  L/LN/LNATION/Game-Senet-0.01.tar.gz
+Game::Senet::Notation              0.01  L/LN/LNATION/Game-Senet-0.01.tar.gz
+Game::Senet::Result                0.01  L/LN/LNATION/Game-Senet-0.01.tar.gz
+Game::Senet::Rules                 0.01  L/LN/LNATION/Game-Senet-0.01.tar.gz
+Game::Senet::Sticks                0.01  L/LN/LNATION/Game-Senet-0.01.tar.gz
+Game::Senet::Terminal              0.01  L/LN/LNATION/Game-Senet-0.01.tar.gz
+Game::Senet::Variant               0.01  L/LN/LNATION/Game-Senet-0.01.tar.gz
 Game::Shogi                        0.01  L/LN/LNATION/Game-Shogi-0.01.tar.gz
 Game::Shogi::Bot                   0.01  L/LN/LNATION/Game-Shogi-0.01.tar.gz
 Game::Shogi::Engine                0.01  L/LN/LNATION/Game-Shogi-0.01.tar.gz
@@ -234007,9 +234018,13 @@ Time::Human                        1.03  J/JH/JHOBLITT/Time-Human-1.03.tar.gz
 Time::Implementation              undef  F/FO/FOTANGO/Froody-42.034.tar.gz
 Time::Interval                    1.234  A/AH/AHICOX/Time-Interval-1.234.tar.gz
 Time::JulianDay                2026.033  B/BP/BPS/Time-ParseDate-2026.033.tar.gz
-Time::Keeper                       0.03  L/LN/LNATION/Time-Keeper-0.03.tar.gz
-Time::Keeper::Duration             0.03  L/LN/LNATION/Time-Keeper-0.03.tar.gz
-Time::Keeper::Locale               0.03  L/LN/LNATION/Time-Keeper-0.03.tar.gz
+Time::Keeper                       0.04  L/LN/LNATION/Time-Keeper-0.04.tar.gz
+Time::Keeper::Date                 0.04  L/LN/LNATION/Time-Keeper-0.04.tar.gz
+Time::Keeper::Duration             0.04  L/LN/LNATION/Time-Keeper-0.04.tar.gz
+Time::Keeper::Locale               0.04  L/LN/LNATION/Time-Keeper-0.04.tar.gz
+Time::Keeper::MonthDay             0.04  L/LN/LNATION/Time-Keeper-0.04.tar.gz
+Time::Keeper::Time                 0.04  L/LN/LNATION/Time-Keeper-0.04.tar.gz
+Time::Keeper::YearMonth            0.04  L/LN/LNATION/Time-Keeper-0.04.tar.gz
 Time::Keeper::Zone                 0.04  L/LN/LNATION/Time-Keeper-Zone-0.04.tar.gz
 Time::LeapSecond                   0.92  C/CH/CHANSEN/Time-Str-0.92.tar.gz
 Time::Left                        1.000  T/TF/TFBW/Time-Left-1.000.tar.gz
