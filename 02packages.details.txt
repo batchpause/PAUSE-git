@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261951
-Last-Updated: Sun, 18 Oct 2026 00:17:02 GMT
+Last-Updated: Sun, 18 Oct 2026 00:29:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -85196,7 +85196,7 @@ Geo::Coder::All::TomTom           undef  R/RA/RAIGAD/Geo-Coder-All-0.06.tar.gz
 Geo::Coder::ArcGIS                 0.01  G/GR/GRAY/Geo-Coder-ArcGIS-0.01.tar.gz
 Geo::Coder::Bing                   0.13  G/GR/GRAY/Geo-Coder-Bing-0.13.tar.gz
 Geo::Coder::Bing::Bulk             0.04  G/GR/GRAY/Geo-Coder-Bing-Bulk-0.04.tar.gz
-Geo::Coder::CA                     0.15  N/NH/NHORNE/Geo-Coder-CA-0.15.tar.gz
+Geo::Coder::CA                     0.16  N/NH/NHORNE/Geo-Coder-CA-0.16.tar.gz
 Geo::Coder::Cache                  0.07  L/LE/LEEYM/Geo-Coder-Cache-0.07.tar.gz
 Geo::Coder::Canada                 0.01  J/JE/JETTRA/Geo-Coder-Canada-0.01.tar.gz
 Geo::Coder::Canada::Error          0.01  J/JE/JETTRA/Geo-Coder-Canada-0.01.tar.gz
