@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669186
+Line-Count:  669201
 Written-By:  PAUSE version 1.005
-Date:        Sun, 18 Oct 2026 17:18:18 GMT
+Date:        Sun, 18 Oct 2026 20:17:52 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -97584,16 +97584,20 @@ Code::TidyAll::Plugin::SortLines,DROLSKY,f
 Code::TidyAll::Plugin::SortLines,HANDOFF,c
 Code::TidyAll::Plugin::SortLines,JSWARTZ,c
 Code::TidyAll::Plugin::SortLines::IPAddresses,KLPTWO,f
-Code::TidyAll::Plugin::SortLines::Naturally,OALDERS,f
+Code::TidyAll::Plugin::SortLines::Naturally,ADOPTME,f
+Code::TidyAll::Plugin::SortLines::Naturally,OALDERS,c
 Code::TidyAll::Plugin::Spellunker,KARUPA,f
 Code::TidyAll::Plugin::Spellunker::Pod,KARUPA,f
 Code::TidyAll::Plugin::TSLint,SHLOMIF,f
 Code::TidyAll::Plugin::Test::Vars,ADOPTME,f
 Code::TidyAll::Plugin::TestCount,SHLOMIF,f
-Code::TidyAll::Plugin::UniqueLines,OALDERS,f
-Code::TidyAll::Plugin::YAML,OALDERS,f
+Code::TidyAll::Plugin::UniqueLines,ADOPTME,f
+Code::TidyAll::Plugin::UniqueLines,OALDERS,c
+Code::TidyAll::Plugin::YAML,ADOPTME,f
+Code::TidyAll::Plugin::YAML,OALDERS,c
 Code::TidyAll::Plugin::YAMLFrontMatter,ADOPTME,f
-Code::TidyAll::Plugin::YAPF,OALDERS,f
+Code::TidyAll::Plugin::YAPF,ADOPTME,f
+Code::TidyAll::Plugin::YAPF,OALDERS,c
 Code::TidyAll::Result,DROLSKY,f
 Code::TidyAll::Result,HANDOFF,c
 Code::TidyAll::Result,JSWARTZ,c
@@ -366812,6 +366816,7 @@ Map::Tube::Graph,SKIM,f
 Map::Tube::GraphViz,SKIM,f
 Map::Tube::GraphViz::Utils,SKIM,f
 Map::Tube::Hamburg,GWS,f
+Map::Tube::Hannover,GWS,f
 Map::Tube::Hongkong,CYFUNG,f
 Map::Tube::Kazan,SKIM,f
 Map::Tube::Kharkiv,SKIM,f
@@ -382327,17 +382332,23 @@ Mojolicious::Plugin::Web::Auth::OAuth,HAYAJO,f
 Mojolicious::Plugin::Web::Auth::OAuth2,HAYAJO,f
 Mojolicious::Plugin::Web::Auth::Site::Contrib::Spotify,OALDERS,f
 Mojolicious::Plugin::Web::Auth::Site::Dropbox,HAYAJO,f
-Mojolicious::Plugin::Web::Auth::Site::DropboxV2,OALDERS,f
+Mojolicious::Plugin::Web::Auth::Site::DropboxV2,ADOPTME,f
+Mojolicious::Plugin::Web::Auth::Site::DropboxV2,OALDERS,c
 Mojolicious::Plugin::Web::Auth::Site::Facebook,HAYAJO,f
-Mojolicious::Plugin::Web::Auth::Site::Fitbit,OALDERS,f
+Mojolicious::Plugin::Web::Auth::Site::Fitbit,ADOPTME,f
+Mojolicious::Plugin::Web::Auth::Site::Fitbit,OALDERS,c
 Mojolicious::Plugin::Web::Auth::Site::Github,HAYAJO,f
 Mojolicious::Plugin::Web::Auth::Site::Google,HAYAJO,f
 Mojolicious::Plugin::Web::Auth::Site::Instagram,HAYAJO,f
 Mojolicious::Plugin::Web::Auth::Site::LinkedIn,VIKAS,f
-Mojolicious::Plugin::Web::Auth::Site::Reddit,OALDERS,f
-Mojolicious::Plugin::Web::Auth::Site::Runkeeper,OALDERS,f
-Mojolicious::Plugin::Web::Auth::Site::Spotify,OALDERS,f
-Mojolicious::Plugin::Web::Auth::Site::Strava,OALDERS,f
+Mojolicious::Plugin::Web::Auth::Site::Reddit,ADOPTME,f
+Mojolicious::Plugin::Web::Auth::Site::Reddit,OALDERS,c
+Mojolicious::Plugin::Web::Auth::Site::Runkeeper,ADOPTME,f
+Mojolicious::Plugin::Web::Auth::Site::Runkeeper,OALDERS,c
+Mojolicious::Plugin::Web::Auth::Site::Spotify,ADOPTME,f
+Mojolicious::Plugin::Web::Auth::Site::Spotify,OALDERS,c
+Mojolicious::Plugin::Web::Auth::Site::Strava,ADOPTME,f
+Mojolicious::Plugin::Web::Auth::Site::Strava,OALDERS,c
 Mojolicious::Plugin::Web::Auth::Site::Twitter,HAYAJO,f
 Mojolicious::Plugin::Web::Auth::Site::Yandex,HAYAJO,f
 Mojolicious::Plugin::WebAPI,RENEEB,f
@@ -436156,12 +436167,15 @@ POEx::PubSub,OALDERS,f
 POEx::PubSub::Event,OALDERS,f
 POEx::PubSub::Types,OALDERS,f
 POEx::Role::Event,OALDERS,f
+POEx::Role::PSGIServer,ADOPTME,f
 POEx::Role::PSGIServer,FRODWITH,c
-POEx::Role::PSGIServer,OALDERS,f
+POEx::Role::PSGIServer,OALDERS,c
+POEx::Role::PSGIServer::ProxyWriter,ADOPTME,f
 POEx::Role::PSGIServer::ProxyWriter,FRODWITH,c
-POEx::Role::PSGIServer::ProxyWriter,OALDERS,f
+POEx::Role::PSGIServer::ProxyWriter,OALDERS,c
+POEx::Role::PSGIServer::Streamer,ADOPTME,f
 POEx::Role::PSGIServer::Streamer,FRODWITH,c
-POEx::Role::PSGIServer::Streamer,OALDERS,f
+POEx::Role::PSGIServer::Streamer,OALDERS,c
 POEx::Role::ProxyEvent,OALDERS,f
 POEx::Role::SessionInstantiation,OALDERS,f
 POEx::Role::SessionInstantiation::Meta::POEState,OALDERS,f
@@ -436178,8 +436192,8 @@ POEx::Tickit::Driver,PEVANS,f
 POEx::Trait::DeferredRegistration,OALDERS,f
 POEx::Trait::ExtraInitialization,OALDERS,f
 POEx::Types,OALDERS,f
+POEx::Types::PSGIServer,ADOPTME,f
 POEx::Types::PSGIServer,FRODWITH,c
-POEx::Types::PSGIServer,OALDERS,f
 POEx::URI,GWYN,f
 POEx::Weather::OpenWeatherMap,ADOPTME,f
 POEx::WorkerPool,OALDERS,f
@@ -643740,7 +643754,8 @@ WebService::SOS::SWEField,JDAVIS,f
 WebService::SOS::SensorDescription,JDAVIS,f
 WebService::SOS::SensorDescription::Classifiers,JDAVIS,f
 WebService::SOS::SensorDescription::Identifiers,JDAVIS,f
-WebService::SQLFormat,OALDERS,f
+WebService::SQLFormat,ADOPTME,f
+WebService::SQLFormat,OALDERS,c
 WebService::SSLLabs,DDICK,f
 WebService::SSLLabs::Cert,DDICK,f
 WebService::SSLLabs::Chain,DDICK,f

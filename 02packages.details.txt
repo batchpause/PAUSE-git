@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   261971
-Last-Updated: Sun, 18 Oct 2026 18:54:29 GMT
+Line-Count:   261972
+Last-Updated: Sun, 18 Oct 2026 20:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -31880,10 +31880,10 @@ Business::TW::TSIB::CStorePayment  0.04  C/CL/CLKAO/Business-TW-TSIB-CStorePayme
 Business::TW::TSIB::CStorePayment::Entry undef  C/CL/CLKAO/Business-TW-TSIB-CStorePayment-0.04.tar.gz
 Business::TW::TSIB::VirtualAccount 0.04  C/CO/CORNELIUS/Business-TW-TSIB-VirtualAccount-0.04b.tar.gz
 Business::TW::TSIB::VirtualAccount::Entry undef  C/CO/CORNELIUS/Business-TW-TSIB-VirtualAccount-0.04b.tar.gz
-Business::UDC                      0.09  S/SK/SKIM/Business-UDC-0.09.tar.gz
-Business::UDC::Grammar             0.09  S/SK/SKIM/Business-UDC-0.09.tar.gz
-Business::UDC::Parser              0.09  S/SK/SKIM/Business-UDC-0.09.tar.gz
-Business::UDC::Tokenizer           0.09  S/SK/SKIM/Business-UDC-0.09.tar.gz
+Business::UDC                       0.1  S/SK/SKIM/Business-UDC-0.10.tar.gz
+Business::UDC::Grammar              0.1  S/SK/SKIM/Business-UDC-0.10.tar.gz
+Business::UDC::Parser               0.1  S/SK/SKIM/Business-UDC-0.10.tar.gz
+Business::UDC::Tokenizer            0.1  S/SK/SKIM/Business-UDC-0.10.tar.gz
 Business::UPC                      0.06  R/RO/ROBF/Business-UPC-0.06.tar.gz
 Business::UPS                      2.04  T/TO/TODDR/Business-UPS-2.04.tar.gz
 Business::UPS::Tracking            1.13  M/MA/MAROS/Business-UPS-Tracking-1.13.tar.gz
@@ -126928,6 +126928,7 @@ Map::Tube::Graph                   0.06  S/SK/SKIM/Map-Tube-Graph-0.06.tar.gz
 Map::Tube::GraphViz                0.07  S/SK/SKIM/Map-Tube-GraphViz-0.07.tar.gz
 Map::Tube::GraphViz::Utils         0.07  S/SK/SKIM/Map-Tube-GraphViz-0.07.tar.gz
 Map::Tube::Hamburg               v0.1.4  G/GW/GWS/Map-Tube-Hamburg-v0.1.4.tar.gz
+Map::Tube::Hannover              v0.1.0  G/GW/GWS/Map-Tube-Hannover-v0.1.0.tar.gz
 Map::Tube::Hongkong                0.03  C/CY/CYFUNG/Map-Tube-Hongkong-0.03.tar.gz
 Map::Tube::Kazan                   0.07  S/SK/SKIM/Map-Tube-Kazan-0.07.tar.gz
 Map::Tube::Kharkiv                 0.08  S/SK/SKIM/Map-Tube-Kharkiv-0.08.tar.gz
