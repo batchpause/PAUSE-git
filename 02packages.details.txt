@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   261951
-Last-Updated: Sun, 18 Oct 2026 07:17:02 GMT
+Last-Updated: Sun, 18 Oct 2026 07:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -234007,9 +234007,9 @@ Time::Human                        1.03  J/JH/JHOBLITT/Time-Human-1.03.tar.gz
 Time::Implementation              undef  F/FO/FOTANGO/Froody-42.034.tar.gz
 Time::Interval                    1.234  A/AH/AHICOX/Time-Interval-1.234.tar.gz
 Time::JulianDay                2026.033  B/BP/BPS/Time-ParseDate-2026.033.tar.gz
-Time::Keeper                       0.02  L/LN/LNATION/Time-Keeper-0.02.tar.gz
-Time::Keeper::Duration             0.02  L/LN/LNATION/Time-Keeper-0.02.tar.gz
-Time::Keeper::Locale               0.02  L/LN/LNATION/Time-Keeper-0.02.tar.gz
+Time::Keeper                       0.03  L/LN/LNATION/Time-Keeper-0.03.tar.gz
+Time::Keeper::Duration             0.03  L/LN/LNATION/Time-Keeper-0.03.tar.gz
+Time::Keeper::Locale               0.03  L/LN/LNATION/Time-Keeper-0.03.tar.gz
 Time::Keeper::Zone                 0.04  L/LN/LNATION/Time-Keeper-Zone-0.04.tar.gz
 Time::LeapSecond                   0.92  C/CH/CHANSEN/Time-Str-0.92.tar.gz
 Time::Left                        1.000  T/TF/TFBW/Time-Left-1.000.tar.gz
@@ -244270,17 +244270,17 @@ Voxgig::Struct::Bool           0.001000  R/RJ/RJRODGER/Voxgig-Struct-0.1.0.tar.g
 Voxgig::Struct::JsonParser     0.001000  R/RJ/RJRODGER/Voxgig-Struct-0.1.0.tar.gz
 Voxgig::Struct::Null           0.001000  R/RJ/RJRODGER/Voxgig-Struct-0.1.0.tar.gz
 Voxgig::Struct::OrderedHash    0.001000  R/RJ/RJRODGER/Voxgig-Struct-0.1.0.tar.gz
-VPNDetection                   3.006000  M/MS/MSLM/VPNDetection-3.6.0.tar.gz
-VPNDetection::Bogon            3.006000  M/MS/MSLM/VPNDetection-3.6.0.tar.gz
-VPNDetection::Bogons              undef  M/MS/MSLM/VPNDetection-3.6.0.tar.gz
-VPNDetection::Cache            3.006000  M/MS/MSLM/VPNDetection-3.6.0.tar.gz
-VPNDetection::Database         3.006000  M/MS/MSLM/VPNDetection-3.6.0.tar.gz
-VPNDetection::Error            3.006000  M/MS/MSLM/VPNDetection-3.6.0.tar.gz
-VPNDetection::Oauth            3.006000  M/MS/MSLM/VPNDetection-3.6.0.tar.gz
-VPNDetection::OauthAccessDeniedError 3.006000  M/MS/MSLM/VPNDetection-3.6.0.tar.gz
-VPNDetection::OauthError       3.006000  M/MS/MSLM/VPNDetection-3.6.0.tar.gz
-VPNDetection::OauthExpiredTokenError 3.006000  M/MS/MSLM/VPNDetection-3.6.0.tar.gz
-VPNDetection::Result           3.006000  M/MS/MSLM/VPNDetection-3.6.0.tar.gz
+VPNDetection                   3.007000  M/MS/MSLM/VPNDetection-3.7.0.tar.gz
+VPNDetection::Bogon            3.007000  M/MS/MSLM/VPNDetection-3.7.0.tar.gz
+VPNDetection::Bogons              undef  M/MS/MSLM/VPNDetection-3.7.0.tar.gz
+VPNDetection::Cache            3.007000  M/MS/MSLM/VPNDetection-3.7.0.tar.gz
+VPNDetection::Database         3.007000  M/MS/MSLM/VPNDetection-3.7.0.tar.gz
+VPNDetection::Error            3.007000  M/MS/MSLM/VPNDetection-3.7.0.tar.gz
+VPNDetection::Oauth            3.007000  M/MS/MSLM/VPNDetection-3.7.0.tar.gz
+VPNDetection::OauthAccessDeniedError 3.007000  M/MS/MSLM/VPNDetection-3.7.0.tar.gz
+VPNDetection::OauthError       3.007000  M/MS/MSLM/VPNDetection-3.7.0.tar.gz
+VPNDetection::OauthExpiredTokenError 3.007000  M/MS/MSLM/VPNDetection-3.7.0.tar.gz
+VPNDetection::Result           3.007000  M/MS/MSLM/VPNDetection-3.7.0.tar.gz
 vpopmail                           0.08  S/SS/SSCANLON/vpopmail-0.08.tar.gz
 vptk_w::ConfigRead                undef  F/FE/FELIXL/vptk/vptk_w_2_42b.tgz
 vptk_w::EditorServices            undef  F/FE/FELIXL/vptk/vptk_w_2_42b.tgz
