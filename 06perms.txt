@@ -5,7 +5,7 @@ Description: CSV file of upload permission to the CPAN per namespace
 Columns:     package,userid,best-permission
 Line-Count:  669257
 Written-By:  PAUSE version 1.005
-Date:        Sun, 18 Oct 2026 20:41:19 GMT
+Date:        Sun, 18 Oct 2026 21:42:27 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -19453,6 +19453,7 @@ App::Navegante::CGI,SMASH,f
 App::Netdisco,OLIVER,f
 App::Netdisco::AnyEvent::Nbtstat,OLIVER,f
 App::Netdisco::Backend::Job,OLIVER,f
+App::Netdisco::Backend::Queues,OLIVER,f
 App::Netdisco::Backend::Role::Manager,OLIVER,f
 App::Netdisco::Backend::Role::Poller,OLIVER,f
 App::Netdisco::Backend::Role::Scheduler,OLIVER,f
@@ -617028,6 +617029,10 @@ Time::Keeper::Date,LNATION,f
 Time::Keeper::Duration,LNATION,f
 Time::Keeper::Locale,LNATION,f
 Time::Keeper::MonthDay,LNATION,f
+Time::Keeper::Moon,LNATION,f
+Time::Keeper::Moon::Day,LNATION,f
+Time::Keeper::Sun,LNATION,f
+Time::Keeper::Sun::Day,LNATION,f
 Time::Keeper::Time,LNATION,f
 Time::Keeper::YearMonth,LNATION,f
 Time::Keeper::Zone,LNATION,f
@@ -635551,11 +635556,6 @@ WWW::Postini::Exception::LoginFailure,PGUZIS,f
 WWW::Postini::Exception::UnexpectedResponse,PGUZIS,f
 WWW::Postini::UserAgent,PGUZIS,f
 WWW::Postmark,IDOPEREL,f
-WWW::PriceMinister,BOOK,c
-WWW::PriceMinister::Item,BOOK,c
-WWW::PriceMinister::Object,BOOK,c
-WWW::PriceMinister::Offer,BOOK,c
-WWW::PriceMinister::Seller,BOOK,c
 WWW::Promotion,SNEMAROV,f
 WWW::ProximoBus,KIMBREL,f
 WWW::Proxy4FreeCom,ADOPTME,f
