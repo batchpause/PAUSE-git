@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262073
-Last-Updated: Mon, 19 Oct 2026 21:29:02 GMT
+Last-Updated: Mon, 19 Oct 2026 21:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -234113,11 +234113,11 @@ Time::Keeper::Locale               0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
 Time::Keeper::MonthDay             0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
 Time::Keeper::Moon                 0.03  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Moon::Day            0.03  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
-Time::Keeper::Natural              0.01  L/LN/LNATION/Time-Keeper-Natural-0.01.tar.gz
-Time::Keeper::Natural::Lexicon     0.01  L/LN/LNATION/Time-Keeper-Natural-0.01.tar.gz
-Time::Keeper::Natural::Match       0.01  L/LN/LNATION/Time-Keeper-Natural-0.01.tar.gz
-Time::Keeper::Natural::Numbers     0.01  L/LN/LNATION/Time-Keeper-Natural-0.01.tar.gz
-Time::Keeper::Natural::Words       0.01  L/LN/LNATION/Time-Keeper-Natural-0.01.tar.gz
+Time::Keeper::Natural              0.02  L/LN/LNATION/Time-Keeper-Natural-0.02.tar.gz
+Time::Keeper::Natural::Lexicon     0.02  L/LN/LNATION/Time-Keeper-Natural-0.02.tar.gz
+Time::Keeper::Natural::Match       0.02  L/LN/LNATION/Time-Keeper-Natural-0.02.tar.gz
+Time::Keeper::Natural::Numbers     0.02  L/LN/LNATION/Time-Keeper-Natural-0.02.tar.gz
+Time::Keeper::Natural::Words       0.02  L/LN/LNATION/Time-Keeper-Natural-0.02.tar.gz
 Time::Keeper::Planet               0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Planet::Day          0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Recurrence           0.01  L/LN/LNATION/Time-Keeper-Recurrence-0.01.tar.gz
