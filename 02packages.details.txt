@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262065
-Last-Updated: Mon, 19 Oct 2026 19:17:02 GMT
+Last-Updated: Mon, 19 Oct 2026 19:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -77772,9 +77772,9 @@ File::Raw::Archive                 0.04  L/LN/LNATION/File-Raw-Archive-0.04.tar.
 File::Raw::Archive::Entry          0.04  L/LN/LNATION/File-Raw-Archive-0.04.tar.gz
 File::Raw::Archive::Reader         0.04  L/LN/LNATION/File-Raw-Archive-0.04.tar.gz
 File::Raw::Archive::Writer         0.04  L/LN/LNATION/File-Raw-Archive-0.04.tar.gz
-File::Raw::Base64                  0.04  L/LN/LNATION/File-Raw-Base64-0.04.tar.gz
+File::Raw::Base64                  0.05  L/LN/LNATION/File-Raw-Base64-0.05.tar.gz
 File::Raw::Gzip                    0.03  L/LN/LNATION/File-Raw-Gzip-0.03.tar.gz
-File::Raw::Hash                    0.06  L/LN/LNATION/File-Raw-Hash-0.06.tar.gz
+File::Raw::Hash                    0.07  L/LN/LNATION/File-Raw-Hash-0.07.tar.gz
 File::Raw::JSON                    0.08  L/LN/LNATION/File-Raw-JSON-0.08.tar.gz
 File::Raw::JSON::Boolean           0.01  L/LN/LNATION/File-Raw-JSON-0.08.tar.gz
 File::Raw::Separated               0.04  L/LN/LNATION/File-Raw-Separated-0.04.tar.gz
