@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262040
-Last-Updated: Mon, 19 Oct 2026 06:29:03 GMT
+Line-Count:   262042
+Last-Updated: Mon, 19 Oct 2026 06:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -234092,6 +234092,8 @@ Time::Keeper::Locale               0.06  L/LN/LNATION/Time-Keeper-0.06.tar.gz
 Time::Keeper::MonthDay             0.06  L/LN/LNATION/Time-Keeper-0.06.tar.gz
 Time::Keeper::Moon                 0.02  L/LN/LNATION/Time-Keeper-Sun-0.02.tar.gz
 Time::Keeper::Moon::Day            0.02  L/LN/LNATION/Time-Keeper-Sun-0.02.tar.gz
+Time::Keeper::Recurrence           0.01  L/LN/LNATION/Time-Keeper-Recurrence-0.01.tar.gz
+Time::Keeper::Recurrence::Set      0.01  L/LN/LNATION/Time-Keeper-Recurrence-0.01.tar.gz
 Time::Keeper::Sun                  0.02  L/LN/LNATION/Time-Keeper-Sun-0.02.tar.gz
 Time::Keeper::Sun::Day             0.02  L/LN/LNATION/Time-Keeper-Sun-0.02.tar.gz
 Time::Keeper::Time                 0.06  L/LN/LNATION/Time-Keeper-0.06.tar.gz
