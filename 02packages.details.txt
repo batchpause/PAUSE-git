@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262042
-Last-Updated: Mon, 19 Oct 2026 07:17:02 GMT
+Last-Updated: Mon, 19 Oct 2026 08:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -224994,7 +224994,7 @@ Tags::HTML::Element::Option        0.15  S/SK/SKIM/Tags-HTML-Element-0.15.tar.gz
 Tags::HTML::Element::Select        0.15  S/SK/SKIM/Tags-HTML-Element-0.15.tar.gz
 Tags::HTML::Element::Textarea      0.15  S/SK/SKIM/Tags-HTML-Element-0.15.tar.gz
 Tags::HTML::Element::Utils         0.15  S/SK/SKIM/Tags-HTML-Element-0.15.tar.gz
-Tags::HTML::Footer                 0.04  S/SK/SKIM/Tags-HTML-Footer-0.04.tar.gz
+Tags::HTML::Footer                 0.05  S/SK/SKIM/Tags-HTML-Footer-0.05.tar.gz
 Tags::HTML::GradientIndicator      0.06  S/SK/SKIM/Tags-HTML-GradientIndicator-0.06.tar.gz
 Tags::HTML::Icon                   0.01  S/SK/SKIM/Tags-HTML-Icon-0.01.tar.gz
 Tags::HTML::Image                  0.04  S/SK/SKIM/Tags-HTML-Image-0.04.tar.gz
