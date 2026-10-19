@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262038
-Last-Updated: Mon, 19 Oct 2026 02:29:02 GMT
+Last-Updated: Mon, 19 Oct 2026 03:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -63889,20 +63889,20 @@ DBIx::QueryLog                     0.42  X/XA/XAICRON/DBIx-QueryLog-0.42.tar.gz
 DBIx::Quick                         0.9  S/SE/SERGIOXZ/DBIx-Quick-0.9.tar.gz
 DBIx::Quick::Converter            undef  S/SE/SERGIOXZ/DBIx-Quick-0.9.tar.gz
 DBIx::Quick::Role                 undef  S/SE/SERGIOXZ/DBIx-Quick-0.9.tar.gz
-DBIx::QuickDB                  0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
-DBIx::QuickDB::Driver          0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
-DBIx::QuickDB::Driver::DuckDB  0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
-DBIx::QuickDB::Driver::MariaDB 0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
-DBIx::QuickDB::Driver::MySQL   0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
+DBIx::QuickDB                  0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
+DBIx::QuickDB::Driver          0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
+DBIx::QuickDB::Driver::DuckDB  0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
+DBIx::QuickDB::Driver::MariaDB 0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
+DBIx::QuickDB::Driver::MySQL   0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
 DBIx::QuickDB::Driver::MySQL::Base 0.000035  E/EX/EXODIST/DBIx-QuickDB-0.000035.tar.gz
-DBIx::QuickDB::Driver::MySQLCom 0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
-DBIx::QuickDB::Driver::Percona 0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
-DBIx::QuickDB::Driver::PostgreSQL 0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
-DBIx::QuickDB::Driver::SQLite  0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
-DBIx::QuickDB::Pool            0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
-DBIx::QuickDB::Util            0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
-DBIx::QuickDB::Util::HashBase  0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
-DBIx::QuickDB::Watcher         0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
+DBIx::QuickDB::Driver::MySQLCom 0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
+DBIx::QuickDB::Driver::Percona 0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
+DBIx::QuickDB::Driver::PostgreSQL 0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
+DBIx::QuickDB::Driver::SQLite  0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
+DBIx::QuickDB::Pool            0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
+DBIx::QuickDB::Util            0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
+DBIx::QuickDB::Util::HashBase  0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
+DBIx::QuickDB::Watcher         0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
 DBIx::QuickORM                 0.000028  E/EX/EXODIST/DBIx-QuickORM-0.000028.tar.gz
 DBIx::QuickORM::Affinity       0.000028  E/EX/EXODIST/DBIx-QuickORM-0.000028.tar.gz
 DBIx::QuickORM::BuilderState   0.000004  E/EX/EXODIST/DBIx-QuickORM-0.000004.tar.gz
@@ -228149,7 +228149,7 @@ Test2::Tools::Process::Exit        0.07  P/PL/PLICEASE/Test2-Tools-Process-0.07.
 Test2::Tools::Process::Proc        0.07  P/PL/PLICEASE/Test2-Tools-Process-0.07.tar.gz
 Test2::Tools::Process::System      0.07  P/PL/PLICEASE/Test2-Tools-Process-0.07.tar.gz
 Test2::Tools::Process::SystemProc  0.07  P/PL/PLICEASE/Test2-Tools-Process-0.07.tar.gz
-Test2::Tools::QuickDB          0.000065  E/EX/EXODIST/DBIx-QuickDB-0.000065.tar.gz
+Test2::Tools::QuickDB          0.000066  E/EX/EXODIST/DBIx-QuickDB-0.000066.tar.gz
 Test2::Tools::Ref              1.302225  E/EX/EXODIST/Test-Simple-1.302225.tar.gz
 Test2::Tools::Refcount         1.302225  E/EX/EXODIST/Test-Simple-1.302225.tar.gz
 Test2::Tools::Rustfmt              0.05  P/PL/PLICEASE/Test2-Tools-Rustfmt-0.05.tar.gz
