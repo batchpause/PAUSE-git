@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262038
-Last-Updated: Mon, 19 Oct 2026 01:41:02 GMT
+Last-Updated: Mon, 19 Oct 2026 01:54:12 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -85216,7 +85216,7 @@ Geo::Coder::Canada::Error          0.01  J/JE/JETTRA/Geo-Coder-Canada-0.01.tar.g
 Geo::Coder::Canada::Response       0.01  J/JE/JETTRA/Geo-Coder-Canada-0.01.tar.gz
 Geo::Coder::Cloudmade               0.7  F/FR/FRIFFIN/Geo-Coder-Cloudmade-0.7.tar.gz
 Geo::Coder::DAMS                   0.01  B/BO/BOKUTIN/Geo-Coder-DAMS-0.01.tar.gz
-Geo::Coder::DataScienceToolkit     0.03  N/NH/NHORNE/Geo-Coder-DataScienceToolkit-0.03.tar.gz
+Geo::Coder::DataScienceToolkit     0.04  N/NH/NHORNE/Geo-Coder-DataScienceToolkit-0.04.tar.gz
 Geo::Coder::Free                   0.47  N/NH/NHORNE/Geo-Coder-Free-0.47.tar.gz
 Geo::Coder::Free::Allow            0.47  N/NH/NHORNE/Geo-Coder-Free-0.47.tar.gz
 Geo::Coder::Free::Config           0.47  N/NH/NHORNE/Geo-Coder-Free-0.47.tar.gz
@@ -85237,7 +85237,7 @@ Geo::Coder::Free::OpenAddresses    0.47  N/NH/NHORNE/Geo-Coder-Free-0.47.tar.gz
 Geo::Coder::Free::Provenance       0.47  N/NH/NHORNE/Geo-Coder-Free-0.47.tar.gz
 Geo::Coder::Free::Utils            0.47  N/NH/NHORNE/Geo-Coder-Free-0.47.tar.gz
 Geo::Coder::Free::Validate         0.47  N/NH/NHORNE/Geo-Coder-Free-0.47.tar.gz
-Geo::Coder::GeoApify               0.02  N/NH/NHORNE/Geo-Coder-GeoApify-0.02.tar.gz
+Geo::Coder::GeoApify               0.03  N/NH/NHORNE/Geo-Coder-GeoApify-0.03.tar.gz
 Geo::Coder::GeocodeFarm          0.0500  D/DE/DEXTER/Geo-Coder-GeocodeFarm-0.0500.tar.gz
 Geo::Coder::Google                 0.20  A/AR/ARCANEZ/Geo-Coder-Google-0.20.tar.gz
 Geo::Coder::Google::V2             0.20  A/AR/ARCANEZ/Geo-Coder-Google-0.20.tar.gz
