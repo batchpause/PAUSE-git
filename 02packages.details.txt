@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262044
-Last-Updated: Mon, 19 Oct 2026 11:29:02 GMT
+Line-Count:   262045
+Last-Updated: Mon, 19 Oct 2026 12:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -5739,6 +5739,7 @@ AnyEvent                           7.17  M/ML/MLEHMANN/AnyEvent-7.17.tar.gz
 AnyEvent::AggressiveIdle           0.04  U/UN/UNERA/AnyEvent-AggressiveIdle-0.04.tar.gz
 AnyEvent::AIO                       1.1  M/ML/MLEHMANN/AnyEvent-AIO-1.1.tar.gz
 AnyEvent::APNS                     0.10  T/TY/TYPESTER/AnyEvent-APNS-0.10.tar.gz
+AnyEvent::App::PerlLive            0.01  E/EG/EGOR/AnyEvent-App-PerlLive-0.01.tar.gz
 AnyEvent::Atom::Stream             0.02  M/MI/MIYAGAWA/AnyEvent-Atom-Stream-0.02.tar.gz
 AnyEvent::Atom::Stream::UserAgent undef  M/MI/MIYAGAWA/AnyEvent-Atom-Stream-0.02.tar.gz
 AnyEvent::Base                     7.17  M/ML/MLEHMANN/AnyEvent-7.17.tar.gz
