@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669291
+Line-Count:  669299
 Written-By:  PAUSE version 1.005
-Date:        Mon, 19 Oct 2026 19:18:22 GMT
+Date:        Mon, 19 Oct 2026 21:18:33 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -617049,11 +617049,14 @@ Time::JulianDay,BPS,f
 Time::JulianDay,MUIR,c
 Time::JulianDay,OPENADMIN,c
 Time::Keeper,LNATION,f
+Time::Keeper::Body::Day,LNATION,f
 Time::Keeper::Business,LNATION,f
 Time::Keeper::Business::Rule,LNATION,f
 Time::Keeper::Calendar,LNATION,f
 Time::Keeper::Date,LNATION,f
 Time::Keeper::Duration,LNATION,f
+Time::Keeper::Eclipse,LNATION,f
+Time::Keeper::Eclipse::Local,LNATION,f
 Time::Keeper::Locale,LNATION,f
 Time::Keeper::MonthDay,LNATION,f
 Time::Keeper::Moon,LNATION,f
@@ -617063,8 +617066,13 @@ Time::Keeper::Natural::Lexicon,LNATION,f
 Time::Keeper::Natural::Match,LNATION,f
 Time::Keeper::Natural::Numbers,LNATION,f
 Time::Keeper::Natural::Words,LNATION,f
+Time::Keeper::Planet,LNATION,f
+Time::Keeper::Planet::Day,LNATION,f
 Time::Keeper::Recurrence,LNATION,f
 Time::Keeper::Recurrence::Set,LNATION,f
+Time::Keeper::Sky,LNATION,f
+Time::Keeper::Star,LNATION,f
+Time::Keeper::Star::Day,LNATION,f
 Time::Keeper::Sun,LNATION,f
 Time::Keeper::Sun::Day,LNATION,f
 Time::Keeper::Time,LNATION,f
