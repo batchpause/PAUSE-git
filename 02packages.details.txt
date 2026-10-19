@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262058
-Last-Updated: Mon, 19 Oct 2026 16:41:02 GMT
+Last-Updated: Mon, 19 Oct 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -85253,7 +85253,7 @@ Geo::Coder::GooglePlaces::V3       0.06  N/NH/NHORNE/Geo-Coder-GooglePlaces-0.06
 Geo::Coder::Googlev3               0.17  S/SR/SREZIC/Geo-Coder-Googlev3-0.17.tar.gz
 Geo::Coder::HostIP                 0.07  J/JA/JANITOR/Geo-Coder-HostIP-0.08.tar.gz
 Geo::Coder::Ja                     0.03  J/JI/JIRO/Geo-Coder-Ja-0.03.tar.gz
-Geo::Coder::List                   0.38  N/NH/NHORNE/Geo-Coder-List-0.38.tar.gz
+Geo::Coder::List                   0.39  N/NH/NHORNE/Geo-Coder-List-0.39.tar.gz
 Geo::Coder::Many                   0.46  K/KA/KAORU/Geo-Coder-Many-0.46-5.tar.gz
 Geo::Coder::Many::Bing             0.02  K/KA/KAORU/Geo-Coder-Many-0.46-5.tar.gz
 Geo::Coder::Many::Generic          0.01  K/KA/KAORU/Geo-Coder-Many-0.46-5.tar.gz
@@ -206433,7 +206433,7 @@ RT::Extension::QueueSLA            0.01  A/AL/ALEXMV/RT-Extension-SLA-1.04.tar.g
 RT::Extension::QueueWizard          0.7  K/KE/KEVINR/RT-Extension-QueueWizard-0.7.tar.gz
 RT::Extension::QuickAddTimeWorked  0.01  T/TS/TSIBLEY/RT-Extension-QuickAddTimeWorked-0.01.tar.gz
 RT::Extension::QuickAssign         1.03  B/BP/BPS/RT-Extension-QuickAssign-1.03.tar.gz
-RT::Extension::QuickCalls          2.00  B/BP/BPS/RT-Extension-QuickCalls-2.00.tar.gz
+RT::Extension::QuickCalls          2.01  B/BP/BPS/RT-Extension-QuickCalls-2.01.tar.gz
 RT::Extension::QuickDelete         0.05  F/FA/FALCONE/RT-Extension-QuickDelete-0.05.tar.gz
 RT::Extension::QuickReassign       0.03  T/TS/TSIBLEY/RT-Extension-QuickReassign-0.03.tar.gz
 RT::Extension::QuickUpdate         1.02  B/BP/BPS/RT-Extension-QuickUpdate-1.02.tar.gz
