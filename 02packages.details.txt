@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262042
-Last-Updated: Mon, 19 Oct 2026 08:17:02 GMT
+Line-Count:   262044
+Last-Updated: Mon, 19 Oct 2026 11:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -8579,21 +8579,22 @@ App::Ack::Resource::Basic         undef  P/PE/PETDANCE/ack-2.16.tar.gz
 App::Ack::Resources               undef  P/PE/PETDANCE/ack-2.28.tar.gz
 App::ACM                              0  B/BI/BIGFOOT/App-FargateStack-1.0.50.tar.gz
 App::AcmeCpanauthors              0.004  P/PE/PERLANCAR/App-AcmeCpanauthors-0.004.tar.gz
-App::Acmeman                       3.10  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Apache::Layout      undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Apache::Layout::debian undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Apache::Layout::rh  undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Apache::Layout::slackware undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Apache::Layout::suse undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Config              undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Domain              undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Log                 undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Source              undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Source::Apache      undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Source::Default     undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Source::File        undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Source::Null        undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
-App::Acmeman::Source::Pound       undef  S/SG/SGRAY/App-Acmeman-3.10.tar.gz
+App::Acmeman                       3.11  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Apache::Layout      undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Apache::Layout::debian undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Apache::Layout::rh  undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Apache::Layout::slackware undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Apache::Layout::suse undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Config              undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Domain              undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Log                 undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Source              undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Source::Apache      undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Source::Default     undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Source::File        undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Source::Null        undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Source::Pound       undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
+App::Acmeman::Source::Pound::IntStack undef  S/SG/SGRAY/App-Acmeman-3.11.tar.gz
 App::Action::TicketComment         1.03  C/CW/CWINTERS/Workflow-0.15.tar.gz
 App::Action::TicketCreate          1.06  C/CW/CWINTERS/Workflow-0.15.tar.gz
 App::Action::TicketUpdate          1.05  C/CW/CWINTERS/Workflow-0.15.tar.gz
@@ -16071,7 +16072,8 @@ App::Slackeria::Plugin::Ubuntu     0.12  D/DE/DERF/App-Slackeria-0.12.tar.gz
 App::Slackeria::Plugin::Whohas     0.12  D/DE/DERF/App-Slackeria-0.12.tar.gz
 App::Slackeria::PluginLoader       0.12  D/DE/DERF/App-Slackeria-0.12.tar.gz
 App::SlideServer                  0.003  N/NE/NERDVANA/App-SlideServer-0.003.tar.gz
-App::SlimPacker                    0.04  N/NI/NICOMEN/App-SlimPacker-0.04.tar.gz
+App::SlimPacker                    0.05  N/NI/NICOMEN/App-SlimPacker-0.05.tar.gz
+App::SlimPacker::Minify            0.05  N/NI/NICOMEN/App-SlimPacker-0.05.tar.gz
 App::SlowQuitApps              0.000003  D/DC/DCONWAY/App-SlowQuitApps-0.000003.tar.gz
 App::Smarkmail                    0.006  R/RJ/RJBS/App-Smarkmail-0.006.tar.gz
 App::Smbxfer                       0.01  K/KE/KERISMAN/App-Smbxfer-0.01.tar.gz
