@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669299
+Line-Count:  669318
 Written-By:  PAUSE version 1.005
-Date:        Mon, 19 Oct 2026 21:18:33 GMT
+Date:        Mon, 19 Oct 2026 22:30:28 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -368188,24 +368188,43 @@ MassSpec::ViewSpectrum,JAEPSTEIN,f
 MassSpec::ViewSpectrum::RealVsHypPeptide,JAEPSTEIN,f
 Masscan::Client,HGOUVEA,f
 Masscan::Scanner,AVERNA,f
+Mastodon::Client,HANDOFF,c
 Mastodon::Client,JJATRIA,f
+Mastodon::Entity::Account,HANDOFF,c
 Mastodon::Entity::Account,JJATRIA,f
+Mastodon::Entity::Application,HANDOFF,c
 Mastodon::Entity::Application,JJATRIA,f
+Mastodon::Entity::Attachment,HANDOFF,c
 Mastodon::Entity::Attachment,JJATRIA,f
+Mastodon::Entity::Card,HANDOFF,c
 Mastodon::Entity::Card,JJATRIA,f
+Mastodon::Entity::Context,HANDOFF,c
 Mastodon::Entity::Context,JJATRIA,f
+Mastodon::Entity::Error,HANDOFF,c
 Mastodon::Entity::Error,JJATRIA,f
+Mastodon::Entity::Instance,HANDOFF,c
 Mastodon::Entity::Instance,JJATRIA,f
+Mastodon::Entity::Mention,HANDOFF,c
 Mastodon::Entity::Mention,JJATRIA,f
+Mastodon::Entity::Notification,HANDOFF,c
 Mastodon::Entity::Notification,JJATRIA,f
+Mastodon::Entity::Relationship,HANDOFF,c
 Mastodon::Entity::Relationship,JJATRIA,f
+Mastodon::Entity::Report,HANDOFF,c
 Mastodon::Entity::Report,JJATRIA,f
+Mastodon::Entity::Results,HANDOFF,c
 Mastodon::Entity::Results,JJATRIA,f
+Mastodon::Entity::Status,HANDOFF,c
 Mastodon::Entity::Status,JJATRIA,f
+Mastodon::Entity::Tag,HANDOFF,c
 Mastodon::Entity::Tag,JJATRIA,f
+Mastodon::Listener,HANDOFF,c
 Mastodon::Listener,JJATRIA,f
+Mastodon::Role::Entity,HANDOFF,c
 Mastodon::Role::Entity,JJATRIA,f
+Mastodon::Role::UserAgent,HANDOFF,c
 Mastodon::Role::UserAgent,JJATRIA,f
+Mastodon::Types,HANDOFF,c
 Mastodon::Types,JJATRIA,f
 Match,AVAR,c
 Match,PMURIAS,f
