@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262042
-Last-Updated: Mon, 19 Oct 2026 06:41:02 GMT
+Last-Updated: Mon, 19 Oct 2026 06:54:30 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -199843,7 +199843,7 @@ Punk::Command                      0.61  L/LN/LNATION/Punk-0.61.tar.gz
 Punk::Command::Apikey              0.02  L/LN/LNATION/Punk-APIKey-0.02.tar.gz
 Punk::Command::Challenge           0.01  L/LN/LNATION/Punk-Challenge-0.01.tar.gz
 Punk::Command::Push                0.03  L/LN/LNATION/Punk-Push-0.03.tar.gz
-Punk::Command::Queue               0.09  L/LN/LNATION/Punk-Queue-0.09.tar.gz
+Punk::Command::Queue               0.10  L/LN/LNATION/Punk-Queue-0.10.tar.gz
 Punk::Command::SAML               undef  L/LN/LNATION/Punk-SAML-0.03.tar.gz
 Punk::Command::Sqitch              0.01  L/LN/LNATION/Punk-Sqitch-0.01.tar.gz
 Punk::Config                       0.61  L/LN/LNATION/Punk-0.61.tar.gz
@@ -199957,7 +199957,7 @@ Punk::Plugin::Observe             undef  L/LN/LNATION/Punk-Observe-0.11.tar.gz
 Punk::Plugin::OpenTelemetry        0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
 Punk::Plugin::Passkey              0.02  L/LN/LNATION/Punk-Passkey-0.02.tar.gz
 Punk::Plugin::Push                 0.03  L/LN/LNATION/Punk-Push-0.03.tar.gz
-Punk::Plugin::Queue                0.09  L/LN/LNATION/Punk-Queue-0.09.tar.gz
+Punk::Plugin::Queue                0.10  L/LN/LNATION/Punk-Queue-0.10.tar.gz
 Punk::Plugin::RequestId            0.61  L/LN/LNATION/Punk-0.61.tar.gz
 Punk::Plugin::SAML                undef  L/LN/LNATION/Punk-SAML-0.03.tar.gz
 Punk::Plugin::Sitemap              0.61  L/LN/LNATION/Punk-0.61.tar.gz
@@ -199966,14 +199966,14 @@ Punk::Plugin::TOTP                 0.06  L/LN/LNATION/Punk-TOTP-0.06.tar.gz
 Punk::Push                         0.03  L/LN/LNATION/Punk-Push-0.03.tar.gz
 Punk::Push::Result                 0.03  L/LN/LNATION/Punk-Push-0.03.tar.gz
 Punk::Push::Subscription           0.03  L/LN/LNATION/Punk-Push-0.03.tar.gz
-Punk::Queue                        0.09  L/LN/LNATION/Punk-Queue-0.09.tar.gz
-Punk::Queue::Backend               0.09  L/LN/LNATION/Punk-Queue-0.09.tar.gz
-Punk::Queue::Backend::Pg           0.09  L/LN/LNATION/Punk-Queue-0.09.tar.gz
-Punk::Queue::Backend::SQLite       0.09  L/LN/LNATION/Punk-Queue-0.09.tar.gz
-Punk::Queue::Command               0.09  L/LN/LNATION/Punk-Queue-0.09.tar.gz
-Punk::Queue::Cron                  0.09  L/LN/LNATION/Punk-Queue-0.09.tar.gz
-Punk::Queue::Job                   0.09  L/LN/LNATION/Punk-Queue-0.09.tar.gz
-Punk::Queue::Worker                0.09  L/LN/LNATION/Punk-Queue-0.09.tar.gz
+Punk::Queue                        0.10  L/LN/LNATION/Punk-Queue-0.10.tar.gz
+Punk::Queue::Backend               0.10  L/LN/LNATION/Punk-Queue-0.10.tar.gz
+Punk::Queue::Backend::Pg           0.10  L/LN/LNATION/Punk-Queue-0.10.tar.gz
+Punk::Queue::Backend::SQLite       0.10  L/LN/LNATION/Punk-Queue-0.10.tar.gz
+Punk::Queue::Command               0.10  L/LN/LNATION/Punk-Queue-0.10.tar.gz
+Punk::Queue::Cron                  0.10  L/LN/LNATION/Punk-Queue-0.10.tar.gz
+Punk::Queue::Job                   0.10  L/LN/LNATION/Punk-Queue-0.10.tar.gz
+Punk::Queue::Worker                0.10  L/LN/LNATION/Punk-Queue-0.10.tar.gz
 Punk::RateLimit                    0.61  L/LN/LNATION/Punk-0.61.tar.gz
 Punk::Request                      0.61  L/LN/LNATION/Punk-0.61.tar.gz
 Punk::Response                     0.61  L/LN/LNATION/Punk-0.61.tar.gz
