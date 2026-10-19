@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669269
+Line-Count:  669282
 Written-By:  PAUSE version 1.005
-Date:        Mon, 19 Oct 2026 12:42:14 GMT
+Date:        Mon, 19 Oct 2026 14:30:26 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -600025,6 +600025,8 @@ Term::Fabulous::Check,DAVENONYM,f
 Term::Fabulous::Color,DAVENONYM,f
 Term::Fabulous::Command,DAVENONYM,f
 Term::Fabulous::Commands,DAVENONYM,f
+Term::Fabulous::Document,DAVENONYM,f
+Term::Fabulous::Document::Look,DAVENONYM,f
 Term::Fabulous::Editor,DAVENONYM,f
 Term::Fabulous::Enum::BorderStyle,DAVENONYM,f
 Term::Fabulous::Enum::WebColor,DAVENONYM,f
@@ -600056,8 +600058,10 @@ Term::Fabulous::Event::TabAdd,DAVENONYM,f
 Term::Fabulous::Event::TabClose,DAVENONYM,f
 Term::Fabulous::Event::TextClick,DAVENONYM,f
 Term::Fabulous::Event::ValidityChange,DAVENONYM,f
+Term::Fabulous::Event::ViewChange,DAVENONYM,f
 Term::Fabulous::Layout,DAVENONYM,f
 Term::Fabulous::OptionList,DAVENONYM,f
+Term::Fabulous::Placement,DAVENONYM,f
 Term::Fabulous::Range,DAVENONYM,f
 Term::Fabulous::Render,DAVENONYM,f
 Term::Fabulous::Render::Attr,DAVENONYM,f
@@ -600075,16 +600079,22 @@ Term::Fabulous::Role::HasBorderStyle,DAVENONYM,f
 Term::Fabulous::Role::HasOptions,DAVENONYM,f
 Term::Fabulous::Role::HasRange,DAVENONYM,f
 Term::Fabulous::Role::HasSeries,DAVENONYM,f
+Term::Fabulous::Role::MarkedText,DAVENONYM,f
+Term::Fabulous::Role::Popup,DAVENONYM,f
+Term::Fabulous::Role::SearchContainer,DAVENONYM,f
+Term::Fabulous::Role::Searchable,DAVENONYM,f
 Term::Fabulous::Role::Terminal,DAVENONYM,f
 Term::Fabulous::Role::Themed,DAVENONYM,f
 Term::Fabulous::Role::Validatable,DAVENONYM,f
 Term::Fabulous::Roving,DAVENONYM,f
+Term::Fabulous::Scrolling,DAVENONYM,f
 Term::Fabulous::Static,DAVENONYM,f
 Term::Fabulous::Termbox,DAVENONYM,f
 Term::Fabulous::Termbox::Event,DAVENONYM,f
 Term::Fabulous::Terminal::Memory,DAVENONYM,f
 Term::Fabulous::Terminal::Termbox,DAVENONYM,f
 Term::Fabulous::Terminal::Termbox::Cells,DAVENONYM,f
+Term::Fabulous::Text::Marks,DAVENONYM,f
 Term::Fabulous::Text::Markup,DAVENONYM,f
 Term::Fabulous::Text::Style,DAVENONYM,f
 Term::Fabulous::TextView,DAVENONYM,f
@@ -600111,12 +600121,14 @@ Term::Fabulous::Widget::Button,DAVENONYM,f
 Term::Fabulous::Widget::Canvas,DAVENONYM,f
 Term::Fabulous::Widget::Chart,DAVENONYM,f
 Term::Fabulous::Widget::Checkbox,DAVENONYM,f
+Term::Fabulous::Widget::CodeBlock,DAVENONYM,f
 Term::Fabulous::Widget::ColorPicker,DAVENONYM,f
 Term::Fabulous::Widget::Dialog,DAVENONYM,f
 Term::Fabulous::Widget::Dialog::Backdrop,DAVENONYM,f
 Term::Fabulous::Widget::Display,DAVENONYM,f
 Term::Fabulous::Widget::Divider,DAVENONYM,f
 Term::Fabulous::Widget::DocumentTabs,DAVENONYM,f
+Term::Fabulous::Widget::DocumentView,DAVENONYM,f
 Term::Fabulous::Widget::DonutChart,DAVENONYM,f
 Term::Fabulous::Widget::Dropdown,DAVENONYM,f
 Term::Fabulous::Widget::Dropdown::List,DAVENONYM,f
@@ -600155,6 +600167,7 @@ Term::Fabulous::Widget::Table::Borders,DAVENONYM,f
 Term::Fabulous::Widget::Table::Cell,DAVENONYM,f
 Term::Fabulous::Widget::Table::Column,DAVENONYM,f
 Term::Fabulous::Widget::Table::ColumnChooser,DAVENONYM,f
+Term::Fabulous::Widget::Table::EdgeView,DAVENONYM,f
 Term::Fabulous::Widget::Table::Filter,DAVENONYM,f
 Term::Fabulous::Widget::Table::Frame,DAVENONYM,f
 Term::Fabulous::Widget::Table::Grid,DAVENONYM,f
