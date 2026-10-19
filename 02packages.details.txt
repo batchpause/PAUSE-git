@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262045
-Last-Updated: Mon, 19 Oct 2026 12:41:01 GMT
+Last-Updated: Mon, 19 Oct 2026 13:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -59125,7 +59125,7 @@ Date::Holidays::PT                 0.03  A/AM/AMBS/Date-Holidays-PT-0.03.tar.gz
 Date::Holidays::RU               1.2025  N/NA/NALOBIN/Date-Holidays-RU-1.2025.0.tar.gz
 Date::Holidays::SK                 0.02  J/JK/JKUTEJ/Date-Holidays-SK-0.02.tar.gz
 Date::Holidays::Super              0.06  J/JO/JONASBN/Date-Holidays-Super-0.06.tar.gz
-Date::Holidays::TW               v0.8.0  G/GU/GUGOD/Date-Holidays-TW-v0.8.0.tar.gz
+Date::Holidays::TW               v0.9.0  G/GU/GUGOD/Date-Holidays-TW-v0.9.0.tar.gz
 Date::Holidays::UA                 0.02  D/DB/DBOYS/Date-Holidays-UA-0.02.tar.gz
 Date::Holidays::UK                 0.01  R/RC/RCLAMP/Date-Holidays-UK-0.01.tar.gz
 Date::Holidays::UK::EnglandAndWales 0.04  L/LG/LGODDARD/Date-Holidays-UK-EnglandAndWales-0.04.tar.gz
