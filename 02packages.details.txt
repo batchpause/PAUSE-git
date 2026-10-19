@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262038
-Last-Updated: Mon, 19 Oct 2026 04:17:02 GMT
+Last-Updated: Mon, 19 Oct 2026 04:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -16618,8 +16618,8 @@ App::Toodledo::TokenInfo          undef  P/PJ/PJS/App-Toodledo-2.19.tar.gz
 App::Toodledo::Util                1.00  P/PJ/PJS/App-Toodledo-2.19.tar.gz
 App::Tool::Base                    0.07  L/LI/LIOSHA/App-Tool-Base-0.07.tar.gz
 App::Toolforge::MixNMatch          0.06  S/SK/SKIM/App-Toolforge-MixNMatch-0.06.tar.gz
-App::Toot                          0.04  B/BL/BLAINEM/App-Toot-0.04.tar.gz
-App::Toot::Config                  0.04  B/BL/BLAINEM/App-Toot-0.04.tar.gz
+App::Toot                          0.05  B/BL/BLAINEM/App-Toot-0.05.tar.gz
+App::Toot::Config                  0.05  B/BL/BLAINEM/App-Toot-0.05.tar.gz
 App::toposort                     0.001  P/PE/PERLANCAR/App-toposort-0.001.tar.gz
 App::TouchpadUtils                0.003  P/PE/PERLANCAR/App-TouchpadUtils-0.003.tar.gz
 App::TouchscreenUtils             0.002  P/PE/PERLANCAR/App-TouchscreenUtils-0.002.tar.gz
