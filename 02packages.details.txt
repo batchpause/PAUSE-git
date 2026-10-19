@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262035
-Last-Updated: Mon, 19 Oct 2026 01:17:01 GMT
+Line-Count:   262038
+Last-Updated: Mon, 19 Oct 2026 01:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -85209,7 +85209,7 @@ Geo::Coder::All::TomTom           undef  R/RA/RAIGAD/Geo-Coder-All-0.06.tar.gz
 Geo::Coder::ArcGIS                 0.01  G/GR/GRAY/Geo-Coder-ArcGIS-0.01.tar.gz
 Geo::Coder::Bing                   0.13  G/GR/GRAY/Geo-Coder-Bing-0.13.tar.gz
 Geo::Coder::Bing::Bulk             0.04  G/GR/GRAY/Geo-Coder-Bing-Bulk-0.04.tar.gz
-Geo::Coder::CA                     0.16  N/NH/NHORNE/Geo-Coder-CA-0.16.tar.gz
+Geo::Coder::CA                     0.17  N/NH/NHORNE/Geo-Coder-CA-0.17.tar.gz
 Geo::Coder::Cache                  0.07  L/LE/LEEYM/Geo-Coder-Cache-0.07.tar.gz
 Geo::Coder::Canada                 0.01  J/JE/JETTRA/Geo-Coder-Canada-0.01.tar.gz
 Geo::Coder::Canada::Error          0.01  J/JE/JETTRA/Geo-Coder-Canada-0.01.tar.gz
@@ -125643,21 +125643,24 @@ Mail::DeliveryStatus::Report      1.543  R/RJ/RJBS/Mail-DeliveryStatus-BouncePar
 Mail::Dir                          0.03  X/XA/XAN/Mail-Dir-0.03.tar.gz
 Mail::Dir::Message                undef  X/XA/XAN/Mail-Dir-0.03.tar.gz
 Mail::DKIM                     1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
-Mail::DKIM2                        0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::Common                0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::DSN                   0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::Gate                  0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::HeaderParser          0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::MessageInstance       0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::MessageStore          0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::Reflector             0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::Signature             0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::Signer                0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::Split                 0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::TagValueList          0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::Validate              0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::Verifier              0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::DKIM2::Wrap                  0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
+Mail::DKIM2                        0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::BodyPlan              0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::Common                0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::Digest                0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::DSN                   0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::Gate                  0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::HeaderParser          0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::HeaderPlan            0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::MessageInstance       0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::MessageStore          0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::Reflector             0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::Signature             0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::Signer                0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::Split                 0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::TagValueList          0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::Validate              0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::Verifier              0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::DKIM2::Wrap                  0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
 Mail::DKIM::Algorithm::Base    1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
 Mail::DKIM::Algorithm::dk_rsa_sha1 1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
 Mail::DKIM::Algorithm::ed25519_sha256 1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
@@ -126005,8 +126008,8 @@ Mail::Milter::Authentication::Handler::BIMI 4.20261001  M/MB/MBRADSHAW/Mail-Milt
 Mail::Milter::Authentication::Handler::Blocker 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
 Mail::Milter::Authentication::Handler::ClamAV 2.20180611  M/MB/MBRADSHAW/Mail-Milter-Authentication-Extra-2.20180611.tar.gz
 Mail::Milter::Authentication::Handler::DKIM 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
-Mail::Milter::Authentication::Handler::DKIM2Sign 0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
-Mail::Milter::Authentication::Handler::DKIM2Verify 0.21  B/BR/BRONG/Mail-DKIM2-0.21.tar.gz
+Mail::Milter::Authentication::Handler::DKIM2Sign 0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
+Mail::Milter::Authentication::Handler::DKIM2Verify 0.22  B/BR/BRONG/Mail-DKIM2-0.22.tar.gz
 Mail::Milter::Authentication::Handler::DMARC 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
 Mail::Milter::Authentication::Handler::IPRev 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
 Mail::Milter::Authentication::Handler::LocalIP 4.20261001  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261001.tar.gz
@@ -231554,7 +231557,7 @@ Text::FixedLength                  0.12  D/DI/DIONALM/Text-FixedLength-0.12.tar.
 Text::FixedLength::Extra            1.1  T/TK/TKEEFER/Text-FixedLength-Extra-1.1.tar.gz
 Text::FixedLengthMultiline        0.071  D/DO/DOLMEN/Text-FixedLengthMultiline-0.071.tar.gz
 Text::FixedWidth                   0.13  J/JH/JHANNAH/Text-FixedWidth-0.13.tar.gz
-Text::FixedWidth::Helper           0.02  J/JK/JKEENAN/Text-FixedWidth-Helper-0.02.tar.gz
+Text::FixedWidth::Helper           0.03  J/JK/JKEENAN/Text-FixedWidth-Helper-0.03.tar.gz
 Text::FixedWidth::Parser            0.6  V/VE/VENKATESH/Text-FixedWidth-Parser-0.6.tar.gz
 Text::FixEOL                       1.08  S/SN/SNOWHARE/Text-FixEOL-1.08.tar.gz
 Text::Flow                         0.01  S/ST/STEVAN/Text-Flow-0.01.tar.gz
