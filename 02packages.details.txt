@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262073
-Last-Updated: Mon, 19 Oct 2026 21:17:02 GMT
+Last-Updated: Mon, 19 Oct 2026 21:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -234100,17 +234100,17 @@ Time::Human                        1.03  J/JH/JHOBLITT/Time-Human-1.03.tar.gz
 Time::Implementation              undef  F/FO/FOTANGO/Froody-42.034.tar.gz
 Time::Interval                    1.234  A/AH/AHICOX/Time-Interval-1.234.tar.gz
 Time::JulianDay                2026.033  B/BP/BPS/Time-ParseDate-2026.033.tar.gz
-Time::Keeper                       0.07  L/LN/LNATION/Time-Keeper-0.07.tar.gz
+Time::Keeper                       0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
 Time::Keeper::Body::Day            0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Business             0.02  L/LN/LNATION/Time-Keeper-Business-0.02.tar.gz
 Time::Keeper::Business::Rule       0.02  L/LN/LNATION/Time-Keeper-Business-0.02.tar.gz
-Time::Keeper::Calendar             0.07  L/LN/LNATION/Time-Keeper-0.07.tar.gz
-Time::Keeper::Date                 0.07  L/LN/LNATION/Time-Keeper-0.07.tar.gz
-Time::Keeper::Duration             0.07  L/LN/LNATION/Time-Keeper-0.07.tar.gz
+Time::Keeper::Calendar             0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
+Time::Keeper::Date                 0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
+Time::Keeper::Duration             0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
 Time::Keeper::Eclipse              0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Eclipse::Local       0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
-Time::Keeper::Locale               0.07  L/LN/LNATION/Time-Keeper-0.07.tar.gz
-Time::Keeper::MonthDay             0.07  L/LN/LNATION/Time-Keeper-0.07.tar.gz
+Time::Keeper::Locale               0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
+Time::Keeper::MonthDay             0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
 Time::Keeper::Moon                 0.03  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Moon::Day            0.03  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Natural              0.01  L/LN/LNATION/Time-Keeper-Natural-0.01.tar.gz
@@ -234127,8 +234127,8 @@ Time::Keeper::Star                 0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.g
 Time::Keeper::Star::Day            0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Sun                  0.03  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Sun::Day             0.03  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
-Time::Keeper::Time                 0.07  L/LN/LNATION/Time-Keeper-0.07.tar.gz
-Time::Keeper::YearMonth            0.07  L/LN/LNATION/Time-Keeper-0.07.tar.gz
+Time::Keeper::Time                 0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
+Time::Keeper::YearMonth            0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
 Time::Keeper::Zone                 0.04  L/LN/LNATION/Time-Keeper-Zone-0.04.tar.gz
 Time::LeapSecond                   0.92  C/CH/CHANSEN/Time-Str-0.92.tar.gz
 Time::Left                        1.000  T/TF/TFBW/Time-Left-1.000.tar.gz
