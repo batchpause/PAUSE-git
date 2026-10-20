@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262107
-Last-Updated: Tue, 20 Oct 2026 12:41:02 GMT
+Line-Count:   262143
+Last-Updated: Tue, 20 Oct 2026 13:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4329,6 +4329,7 @@ Alien::cmake4                      0.04  S/SK/SKIM/Alien-cmake4-0.04.tar.gz
 Alien::cmark                      0.005  D/DB/DBOOK/Alien-cmark-0.005.tar.gz
 Alien::CodePress                   1.03  A/AS/ASKSH/Alien-CodePress-1.03.tar.gz
 Alien::CodePress::Archive          1.03  A/AS/ASKSH/Alien-CodePress-1.03.tar.gz
+Alien::CorvusJsonSchema        0.001000  M/MW/MWADAMS/Alien-CorvusJsonSchema-v0.1.0.tar.gz
 Alien::Cowl                        0.01  Z/ZM/ZMUGHAL/Alien-Cowl-0.01.tar.gz
 Alien::CPython3                    0.01  Z/ZM/ZMUGHAL/Alien-CPython3-0.01.tar.gz
 Alien::CSFML                     v0.0.7  S/SA/SANKO/Alien-CSFML-v0.0.7.tar.gz
@@ -113240,6 +113241,41 @@ JSON::Schema::AsType::Draft7::Types v1.0.0  Y/YA/YANICK/JSON-Schema-AsType-1.0.0
 JSON::Schema::AsType::Registry   v1.0.0  Y/YA/YANICK/JSON-Schema-AsType-1.0.0.tar.gz
 JSON::Schema::AsType::Type       v1.0.0  Y/YA/YANICK/JSON-Schema-AsType-1.0.0.tar.gz
 JSON::Schema::AsType::Visit      v1.0.0  Y/YA/YANICK/JSON-Schema-AsType-1.0.0.tar.gz
+JSON::Schema::Corvus           0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::CodeGen     undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Collecting  undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Compiler    undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Dialect     undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Document 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Error       undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Error::Compilation undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Error::Depth undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Error::InvalidJson undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Error::PatternMatchLimit undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Error::PatternTooLarge undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Formats     undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Json        undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Loader      undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Metaschemas undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Node        undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Pattern     undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Regex::Charset undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Regex::Linear undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Regex::Parse undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Regex::Unicode undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Regex::Vm   undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::ResultsCollector undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Runtime     undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Uri         undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::Validator 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.0.tar.gz
+JSON::Schema::Corvus::XS       0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
+JSON::Schema::Corvus::XS::Error 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
+JSON::Schema::Corvus::XS::Error::Compilation 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
+JSON::Schema::Corvus::XS::Error::Depth 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
+JSON::Schema::Corvus::XS::Error::InvalidJson 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
+JSON::Schema::Corvus::XS::Error::PatternMatchLimit 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
+JSON::Schema::Corvus::XS::Error::PatternTooLarge 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
+JSON::Schema::Corvus::XS::ResultsCollector 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
 JSON::Schema::Draft201909         0.131  E/ET/ETHER/JSON-Schema-Draft201909-0.131.tar.gz
 JSON::Schema::Error               0.016  T/TO/TOBYINK/JSON-Schema-0.016.tar.gz
 JSON::Schema::Fast                 0.10  L/LN/LNATION/JSON-Schema-Fast-0.10.tar.gz

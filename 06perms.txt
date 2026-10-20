@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669352
+Line-Count:  669388
 Written-By:  PAUSE version 1.005
-Date:        Tue, 20 Oct 2026 08:56:45 GMT
+Date:        Tue, 20 Oct 2026 13:17:15 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -7729,6 +7729,7 @@ Alien::Chipmunk,JTPALMER,f
 Alien::ChromeDriver,CSIDE,f
 Alien::CodePress,ASKSH,f
 Alien::CodePress::Archive,ASKSH,f
+Alien::CorvusJsonSchema,MWADAMS,f
 Alien::Cowl,JJNAPIORK,c
 Alien::Cowl,RMZG,c
 Alien::Cowl,WBRASWELL,f
@@ -331801,6 +331802,41 @@ JSON::Schema::AsType::Draft7::Types,YANICK,f
 JSON::Schema::AsType::Registry,YANICK,f
 JSON::Schema::AsType::Type,YANICK,f
 JSON::Schema::AsType::Visit,YANICK,f
+JSON::Schema::Corvus,MWADAMS,f
+JSON::Schema::Corvus::CodeGen,MWADAMS,f
+JSON::Schema::Corvus::Collecting,MWADAMS,f
+JSON::Schema::Corvus::Compiler,MWADAMS,f
+JSON::Schema::Corvus::Dialect,MWADAMS,f
+JSON::Schema::Corvus::Document,MWADAMS,f
+JSON::Schema::Corvus::Error,MWADAMS,f
+JSON::Schema::Corvus::Error::Compilation,MWADAMS,f
+JSON::Schema::Corvus::Error::Depth,MWADAMS,f
+JSON::Schema::Corvus::Error::InvalidJson,MWADAMS,f
+JSON::Schema::Corvus::Error::PatternMatchLimit,MWADAMS,f
+JSON::Schema::Corvus::Error::PatternTooLarge,MWADAMS,f
+JSON::Schema::Corvus::Formats,MWADAMS,f
+JSON::Schema::Corvus::Json,MWADAMS,f
+JSON::Schema::Corvus::Loader,MWADAMS,f
+JSON::Schema::Corvus::Metaschemas,MWADAMS,f
+JSON::Schema::Corvus::Node,MWADAMS,f
+JSON::Schema::Corvus::Pattern,MWADAMS,f
+JSON::Schema::Corvus::Regex::Charset,MWADAMS,f
+JSON::Schema::Corvus::Regex::Linear,MWADAMS,f
+JSON::Schema::Corvus::Regex::Parse,MWADAMS,f
+JSON::Schema::Corvus::Regex::Unicode,MWADAMS,f
+JSON::Schema::Corvus::Regex::Vm,MWADAMS,f
+JSON::Schema::Corvus::ResultsCollector,MWADAMS,f
+JSON::Schema::Corvus::Runtime,MWADAMS,f
+JSON::Schema::Corvus::Uri,MWADAMS,f
+JSON::Schema::Corvus::Validator,MWADAMS,f
+JSON::Schema::Corvus::XS,MWADAMS,f
+JSON::Schema::Corvus::XS::Error,MWADAMS,f
+JSON::Schema::Corvus::XS::Error::Compilation,MWADAMS,f
+JSON::Schema::Corvus::XS::Error::Depth,MWADAMS,f
+JSON::Schema::Corvus::XS::Error::InvalidJson,MWADAMS,f
+JSON::Schema::Corvus::XS::Error::PatternMatchLimit,MWADAMS,f
+JSON::Schema::Corvus::XS::Error::PatternTooLarge,MWADAMS,f
+JSON::Schema::Corvus::XS::ResultsCollector,MWADAMS,f
 JSON::Schema::Draft201909,ETHER,f
 JSON::Schema::Draft201909::Annotation,ADOPTME,f
 JSON::Schema::Draft201909::Document,ADOPTME,f
