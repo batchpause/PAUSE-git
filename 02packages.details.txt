@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262143
-Last-Updated: Tue, 20 Oct 2026 19:54:58 GMT
+Last-Updated: Tue, 20 Oct 2026 20:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81397,7 +81397,7 @@ Future::Uring::Handle             0.005  L/LE/LEONT/Future-Uring-0.005.tar.gz
 Future::Utils                      0.53  P/PE/PEVANS/Future-0.53.tar.gz
 Future::Workflow                   0.02  P/PE/PEVANS/Future-Workflow-0.02.tar.gz
 Future::Workflow::Pipeline         0.02  P/PE/PEVANS/Future-Workflow-0.02.tar.gz
-Future::XS                         0.15  P/PE/PEVANS/Future-XS-0.15.tar.gz
+Future::XS                         0.16  P/PE/PEVANS/Future-XS-0.16.tar.gz
 FvwmPiazza::Group                0.3001  R/RU/RUBYKAT/FvwmPiazza-0.3001.tar.gz
 FvwmPiazza::GroupWindow          0.3001  R/RU/RUBYKAT/FvwmPiazza-0.3001.tar.gz
 FvwmPiazza::Layouts              0.3001  R/RU/RUBYKAT/FvwmPiazza-0.3001.tar.gz
