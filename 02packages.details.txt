@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262143
-Last-Updated: Tue, 20 Oct 2026 13:29:02 GMT
+Last-Updated: Tue, 20 Oct 2026 14:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -51258,7 +51258,7 @@ Crypt::XXTEA_XS                  0.0101  J/JA/JAHIY/Crypt-XXTEA_XS-0.0101.tar.gz
 Crypt::YAPassGen                   0.02  G/GI/GIULIENK/Crypt-YAPassGen-0.02.tar.gz
 Crypt::Yescrypt                   0.004  L/LE/LEONT/Crypt-Yescrypt-0.004.tar.gz
 Crypt::ZCert                   0.003002  A/AV/AVENJ/Crypt-ZCert-0.003002.tar.gz
-Crypter                             1.0  T/TR/TRUNAEV/Crypter-1.0.tar.gz
+Crypter                            1.01  T/TR/TRUNAEV/Crypter-1.01.tar.gz
 Crypto::NanoRPC                0.009001  H/HA/HACKTOR/Crypto-NanoRPC-0.9.1.tar.gz
 Crypto::Utils                     0.003  A/AB/ABBYPAN/Crypto-Utils-0.003.tar.gz
 Crypto::Utils::CPace              0.014  A/AB/ABBYPAN/Crypto-Utils-0.003.tar.gz
@@ -61238,14 +61238,14 @@ DBD::MVS_FTPSQL::dr            0.038014  C/CB/CBIONDO/DBD-MVS_FTPSQL-0.38.14.tar
 DBD::MVS_FTPSQL::GetInfo          undef  C/CB/CBIONDO/DBD-MVS_FTPSQL-0.38.14.tar.gz
 DBD::MVS_FTPSQL::st            0.038014  C/CB/CBIONDO/DBD-MVS_FTPSQL-0.38.14.tar.gz
 DBD::MVS_FTPSQL::TypeInfo         undef  C/CB/CBIONDO/DBD-MVS_FTPSQL-0.38.14.tar.gz
-DBD::mysql                        5.013  D/DV/DVEEDEN/DBD-mysql-5.013.tar.gz
+DBD::mysql                        5.014  D/DV/DVEEDEN/DBD-mysql-5.014.tar.gz
 DBD::mysql::AutoTypes               1.0  G/GR/GRISHACE/DBD-mysql-AutoTypes-1.0.tar.gz
-DBD::mysql::db                    5.013  D/DV/DVEEDEN/DBD-mysql-5.013.tar.gz
-DBD::mysql::dr                    5.013  D/DV/DVEEDEN/DBD-mysql-5.013.tar.gz
-DBD::mysql::GetInfo               undef  D/DV/DVEEDEN/DBD-mysql-4.055.tar.gz
+DBD::mysql::db                    5.014  D/DV/DVEEDEN/DBD-mysql-5.014.tar.gz
+DBD::mysql::dr                    5.014  D/DV/DVEEDEN/DBD-mysql-5.014.tar.gz
+DBD::mysql::GetInfo               undef  D/DV/DVEEDEN/DBD-mysql-5.014.tar.gz
 DBD::mysql::Install               undef  J/JW/JWIED/Msql-Mysql-modules-1.2219.tar.gz
 DBD::mysql::SimpleMySQL        v36.82.101.118.1  L/LI/LINNIN/DBD-mysql-SimpleMySQL-0.5.tar.gz
-DBD::mysql::st                    5.013  D/DV/DVEEDEN/DBD-mysql-5.013.tar.gz
+DBD::mysql::st                    5.014  D/DV/DVEEDEN/DBD-mysql-5.014.tar.gz
 DBD::mysqlPP                       0.07  T/TS/TSUCCHI/DBD-mysqlPP-0.07.tar.gz
 DBD::mysqlPP::db                   0.07  T/TS/TSUCCHI/DBD-mysqlPP-0.07.tar.gz
 DBD::mysqlPP::dr                   0.07  T/TS/TSUCCHI/DBD-mysqlPP-0.07.tar.gz
