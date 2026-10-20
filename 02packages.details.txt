@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262107
-Last-Updated: Tue, 20 Oct 2026 11:17:02 GMT
+Last-Updated: Tue, 20 Oct 2026 11:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -222192,7 +222192,7 @@ StringEvolver                      0.03  R/RO/ROSULEK/Algorithm-Evolve-0.03.tar.
 StringHandle                       0.20  G/GM/GMAX/Chess-PGN-Parse-0.20.tar.gz
 Stringify::Deep                    0.03  A/AQ/AQUILINA/Stringify-Deep-0.03.tar.gz
 StrNum                            undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrNum.pm.gz
-Strong::Random                      0.9  T/TR/TRUNAEV/Strong-Random-0.9.tar.gz
+Strong::Random                     0.91  T/TR/TRUNAEV/Strong-Random-0.91.tar.gz
 StrTree                           undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrTree.pm.gz
 Struct::Codec                      0.09  L/LN/LNATION/Struct-Codec-0.09.tar.gz
 Struct::Compare                     1.0  Z/ZE/ZENSPIDER/Struct-Compare-1.0.1.tar.gz
