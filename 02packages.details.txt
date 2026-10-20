@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262074
-Last-Updated: Mon, 19 Oct 2026 23:54:54 GMT
+Line-Count:   262077
+Last-Updated: Tue, 20 Oct 2026 00:29:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -210824,7 +210824,10 @@ SDL2::WindowShapeParams           undef  S/SA/SANKO/SDL2-FFI-0.08.tar.gz
 SDL2::WindowShaper                undef  S/SA/SANKO/SDL2-FFI-0.05.tar.gz
 SDL2::WindowUserData              undef  S/SA/SANKO/SDL2-FFI-0.05.tar.gz
 SDL2::X11                         undef  S/SA/SANKO/SDL2-FFI-0.08.tar.gz
-SDL3                             v0.0.5  S/SA/SANKO/SDL3-v0.0.5.tar.gz
+SDL3                             v0.0.6  S/SA/SANKO/SDL3-v0.0.6.tar.gz
+SDL3::Image                      v0.0.6  S/SA/SANKO/SDL3-v0.0.6.tar.gz
+SDL3::Mixer                      v0.0.6  S/SA/SANKO/SDL3-v0.0.6.tar.gz
+SDL3::TTF                        v0.0.6  S/SA/SANKO/SDL3-v0.0.6.tar.gz
 SDL::App::FPS                      0.21  T/TE/TELS/sdl/SDL-App-FPS-0.21.tar.gz
 SDL::App::FPS::Button              0.02  T/TE/TELS/sdl/SDL-App-FPS-0.21.tar.gz
 SDL::App::FPS::Color               0.02  T/TE/TELS/sdl/SDL-App-FPS-0.21.tar.gz
