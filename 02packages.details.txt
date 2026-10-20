@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262143
-Last-Updated: Tue, 20 Oct 2026 22:54:35 GMT
+Last-Updated: Tue, 20 Oct 2026 23:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -51770,8 +51770,8 @@ Cucumber::TagExpressions::OrNode v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressions-1
 Cucumber::Test::Release::Automation undef  C/CU/CUKEBOT/Cucumber-Test-Release-Automation-v0.0.166.tar.gz
 CUI                               undef  A/AY/AYMULYAR/SemMed-Interface-0.05.tar.gz
 Curia                               1.0  M/MI/MIKIO/qdbm-perl-1.8.14.tar.gz
-Curl::Impersonate                  0.02  E/EG/EGOR/Curl-Impersonate-0.02.tar.gz
-Curl::Impersonate::Multi          undef  E/EG/EGOR/Curl-Impersonate-0.02.tar.gz
+Curl::Impersonate                  0.03  E/EG/EGOR/Curl-Impersonate-0.03.tar.gz
+Curl::Impersonate::Multi          undef  E/EG/EGOR/Curl-Impersonate-0.03.tar.gz
 currencies::ActionWrapper         undef  S/ST/STDCRM/ZZZ-SDK-0.0.2.tar.gz
 currencies::APIException          undef  S/ST/STDCRM/ZZZ-SDK-0.0.2.tar.gz
 currencies::BaseCurrencyActionWrapper undef  S/ST/STDCRM/ZZZ-SDK-0.0.2.tar.gz
@@ -54081,25 +54081,25 @@ Data::BitStream::Vec               0.08  D/DA/DANAJ/Data-BitStream-0.08.tar.gz
 Data::BitStream::WordVec           0.08  D/DA/DANAJ/Data-BitStream-0.08.tar.gz
 Data::BitStream::XS                0.08  D/DA/DANAJ/Data-BitStream-XS-0.08.tar.gz
 Data::BLNS                     20182514.062550  D/DC/DCONWAY/Data-BLNS-20182514.062550.tar.gz
-Data::BloomFilter::Shared          0.07  E/EG/EGOR/Data-BloomFilter-Shared-0.07.tar.gz
+Data::BloomFilter::Shared          0.08  E/EG/EGOR/Data-BloomFilter-Shared-0.08.tar.gz
 Data::Bool                      2.98014  F/FE/FERREIRA/Data-Bool-2.98014.tar.gz
 Data::Bool::Impl                2.98014  F/FE/FERREIRA/Data-Bool-2.98014.tar.gz
 Data::BT::PhoneBill                1.00  T/TM/TMTM/Data-BT-PhoneBill-1.00.tar.gz
 Data::BT::PhoneBill::_Call         1.00  T/TM/TMTM/Data-BT-PhoneBill-1.00.tar.gz
 Data::Bucketeer                   0.006  R/RJ/RJBS/Data-Bucketeer-0.006.tar.gz
 Data::Buffer                       0.06  T/TI/TIMLEGGE/Data-Buffer-0.06.tar.gz
-Data::Buffer::Shared               0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
-Data::Buffer::Shared::F32          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
-Data::Buffer::Shared::F64          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
-Data::Buffer::Shared::I16          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
-Data::Buffer::Shared::I32          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
-Data::Buffer::Shared::I64          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
-Data::Buffer::Shared::I8           0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
-Data::Buffer::Shared::Str          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
-Data::Buffer::Shared::U16          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
-Data::Buffer::Shared::U32          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
-Data::Buffer::Shared::U64          0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
-Data::Buffer::Shared::U8           0.09  E/EG/EGOR/Data-Buffer-Shared-0.09.tar.gz
+Data::Buffer::Shared               0.10  E/EG/EGOR/Data-Buffer-Shared-0.10.tar.gz
+Data::Buffer::Shared::F32          0.10  E/EG/EGOR/Data-Buffer-Shared-0.10.tar.gz
+Data::Buffer::Shared::F64          0.10  E/EG/EGOR/Data-Buffer-Shared-0.10.tar.gz
+Data::Buffer::Shared::I16          0.10  E/EG/EGOR/Data-Buffer-Shared-0.10.tar.gz
+Data::Buffer::Shared::I32          0.10  E/EG/EGOR/Data-Buffer-Shared-0.10.tar.gz
+Data::Buffer::Shared::I64          0.10  E/EG/EGOR/Data-Buffer-Shared-0.10.tar.gz
+Data::Buffer::Shared::I8           0.10  E/EG/EGOR/Data-Buffer-Shared-0.10.tar.gz
+Data::Buffer::Shared::Str          0.10  E/EG/EGOR/Data-Buffer-Shared-0.10.tar.gz
+Data::Buffer::Shared::U16          0.10  E/EG/EGOR/Data-Buffer-Shared-0.10.tar.gz
+Data::Buffer::Shared::U32          0.10  E/EG/EGOR/Data-Buffer-Shared-0.10.tar.gz
+Data::Buffer::Shared::U64          0.10  E/EG/EGOR/Data-Buffer-Shared-0.10.tar.gz
+Data::Buffer::Shared::U8           0.10  E/EG/EGOR/Data-Buffer-Shared-0.10.tar.gz
 Data::Bvec                         1.01  B/BB/BBAXTER/Data-Bvec-1.01.tar.gz
 Data::BytesLocker              v1.0.8.0  A/AJ/AJGB/Crypt-NaCl-Sodium-1.0.8.0.tar.gz
 Data::CapabilityBased          0.001000  M/MS/MSTROUT/Data-CapabilityBased-0.001000.tar.gz
@@ -54388,7 +54388,7 @@ Data::CouchDB::Exceptions          0.14  B/BI/BINARY/Data-CouchDB-0.14.tar.gz
 Data::CouchDB::Handler             0.14  B/BI/BINARY/Data-CouchDB-0.14.tar.gz
 Data::CouchDB::Role::VersionedData 0.14  B/BI/BINARY/Data-CouchDB-0.14.tar.gz
 Data::CountingBloomFilter::Shared  0.04  E/EG/EGOR/Data-CountingBloomFilter-Shared-0.04.tar.gz
-Data::CountMinSketch::Shared       0.06  E/EG/EGOR/Data-CountMinSketch-Shared-0.06.tar.gz
+Data::CountMinSketch::Shared       0.07  E/EG/EGOR/Data-CountMinSketch-Shared-0.07.tar.gz
 Data::Couplet                  0.02004314  K/KE/KENTNL/Data-Couplet-0.02004314.tar.gz
 Data::Couplet::Extension       0.02004314  K/KE/KENTNL/Data-Couplet-0.02004314.tar.gz
 Data::Couplet::Plugin::BasicReorder 0.02004314  K/KE/KENTNL/Data-Couplet-0.02004314.tar.gz
