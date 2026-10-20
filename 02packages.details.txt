@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262107
-Last-Updated: Tue, 20 Oct 2026 10:17:02 GMT
+Last-Updated: Tue, 20 Oct 2026 10:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -232517,7 +232517,7 @@ Text::Table::Boxed::Pager         1.003  J/JI/JIMAVERA/Text-Table-Boxed-1.003.ta
 Text::Table::CSV                  0.023  P/PE/PERLANCAR/Text-Table-CSV-0.023.tar.gz
 Text::Table::HTML                 0.012  P/PE/PERLANCAR/Text-Table-HTML-0.012.tar.gz
 Text::Table::HTML::DataTables     0.013  P/PE/PERLANCAR/Text-Table-HTML-DataTables-0.013.tar.gz
-Text::Table::Lite                 1.002  H/HQ/HQWANG/Text-Table-Lite-1.002.tar.gz
+Text::Table::Lite                  1.03  H/HQ/HQWANG/Text-Table-Lite-1.03.tar.gz
 Text::Table::LTSV                 0.001  P/PE/PERLANCAR/Text-Table-LTSV-0.001.tar.gz
 Text::Table::Manifold              1.03  R/RS/RSAVAGE/Text-Table-Manifold-1.03.tgz
 Text::Table::More                 0.025  P/PE/PERLANCAR/Text-Table-More-0.025.tar.gz
