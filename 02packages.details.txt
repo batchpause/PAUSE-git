@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262107
-Last-Updated: Tue, 20 Oct 2026 11:55:06 GMT
+Last-Updated: Tue, 20 Oct 2026 12:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -228795,7 +228795,7 @@ Test::Config::IOD::Common         0.345  P/PE/PERLANCAR/Config-IOD-Reader-0.345.
 Test::Config::System               0.63  I/IA/IANK/Test-Config-System-0.63.tar.gz
 Test::ConsistentVersion          v0.3.1  C/CE/CEBJYRE/Test-ConsistentVersion-v0.3.1.tar.gz
 Test::Consul                      0.017  R/RO/ROBN/Test-Consul-0.017.tar.gz
-Test::Consumer::Contract           0.03  N/NH/NHORNE/Test-Consumer-Contract-0.03.tar.gz
+Test::Consumer::Contract           0.04  N/NH/NHORNE/Test-Consumer-Contract-0.04.tar.gz
 Test::Continuous                   0.76  G/GU/GUGOD/Test-Continuous-0.76.tar.gz
 Test::Continuous::Formatter    0.000002  G/GU/GUGOD/Test-Continuous-0.76.tar.gz
 Test::Continuous::Formatter::Session undef  G/GU/GUGOD/Test-Continuous-0.76.tar.gz
