@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262107
-Last-Updated: Tue, 20 Oct 2026 10:41:02 GMT
+Last-Updated: Tue, 20 Oct 2026 11:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -32757,23 +32757,23 @@ Callable                           0.02  A/AL/ALTOMRU/Callable-0.02.tar.gz
 Callback                           1.07  M/MU/MUIR/modules/Callback-1.07.tar.gz
 Callback::Cleanup                  0.03  N/NU/NUFFIN/Callback-Cleanup-0.03.tar.gz
 Callback::Frame                   1.102  F/FR/FRACTAL/Callback-Frame-1.102.tar.gz
-CallBackery                    0.061002  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::Config               undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::Controller::RpcService undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::Database             undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::Exception            undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::GuiPlugin::Abstract  undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::GuiPlugin::AbstractAction undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::GuiPlugin::AbstractCardlist undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::GuiPlugin::AbstractForm undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::GuiPlugin::AbstractHtml undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::GuiPlugin::AbstractTable undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::GuiPlugin::UserForm  undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::GuiPlugin::Users     undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::Model::ConfigJsonSchema undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::Plugin::Doc          undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::Translate            undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
-CallBackery::User                 undef  O/OE/OETIKER/CallBackery-0.61.2.tar.gz
+CallBackery                    0.061003  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::Config               undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::Controller::RpcService undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::Database             undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::Exception            undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::GuiPlugin::Abstract  undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::GuiPlugin::AbstractAction undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::GuiPlugin::AbstractCardlist undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::GuiPlugin::AbstractForm undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::GuiPlugin::AbstractHtml undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::GuiPlugin::AbstractTable undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::GuiPlugin::UserForm  undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::GuiPlugin::Users     undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::Model::ConfigJsonSchema undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::Plugin::Doc          undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::Translate            undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
+CallBackery::User                 undef  O/OE/OETIKER/CallBackery-0.61.3.tar.gz
 callee                         1.100820  M/MA/MARCEL/callee-1.100820.tar.gz
 Caller::Easy                       0.03  W/WO/WORTHMINE/Caller-Easy-0.03.tar.gz
 Caller::Hide                   0.000001  S/SN/SNEZ/Caller-Hide-v0.0.1.tar.gz
@@ -231232,23 +231232,23 @@ Text::Aligner::Auto                0.16  S/SH/SHLOMIF/Text-Aligner-0.16.tar.gz
 Text::Aligner::MaxKeeper           0.16  S/SH/SHLOMIF/Text-Aligner-0.16.tar.gz
 Text::Amuse                        1.83  M/ME/MELMOTHX/Text-Amuse-1.83.tar.gz
 Text::Amuse::Beamer               undef  M/ME/MELMOTHX/Text-Amuse-1.83.tar.gz
-Text::Amuse::Compile               1.91  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::Devel       undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::File        undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::FileName    undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::Fonts       undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::Fonts::Family undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::Fonts::File undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::Fonts::Import undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::Fonts::Selected undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::Indexer     undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::Indexer::Specification undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::Merged      undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::MuseHeader  undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::TemplateOptions undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::Templates   undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::Utils       undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
-Text::Amuse::Compile::Webfonts    undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.91.tar.gz
+Text::Amuse::Compile               1.92  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::Devel       undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::File        undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::FileName    undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::Fonts       undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::Fonts::Family undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::Fonts::File undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::Fonts::Import undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::Fonts::Selected undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::Indexer     undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::Indexer::Specification undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::Merged      undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::MuseHeader  undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::TemplateOptions undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::Templates   undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::Utils       undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
+Text::Amuse::Compile::Webfonts    undef  M/ME/MELMOTHX/Text-Amuse-Compile-1.92.tar.gz
 Text::Amuse::Document             undef  M/ME/MELMOTHX/Text-Amuse-1.83.tar.gz
 Text::Amuse::Element              undef  M/ME/MELMOTHX/Text-Amuse-1.83.tar.gz
 Text::Amuse::Functions            undef  M/ME/MELMOTHX/Text-Amuse-1.83.tar.gz
