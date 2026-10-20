@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262143
-Last-Updated: Tue, 20 Oct 2026 13:17:02 GMT
+Last-Updated: Tue, 20 Oct 2026 13:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -76761,12 +76761,12 @@ Feed::Pipe::Typedefs              1.003  V/VE/VESELOSKY/Feed-Pipe-1.003.tar.gz
 Feed::Pipe::Types                 1.003  V/VE/VESELOSKY/Feed-Pipe-1.003.tar.gz
 Feed::Source::Page2RSS             0.01  E/ED/EDIPRETO/Feed-Source-Page2RSS-0.01.tar.gz
 Feed::Source::Yahoo                0.01  E/ED/EDIPRETO/Feed-Source-Yahoo-0.01.tar.gz
-Feersum                           1.507  E/EG/EGOR/Feersum-1.507.tar.gz
-Feersum::Connection               undef  E/EG/EGOR/Feersum-1.507.tar.gz
-Feersum::Connection::Handle       undef  E/EG/EGOR/Feersum-1.507.tar.gz
-Feersum::Connection::Reader       undef  E/EG/EGOR/Feersum-1.507.tar.gz
-Feersum::Connection::Writer       undef  E/EG/EGOR/Feersum-1.507.tar.gz
-Feersum::Runner                   undef  E/EG/EGOR/Feersum-1.507.tar.gz
+Feersum                           1.509  E/EG/EGOR/Feersum-1.509.tar.gz
+Feersum::Connection               undef  E/EG/EGOR/Feersum-1.509.tar.gz
+Feersum::Connection::Handle       undef  E/EG/EGOR/Feersum-1.509.tar.gz
+Feersum::Connection::Reader       undef  E/EG/EGOR/Feersum-1.509.tar.gz
+Feersum::Connection::Writer       undef  E/EG/EGOR/Feersum-1.509.tar.gz
+Feersum::Runner                   undef  E/EG/EGOR/Feersum-1.509.tar.gz
 Fennec                            2.018  E/EX/EXODIST/Fennec-2.018.tar.gz
 Fennec::Collector                 undef  E/EX/EXODIST/Fennec-2.018.tar.gz
 Fennec::Collector::TB             undef  E/EX/EXODIST/Fennec-2.018.tar.gz
@@ -194216,7 +194216,7 @@ Plack::Handler::FCGI::Engine       0.22  S/ST/STEVAN/FCGI-Engine-0.22.tar.gz
 Plack::Handler::FCGI::Engine::ProcManager 0.22  S/ST/STEVAN/FCGI-Engine-0.22.tar.gz
 Plack::Handler::FCGI::EV           0.01  M/MI/MIYAGAWA/Plack-Handler-FCGI-EV-0.01.tar.gz
 Plack::Handler::FCGI::EV::Handler  0.01  M/MI/MIYAGAWA/Plack-Handler-FCGI-EV-0.01.tar.gz
-Plack::Handler::Feersum           undef  E/EG/EGOR/Feersum-1.507.tar.gz
+Plack::Handler::Feersum           undef  E/EG/EGOR/Feersum-1.509.tar.gz
 Plack::Handler::Feersum::SS        0.06  E/EG/EGOR/Plack-Handler-Feersum-SS-0.06.tar.gz
 Plack::Handler::Fliggy            undef  V/VT/VTI/Fliggy-0.009003.tar.gz
 Plack::Handler::Gazelle            0.50  K/KA/KAZEBURO/Gazelle-0.50.tar.gz
