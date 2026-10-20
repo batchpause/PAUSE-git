@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262103
-Last-Updated: Tue, 20 Oct 2026 05:29:02 GMT
+Last-Updated: Tue, 20 Oct 2026 06:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -80914,7 +80914,7 @@ Full::Role                        1.004  T/TE/TEAM/Full-1.004.tar.gz
 Full::Script                      1.004  T/TE/TEAM/Full-1.004.tar.gz
 Fun                                0.05  D/DO/DOY/Fun-0.05.tar.gz
 func                              undef  I/IN/INGY/YAMLScript-0.0.5.tar.gz
-Func::Util                         1.01  L/LN/LNATION/Func-Util-1.01.tar.gz
+Func::Util                         1.02  L/LN/LNATION/Func-Util-1.02.tar.gz
 Function::Composition          0.000002  S/SH/SHELLING/Function-Composition-0.0.2.tar.gz
 Function::Fallback::CoreOrPP      0.090  P/PE/PERLANCAR/Function-Fallback-CoreOrPP-0.090.tar.gz
 Function::ID                       0.02  R/RO/ROODE/Function_ID-0.02.tar.gz
@@ -125647,24 +125647,24 @@ Mail::DeliveryStatus::Report      1.543  R/RJ/RJBS/Mail-DeliveryStatus-BouncePar
 Mail::Dir                          0.03  X/XA/XAN/Mail-Dir-0.03.tar.gz
 Mail::Dir::Message                undef  X/XA/XAN/Mail-Dir-0.03.tar.gz
 Mail::DKIM                     1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
-Mail::DKIM2                        0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::BodyPlan              0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::Common                0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::Digest                0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::DSN                   0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::Gate                  0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::HeaderParser          0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::HeaderPlan            0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::MessageInstance       0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::MessageStore          0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::Reflector             0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::Signature             0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::Signer                0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::Split                 0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::TagValueList          0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::Validate              0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::Verifier              0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::DKIM2::Wrap                  0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2                        0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::BodyPlan              0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::Common                0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::Digest                0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::DSN                   0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::Gate                  0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::HeaderParser          0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::HeaderPlan            0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::MessageInstance       0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::MessageStore          0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::Reflector             0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::Signature             0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::Signer                0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::Split                 0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::TagValueList          0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::Validate              0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::Verifier              0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::DKIM2::Wrap                  0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
 Mail::DKIM::Algorithm::Base    1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
 Mail::DKIM::Algorithm::dk_rsa_sha1 1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
 Mail::DKIM::Algorithm::ed25519_sha256 1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
@@ -126012,8 +126012,8 @@ Mail::Milter::Authentication::Handler::BIMI 4.20261020  M/MB/MBRADSHAW/Mail-Milt
 Mail::Milter::Authentication::Handler::Blocker 4.20261020  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261020.tar.gz
 Mail::Milter::Authentication::Handler::ClamAV 2.20180611  M/MB/MBRADSHAW/Mail-Milter-Authentication-Extra-2.20180611.tar.gz
 Mail::Milter::Authentication::Handler::DKIM 4.20261020  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261020.tar.gz
-Mail::Milter::Authentication::Handler::DKIM2Sign 0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
-Mail::Milter::Authentication::Handler::DKIM2Verify 0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::Milter::Authentication::Handler::DKIM2Sign 0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
+Mail::Milter::Authentication::Handler::DKIM2Verify 0.25  B/BR/BRONG/Mail-DKIM2-0.25.tar.gz
 Mail::Milter::Authentication::Handler::DMARC 4.20261020  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261020.tar.gz
 Mail::Milter::Authentication::Handler::IPRev 4.20261020  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261020.tar.gz
 Mail::Milter::Authentication::Handler::LocalIP 4.20261020  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261020.tar.gz
@@ -234130,24 +234130,24 @@ Time::Human                        1.03  J/JH/JHOBLITT/Time-Human-1.03.tar.gz
 Time::Implementation              undef  F/FO/FOTANGO/Froody-42.034.tar.gz
 Time::Interval                    1.234  A/AH/AHICOX/Time-Interval-1.234.tar.gz
 Time::JulianDay                2026.033  B/BP/BPS/Time-ParseDate-2026.033.tar.gz
-Time::Keeper                       0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
+Time::Keeper                       0.09  L/LN/LNATION/Time-Keeper-0.09.tar.gz
 Time::Keeper::Body::Day            0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Business             0.02  L/LN/LNATION/Time-Keeper-Business-0.02.tar.gz
 Time::Keeper::Business::Rule       0.02  L/LN/LNATION/Time-Keeper-Business-0.02.tar.gz
-Time::Keeper::Calendar             0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
-Time::Keeper::Date                 0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
-Time::Keeper::Duration             0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
+Time::Keeper::Calendar             0.09  L/LN/LNATION/Time-Keeper-0.09.tar.gz
+Time::Keeper::Date                 0.09  L/LN/LNATION/Time-Keeper-0.09.tar.gz
+Time::Keeper::Duration             0.09  L/LN/LNATION/Time-Keeper-0.09.tar.gz
 Time::Keeper::Eclipse              0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Eclipse::Local       0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
-Time::Keeper::Locale               0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
-Time::Keeper::MonthDay             0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
+Time::Keeper::Locale               0.09  L/LN/LNATION/Time-Keeper-0.09.tar.gz
+Time::Keeper::MonthDay             0.09  L/LN/LNATION/Time-Keeper-0.09.tar.gz
 Time::Keeper::Moon                 0.03  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Moon::Day            0.03  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
-Time::Keeper::Natural              0.02  L/LN/LNATION/Time-Keeper-Natural-0.02.tar.gz
-Time::Keeper::Natural::Lexicon     0.02  L/LN/LNATION/Time-Keeper-Natural-0.02.tar.gz
-Time::Keeper::Natural::Match       0.02  L/LN/LNATION/Time-Keeper-Natural-0.02.tar.gz
-Time::Keeper::Natural::Numbers     0.02  L/LN/LNATION/Time-Keeper-Natural-0.02.tar.gz
-Time::Keeper::Natural::Words       0.02  L/LN/LNATION/Time-Keeper-Natural-0.02.tar.gz
+Time::Keeper::Natural              0.03  L/LN/LNATION/Time-Keeper-Natural-0.03.tar.gz
+Time::Keeper::Natural::Lexicon     0.03  L/LN/LNATION/Time-Keeper-Natural-0.03.tar.gz
+Time::Keeper::Natural::Match       0.03  L/LN/LNATION/Time-Keeper-Natural-0.03.tar.gz
+Time::Keeper::Natural::Numbers     0.03  L/LN/LNATION/Time-Keeper-Natural-0.03.tar.gz
+Time::Keeper::Natural::Words       0.03  L/LN/LNATION/Time-Keeper-Natural-0.03.tar.gz
 Time::Keeper::Planet               0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Planet::Day          0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Recurrence           0.01  L/LN/LNATION/Time-Keeper-Recurrence-0.01.tar.gz
@@ -234157,8 +234157,8 @@ Time::Keeper::Star                 0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.g
 Time::Keeper::Star::Day            0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Sun                  0.03  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Sun::Day             0.03  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
-Time::Keeper::Time                 0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
-Time::Keeper::YearMonth            0.08  L/LN/LNATION/Time-Keeper-0.08.tar.gz
+Time::Keeper::Time                 0.09  L/LN/LNATION/Time-Keeper-0.09.tar.gz
+Time::Keeper::YearMonth            0.09  L/LN/LNATION/Time-Keeper-0.09.tar.gz
 Time::Keeper::Zone                 0.04  L/LN/LNATION/Time-Keeper-Zone-0.04.tar.gz
 Time::LeapSecond                   0.92  C/CH/CHANSEN/Time-Str-0.92.tar.gz
 Time::Left                        1.000  T/TF/TFBW/Time-Left-1.000.tar.gz
