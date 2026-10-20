@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262143
-Last-Updated: Tue, 20 Oct 2026 21:54:47 GMT
+Last-Updated: Tue, 20 Oct 2026 22:54:35 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -239065,7 +239065,7 @@ utime2                             0.01  P/PH/PHILOU/utime2-0.01.tar.gz
 utl                                1.03  N/NE/NES/Nes-1.03.tar.gz
 UTM5::URFAClient                   0.54  V/VE/VEROLOM/UTM5-URFAClient-0.54.tar.gz
 UTM5::URFAClient::Daemon           0.20  V/VE/VEROLOM/UTM5-URFAClient-Daemon-0.20.tar.gz
-UUID                               0.39  J/JR/JRM/UUID-0.39.tar.gz
+UUID                               0.40  J/JR/JRM/UUID-0.40.tar.gz
 UUID4::Tiny                       0.003  C/CV/CVLIBRARY/UUID4-Tiny-0.003.tar.gz
 UUID::FFI                          0.11  P/PL/PLICEASE/UUID-FFI-0.11.tar.gz
 UUID::Generator::PurePerl          0.80  B/BA/BANB/UUID-Generator-PurePerl-0.80.tar.gz
