@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669323
+Line-Count:  669348
 Written-By:  PAUSE version 1.005
-Date:        Tue, 20 Oct 2026 01:18:28 GMT
+Date:        Tue, 20 Oct 2026 05:29:32 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -607277,6 +607277,31 @@ Test::Filesystem,FUZZ,f
 Test::Filesystem::Root,FUZZ,f
 Test::Filter,ZAG,f
 Test::FilterDocBook,ZAG,f
+Test::FitNesse::Slim,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::Boolean,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::Character,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::Date,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::Double,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::Enum,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::Integer,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::List,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::Long,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::PrimitiveBoolean,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::PrimitiveCharacter,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::PrimitiveDouble,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::PrimitiveInteger,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::PrimitiveLong,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::String,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::TypedSequence,GBACON,f
+Test::FitNesse::Slim::ConverterRegistry::Void,GBACON,f
+Test::FitNesse::Slim::List,GBACON,f
+Test::FitNesse::Slim::ListExecutor,GBACON,f
+Test::FitNesse::Slim::MapResult,GBACON,f
+Test::FitNesse::Slim::Server,GBACON,f
+Test::FitNesse::Slim::SlimHelperLibrary,GBACON,f
+Test::FitNesse::Slim::Statement,GBACON,f
+Test::FitNesse::Slim::StatementExecutor,GBACON,f
 Test::Fixme,ADOPTME,f
 Test::Fixme,EVDB,c
 Test::Fixme,PLICEASE,c

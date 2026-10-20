@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262078
-Last-Updated: Tue, 20 Oct 2026 05:17:02 GMT
+Line-Count:   262103
+Last-Updated: Tue, 20 Oct 2026 05:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -125647,24 +125647,24 @@ Mail::DeliveryStatus::Report      1.543  R/RJ/RJBS/Mail-DeliveryStatus-BouncePar
 Mail::Dir                          0.03  X/XA/XAN/Mail-Dir-0.03.tar.gz
 Mail::Dir::Message                undef  X/XA/XAN/Mail-Dir-0.03.tar.gz
 Mail::DKIM                     1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
-Mail::DKIM2                        0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::BodyPlan              0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::Common                0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::Digest                0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::DSN                   0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::Gate                  0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::HeaderParser          0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::HeaderPlan            0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::MessageInstance       0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::MessageStore          0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::Reflector             0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::Signature             0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::Signer                0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::Split                 0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::TagValueList          0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::Validate              0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::Verifier              0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::DKIM2::Wrap                  0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
+Mail::DKIM2                        0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::BodyPlan              0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::Common                0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::Digest                0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::DSN                   0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::Gate                  0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::HeaderParser          0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::HeaderPlan            0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::MessageInstance       0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::MessageStore          0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::Reflector             0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::Signature             0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::Signer                0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::Split                 0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::TagValueList          0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::Validate              0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::Verifier              0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::DKIM2::Wrap                  0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
 Mail::DKIM::Algorithm::Base    1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
 Mail::DKIM::Algorithm::dk_rsa_sha1 1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
 Mail::DKIM::Algorithm::ed25519_sha256 1.20240923  M/MB/MBRADSHAW/Mail-DKIM-1.20240923.tar.gz
@@ -126012,8 +126012,8 @@ Mail::Milter::Authentication::Handler::BIMI 4.20261020  M/MB/MBRADSHAW/Mail-Milt
 Mail::Milter::Authentication::Handler::Blocker 4.20261020  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261020.tar.gz
 Mail::Milter::Authentication::Handler::ClamAV 2.20180611  M/MB/MBRADSHAW/Mail-Milter-Authentication-Extra-2.20180611.tar.gz
 Mail::Milter::Authentication::Handler::DKIM 4.20261020  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261020.tar.gz
-Mail::Milter::Authentication::Handler::DKIM2Sign 0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
-Mail::Milter::Authentication::Handler::DKIM2Verify 0.23  B/BR/BRONG/Mail-DKIM2-0.23.tar.gz
+Mail::Milter::Authentication::Handler::DKIM2Sign 0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
+Mail::Milter::Authentication::Handler::DKIM2Verify 0.24  B/BR/BRONG/Mail-DKIM2-0.24.tar.gz
 Mail::Milter::Authentication::Handler::DMARC 4.20261020  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261020.tar.gz
 Mail::Milter::Authentication::Handler::IPRev 4.20261020  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261020.tar.gz
 Mail::Milter::Authentication::Handler::LocalIP 4.20261020  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261020.tar.gz
@@ -229200,6 +229200,31 @@ Test::FITesque::Fixture           undef  R/RJ/RJBS/Test-FITesque-0.04.tar.gz
 Test::FITesque::RDF                0.10  K/KJ/KJETILK/Test-FITesque-RDF-0.10.tar.gz
 Test::FITesque::Suite             undef  R/RJ/RJBS/Test-FITesque-0.04.tar.gz
 Test::FITesque::Test              undef  R/RJ/RJBS/Test-FITesque-0.04.tar.gz
+Test::FitNesse::Slim               1.00  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::Boolean undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::Character undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::Date undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::Double undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::Enum undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::Integer undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::List undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::Long undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::PrimitiveBoolean undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::PrimitiveCharacter undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::PrimitiveDouble undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::PrimitiveInteger undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::PrimitiveLong undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::String undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::TypedSequence undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ConverterRegistry::Void undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::List        undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::ListExecutor undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::MapResult   undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::Server      undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::SlimHelperLibrary undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::Statement   undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
+Test::FitNesse::Slim::StatementExecutor undef  G/GB/GBACON/Test-FitNesse-Slim-1.00.tar.gz
 Test::Fixme                        0.17  P/PL/PLICEASE/Test-Fixme-0.17.tar.gz
 Test::Fixture::DBI                 0.09  Z/ZI/ZIGOROU/Test-Fixture-DBI-0.09.tar.gz
 Test::Fixture::DBI::Util           0.09  Z/ZI/ZIGOROU/Test-Fixture-DBI-0.09.tar.gz
