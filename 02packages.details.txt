@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262103
-Last-Updated: Tue, 20 Oct 2026 07:41:01 GMT
+Line-Count:   262106
+Last-Updated: Tue, 20 Oct 2026 08:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -119081,6 +119081,9 @@ Lingua::GA::Gramadoir::Languages::sk undef  S/SC/SCANNELL/Lingua-GA-Gramadoir-0.
 Lingua::GA::Gramadoir::Languages::sv undef  S/SC/SCANNELL/Lingua-GA-Gramadoir-0.70.tar.gz
 Lingua::GA::Gramadoir::Languages::vi undef  S/SC/SCANNELL/Lingua-GA-Gramadoir-0.70.tar.gz
 Lingua::GA::Gramadoir::Languages::zh undef  S/SC/SCANNELL/Lingua-GA-Gramadoir-0.70.tar.gz
+Lingua::Generic::Information     v0.1.0  L/LI/LION/Lingua-Generic-Information-v0.01.tar.gz
+Lingua::Generic::Information::Data v0.1.0  L/LI/LION/Lingua-Generic-Information-v0.01.tar.gz
+Lingua::Generic::Information::Language v0.1.0  L/LI/LION/Lingua-Generic-Information-v0.01.tar.gz
 Lingua::Generic::Interface       v0.3.0  L/LI/LION/Lingua-Generic-Interface-v0.03.tar.gz
 Lingua::Generic::Interface::Base v0.3.0  L/LI/LION/Lingua-Generic-Interface-v0.03.tar.gz
 Lingua::Generic::Interface::Element v0.3.0  L/LI/LION/Lingua-Generic-Interface-v0.03.tar.gz
