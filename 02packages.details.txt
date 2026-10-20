@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262103
-Last-Updated: Tue, 20 Oct 2026 06:55:06 GMT
+Last-Updated: Tue, 20 Oct 2026 07:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -244420,17 +244420,17 @@ Voxgig::Struct::Bool           0.001000  R/RJ/RJRODGER/Voxgig-Struct-0.1.0.tar.g
 Voxgig::Struct::JsonParser     0.001000  R/RJ/RJRODGER/Voxgig-Struct-0.1.0.tar.gz
 Voxgig::Struct::Null           0.001000  R/RJ/RJRODGER/Voxgig-Struct-0.1.0.tar.gz
 Voxgig::Struct::OrderedHash    0.001000  R/RJ/RJRODGER/Voxgig-Struct-0.1.0.tar.gz
-VPNDetection                   3.008000  M/MS/MSLM/VPNDetection-3.8.0.tar.gz
-VPNDetection::Bogon            3.008000  M/MS/MSLM/VPNDetection-3.8.0.tar.gz
-VPNDetection::Bogons              undef  M/MS/MSLM/VPNDetection-3.8.0.tar.gz
-VPNDetection::Cache            3.008000  M/MS/MSLM/VPNDetection-3.8.0.tar.gz
-VPNDetection::Database         3.008000  M/MS/MSLM/VPNDetection-3.8.0.tar.gz
-VPNDetection::Error            3.008000  M/MS/MSLM/VPNDetection-3.8.0.tar.gz
-VPNDetection::Oauth            3.008000  M/MS/MSLM/VPNDetection-3.8.0.tar.gz
-VPNDetection::OauthAccessDeniedError 3.008000  M/MS/MSLM/VPNDetection-3.8.0.tar.gz
-VPNDetection::OauthError       3.008000  M/MS/MSLM/VPNDetection-3.8.0.tar.gz
-VPNDetection::OauthExpiredTokenError 3.008000  M/MS/MSLM/VPNDetection-3.8.0.tar.gz
-VPNDetection::Result           3.008000  M/MS/MSLM/VPNDetection-3.8.0.tar.gz
+VPNDetection                   3.008001  M/MS/MSLM/VPNDetection-3.8.1.tar.gz
+VPNDetection::Bogon            3.008001  M/MS/MSLM/VPNDetection-3.8.1.tar.gz
+VPNDetection::Bogons              undef  M/MS/MSLM/VPNDetection-3.8.1.tar.gz
+VPNDetection::Cache            3.008001  M/MS/MSLM/VPNDetection-3.8.1.tar.gz
+VPNDetection::Database         3.008001  M/MS/MSLM/VPNDetection-3.8.1.tar.gz
+VPNDetection::Error            3.008001  M/MS/MSLM/VPNDetection-3.8.1.tar.gz
+VPNDetection::Oauth            3.008001  M/MS/MSLM/VPNDetection-3.8.1.tar.gz
+VPNDetection::OauthAccessDeniedError 3.008001  M/MS/MSLM/VPNDetection-3.8.1.tar.gz
+VPNDetection::OauthError       3.008001  M/MS/MSLM/VPNDetection-3.8.1.tar.gz
+VPNDetection::OauthExpiredTokenError 3.008001  M/MS/MSLM/VPNDetection-3.8.1.tar.gz
+VPNDetection::Result           3.008001  M/MS/MSLM/VPNDetection-3.8.1.tar.gz
 vpopmail                           0.08  S/SS/SSCANLON/vpopmail-0.08.tar.gz
 vptk_w::ConfigRead                undef  F/FE/FELIXL/vptk/vptk_w_2_42b.tgz
 vptk_w::EditorServices            undef  F/FE/FELIXL/vptk/vptk_w_2_42b.tgz
