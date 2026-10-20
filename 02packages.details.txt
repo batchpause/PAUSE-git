@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262144
-Last-Updated: Tue, 20 Oct 2026 16:17:02 GMT
+Last-Updated: Tue, 20 Oct 2026 17:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -127103,14 +127103,14 @@ Marathon::Group                   undef  G/GE/GEIDIES/Marathon-0.9.tar.gz
 Marathon::Remote                  undef  G/GE/GEIDIES/Marathon-0.9.tar.gz
 MARC::Batch                       undef  G/GM/GMCHARLT/MARC-Record-2.0.7.tar.gz
 MARC::BBMARC                       1.08  E/EI/EIJABB/MARC-Errorchecks-1.18.tar.gz
-MARC::Charset                      1.35  G/GM/GMCHARLT/MARC-Charset-1.35.tar.gz
+MARC::Charset                      1.36  G/GM/GMCHARLT/MARC-Charset-1.36.tar.gz
 MARC::Charset::Ansel              undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
 MARC::Charset::ArabicBasic        undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
 MARC::Charset::ArabicExtended     undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
 MARC::Charset::ASCII              undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
-MARC::Charset::Code               undef  G/GM/GMCHARLT/MARC-Charset-1.35.tar.gz
-MARC::Charset::Compiler           undef  G/GM/GMCHARLT/MARC-Charset-1.35.tar.gz
-MARC::Charset::Constants          undef  G/GM/GMCHARLT/MARC-Charset-1.35.tar.gz
+MARC::Charset::Code               undef  G/GM/GMCHARLT/MARC-Charset-1.36.tar.gz
+MARC::Charset::Compiler           undef  G/GM/GMCHARLT/MARC-Charset-1.36.tar.gz
+MARC::Charset::Constants          undef  G/GM/GMCHARLT/MARC-Charset-1.36.tar.gz
 MARC::Charset::Controls           undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
 MARC::Charset::CyrillicBasic      undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
 MARC::Charset::CyrillicExtended   undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
@@ -127121,7 +127121,7 @@ MARC::Charset::GreekSymbols       undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
 MARC::Charset::Hebrew             undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
 MARC::Charset::Subscripts         undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
 MARC::Charset::Superscripts       undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
-MARC::Charset::Table              undef  G/GM/GMCHARLT/MARC-Charset-1.35.tar.gz
+MARC::Charset::Table              undef  G/GM/GMCHARLT/MARC-Charset-1.36.tar.gz
 MARC::Charset::UTF8               undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
 MARC::Convert::Wikidata            0.34  S/SK/SKIM/MARC-Convert-Wikidata-0.34.tar.gz
 MARC::Convert::Wikidata::Item      0.34  S/SK/SKIM/MARC-Convert-Wikidata-0.34.tar.gz
@@ -234184,11 +234184,11 @@ Time::Keeper::Locale               0.09  L/LN/LNATION/Time-Keeper-0.09.tar.gz
 Time::Keeper::MonthDay             0.09  L/LN/LNATION/Time-Keeper-0.09.tar.gz
 Time::Keeper::Moon                 0.03  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Moon::Day            0.03  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
-Time::Keeper::Natural              0.04  L/LN/LNATION/Time-Keeper-Natural-0.04.tar.gz
-Time::Keeper::Natural::Lexicon     0.04  L/LN/LNATION/Time-Keeper-Natural-0.04.tar.gz
-Time::Keeper::Natural::Match       0.04  L/LN/LNATION/Time-Keeper-Natural-0.04.tar.gz
-Time::Keeper::Natural::Numbers     0.04  L/LN/LNATION/Time-Keeper-Natural-0.04.tar.gz
-Time::Keeper::Natural::Words       0.04  L/LN/LNATION/Time-Keeper-Natural-0.04.tar.gz
+Time::Keeper::Natural              0.05  L/LN/LNATION/Time-Keeper-Natural-0.05.tar.gz
+Time::Keeper::Natural::Lexicon     0.05  L/LN/LNATION/Time-Keeper-Natural-0.05.tar.gz
+Time::Keeper::Natural::Match       0.05  L/LN/LNATION/Time-Keeper-Natural-0.05.tar.gz
+Time::Keeper::Natural::Numbers     0.05  L/LN/LNATION/Time-Keeper-Natural-0.05.tar.gz
+Time::Keeper::Natural::Words       0.05  L/LN/LNATION/Time-Keeper-Natural-0.05.tar.gz
 Time::Keeper::Planet               0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Planet::Day          0.01  L/LN/LNATION/Time-Keeper-Sky-0.01.tar.gz
 Time::Keeper::Recurrence           0.01  L/LN/LNATION/Time-Keeper-Recurrence-0.01.tar.gz
