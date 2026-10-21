@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262178
-Last-Updated: Wed, 21 Oct 2026 20:29:01 GMT
+Last-Updated: Wed, 21 Oct 2026 21:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -16096,8 +16096,8 @@ App::Slackeria::Plugin::Ubuntu     0.12  D/DE/DERF/App-Slackeria-0.12.tar.gz
 App::Slackeria::Plugin::Whohas     0.12  D/DE/DERF/App-Slackeria-0.12.tar.gz
 App::Slackeria::PluginLoader       0.12  D/DE/DERF/App-Slackeria-0.12.tar.gz
 App::SlideServer                  0.003  N/NE/NERDVANA/App-SlideServer-0.003.tar.gz
-App::SlimPacker                    0.07  N/NI/NICOMEN/App-SlimPacker-0.07.tar.gz
-App::SlimPacker::Minify            0.07  N/NI/NICOMEN/App-SlimPacker-0.07.tar.gz
+App::SlimPacker                    0.08  N/NI/NICOMEN/App-SlimPacker-0.08.tar.gz
+App::SlimPacker::Minify            0.08  N/NI/NICOMEN/App-SlimPacker-0.08.tar.gz
 App::SlowQuitApps              0.000003  D/DC/DCONWAY/App-SlowQuitApps-0.000003.tar.gz
 App::Smarkmail                    0.006  R/RJ/RJBS/App-Smarkmail-0.006.tar.gz
 App::Smbxfer                       0.01  K/KE/KERISMAN/App-Smbxfer-0.01.tar.gz
