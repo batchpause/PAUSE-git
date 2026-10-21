@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262148
-Last-Updated: Wed, 21 Oct 2026 07:17:02 GMT
+Last-Updated: Wed, 21 Oct 2026 07:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -227318,7 +227318,7 @@ Term::Choose::LineFold            1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
 Term::Choose::LineFold::PP        1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
 Term::Choose::LineFold::PP::CharWidthAmbiguousWide 1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
 Term::Choose::LineFold::PP::CharWidthDefault 1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
-Term::Choose::LineFold::XS        0.005  K/KU/KUERBIS/Term-Choose-LineFold-XS-0.005.tar.gz
+Term::Choose::LineFold::XS        0.006  K/KU/KUERBIS/Term-Choose-LineFold-XS-0.006.tar.gz
 Term::Choose::Linux               1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
 Term::Choose::Opt::Mouse          1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
 Term::Choose::Opt::Search         1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
