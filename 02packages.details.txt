@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262178
-Last-Updated: Wed, 21 Oct 2026 19:41:02 GMT
+Last-Updated: Wed, 21 Oct 2026 19:54:52 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -210895,10 +210895,10 @@ SDL2::WindowShapeParams           undef  S/SA/SANKO/SDL2-FFI-0.08.tar.gz
 SDL2::WindowShaper                undef  S/SA/SANKO/SDL2-FFI-0.05.tar.gz
 SDL2::WindowUserData              undef  S/SA/SANKO/SDL2-FFI-0.05.tar.gz
 SDL2::X11                         undef  S/SA/SANKO/SDL2-FFI-0.08.tar.gz
-SDL3                             v0.0.6  S/SA/SANKO/SDL3-v0.0.6.tar.gz
-SDL3::Image                      v0.0.6  S/SA/SANKO/SDL3-v0.0.6.tar.gz
-SDL3::Mixer                      v0.0.6  S/SA/SANKO/SDL3-v0.0.6.tar.gz
-SDL3::TTF                        v0.0.6  S/SA/SANKO/SDL3-v0.0.6.tar.gz
+SDL3                             v0.0.7  S/SA/SANKO/SDL3-v0.0.7.tar.gz
+SDL3::Image                      v0.0.7  S/SA/SANKO/SDL3-v0.0.7.tar.gz
+SDL3::Mixer                      v0.0.7  S/SA/SANKO/SDL3-v0.0.7.tar.gz
+SDL3::TTF                        v0.0.7  S/SA/SANKO/SDL3-v0.0.7.tar.gz
 SDL::App::FPS                      0.21  T/TE/TELS/sdl/SDL-App-FPS-0.21.tar.gz
 SDL::App::FPS::Button              0.02  T/TE/TELS/sdl/SDL-App-FPS-0.21.tar.gz
 SDL::App::FPS::Color               0.02  T/TE/TELS/sdl/SDL-App-FPS-0.21.tar.gz
