@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262178
-Last-Updated: Wed, 21 Oct 2026 21:54:32 GMT
+Last-Updated: Wed, 21 Oct 2026 22:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4144,7 +4144,7 @@ Algorithm::TSort::ADJ              0.05  G/GR/GRIAN/Algorithm-TSort-0.05.tar.gz
 Algorithm::TSort::ADJSUB           0.05  G/GR/GRIAN/Algorithm-TSort-0.05.tar.gz
 Algorithm::TSort::ADJSUB_ARRAYREF  0.05  G/GR/GRIAN/Algorithm-TSort-0.05.tar.gz
 Algorithm::TSort::Guard            0.05  G/GR/GRIAN/Algorithm-TSort-0.05.tar.gz
-Algorithm::UrataniTakeda         v0.1.7  R/RR/RRWO/Algorithm-UrataniTakeda-v0.1.7.tar.gz
+Algorithm::UrataniTakeda         v0.1.8  R/RR/RRWO/Algorithm-UrataniTakeda-v0.1.8.tar.gz
 Algorithm::VectorClocks          v0.1.2  T/TA/TAKERU/Algorithm-VectorClocks-v0.1.2.tar.gz
 Algorithm::Verhoeff                 0.3  J/JP/JPETERSON/Algorithm-Verhoeff-0.3.tar.gz
 Algorithm::Viterbi                 0.01  K/KO/KOEN/Algorithm-Viterbi-0.01.tar.gz
@@ -205182,7 +205182,7 @@ Robotics::Tecan::Genesis::Liha    undef  J/JC/JCLINE/Robotics-023/Robotics-0.23.
 Robotics::Tecan::Genesis::Roma    undef  J/JC/JCLINE/Robotics-023/Robotics-0.23.tar.bz2
 Robotics::Tecan::Genesis::Session undef  J/JC/JCLINE/Robotics-023/Robotics-0.23.tar.bz2
 Robotics::Tecan::Server            0.22  J/JC/JCLINE/Robotics-023/Robotics-0.23.tar.bz2
-Robots::Validate                v0.4.11  R/RR/RRWO/Robots-Validate-v0.4.11.tar.gz
+Robots::Validate                v0.4.12  R/RR/RRWO/Robots-Validate-v0.4.12.tar.gz
 RocksDB                            0.05  J/JI/JIRO/RocksDB-0.05.tar.gz
 Rodney::XML::QuickStruct            1.1  R/RB/RBROOM/Rodney-XML-QuickStruct-1.1.tar.gz
 RogersMine::App                   undef  G/GF/GFR/RogersMine-0.1.12.tar.gz
