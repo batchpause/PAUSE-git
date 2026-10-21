@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262143
-Last-Updated: Tue, 20 Oct 2026 23:17:02 GMT
+Line-Count:   262145
+Last-Updated: Wed, 21 Oct 2026 00:17:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -10839,18 +10839,18 @@ App::FuguVM::Proxy::Cache      0.003001  S/SE/SENZILLA/App-FuguVM-0.3.1.tar.gz
 App::FuguVM::QMP               0.003001  S/SE/SENZILLA/App-FuguVM-0.3.1.tar.gz
 App::FuguVM::Remote            0.003001  S/SE/SENZILLA/App-FuguVM-0.3.1.tar.gz
 App::FuguVM::State             0.003001  S/SE/SENZILLA/App-FuguVM-0.3.1.tar.gz
-App::FuguWeb                   0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
-App::FuguWeb::Check            0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
-App::FuguWeb::CLI              0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
-App::FuguWeb::Config           0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
-App::FuguWeb::Config::Group    0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
-App::FuguWeb::Index            0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
-App::FuguWeb::Keys             0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
-App::FuguWeb::Manual           0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
-App::FuguWeb::Page             0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
-App::FuguWeb::Render           0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
-App::FuguWeb::Rotate           0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
-App::FuguWeb::Site             0.010000  S/SE/SENZILLA/App-FuguWeb-0.10.0.tar.gz
+App::FuguWeb                   0.010001  S/SE/SENZILLA/App-FuguWeb-0.10.1.tar.gz
+App::FuguWeb::Check            0.010001  S/SE/SENZILLA/App-FuguWeb-0.10.1.tar.gz
+App::FuguWeb::CLI              0.010001  S/SE/SENZILLA/App-FuguWeb-0.10.1.tar.gz
+App::FuguWeb::Config           0.010001  S/SE/SENZILLA/App-FuguWeb-0.10.1.tar.gz
+App::FuguWeb::Config::Group    0.010001  S/SE/SENZILLA/App-FuguWeb-0.10.1.tar.gz
+App::FuguWeb::Index            0.010001  S/SE/SENZILLA/App-FuguWeb-0.10.1.tar.gz
+App::FuguWeb::Keys             0.010001  S/SE/SENZILLA/App-FuguWeb-0.10.1.tar.gz
+App::FuguWeb::Manual           0.010001  S/SE/SENZILLA/App-FuguWeb-0.10.1.tar.gz
+App::FuguWeb::Page             0.010001  S/SE/SENZILLA/App-FuguWeb-0.10.1.tar.gz
+App::FuguWeb::Render           0.010001  S/SE/SENZILLA/App-FuguWeb-0.10.1.tar.gz
+App::FuguWeb::Rotate           0.010001  S/SE/SENZILLA/App-FuguWeb-0.10.1.tar.gz
+App::FuguWeb::Site             0.010001  S/SE/SENZILLA/App-FuguWeb-0.10.1.tar.gz
 App::FzfUtils                     0.004  P/PE/PERLANCAR/App-FzfUtils-0.004.tar.gz
 App::Gallery                   0.001001  M/MG/MGV/App-Gallery-0.001001.tar.gz
 App::Games::Keno                  undef  T/TY/TYUPYRCML/App-Games-Keno-1.222540.tar.gz
@@ -58706,11 +58706,13 @@ Database::Async::SQLite           0.001  T/TE/TEAM/Database-Async-SQLite-0.001.t
 Database::Async::StatementHandle  0.019  T/TE/TEAM/Database-Async-0.019.tar.gz
 Database::Async::Test             0.019  T/TE/TEAM/Database-Async-0.019.tar.gz
 Database::Async::Transaction      0.019  T/TE/TEAM/Database-Async-0.019.tar.gz
-Database::BI                      0.014  N/NH/NHORNE/Database-BI-0.014.0.tar.gz
-Database::BI::Calc                0.014  N/NH/NHORNE/Database-BI-0.014.0.tar.gz
-Database::BI::Controller::Dashboard 0.014  N/NH/NHORNE/Database-BI-0.014.0.tar.gz
-Database::BI::Model::DataSource   0.014  N/NH/NHORNE/Database-BI-0.014.0.tar.gz
-Database::BI::Model::Geocode      0.014  N/NH/NHORNE/Database-BI-0.014.0.tar.gz
+Database::BI                      0.015  N/NH/NHORNE/Database-BI-0.015.0.tar.gz
+Database::BI::Calc                0.015  N/NH/NHORNE/Database-BI-0.015.0.tar.gz
+Database::BI::Controller::Dashboard 0.015  N/NH/NHORNE/Database-BI-0.015.0.tar.gz
+Database::BI::Extract             0.015  N/NH/NHORNE/Database-BI-0.015.0.tar.gz
+Database::BI::Model::DataSource   0.015  N/NH/NHORNE/Database-BI-0.015.0.tar.gz
+Database::BI::Model::Geocode      0.015  N/NH/NHORNE/Database-BI-0.015.0.tar.gz
+Database::BI::Tutorial            0.015  N/NH/NHORNE/Database-BI-0.015.0.tar.gz
 Database::Cassandra::Client           1  L/LA/LASTMAC/Database-Cassandra-Client-1.tar.gz
 Database::DumpTruck                 1.2  L/LK/LKUNDRAK/Database-DumpTruck-1.2.tar.gz
 Database::Format::Text             1.03  D/DE/DEVDOS/Database-Format-Text-1.03.tar.gz
@@ -85221,26 +85223,26 @@ Geo::Coder::Canada::Response       0.01  J/JE/JETTRA/Geo-Coder-Canada-0.01.tar.g
 Geo::Coder::Cloudmade               0.7  F/FR/FRIFFIN/Geo-Coder-Cloudmade-0.7.tar.gz
 Geo::Coder::DAMS                   0.01  B/BO/BOKUTIN/Geo-Coder-DAMS-0.01.tar.gz
 Geo::Coder::DataScienceToolkit     0.04  N/NH/NHORNE/Geo-Coder-DataScienceToolkit-0.04.tar.gz
-Geo::Coder::Free                   0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::Allow            0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::Config           0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::DB::MaxMind::admin 0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::DB::MaxMind::admin1 0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::DB::MaxMind::admin2 0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::DB::MaxMind::cities 0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::DB::OpenAddr     0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::DB::openaddresses 0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::DB::vwf_log      0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::Display          0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::Display::index   0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::Display::meta_data 0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::Display::query   0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::Local            0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::MaxMind          0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::MissCache        0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::OpenAddresses    0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::Provenance       0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
-Geo::Coder::Free::Utils            0.48  N/NH/NHORNE/Geo-Coder-Free-0.48.tar.gz
+Geo::Coder::Free                   0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::Allow            0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::Config           0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::DB::MaxMind::admin 0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::DB::MaxMind::admin1 0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::DB::MaxMind::admin2 0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::DB::MaxMind::cities 0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::DB::OpenAddr     0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::DB::openaddresses 0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::DB::vwf_log      0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::Display          0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::Display::index   0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::Display::meta_data 0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::Display::query   0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::Local            0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::MaxMind          0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::MissCache        0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::OpenAddresses    0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::Provenance       0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free::Utils            0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
 Geo::Coder::Free::Validate         0.47  N/NH/NHORNE/Geo-Coder-Free-0.47.tar.gz
 Geo::Coder::GeoApify               0.03  N/NH/NHORNE/Geo-Coder-GeoApify-0.03.tar.gz
 Geo::Coder::GeocodeFarm          0.0500  D/DE/DEXTER/Geo-Coder-GeocodeFarm-0.0500.tar.gz
@@ -126990,7 +126992,7 @@ Map::Tube::Kolkatta::Line::L4      0.34  M/MA/MANWAR/Map-Tube-Kolkatta-0.34.tar.
 Map::Tube::Kolkatta::Line::L5      0.34  M/MA/MANWAR/Map-Tube-Kolkatta-0.34.tar.gz
 Map::Tube::Kolkatta::Line::L6      0.34  M/MA/MANWAR/Map-Tube-Kolkatta-0.34.tar.gz
 Map::Tube::KualaLumpur             0.07  S/SK/SKIM/Map-Tube-KualaLumpur-0.07.tar.gz
-Map::Tube::Leipzig                 0.03  M/MA/MANWAR/Map-Tube-Leipzig-v0.1.0.tar.gz
+Map::Tube::Leipzig               v1.0.0  M/MA/MANWAR/Map-Tube-Leipzig-v1.0.0.tar.gz
 Map::Tube::Leipzig::Line::S3       0.03  M/MA/MANWAR/Map-Tube-Leipzig-v0.1.0.tar.gz
 Map::Tube::Leipzig::Line::S7       0.03  M/MA/MANWAR/Map-Tube-Leipzig-v0.1.0.tar.gz
 Map::Tube::Line                  v5.1.0  M/MA/MANWAR/Map-Tube-v5.1.0.tar.gz
