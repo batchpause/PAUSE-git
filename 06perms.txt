@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669395
+Line-Count:  669396
 Written-By:  PAUSE version 1.005
-Date:        Wed, 21 Oct 2026 15:18:32 GMT
+Date:        Wed, 21 Oct 2026 18:30:19 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -323099,7 +323099,7 @@ IO::K8s::Api::Apps::V1beta2::StatefulSetStatus,JLMARTIN,c
 IO::K8s::Api::Apps::V1beta2::StatefulSetUpdateStrategy,GETTY,f
 IO::K8s::Api::Apps::V1beta2::StatefulSetUpdateStrategy,JLMARTIN,c
 IO::K8s::Api::Auditregistration::V1alpha1::AuditSinkList,GETTY,c
-IO::K8s::Api::Auditregistration::V1alpha1::AuditSinkList,JLMARTIN,c
+IO::K8s::Api::Auditregistration::V1alpha1::AuditSinkList,JLMARTIN,f
 IO::K8s::Api::Authentication::V1::BoundObjectReference,GETTY,c
 IO::K8s::Api::Authentication::V1::BoundObjectReference,JLMARTIN,f
 IO::K8s::Api::Authentication::V1::SelfSubjectReview,GETTY,c
@@ -323287,7 +323287,7 @@ IO::K8s::Api::Autoscaling::V2beta1::ResourceMetricSource,JLMARTIN,c
 IO::K8s::Api::Autoscaling::V2beta1::ResourceMetricStatus,GETTY,f
 IO::K8s::Api::Autoscaling::V2beta1::ResourceMetricStatus,JLMARTIN,c
 IO::K8s::Api::Autoscaling::V2beta2::HorizontalPodAutoscalerList,GETTY,c
-IO::K8s::Api::Autoscaling::V2beta2::HorizontalPodAutoscalerList,JLMARTIN,c
+IO::K8s::Api::Autoscaling::V2beta2::HorizontalPodAutoscalerList,JLMARTIN,f
 IO::K8s::Api::Batch::V1::CronJob,GETTY,c
 IO::K8s::Api::Batch::V1::CronJob,JLMARTIN,f
 IO::K8s::Api::Batch::V1::CronJobSpec,GETTY,c
@@ -323401,7 +323401,7 @@ IO::K8s::Api::Coordination::V1beta1::LeaseCandidate,JLMARTIN,f
 IO::K8s::Api::Coordination::V1beta1::LeaseCandidateSpec,GETTY,c
 IO::K8s::Api::Coordination::V1beta1::LeaseCandidateSpec,JLMARTIN,f
 IO::K8s::Api::Coordination::V1beta1::LeaseList,GETTY,c
-IO::K8s::Api::Coordination::V1beta1::LeaseList,JLMARTIN,c
+IO::K8s::Api::Coordination::V1beta1::LeaseList,JLMARTIN,f
 IO::K8s::Api::Core::V1::AWSElasticBlockStoreVolumeSource,GETTY,f
 IO::K8s::Api::Core::V1::AWSElasticBlockStoreVolumeSource,JLMARTIN,c
 IO::K8s::Api::Core::V1::Affinity,GETTY,f
@@ -324431,11 +324431,11 @@ IO::K8s::Api::Resource::V1alpha3::OpaqueDeviceConfiguration,JLMARTIN,f
 IO::K8s::Api::Resource::V1alpha3::PartitionTypeStatus,GETTY,c
 IO::K8s::Api::Resource::V1alpha3::PartitionTypeStatus,JLMARTIN,f
 IO::K8s::Api::Resource::V1alpha3::PodSchedulingContext,GETTY,c
-IO::K8s::Api::Resource::V1alpha3::PodSchedulingContext,JLMARTIN,c
+IO::K8s::Api::Resource::V1alpha3::PodSchedulingContext,JLMARTIN,f
 IO::K8s::Api::Resource::V1alpha3::PodSchedulingContextSpec,GETTY,c
-IO::K8s::Api::Resource::V1alpha3::PodSchedulingContextSpec,JLMARTIN,c
+IO::K8s::Api::Resource::V1alpha3::PodSchedulingContextSpec,JLMARTIN,f
 IO::K8s::Api::Resource::V1alpha3::PodSchedulingContextStatus,GETTY,c
-IO::K8s::Api::Resource::V1alpha3::PodSchedulingContextStatus,JLMARTIN,c
+IO::K8s::Api::Resource::V1alpha3::PodSchedulingContextStatus,JLMARTIN,f
 IO::K8s::Api::Resource::V1alpha3::PoolStatus,GETTY,c
 IO::K8s::Api::Resource::V1alpha3::PoolStatus,JLMARTIN,f
 IO::K8s::Api::Resource::V1alpha3::ResourceClaim,GETTY,c
@@ -324443,7 +324443,7 @@ IO::K8s::Api::Resource::V1alpha3::ResourceClaim,JLMARTIN,f
 IO::K8s::Api::Resource::V1alpha3::ResourceClaimConsumerReference,GETTY,c
 IO::K8s::Api::Resource::V1alpha3::ResourceClaimConsumerReference,JLMARTIN,f
 IO::K8s::Api::Resource::V1alpha3::ResourceClaimSchedulingStatus,GETTY,c
-IO::K8s::Api::Resource::V1alpha3::ResourceClaimSchedulingStatus,JLMARTIN,c
+IO::K8s::Api::Resource::V1alpha3::ResourceClaimSchedulingStatus,JLMARTIN,f
 IO::K8s::Api::Resource::V1alpha3::ResourceClaimSpec,GETTY,c
 IO::K8s::Api::Resource::V1alpha3::ResourceClaimSpec,JLMARTIN,f
 IO::K8s::Api::Resource::V1alpha3::ResourceClaimStatus,GETTY,c
@@ -324799,7 +324799,7 @@ IO::K8s::Api::Scheduling::V1beta1::PodGroupStatus,JLMARTIN,f
 IO::K8s::Api::Scheduling::V1beta1::PodGroupTemplate,GETTY,c
 IO::K8s::Api::Scheduling::V1beta1::PodGroupTemplate,JLMARTIN,f
 IO::K8s::Api::Scheduling::V1beta1::PriorityClassList,GETTY,c
-IO::K8s::Api::Scheduling::V1beta1::PriorityClassList,JLMARTIN,c
+IO::K8s::Api::Scheduling::V1beta1::PriorityClassList,JLMARTIN,f
 IO::K8s::Api::Scheduling::V1beta1::SingleCompositeDisruptionMode,GETTY,c
 IO::K8s::Api::Scheduling::V1beta1::SingleCompositeDisruptionMode,JLMARTIN,f
 IO::K8s::Api::Scheduling::V1beta1::SingleDisruptionMode,GETTY,c
@@ -324847,7 +324847,7 @@ IO::K8s::Api::Storage::V1::TokenRequest,JLMARTIN,f
 IO::K8s::Api::Storage::V1::VolumeAttachment,GETTY,c
 IO::K8s::Api::Storage::V1::VolumeAttachment,JLMARTIN,f
 IO::K8s::Api::Storage::V1::VolumeAttachmentList,GETTY,c
-IO::K8s::Api::Storage::V1::VolumeAttachmentList,JLMARTIN,c
+IO::K8s::Api::Storage::V1::VolumeAttachmentList,JLMARTIN,f
 IO::K8s::Api::Storage::V1::VolumeAttachmentSource,GETTY,c
 IO::K8s::Api::Storage::V1::VolumeAttachmentSource,JLMARTIN,f
 IO::K8s::Api::Storage::V1::VolumeAttachmentSpec,GETTY,c
@@ -325627,6 +325627,7 @@ IO::K8s::Cilium::V2alpha1::ServiceConfig,JLMARTIN,f
 IO::K8s::Cilium::V2alpha1::Telemetry,GETTY,c
 IO::K8s::Cilium::V2alpha1::Telemetry,JLMARTIN,f
 IO::K8s::Deprecated,GETTY,c
+IO::K8s::Deprecated,JLMARTIN,f
 IO::K8s::ExternalSecrets,GETTY,c
 IO::K8s::ExternalSecrets,JLMARTIN,f
 IO::K8s::ExternalSecrets::V1::AWSAuth,GETTY,c
