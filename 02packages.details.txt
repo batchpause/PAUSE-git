@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262174
-Last-Updated: Wed, 21 Oct 2026 18:54:47 GMT
+Line-Count:   262178
+Last-Updated: Wed, 21 Oct 2026 19:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -141986,6 +141986,10 @@ Net::ACME::X::OverloadBase        undef  F/FE/FELIPE/Net-ACME-0.17.tar.gz
 Net::ACME::X::Protocol            undef  F/FE/FELIPE/Net-ACME-0.17.tar.gz
 Net::ACME::X::UnexpectedResponse  undef  F/FE/FELIPE/Net-ACME-0.17.tar.gz
 Net::ACME::X::UnrecognizedKey     undef  F/FE/FELIPE/Net-ACME-0.17.tar.gz
+Net::ADB                           0.01  G/GD/GDT/Net-ADB-0.01.tar.gz
+Net::ADB::Device                   0.01  G/GD/GDT/Net-ADB-0.01.tar.gz
+Net::ADB::Shell::Result            0.01  G/GD/GDT/Net-ADB-0.01.tar.gz
+Net::ADB::Util                     0.01  G/GD/GDT/Net-ADB-0.01.tar.gz
 Net::Address::Ethernet            1.128  M/MT/MTHURN/Net-Address-Ethernet-1.129.tar.gz
 Net::Address::IP::Cipher            0.6  H/HU/HUGUEI/Net-Address-IP-Cipher-0.6.tar.gz
 Net::Address::IP::Local        0.001002  J/JM/JMEHNLE/net-address-ip-local/Net-Address-IP-Local-0.1.2.tar.gz
