@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262148
-Last-Updated: Wed, 21 Oct 2026 12:17:02 GMT
+Last-Updated: Wed, 21 Oct 2026 13:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -225379,7 +225379,7 @@ TAP::Formatter::TextMate            0.1  A/AN/ANDYA/TAP-Formatter-TextMate-0.1.t
 TAP::Formatter::TextMate::Session   0.1  A/AN/ANDYA/TAP-Formatter-TextMate-0.1.tar.gz
 TAP::Harness                       3.52  L/LE/LEONT/Test-Harness-3.52.tar.gz
 TAP::Harness::Archive              0.18  S/SC/SCHWIGON/TAP-Harness-Archive-0.18.tar.gz
-TAP::Harness::Archive::MultipleHarnesses 0.06  J/JK/JKEENAN/TAP-Harness-Multiple-0.07.tar.gz
+TAP::Harness::Archive::MultipleHarnesses 0.08  J/JK/JKEENAN/TAP-Harness-Multiple-0.08.tar.gz
 TAP::Harness::Async               0.001  T/TE/TEAM/TAP-Harness-Async-0.001.tar.gz
 TAP::Harness::BailOnFail           0.02  G/GR/GRAY/TAP-Harness-BailOnFail-0.02.tar.gz
 TAP::Harness::Env                  3.52  L/LE/LEONT/Test-Harness-3.52.tar.gz
@@ -225390,7 +225390,7 @@ TAP::Harness::Metrics          0.000004  M/ME/MEDIALPHA/App-Prove-Plugin-Metrics
 TAP::Harness::MultipleConfig      undef  T/TA/TAKAHITO/App-Prove-Plugin-MultipleConfig-0.02.tar.gz
 TAP::Harness::Remote               1.10  A/AL/ALEXMV/TAP-Harness-Remote-1.10.tar.gz
 TAP::Harness::Remote::EC2          1.00  A/AL/ALEXMV/TAP-Harness-Remote-EC2-1.00.tar.gz
-TAP::Harness::ReportByDescription  0.06  J/JK/JKEENAN/TAP-Harness-Multiple-0.07.tar.gz
+TAP::Harness::ReportByDescription  0.08  J/JK/JKEENAN/TAP-Harness-Multiple-0.08.tar.gz
 TAP::Harness::Restricted          0.004  D/DA/DAGOLDEN/TAP-Harness-Restricted-0.004.tar.gz
 TAP::Object                        3.52  L/LE/LEONT/Test-Harness-3.52.tar.gz
 TAP::Parser                        3.52  L/LE/LEONT/Test-Harness-3.52.tar.gz
