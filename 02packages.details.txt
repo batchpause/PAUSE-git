@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262178
-Last-Updated: Wed, 21 Oct 2026 20:17:02 GMT
+Last-Updated: Wed, 21 Oct 2026 20:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -143380,11 +143380,11 @@ Net::Async::Keycloak::Error::Network 0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.
 Net::Async::Keycloak::Error::Validation 0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
 Net::Async::Keycloak::OIDC        0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
 Net::Async::Keycloak::Role::HTTP  0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
-Net::Async::Kubernetes            0.010  G/GE/GETTY/Net-Async-Kubernetes-0.010.tar.gz
-Net::Async::Kubernetes::Controller 0.010  G/GE/GETTY/Net-Async-Kubernetes-0.010.tar.gz
-Net::Async::Kubernetes::PortForwardListener 0.010  G/GE/GETTY/Net-Async-Kubernetes-0.010.tar.gz
-Net::Async::Kubernetes::PortForwardSession 0.010  G/GE/GETTY/Net-Async-Kubernetes-0.010.tar.gz
-Net::Async::Kubernetes::Watcher   0.010  G/GE/GETTY/Net-Async-Kubernetes-0.010.tar.gz
+Net::Async::Kubernetes            0.011  G/GE/GETTY/Net-Async-Kubernetes-0.011.tar.gz
+Net::Async::Kubernetes::Controller 0.011  G/GE/GETTY/Net-Async-Kubernetes-0.011.tar.gz
+Net::Async::Kubernetes::PortForwardListener 0.011  G/GE/GETTY/Net-Async-Kubernetes-0.011.tar.gz
+Net::Async::Kubernetes::PortForwardSession 0.011  G/GE/GETTY/Net-Async-Kubernetes-0.011.tar.gz
+Net::Async::Kubernetes::Watcher   0.011  G/GE/GETTY/Net-Async-Kubernetes-0.011.tar.gz
 Net::Async::Matrix                 0.19  P/PE/PEVANS/Net-Async-Matrix-0.19.tar.gz
 Net::Async::Matrix::Room           0.19  P/PE/PEVANS/Net-Async-Matrix-0.19.tar.gz
 Net::Async::Matrix::Room::State    0.19  P/PE/PEVANS/Net-Async-Matrix-0.19.tar.gz
@@ -204388,20 +204388,20 @@ Rex::Fork::Manager              v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Fork::Task                 v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::FS::File                   v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Gearman                   0.032000  J/JF/JFRIED/Rex-Gearman-0.32.0.tar.gz
-Rex::GPU                          0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
-Rex::GPU::Detect                  0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
-Rex::GPU::Detect::Sysfs           0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
-Rex::GPU::NVIDIA                  0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
-Rex::GPU::NVIDIA::Requirement     0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
-Rex::GPU::NVIDIA::Setup           0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
-Rex::GPU::NVIDIA::Setup::Apt      0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
-Rex::GPU::NVIDIA::Setup::Debian   0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
-Rex::GPU::NVIDIA::Setup::RHEL     0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
-Rex::GPU::NVIDIA::Setup::Rpm      0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
-Rex::GPU::NVIDIA::Setup::SUSE     0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
-Rex::GPU::NVIDIA::Setup::Ubuntu   0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
-Rex::GPU::NVIDIA::Setup::UbuntuDrivers 0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
-Rex::GPU::NVIDIA::VGPU            0.004  G/GE/GETTY/Rex-GPU-0.004.tar.gz
+Rex::GPU                          0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU::Detect                  0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU::Detect::Sysfs           0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU::NVIDIA                  0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU::NVIDIA::Requirement     0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU::NVIDIA::Setup           0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU::NVIDIA::Setup::Apt      0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU::NVIDIA::Setup::Debian   0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU::NVIDIA::Setup::RHEL     0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU::NVIDIA::Setup::Rpm      0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU::NVIDIA::Setup::SUSE     0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU::NVIDIA::Setup::Ubuntu   0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU::NVIDIA::Setup::UbuntuDrivers 0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU::NVIDIA::VGPU            0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
 Rex::Group                      v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Group::Entry::Server       v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Group::Lookup::Command     v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
