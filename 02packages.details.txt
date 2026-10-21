@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262149
-Last-Updated: Wed, 21 Oct 2026 15:17:01 GMT
+Last-Updated: Wed, 21 Oct 2026 16:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4583,7 +4583,7 @@ Alien::Saxon                       0.01  E/ET/ETJ/Alien-Saxon-0.01.tar.gz
 Alien::scriptaculous           v1.8.0.3  G/GT/GTERMARS/Alien-scriptaculous-v1.8.0.3.tar.gz
 Alien::SDL                        1.446  F/FR/FROGGS/Alien-SDL-1.446.tar.gz
 Alien::SDL2                       0.002  K/KT/KTHAKORE/Alien-SDL2-0.002.tar.gz
-Alien::SDL3                     v3.4.21  S/SA/SANKO/Alien-SDL3-v3.4.21.tar.gz
+Alien::SDL3                     v3.4.22  S/SA/SANKO/Alien-SDL3-v3.4.22.tar.gz
 Alien::SDL3_image                  0.05  S/SA/SANKO/Alien-SDL3_image-0.05.tar.gz
 Alien::SDL3_ttf                    0.05  S/SA/SANKO/Alien-SDL3_ttf-0.05.tar.gz
 Alien::Selenium                    0.09  D/DO/DOMQ/Alien-Selenium-0.09.tar.gz
