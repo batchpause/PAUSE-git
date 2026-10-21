@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262148
-Last-Updated: Wed, 21 Oct 2026 07:54:33 GMT
+Last-Updated: Wed, 21 Oct 2026 08:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -227312,21 +227312,21 @@ Term::Chess::Bot                   0.03  L/LN/LNATION/Term-Chess-0.03.tar.gz
 Term::Chess::Error                 0.03  L/LN/LNATION/Term-Chess-0.03.tar.gz
 Term::Chess::Game                  0.03  L/LN/LNATION/Term-Chess-0.03.tar.gz
 Term::Chess::Watcher               0.03  L/LN/LNATION/Term-Chess-0.03.tar.gz
-Term::Choose                      1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
-Term::Choose::Constants           1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
-Term::Choose::LineFold            1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
-Term::Choose::LineFold::PP        1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
-Term::Choose::LineFold::PP::CharWidthAmbiguousWide 1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
-Term::Choose::LineFold::PP::CharWidthDefault 1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
+Term::Choose                      1.783  K/KU/KUERBIS/Term-Choose-1.783.tar.gz
+Term::Choose::Constants           1.783  K/KU/KUERBIS/Term-Choose-1.783.tar.gz
+Term::Choose::LineFold            1.783  K/KU/KUERBIS/Term-Choose-1.783.tar.gz
+Term::Choose::LineFold::PP        1.783  K/KU/KUERBIS/Term-Choose-1.783.tar.gz
+Term::Choose::LineFold::PP::CharWidthAmbiguousWide 1.783  K/KU/KUERBIS/Term-Choose-1.783.tar.gz
+Term::Choose::LineFold::PP::CharWidthDefault 1.783  K/KU/KUERBIS/Term-Choose-1.783.tar.gz
 Term::Choose::LineFold::XS        0.006  K/KU/KUERBIS/Term-Choose-LineFold-XS-0.006.tar.gz
-Term::Choose::Linux               1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
-Term::Choose::Opt::Mouse          1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
-Term::Choose::Opt::Search         1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
-Term::Choose::Opt::SkipItems      1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
-Term::Choose::Screen              1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
+Term::Choose::Linux               1.783  K/KU/KUERBIS/Term-Choose-1.783.tar.gz
+Term::Choose::Opt::Mouse          1.783  K/KU/KUERBIS/Term-Choose-1.783.tar.gz
+Term::Choose::Opt::Search         1.783  K/KU/KUERBIS/Term-Choose-1.783.tar.gz
+Term::Choose::Opt::SkipItems      1.783  K/KU/KUERBIS/Term-Choose-1.783.tar.gz
+Term::Choose::Screen              1.783  K/KU/KUERBIS/Term-Choose-1.783.tar.gz
 Term::Choose::Util                0.149  K/KU/KUERBIS/Term-Choose-Util-0.149.tar.gz
-Term::Choose::ValidateOptions     1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
-Term::Choose::Win32               1.782  K/KU/KUERBIS/Term-Choose-1.782.tar.gz
+Term::Choose::ValidateOptions     1.783  K/KU/KUERBIS/Term-Choose-1.783.tar.gz
+Term::Choose::Win32               1.783  K/KU/KUERBIS/Term-Choose-1.783.tar.gz
 Term::Chrome                       2.01  D/DO/DOLMEN/Term-Chrome-2.01.tar.gz
 Term::Clear                        0.01  D/DM/DMUEY/Term-Clear-0.01.tar.gz
 Term::CLI                      0.061001  S/SB/SBAKKER/Term-CLI-0.061001.tar.gz
