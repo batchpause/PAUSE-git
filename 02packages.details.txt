@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262148
-Last-Updated: Wed, 21 Oct 2026 13:54:44 GMT
+Line-Count:   262149
+Last-Updated: Wed, 21 Oct 2026 15:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -54941,8 +54941,8 @@ Data::Hexify                       1.00  J/JV/JV/Data-Hexify-1.00.tar.gz
 Data::Hierarchy                    0.34  C/CL/CLKAO/Data-Hierarchy-0.34.tar.gz
 Data::Hierarchy::Relative          0.34  C/CL/CLKAO/Data-Hierarchy-0.34.tar.gz
 Data::Hierarchy::Traverser         0.01  T/TI/TIGERPERL/Data-Hierarchy-Traverser-0.01.tar.gz
-Data::HierTimingWheel::Shared      0.04  E/EG/EGOR/Data-HierTimingWheel-Shared-0.04.tar.gz
-Data::Histogram::Shared            0.06  E/EG/EGOR/Data-Histogram-Shared-0.06.tar.gz
+Data::HierTimingWheel::Shared      0.05  E/EG/EGOR/Data-HierTimingWheel-Shared-0.05.tar.gz
+Data::Histogram::Shared            0.07  E/EG/EGOR/Data-Histogram-Shared-0.07.tar.gz
 Data::Hive                        1.015  R/RJ/RJBS/Data-Hive-1.015.tar.gz
 Data::Hive::PathPacker            1.015  R/RJ/RJBS/Data-Hive-1.015.tar.gz
 Data::Hive::PathPacker::Flexible  1.015  R/RJ/RJBS/Data-Hive-1.015.tar.gz
@@ -54991,7 +54991,7 @@ Data::HTML::Footer                 0.02  S/SK/SKIM/Data-HTML-Footer-0.02.tar.gz
 Data::HTML::TreeDumper           v0.0.4  T/TA/TAKEASH/Data-HTML-TreeDumper-v0.0.4.tar.gz
 Data::HTMLDumper                   0.08  P/PH/PHILCROW/Data-HTMLDumper-0.08.tar.gz
 Data::HTMLDumper::Output           0.01  P/PH/PHILCROW/Data-HTMLDumper-0.08.tar.gz
-Data::HyperLogLog::Shared          0.06  E/EG/EGOR/Data-HyperLogLog-Shared-0.06.tar.gz
+Data::HyperLogLog::Shared          0.07  E/EG/EGOR/Data-HyperLogLog-Shared-0.07.tar.gz
 Data::ICal                         0.24  B/BP/BPS/Data-ICal-0.24.tar.gz
 Data::ICal::DateTime               0.82  F/FG/FGLOCK/Data-ICal-DateTime-0.82.tar.gz
 Data::ICal::DAVAdapter             0.03  C/CO/CORION/Meetup-API-0.03.tar.gz
@@ -55446,7 +55446,7 @@ Data::Inspect                      0.05  O/OW/OWL/Data-Inspect-0.05.tar.gz
 Data::Integer                     0.007  R/RR/RRWO/Data-Integer-0.007.tar.gz
 Data::Interactive::Inspect         0.07  T/TL/TLINDEN/Data-Interactive-Inspect-0.07.tar.gz
 Data::Intern::Shared               0.07  E/EG/EGOR/Data-Intern-Shared-0.07.tar.gz
-Data::IntervalTree::Shared         0.04  E/EG/EGOR/Data-IntervalTree-Shared-0.04.tar.gz
+Data::IntervalTree::Shared         0.05  E/EG/EGOR/Data-IntervalTree-Shared-0.05.tar.gz
 Data::IO                         0.0006  F/FE/FERREIRA/Template-Process-0.0006.tar.gz
 Data::IPV4::Range::Parse           1.05  A/AK/AKALINUX/Data-IPV4-Range-Parse-1.05.tar.gz
 Data::ISO8583                      2.44  C/CA/CADE/Data-ISO8583-2.44.tar.gz
@@ -75044,6 +75044,7 @@ ex::lib                            0.90  M/MO/MONS/ex-lib-0.90.tar.gz
 ex::lib::zip                       0.04  N/NW/NWCLARK/ex-lib-zip-0.04.tar.gz
 ex::monkeypatched                  0.03  A/AR/ARC/ex-monkeypatched-0.03.tar.gz
 ex::newest                         0.02  R/RG/RGARCIA/ex-newest-0.02.tar.gz
+Ex::Op                             0.01  L/LN/LNATION/Ex-Op-0.01.tar.gz
 ex::override                        1.1  C/CW/CWEST/ex-override-1.1.tar.gz
 exact                              1.32  G/GR/GRYPHON/exact-1.32.tar.gz
 exact::class                       1.21  G/GR/GRYPHON/exact-class-1.21.tar.gz
@@ -85225,26 +85226,26 @@ Geo::Coder::Canada::Response       0.01  J/JE/JETTRA/Geo-Coder-Canada-0.01.tar.g
 Geo::Coder::Cloudmade               0.7  F/FR/FRIFFIN/Geo-Coder-Cloudmade-0.7.tar.gz
 Geo::Coder::DAMS                   0.01  B/BO/BOKUTIN/Geo-Coder-DAMS-0.01.tar.gz
 Geo::Coder::DataScienceToolkit     0.04  N/NH/NHORNE/Geo-Coder-DataScienceToolkit-0.04.tar.gz
-Geo::Coder::Free                   0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::Allow            0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::Config           0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::DB::MaxMind::admin 0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::DB::MaxMind::admin1 0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::DB::MaxMind::admin2 0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::DB::MaxMind::cities 0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::DB::OpenAddr     0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::DB::openaddresses 0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::DB::vwf_log      0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::Display          0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::Display::index   0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::Display::meta_data 0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::Display::query   0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::Local            0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::MaxMind          0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::MissCache        0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::OpenAddresses    0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::Provenance       0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
-Geo::Coder::Free::Utils            0.49  N/NH/NHORNE/Geo-Coder-Free-0.49.tar.gz
+Geo::Coder::Free                   0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::Allow            0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::Config           0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::DB::MaxMind::admin 0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::DB::MaxMind::admin1 0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::DB::MaxMind::admin2 0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::DB::MaxMind::cities 0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::DB::OpenAddr     0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::DB::openaddresses 0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::DB::vwf_log      0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::Display          0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::Display::index   0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::Display::meta_data 0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::Display::query   0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::Local            0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::MaxMind          0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::MissCache        0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::OpenAddresses    0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::Provenance       0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
+Geo::Coder::Free::Utils            0.50  N/NH/NHORNE/Geo-Coder-Free-0.50.tar.gz
 Geo::Coder::Free::Validate         0.47  N/NH/NHORNE/Geo-Coder-Free-0.47.tar.gz
 Geo::Coder::GeoApify               0.03  N/NH/NHORNE/Geo-Coder-GeoApify-0.03.tar.gz
 Geo::Coder::GeocodeFarm          0.0500  D/DE/DEXTER/Geo-Coder-GeocodeFarm-0.0500.tar.gz
