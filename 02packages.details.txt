@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262148
-Last-Updated: Wed, 21 Oct 2026 09:17:02 GMT
+Last-Updated: Wed, 21 Oct 2026 12:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -54721,8 +54721,8 @@ Data::Feed::Web::Content          undef  D/DM/DMAKI/Data-Feed-0.00015.tar.gz
 Data::Feed::Web::Enclosure        undef  D/DM/DMAKI/Data-Feed-0.00015.tar.gz
 Data::Feed::Web::Entry            undef  D/DM/DMAKI/Data-Feed-0.00015.tar.gz
 Data::Feed::Web::Feed             undef  D/DM/DMAKI/Data-Feed-0.00015.tar.gz
-Data::Fenwick2D::Shared            0.04  E/EG/EGOR/Data-Fenwick2D-Shared-0.04.tar.gz
-Data::Fenwick::Shared              0.05  E/EG/EGOR/Data-Fenwick-Shared-0.05.tar.gz
+Data::Fenwick2D::Shared            0.05  E/EG/EGOR/Data-Fenwick2D-Shared-0.05.tar.gz
+Data::Fenwick::Shared              0.06  E/EG/EGOR/Data-Fenwick-Shared-0.06.tar.gz
 Data::Fetch                        0.07  N/NH/NHORNE/Data-Fetch-0.07.tar.gz
 Data::FetchPath                    0.02  O/OV/OVID/Data-FetchPath-0.02.tar.gz
 Data::File::Map                    0.09  J/JH/JHALLOCK/Data-File-Map-0.09.tar.gz
@@ -54853,7 +54853,7 @@ Data::Gimei::Random               undef  Y/YO/YOUPONG/Data-Gimei-v0.5.0.tar.gz
 Data::Gimei::Word                 undef  Y/YO/YOUPONG/Data-Gimei-v0.5.0.tar.gz
 Data::Google::Visualization::DataSource 0.01  S/SA/SARGIE/Data-Google-Visualization-DataSource-0.01.tar.gz
 Data::Google::Visualization::DataTable 0.11  S/SA/SARGIE/Data-Google-Visualization-DataTable-0.11.tar.gz
-Data::Graph::Shared                0.08  E/EG/EGOR/Data-Graph-Shared-0.08.tar.gz
+Data::Graph::Shared                0.09  E/EG/EGOR/Data-Graph-Shared-0.09.tar.gz
 Data::Graph::Util                 0.007  P/PE/PERLANCAR/Data-Graph-Util-0.007.tar.gz
 Data::Grid                         0.07  D/DO/DORIAN/Data-Grid-0.07.tar.gz
 Data::Grid::Cell                   0.06  D/DO/DORIAN/Data-Grid-0.07.tar.gz
@@ -54931,7 +54931,7 @@ Data::HashMap::SI32                0.11  E/EG/EGOR/Data-HashMap-0.11.tar.gz
 Data::HashMap::SS                  0.11  E/EG/EGOR/Data-HashMap-0.11.tar.gz
 Data::HashType                     0.07  S/SK/SKIM/Data-HashType-0.07.tar.gz
 Data::Header::Fields               0.05  J/JK/JKUTEJ/Data-Header-Fields-0.05.tar.gz
-Data::Heap::Shared                 0.10  E/EG/EGOR/Data-Heap-Shared-0.10.tar.gz
+Data::Heap::Shared                 0.11  E/EG/EGOR/Data-Heap-Shared-0.11.tar.gz
 Data::HexConverter                 0.65  J/JK/JKSTILL/Data-HexConverter-0.65.tar.gz
 Data::HexDump                      0.04  N/NE/NEILB/Data-HexDump-0.04.tar.gz
 Data::HexDump::Range               0.13  N/NK/NKH/Data-HexDump-Range-0.13.72.tar.gz
