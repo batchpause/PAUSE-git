@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262149
-Last-Updated: Wed, 21 Oct 2026 16:29:02 GMT
+Last-Updated: Wed, 21 Oct 2026 16:54:39 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -133442,24 +133442,24 @@ MIME::Base32::XS                   1.02  L/LT/LTM/MIME-Base32-XS-1.02.tar.gz
 MIME::Base64                       3.16  C/CA/CAPOEIRAB/MIME-Base64-3.16.tar.gz
 MIME::Base64::Perl                 1.00  G/GA/GAAS/MIME-Base64-Perl-1.00.tar.gz
 MIME::Base64::URLSafe              0.01  K/KA/KAZUHO/MIME-Base64-URLSafe-0.01.tar.gz
-MIME::Body                        5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Body::File                  5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Body::InCore                5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Body::Scalar                5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
+MIME::Body                        5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Body::File                  5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Body::InCore                5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Body::Scalar                5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
 MIME::BodyMunger                  0.007  R/RJ/RJBS/MIME-BodyMunger-0.007.tar.gz
 MIME::Charset                   1.013.1  N/NE/NEZUMI/MIME-Charset-1.013.1.tar.gz
 MIME::Charset::_Compat         1.003001  N/NE/NEZUMI/MIME-Charset-1.011.3.tar.gz
 MIME::Charset::UTF                1.010  N/NE/NEZUMI/MIME-Charset-1.011.3.tar.gz
 MIME::DB                       1.052000  T/TD/TDRUGEON/MIME-DB-v1.52.0.tar.gz
-MIME::Decoder                     5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Decoder::Base64             5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Decoder::Binary             5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Decoder::BinHex             5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Decoder::Gzip64             5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Decoder::NBit               5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
+MIME::Decoder                     5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Decoder::Base64             5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Decoder::Binary             5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Decoder::BinHex             5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Decoder::Gzip64             5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Decoder::NBit               5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
 MIME::Decoder::PGP             1.001001001  J/JW/JWIED/Mail-IspMailGate-1.1013.tar.gz
-MIME::Decoder::QuotedPrint        5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Decoder::UU                 5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
+MIME::Decoder::QuotedPrint        5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Decoder::UU                 5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
 MIME::DecodeText                   0.01  V/VL/VLAD/MIME-DecodeText-0.01.tar.gz
 MIME::Detect                       0.12  C/CO/CORION/MIME-Detect-0.12.tar.gz
 MIME::Detect::Buffer               0.12  C/CO/CORION/MIME-Detect-0.12.tar.gz
@@ -133472,7 +133472,7 @@ MIME::EcoEncode::JP_B              0.95  M/MU/MURATAYA/MIME-EcoEncode-0.95.tar.g
 MIME::EcoEncode::JP_Q              0.95  M/MU/MURATAYA/MIME-EcoEncode-0.95.tar.gz
 MIME::EcoEncode::Param             0.95  M/MU/MURATAYA/MIME-EcoEncode-0.95.tar.gz
 MIME::EncWords                    1.015  N/NE/NEZUMI/MIME-EncWords-1.015.0.tar.gz
-MIME::Entity                      5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
+MIME::Entity                      5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
 MIME::Expander                     0.02  H/HW/HWAT/MIME-Expander-0.02.tar.gz
 MIME::Expander::Guess              0.02  H/HW/HWAT/MIME-Expander-0.02.tar.gz
 MIME::Expander::Guess::FileName    0.02  H/HW/HWAT/MIME-Expander-0.02.tar.gz
@@ -133488,11 +133488,11 @@ MIME::Fast                          1.6  M/MA/MAKLER/MIME-Fast-1.6.tar.gz
 MIME::Fast::Message                 1.6  M/MA/MAKLER/MIME-Fast-1.6.tar.gz
 MIME::Fast::MultiPart               1.6  M/MA/MAKLER/MIME-Fast-1.6.tar.gz
 MIME::Fast::Object                  1.6  M/MA/MAKLER/MIME-Fast-1.6.tar.gz
-MIME::Field::ContDisp             5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Field::ConTraEnc            5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Field::ContType             5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Field::ParamVal             5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Head                        5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
+MIME::Field::ContDisp             5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Field::ConTraEnc            5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Field::ContType             5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Field::ParamVal             5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Head                        5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
 MIME::Lite                        3.038  R/RJ/RJBS/MIME-Lite-3.038.tar.gz
 MIME::Lite::Generator              0.02  O/OL/OLEG/MIME-Lite-Generator-0.02.tar.gz
 MIME::Lite::HT::HTML               0.06  A/AS/ASB/MIME-Lite-HT-HTML-0.06.tar.gz
@@ -133509,28 +133509,28 @@ MIME::Lite::TT::Provider           0.02  H/HO/HORIUCHI/MIME-Lite-TT-0.02.tar.gz
 MIME::Mini                        1.002  R/RA/RAFORG/MIME-Mini-1.002.tar.gz
 MIME::Multipart::Parse::Ordered    0.03  J/JI/JIMI/MIME-Multipart-Parse-Ordered-0.03.tar.gz
 MIME::Multipart::ParseSimple       0.02  J/JI/JIMI/MIME-Multipart-ParseSimple-0.02.tar.gz
-MIME::Parser                      5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Parser::FileInto            undef  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Parser::Filer               undef  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Parser::FileUnder           undef  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
+MIME::Parser                      5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Parser::FileInto            undef  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Parser::Filer               undef  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Parser::FileUnder           undef  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
 MIME::Parser::InnerFile           5.428  D/DO/DONEILL/MIME-tools-5.428.tar.gz
-MIME::Parser::Reader              undef  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Parser::Results             undef  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
+MIME::Parser::Reader              undef  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Parser::Results             undef  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
 MIME::QuotedPrint                  3.16  C/CA/CAPOEIRAB/MIME-Base64-3.16.tar.gz
 MIME::QuotedPrint::Perl            1.00  G/GA/GAAS/MIME-Base64-Perl-1.00.tar.gz
 MIME::Signature                    0.22  F/FA/FANY/MIME-Signature-0.22.tar.gz
 MIME::Structure                    0.07  N/NK/NKUITSE/MIME-Structure-0.07.tar.gz
-MIME::Tools                       5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
+MIME::Tools                       5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
 MIME::ToolUtils                   5.428  D/DO/DONEILL/MIME-tools-5.428.tar.gz
 MIME::Type                         2.30  M/MA/MARKOV/MIME-Types-2.30.tar.gz
 MIME::Type::FileName                1.0  J/JH/JHIVER/MIME-Type-FileName-1.0.tar.gz
 MIME::Types                        2.30  M/MA/MARKOV/MIME-Types-2.30.tar.gz
 MIME::Visitor                     0.007  R/RJ/RJBS/MIME-BodyMunger-0.007.tar.gz
-MIME::WordDecoder                 undef  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::WordDecoder::ISO_8859       undef  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::WordDecoder::US_ASCII       undef  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::WordDecoder::UTF_8          undef  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
-MIME::Words                       5.519  D/DS/DSKOLL/MIME-tools-5.519.tar.gz
+MIME::WordDecoder                 undef  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::WordDecoder::ISO_8859       undef  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::WordDecoder::US_ASCII       undef  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::WordDecoder::UTF_8          undef  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
+MIME::Words                       5.520  D/DS/DSKOLL/MIME-tools-5.520.tar.gz
 Mindcal                            0.01  M/MS/MSCHILLI/Mindcal-0.01.tar.gz
 mine                           1.142121  D/DI/DIEDERICH/App-MultiModule-Tasks-SmartMerge-1.161240.tar.gz
 Minecraft::NBTReader                0.6  C/CA/CAVAC/Minecraft-NBTReader-0.6.tar.gz
