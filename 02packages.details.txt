@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262148
-Last-Updated: Wed, 21 Oct 2026 08:17:02 GMT
+Last-Updated: Wed, 21 Oct 2026 08:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -227743,8 +227743,8 @@ Term::Table::HashBase             0.028  E/EX/EXODIST/Term-Table-0.028.tar.gz
 Term::Table::LineBreak            0.028  E/EX/EXODIST/Term-Table-0.028.tar.gz
 Term::Table::Spacer               0.028  E/EX/EXODIST/Term-Table-0.028.tar.gz
 Term::Table::Util                 0.028  E/EX/EXODIST/Term-Table-0.028.tar.gz
-Term::TablePrint                  0.182  K/KU/KUERBIS/Term-TablePrint-0.182.tar.gz
-Term::TablePrint::ProgressBar     0.182  K/KU/KUERBIS/Term-TablePrint-0.182.tar.gz
+Term::TablePrint                  0.183  K/KU/KUERBIS/Term-TablePrint-0.183.tar.gz
+Term::TablePrint::ProgressBar     0.183  K/KU/KUERBIS/Term-TablePrint-0.183.tar.gz
 Term::Terminfo                     0.09  P/PE/PEVANS/Term-Terminfo-0.09.tar.gz
 Term::TermKey                      0.19  P/PE/PEVANS/Term-TermKey-0.19.tar.gz
 Term::TermKey::Async               0.08  P/PE/PEVANS/Term-TermKey-Async-0.08.tar.gz
