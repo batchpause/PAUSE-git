@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669392
+Line-Count:  669394
 Written-By:  PAUSE version 1.005
-Date:        Wed, 21 Oct 2026 00:56:07 GMT
+Date:        Wed, 21 Oct 2026 02:41:16 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -19658,6 +19658,7 @@ App::Netdisco::Util::PortAccessEntity,OLIVER,f
 App::Netdisco::Util::PortMAC,OLIVER,f
 App::Netdisco::Util::Python,OLIVER,f
 App::Netdisco::Util::SNMP,OLIVER,f
+App::Netdisco::Util::SNMPText,OLIVER,f
 App::Netdisco::Util::SanityCheck,OLIVER,f
 App::Netdisco::Util::SiteLocal,OLIVER,f
 App::Netdisco::Util::Snapshot,OLIVER,f
@@ -19755,6 +19756,7 @@ App::Netdisco::Worker::Plugin::Arpnip::Hooks,OLIVER,f
 App::Netdisco::Worker::Plugin::Arpnip::Nodes,OLIVER,f
 App::Netdisco::Worker::Plugin::Arpnip::Subnets,OLIVER,f
 App::Netdisco::Worker::Plugin::Arpwalk,OLIVER,f
+App::Netdisco::Worker::Plugin::CheckEncoding,OLIVER,f
 App::Netdisco::Worker::Plugin::CheckSiteLocal,OLIVER,f
 App::Netdisco::Worker::Plugin::Contact,OLIVER,f
 App::Netdisco::Worker::Plugin::Delete,OLIVER,f
