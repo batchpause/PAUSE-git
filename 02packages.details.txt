@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262178
-Last-Updated: Wed, 21 Oct 2026 22:29:02 GMT
+Line-Count:   262179
+Last-Updated: Wed, 21 Oct 2026 22:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -58528,14 +58528,15 @@ Data::UNLreport                    1.07  J/JA/JASALOMON/Data-UNLreport-1.07.tar.
 Data::UNLreport::_util             1.07  J/JA/JASALOMON/Data-UNLreport-1.07.tar.gz
 Data::UNLreport::Line              1.07  J/JA/JASALOMON/Data-UNLreport-1.07.tar.gz
 Data::URIEncode                    0.11  R/RH/RHANDOM/Data-URIEncode-0.11.tar.gz
-Data::URIID                     v0.25.0  L/LI/LION/Data-URIID-v0.25.tar.gz
-Data::URIID::Barcode            v0.25.0  L/LI/LION/Data-URIID-v0.25.tar.gz
-Data::URIID::Base               v0.25.0  L/LI/LION/Data-URIID-v0.25.tar.gz
-Data::URIID::Colour             v0.25.0  L/LI/LION/Data-URIID-v0.25.tar.gz
-Data::URIID::Digest             v0.25.0  L/LI/LION/Data-URIID-v0.25.tar.gz
+Data::URIID                     v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
+Data::URIID::Barcode            v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
+Data::URIID::Base               v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
+Data::URIID::Colour             v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
+Data::URIID::Digest             v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
 Data::URIID::Future              v0.5.0  L/LI/LION/Data-URIID-v0.05.tar.gz
-Data::URIID::Result             v0.25.0  L/LI/LION/Data-URIID-v0.25.tar.gz
-Data::URIID::Service            v0.25.0  L/LI/LION/Data-URIID-v0.25.tar.gz
+Data::URIID::Request            v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
+Data::URIID::Result             v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
+Data::URIID::Service            v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
 Data::Util                         0.67  S/SY/SYOHEX/Data-Util-0.67.tar.gz
 Data::Util::Error                 undef  S/SY/SYOHEX/Data-Util-0.67.tar.gz
 Data::Util::PurePerl              undef  S/SY/SYOHEX/Data-Util-0.67.tar.gz
@@ -204579,18 +204580,18 @@ Rex::PkgConf                    v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::PkgConf::Base              v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::PkgConf::Debian            v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Profiler                   v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
-Rex::Rancher                      0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
-Rex::Rancher::Agent               0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
-Rex::Rancher::Checksum            0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
-Rex::Rancher::Cilium              0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
-Rex::Rancher::Distribution        0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
-Rex::Rancher::Distribution::K3s   0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
-Rex::Rancher::Distribution::RKE2  0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
-Rex::Rancher::K8s                 0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
-Rex::Rancher::Node                0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
-Rex::Rancher::Options             0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
-Rex::Rancher::Server              0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
-Rex::Rancher::Uninstall           0.003  G/GE/GETTY/Rex-Rancher-0.003.tar.gz
+Rex::Rancher                      0.004  G/GE/GETTY/Rex-Rancher-0.004.tar.gz
+Rex::Rancher::Agent               0.004  G/GE/GETTY/Rex-Rancher-0.004.tar.gz
+Rex::Rancher::Checksum            0.004  G/GE/GETTY/Rex-Rancher-0.004.tar.gz
+Rex::Rancher::Cilium              0.004  G/GE/GETTY/Rex-Rancher-0.004.tar.gz
+Rex::Rancher::Distribution        0.004  G/GE/GETTY/Rex-Rancher-0.004.tar.gz
+Rex::Rancher::Distribution::K3s   0.004  G/GE/GETTY/Rex-Rancher-0.004.tar.gz
+Rex::Rancher::Distribution::RKE2  0.004  G/GE/GETTY/Rex-Rancher-0.004.tar.gz
+Rex::Rancher::K8s                 0.004  G/GE/GETTY/Rex-Rancher-0.004.tar.gz
+Rex::Rancher::Node                0.004  G/GE/GETTY/Rex-Rancher-0.004.tar.gz
+Rex::Rancher::Options             0.004  G/GE/GETTY/Rex-Rancher-0.004.tar.gz
+Rex::Rancher::Server              0.004  G/GE/GETTY/Rex-Rancher-0.004.tar.gz
+Rex::Rancher::Uninstall           0.004  G/GE/GETTY/Rex-Rancher-0.004.tar.gz
 Rex::Report                     v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Report::Base               v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Report::YAML               v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
