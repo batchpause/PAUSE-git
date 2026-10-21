@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262179
-Last-Updated: Wed, 21 Oct 2026 22:41:02 GMT
+Last-Updated: Wed, 21 Oct 2026 23:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -56606,7 +56606,7 @@ Data::Password::zxcvbn::RankedDictionaries::English undef  D/DA/DAKKAR/Data-Pass
 Data::Password::zxcvbn::RankedDictionaries::French undef  D/DA/DAKKAR/Data-Password-zxcvbn-French-1.0.2.tar.gz
 Data::Password::zxcvbn::RankedDictionaries::German undef  D/DA/DAKKAR/Data-Password-zxcvbn-German-1.0.2.tar.gz
 Data::Password::zxcvbn::TimeEstimate 1.001003  D/DA/DAKKAR/Data-Password-zxcvbn-1.1.3.tar.gz
-Data::Path::XS                     0.03  E/EG/EGOR/Data-Path-XS-0.03.tar.gz
+Data::Path::XS                     0.04  E/EG/EGOR/Data-Path-XS-0.04.tar.gz
 Data::PathSimple               2.000001  A/AL/ALFIE/Data-PathSimple-v2.0.1.tar.gz
 Data::PatternCompare               0.04  C/CO/CONO/Data-PatternCompare-0.04.tar.gz
 Data::PatternCompare::Any          0.04  C/CO/CONO/Data-PatternCompare-0.04.tar.gz
@@ -56615,8 +56615,8 @@ Data::PcAxis                   0.000007  F/FO/FOD/Data-PcAxis-0.0.7.tar.gz
 Data::Peek                         0.54  H/HM/HMBRAND/Data-Peek-0.54.tgz
 Data::Pensieve                     0.03  A/AQ/AQUILINA/Data-Pensieve-0.03a.tar.gz
 Data::Pensieve::Revision          undef  A/AQ/AQUILINA/Data-Pensieve-0.03a.tar.gz
-Data::PerfectHash::Shared          0.04  E/EG/EGOR/Data-PerfectHash-Shared-0.04.tar.gz
-Data::PerfectHash::Shared::Builder 0.04  E/EG/EGOR/Data-PerfectHash-Shared-0.04.tar.gz
+Data::PerfectHash::Shared          0.05  E/EG/EGOR/Data-PerfectHash-Shared-0.05.tar.gz
+Data::PerfectHash::Shared::Builder 0.05  E/EG/EGOR/Data-PerfectHash-Shared-0.05.tar.gz
 Data::Perl                     0.002011  T/TO/TOBYINK/Data-Perl-0.002011.tar.gz
 Data::Perl::Bool               0.002011  T/TO/TOBYINK/Data-Perl-0.002011.tar.gz
 Data::Perl::Bool::MooseLike    0.001009  T/TO/TOBYINK/MooX-HandlesVia-0.001009.tar.gz
@@ -56735,8 +56735,8 @@ Data::Pokemon::Go::Skill          undef  W/WO/WORTHMINE/Data-Pokemon-Go-0.14.tar
 Data::Polipo                       0.02  T/TO/TORU/Data-Polipo-0.02.tar.gz
 Data::Polymorph                    0.01  L/LI/LIEUTAR/Data-Polymorph-0.01.tar.gz
 Data::Pond                        0.006  D/DB/DBOOK/Data-Pond-0.006.tar.gz
-Data::Pool::Shared                 0.10  E/EG/EGOR/Data-Pool-Shared-0.10.tar.gz
-Data::Pool::Shared::Guard          0.10  E/EG/EGOR/Data-Pool-Shared-0.10.tar.gz
+Data::Pool::Shared                 0.11  E/EG/EGOR/Data-Pool-Shared-0.11.tar.gz
+Data::Pool::Shared::Guard          0.11  E/EG/EGOR/Data-Pool-Shared-0.11.tar.gz
 Data::Power::FaultDetectorBase     0.01  P/PY/PYH/Data-Power-FaultDetectorBase-0.01.tgz
 Data::Power::Inspection            0.07  P/PY/PYH/Data-Power-Inspection-0.07.tgz
 Data::PowerSet                     0.05  D/DL/DLAND/Data-PowerSet-0.05.tar.gz
@@ -56808,11 +56808,11 @@ Data::Properties                   1.07  J/JV/JV/Data-Properties-1.07.tar.gz
 Data::Properties::JSON            0.004  J/JO/JOHND/Data-Properties-JSON-0.004.tar.gz
 Data::Properties::YAML             0.04  J/JO/JOHND/Data-Properties-YAML-0.04.tar.gz
 Data::PropertyList             1998.1217  E/EV/EVO/Data-PropertyList-1998.1217.tar.gz
-Data::PubSub::Shared               0.11  E/EG/EGOR/Data-PubSub-Shared-0.11.tar.gz
-Data::PubSub::Shared::Int          0.11  E/EG/EGOR/Data-PubSub-Shared-0.11.tar.gz
-Data::PubSub::Shared::Int16        0.11  E/EG/EGOR/Data-PubSub-Shared-0.11.tar.gz
-Data::PubSub::Shared::Int32        0.11  E/EG/EGOR/Data-PubSub-Shared-0.11.tar.gz
-Data::PubSub::Shared::Str          0.11  E/EG/EGOR/Data-PubSub-Shared-0.11.tar.gz
+Data::PubSub::Shared               0.12  E/EG/EGOR/Data-PubSub-Shared-0.12.tar.gz
+Data::PubSub::Shared::Int          0.12  E/EG/EGOR/Data-PubSub-Shared-0.12.tar.gz
+Data::PubSub::Shared::Int16        0.12  E/EG/EGOR/Data-PubSub-Shared-0.12.tar.gz
+Data::PubSub::Shared::Int32        0.12  E/EG/EGOR/Data-PubSub-Shared-0.12.tar.gz
+Data::PubSub::Shared::Str          0.12  E/EG/EGOR/Data-PubSub-Shared-0.12.tar.gz
 Data::Pulp                         0.01  R/RK/RKRIMEN/Data-Pulp-0.01.tar.gz
 Data::Pulp::Carp                  undef  R/RK/RKRIMEN/Data-Pulp-0.01.tar.gz
 Data::Pulp::Pulper                undef  R/RK/RKRIMEN/Data-Pulp-0.01.tar.gz
