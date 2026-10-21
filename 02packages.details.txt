@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262146
-Last-Updated: Wed, 21 Oct 2026 00:54:40 GMT
+Last-Updated: Wed, 21 Oct 2026 01:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -77876,10 +77876,10 @@ File::SimpleQuery                  0.01  B/BT/BTP/File-SimpleQuery-0.01.tar.gz
 File::Sip                         undef  S/SU/SUKRIA/File-Sip-0.003.tar.gz
 File::Size                         0.06  O/OF/OFER/File-Size-0.06.tar.gz
 File::Slurp                     9999.32  C/CA/CAPOEIRAB/File-Slurp-9999.32.tar.gz
-File::Slurp::Remote                0.47  N/NH/NHORNE/File-Slurp-Remote-0.47.tar.gz
-File::Slurp::Remote::BrokenDNS     0.47  N/NH/NHORNE/File-Slurp-Remote-0.47.tar.gz
-File::Slurp::Remote::CanonicalHostnames undef  N/NH/NHORNE/File-Slurp-Remote-0.47.tar.gz
-File::Slurp::Remote::SmartOpen     0.47  N/NH/NHORNE/File-Slurp-Remote-0.47.tar.gz
+File::Slurp::Remote                0.48  N/NH/NHORNE/File-Slurp-Remote-0.48.tar.gz
+File::Slurp::Remote::BrokenDNS     0.48  N/NH/NHORNE/File-Slurp-Remote-0.48.tar.gz
+File::Slurp::Remote::CanonicalHostnames 0.48  N/NH/NHORNE/File-Slurp-Remote-0.48.tar.gz
+File::Slurp::Remote::SmartOpen     0.48  N/NH/NHORNE/File-Slurp-Remote-0.48.tar.gz
 File::Slurp::Tiny                 0.004  L/LE/LEONT/File-Slurp-Tiny-0.004.tar.gz
 File::Slurp::Tree                  1.24  R/RC/RCLAMP/File-Slurp-Tree-1.24.tar.gz
 File::Slurp::WithinPolicy         1.004  B/BB/BBC/File-Policy-1.005.tar.gz
@@ -233781,7 +233781,7 @@ Tie::FS                        0.001000  D/DE/DEVEN/Tie-FS-0.1.0.tar.gz
 Tie::FTP                           0.02  I/IV/IVORW/Tie-FTP-0.02.tar.gz
 Tie::Func                          1.10  J/JO/JONASBN/Tie-Tools-1.10.tar.gz
 Tie::Function                      0.02  D/DA/DAVIDNICO/handy_tied_functions/Tie-Function-0.02.tar.gz
-Tie::Function::Examples            0.47  N/NH/NHORNE/File-Slurp-Remote-0.47.tar.gz
+Tie::Function::Examples            0.48  N/NH/NHORNE/File-Slurp-Remote-0.48.tar.gz
 Tie::GHash                         0.12  L/LB/LBROCARD/Tie-GHash-0.12.tar.gz
 Tie::Google                        0.03  D/DA/DARREN/Tie-Google-0.03.tar.gz
 Tie::Google::Sheets                0.02  P/PL/PLICEASE/Tie-Google-Sheets-0.02.tar.gz
