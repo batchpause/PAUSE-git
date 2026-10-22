@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262399
-Last-Updated: Thu, 22 Oct 2026 17:17:02 GMT
+Last-Updated: Thu, 22 Oct 2026 17:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -227238,7 +227238,7 @@ Template::Service                 3.106  T/TO/TODDR/Template-Toolkit-3.106.tar.g
 Template::Service::Apache          1.04  A/AB/ABW/Apache-Template-0.09.tar.gz
 Template::ShowStartStop        1.000001  X/XE/XENO/Template-ShowStartStop-1.0.1.tar.gz
 Template::Simple                   0.06  U/UR/URI/Template-Simple-0.06.tar.gz
-Template::Sluz                 0.009006  B/BA/BAKERSCOT/Template-Sluz-v0.9.6.tar.gz
+Template::Sluz                 0.009008  B/BA/BAKERSCOT/Template-Sluz-v0.9.8.tar.gz
 Template::Stash                   3.106  T/TO/TODDR/Template-Toolkit-3.106.tar.gz
 Template::Stash::AutoEscape        0.03  M/MA/MALA/Template-Stash-AutoEscape-0.03.tar.gz
 Template::Stash::AutoEscape::Escaped::Base undef  M/MA/MALA/Template-Stash-AutoEscape-0.03.tar.gz
