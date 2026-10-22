@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262408
-Last-Updated: Thu, 22 Oct 2026 22:54:30 GMT
+Last-Updated: Thu, 22 Oct 2026 23:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -74730,8 +74730,8 @@ EV::Cron                       0.123600  L/LO/LOSYME/EV-Cron-0.123600.tar.gz
 EV::Embed                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Etcd                           0.11  E/EG/EGOR/EV-Etcd-0.11.tar.gz
 EV::Fork                          undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
-EV::Future                         0.07  E/EG/EGOR/EV-Future-0.07.tar.gz
-EV::Future::Handle                 0.07  E/EG/EGOR/EV-Future-0.07.tar.gz
+EV::Future                         0.08  E/EG/EGOR/EV-Future-0.08.tar.gz
+EV::Future::Handle                 0.08  E/EG/EGOR/EV-Future-0.08.tar.gz
 EV::Gearman                        0.03  E/EG/EGOR/EV-Gearman-0.03.tar.gz
 EV::Gearman::Job                   0.03  E/EG/EGOR/EV-Gearman-0.03.tar.gz
 EV::Glib                           2.01  M/ML/MLEHMANN/EV-Glib-2.01.tar.gz
@@ -205680,7 +205680,7 @@ Router::PathInfo::Static          undef  C/CC/CCCP/Router-PathInfo-0.05.tar.gz
 Router::Pygmy                      0.05  D/DA/DANIELR/Router-Pygmy-0.05.tar.gz
 Router::Pygmy::Route               0.05  D/DA/DANIELR/Router-Pygmy-0.05.tar.gz
 Router::R3                     0.011001  C/CI/CINDY/Router-R3-0.011001.tar.gz
-Router::Ragel                      0.05  E/EG/EGOR/Router-Ragel-0.05.tar.gz
+Router::Ragel                      0.06  E/EG/EGOR/Router-Ragel-0.06.tar.gz
 Router::Resource                   0.22  A/AR/ARISTOTLE/Router-Resource-0.22.tar.gz
 Router::Simple                     0.17  T/TO/TOKUHIROM/Router-Simple-0.17.tar.gz
 Router::Simple::Declare           undef  T/TO/TOKUHIROM/Router-Simple-0.17.tar.gz
@@ -227694,7 +227694,7 @@ Term::GDBUI                        0.84  B/BR/BRONSON/GDBUI-0.84.tar.gz
 Term::GentooFunctions            1.3700  J/JE/JETTERO/Term-GentooFunctions-1.3700.tar.gz
 Term::Getch                        0.20  J/JB/JBRYAN/Term-Getch-0.20.zip
 Term::GetKey                          1  B/BA/BARRYP/Term-GetKey/LibTerm-GetKey-1.02.tar.gz
-Term::Ghostty                      0.01  E/EG/EGOR/Term-Ghostty-0.01.tar.gz
+Term::Ghostty                      0.02  E/EG/EGOR/Term-Ghostty-0.02.tar.gz
 Term::Gnuplot                  0.90380906  I/IL/ILYAZ/modules/Term-Gnuplot-0.90380906.zip
 Term::GnuScreen                    0.06  A/AC/ACRUSSELL/Term-GnuScreen-0.06.tar.gz
 Term::GnuScreen::WindowArrayLike   0.01  T/TO/TOKUBASS/Term-GnuScreen-WindowArrayLike-0.01.tar.gz
@@ -231739,7 +231739,7 @@ Text::EtText::Lists               undef  J/JM/JMASON/Text-EtText-2.2.tar.gz
 Text::Extract::MaketextCallPhrases 0.94  D/DM/DMUEY/Text-Extract-MaketextCallPhrases-0.94.tar.gz
 Text::Extract::Word                0.02  S/SN/SNKWATT/Text-Extract-Word-0.04.tar.gz
 Text::ExtractWords                 0.08  H/HD/HDIAS/Text-ExtractWords-0.08.tar.gz
-Text::Fab                          0.06  I/IL/ILYAZ/modules/Text-Fab-0.06.tar.gz
+Text::Fab                        0.0601  I/IL/ILYAZ/modules/Text-Fab-0.0601.tar.gz
 Text::FakeXML                      0.02  J/JV/JV/Text-FakeXML-0.02.tar.gz
 Text::FastTemplate                 0.95  B/BO/BOZZIO/Text-FastTemplate-0.95.tar.gz
 Text::FIGlet                   2.019004  J/JP/JPIERCE/Text-FIGlet-2.19.4.tgz
@@ -232650,7 +232650,7 @@ Text::Statistics::Devanagari       0.04  F/FE/FERNANDES/Text-Statistics-Devanaga
 Text::Statistics::GreekAndCoptic   0.05  F/FE/FERNANDES/Text-Statistics-GreekAndCoptic-0.05.tar.gz
 Text::Statistics::Latin            0.06  F/FE/FERNANDES/Text-Statistics-Latin-0.06.tar.gz
 Text::StemTagPOS                   0.61  K/KU/KUBINA/Text-StemTagPOS-0.61.tar.gz
-Text::Stencil                      0.03  E/EG/EGOR/Text-Stencil-0.03.tar.gz
+Text::Stencil                      0.04  E/EG/EGOR/Text-Stencil-0.04.tar.gz
 Text::StripAccents                 0.11  C/CC/CCOLBOURN/Text-StripAccents/Text-StripAccents-0.11.tar.gz
 Text::Striphigh                    0.02  J/JP/JPC/Text-Striphigh-0.02.tar.gz
 Text::Stripper                     1.16  B/BE/BERA/Text/Text-Stripper-1.16.tar.gz
@@ -258817,7 +258817,7 @@ XML::PPMConfig::REPOSITORY         0.01  M/MU/MURRAY/PPM-2.1.3.tar.gz
 XML::Printer::ESCPOS               0.06  D/DS/DSONNTAG/XML-Printer-ESCPOS-0.06.tar.gz
 XML::Printer::ESCPOS::Debug        0.06  D/DS/DSONNTAG/XML-Printer-ESCPOS-0.06.tar.gz
 XML::Printer::ESCPOS::Tags         0.06  D/DS/DSONNTAG/XML-Printer-ESCPOS-0.06.tar.gz
-XML::PugiXML                       0.09  E/EG/EGOR/XML-PugiXML-0.09.tar.gz
+XML::PugiXML                       0.10  E/EG/EGOR/XML-PugiXML-0.10.tar.gz
 XML::PYX                           0.07  M/MS/MSERGEANT/XML-PYX-0.07.tar.gz
 XML::PYX::Parser                   0.07  M/MS/MSERGEANT/XML-PYX-0.07.tar.gz
 XML::PYX::Parser::ToCSF            0.07  M/MS/MSERGEANT/XML-PYX-0.07.tar.gz
