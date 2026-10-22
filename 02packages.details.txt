@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262371
-Last-Updated: Thu, 22 Oct 2026 11:41:02 GMT
+Line-Count:   262372
+Last-Updated: Thu, 22 Oct 2026 12:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -57865,7 +57865,7 @@ Data::SplitSerializer              0.91  B/BB/BBYRD/Data-SplitSerializer-0.91.ta
 Data::SpreadPagination         0.001002  K/KN/KNEW/Data-SpreadPagination-0.1.2.tar.gz
 Data::SSHPubkey                    1.00  J/JM/JMATES/Data-SSHPubkey-1.00.tar.gz
 Data::Stack                        0.01  G/GP/GPHAT/Data-Stack-0.01.tar.gz
-Data::Stack::Shared                0.09  E/EG/EGOR/Data-Stack-Shared-0.09.tar.gz
+Data::Stack::Shared                0.10  E/EG/EGOR/Data-Stack-Shared-0.10.tar.gz
 Data::StackedHash                  0.99  R/RM/RMURRI/Data-StackedHash-0.99.tar.gz
 Data::StackedMap                   0.03  C/CL/CLAESJAC/Data-StackedMap-0.03.tar.gz
 Data::Stacker                      1.03  C/CA/CADE/Data-Stacker-1.03.tar.gz
@@ -57946,15 +57946,15 @@ Data::STUID::Server                   0  D/DM/DMAKI/Data-STUID-0.01.tar.gz
 Data::Swap                         0.08  X/XM/XMATH/Data-Swap-0.08.tar.gz
 Data::Sync                         0.08  C/CC/CCOLBOURN/Data-Sync/Data-Sync-0.08.tar.gz
 Data::Sync::Advanced              undef  C/CC/CCOLBOURN/Data-Sync/Data-Sync-0.08.tar.gz
-Data::Sync::Shared                 0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
-Data::Sync::Shared::Barrier        0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
-Data::Sync::Shared::Condvar        0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
-Data::Sync::Shared::Condvar::Guard 0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
-Data::Sync::Shared::Once           0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
-Data::Sync::Shared::RWLock         0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
-Data::Sync::Shared::RWLock::Guard  0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
-Data::Sync::Shared::Semaphore      0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
-Data::Sync::Shared::Semaphore::Guard 0.10  E/EG/EGOR/Data-Sync-Shared-0.10.tar.gz
+Data::Sync::Shared                 0.11  E/EG/EGOR/Data-Sync-Shared-0.11.tar.gz
+Data::Sync::Shared::Barrier        0.11  E/EG/EGOR/Data-Sync-Shared-0.11.tar.gz
+Data::Sync::Shared::Condvar        0.11  E/EG/EGOR/Data-Sync-Shared-0.11.tar.gz
+Data::Sync::Shared::Condvar::Guard 0.11  E/EG/EGOR/Data-Sync-Shared-0.11.tar.gz
+Data::Sync::Shared::Once           0.11  E/EG/EGOR/Data-Sync-Shared-0.11.tar.gz
+Data::Sync::Shared::RWLock         0.11  E/EG/EGOR/Data-Sync-Shared-0.11.tar.gz
+Data::Sync::Shared::RWLock::Guard  0.11  E/EG/EGOR/Data-Sync-Shared-0.11.tar.gz
+Data::Sync::Shared::Semaphore      0.11  E/EG/EGOR/Data-Sync-Shared-0.11.tar.gz
+Data::Sync::Shared::Semaphore::Guard 0.11  E/EG/EGOR/Data-Sync-Shared-0.11.tar.gz
 Data::Tab                          0.02  M/MI/MICHAEL/Data-Tab-0.02.tar.gz
 Data::Tab::db                      0.02  M/MI/MICHAEL/Data-Tab-0.02.tar.gz
 Data::Table                        1.78  E/EZ/EZDB/Data-Table-1.78.tar.gz
@@ -58002,23 +58002,24 @@ Data::Tabulate                     0.09  R/RE/RENEEB/Data-Tabulate-0.09.tar.gz
 Data::Tabulate::Plugin::ASCIITable 0.04  R/RE/RENEEB/Data-Tabulate-Plugin-ASCIITable-0.04.tar.gz
 Data::Tabulate::Plugin::HTMLTable  0.06  R/RE/RENEEB/Data-Tabulate-Plugin-HTMLTable-0.06.tar.gz
 Data::Tabulator                    0.03  R/RK/RKRIMEN/Data-Tabulator-0.03.tar.gz
-Data::TagDB                     v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::Cache              v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::Cloudlet           v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::Exporter           v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::Factory            v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::Interface::Includeable v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::Interface::Plugin  v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::Iterator           v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::Link               v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::LinkIterator       v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::Metadata           v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::Migration          v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::MultiIterator      v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::Relation           v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::Tag                v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::WeakBaseObject     v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
-Data::TagDB::WellKnown          v0.14.0  L/LI/LION/Data-TagDB-v0.14.tar.gz
+Data::TagDB                     v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Base               v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Cache              v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Cloudlet           v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Exporter           v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Factory            v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Interface::Includeable v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Interface::Plugin  v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Iterator           v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Link               v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::LinkIterator       v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Metadata           v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Migration          v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::MultiIterator      v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Relation           v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Tag                v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::WeakBaseObject     v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::WellKnown          v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
 Data::TagHive                     0.005  R/RJ/RJBS/Data-TagHive-0.005.tar.gz
 Data::TagMap                     v0.3.0  L/LI/LION/Data-TagMap-v0.03.tar.gz
 Data::Taxi                         0.96  M/MI/MIKO/Data-Taxi-0.96.tar.gz
@@ -58068,7 +58069,7 @@ Data::Timeline::Formatter::HTML 1.100860  M/MA/MARCEL/Data-Timeline-1.100860.tar
 Data::Timeline::Formatter::SimpleTable 1.100860  M/MA/MARCEL/Data-Timeline-1.100860.tar.gz
 Data::TimeSeries                   0.53  T/TO/TOMMIE/Data-TimeSeries-0.53.tgz
 Data::TimeSeries::ChronoKey       undef  T/TO/TOMMIE/Data-TimeSeries-0.53.tgz
-Data::TimingWheel::Shared          0.04  E/EG/EGOR/Data-TimingWheel-Shared-0.04.tar.gz
+Data::TimingWheel::Shared          0.05  E/EG/EGOR/Data-TimingWheel-Shared-0.05.tar.gz
 Data::Token                    0.000003  S/SC/SCOTT/Data-Token-v0.0.3.tar.gz
 Data::Toolkit                       1.1  A/AF/AFINDLAY/Data-Toolkit-1.1.tar.gz
 Data::Toolkit::Connector            1.0  A/AF/AFINDLAY/Data-Toolkit-1.1.tar.gz
@@ -58093,7 +58094,7 @@ Data::TOON                         0.03  Y/YT/YTURTLE/Data-TOON-0.03.tar.gz
 Data::TOON::Decoder               undef  Y/YT/YTURTLE/Data-TOON-0.03.tar.gz
 Data::TOON::Encoder               undef  Y/YT/YTURTLE/Data-TOON-0.03.tar.gz
 Data::TOON::Validator             undef  Y/YT/YTURTLE/Data-TOON-0.03.tar.gz
-Data::TopK::Shared                 0.06  E/EG/EGOR/Data-TopK-Shared-0.06.tar.gz
+Data::TopK::Shared                 0.07  E/EG/EGOR/Data-TopK-Shared-0.07.tar.gz
 Data::ToruCa                       0.06  Y/YA/YAPPO/Data-ToruCa-0.06.tar.gz
 Data::Trace                        1.06  T/TI/TIMKA/Data-Trace-1.06.tar.gz
 Data::Tranco                      undef  G/GB/GBROWN/Data-Tranco-0.003.tar.gz

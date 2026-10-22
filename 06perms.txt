@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669743
+Line-Count:  669767
 Written-By:  PAUSE version 1.005
-Date:        Thu, 22 Oct 2026 11:17:34 GMT
+Date:        Thu, 22 Oct 2026 12:17:50 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -121991,6 +121991,8 @@ Data::Tabulator,RKRIMEN,c
 Data::Tabulator,ROKR,f
 Data::TagDB,LION,f
 Data::TagDB,STEPHANJ,c
+Data::TagDB::Base,LION,f
+Data::TagDB::Base,STEPHANJ,c
 Data::TagDB::Cache,LION,f
 Data::TagDB::Cache,STEPHANJ,c
 Data::TagDB::Cloudlet,LION,f
@@ -348175,14 +348177,23 @@ Lingua::GLE::Word2Num,PETAMEM,f
 Lingua::GLG::Num2Word,PETAMEM,f
 Lingua::GLG::Word2Num,PETAMEM,f
 Lingua::Generic::Information,LION,f
+Lingua::Generic::Information,STEPHANJ,c
 Lingua::Generic::Information::Data,LION,f
+Lingua::Generic::Information::Data,STEPHANJ,c
 Lingua::Generic::Information::Language,LION,f
+Lingua::Generic::Information::Language,STEPHANJ,c
 Lingua::Generic::Interface,LION,f
+Lingua::Generic::Interface,STEPHANJ,c
 Lingua::Generic::Interface::Base,LION,f
+Lingua::Generic::Interface::Base,STEPHANJ,c
 Lingua::Generic::Interface::Element,LION,f
+Lingua::Generic::Interface::Element,STEPHANJ,c
 Lingua::Generic::Interface::Fragment,LION,f
+Lingua::Generic::Interface::Fragment,STEPHANJ,c
 Lingua::Generic::Interface::Modifier,LION,f
+Lingua::Generic::Interface::Modifier,STEPHANJ,c
 Lingua::Generic::Interface::Word,LION,f
+Lingua::Generic::Interface::Word,STEPHANJ,c
 Lingua::Gram,GSLIN,f
 Lingua::Guess,BKB,f
 Lingua::HE::MacHebrew,SADAHIRO,f
@@ -348502,6 +348513,7 @@ Lingua::LO::Romanize::Word,JOKKE,f
 Lingua::LTZ::Num2Word,PETAMEM,f
 Lingua::LTZ::Word2Num,PETAMEM,f
 Lingua::Lapine::Word,LION,f
+Lingua::Lapine::Word,STEPHANJ,c
 Lingua::Latex,PLAMBERT,f
 Lingua::Lexicon::IDP,ASCOPE,f
 Lingua::Lid,ALINKE,f
@@ -348963,6 +348975,7 @@ Lingua::Thesaurus::Term,PJDEVOPS,c
 Lingua::TokenParse,GENE,f
 Lingua::TokiPona::Numbers,PATCH,f
 Lingua::TokiPona::Word,LION,f
+Lingua::TokiPona::Word,STEPHANJ,c
 Lingua::Tolkien::BURL,RJE,f
 Lingua::Translate,HINRIK,c
 Lingua::Translate,SAMV,c
@@ -349233,15 +349246,25 @@ Lingua::Zompist::Cuezi,PNE,f
 Lingua::Zompist::Kebreni,PNE,f
 Lingua::Zompist::Verdurian,PNE,f
 Lingua::famibeib,LION,f
+Lingua::famibeib,STEPHANJ,c
 Lingua::famibeib::ForeignWord,LION,f
+Lingua::famibeib::ForeignWord,STEPHANJ,c
 Lingua::famibeib::Fragment,LION,f
+Lingua::famibeib::Fragment,STEPHANJ,c
 Lingua::famibeib::Modifier,LION,f
+Lingua::famibeib::Modifier,STEPHANJ,c
 Lingua::famibeib::NameGenerator,LION,f
+Lingua::famibeib::NameGenerator,STEPHANJ,c
 Lingua::famibeib::Prefix,LION,f
+Lingua::famibeib::Prefix,STEPHANJ,c
 Lingua::famibeib::Sentence,LION,f
+Lingua::famibeib::Sentence,STEPHANJ,c
 Lingua::famibeib::Text,LION,f
+Lingua::famibeib::Text,STEPHANJ,c
 Lingua::famibeib::Wellknown,LION,f
+Lingua::famibeib::Wellknown,STEPHANJ,c
 Lingua::famibeib::Word,LION,f
+Lingua::famibeib::Word,STEPHANJ,c
 Lingua::pt_BR::Nums2Words,GILS,f
 Lingua::tlhInganHol::yIghun,HANDOFF,c
 Lingua::tlhInganHol::yIghun,MSCHWERN,f
@@ -566887,6 +566910,7 @@ SION::Data,DANKOGAI,f
 SION::Date,DANKOGAI,f
 SION::Ext,DANKOGAI,f
 SIRTX::Datecode,LION,f
+SIRTX::Datecode,STEPHANJ,c
 SIRTX::Font,LION,f
 SIRTX::Font,STEPHANJ,c
 SIRTX::Font::Renderer,LION,f
