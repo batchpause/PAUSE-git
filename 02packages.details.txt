@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262179
-Last-Updated: Thu, 22 Oct 2026 00:29:02 GMT
+Last-Updated: Thu, 22 Oct 2026 00:54:38 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -108167,13 +108167,13 @@ IO::Callback                       2.00  T/TO/TOBYINK/IO-Callback-2.00.tar.gz
 IO::Callback::HTTP                0.003  T/TO/TOBYINK/IO-Callback-HTTP-0.003.tar.gz
 IO::Capture                        0.05  R/RE/REYNOLDS/IO-Capture-0.05.tar.gz
 IO::Capture::ErrorMessages        undef  R/RE/REYNOLDS/IO-Capture-0.03.tar.gz
-IO::Capture::Extended              0.13  J/JK/JKEENAN/IO-Capture-Extended-0.13.tar.gz
-IO::Capture::Extended::Overview   undef  J/JK/JKEENAN/IO-Capture-Extended-0.13.tar.gz
+IO::Capture::Extended              0.14  J/JK/JKEENAN/IO-Capture-Extended-0.14.tar.gz
+IO::Capture::Extended::Overview   undef  J/JK/JKEENAN/IO-Capture-Extended-0.14.tar.gz
 IO::Capture::Sayfix                0.05  X/XI/XIONG/developer-tools/Devel-Comments-v1.1.4.tar.gz
 IO::Capture::Stderr               undef  R/RE/REYNOLDS/IO-Capture-0.05.tar.gz
-IO::Capture::Stderr::Extended     undef  J/JK/JKEENAN/IO-Capture-Extended-0.13.tar.gz
+IO::Capture::Stderr::Extended     undef  J/JK/JKEENAN/IO-Capture-Extended-0.14.tar.gz
 IO::Capture::Stdout               undef  R/RE/REYNOLDS/IO-Capture-0.05.tar.gz
-IO::Capture::Stdout::Extended     undef  J/JK/JKEENAN/IO-Capture-Extended-0.13.tar.gz
+IO::Capture::Stdout::Extended     undef  J/JK/JKEENAN/IO-Capture-Extended-0.14.tar.gz
 IO::Capture::Tellfix               0.05  X/XI/XIONG/developer-tools/Devel-Comments-v1.1.4.tar.gz
 IO::Capture::Tie_STDx             undef  R/RE/REYNOLDS/IO-Capture-0.05.tar.gz
 IO::CaptureOutput                1.1105  D/DA/DAGOLDEN/IO-CaptureOutput-1.1105.tar.gz
