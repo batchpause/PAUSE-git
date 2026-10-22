@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669776
+Line-Count:  669803
 Written-By:  PAUSE version 1.005
-Date:        Thu, 22 Oct 2026 15:55:33 GMT
+Date:        Thu, 22 Oct 2026 16:56:09 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -14443,6 +14443,33 @@ App::Action::TicketCreate,JONASBN,f
 App::Action::TicketUpdate,CWINTERS,c
 App::Action::TicketUpdate,EHUELS,c
 App::Action::TicketUpdate,JONASBN,f
+App::Actions,NHORNE,f
+App::Actions::Access,NHORNE,f
+App::Actions::Action,NHORNE,f
+App::Actions::Cache,NHORNE,f
+App::Actions::Check,NHORNE,f
+App::Actions::Docker,NHORNE,f
+App::Actions::Docker::Variable,NHORNE,f
+App::Actions::Error,NHORNE,f
+App::Actions::Expression,NHORNE,f
+App::Actions::I18N,NHORNE,f
+App::Actions::I18N::de,NHORNE,f
+App::Actions::I18N::en,NHORNE,f
+App::Actions::I18N::fr,NHORNE,f
+App::Actions::I18N::zh,NHORNE,f
+App::Actions::Logs,NHORNE,f
+App::Actions::Process,NHORNE,f
+App::Actions::Runner,NHORNE,f
+App::Actions::Runner::Containers,NHORNE,f
+App::Actions::Runner::Images,NHORNE,f
+App::Actions::Runner::Parallel,NHORNE,f
+App::Actions::Runner::Report,NHORNE,f
+App::Actions::Runner::Steps,NHORNE,f
+App::Actions::Runner::Support,NHORNE,f
+App::Actions::Schema,NHORNE,f
+App::Actions::Schema::Invalid,NHORNE,f
+App::Actions::Util,NHORNE,f
+App::Actions::Workflow,NHORNE,f
 App::ActivityPubClient,LANODAN,f
 App::Addex,ADOPTME,f
 App::Addex,RJBS,c
