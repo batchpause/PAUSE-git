@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669805
+Line-Count:  669814
 Written-By:  PAUSE version 1.005
-Date:        Thu, 22 Oct 2026 18:56:25 GMT
+Date:        Thu, 22 Oct 2026 21:18:35 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -122052,6 +122052,8 @@ Data::TagDB::Migration,LION,f
 Data::TagDB::Migration,STEPHANJ,c
 Data::TagDB::MultiIterator,LION,f
 Data::TagDB::MultiIterator,STEPHANJ,c
+Data::TagDB::Plugin::Gamebook,LION,f
+Data::TagDB::Plugin::Gamebook::Exit,LION,f
 Data::TagDB::Relation,LION,f
 Data::TagDB::Relation,STEPHANJ,c
 Data::TagDB::Tag,LION,f
@@ -344934,6 +344936,7 @@ Langertha::Engine::LlamaCpp,GETTY,f
 Langertha::Engine::MiniMax,GETTY,f
 Langertha::Engine::MiniMaxAnthropic,GETTY,f
 Langertha::Engine::Mistral,GETTY,f
+Langertha::Engine::Mock,GETTY,f
 Langertha::Engine::Moonshot,GETTY,f
 Langertha::Engine::MoonshotAnthropic,GETTY,f
 Langertha::Engine::NousResearch,GETTY,f
@@ -344951,6 +344954,7 @@ Langertha::Engine::Scaleway,GETTY,f
 Langertha::Engine::TSystems,GETTY,f
 Langertha::Engine::TranscriptionBase,GETTY,f
 Langertha::Engine::VLLMHook,GETTY,f
+Langertha::Engine::Virtual,GETTY,f
 Langertha::Engine::Whisper,GETTY,f
 Langertha::Engine::XAI,GETTY,f
 Langertha::Engine::vLLM,GETTY,f
@@ -345118,10 +345122,13 @@ Langertha::Role::RuntimeKnobs,GETTY,f
 Langertha::Role::Seed,GETTY,f
 Langertha::Role::ServerTools,GETTY,f
 Langertha::Role::StaticModels,GETTY,f
+Langertha::Role::StreamUsage,GETTY,f
 Langertha::Role::Streaming,GETTY,f
 Langertha::Role::SystemPrompt,GETTY,f
 Langertha::Role::Temperature,GETTY,f
 Langertha::Role::ThinkTag,GETTY,f
+Langertha::Role::ToolResultImages,GETTY,f
+Langertha::Role::ToolResultPDF,GETTY,f
 Langertha::Role::Tools,GETTY,f
 Langertha::Role::Transcription,GETTY,f
 Langertha::RunContext,GETTY,f
@@ -345163,6 +345170,8 @@ Langertha::ToolResult,GETTY,f
 Langertha::Usage,GETTY,f
 Langertha::UsageRecord,GETTY,f
 Langertha::VLLMHook::Config,GETTY,f
+Langertha::Virtual::Rules,GETTY,f
+Langertha::Virtual::Server,GETTY,f
 LangerthaX,GETTY,f
 Language::AttributeGrammar,LPALMER,f
 Language::AttributeGrammar::Annotator,LPALMER,f
