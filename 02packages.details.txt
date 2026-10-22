@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262399
-Last-Updated: Thu, 22 Oct 2026 17:29:02 GMT
+Last-Updated: Thu, 22 Oct 2026 18:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -74717,7 +74717,7 @@ Eutf2                              1.22  I/IN/INA/UTF2/UTF2-1.22.tar.gz
 EV                                 4.37  M/ML/MLEHMANN/EV-4.37.tar.gz
 EV::ADNS                            3.0  M/ML/MLEHMANN/EV-ADNS-3.0.tar.gz
 EV::Async                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
-EV::cares                          0.04  E/EG/EGOR/EV-cares-0.04.tar.gz
+EV::cares                          0.05  E/EG/EGOR/EV-cares-0.05.tar.gz
 EV::Check                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Child                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::ClickHouse                     0.07  E/EG/EGOR/EV-ClickHouse-0.07.tar.gz
@@ -74746,33 +74746,33 @@ EV::Loop::Async                    1.01  M/ML/MLEHMANN/EV-Loop-Async-1.01.tar.gz
 EV::MakeMaker                     undef  M/ML/MLEHMANN/EV-4.37.tar.gz
 EV::MariaDB                        0.09  E/EG/EGOR/EV-MariaDB-0.09.tar.gz
 EV::Memcached                      0.06  E/EG/EGOR/EV-Memcached-0.06.tar.gz
-EV::Nats                           0.05  E/EG/EGOR/EV-Nats-0.05.tar.gz
-EV::Nats::JetStream               undef  E/EG/EGOR/EV-Nats-0.05.tar.gz
-EV::Nats::KV                      undef  E/EG/EGOR/EV-Nats-0.05.tar.gz
-EV::Nats::ObjectStore             undef  E/EG/EGOR/EV-Nats-0.05.tar.gz
+EV::Nats                           0.06  E/EG/EGOR/EV-Nats-0.06.tar.gz
+EV::Nats::JetStream                0.06  E/EG/EGOR/EV-Nats-0.06.tar.gz
+EV::Nats::KV                       0.06  E/EG/EGOR/EV-Nats-0.06.tar.gz
+EV::Nats::ObjectStore              0.06  E/EG/EGOR/EV-Nats-0.06.tar.gz
 EV::Periodic                      undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Pg                             0.09  E/EG/EGOR/EV-Pg-0.09.tar.gz
 EV::Prepare                       undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Redis                          0.16  E/EG/EGOR/EV-Redis-0.16.tar.gz
 EV::Signal                        undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Stat                          undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
-EV::Telegram::TDLib                0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Bots          0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Business      0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Chats         0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Connection    0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Files         0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Folders       0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Forum         0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Messages      0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Payments      0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Schema        0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Secret        0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Stars         0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Stickers      0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Stories       0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::Users         0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
-EV::Telegram::TDLib::WebApps       0.04  E/EG/EGOR/EV-Telegram-TDLib-0.04.tar.gz
+EV::Telegram::TDLib                0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Bots          0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Business      0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Chats         0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Connection    0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Files         0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Folders       0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Forum         0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Messages      0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Payments      0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Schema        0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Secret        0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Stars         0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Stickers      0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Stories       0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::Users         0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
+EV::Telegram::TDLib::WebApps       0.05  E/EG/EGOR/EV-Telegram-TDLib-0.05.tar.gz
 EV::Timer                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Watcher                       undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Watcher::Bind               0.00001  D/DM/DMAKI/EV-Watcher-Bind-0.00001.tar.gz
@@ -113489,7 +113489,7 @@ JSON::XS::VersionOneAndTwo         0.31  L/LB/LBROCARD/JSON-XS-VersionOneAndTwo-
 JSON::YAJL                         0.10  L/LB/LBROCARD/JSON-YAJL-0.10.tar.gz
 JSON::YAJL::Generator              0.10  L/LB/LBROCARD/JSON-YAJL-0.10.tar.gz
 JSON::YAJL::Parser                 0.10  L/LB/LBROCARD/JSON-YAJL-0.10.tar.gz
-JSON::YY                           0.08  E/EG/EGOR/JSON-YY-0.08.tar.gz
+JSON::YY                           0.09  E/EG/EGOR/JSON-YY-0.09.tar.gz
 JSON::YY::Doc                      0.06  E/EG/EGOR/JSON-YY-0.06.tar.gz
 JSON_File                         0.004  G/GE/GETTY/JSON_File-0.004.tar.gz
 JSON_minify                         1.1  R/RC/RCOSCALI/JSON_minify-1.1.tar.gz
@@ -150506,7 +150506,7 @@ Net::WebSocket::Endpoint::Server  undef  F/FE/FELIPE/Net-WebSocket-0.24.tar.gz
 Net::WebSocket::EV                 0.11  N/NY/NYAKNYAN/Net-WebSocket-EV-0.11.tar.gz
 Net::WebSocket::EV::Client         0.11  N/NY/NYAKNYAN/Net-WebSocket-EV-0.11.tar.gz
 Net::WebSocket::EV::Server         0.11  N/NY/NYAKNYAN/Net-WebSocket-EV-0.11.tar.gz
-Net::WebSocket::EVx                0.21  E/EG/EGOR/Net-WebSocket-EVx-0.21.tar.gz
+Net::WebSocket::EVx                0.22  E/EG/EGOR/Net-WebSocket-EVx-0.22.tar.gz
 Net::WebSocket::Frame             undef  F/FE/FELIPE/Net-WebSocket-0.24.tar.gz
 Net::WebSocket::Frame::binary     undef  F/FE/FELIPE/Net-WebSocket-0.24.tar.gz
 Net::WebSocket::Frame::close      undef  F/FE/FELIPE/Net-WebSocket-0.24.tar.gz
