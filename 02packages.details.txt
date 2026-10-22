@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262323
-Last-Updated: Thu, 22 Oct 2026 09:17:03 GMT
+Last-Updated: Thu, 22 Oct 2026 09:54:34 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -75065,7 +75065,7 @@ ex::lib                            0.90  M/MO/MONS/ex-lib-0.90.tar.gz
 ex::lib::zip                       0.04  N/NW/NWCLARK/ex-lib-zip-0.04.tar.gz
 ex::monkeypatched                  0.03  A/AR/ARC/ex-monkeypatched-0.03.tar.gz
 ex::newest                         0.02  R/RG/RGARCIA/ex-newest-0.02.tar.gz
-Ex::Op                             0.01  L/LN/LNATION/Ex-Op-0.01.tar.gz
+Ex::Op                             0.02  L/LN/LNATION/Ex-Op-0.02.tar.gz
 ex::override                        1.1  C/CW/CWEST/ex-override-1.1.tar.gz
 exact                              1.32  G/GR/GRYPHON/exact-1.32.tar.gz
 exact::class                       1.21  G/GR/GRYPHON/exact-class-1.21.tar.gz
