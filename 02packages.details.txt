@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262380
-Last-Updated: Thu, 22 Oct 2026 13:29:02 GMT
+Last-Updated: Thu, 22 Oct 2026 13:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -135387,11 +135387,11 @@ Mojo::Cookie::Response            undef  S/SR/SRI/Mojolicious-9.51.tar.gz
 Mojo::CouchDB                       1.0  R/RA/RAWLEYFOW/Mojo-CouchDB-1.0.tar.gz
 Mojo::CouchDB::DB                 undef  R/RA/RAWLEYFOW/Mojo-CouchDB-1.0.tar.gz
 Mojo::CSV                      1.001005  Z/ZO/ZOFFIX/Mojo-CSV-1.001005.tar.gz
-Mojo::Darkpan                      0.09  R/RE/RES/Mojo-Darkpan-0.09.tar.gz
-Mojo::Darkpan::Config             undef  R/RE/RES/Mojo-Darkpan-0.09.tar.gz
-Mojo::Darkpan::Controller::Index  undef  R/RE/RES/Mojo-Darkpan-0.09.tar.gz
-Mojo::Darkpan::Controller::Publish undef  R/RE/RES/Mojo-Darkpan-0.09.tar.gz
-Mojo::Darkpan::Util               undef  R/RE/RES/Mojo-Darkpan-0.09.tar.gz
+Mojo::Darkpan                      0.10  R/RE/RES/Mojo-Darkpan-0.10.tar.gz
+Mojo::Darkpan::Config             undef  R/RE/RES/Mojo-Darkpan-0.10.tar.gz
+Mojo::Darkpan::Controller::Index  undef  R/RE/RES/Mojo-Darkpan-0.10.tar.gz
+Mojo::Darkpan::Controller::Publish undef  R/RE/RES/Mojo-Darkpan-0.10.tar.gz
+Mojo::Darkpan::Util               undef  R/RE/RES/Mojo-Darkpan-0.10.tar.gz
 Mojo::Date                        undef  S/SR/SRI/Mojolicious-9.51.tar.gz
 Mojo::DB::Connector                0.07  S/SR/SRCHULO/Mojo-DB-Connector-0.07.tar.gz
 Mojo::DB::Connector::Base         undef  S/SR/SRCHULO/Mojo-DB-Connector-0.07.tar.gz
@@ -136209,7 +136209,7 @@ Mojolicious::Plugin::DigestAuth::RequestHandler undef  S/SH/SHAW/Mojolicious-Plu
 Mojolicious::Plugin::DigestAuth::Util undef  S/SH/SHAW/Mojolicious-Plugin-DigestAuth-0.10.tar.gz
 Mojolicious::Plugin::Directory     0.14  H/HA/HAYAJO/Mojolicious-Plugin-Directory-0.14.tar.gz
 Mojolicious::Plugin::Directory::Stylish 1.006  C/CO/COFFEE/Mojolicious-Plugin-Directory-Stylish-1.006.tar.gz
-Mojolicious::Plugin::DirectoryHandler undef  R/RE/RES/Mojo-Darkpan-0.09.tar.gz
+Mojolicious::Plugin::DirectoryHandler undef  R/RE/RES/Mojo-Darkpan-0.10.tar.gz
 Mojolicious::Plugin::DirectoryQueue 0.01  F/FU/FUKAI/Mojolicious-Plugin-DirectoryQueue-0.01.tar.gz
 Mojolicious::Plugin::DirectoryServer 1.007  B/BR/BRIANDFOY/Mojolicious-Plugin-DirectoryServer-1.007.tar.gz
 Mojolicious::Plugin::Disqus        1.22  M/MA/MADCAT/Mojolicious-Plugin-Disqus-1.22.tar.gz
