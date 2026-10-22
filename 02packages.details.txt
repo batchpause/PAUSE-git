@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262179
-Last-Updated: Thu, 22 Oct 2026 03:54:27 GMT
+Line-Count:   262180
+Last-Updated: Thu, 22 Oct 2026 04:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -51789,7 +51789,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressi
 Cucumber::TagExpressions::Node  v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressions-11.0.1.tar.gz
 Cucumber::TagExpressions::NotNode v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressions-11.0.1.tar.gz
 Cucumber::TagExpressions::OrNode v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressions-11.0.1.tar.gz
-Cucumber::Test::Release::Automation undef  C/CU/CUKEBOT/Cucumber-Test-Release-Automation-v0.0.167.tar.gz
+Cucumber::Test::Release::Automation undef  C/CU/CUKEBOT/Cucumber-Test-Release-Automation-v0.0.168.tar.gz
 CUI                               undef  A/AY/AYMULYAR/SemMed-Interface-0.05.tar.gz
 Curia                               1.0  M/MI/MIKIO/qdbm-perl-1.8.14.tar.gz
 Curl::Impersonate                  0.03  E/EG/EGOR/Curl-Impersonate-0.03.tar.gz
@@ -56846,11 +56846,11 @@ Data::Query                       undef  M/MS/MSTROUT/Data-CapabilityBased-0.001
 Data::Queue                      1.0002  A/AK/AKALINUX/Data-Queue-1.0002.tar.gz
 Data::Queue::Batch                 0.04  I/IL/ILLO/Data-Queue-Batch-0.04.tar.gz
 Data::Queue::Persistent            0.13  R/RE/REVMISCHA/Data-Queue-Persistent-0.13.tar.gz
-Data::Queue::Shared                0.10  E/EG/EGOR/Data-Queue-Shared-0.10.tar.gz
-Data::Queue::Shared::Int           0.10  E/EG/EGOR/Data-Queue-Shared-0.10.tar.gz
-Data::Queue::Shared::Int16         0.10  E/EG/EGOR/Data-Queue-Shared-0.10.tar.gz
-Data::Queue::Shared::Int32         0.10  E/EG/EGOR/Data-Queue-Shared-0.10.tar.gz
-Data::Queue::Shared::Str           0.10  E/EG/EGOR/Data-Queue-Shared-0.10.tar.gz
+Data::Queue::Shared                0.11  E/EG/EGOR/Data-Queue-Shared-0.11.tar.gz
+Data::Queue::Shared::Int           0.11  E/EG/EGOR/Data-Queue-Shared-0.11.tar.gz
+Data::Queue::Shared::Int16         0.11  E/EG/EGOR/Data-Queue-Shared-0.11.tar.gz
+Data::Queue::Shared::Int32         0.11  E/EG/EGOR/Data-Queue-Shared-0.11.tar.gz
+Data::Queue::Shared::Str           0.11  E/EG/EGOR/Data-Queue-Shared-0.11.tar.gz
 Data::QuickMemoPlus::Reader        0.12  B/BS/BSHIELDS/Data-QuickMemoPlus-Reader-0.12.tar.gz
 Data::Radius                   1.002009  P/PO/PORTAONE/Data-Radius-1.2.9.tar.gz
 Data::Radius::Constants           undef  P/PO/PORTAONE/Data-Radius-1.2.9.tar.gz
@@ -56860,7 +56860,7 @@ Data::Radius::DictionaryParser    undef  P/PO/PORTAONE/Data-Radius-1.2.9.tar.gz
 Data::Radius::Encode              undef  P/PO/PORTAONE/Data-Radius-1.2.9.tar.gz
 Data::Radius::Packet              undef  P/PO/PORTAONE/Data-Radius-1.2.9.tar.gz
 Data::Radius::Util                undef  P/PO/PORTAONE/Data-Radius-1.2.9.tar.gz
-Data::RadixTree::Shared            0.06  E/EG/EGOR/Data-RadixTree-Shared-0.06.tar.gz
+Data::RadixTree::Shared            0.07  E/EG/EGOR/Data-RadixTree-Shared-0.07.tar.gz
 Data::Rand                     0.000004  D/DM/DMUEY/Data-Rand-0.0.4.tar.gz
 Data::Rand::Obscure               0.021  R/RK/RKRIMEN/Data-Rand-Obscure-0.021.tar.gz
 Data::Rand::Obscure::Generator    undef  R/RK/RKRIMEN/Data-Rand-Obscure-0.021.tar.gz
@@ -57019,11 +57019,11 @@ Data::Reporter::Orasource         undef  R/RV/RVAZ/Data-Reporter-1.4.tar.gz
 Data::Reporter::RepFormat          0.01  R/RV/RVAZ/Data-Reporter-1.4.tar.gz
 Data::Reporter::Sybsource         undef  R/RV/RVAZ/Data-Reporter-1.4.tar.gz
 Data::Reporter::VisSection        undef  R/RV/RVAZ/Data-Reporter-1.4.tar.gz
-Data::ReqRep::Shared               0.09  E/EG/EGOR/Data-ReqRep-Shared-0.09.tar.gz
-Data::ReqRep::Shared::Client       0.09  E/EG/EGOR/Data-ReqRep-Shared-0.09.tar.gz
-Data::ReqRep::Shared::Int          0.09  E/EG/EGOR/Data-ReqRep-Shared-0.09.tar.gz
-Data::ReqRep::Shared::Int::Client  0.09  E/EG/EGOR/Data-ReqRep-Shared-0.09.tar.gz
-Data::Reservoir::Shared            0.05  E/EG/EGOR/Data-Reservoir-Shared-0.05.tar.gz
+Data::ReqRep::Shared               0.10  E/EG/EGOR/Data-ReqRep-Shared-0.10.tar.gz
+Data::ReqRep::Shared::Client       0.10  E/EG/EGOR/Data-ReqRep-Shared-0.10.tar.gz
+Data::ReqRep::Shared::Int          0.10  E/EG/EGOR/Data-ReqRep-Shared-0.10.tar.gz
+Data::ReqRep::Shared::Int::Client  0.10  E/EG/EGOR/Data-ReqRep-Shared-0.10.tar.gz
+Data::Reservoir::Shared            0.06  E/EG/EGOR/Data-Reservoir-Shared-0.06.tar.gz
 Data::Resolver                    0.006  P/PO/POLETTIX/Data-Resolver-0.006.tar.gz
 Data::Resolver::Alternatives      0.006  P/PO/POLETTIX/Data-Resolver-0.006.tar.gz
 Data::Resolver::Asset             0.006  P/PO/POLETTIX/Data-Resolver-0.006.tar.gz
@@ -148765,12 +148765,12 @@ Net::Pushover                     0.021  D/DV/DVINCI/Net-Pushover-0.021.tar.gz
 Net::pWhoIs                    1.002000  M/MH/MHEARSE/Net-pWhoIs-1.2.0.tar.gz
 Net::QMQP                          0.01  K/KO/KOBAYASI/Net-QMQP-0.01.tar.gz
 Net::QMTP                          0.06  J/JR/JRAFTERY/Net-QMTP-0.06.tar.gz
-Net::QUIC                          0.05  H/HA/HAX/Net-QUIC-0.05.tar.gz
-Net::QUIC::Connection              0.05  H/HA/HAX/Net-QUIC-0.05.tar.gz
-Net::QUIC::Datagram                0.05  H/HA/HAX/Net-QUIC-0.05.tar.gz
-Net::QUIC::Driver                  0.05  H/HA/HAX/Net-QUIC-0.05.tar.gz
-Net::QUIC::Endpoint                0.05  H/HA/HAX/Net-QUIC-0.05.tar.gz
-Net::QUIC::Stream                  0.05  H/HA/HAX/Net-QUIC-0.05.tar.gz
+Net::QUIC                          0.06  H/HA/HAX/Net-QUIC-0.06.tar.gz
+Net::QUIC::Connection              0.06  H/HA/HAX/Net-QUIC-0.06.tar.gz
+Net::QUIC::Datagram                0.06  H/HA/HAX/Net-QUIC-0.06.tar.gz
+Net::QUIC::Driver                  0.06  H/HA/HAX/Net-QUIC-0.06.tar.gz
+Net::QUIC::Endpoint                0.06  H/HA/HAX/Net-QUIC-0.06.tar.gz
+Net::QUIC::Stream                  0.06  H/HA/HAX/Net-QUIC-0.06.tar.gz
 Net::RabbitFoot                    1.03  I/IK/IKUTA/Net-RabbitFoot-1.03.tar.gz
 Net::RabbitFoot::Channel           1.03  I/IK/IKUTA/Net-RabbitFoot-1.03.tar.gz
 Net::RabbitFoot::Cmd              undef  I/IK/IKUTA/Net-RabbitFoot-1.03.tar.gz
@@ -191531,13 +191531,14 @@ Perl::Critic::Policy::PreferredBinaries 0.002  T/TE/TEODESIAN/Perl-Critic-Policy
 Perl::Critic::Policy::PreferredModules 0.005  A/AT/ATOOMIC/Perl-Critic-Policy-PreferredModules-0.005.tar.gz
 Perl::Critic::Policy::ProhibitImplicitImport 0.000001  O/OA/OALDERS/Perl-Critic-Policy-ProhibitImplicitImport-0.000001.tar.gz
 Perl::Critic::Policy::ProhibitLeadingZeros 1.000  T/TE/TEODESIAN/perl-critic-policy-prohibitleadingzeros-1.000.tar.gz
+Perl::Critic::Policy::ProhibitMisplacedMethods 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-ProhibitMisplacedMethods-0.001.tar.gz
 Perl::Critic::Policy::ProhibitNoWarningsRedefine 1.000  T/TE/TEODESIAN/perl-critic-policy-prohibitnowarningsredefine-1.000.tar.gz
 Perl::Critic::Policy::ProhibitOrReturn 0.02  U/UT/UTGWKK/Perl-Critic-Policy-ProhibitOrReturn-0.02.tar.gz
 Perl::Critic::Policy::ProhibitPipeOpen 1.000  T/TE/TEODESIAN/perl-critic-policy-prohibitpipeopen-1.000.tar.gz
 Perl::Critic::Policy::ProhibitPrintSTDERR 1.000  T/TE/TEODESIAN/perl-critic-policy-prohibitprintstderr-1.000.tar.gz
 Perl::Critic::Policy::ProhibitRegexForSimpleSubstring 1.001  T/TE/TEODESIAN/perl-critic-policy-prohibitregexforsimplesubstring-1.001.tar.gz
 Perl::Critic::Policy::ProhibitSmartmatch 0.4  H/HO/HOLCAPEK/Perl-Critic-Policy-ProhibitSmartmatch-0.4.tar.gz
-Perl::Critic::Policy::ProhibitUnusedDefinitions 0.005  T/TE/TEODESIAN/Perl-Critic-Policy-ProhibitUnusedDefinitions-0.005.tar.gz
+Perl::Critic::Policy::ProhibitUnusedDefinitions 0.006  T/TE/TEODESIAN/Perl-Critic-Policy-ProhibitUnusedDefinitions-0.006.tar.gz
 Perl::Critic::Policy::ProhibitUnusedImports 1.001  T/TE/TEODESIAN/perl-critic-policy-prohibitunusedimports-1.001.tar.gz
 Perl::Critic::Policy::ProhibitUsageSubs 1.000  T/TE/TEODESIAN/perl-critic-policy-prohibitusagesubs-1.000.tar.gz
 Perl::Critic::Policy::ProhibitUseLib 1.000  T/TE/TEODESIAN/perl-critic-policy-prohibituselib-1.000.tar.gz
