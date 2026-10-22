@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262372
-Last-Updated: Thu, 22 Oct 2026 13:17:02 GMT
+Line-Count:   262380
+Last-Updated: Thu, 22 Oct 2026 13:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -14881,6 +14881,14 @@ App::S3Api                            0  B/BI/BIGFOOT/App-FargateStack-1.0.50.ta
 App::safer                        0.003  P/PE/PERLANCAR/App-safer-0.003.tar.gz
 App::SahUtils                     0.485  P/PE/PERLANCAR/App-SahUtils-0.485.tar.gz
 App::saikoro                      0.300  T/TU/TULAMILI/App-saikoro-0.300.tar.gz
+App::Saisons                   0.002000  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
+App::Saisons::Adapter::Aider      undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
+App::Saisons::Adapter::Claude     undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
+App::Saisons::Adapter::Codex      undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
+App::Saisons::Adapter::Gemini     undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
+App::Saisons::Adapter::Opencode   undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
+App::Saisons::Launcher            undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
+App::Saisons::UI                  undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
 App::samelines                    0.033  T/TU/TULAMILI/App-samelines-0.033.tar.gz
 App::samesize                     0.018  T/TU/TULAMILI/App-samesize-0.018.tar.gz
 App::Sandy                         0.25  T/TM/TMILLER/App-Sandy-0.25.tar.gz
