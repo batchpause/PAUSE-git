@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262323
-Last-Updated: Thu, 22 Oct 2026 08:54:39 GMT
+Last-Updated: Thu, 22 Oct 2026 09:17:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -57134,11 +57134,11 @@ Data::Riak::Types                   2.0  F/FL/FLORA/Data-Riak-2.0.tar.gz
 Data::Riak::Util::MapCount          2.0  F/FL/FLORA/Data-Riak-2.0.tar.gz
 Data::Riak::Util::ReduceCount       2.0  F/FL/FLORA/Data-Riak-2.0.tar.gz
 Data::RingBuffer                   0.02  Z/ZH/ZHMYLOVE/Data-RingBuffer-0.02.tar.gz
-Data::RingBuffer::Shared           0.07  E/EG/EGOR/Data-RingBuffer-Shared-0.07.tar.gz
+Data::RingBuffer::Shared           0.08  E/EG/EGOR/Data-RingBuffer-Shared-0.08.tar.gz
 Data::RingBuffer::Time             0.02  Z/ZH/ZHMYLOVE/Data-RingBuffer-Time-0.02.tar.gz
 Data::Rlist                        1.44  A/AS/ASPINDLER/Data-Rlist-1.44.tar.gz
 Data::Rmap                         0.65  B/BO/BOWMANBS/Data-Rmap-0.65.tar.gz
-Data::RoaringBitmap::Shared        0.06  E/EG/EGOR/Data-RoaringBitmap-Shared-0.06.tar.gz
+Data::RoaringBitmap::Shared        0.07  E/EG/EGOR/Data-RoaringBitmap-Shared-0.07.tar.gz
 Data::RoundRobin                   0.03  G/GU/GUGOD/Data-RoundRobin-0.03.tar.gz
 Data::RoundRobinShared             0.11  S/SP/SPRADEEP/Data-RoundRobinShared-0.11.tar.gz
 Data::Roundtrip                    0.31  B/BL/BLIAKO/Data-Roundtrip-0.31.tar.gz
@@ -57670,7 +57670,7 @@ Data::Section::Seekable::Writer   0.092  P/PE/PERLANCAR/Data-Section-Seekable-0.
 Data::Section::Simple              0.07  M/MI/MIYAGAWA/Data-Section-Simple-0.07.tar.gz
 Data::Section::TestBase            0.13  T/TO/TOKUHIROM/Text-TestBase-0.13.tar.gz
 Data::Section::Writer              0.05  P/PL/PLICEASE/Data-Section-Writer-0.05.tar.gz
-Data::SegmentTree::Shared          0.06  E/EG/EGOR/Data-SegmentTree-Shared-0.06.tar.gz
+Data::SegmentTree::Shared          0.07  E/EG/EGOR/Data-SegmentTree-Shared-0.07.tar.gz
 Data::Selector                     1.02  J/JD/JDV/Data-Selector-1.02.tar.gz
 Data::Semantic                 1.101620  M/MA/MARCEL/Data-Semantic-1.101620.tar.gz
 Data::Semantic::Net            1.101760  M/MA/MARCEL/Data-Semantic-Net-1.101760.tar.gz
@@ -57826,7 +57826,7 @@ Data::SortedSet::Shared            0.08  E/EG/EGOR/Data-SortedSet-Shared-0.08.ta
 Data::SortedSet::Shared::Strings   0.08  E/EG/EGOR/Data-SortedSet-Shared-0.08.tar.gz
 Data::Sorting                       0.9  E/EV/EVO/Data-Sorting-0.9.tar.gz
 Data::SPath                      0.0004  S/SA/SABECK/Data-SPath-0.0004.tar.gz
-Data::SpatialHash::Shared          0.06  E/EG/EGOR/Data-SpatialHash-Shared-0.06.tar.gz
+Data::SpatialHash::Shared          0.07  E/EG/EGOR/Data-SpatialHash-Shared-0.07.tar.gz
 Data::SplitSerializer              0.91  B/BB/BBYRD/Data-SplitSerializer-0.91.tar.gz
 Data::SpreadPagination         0.001002  K/KN/KNEW/Data-SpreadPagination-0.1.2.tar.gz
 Data::SSHPubkey                    1.00  J/JM/JMATES/Data-SSHPubkey-1.00.tar.gz
