@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669767
+Line-Count:  669775
 Written-By:  PAUSE version 1.005
-Date:        Thu, 22 Oct 2026 12:17:50 GMT
+Date:        Thu, 22 Oct 2026 13:17:30 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -21969,6 +21969,14 @@ App::SVN::Bisect,INFINOID,f
 App::SVNBinarySearch,COKE,f
 App::SVNBinarySearch,PARTICLE,c
 App::SahUtils,PERLANCAR,f
+App::Saisons,NICOMEN,f
+App::Saisons::Adapter::Aider,NICOMEN,f
+App::Saisons::Adapter::Claude,NICOMEN,f
+App::Saisons::Adapter::Codex,NICOMEN,f
+App::Saisons::Adapter::Gemini,NICOMEN,f
+App::Saisons::Adapter::Opencode,NICOMEN,f
+App::Saisons::Launcher,NICOMEN,f
+App::Saisons::UI,NICOMEN,f
 App::Sandy,TMILLER,f
 App::Sandy::BGZF,TMILLER,f
 App::Sandy::Base,TMILLER,f

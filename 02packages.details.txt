@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262372
-Last-Updated: Thu, 22 Oct 2026 12:17:02 GMT
+Last-Updated: Thu, 22 Oct 2026 13:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -9836,41 +9836,41 @@ App::CPANtoRPM                     1.15  S/SB/SBECK/App-CPANtoRPM-1.15.tar.gz
 App::CPANTS::Lint                  0.05  I/IS/ISHIGAKI/App-CPANTS-Lint-0.05.tar.gz
 App::CPANURLUtils                  0.02  P/PE/PERLANCAR/App-CPANURLUtils-0.02.tar.gz
 App::Cpanx                         1.00  J/JA/JACOBG/App-Cpanx-1.00.tar.gz
-App::cpm                         v1.1.5  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Builder::Base           undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Builder::EUMM           undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Builder::MB             undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Builder::Prebuilt       undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Builder::Static         undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::CircularDependency      undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::CLI                     undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Context                 undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::DistNotation            undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Distribution            undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::HTTP                    undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Installer::Unpacker     undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Logger                  undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Logger::File            undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Logger::Terminal        undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Master                  undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Requirement             undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Resolver                undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Resolver::02Packages    undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Resolver::Cascade       undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Resolver::Custom        undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Resolver::Fixed         undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Resolver::MetaCPAN      undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Resolver::MetaDB        undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Resolver::Snapshot      undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Task                    undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Tutorial                undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Util                    undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::version                 undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Worker                  undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Worker::Installer       undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
-App::cpm::Worker::Installer::Custom undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
+App::cpm                         v1.1.6  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Builder::Base           undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Builder::EUMM           undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Builder::MB             undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Builder::Prebuilt       undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Builder::Static         undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::CircularDependency      undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::CLI                     undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Context                 undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::DistNotation            undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Distribution            undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::HTTP                    undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Installer::Unpacker     undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Logger                  undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Logger::File            undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Logger::Terminal        undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Master                  undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Requirement             undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Resolver                undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Resolver::02Packages    undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Resolver::Cascade       undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Resolver::Custom        undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Resolver::Fixed         undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Resolver::MetaCPAN      undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Resolver::MetaDB        undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Resolver::Snapshot      undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Task                    undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Tutorial                undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Util                    undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::version                 undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Worker                  undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Worker::Installer       undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
+App::cpm::Worker::Installer::Custom undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
 App::cpm::Worker::Installer::Prebuilt undef  S/SK/SKAJI/App-cpm-v1.1.3.tar.gz
-App::cpm::Worker::Resolver        undef  S/SK/SKAJI/App-cpm-v1.1.5.tar.gz
+App::cpm::Worker::Resolver        undef  S/SK/SKAJI/App-cpm-v1.1.6.tar.gz
 App::Cppref                       undef  K/KA/KAZUHO/cppref-0.09.tar.gz
 App::CPRReporter                   0.02  H/HO/HOLLIE/App-CPRReporter-0.03.tar.gz
 App::cpx                           0.04  C/CO/CONTRA/App-cpx-0.04.tar.gz
@@ -222514,7 +222514,7 @@ Sub::PatternMatching               1.04  S/SM/SMUELLER/Sub-PatternMatching-1.04.
 Sub::Pipe                          0.03  F/FU/FUJIWARA/Sub-Pipe-0.03.tar.gz
 Sub::Pipeline                     0.011  R/RJ/RJBS/Sub-Pipeline-0.011.tar.gz
 Sub::Prepend                       0.01  L/LO/LODIN/Sub-Prepend-0.01.tar.gz
-Sub::Private                       0.06  N/NH/NHORNE/Sub-Private-0.06.tar.gz
+Sub::Private                       0.07  N/NH/NHORNE/Sub-Private-0.07.tar.gz
 Sub::Protected                     0.03  N/NH/NHORNE/Sub-Protected-0.03.tar.gz
 Sub::Prototype                     0.03  E/ET/ETHER/Sub-Prototype-0.03.tar.gz
 Sub::Prototype::Util               0.11  V/VP/VPIT/Sub-Prototype-Util-0.11.tar.gz
