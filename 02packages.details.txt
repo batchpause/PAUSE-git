@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262179
-Last-Updated: Thu, 22 Oct 2026 03:17:02 GMT
+Last-Updated: Thu, 22 Oct 2026 03:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -237839,13 +237839,13 @@ Unblock::HTTP1::Integration        0.12  H/HA/HAX/Unblock-HTTP1-0.12.tar.gz
 Unblock::HTTP1::NativeABI         undef  H/HA/HAX/Unblock-HTTP1-0.12.tar.gz
 Unblock::HTTP1::Server             0.12  H/HA/HAX/Unblock-HTTP1-0.12.tar.gz
 Unblock::HTTP1::Transaction        0.12  H/HA/HAX/Unblock-HTTP1-0.12.tar.gz
-Unblock::HTTP2                     0.11  H/HA/HAX/Unblock-HTTP2-0.11.tar.gz
-Unblock::HTTP2::Client             0.11  H/HA/HAX/Unblock-HTTP2-0.11.tar.gz
-Unblock::HTTP2::Integration        0.11  H/HA/HAX/Unblock-HTTP2-0.11.tar.gz
-Unblock::HTTP2::NativeABI          0.11  H/HA/HAX/Unblock-HTTP2-0.11.tar.gz
-Unblock::HTTP2::Server             0.11  H/HA/HAX/Unblock-HTTP2-0.11.tar.gz
+Unblock::HTTP2                     0.12  H/HA/HAX/Unblock-HTTP2-0.12.tar.gz
+Unblock::HTTP2::Client             0.12  H/HA/HAX/Unblock-HTTP2-0.12.tar.gz
+Unblock::HTTP2::Integration        0.12  H/HA/HAX/Unblock-HTTP2-0.12.tar.gz
+Unblock::HTTP2::NativeABI          0.12  H/HA/HAX/Unblock-HTTP2-0.12.tar.gz
+Unblock::HTTP2::Server             0.12  H/HA/HAX/Unblock-HTTP2-0.12.tar.gz
 Unblock::HTTP2::Stream             0.02  H/HA/HAX/Unblock-HTTP2-0.02.tar.gz
-Unblock::HTTP2::Transaction        0.11  H/HA/HAX/Unblock-HTTP2-0.11.tar.gz
+Unblock::HTTP2::Transaction        0.12  H/HA/HAX/Unblock-HTTP2-0.12.tar.gz
 Unblock::HTTP3                     0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
 Unblock::HTTP3::Body::Reader       0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
 Unblock::HTTP3::Body::Stream       0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
