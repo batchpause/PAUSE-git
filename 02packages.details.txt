@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262179
-Last-Updated: Thu, 22 Oct 2026 01:17:02 GMT
+Last-Updated: Thu, 22 Oct 2026 02:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -191225,7 +191225,7 @@ Perl::Critic::Compatibility       1.001  E/EL/ELLIOTJS/Perl-Critic-Compatibility
 Perl::Critic::Config              1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Dancer2            0.4100  G/GE/GEEKRUTH/Perl-Critic-Dancer2-0.4100.tar.gz
 Perl::Critic::Deprecated          1.119  T/TH/THALJEF/Perl-Critic-Deprecated-1.119.tar.gz
-Perl::Critic::Distribution        0.001  T/TE/TEODESIAN/Perl-Critic-Distribution-0.001.tar.gz
+Perl::Critic::Distribution        0.002  T/TE/TEODESIAN/Perl-Critic-Distribution-0.002.tar.gz
 Perl::Critic::Document            1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Dynamic              0.05  T/TH/THALJEF/Perl-Critic-Dynamic-0.05.tar.gz
 Perl::Critic::DynamicPolicy        0.05  T/TH/THALJEF/Perl-Critic-Dynamic-0.05.tar.gz
