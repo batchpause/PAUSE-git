@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669775
+Line-Count:  669776
 Written-By:  PAUSE version 1.005
-Date:        Thu, 22 Oct 2026 13:17:30 GMT
+Date:        Thu, 22 Oct 2026 15:55:33 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -544936,6 +544936,7 @@ Playwright::Tracing,TEODESIAN,f
 Playwright::Util,TEODESIAN,f
 Playwright::Video,TEODESIAN,f
 Playwright::WebError,TEODESIAN,f
+Playwright::WebMCP,TEODESIAN,f
 Playwright::WebSocket,TEODESIAN,f
 Playwright::WebSocketFrame,TEODESIAN,f
 Playwright::WebSocketRoute,TEODESIAN,f
