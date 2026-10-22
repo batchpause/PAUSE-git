@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262336
-Last-Updated: Thu, 22 Oct 2026 10:29:02 GMT
+Line-Count:   262337
+Last-Updated: Thu, 22 Oct 2026 10:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -238194,6 +238194,7 @@ Unix::Pledge                      0.006  R/RE/REF/Unix-Pledge-0.006.tar.gz
 Unix::Process                    1.3101  J/JE/JETTERO/Unix-Process-1.3101.tar.gz
 Unix::Processors                  2.046  W/WS/WSNYDER/Unix-Processors-2.046.tar.gz
 Unix::Processors::Info            2.046  W/WS/WSNYDER/Unix-Processors-2.046.tar.gz
+Unix::ResID                       0.001  L/LE/LEONT/Unix-ResID-0.001.tar.gz
 Unix::SavedIDs                 0.004003  D/DM/DMARTIN/Unix-SavedIDs-0.004003.tar.gz
 Unix::ScriptUtil                   0.02  J/JM/JMATES/Unix-ScriptUtil-0.02.tar.gz
 Unix::SearchPathGuess              0.11  M/MI/MIKO/Unix-SearchPathGuess-0.11.tar.gz
