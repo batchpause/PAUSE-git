@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262323
-Last-Updated: Thu, 22 Oct 2026 07:17:02 GMT
+Last-Updated: Thu, 22 Oct 2026 08:54:39 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -49161,7 +49161,7 @@ CPAN::Patches                      0.05  J/JK/JKUTEJ/CPAN-Patches-0.05.tar.gz
 CPAN::Patches::Plugin::Debian      0.03  J/JK/JKUTEJ/CPAN-Patches-Plugin-Debian-0.03.tar.gz
 CPAN::Patches::Plugin::Debian::SPc 0.03  J/JK/JKUTEJ/CPAN-Patches-Plugin-Debian-0.03.tar.gz
 CPAN::Patches::SPc                 0.04  J/JK/JKUTEJ/CPAN-Patches-0.05.tar.gz
-CPAN::Perl::Releases           5.20260924  B/BI/BINGOS/CPAN-Perl-Releases-5.20260924.tar.gz
+CPAN::Perl::Releases           5.20261022  B/BI/BINGOS/CPAN-Perl-Releases-5.20261022.tar.gz
 CPAN::Perl::Releases::MetaCPAN   v1.0.1  S/SK/SKAJI/CPAN-Perl-Releases-MetaCPAN-v1.0.1.tar.gz
 CPAN::Plugin                       0.97  A/AN/ANDK/CPAN-2.41.tar.gz
 CPAN::Plugin::Specfile             0.02  A/AN/ANDK/CPAN-2.41.tar.gz
@@ -134494,12 +134494,12 @@ Module::Compile::Opt              undef  I/IN/INGY/Module-Compile-0.38.tar.gz
 Module::Compile::Simple            0.24  C/CL/CLKAO/Module-Compile-Simple-0.24.tar.gz
 Module::Compile::TT               undef  N/NU/NUFFIN/Module-Compile-TT-0.02.tar.gz
 Module::ConfigureRequires          0.03  S/SP/SPROUT/Module-ConfigureRequires-0.03.tar.gz
-Module::CoreList               5.20260924  B/BI/BINGOS/Module-CoreList-5.20260924.tar.gz
+Module::CoreList               5.20261022  B/BI/BINGOS/Module-CoreList-5.20261022.tar.gz
 Module::CoreList::DBSchema         0.08  B/BI/BINGOS/Module-CoreList-DBSchema-0.08.tar.gz
 Module::CoreList::List            0.001  P/PE/PERLANCAR/Module-CoreList-List-0.001.tar.gz
 Module::CoreList::More             0.08  P/PE/PERLANCAR/Module-CoreList-More-0.08.tar.gz
 Module::CoreList::TieHashDelta 5.20180120  B/BI/BINGOS/Module-CoreList-5.20180120.tar.gz
-Module::CoreList::Utils        5.20260924  B/BI/BINGOS/Module-CoreList-5.20260924.tar.gz
+Module::CoreList::Utils        5.20261022  B/BI/BINGOS/Module-CoreList-5.20261022.tar.gz
 Module::CPANfile                 1.1004  M/MI/MIYAGAWA/Module-CPANfile-1.1004.tar.gz
 Module::CPANfile::Environment     undef  M/MI/MIYAGAWA/Module-CPANfile-1.1004.tar.gz
 Module::CPANfile::FromDistINI     0.001  P/PE/PERLANCAR/Module-CPANfile-FromDistINI-0.001.tar.gz
