@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669572
+Line-Count:  669606
 Written-By:  PAUSE version 1.005
-Date:        Thu, 22 Oct 2026 04:29:25 GMT
+Date:        Thu, 22 Oct 2026 10:29:12 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -318343,66 +318343,87 @@ HTTP::Headers,OALDERS,f
 HTTP::Headers,SIMBABQUE,c
 HTTP::Headers,SKAJI,c
 HTTP::Headers::ActionPack,DROLSKY,c
+HTTP::Headers::ActionPack,RRWO,c
 HTTP::Headers::ActionPack,SARTAK,c
 HTTP::Headers::ActionPack,STEVAN,f
 HTTP::Headers::ActionPack::AcceptCharset,DROLSKY,c
+HTTP::Headers::ActionPack::AcceptCharset,RRWO,c
 HTTP::Headers::ActionPack::AcceptCharset,SARTAK,c
 HTTP::Headers::ActionPack::AcceptCharset,STEVAN,f
 HTTP::Headers::ActionPack::AcceptLanguage,DROLSKY,c
+HTTP::Headers::ActionPack::AcceptLanguage,RRWO,c
 HTTP::Headers::ActionPack::AcceptLanguage,SARTAK,c
 HTTP::Headers::ActionPack::AcceptLanguage,STEVAN,f
 HTTP::Headers::ActionPack::AuthenticationInfo,DROLSKY,c
+HTTP::Headers::ActionPack::AuthenticationInfo,RRWO,c
 HTTP::Headers::ActionPack::AuthenticationInfo,SARTAK,c
 HTTP::Headers::ActionPack::AuthenticationInfo,STEVAN,f
 HTTP::Headers::ActionPack::Authorization,DROLSKY,c
+HTTP::Headers::ActionPack::Authorization,RRWO,c
 HTTP::Headers::ActionPack::Authorization,SARTAK,c
 HTTP::Headers::ActionPack::Authorization,STEVAN,f
 HTTP::Headers::ActionPack::Authorization::Basic,DROLSKY,c
+HTTP::Headers::ActionPack::Authorization::Basic,RRWO,c
 HTTP::Headers::ActionPack::Authorization::Basic,SARTAK,c
 HTTP::Headers::ActionPack::Authorization::Basic,STEVAN,f
 HTTP::Headers::ActionPack::Authorization::Digest,DROLSKY,c
+HTTP::Headers::ActionPack::Authorization::Digest,RRWO,c
 HTTP::Headers::ActionPack::Authorization::Digest,SARTAK,c
 HTTP::Headers::ActionPack::Authorization::Digest,STEVAN,f
 HTTP::Headers::ActionPack::ContentNegotiation,DROLSKY,c
+HTTP::Headers::ActionPack::ContentNegotiation,RRWO,c
 HTTP::Headers::ActionPack::ContentNegotiation,SARTAK,c
 HTTP::Headers::ActionPack::ContentNegotiation,STEVAN,f
 HTTP::Headers::ActionPack::Core::Base,DROLSKY,c
+HTTP::Headers::ActionPack::Core::Base,RRWO,c
 HTTP::Headers::ActionPack::Core::Base,SARTAK,c
 HTTP::Headers::ActionPack::Core::Base,STEVAN,f
 HTTP::Headers::ActionPack::Core::BaseAuthHeader,DROLSKY,c
+HTTP::Headers::ActionPack::Core::BaseAuthHeader,RRWO,c
 HTTP::Headers::ActionPack::Core::BaseAuthHeader,SARTAK,c
 HTTP::Headers::ActionPack::Core::BaseAuthHeader,STEVAN,f
 HTTP::Headers::ActionPack::Core::BaseHeaderList,DROLSKY,c
+HTTP::Headers::ActionPack::Core::BaseHeaderList,RRWO,c
 HTTP::Headers::ActionPack::Core::BaseHeaderList,SARTAK,c
 HTTP::Headers::ActionPack::Core::BaseHeaderList,STEVAN,f
 HTTP::Headers::ActionPack::Core::BaseHeaderType,DROLSKY,c
+HTTP::Headers::ActionPack::Core::BaseHeaderType,RRWO,c
 HTTP::Headers::ActionPack::Core::BaseHeaderType,SARTAK,c
 HTTP::Headers::ActionPack::Core::BaseHeaderType,STEVAN,f
 HTTP::Headers::ActionPack::Core::BaseHeaderWithParams,DROLSKY,c
+HTTP::Headers::ActionPack::Core::BaseHeaderWithParams,RRWO,c
 HTTP::Headers::ActionPack::Core::BaseHeaderWithParams,SARTAK,c
 HTTP::Headers::ActionPack::Core::BaseHeaderWithParams,STEVAN,f
 HTTP::Headers::ActionPack::DateHeader,DROLSKY,c
+HTTP::Headers::ActionPack::DateHeader,RRWO,c
 HTTP::Headers::ActionPack::DateHeader,SARTAK,c
 HTTP::Headers::ActionPack::DateHeader,STEVAN,f
 HTTP::Headers::ActionPack::LinkHeader,DROLSKY,c
+HTTP::Headers::ActionPack::LinkHeader,RRWO,c
 HTTP::Headers::ActionPack::LinkHeader,SARTAK,c
 HTTP::Headers::ActionPack::LinkHeader,STEVAN,f
 HTTP::Headers::ActionPack::LinkList,DROLSKY,c
+HTTP::Headers::ActionPack::LinkList,RRWO,c
 HTTP::Headers::ActionPack::LinkList,SARTAK,c
 HTTP::Headers::ActionPack::LinkList,STEVAN,f
 HTTP::Headers::ActionPack::MediaType,DROLSKY,c
+HTTP::Headers::ActionPack::MediaType,RRWO,c
 HTTP::Headers::ActionPack::MediaType,SARTAK,c
 HTTP::Headers::ActionPack::MediaType,STEVAN,f
 HTTP::Headers::ActionPack::MediaTypeList,DROLSKY,c
+HTTP::Headers::ActionPack::MediaTypeList,RRWO,c
 HTTP::Headers::ActionPack::MediaTypeList,SARTAK,c
 HTTP::Headers::ActionPack::MediaTypeList,STEVAN,f
 HTTP::Headers::ActionPack::PriorityList,DROLSKY,c
+HTTP::Headers::ActionPack::PriorityList,RRWO,c
 HTTP::Headers::ActionPack::PriorityList,SARTAK,c
 HTTP::Headers::ActionPack::PriorityList,STEVAN,f
 HTTP::Headers::ActionPack::Util,DROLSKY,c
+HTTP::Headers::ActionPack::Util,RRWO,c
 HTTP::Headers::ActionPack::Util,SARTAK,c
 HTTP::Headers::ActionPack::Util,STEVAN,f
 HTTP::Headers::ActionPack::WWWAuthenticate,DROLSKY,c
+HTTP::Headers::ActionPack::WWWAuthenticate,RRWO,c
 HTTP::Headers::ActionPack::WWWAuthenticate,SARTAK,c
 HTTP::Headers::ActionPack::WWWAuthenticate,STEVAN,f
 HTTP::Headers::Auth,CAPOEIRAB,c
@@ -358446,6 +358467,19 @@ Logic::Expr,JMATES,f
 Logic::Expr::Parser,JMATES,f
 Logic::Kleene,RRWO,c
 Logic::Minimizer,JGAMBLE,f
+Logic::Probabilistic,MJOHNSON,f
+Logic::Probabilistic::Distribution,MJOHNSON,f
+Logic::Probabilistic::Distribution::Outcome,MJOHNSON,f
+Logic::Probabilistic::Inference::Base,MJOHNSON,f
+Logic::Probabilistic::Inference::Exact,MJOHNSON,f
+Logic::Probabilistic::Inference::MCMC,MJOHNSON,f
+Logic::Probabilistic::Inference::Rejection,MJOHNSON,f
+Logic::Probabilistic::PChoice,MJOHNSON,f
+Logic::Probabilistic::PFact,MJOHNSON,f
+Logic::Probabilistic::Program,MJOHNSON,f
+Logic::Probabilistic::Result,MJOHNSON,f
+Logic::Probabilistic::Serializer,MJOHNSON,f
+Logic::Probabilistic::Syntax,MJOHNSON,f
 Logic::Relational,MJOHNSON,f
 Logic::Relational::ArrayRest,MJOHNSON,f
 Logic::Relational::Atom,MJOHNSON,f

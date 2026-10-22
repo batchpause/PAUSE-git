@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262323
-Last-Updated: Thu, 22 Oct 2026 09:54:34 GMT
+Line-Count:   262336
+Last-Updated: Thu, 22 Oct 2026 10:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -124413,6 +124413,19 @@ Logic::Easy                       undef  L/LP/LPALMER/Logic-0.02.tar.gz
 Logic::Expr                        0.02  J/JM/JMATES/Logic-Expr-0.02.tar.gz
 Logic::Expr::Parser                0.02  J/JM/JMATES/Logic-Expr-0.02.tar.gz
 Logic::Minimizer                   1.00  J/JG/JGAMBLE/Logic-Minimizer-1.00.tar.gz
+Logic::Probabilistic               0.01  M/MJ/MJOHNSON/Logic-Probabilistic-0.01.tar.gz
+Logic::Probabilistic::Distribution 0.01  M/MJ/MJOHNSON/Logic-Probabilistic-0.01.tar.gz
+Logic::Probabilistic::Distribution::Outcome 0.01  M/MJ/MJOHNSON/Logic-Probabilistic-0.01.tar.gz
+Logic::Probabilistic::Inference::Base 0.01  M/MJ/MJOHNSON/Logic-Probabilistic-0.01.tar.gz
+Logic::Probabilistic::Inference::Exact 0.01  M/MJ/MJOHNSON/Logic-Probabilistic-0.01.tar.gz
+Logic::Probabilistic::Inference::MCMC 0.01  M/MJ/MJOHNSON/Logic-Probabilistic-0.01.tar.gz
+Logic::Probabilistic::Inference::Rejection 0.01  M/MJ/MJOHNSON/Logic-Probabilistic-0.01.tar.gz
+Logic::Probabilistic::PChoice      0.01  M/MJ/MJOHNSON/Logic-Probabilistic-0.01.tar.gz
+Logic::Probabilistic::PFact        0.01  M/MJ/MJOHNSON/Logic-Probabilistic-0.01.tar.gz
+Logic::Probabilistic::Program      0.01  M/MJ/MJOHNSON/Logic-Probabilistic-0.01.tar.gz
+Logic::Probabilistic::Result       0.01  M/MJ/MJOHNSON/Logic-Probabilistic-0.01.tar.gz
+Logic::Probabilistic::Serializer   0.01  M/MJ/MJOHNSON/Logic-Probabilistic-0.01.tar.gz
+Logic::Probabilistic::Syntax       0.01  M/MJ/MJOHNSON/Logic-Probabilistic-0.01.tar.gz
 Logic::Relational                  0.02  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
 Logic::Relational::ArrayRest      undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
 Logic::Relational::Atom           undef  M/MJ/MJOHNSON/Logic-Relational-0.02.tar.gz
