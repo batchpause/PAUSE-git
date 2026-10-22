@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262179
-Last-Updated: Thu, 22 Oct 2026 03:29:02 GMT
+Last-Updated: Thu, 22 Oct 2026 03:54:27 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -237846,21 +237846,21 @@ Unblock::HTTP2::NativeABI          0.12  H/HA/HAX/Unblock-HTTP2-0.12.tar.gz
 Unblock::HTTP2::Server             0.12  H/HA/HAX/Unblock-HTTP2-0.12.tar.gz
 Unblock::HTTP2::Stream             0.02  H/HA/HAX/Unblock-HTTP2-0.02.tar.gz
 Unblock::HTTP2::Transaction        0.12  H/HA/HAX/Unblock-HTTP2-0.12.tar.gz
-Unblock::HTTP3                     0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
-Unblock::HTTP3::Body::Reader       0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
-Unblock::HTTP3::Body::Stream       0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
-Unblock::HTTP3::Capsule            0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
-Unblock::HTTP3::Capsule::Parser    0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
-Unblock::HTTP3::Capsule::Stream    0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
-Unblock::HTTP3::Client             0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
+Unblock::HTTP3                     0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
+Unblock::HTTP3::Body::Reader       0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
+Unblock::HTTP3::Body::Stream       0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
+Unblock::HTTP3::Capsule            0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
+Unblock::HTTP3::Capsule::Parser    0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
+Unblock::HTTP3::Capsule::Stream    0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
+Unblock::HTTP3::Client             0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
 Unblock::HTTP3::Connection         0.03  H/HA/HAX/Unblock-HTTP3-0.03.tar.gz
-Unblock::HTTP3::Extension::Stream  0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
-Unblock::HTTP3::Integration        0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
-Unblock::HTTP3::NativeABI          0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
+Unblock::HTTP3::Extension::Stream  0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
+Unblock::HTTP3::Integration        0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
+Unblock::HTTP3::NativeABI          0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
 Unblock::HTTP3::Request            0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
 Unblock::HTTP3::Response           0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
-Unblock::HTTP3::Server             0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
-Unblock::HTTP3::Transaction        0.12  H/HA/HAX/Unblock-HTTP3-0.12.tar.gz
+Unblock::HTTP3::Server             0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
+Unblock::HTTP3::Transaction        0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
 UnclosedOpeningDelim              undef  D/DC/DCONWAY/Test-Subunits-0.000003.tar.gz
 unconstant                         0.09  E/EC/ECARROLL/unconstant-0.09.tar.gz
 undefined                         undef  S/SA/SAMV/Net-SSLeay-OO-0.02.tar.gz
