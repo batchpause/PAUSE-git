@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262401
-Last-Updated: Thu, 22 Oct 2026 18:54:52 GMT
+Line-Count:   262399
+Last-Updated: Thu, 22 Oct 2026 19:54:53 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4584,8 +4584,6 @@ Alien::scriptaculous           v1.8.0.3  G/GT/GTERMARS/Alien-scriptaculous-v1.8.
 Alien::SDL                        1.446  F/FR/FROGGS/Alien-SDL-1.446.tar.gz
 Alien::SDL2                       0.002  K/KT/KTHAKORE/Alien-SDL2-0.002.tar.gz
 Alien::SDL3                     v3.4.22  S/SA/SANKO/Alien-SDL3-v3.4.22.tar.gz
-Alien::SDL3_image                  0.05  S/SA/SANKO/Alien-SDL3_image-0.05.tar.gz
-Alien::SDL3_ttf                    0.05  S/SA/SANKO/Alien-SDL3_ttf-0.05.tar.gz
 Alien::Selenium                    0.09  D/DO/DOMQ/Alien-Selenium-0.09.tar.gz
 Alien::SeleniumRC                   3.7  H/HI/HISSO/Alien-SeleniumRC-3.7.tar.gz
 Alien::SeqAlignment::bowtie2       0.03  C/CH/CHRISARG/Alien-SeqAlignment-bowtie2-0.03.tar.gz
@@ -14908,14 +14906,14 @@ App::S3Api                            0  B/BI/BIGFOOT/App-FargateStack-1.0.50.ta
 App::safer                        0.003  P/PE/PERLANCAR/App-safer-0.003.tar.gz
 App::SahUtils                     0.485  P/PE/PERLANCAR/App-SahUtils-0.485.tar.gz
 App::saikoro                      0.300  T/TU/TULAMILI/App-saikoro-0.300.tar.gz
-App::Saisons                   0.002000  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
-App::Saisons::Adapter::Aider      undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
-App::Saisons::Adapter::Claude     undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
-App::Saisons::Adapter::Codex      undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
-App::Saisons::Adapter::Gemini     undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
-App::Saisons::Adapter::Opencode   undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
-App::Saisons::Launcher            undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
-App::Saisons::UI                  undef  N/NI/NICOMEN/App-Saisons-0.2.0.tar.gz
+App::Saisons                   0.002001  N/NI/NICOMEN/App-Saisons-0.2.1.tar.gz
+App::Saisons::Adapter::Aider      undef  N/NI/NICOMEN/App-Saisons-0.2.1.tar.gz
+App::Saisons::Adapter::Claude     undef  N/NI/NICOMEN/App-Saisons-0.2.1.tar.gz
+App::Saisons::Adapter::Codex      undef  N/NI/NICOMEN/App-Saisons-0.2.1.tar.gz
+App::Saisons::Adapter::Gemini     undef  N/NI/NICOMEN/App-Saisons-0.2.1.tar.gz
+App::Saisons::Adapter::Opencode   undef  N/NI/NICOMEN/App-Saisons-0.2.1.tar.gz
+App::Saisons::Launcher            undef  N/NI/NICOMEN/App-Saisons-0.2.1.tar.gz
+App::Saisons::UI                  undef  N/NI/NICOMEN/App-Saisons-0.2.1.tar.gz
 App::samelines                    0.033  T/TU/TULAMILI/App-samelines-0.033.tar.gz
 App::samesize                     0.018  T/TU/TULAMILI/App-samesize-0.018.tar.gz
 App::Sandy                         0.25  T/TM/TMILLER/App-Sandy-0.25.tar.gz
@@ -213249,7 +213247,7 @@ Shadowd::Connector                  2.0  Z/ZI/ZITHB/Shadowd-Connector-2.0.0.tar.
 Shadowd::Connector::CGI             2.0  Z/ZI/ZITHB/Shadowd-Connector-2.0.0.tar.gz
 Shadowd::Connector::Mojolicious     2.0  Z/ZI/ZITHB/Shadowd-Connector-2.0.0.tar.gz
 Shannon::Entropy                   1.12  L/LN/LNATION/Shannon-Entropy-1.12.tar.gz
-Shannon::Entropy::XS               1.17  L/LN/LNATION/Shannon-Entropy-XS-1.17.tar.gz
+Shannon::Entropy::XS               1.18  L/LN/LNATION/Shannon-Entropy-XS-1.18.tar.gz
 Shape::RegularPolygon              0.01  K/KZ/KZTOMITA/Shape-RegularPolygon-0.01.tar.gz
 Shardcache::Client                 0.05  X/XA/XANT/Shardcache-Client-0.05.tar.gz
 Shardcache::Client::Fast           0.20  X/XA/XANT/Shardcache-Client-Fast-0.20.tar.gz
