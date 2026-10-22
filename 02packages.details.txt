@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262408
-Last-Updated: Thu, 22 Oct 2026 21:29:02 GMT
+Last-Updated: Thu, 22 Oct 2026 21:54:40 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -206425,7 +206425,7 @@ RT::CustomFieldValues::AnnounceGroups undef  B/BP/BPS/RT-Extension-Announce-1.06
 RT::CustomFieldValues::FormToolsGroups undef  B/BP/BPS/RT-Extension-Announce-1.06.tar.gz
 RT::CustomFieldValues::ServiceBusinessHours undef  B/BP/BPS/RT-Extension-AutomaticAssignment-2.00.tar.gz
 RT::Dashboard::FakeRequest        undef  B/BP/BPS/RT-Extension-ExcelFeed-0.04.tar.gz
-RT::Dashboard::Mailer             undef  B/BP/BPS/RT-Extension-ExcelFeed-1.05.tar.gz
+RT::Dashboard::Mailer             undef  B/BP/BPS/RT-Extension-ExcelFeed-1.06.tar.gz
 RT::DatabaseSetting               undef  B/BP/BPS/RT-Extension-ConfigInDatabase-0.03.tar.gz
 RT::DatabaseSettings              undef  B/BP/BPS/RT-Extension-ConfigInDatabase-0.03.tar.gz
 RT::Date                           0.01  F/FA/FALCONE/RT-Extension-DateTAI64-0.01.tar.gz
@@ -206521,7 +206521,7 @@ RT::Extension::ElapsedBusinessTime 0.05  P/PU/PUCK/RT-Extension-ElapsedBusinessT
 RT::Extension::EmailReplyDelimiter 0.11  A/AJ/AJWOOD/RT-Extension-EmailReplyDelimiter-0.11.tar.gz
 RT::Extension::EscalationDates      0.4  B/BH/BHEISIG/RT-Extension-EscalationDates-0.4.tar.gz
 RT::Extension::ExampleTheme        0.01  B/BP/BPS/RT-Extension-ExampleTheme-0.01.tar.gz
-RT::Extension::ExcelFeed           1.05  B/BP/BPS/RT-Extension-ExcelFeed-1.05.tar.gz
+RT::Extension::ExcelFeed           1.06  B/BP/BPS/RT-Extension-ExcelFeed-1.06.tar.gz
 RT::Extension::ExternalStorage     0.61  A/AL/ALEXMV/RT-Extension-ExternalStorage-0.61.tar.gz
 RT::Extension::ExternalStorage::AmazonS3 undef  A/AL/ALEXMV/RT-Extension-ExternalStorage-0.61.tar.gz
 RT::Extension::ExternalStorage::Backend undef  A/AL/ALEXMV/RT-Extension-ExternalStorage-0.61.tar.gz
@@ -231739,7 +231739,7 @@ Text::EtText::Lists               undef  J/JM/JMASON/Text-EtText-2.2.tar.gz
 Text::Extract::MaketextCallPhrases 0.94  D/DM/DMUEY/Text-Extract-MaketextCallPhrases-0.94.tar.gz
 Text::Extract::Word                0.02  S/SN/SNKWATT/Text-Extract-Word-0.04.tar.gz
 Text::ExtractWords                 0.08  H/HD/HDIAS/Text-ExtractWords-0.08.tar.gz
-Text::Fab                          0.05  I/IL/ILYAZ/modules/Text-Fab-0.05.tar.gz
+Text::Fab                          0.06  I/IL/ILYAZ/modules/Text-Fab-0.06.tar.gz
 Text::FakeXML                      0.02  J/JV/JV/Text-FakeXML-0.02.tar.gz
 Text::FastTemplate                 0.95  B/BO/BOZZIO/Text-FastTemplate-0.95.tar.gz
 Text::FIGlet                   2.019004  J/JP/JPIERCE/Text-FIGlet-2.19.4.tgz
