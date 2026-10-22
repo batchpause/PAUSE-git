@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262380
-Last-Updated: Thu, 22 Oct 2026 14:17:02 GMT
+Line-Count:   262374
+Last-Updated: Thu, 22 Oct 2026 14:54:39 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -104177,7 +104177,6 @@ HTML::Object::DOM::FileList    0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::Implementation 0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::List        0.003000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::MediaTrack  0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
-HTML::Object::DOM::Node        0.003000  J/JD/JDEGUEST/HTML-Object-v0.6.0.tar.gz
 HTML::Object::DOM::NodeFilter  0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::NodeIterator 0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::NodeIteratorShared 0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
@@ -104185,8 +104184,6 @@ HTML::Object::DOM::NodeList    0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::Number      0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::Root        0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::Screen      0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
-HTML::Object::DOM::Space       0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.0.tar.gz
-HTML::Object::DOM::Text        0.002001  J/JD/JDEGUEST/HTML-Object-v0.6.0.tar.gz
 HTML::Object::DOM::TextTrack   0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::TextTrackCue 0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::TextTrackCueList 0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
@@ -104198,7 +104195,6 @@ HTML::Object::DOM::VideoTrack  0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::VideoTrackList 0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::VTTCue      0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::VTTRegion   0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
-HTML::Object::DOM::Window      0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.0.tar.gz
 HTML::Object::DOM::WindowProxy 0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::XPathEvaluator 0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::DOM::XPathResult 0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
@@ -123624,7 +123620,7 @@ Loctools::Net::OAuth2::Session::Google undef  A/AF/AFAN/Loctools-Net-1.0.tar.gz
 LocusLinkAccessor                     1  L/LD/LDS/Boulder-1.30.tar.gz
 log2_heatmap                        1.5  C/CJ/CJONES/Microarray-0.45c.zip
 Log4Perl::ImportHandle            0.033  A/AH/AHERNIT/Log4Perl-ImportHandle-0.033.tar.gz
-Log::Abstraction                   0.40  N/NH/NHORNE/Log-Abstraction-0.40.tar.gz
+Log::Abstraction                   0.41  N/NH/NHORNE/Log-Abstraction-0.41.tar.gz
 Log::Accounting                     0.3  O/OL/OLIMAUL/Log-Accounting-0.3.tar.gz
 Log::Accounting::Sendmail           0.2  O/OL/OLIMAUL/Log-Accounting-Sendmail-0.2.tar.gz
 Log::Agent                        1.005  M/MR/MROGASKI/Log-Agent-1.005.tar.gz
@@ -123662,7 +123658,7 @@ Log::AndError                      1.01  T/TB/TBOLIOLI/Log-AndError-1.01.tar.gz
 Log::AndError::Constants           0.01  T/TB/TBOLIOLI/Log-AndError-1.01.tar.gz
 Log::Any                          1.720  P/PR/PREACTION/Log-Any-1.720.tar.gz
 Log::Any::Adapter                 1.720  P/PR/PREACTION/Log-Any-1.720.tar.gz
-Log::Any::Adapter::Abstraction     0.40  N/NH/NHORNE/Log-Abstraction-0.40.tar.gz
+Log::Any::Adapter::Abstraction     0.40  N/NH/NHORNE/Log-Abstraction-0.41.tar.gz
 Log::Any::Adapter::AcmeLocal       0.11  S/SL/SLUDIN/Protocol-ACME-0.11.tar.gz
 Log::Any::Adapter::Apache2         0.02  I/IV/IVANYCH/Log-Any-Adapter-Apache2-0.02.tar.gz
 Log::Any::Adapter::Base           1.720  P/PR/PREACTION/Log-Any-1.720.tar.gz
@@ -142979,8 +142975,6 @@ Net::API::REST::JWT            0.100004  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.g
 Net::API::REST::Query          1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
 Net::API::REST::RC             1.002006  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
 Net::API::REST::Request        1.001000  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
-Net::API::REST::Request::Params 0.009003  J/JD/JDEGUEST/Net-API-REST-v0.8.1.tar.gz
-Net::API::REST::Request::Upload 0.009003  J/JD/JDEGUEST/Net-API-REST-v0.8.1.tar.gz
 Net::API::REST::Response       1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
 Net::API::REST::Status         1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
 Net::API::RPX                  1.000001  K/KE/KENTNL/Net-API-RPX-1.000001.tar.gz
