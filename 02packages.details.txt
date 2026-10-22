@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262374
-Last-Updated: Thu, 22 Oct 2026 14:54:39 GMT
+Last-Updated: Thu, 22 Oct 2026 15:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -74693,20 +74693,20 @@ EV::Async                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.2
 EV::cares                          0.04  E/EG/EGOR/EV-cares-0.04.tar.gz
 EV::Check                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Child                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
-EV::ClickHouse                     0.06  E/EG/EGOR/EV-ClickHouse-0.06.tar.gz
-EV::ClickHouse::_DurGuard          0.06  E/EG/EGOR/EV-ClickHouse-0.06.tar.gz
-EV::ClickHouse::Error              0.06  E/EG/EGOR/EV-ClickHouse-0.06.tar.gz
-EV::ClickHouse::Iterator           0.06  E/EG/EGOR/EV-ClickHouse-0.06.tar.gz
-EV::ClickHouse::Pool               0.06  E/EG/EGOR/EV-ClickHouse-0.06.tar.gz
-EV::ClickHouse::Streamer           0.06  E/EG/EGOR/EV-ClickHouse-0.06.tar.gz
+EV::ClickHouse                     0.07  E/EG/EGOR/EV-ClickHouse-0.07.tar.gz
+EV::ClickHouse::_DurGuard          0.07  E/EG/EGOR/EV-ClickHouse-0.07.tar.gz
+EV::ClickHouse::Error              0.07  E/EG/EGOR/EV-ClickHouse-0.07.tar.gz
+EV::ClickHouse::Iterator           0.07  E/EG/EGOR/EV-ClickHouse-0.07.tar.gz
+EV::ClickHouse::Pool               0.07  E/EG/EGOR/EV-ClickHouse-0.07.tar.gz
+EV::ClickHouse::Streamer           0.07  E/EG/EGOR/EV-ClickHouse-0.07.tar.gz
 EV::Cron                       0.123600  L/LO/LOSYME/EV-Cron-0.123600.tar.gz
 EV::Embed                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Etcd                           0.11  E/EG/EGOR/EV-Etcd-0.11.tar.gz
 EV::Fork                          undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Future                         0.07  E/EG/EGOR/EV-Future-0.07.tar.gz
 EV::Future::Handle                 0.07  E/EG/EGOR/EV-Future-0.07.tar.gz
-EV::Gearman                        0.02  E/EG/EGOR/EV-Gearman-0.02.tar.gz
-EV::Gearman::Job                  undef  E/EG/EGOR/EV-Gearman-0.02.tar.gz
+EV::Gearman                        0.03  E/EG/EGOR/EV-Gearman-0.03.tar.gz
+EV::Gearman::Job                   0.03  E/EG/EGOR/EV-Gearman-0.03.tar.gz
 EV::Glib                           2.01  M/ML/MLEHMANN/EV-Glib-2.01.tar.gz
 EV::Hiredis                        0.07  S/SH/SHOGO/EV-Hiredis-0.07.tar.gz
 EV::Idle                          undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
@@ -74717,7 +74717,7 @@ EV::Kafka::Conn                    0.06  E/EG/EGOR/EV-Kafka-0.06.tar.gz
 EV::Loop                          undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Loop::Async                    1.01  M/ML/MLEHMANN/EV-Loop-Async-1.01.tar.gz
 EV::MakeMaker                     undef  M/ML/MLEHMANN/EV-4.37.tar.gz
-EV::MariaDB                        0.08  E/EG/EGOR/EV-MariaDB-0.08.tar.gz
+EV::MariaDB                        0.09  E/EG/EGOR/EV-MariaDB-0.09.tar.gz
 EV::Memcached                      0.06  E/EG/EGOR/EV-Memcached-0.06.tar.gz
 EV::Nats                           0.05  E/EG/EGOR/EV-Nats-0.05.tar.gz
 EV::Nats::JetStream               undef  E/EG/EGOR/EV-Nats-0.05.tar.gz
