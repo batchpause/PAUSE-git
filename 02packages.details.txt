@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262442
-Last-Updated: Fri, 23 Oct 2026 20:54:09 GMT
+Last-Updated: Fri, 23 Oct 2026 22:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -108282,7 +108282,7 @@ IO::Compress::Adapter::Xz         2.225  P/PM/PMQS/IO-Compress-Lzma-2.225.tar.gz
 IO::Compress::Adapter::Zstd       2.225  P/PM/PMQS/IO-Compress-Zstd-2.225.tar.gz
 IO::Compress::Base                2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Base::Common        2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
-IO::Compress::Brotli              0.022  T/TI/TIMLEGGE/IO-Compress-Brotli-0.022.tar.gz
+IO::Compress::Brotli              0.023  T/TI/TIMLEGGE/IO-Compress-Brotli-0.023.tar.gz
 IO::Compress::Bzip2               2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Deflate             2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Compress::Gzip                2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
@@ -110927,7 +110927,7 @@ IO::Uncompress::Adapter::UnZstd   2.225  P/PM/PMQS/IO-Compress-Zstd-2.225.tar.gz
 IO::Uncompress::AnyInflate        2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Uncompress::AnyUncompress     2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Uncompress::Base              2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
-IO::Uncompress::Brotli            0.022  T/TI/TIMLEGGE/IO-Compress-Brotli-0.022.tar.gz
+IO::Uncompress::Brotli            0.023  T/TI/TIMLEGGE/IO-Compress-Brotli-0.023.tar.gz
 IO::Uncompress::Bunzip2           2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Uncompress::Gunzip            2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
 IO::Uncompress::Inflate           2.225  P/PM/PMQS/IO-Compress-2.225.tar.gz
