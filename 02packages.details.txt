@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262423
-Last-Updated: Fri, 23 Oct 2026 19:17:02 GMT
+Last-Updated: Fri, 23 Oct 2026 19:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -46954,7 +46954,7 @@ ColorTransform::Tint              0.002  P/PE/PERLANCAR/ColorTransforms-Standard
 ColorTransform::Weight            0.002  P/PE/PERLANCAR/ColorTransforms-Standard-0.002.tar.gz
 ColorTransforms::Standard         0.002  P/PE/PERLANCAR/ColorTransforms-Standard-0.002.tar.gz
 Colouring::In                      0.27  L/LN/LNATION/Colouring-In-0.27.tar.gz
-Colouring::In::XS                  0.10  L/LN/LNATION/Colouring-In-XS-0.10.tar.gz
+Colouring::In::XS                  0.12  L/LN/LNATION/Colouring-In-XS-0.12.tar.gz
 Combinator                     0.004003  C/CI/CINDY/Combinator-0.004003.tar.gz
 Combinatorial::Permutations       undef  E/ED/EDPRATOMO/Algorithm-Permute-0.10.tar.gz
 Combine::Check_record             undef  A/AA/AARDO/combine_4.005.tar.gz
