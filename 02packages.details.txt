@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262418
-Last-Updated: Fri, 23 Oct 2026 09:54:03 GMT
+Last-Updated: Fri, 23 Oct 2026 10:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -105501,27 +105501,27 @@ HTTP::Handy                        1.07  I/IN/INA/HTTP/Handy/HTTP-Handy-1.07.tar
 HTTP::Handy::Input                 1.07  I/IN/INA/HTTP/Handy/HTTP-Handy-1.07.tar.gz
 HTTP::HeaderParser::XS             0.20  M/MA/MARKSMITH/HTTP-HeaderParser-XS-0.20.tar.gz
 HTTP::Headers                      7.04  O/OA/OALDERS/HTTP-Message-7.04.tar.gz
-HTTP::Headers::ActionPack          0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::AcceptCharset 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::AcceptLanguage 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::AuthenticationInfo 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::Authorization 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::Authorization::Basic 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::Authorization::Digest 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::ContentNegotiation 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::Core::Base 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::Core::BaseAuthHeader 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::Core::BaseHeaderList 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::Core::BaseHeaderType 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::Core::BaseHeaderWithParams 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::DateHeader 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::LinkHeader 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::LinkList 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::MediaType 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::MediaTypeList 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::PriorityList 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::Util    0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
-HTTP::Headers::ActionPack::WWWAuthenticate 0.09  D/DR/DROLSKY/HTTP-Headers-ActionPack-0.09.tar.gz
+HTTP::Headers::ActionPack          0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::AcceptCharset 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::AcceptLanguage 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::AuthenticationInfo 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::Authorization 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::Authorization::Basic 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::Authorization::Digest 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::ContentNegotiation 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::Core::Base 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::Core::BaseAuthHeader 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::Core::BaseHeaderList 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::Core::BaseHeaderType 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::Core::BaseHeaderWithParams 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::DateHeader 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::LinkHeader 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::LinkList 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::MediaType 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::MediaTypeList 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::PriorityList 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::Util    0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
+HTTP::Headers::ActionPack::WWWAuthenticate 0.10  R/RR/RRWO/HTTP-Headers-ActionPack-0.10.tar.gz
 HTTP::Headers::Auth                7.04  O/OA/OALDERS/HTTP-Message-7.04.tar.gz
 HTTP::Headers::ETag                7.04  O/OA/OALDERS/HTTP-Message-7.04.tar.gz
 HTTP::Headers::Fancy              1.001  Z/ZU/ZURBORG/HTTP-Headers-Fancy-1.001.tar.gz
