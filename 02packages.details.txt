@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262422
-Last-Updated: Fri, 23 Oct 2026 17:17:02 GMT
+Last-Updated: Fri, 23 Oct 2026 18:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -47837,14 +47837,14 @@ Config::ZOMG::Source::Loader   1.000000  F/FR/FREW/Config-ZOMG-1.000000.tar.gz
 Config_mO                         undef  R/RO/ROBERTMAY/Win32-GUI/Win32-GUI-1.06.tar.gz
 Config_u                          undef  M/MB/MBARBON/ExtUtils-FakeConfig-0.12.zip
 ConfigCache                       undef  T/TA/TAKAHITO/App-Prove-Plugin-MultipleConfig-0.02.tar.gz
-Configd                           0.002  T/TE/TEODESIAN/Configd-0.002.tar.gz
-Configd::Language                 0.002  T/TE/TEODESIAN/Configd-0.002.tar.gz
-Configd::Language::opendkim       0.002  T/TE/TEODESIAN/Configd-0.002.tar.gz
-Configd::Language::opendmarc      0.002  T/TE/TEODESIAN/Configd-0.002.tar.gz
-Configd::Language::postfix        0.002  T/TE/TEODESIAN/Configd-0.002.tar.gz
-Configd::Language::redis          0.002  T/TE/TEODESIAN/Configd-0.002.tar.gz
-Configd::Syntax::Spaced           0.002  T/TE/TEODESIAN/Configd-0.002.tar.gz
-Configd::Unit                     0.002  T/TE/TEODESIAN/Configd-0.002.tar.gz
+Configd                           0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
+Configd::Language                 0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
+Configd::Language::opendkim       0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
+Configd::Language::opendmarc      0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
+Configd::Language::postfix        0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
+Configd::Language::redis          0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
+Configd::Syntax::Spaced           0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
+Configd::Unit                     0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
 ConfigFile                        undef  G/GE/GEHIC/former-0.2beta.tar.gz
 ConfigHandler                     undef  E/ES/ESUMMERS/MARC-Detrans-1.41.tar.gz
 ConfigReader::DirectiveStyle        0.5  A/AM/AMW/ConfigReader-0.5.tar.gz
