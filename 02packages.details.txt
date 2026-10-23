@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262418
-Last-Updated: Fri, 23 Oct 2026 04:54:31 GMT
+Last-Updated: Fri, 23 Oct 2026 05:54:16 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -55587,7 +55587,7 @@ Data::Library::ManyPerFile          0.2  J/JM/JMAY/Data-Library-0.2.tar.gz
 Data::Library::OnePerFile           0.2  J/JM/JMAY/Data-Library-0.2.tar.gz
 Data::LineBuffer                   0.01  D/DJ/DJERIUS/Data-LineBuffer-0.01.tar.gz
 Data::LnArray                      0.06  L/LN/LNATION/Data-LnArray-0.06.tar.gz
-Data::LnArray::XS                  0.11  L/LN/LNATION/Data-LnArray-XS-0.11.tar.gz
+Data::LnArray::XS                  0.12  L/LN/LNATION/Data-LnArray-XS-0.12.tar.gz
 Data::LNPath                       1.03  L/LN/LNATION/Data-LNPath-1.03.tar.gz
 Data::Localize                  0.00028  D/DM/DMAKI/Data-Localize-0.00028.tar.gz
 Data::Localize::Auto              undef  D/DM/DMAKI/Data-Localize-0.00028.tar.gz
