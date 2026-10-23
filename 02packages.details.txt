@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262418
-Last-Updated: Fri, 23 Oct 2026 05:54:16 GMT
+Last-Updated: Fri, 23 Oct 2026 06:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -128399,7 +128399,7 @@ Math::BaseCnv                      1.14  P/PI/PIP/Math-BaseCnv-1.14.tgz
 Math::BaseConvert                   1.8  C/CH/CHROMATIC/Math-BaseConvert-1.8.tar.gz
 Math::BaseMulti                    1.01  B/BE/BENNING/Math-BaseMulti-1.01.tar.gz
 Math::Basic                        1.01  L/LN/LNATION/Math-Basic-1.01.tar.gz
-Math::Basic::XS                    0.05  L/LN/LNATION/Math-Basic-XS-0.05.tar.gz
+Math::Basic::XS                    0.06  L/LN/LNATION/Math-Basic-XS-0.06.tar.gz
 Math::Bezier                       0.01  A/AB/ABW/Math-Bezier-0.01.tar.gz
 Math::Bezier::Convert              0.02  Y/YS/YSAS/Math-Bezier-Convert-0.02.tar.gz
 Math::Big                          1.16  P/PJ/PJACKLAM/Math-Big-1.16.tar.gz
