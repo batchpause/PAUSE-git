@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262417
-Last-Updated: Fri, 23 Oct 2026 00:41:02 GMT
+Last-Updated: Fri, 23 Oct 2026 01:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -123144,12 +123144,12 @@ Locale::TextDomain::UTF8          0.020  P/PE/PERLANCAR/Locale-TextDomain-UTF8-0
 Locale::TextDomain::UTF8::IfEnv   0.001  P/PE/PERLANCAR/Locale-TextDomain-UTF8-IfEnv-0.001.tar.gz
 Locale::Tie                        0.03  P/PE/PERLANCAR/Locale-Tie-0.03.tar.gz
 Locale::Tie::SCALAR                0.03  P/PE/PERLANCAR/Locale-Tie-0.03.tar.gz
-Locale::Unicode                0.004004  J/JD/JDEGUEST/Locale-Unicode-v0.4.4.tar.gz
-Locale::Unicode::Boolean       0.004004  J/JD/JDEGUEST/Locale-Unicode-v0.4.4.tar.gz
+Locale::Unicode                0.004005  J/JD/JDEGUEST/Locale-Unicode-v0.4.5.tar.gz
+Locale::Unicode::Boolean       0.004005  J/JD/JDEGUEST/Locale-Unicode-v0.4.5.tar.gz
 Locale::Unicode::Data          1.009000  J/JD/JDEGUEST/Locale-Unicode-Data-v1.9.0.tar.gz
 Locale::Unicode::Data::Boolean 1.009000  J/JD/JDEGUEST/Locale-Unicode-Data-v1.9.0.tar.gz
 Locale::Unicode::Data::Exception 1.009000  J/JD/JDEGUEST/Locale-Unicode-Data-v1.9.0.tar.gz
-Locale::Unicode::Exception     0.004004  J/JD/JDEGUEST/Locale-Unicode-v0.4.4.tar.gz
+Locale::Unicode::Exception     0.004005  J/JD/JDEGUEST/Locale-Unicode-v0.4.5.tar.gz
 Locale::US                         3.04  A/AC/ACCARDO/Locale-US-3.04.tar.gz
 Locale::US::CensusDivisions    1.001000  P/PE/PERLSUFI/Locale-US-CensusDivisions-1.1.0.tar.gz
 Locale::Util                      undef  G/GU/GUIDO/libintl-perl-1.37.tar.gz
