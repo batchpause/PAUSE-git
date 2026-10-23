@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262422
-Last-Updated: Fri, 23 Oct 2026 16:29:02 GMT
+Last-Updated: Fri, 23 Oct 2026 16:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -231961,9 +231961,9 @@ Text::IQ::EN                      0.007  K/KA/KARMAN/Text-IQ-0.007.tar.gz
 Text::Ispell                       0.04  J/JD/JDPORTER/Text-Ispell-0.04.tar.gz
 Text::JaroWinkler                   0.1  S/SC/SCW/Text-JaroWinkler-0.1.tar.gz
 Text::JavE                     0.000003  O/OS/OSFAMERON/Text-JavE-0.0.3.tar.gz
-Text::JSCalendar                   0.07  B/BR/BRONG/Text-JSCalendar-0.07.tar.gz
-Text::JSCalendar::TimeZones       undef  B/BR/BRONG/Text-JSCalendar-0.07.tar.gz
-Text::JSContact                    0.03  B/BR/BRONG/Text-JSContact-0.03.tar.gz
+Text::JSCalendar                   0.08  B/BR/BRONG/Text-JSCalendar-0.08.tar.gz
+Text::JSCalendar::TimeZones       undef  B/BR/BRONG/Text-JSCalendar-0.08.tar.gz
+Text::JSContact                    0.04  B/BR/BRONG/Text-JSContact-0.04.tar.gz
 Text::JSON::Nibble                 1.01  D/DA/DAEMON/Text-JSON-Nibble-1.01.tar.gz
 Text::Kakasi                       2.04  D/DA/DANKOGAI/Text-Kakasi-2.04.tar.gz
 Text::Karma                        0.05  H/HI/HINRIK/Text-Karma-0.05.tar.gz
