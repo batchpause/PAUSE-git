@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262423
-Last-Updated: Fri, 23 Oct 2026 19:41:01 GMT
+Line-Count:   262440
+Last-Updated: Fri, 23 Oct 2026 19:54:14 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -10671,6 +10671,25 @@ App::FileSummoner::CreateFile     0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
 App::FileSummoner::Register       0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
 App::FileSummoner::Register::Rules 0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
 App::FileSummoner::SkeletonDirsFinder 0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
+App::FileSync                     0.001  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Admin              undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::CLI                undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Client             undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Config             undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Delta              undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Ignore             undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Lock               undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Merge              undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Protocol           undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Scan               undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Server             undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Settings           undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Snapshot           undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Store              undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Transport::Local   undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Transport::SSH     undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Trash              undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync::Verify             undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
 App::FileTestUtils                0.005  P/PE/PERLANCAR/App-FileTestUtils-0.005.tar.gz
 App::FileTools::BulkRename::Common 0.07  S/SW/SWESTRUP/App-FileTools-BulkRename-0.07.tar.gz
 App::FileTools::BulkRename::Docs   0.07  S/SW/SWESTRUP/App-FileTools-BulkRename-0.07.tar.gz
@@ -51521,8 +51540,8 @@ CSS::Croco::Term::Ident           undef  G/GU/GUGU/CSS-Croco-0.09.tar.gz
 CSS::Croco::Term::Number          undef  G/GU/GUGU/CSS-Croco-0.09.tar.gz
 CSS::Croco::Term::String          undef  G/GU/GUGU/CSS-Croco-0.09.tar.gz
 CSS::Croco::Term::URI             undef  G/GU/GUGU/CSS-Croco-0.09.tar.gz
-CSS::Declare                      undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-CSS::Declare::Unex                undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
+CSS::Declare                      undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+CSS::Declare::Unex                undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
 CSS::DOM                           0.17  S/SP/SPROUT/CSS-DOM-0.17.tar.gz
 CSS::DOM::Array                    0.17  S/SP/SPROUT/CSS-DOM-0.17.tar.gz
 CSS::DOM::Constants                0.17  S/SP/SPROUT/CSS-DOM-0.17.tar.gz
@@ -104590,7 +104609,7 @@ HTML::TagParser                    0.20  K/KA/KAWASAKI/HTML-TagParser-0.20.tar.g
 HTML::TagParser::Element           0.20  K/KA/KAWASAKI/HTML-TagParser-0.20.tar.gz
 HTML::TagParser::Util              0.20  K/KA/KAWASAKI/HTML-TagParser-0.20.tar.gz
 HTML::TagReader                    1.13  G/GU/GUS/HTML-TagReader-1.13.tar.gz
-HTML::Tags                        undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
+HTML::Tags                        undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
 HTML::Tagset                       3.24  P/PE/PETDANCE/HTML-Tagset-3.24.tar.gz
 HTML::TagTree                  1.003000  D/DD/DDEBRITO/HTML-TagTree-v1.03.tar.gz
 HTML::TagUtil                      1.43  L/LI/LINC/HTML-TagUtil-1.45.tar.gz
@@ -194546,7 +194565,7 @@ Plack::Middleware::DiePretty      0.001  A/AR/ARCANEZ/Plack-Middleware-DiePretty
 Plack::Middleware::DirIndex        1.01  D/DA/DAVECROSS/Plack-Middleware-DirIndex-1.01.tar.gz
 Plack::Middleware::DirIndex::Htaccess 1.00  J/JO/JOSERIJO/Plack-Middleware-DirIndex-Htaccess-1.01.tar.gz
 Plack::Middleware::DirListing      1.01  J/JO/JOSERIJO/Plack-Middleware-DirListing-1.01.tar.gz
-Plack::Middleware::Dispatch       undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
+Plack::Middleware::Dispatch       undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
 Plack::Middleware::Dispatch::GP    0.01  P/PA/PALIK/Plack-Middleware-Dispatch-GP-0.01.tar.gz
 Plack::Middleware::Dispatch::GP::Request 0.01  P/PA/PALIK/Plack-Middleware-Dispatch-GP-0.01.tar.gz
 Plack::Middleware::DNSBL         0.0304  V/VT/VTFRVL/Plack-Middleware-DNSBL/Plack-Middleware-DNSBL-0.0304.tar.gz
@@ -245503,17 +245522,17 @@ Web::DataService::Ruleset         undef  M/MM/MMCCLENN/Web-DataService-0.42.tar.
 Web::DataService::Set             undef  M/MM/MMCCLENN/Web-DataService-0.42.tar.gz
 Web::DataService::Vocabulary      undef  M/MM/MMCCLENN/Web-DataService-0.42.tar.gz
 Web::Detect                        0.05  P/PE/PERLANCAR/Web-Detect-0.05.tar.gz
-Web::Dispatch                     undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-Web::Dispatch::HTTPMethods        undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-Web::Dispatch::HTTPMethods::Endpoint undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-Web::Dispatch::Node               undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-Web::Dispatch::NotAnUpload        undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-Web::Dispatch::ParamParser        undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-Web::Dispatch::Parser             undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-Web::Dispatch::Predicates         undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-Web::Dispatch::ToApp              undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-Web::Dispatch::Upload             undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-Web::Dispatch::Wrapper            undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
+Web::Dispatch                     undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+Web::Dispatch::HTTPMethods        undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+Web::Dispatch::HTTPMethods::Endpoint undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+Web::Dispatch::Node               undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+Web::Dispatch::NotAnUpload        undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+Web::Dispatch::ParamParser        undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+Web::Dispatch::Parser             undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+Web::Dispatch::Predicates         undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+Web::Dispatch::ToApp              undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+Web::Dispatch::Upload             undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+Web::Dispatch::Wrapper            undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
 Web::Dispatcher::Simple            0.11  K/KI/KITANO/Web-Dispatcher-Simple-0.11.tar.gz
 Web::Dispatcher::Simple::Request  undef  K/KI/KITANO/Web-Dispatcher-Simple-0.11.tar.gz
 Web::Dispatcher::Simple::Response undef  K/KI/KITANO/Web-Dispatcher-Simple-0.11.tar.gz
@@ -245640,12 +245659,12 @@ Web::Scraper::Citations        0.000002  J/JM/JMERELO/Web-Scraper-Citations-0.0.
 Web::Scraper::Config               0.01  D/DM/DMAKI/Web-Scraper-Config-0.01.tar.gz
 Web::Scraper::Filter              undef  M/MI/MIYAGAWA/Web-Scraper-0.38.tar.gz
 Web::Scraper::LibXML              undef  M/MI/MIYAGAWA/Web-Scraper-0.38.tar.gz
-Web::Simple                       0.034  E/ET/ETHER/Web-Simple-0.034.tar.gz
-Web::Simple::Application          undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
+Web::Simple                       0.035  E/ET/ETHER/Web-Simple-0.035.tar.gz
+Web::Simple::Application          undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
 Web::Simple::Dispatcher           undef  F/FR/FREW/Web-Simple-0.004.tar.gz
 Web::Simple::DispatchParser       undef  F/FR/FREW/Web-Simple-0.004.tar.gz
 Web::Simple::ParamParser          undef  F/FR/FREW/Web-Simple-0.004.tar.gz
-Web::Simple::Role                 0.034  E/ET/ETHER/Web-Simple-0.034.tar.gz
+Web::Simple::Role                 0.035  E/ET/ETHER/Web-Simple-0.035.tar.gz
 Web::Sitemap                      0.903  B/BR/BRTASTIC/Web-Sitemap-0.903.tar.gz
 Web::Sitemap::File                 0.01  M/MB/MBOGDANOV/Web-Sitemap-0.04.tar.gz
 Web::Sitemap::Url                 0.903  B/BR/BRTASTIC/Web-Sitemap-0.903.tar.gz
@@ -250219,8 +250238,6 @@ WebService::ThreatStack            1.00  D/DS/DSIMONE/WebService-ThreatStack-1.0
 WebService::Thumbalizr              1.0  J/JS/JSOBRIER/WebService-Thumbalizr-1.0.0.tar.gz
 WebService::TicketAuth             1.05  B/BR/BRYCE/WebService-TicketAuth-1.05.tar.gz
 WebService::TicketAuth::DBI        1.05  B/BR/BRYCE/WebService-TicketAuth-1.05.tar.gz
-WebService::TogetherWeRemember     0.03  L/LN/LNATION/WebService-TogetherWeRemember-0.03.tar.gz
-WebService::TogetherWeRemember::v0::API undef  L/LN/LNATION/WebService-TogetherWeRemember-0.03.tar.gz
 WebService::Toggl                  0.11  F/FE/FELLIOTT/WebService-Toggl-0.11.tar.gz
 WebService::Toggl::API            undef  F/FE/FELLIOTT/WebService-Toggl-0.04.tar.gz
 WebService::Toggl::API::Client    undef  F/FE/FELLIOTT/WebService-Toggl-0.11.tar.gz
@@ -259301,10 +259318,10 @@ XML::Tag::html5_bootstrap         undef  M/MA/MARCC/xml-tag-0.1.tar.gz
 XML::Tag::ISO20022::Pain          undef  M/MA/MARCC/xml-tag-0.5.tar.gz
 XML::Tag::SVG                     undef  M/MA/MARCC/xml-tag-0.5.tar.gz
 XML::Tag::Sympa                   undef  M/MA/MARCC/xml-tag-0.5.tar.gz
-XML::Tags                         undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-XML::Tags::StringThing            undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-XML::Tags::TIEHANDLE              undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
-XML::Tags::Unex                   undef  E/ET/ETHER/Web-Simple-0.034.tar.gz
+XML::Tags                         undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+XML::Tags::StringThing            undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+XML::Tags::TIEHANDLE              undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
+XML::Tags::Unex                   undef  E/ET/ETHER/Web-Simple-0.035.tar.gz
 XML::Tape                           1.7  H/HO/HOCHSTEN/XML-Tape-0.22.tar.gz
 XML::Tape::Admin                    1.7  H/HO/HOCHSTEN/XML-Tape-0.22.tar.gz
 XML::Tape::Identifier               1.7  H/HO/HOCHSTEN/XML-Tape-0.22.tar.gz

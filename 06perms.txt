@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669829
+Line-Count:  669848
 Written-By:  PAUSE version 1.005
-Date:        Fri, 23 Oct 2026 19:17:43 GMT
+Date:        Fri, 23 Oct 2026 19:56:00 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -16843,6 +16843,25 @@ App::FileSummoner::CreateFile,MAIO,f
 App::FileSummoner::Register,MAIO,f
 App::FileSummoner::Register::Rules,MAIO,f
 App::FileSummoner::SkeletonDirsFinder,MAIO,f
+App::FileSync,NHORNE,f
+App::FileSync::Admin,NHORNE,f
+App::FileSync::CLI,NHORNE,f
+App::FileSync::Client,NHORNE,f
+App::FileSync::Config,NHORNE,f
+App::FileSync::Delta,NHORNE,f
+App::FileSync::Ignore,NHORNE,f
+App::FileSync::Lock,NHORNE,f
+App::FileSync::Merge,NHORNE,f
+App::FileSync::Protocol,NHORNE,f
+App::FileSync::Scan,NHORNE,f
+App::FileSync::Server,NHORNE,f
+App::FileSync::Settings,NHORNE,f
+App::FileSync::Snapshot,NHORNE,f
+App::FileSync::Store,NHORNE,f
+App::FileSync::Transport::Local,NHORNE,f
+App::FileSync::Transport::SSH,NHORNE,f
+App::FileSync::Trash,NHORNE,f
+App::FileSync::Verify,NHORNE,f
 App::FileTestUtils,PERLANCAR,f
 App::FileTools::BulkRename,SWESTRUP,f
 App::FileTools::BulkRename::Common,SWESTRUP,f
