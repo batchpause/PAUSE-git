@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262418
-Last-Updated: Fri, 23 Oct 2026 12:17:02 GMT
+Last-Updated: Fri, 23 Oct 2026 12:54:10 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -225429,12 +225429,12 @@ Tao::DBI::st_deep                 0.012  F/FE/FERREIRA/Tao-DBI-0.012.tar.gz
 TAP3::Tap3edit                     0.35  M/MR/MRJONES/TAP3-Tap3edit-0.35.tar.gz
 TAP::Base                          3.52  L/LE/LEONT/Test-Harness-3.52.tar.gz
 TAP::Convert::TET              0.002001  A/AN/ANDYA/TAP-Convert-TET-0.2.1.tar.gz
-TAP::DOM                          1.001  S/SC/SCHWIGON/TAP-DOM-1.001.tar.gz
-TAP::DOM::Archive                 1.001  S/SC/SCHWIGON/TAP-DOM-1.001.tar.gz
-TAP::DOM::Config                  1.001  S/SC/SCHWIGON/TAP-DOM-1.001.tar.gz
-TAP::DOM::DocumentData            1.001  S/SC/SCHWIGON/TAP-DOM-1.001.tar.gz
-TAP::DOM::Entry                   1.001  S/SC/SCHWIGON/TAP-DOM-1.001.tar.gz
-TAP::DOM::Summary                 1.001  S/SC/SCHWIGON/TAP-DOM-1.001.tar.gz
+TAP::DOM                          1.002  S/SC/SCHWIGON/TAP-DOM-1.002.tar.gz
+TAP::DOM::Archive                 1.002  S/SC/SCHWIGON/TAP-DOM-1.002.tar.gz
+TAP::DOM::Config                  1.002  S/SC/SCHWIGON/TAP-DOM-1.002.tar.gz
+TAP::DOM::DocumentData            1.002  S/SC/SCHWIGON/TAP-DOM-1.002.tar.gz
+TAP::DOM::Entry                   1.002  S/SC/SCHWIGON/TAP-DOM-1.002.tar.gz
+TAP::DOM::Summary                 1.002  S/SC/SCHWIGON/TAP-DOM-1.002.tar.gz
 TAP::DOM::Waivers                 0.003  S/SC/SCHWIGON/TAP-DOM-Waivers-0.003.tar.gz
 TAP::DOM::Waivers::Formatter      0.003  S/SC/SCHWIGON/TAP-DOM-Waivers-0.003.tar.gz
 TAP::DOM::Waivers::Formatter::Session 0.003  S/SC/SCHWIGON/TAP-DOM-Waivers-0.003.tar.gz
