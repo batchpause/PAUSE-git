@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262422
-Last-Updated: Fri, 23 Oct 2026 16:41:02 GMT
+Last-Updated: Fri, 23 Oct 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -51347,7 +51347,7 @@ Crypt::XXTEA_XS                  0.0101  J/JA/JAHIY/Crypt-XXTEA_XS-0.0101.tar.gz
 Crypt::YAPassGen                   0.02  G/GI/GIULIENK/Crypt-YAPassGen-0.02.tar.gz
 Crypt::Yescrypt                   0.004  L/LE/LEONT/Crypt-Yescrypt-0.004.tar.gz
 Crypt::ZCert                   0.003002  A/AV/AVENJ/Crypt-ZCert-0.003002.tar.gz
-Crypter                            1.01  T/TR/TRUNAEV/Crypter-1.01.tar.gz
+Crypter                             1.1  T/TR/TRUNAEV/Crypter-1.1.tar.gz
 Crypto::NanoRPC                0.009001  H/HA/HACKTOR/Crypto-NanoRPC-0.9.1.tar.gz
 Crypto::Utils                     0.003  A/AB/ABBYPAN/Crypto-Utils-0.003.tar.gz
 Crypto::Utils::CPace              0.014  A/AB/ABBYPAN/Crypto-Utils-0.003.tar.gz
@@ -64218,23 +64218,23 @@ DBIx::SchemaChecksum::Driver::mysql undef  D/DO/DOMM/DBIx-SchemaChecksum-1.102.t
 DBIx::SchemaChecksum::Driver::Pg  1.104  D/DO/DOMM/DBIx-SchemaChecksum-1.104.tar.gz
 DBIx::SchemaChecksum::Driver::SQLite 1.104  D/DO/DOMM/DBIx-SchemaChecksum-1.104.tar.gz
 DBIx::ScopedTransaction          v1.2.0  A/AU/AUBERTG/DBIx-ScopedTransaction-v1.2.0.tar.gz
-DBIx::SearchBuilder                1.85  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Handle       undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Handle::Informix undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Handle::MariaDB undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Handle::mysql undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Handle::mysqlPP undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Handle::ODBC undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Handle::Oracle undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Handle::Pg   undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Handle::SQLite undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Handle::Sybase undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Record       undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Record::Cachable undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::SchemaGenerator undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Union            0  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Unique        0.01  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
-DBIx::SearchBuilder::Util         undef  B/BP/BPS/DBIx-SearchBuilder-1.85.tar.gz
+DBIx::SearchBuilder                1.86  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Handle       undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Handle::Informix undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Handle::MariaDB undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Handle::mysql undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Handle::mysqlPP undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Handle::ODBC undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Handle::Oracle undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Handle::Pg   undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Handle::SQLite undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Handle::Sybase undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Record       undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Record::Cachable undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::SchemaGenerator undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Union            0  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Unique        0.01  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
+DBIx::SearchBuilder::Util         undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
 DBIx::SearchProfiles                1.9  F/FR/FRAJULAC/Apache-iNcom-0.09.tar.gz
 DBIx::SecureCGI                  v3.0.1  P/PO/POWERMAN/DBIx-SecureCGI-v3.0.1.tar.gz
 DBIx::Sequence                      1.5  B/BB/BBEAUSEJ/DBIx-Sequence-1.5.tar.gz
@@ -222351,7 +222351,7 @@ StringEvolver                      0.03  R/RO/ROSULEK/Algorithm-Evolve-0.03.tar.
 StringHandle                       0.20  G/GM/GMAX/Chess-PGN-Parse-0.20.tar.gz
 Stringify::Deep                    0.03  A/AQ/AQUILINA/Stringify-Deep-0.03.tar.gz
 StrNum                            undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrNum.pm.gz
-Strong::Random                     0.92  T/TR/TRUNAEV/Strong-Random-0.92.tar.gz
+Strong::Random                     0.94  T/TR/TRUNAEV/Strong-Random-0.94.tar.gz
 StrTree                           undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrTree.pm.gz
 Struct::Codec                      0.10  L/LN/LNATION/Struct-Codec-0.10.tar.gz
 Struct::Compare                     1.0  Z/ZE/ZENSPIDER/Struct-Compare-1.0.1.tar.gz
