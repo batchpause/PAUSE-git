@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669850
+Line-Count:  669869
 Written-By:  PAUSE version 1.005
-Date:        Fri, 23 Oct 2026 20:29:10 GMT
+Date:        Sat, 24 Oct 2026 00:18:33 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -356711,6 +356711,24 @@ Locale::Unicode::Data,JDEGUEST,f
 Locale::Unicode::Data::Boolean,JDEGUEST,f
 Locale::Unicode::Data::Exception,JDEGUEST,f
 Locale::Unicode::Exception,JDEGUEST,f
+Locale::Unicode::RBNF,JDEGUEST,f
+Locale::Unicode::RBNF::CLDR,JDEGUEST,f
+Locale::Unicode::RBNF::DecimalFormat,JDEGUEST,f
+Locale::Unicode::RBNF::Exception,JDEGUEST,f
+Locale::Unicode::RBNF::PP,JDEGUEST,f
+Locale::Unicode::RBNF::PluralFormat,JDEGUEST,f
+Locale::Unicode::RBNF::PluralRules,JDEGUEST,f
+Locale::Unicode::RBNF::Rule,JDEGUEST,f
+Locale::Unicode::RBNF::RuleSet,JDEGUEST,f
+Locale::Unicode::RBNF::Substitution,JDEGUEST,f
+Locale::Unicode::RBNF::Substitution::AbsoluteValue,JDEGUEST,f
+Locale::Unicode::RBNF::Substitution::FractionalPart,JDEGUEST,f
+Locale::Unicode::RBNF::Substitution::IntegralPart,JDEGUEST,f
+Locale::Unicode::RBNF::Substitution::Modulus,JDEGUEST,f
+Locale::Unicode::RBNF::Substitution::Multiplier,JDEGUEST,f
+Locale::Unicode::RBNF::Substitution::Numerator,JDEGUEST,f
+Locale::Unicode::RBNF::Substitution::SameValue,JDEGUEST,f
+Locale::Unicode::RBNF::Util,JDEGUEST,f
 Locale::Util,GUIDO,f
 Locale::Utils::Autotranslator,STEFFENW,f
 Locale::Utils::Autotranslator::ApiMymemoryTranslatedNet,STEFFENW,f
@@ -616326,6 +616344,7 @@ Tickit::Style,PEVANS,f
 Tickit::Style::Parser,PEVANS,f
 Tickit::Term,PEVANS,f
 Tickit::Term::xterm,PEVANS,f
+Tickit::Terminal::Prompt,GANGLION,f
 Tickit::Test,PEVANS,f
 Tickit::Test::MockTerm,PEVANS,f
 Tickit::Utils,PEVANS,f

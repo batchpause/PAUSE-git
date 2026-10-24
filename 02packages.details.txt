@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262442
-Last-Updated: Fri, 23 Oct 2026 22:17:02 GMT
+Line-Count:   262461
+Last-Updated: Sat, 24 Oct 2026 00:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -47857,14 +47857,14 @@ Config::ZOMG::Source::Loader   1.000000  F/FR/FREW/Config-ZOMG-1.000000.tar.gz
 Config_mO                         undef  R/RO/ROBERTMAY/Win32-GUI/Win32-GUI-1.06.tar.gz
 Config_u                          undef  M/MB/MBARBON/ExtUtils-FakeConfig-0.12.zip
 ConfigCache                       undef  T/TA/TAKAHITO/App-Prove-Plugin-MultipleConfig-0.02.tar.gz
-Configd                           0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
-Configd::Language                 0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
-Configd::Language::opendkim       0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
-Configd::Language::opendmarc      0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
-Configd::Language::postfix        0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
-Configd::Language::redis          0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
-Configd::Syntax::Spaced           0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
-Configd::Unit                     0.003  T/TE/TEODESIAN/Configd-0.003.tar.gz
+Configd                           0.004  T/TE/TEODESIAN/Configd-0.004.tar.gz
+Configd::Language                 0.004  T/TE/TEODESIAN/Configd-0.004.tar.gz
+Configd::Language::opendkim       0.004  T/TE/TEODESIAN/Configd-0.004.tar.gz
+Configd::Language::opendmarc      0.004  T/TE/TEODESIAN/Configd-0.004.tar.gz
+Configd::Language::postfix        0.004  T/TE/TEODESIAN/Configd-0.004.tar.gz
+Configd::Language::redis          0.004  T/TE/TEODESIAN/Configd-0.004.tar.gz
+Configd::Syntax::Spaced           0.004  T/TE/TEODESIAN/Configd-0.004.tar.gz
+Configd::Unit                     0.004  T/TE/TEODESIAN/Configd-0.004.tar.gz
 ConfigFile                        undef  G/GE/GEHIC/former-0.2beta.tar.gz
 ConfigHandler                     undef  E/ES/ESUMMERS/MARC-Detrans-1.41.tar.gz
 ConfigReader::DirectiveStyle        0.5  A/AM/AMW/ConfigReader-0.5.tar.gz
@@ -123174,6 +123174,24 @@ Locale::Unicode::Data          1.009000  J/JD/JDEGUEST/Locale-Unicode-Data-v1.9.
 Locale::Unicode::Data::Boolean 1.009000  J/JD/JDEGUEST/Locale-Unicode-Data-v1.9.0.tar.gz
 Locale::Unicode::Data::Exception 1.009000  J/JD/JDEGUEST/Locale-Unicode-Data-v1.9.0.tar.gz
 Locale::Unicode::Exception     0.004006  J/JD/JDEGUEST/Locale-Unicode-v0.4.6.tar.gz
+Locale::Unicode::RBNF          0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::CLDR    0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::DecimalFormat 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::Exception 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::PluralFormat 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::PluralRules 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::PP      0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::Rule    0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::RuleSet 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::Substitution 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::Substitution::AbsoluteValue 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::Substitution::FractionalPart 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::Substitution::IntegralPart 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::Substitution::Modulus 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::Substitution::Multiplier 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::Substitution::Numerator 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::Substitution::SameValue 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF::Util    0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
 Locale::US                         3.04  A/AC/ACCARDO/Locale-US-3.04.tar.gz
 Locale::US::CensusDivisions    1.001000  P/PE/PERLSUFI/Locale-US-CensusDivisions-1.1.0.tar.gz
 Locale::Util                      undef  G/GU/GUIDO/libintl-perl-1.37.tar.gz
@@ -233660,6 +233678,7 @@ Tickit::StringPos                  0.77  P/PE/PEVANS/Tickit-0.77.tar.gz
 Tickit::Style                      0.60  P/PE/PEVANS/Tickit-Widgets-0.42.tar.gz
 Tickit::Style::Parser              0.56  P/PE/PEVANS/Tickit-Widgets-0.42.tar.gz
 Tickit::Term                       0.77  P/PE/PEVANS/Tickit-0.77.tar.gz
+Tickit::Terminal::Prompt          0.002  G/GA/GANGLION/Tickit-Terminal-Prompt-0.002.tar.gz
 Tickit::Test                       0.77  P/PE/PEVANS/Tickit-0.77.tar.gz
 Tickit::Test::MockTerm             0.77  P/PE/PEVANS/Tickit-0.77.tar.gz
 Tickit::Utils                      0.77  P/PE/PEVANS/Tickit-0.77.tar.gz
