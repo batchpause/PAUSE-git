@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262536
-Last-Updated: Sat, 24 Oct 2026 15:17:03 GMT
+Last-Updated: Sat, 24 Oct 2026 15:54:10 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4215,7 +4215,7 @@ Alien::Bit                         0.09  C/CH/CHRISARG/Alien-Bit-0.09.tar.gz
 Alien::Boost::Headers               1.9  C/CO/CONTRA/Alien-Boost-Headers-1.9.tar.gz
 Alien::Boost::ProgramOptions        1.7  C/CO/CONTRA/Alien-Boost-ProgramOptions-1.7.tar.gz
 Alien::Box2D                      0.106  F/FR/FROGGS/Alien-Box2D-0.106.tar.gz
-Alien::Brotli                    v0.2.2  R/RR/RRWO/Alien-Brotli-v0.2.2.tar.gz
+Alien::Brotli                    v0.2.3  R/RR/RRWO/Alien-Brotli-v0.2.3.tar.gz
 Alien::Build                       2.88  P/PL/PLICEASE/Alien-Build-2.88.tar.gz
 Alien::Build::CommandSequence      2.88  P/PL/PLICEASE/Alien-Build-2.88.tar.gz
 Alien::Build::Git                  0.10  P/PL/PLICEASE/Alien-Build-Git-0.10.tar.gz
