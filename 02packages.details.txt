@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262536
-Last-Updated: Sat, 24 Oct 2026 16:17:02 GMT
+Line-Count:   262535
+Last-Updated: Sat, 24 Oct 2026 16:54:50 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -85370,7 +85370,6 @@ Geo::Coder::Free::MissCache        0.51  N/NH/NHORNE/Geo-Coder-Free-0.51.tar.gz
 Geo::Coder::Free::OpenAddresses    0.51  N/NH/NHORNE/Geo-Coder-Free-0.51.tar.gz
 Geo::Coder::Free::Provenance       0.51  N/NH/NHORNE/Geo-Coder-Free-0.51.tar.gz
 Geo::Coder::Free::Utils            0.51  N/NH/NHORNE/Geo-Coder-Free-0.51.tar.gz
-Geo::Coder::Free::Validate         0.47  N/NH/NHORNE/Geo-Coder-Free-0.47.tar.gz
 Geo::Coder::GeoApify               0.03  N/NH/NHORNE/Geo-Coder-GeoApify-0.03.tar.gz
 Geo::Coder::GeocodeFarm          0.0500  D/DE/DEXTER/Geo-Coder-GeocodeFarm-0.0500.tar.gz
 Geo::Coder::Google                 0.20  A/AR/ARCANEZ/Geo-Coder-Google-0.20.tar.gz
