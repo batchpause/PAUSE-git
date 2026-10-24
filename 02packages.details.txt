@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262459
-Last-Updated: Sat, 24 Oct 2026 01:29:02 GMT
+Last-Updated: Sat, 24 Oct 2026 02:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -196009,7 +196009,7 @@ Pod::MinimumVersion                  50  K/KR/KRYDE/Pod-MinimumVersion-50.tar.gz
 Pod::MinimumVersion::Parser          50  K/KR/KRYDE/Pod-MinimumVersion-50.tar.gz
 Pod::MinimumVersion::Report          50  K/KR/KRYDE/Pod-MinimumVersion-50.tar.gz
 Pod::Modifier                         1  V/VE/VERMAUDH/Pod-Modifier-1.tar.gz
-Pod::Multi                         0.10  J/JK/JKEENAN/Pod-Multi-0.10.tar.gz
+Pod::Multi                         0.11  J/JK/JKEENAN/Pod-Multi-0.11.tar.gz
 Pod::MultiLang                     0.14  H/HI/HIO/Pod-MultiLang-0.14.tar.gz
 Pod::MultiLang::Dict               0.01  H/HI/HIO/Pod-MultiLang-0.14.tar.gz
 Pod::MultiLang::Dict::ja           0.01  H/HI/HIO/Pod-MultiLang-0.14.tar.gz
