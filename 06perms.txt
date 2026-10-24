@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669872
+Line-Count:  669927
 Written-By:  PAUSE version 1.005
-Date:        Sat, 24 Oct 2026 02:55:36 GMT
+Date:        Sat, 24 Oct 2026 03:18:33 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -19547,6 +19547,7 @@ App::Netdisco::Core::Discover,OLIVER,f
 App::Netdisco::Core::Macsuck,OLIVER,f
 App::Netdisco::Core::Nbtstat,OLIVER,f
 App::Netdisco::DB,OLIVER,f
+App::Netdisco::DB::Deploy,OLIVER,f
 App::Netdisco::DB::ExplicitLocking,OLIVER,f
 App::Netdisco::DB::Result,OLIVER,f
 App::Netdisco::DB::Result::AccessControlList,OLIVER,f
@@ -19645,8 +19646,11 @@ App::Netdisco::DB::ResultSet::NodeNbt,OLIVER,f
 App::Netdisco::DB::ResultSet::NodeWireless,OLIVER,f
 App::Netdisco::DB::ResultSet::PortCtlRole,OLIVER,f
 App::Netdisco::DB::ResultSet::Subnet,OLIVER,f
+App::Netdisco::DB::SchemaCheck,OLIVER,f
 App::Netdisco::DB::SchemaVersioned,OLIVER,f
 App::Netdisco::DB::SetOperations,OLIVER,f
+App::Netdisco::DB::StepFile,OLIVER,f
+App::Netdisco::DB::UpgradeMessage,OLIVER,f
 App::Netdisco::Daemon::DB,OLIVER,f
 App::Netdisco::Daemon::DB::Result::Admin,OLIVER,f
 App::Netdisco::Daemon::Job,OLIVER,f
@@ -19723,6 +19727,7 @@ App::Netdisco::Util::Permissions,OLIVER,f
 App::Netdisco::Util::Port,OLIVER,f
 App::Netdisco::Util::PortAccessEntity,OLIVER,f
 App::Netdisco::Util::PortMAC,OLIVER,f
+App::Netdisco::Util::PostgresFloor,OLIVER,f
 App::Netdisco::Util::Python,OLIVER,f
 App::Netdisco::Util::SNMP,OLIVER,f
 App::Netdisco::Util::SNMPText,OLIVER,f
@@ -586214,6 +586219,56 @@ Skeletor::Template::Example,JJNAPIORK,f
 Skeletor::Template::Quick,MSCHILLI,f
 SkewHeap,JEFFOBER,f
 SkewHeap::PP,JEFFOBER,f
+Skilletor,GETTY,f
+Skilletor::Apply,GETTY,f
+Skilletor::Backend,GETTY,f
+Skilletor::Briefing,GETTY,f
+Skilletor::Bundles,GETTY,f
+Skilletor::Cache,GETTY,f
+Skilletor::Catalog,GETTY,f
+Skilletor::ClaudeSettings,GETTY,f
+Skilletor::Config,GETTY,f
+Skilletor::Engine,GETTY,f
+Skilletor::Entry,GETTY,f
+Skilletor::Error,GETTY,f
+Skilletor::Error::Ambiguous,GETTY,f
+Skilletor::Error::Apply,GETTY,f
+Skilletor::Error::Bundle,GETTY,f
+Skilletor::Error::CacheRejected,GETTY,f
+Skilletor::Error::Catalog,GETTY,f
+Skilletor::Error::Config,GETTY,f
+Skilletor::Error::Frontmatter,GETTY,f
+Skilletor::Error::JSON,GETTY,f
+Skilletor::Error::Lock,GETTY,f
+Skilletor::Error::LockTimeout,GETTY,f
+Skilletor::Error::Source,GETTY,f
+Skilletor::Error::Spec,GETTY,f
+Skilletor::Error::Tar,GETTY,f
+Skilletor::Error::Target,GETTY,f
+Skilletor::Error::Unsupported,GETTY,f
+Skilletor::FSUtil,GETTY,f
+Skilletor::Frontmatter,GETTY,f
+Skilletor::Frontmatter::Float,GETTY,f
+Skilletor::GitEnv,GETTY,f
+Skilletor::Gitignore,GETTY,f
+Skilletor::Gzip,GETTY,f
+Skilletor::JSON,GETTY,f
+Skilletor::JSON::OrderedHash,GETTY,f
+Skilletor::JSString,GETTY,f
+Skilletor::Lock,GETTY,f
+Skilletor::Process,GETTY,f
+Skilletor::Render,GETTY,f
+Skilletor::Report,GETTY,f
+Skilletor::Resolver,GETTY,f
+Skilletor::Role::Source,GETTY,f
+Skilletor::Source::Git,GETTY,f
+Skilletor::Source::Local,GETTY,f
+Skilletor::Source::Url,GETTY,f
+Skilletor::Spec,GETTY,f
+Skilletor::State,GETTY,f
+Skilletor::Tar,GETTY,f
+Skilletor::Targets,GETTY,f
+Skilletor::URL,GETTY,f
 Skype::Any,AKIYM,f
 Skype::Any::API,AKIYM,f
 Skype::Any::API::darwin,AKIYM,f
