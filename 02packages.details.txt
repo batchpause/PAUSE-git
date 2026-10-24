@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262516
-Last-Updated: Sat, 24 Oct 2026 03:54:15 GMT
+Last-Updated: Sat, 24 Oct 2026 04:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -191665,7 +191665,7 @@ Perl::Critic::Policy::ProhibitPipeOpen 1.000  T/TE/TEODESIAN/perl-critic-policy-
 Perl::Critic::Policy::ProhibitPrintSTDERR 1.000  T/TE/TEODESIAN/perl-critic-policy-prohibitprintstderr-1.000.tar.gz
 Perl::Critic::Policy::ProhibitRegexForSimpleSubstring 1.001  T/TE/TEODESIAN/perl-critic-policy-prohibitregexforsimplesubstring-1.001.tar.gz
 Perl::Critic::Policy::ProhibitSmartmatch 0.4  H/HO/HOLCAPEK/Perl-Critic-Policy-ProhibitSmartmatch-0.4.tar.gz
-Perl::Critic::Policy::ProhibitUnusedDefinitions 0.006  T/TE/TEODESIAN/Perl-Critic-Policy-ProhibitUnusedDefinitions-0.006.tar.gz
+Perl::Critic::Policy::ProhibitUnusedDefinitions 0.007  T/TE/TEODESIAN/Perl-Critic-Policy-ProhibitUnusedDefinitions-0.007.tar.gz
 Perl::Critic::Policy::ProhibitUnusedImports 1.001  T/TE/TEODESIAN/perl-critic-policy-prohibitunusedimports-1.001.tar.gz
 Perl::Critic::Policy::ProhibitUsageSubs 1.000  T/TE/TEODESIAN/perl-critic-policy-prohibitusagesubs-1.000.tar.gz
 Perl::Critic::Policy::ProhibitUseLib 1.000  T/TE/TEODESIAN/perl-critic-policy-prohibituselib-1.000.tar.gz
