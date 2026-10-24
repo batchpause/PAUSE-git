@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262529
-Last-Updated: Sat, 24 Oct 2026 13:54:21 GMT
+Line-Count:   262536
+Last-Updated: Sat, 24 Oct 2026 14:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -10671,25 +10671,32 @@ App::FileSummoner::CreateFile     0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
 App::FileSummoner::Register       0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
 App::FileSummoner::Register::Rules 0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
 App::FileSummoner::SkeletonDirsFinder 0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
-App::FileSync                     0.001  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Admin              undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::CLI                undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Client             undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Config             undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Delta              undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Ignore             undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Lock               undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Merge              undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Protocol           undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Scan               undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Server             undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Settings           undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Snapshot           undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Store              undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Transport::Local   undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Transport::SSH     undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Trash              undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
-App::FileSync::Verify             undef  N/NH/NHORNE/App-FileSync-0.001.0.tar.gz
+App::FileSync                  0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Admin           0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Args            0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Base            0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::CLI             0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Client          0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Config          0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Constants       0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Delta           0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::I18N            0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::I18N::en        0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Ignore          0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::IO              0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Lock            0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Merge           0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Platform        0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Protocol        0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Scan            0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Server          0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Settings        0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Snapshot        0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Store           0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Transport::Local 0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Transport::SSH  0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Trash           0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
+App::FileSync::Verify          0.001001  N/NH/NHORNE/App-FileSync-0.001.1.tar.gz
 App::FileTestUtils                0.005  P/PE/PERLANCAR/App-FileTestUtils-0.005.tar.gz
 App::FileTools::BulkRename::Common 0.07  S/SW/SWESTRUP/App-FileTools-BulkRename-0.07.tar.gz
 App::FileTools::BulkRename::Docs   0.07  S/SW/SWESTRUP/App-FileTools-BulkRename-0.07.tar.gz
@@ -222979,7 +222986,7 @@ SVG::VCD::Taxon                   undef  M/MI/MIRK/SVG-VCD-0.4.tar.gz
 SVG::XML                           2.89  M/MA/MANWAR/SVG-2.89.tar.gz
 SVGExtension                       1.06  C/CM/CMERTZ/svg-svg2zinc-0.10.tar.gz
 SVGGraph                           0.07  T/TE/TEUN/SVGGraph-0.07.tar.gz
-SVGPDF                            1.000  J/JV/JV/SVGPDF-1.000.tar.gz
+SVGPDF                            1.001  J/JV/JV/SVGPDF-1.001.tar.gz
 SVGraph                            0.02  C/CO/COMSULTIA/SVGraph-0.02.tar.gz
 SVK                              v2.2.3  C/CL/CLKAO/SVK-v2.2.3.tar.gz
 SVK::Accessor                     undef  C/CL/CLKAO/SVK-v2.2.3.tar.gz
