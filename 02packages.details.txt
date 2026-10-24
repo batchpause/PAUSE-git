@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262536
-Last-Updated: Sat, 24 Oct 2026 20:29:01 GMT
+Last-Updated: Sat, 24 Oct 2026 20:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -233751,7 +233751,7 @@ Tickit::StringPos                  0.77  P/PE/PEVANS/Tickit-0.77.tar.gz
 Tickit::Style                      0.60  P/PE/PEVANS/Tickit-Widgets-0.42.tar.gz
 Tickit::Style::Parser              0.56  P/PE/PEVANS/Tickit-Widgets-0.42.tar.gz
 Tickit::Term                       0.77  P/PE/PEVANS/Tickit-0.77.tar.gz
-Tickit::Terminal::Prompt          0.003  G/GA/GANGLION/Tickit-Terminal-Prompt-0.003.tar.gz
+Tickit::Terminal::Prompt          0.004  G/GA/GANGLION/Tickit-Terminal-Prompt-0.004.tar.gz
 Tickit::Test                       0.77  P/PE/PEVANS/Tickit-0.77.tar.gz
 Tickit::Test::MockTerm             0.77  P/PE/PEVANS/Tickit-0.77.tar.gz
 Tickit::Utils                      0.77  P/PE/PEVANS/Tickit-0.77.tar.gz
