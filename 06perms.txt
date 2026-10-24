@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669948
+Line-Count:  669956
 Written-By:  PAUSE version 1.005
-Date:        Sat, 24 Oct 2026 20:17:12 GMT
+Date:        Sat, 24 Oct 2026 21:18:40 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -567595,6 +567595,10 @@ SNMP::Info::Layer2::Orinoco,CVICENTE,c
 SNMP::Info::Layer2::Orinoco,EMILLER,c
 SNMP::Info::Layer2::Orinoco,MAXB,c
 SNMP::Info::Layer2::Orinoco,OLIVER,f
+SNMP::Info::Layer2::RuckusAP,CVICENTE,c
+SNMP::Info::Layer2::RuckusAP,EMILLER,c
+SNMP::Info::Layer2::RuckusAP,MAXB,c
+SNMP::Info::Layer2::RuckusAP,OLIVER,f
 SNMP::Info::Layer2::Sixnet,CVICENTE,c
 SNMP::Info::Layer2::Sixnet,EMILLER,c
 SNMP::Info::Layer2::Sixnet,MAXB,c
@@ -567859,6 +567863,10 @@ SNMP::Info::Layer3::Scalance,CVICENTE,c
 SNMP::Info::Layer3::Scalance,EMILLER,c
 SNMP::Info::Layer3::Scalance,MAXB,c
 SNMP::Info::Layer3::Scalance,OLIVER,f
+SNMP::Info::Layer3::Siemens,CVICENTE,c
+SNMP::Info::Layer3::Siemens,EMILLER,c
+SNMP::Info::Layer3::Siemens,MAXB,c
+SNMP::Info::Layer3::Siemens,OLIVER,f
 SNMP::Info::Layer3::SilverPeak,CVICENTE,c
 SNMP::Info::Layer3::SilverPeak,EMILLER,c
 SNMP::Info::Layer3::SilverPeak,MAXB,c
