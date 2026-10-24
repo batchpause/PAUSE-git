@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669927
+Line-Count:  669938
 Written-By:  PAUSE version 1.005
-Date:        Sat, 24 Oct 2026 03:18:33 GMT
+Date:        Sat, 24 Oct 2026 05:29:12 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -345171,18 +345171,29 @@ Langertha::Skeid::CapacityProbe,GETTY,f
 Langertha::Skeid::CapacityProbe::Custom,GETTY,f
 Langertha::Skeid::CapacityProbe::Prometheus,GETTY,f
 Langertha::Skeid::CapacityProbe::Registry,GETTY,f
+Langertha::Skeid::CustomerSource,GETTY,f
+Langertha::Skeid::CustomerSource::DBI,GETTY,f
 Langertha::Skeid::KeyBroker,GETTY,f
 Langertha::Skeid::KeyBroker::OpenBao,GETTY,f
+Langertha::Skeid::OpenAPI,GETTY,f
 Langertha::Skeid::Protocol,GETTY,f
 Langertha::Skeid::Protocol::Anthropic,GETTY,f
 Langertha::Skeid::Protocol::Anthropic::Stream,GETTY,f
+Langertha::Skeid::Protocol::Audio,GETTY,f
+Langertha::Skeid::Protocol::Documents,GETTY,f
+Langertha::Skeid::Protocol::MCP,GETTY,f
 Langertha::Skeid::Protocol::Ollama,GETTY,f
 Langertha::Skeid::Protocol::Ollama::Stream,GETTY,f
+Langertha::Skeid::Protocol::RawBody,GETTY,f
+Langertha::Skeid::Protocol::Realtime,GETTY,f
 Langertha::Skeid::Protocol::Refusal,GETTY,f
+Langertha::Skeid::Protocol::Rerank,GETTY,f
 Langertha::Skeid::Proxy,GETTY,f
+Langertha::Skeid::Proxy::Realtime,GETTY,f
 Langertha::Skeid::Proxy::RelayContent,GETTY,f
 Langertha::Skeid::Registry,GETTY,f
 Langertha::Skeid::Secret,GETTY,f
+Langertha::Skeid::SwaggerUI,GETTY,f
 Langertha::Skeid::UsageStore,GETTY,f
 Langertha::Skeid::UsageStore::DBI,GETTY,f
 Langertha::Skeid::UsageStore::JsonLog,GETTY,f
