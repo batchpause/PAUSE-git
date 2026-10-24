@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262527
-Last-Updated: Sat, 24 Oct 2026 09:17:02 GMT
+Last-Updated: Sat, 24 Oct 2026 09:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -8735,10 +8735,10 @@ App::annex_to_annex               0.008  S/SP/SPWHITTON/Git-Annex-0.008.tar.gz
 App::annex_to_annex_dropunused    0.008  S/SP/SPWHITTON/Git-Annex-0.008.tar.gz
 App::annex_to_annex_reinject      0.008  S/SP/SPWHITTON/Git-Annex-0.008.tar.gz
 App::ANSIColorUtils               0.011  P/PE/PERLANCAR/App-ANSIColorUtils-0.011.tar.gz
-App::ansicolumn                  1.5702  U/UT/UTASHIRO/App-ansicolumn-1.5702.tar.gz
-App::ansicolumn::Border           undef  U/UT/UTASHIRO/App-ansicolumn-1.5702.tar.gz
-App::ansicolumn::Command          undef  U/UT/UTASHIRO/App-ansicolumn-1.5702.tar.gz
-App::ansicolumn::default          undef  U/UT/UTASHIRO/App-ansicolumn-1.5702.tar.gz
+App::ansicolumn                    1.58  U/UT/UTASHIRO/App-ansicolumn-1.58.tar.gz
+App::ansicolumn::Border           undef  U/UT/UTASHIRO/App-ansicolumn-1.58.tar.gz
+App::ansicolumn::Command          undef  U/UT/UTASHIRO/App-ansicolumn-1.58.tar.gz
+App::ansicolumn::default          undef  U/UT/UTASHIRO/App-ansicolumn-1.58.tar.gz
 App::ansiecho                      1.10  U/UT/UTASHIRO/App-ansiecho-1.10.tar.gz
 App::ansiecho::Util               undef  U/UT/UTASHIRO/App-ansiecho-1.10.tar.gz
 App::ansiexpand                    1.06  U/UT/UTASHIRO/App-ansiexpand-1.06.tar.gz
