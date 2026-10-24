@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262536
-Last-Updated: Sat, 24 Oct 2026 20:17:02 GMT
+Last-Updated: Sat, 24 Oct 2026 20:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -235254,8 +235254,8 @@ Tk::TextUndo                      4.015  S/SR/SREZIC/Tk-804.036.tar.gz
 Tk::TextVi                        0.015  J/JS/JSTROM/Tk-TextVi-0.015.tar.gz
 Tk::TFrame                         2.02  S/SR/SREZIC/Tk-GBARR-2.08.tar.gz
 Tk::Thumbnail                       1.3  L/LU/LUSOL/Tk-Thumbnail-1.3.tar.gz
-Tk::Tickit::Bridge                0.002  G/GA/GANGLION/Tk-Tickit-Bridge-0.002.tar.gz
-Tk::Tickit::Bridge::Loop          0.001  G/GA/GANGLION/Tk-Tickit-Bridge-0.002.tar.gz
+Tk::Tickit::Bridge                0.003  G/GA/GANGLION/Tk-Tickit-Bridge-0.003.tar.gz
+Tk::Tickit::Bridge::Loop          0.001  G/GA/GANGLION/Tk-Tickit-Bridge-0.003.tar.gz
 Tk::TickitBridge                  0.001  G/GA/GANGLION/Tk-Tickit-Bridge-0.002.tar.gz
 Tk::TickitBridge::Loop            0.001  G/GA/GANGLION/Tk-Tickit-Bridge-0.002.tar.gz
 Tk::TiedListbox                     2.5  H/HA/HANJE/Tk-Contrib-0.08.tar.gz
