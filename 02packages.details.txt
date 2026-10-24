@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262536
-Last-Updated: Sat, 24 Oct 2026 15:54:10 GMT
+Last-Updated: Sat, 24 Oct 2026 16:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -144473,11 +144473,11 @@ Net::Cloudflare::DNS               0.22  W/WE/WESLEY/Net-Cloudflare-DNS-0.22.tgz
 Net::Cloudflare::DNS::Teal         0.05  C/CO/CONTRA/Net-Cloudflare-DNS-Teal-0.05.tar.gz
 Net::CloudStack                 0.01005  S/SN/SNUMANO/Net-CloudStack-0.01005.tar.gz
 Net::CloudStack::API               0.02  A/AY/AYOUNG/Net-CloudStack-API-0.02.tar.gz
-Net::Cmd                           3.15  S/SH/SHAY/libnet-3.15.tar.gz
+Net::Cmd                           3.16  S/SH/SHAY/libnet-3.16.tar.gz
 Net::COLOURlovers                  0.01  H/HA/HAGGAI/Net-COLOURlovers-0.01.tar.gz
 Net::Comcast::Customer              1.2  K/KT/KTDREYER/Net-Comcast-Customer-1.2.tar.gz
 Net::Compare                       0.04  P/PI/PINGAN/Net-Compare-0.04.tar.gz
-Net::Config                        3.15  S/SH/SHAY/libnet-3.15.tar.gz
+Net::Config                        3.16  S/SH/SHAY/libnet-3.16.tar.gz
 Net::Connection                0.003000  V/VV/VVELOX/Net-Connection-0.3.0.tar.gz
 Net::Connection::FreeBSD_sockstat   1.0  V/VV/VVELOX/Net-Connection-FreeBSD_sockstat-1.0.0.tar.gz
 Net::Connection::Linux_ss      0.000001  V/VV/VVELOX/Net-Connection-Linux_ss-0.0.1.tar.gz
@@ -145142,7 +145142,7 @@ Net::DNSServer::Proxy             undef  B/BB/BBB/Net-DNSServer-0.11.tar.gz
 Net::DNSServer::SharedCache       undef  B/BB/BBB/Net-DNSServer-0.11.tar.gz
 Net::Docker                    0.002005  S/ST/STUIFZAND/Net-Docker-0.002005.tar.gz
 Net::Dogstatsd                   v1.0.3  J/JP/JPINKHAM/Net-Dogstatsd-1.0.3.tar.gz
-Net::Domain                        3.15  S/SH/SHAY/libnet-3.15.tar.gz
+Net::Domain                        3.16  S/SH/SHAY/libnet-3.16.tar.gz
 Net::Domain::ES::ccTLD             0.05  D/DA/DAMOG/Net-Domain-ES-ccTLD-0.05.tar.gz
 Net::Domain::ExpireDate            1.20  N/NA/NALOBIN/Net-Domain-ExpireDate-1.20-fixed.tar.gz
 Net::Domain::Info                  0.02  A/AP/APLA/Net-Domain-Info-0.02.tar.gz
@@ -146482,18 +146482,18 @@ Net::FSP::Handle                      0  L/LE/LEONT/Net-FSP-0.15.tar.gz
 Net::FSP::Handle::Read                0  L/LE/LEONT/Net-FSP-0.15.tar.gz
 Net::FSP::Handle::Write               0  L/LE/LEONT/Net-FSP-0.15.tar.gz
 Net::FSP::Util                        0  L/LE/LEONT/Net-FSP-0.16.tar.gz
-Net::FTP                           3.15  S/SH/SHAY/libnet-3.15.tar.gz
-Net::FTP::A                        3.15  S/SH/SHAY/libnet-3.15.tar.gz
+Net::FTP                           3.16  S/SH/SHAY/libnet-3.16.tar.gz
+Net::FTP::A                        3.16  S/SH/SHAY/libnet-3.16.tar.gz
 Net::FTP::AutoReconnect             0.3  G/GI/GIFF/Net-FTP-AutoReconnect-0.3.tar.gz
 Net::FTP::blat                     0.03  D/DA/DAVIDNICO/Net-FTP-blat-0.03.tar.gz
 Net::FTP::Common                    7.0  T/TB/TBONE/Net-FTP-Common-7.0.d.tar.gz
-Net::FTP::dataconn                 3.15  S/SH/SHAY/libnet-3.15.tar.gz
-Net::FTP::E                        3.15  S/SH/SHAY/libnet-3.15.tar.gz
+Net::FTP::dataconn                 3.16  S/SH/SHAY/libnet-3.16.tar.gz
+Net::FTP::E                        3.16  S/SH/SHAY/libnet-3.16.tar.gz
 Net::FTP::File                     0.06  D/DM/DMUEY/Net-FTP-File-0.06.tar.gz
 Net::FTP::Find                    0.041  U/US/USUALOMA/Net-FTP-Find-0.041.tar.gz
 Net::FTP::Find::Mixin             0.041  U/US/USUALOMA/Net-FTP-Find-0.041.tar.gz
-Net::FTP::I                        3.15  S/SH/SHAY/libnet-3.15.tar.gz
-Net::FTP::L                        3.15  S/SH/SHAY/libnet-3.15.tar.gz
+Net::FTP::I                        3.16  S/SH/SHAY/libnet-3.16.tar.gz
+Net::FTP::L                        3.16  S/SH/SHAY/libnet-3.16.tar.gz
 Net::FTP::Mock                 0.103300  M/MI/MITHALDU/Net-FTP-Mock-0.103300.tar.gz
 Net::FTP::Path::Iter               0.07  D/DJ/DJERIUS/Net-FTP-Path-Iter-0.07.tar.gz
 Net::FTP::Path::Iter::Dir          0.07  D/DJ/DJERIUS/Net-FTP-Path-Iter-0.07.tar.gz
@@ -148055,7 +148055,7 @@ Net::Netfilter::NetFlow::Utils 1.113260  O/OL/OLIVER/Net-Netfilter-NetFlow-1.113
 Net::Netflix                       0.05  C/CM/CMEYER/Net-Netflix-0.05.tar.gz
 Net::Netid                         0.02  S/SO/SOFTDIA/Net-Netid-0.02.tar.gz
 Net::Netmask                     2.0003  J/JM/JMASLAK/Net-Netmask-2.0003.tar.gz
-Net::Netrc                         3.15  S/SH/SHAY/libnet-3.15.tar.gz
+Net::Netrc                         3.16  S/SH/SHAY/libnet-3.16.tar.gz
 Net::NetSend                       0.12  G/GR/GREB/Net-NetSend-0.12.tar.gz
 Net::NfDump                        1.33  T/TP/TPODER/Net-NfDump-1.33.tar.gz
 Net::NfDump::Fields               undef  T/TP/TPODER/Net-NfDump-1.33.tar.gz
@@ -148133,9 +148133,9 @@ Net::Nmsg::XS::output_json         0.17  M/MS/MSISK/Net-Nmsg-0.17.tar.gz
 Net::Nmsg::XS::output_pres         0.17  M/MS/MSISK/Net-Nmsg-0.17.tar.gz
 Net::Nmsg::XS::output_sock         0.17  M/MS/MSISK/Net-Nmsg-0.17.tar.gz
 Net::Nmsg::XS::pcap                0.17  M/MS/MSISK/Net-Nmsg-0.17.tar.gz
-Net::NNTP                          3.15  S/SH/SHAY/libnet-3.15.tar.gz
+Net::NNTP                          3.16  S/SH/SHAY/libnet-3.16.tar.gz
 Net::NNTP2                          0.6  T/TS/TSKIRVIN/newslib-0.84.tar.gz
-Net::NNTP::_SSL                    3.15  S/SH/SHAY/libnet-3.15.tar.gz
+Net::NNTP::_SSL                    3.16  S/SH/SHAY/libnet-3.16.tar.gz
 Net::NNTP::Auth                       1  T/TS/TSKIRVIN/newslib-0.84.tar.gz
 Net::NNTP::Client                   0.6  T/TS/TSKIRVIN/newslib-0.84.tar.gz
 Net::NNTP::Functions               0.21  T/TS/TSKIRVIN/newslib-0.84.tar.gz
@@ -148791,8 +148791,8 @@ Net::PMP::Profile::TypeConstraints 0.102  K/KA/KARMAN/Net-PMP-Profile-0.102.tar.
 Net::PMP::Profile::Video          0.102  K/KA/KARMAN/Net-PMP-Profile-0.102.tar.gz
 Net::PMP::Schema                  0.006  K/KA/KARMAN/Net-PMP-0.006.tar.gz
 Net::PMP::TypeConstraints         0.006  K/KA/KARMAN/Net-PMP-0.006.tar.gz
-Net::POP3                          3.15  S/SH/SHAY/libnet-3.15.tar.gz
-Net::POP3::_SSL                    3.15  S/SH/SHAY/libnet-3.15.tar.gz
+Net::POP3                          3.16  S/SH/SHAY/libnet-3.16.tar.gz
+Net::POP3::_SSL                    3.16  S/SH/SHAY/libnet-3.16.tar.gz
 Net::POP3::_SSL_Socket             0.91  S/SU/SULLR/Net-SSLGlue-1.053.tar.gz
 Net::POP3::_SSLified               0.91  S/SU/SULLR/Net-SSLGlue-1.053.tar.gz
 Net::POP3::PerMsgHandler           0.03  B/BO/BOKUTIN/Net-POP3-PerMsgHandler-0.03.tar.gz
@@ -149736,8 +149736,8 @@ Net::SMS::Web                     0.015  A/AW/AWRIGLEY/Net-SMS-Web-0.015.tar.gz
 Net::SMS::Web::Action             0.015  A/AW/AWRIGLEY/Net-SMS-Web-0.015.tar.gz
 Net::SMS::WorldText                 1.3  S/SE/SEVEAS/Net-SMS-WorldText-1.3.tar.gz
 Net::SMS::WorldText::Group          1.3  S/SE/SEVEAS/Net-SMS-WorldText-1.3.tar.gz
-Net::SMTP                          3.15  S/SH/SHAY/libnet-3.15.tar.gz
-Net::SMTP::_SSL                    3.15  S/SH/SHAY/libnet-3.15.tar.gz
+Net::SMTP                          3.16  S/SH/SHAY/libnet-3.16.tar.gz
+Net::SMTP::_SSL                    3.16  S/SH/SHAY/libnet-3.16.tar.gz
 Net::SMTP::_SSL_Socket                1  S/SU/SULLR/Net-SSLGlue-1.053.tar.gz
 Net::SMTP::_SSLified                  1  S/SU/SULLR/Net-SSLGlue-1.053.tar.gz
 Net::SMTP::BetterConnecting        1.00  B/BR/BRADFITZ/TheSchwartz-Worker-SendEmail-1.00.tar.gz
@@ -150289,7 +150289,7 @@ Net::ThirtySevenSignals::Highrise  0.03  D/DS/DSADINOFF/Net-ThirtySevenSignals-H
 Net::ThreeScale::Client        2.001007  D/DL/DLAMBLEY/Net-ThreeScale-Client-2.1.7.tar.gz
 Net::ThreeScale::Response         undef  D/DL/DLAMBLEY/Net-ThreeScale-Client-2.1.7.tar.gz
 Net::Thumper                       0.03  M/MU/MUTANT/Net-Thumper-0.03.tar.gz
-Net::Time                          3.15  S/SH/SHAY/libnet-3.15.tar.gz
+Net::Time                          3.16  S/SH/SHAY/libnet-3.16.tar.gz
 Net::TinyERP                       0.09  G/GA/GARU/Net-TinyERP-0.09.tar.gz
 Net::TinyERP::NotaFiscal          undef  G/GA/GARU/Net-TinyERP-0.09.tar.gz
 Net::TinyERP::NotaFiscalServicos  undef  G/GA/GARU/Net-TinyERP-0.09.tar.gz
@@ -155543,7 +155543,7 @@ Org::Parser::Tiny::Node           0.005  P/PE/PERLANCAR/Org-Parser-Tiny-0.005.ta
 Org::Parser::Tiny::Node::Document 0.005  P/PE/PERLANCAR/Org-Parser-Tiny-0.005.tar.gz
 Org::Parser::Tiny::Node::HasPreamble 0.005  P/PE/PERLANCAR/Org-Parser-Tiny-0.005.tar.gz
 Org::Parser::Tiny::Node::Headline 0.005  P/PE/PERLANCAR/Org-Parser-Tiny-0.005.tar.gz
-Org::ReadTables                0.000002  W/WL/WLINDLEY/Org-ReadTables-v0.0.2.tar.gz
+Org::ReadTables                0.000003  W/WL/WLINDLEY/Org-ReadTables-v0.0.3.tar.gz
 org::ResponseWrapper              undef  S/ST/STDCRM/ZZZ-SDK-0.0.2.tar.gz
 Org::Shell                        0.001  P/PE/PERLANCAR/Org-Shell-0.001.tar.gz
 Org::Shell::Commands              0.001  P/PE/PERLANCAR/Org-Shell-0.001.tar.gz
