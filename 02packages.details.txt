@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262461
-Last-Updated: Sun, 25 Oct 2026 23:17:02 GMT
+Line-Count:   262491
+Last-Updated: Sun, 25 Oct 2026 23:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -2213,12 +2213,42 @@ Acme::OSDc                         1.01  P/PJ/PJF/Acme-OSDc-1.01.tar.gz
 Acme::Padre::PlayCode              0.13  F/FA/FAYLAND/Acme-Padre-PlayCode-0.13.tar.gz
 Acme::Palindrome                    0.1  C/CW/CWEST/Acme-Palindrome-0.1.tar.gz
 Acme::Pano::Util                  0.011  H/HE/HEYPANO/Acme-Pano-Util-0.011.tar.gz
-Acme::Parataxis                  v0.1.0  S/SA/SANKO/Acme-Parataxis-v0.1.0.tar.gz
-Acme::Parataxis::Channel         v0.1.0  S/SA/SANKO/Acme-Parataxis-v0.1.0.tar.gz
-Acme::Parataxis::Future          v0.1.0  S/SA/SANKO/Acme-Parataxis-v0.1.0.tar.gz
-Acme::Parataxis::Semaphore       v0.1.0  S/SA/SANKO/Acme-Parataxis-v0.1.0.tar.gz
-Acme::Parataxis::Semaphore::Guard undef  S/SA/SANKO/Acme-Parataxis-v0.1.0.tar.gz
-Acme::Parataxis::Signal          v0.1.0  S/SA/SANKO/Acme-Parataxis-v0.1.0.tar.gz
+Acme::Parataxis                  v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Actor           v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Blocking        v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::CancellationToken v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Channel         v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Compat          v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Driver          v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Driver::IOAsync v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Driver::Mojo    v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Error           v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Error::Cancelled v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Error::Nursery  v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Error::STM_Retry v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Error::Supervisor v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Error::Timeout  v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Future          v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Generator       v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Local           v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Monitor         v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Nursery         v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::RateLimiter     v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Semaphore       v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Semaphore::Guard v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Signal          v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Stream          v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Supervisor      v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Sync            v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Sync::Barrier   v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Sync::Mutex     v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Sync::Mutex::Guard v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Sync::Once      v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Sync::RwLock    v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Sync::RwLock::Guard v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Sync::WaitGroup v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::Ticker          v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
+Acme::Parataxis::TVar            v0.1.1  S/SA/SANKO/Acme-Parataxis-v0.1.1.tar.gz
 Acme::Partitioner                  0.01  B/BJ/BJOERN/Acme-Partitioner-0.01.tar.gz
 Acme::Partitioner::Actor           0.01  B/BJ/BJOERN/Acme-Partitioner-0.01.tar.gz
 Acme::PDF::rescale                  0.2  H/HE/HERVE/Acme-PDF-rescale-0.2.tar.gz

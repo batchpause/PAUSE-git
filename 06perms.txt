@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669972
+Line-Count:  670002
 Written-By:  PAUSE version 1.005
-Date:        Sun, 25 Oct 2026 18:30:23 GMT
+Date:        Sun, 25 Oct 2026 23:30:13 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -5294,12 +5294,42 @@ Acme::Padre::PlayCode,REHSACK,c
 Acme::Palindrome,CWEST,f
 Acme::Pano::Util,HEYPANO,f
 Acme::Parataxis,SANKO,f
+Acme::Parataxis::Actor,SANKO,f
+Acme::Parataxis::Blocking,SANKO,f
+Acme::Parataxis::CancellationToken,SANKO,f
 Acme::Parataxis::Channel,SANKO,f
+Acme::Parataxis::Compat,SANKO,f
+Acme::Parataxis::Driver,SANKO,f
+Acme::Parataxis::Driver::IOAsync,SANKO,f
+Acme::Parataxis::Driver::Mojo,SANKO,f
+Acme::Parataxis::Error,SANKO,f
+Acme::Parataxis::Error::Cancelled,SANKO,f
+Acme::Parataxis::Error::Nursery,SANKO,f
+Acme::Parataxis::Error::STM_Retry,SANKO,f
+Acme::Parataxis::Error::Supervisor,SANKO,f
+Acme::Parataxis::Error::Timeout,SANKO,f
 Acme::Parataxis::Future,SANKO,f
+Acme::Parataxis::Generator,SANKO,f
+Acme::Parataxis::Local,SANKO,f
+Acme::Parataxis::Monitor,SANKO,f
+Acme::Parataxis::Nursery,SANKO,f
+Acme::Parataxis::RateLimiter,SANKO,f
 Acme::Parataxis::Root,SANKO,f
 Acme::Parataxis::Semaphore,SANKO,f
 Acme::Parataxis::Semaphore::Guard,SANKO,f
 Acme::Parataxis::Signal,SANKO,f
+Acme::Parataxis::Stream,SANKO,f
+Acme::Parataxis::Supervisor,SANKO,f
+Acme::Parataxis::Sync,SANKO,f
+Acme::Parataxis::Sync::Barrier,SANKO,f
+Acme::Parataxis::Sync::Mutex,SANKO,f
+Acme::Parataxis::Sync::Mutex::Guard,SANKO,f
+Acme::Parataxis::Sync::Once,SANKO,f
+Acme::Parataxis::Sync::RwLock,SANKO,f
+Acme::Parataxis::Sync::RwLock::Guard,SANKO,f
+Acme::Parataxis::Sync::WaitGroup,SANKO,f
+Acme::Parataxis::TVar,SANKO,f
+Acme::Parataxis::Ticker,SANKO,f
 Acme::Partitioner,BJOERN,f
 Acme::Partitioner::Actor,BJOERN,f
 Acme::Pasty,MCGREGOR,f
