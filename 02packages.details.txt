@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262460
-Last-Updated: Sun, 25 Oct 2026 14:41:02 GMT
+Last-Updated: Sun, 25 Oct 2026 16:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -86367,10 +86367,10 @@ Getopt::EX::Long::Parser          undef  U/UT/UTASHIRO/Getopt-EX-3.03.tar.gz
 Getopt::EX::Module                 3.03  U/UT/UTASHIRO/Getopt-EX-3.03.tar.gz
 Getopt::EX::Numbers                3.03  U/UT/UTASHIRO/Getopt-EX-3.03.tar.gz
 Getopt::EX::RPN                    0.01  U/UT/UTASHIRO/Getopt-EX-RPN-0.01.tar.gz
-Getopt::EX::termcolor              1.09  U/UT/UTASHIRO/Getopt-EX-termcolor-1.09.tar.gz
-Getopt::EX::termcolor::Apple_Terminal undef  U/UT/UTASHIRO/Getopt-EX-termcolor-1.09.tar.gz
-Getopt::EX::termcolor::iTerm      undef  U/UT/UTASHIRO/Getopt-EX-termcolor-1.09.tar.gz
-Getopt::EX::termcolor::XTerm      undef  U/UT/UTASHIRO/Getopt-EX-termcolor-1.09.tar.gz
+Getopt::EX::termcolor              1.10  U/UT/UTASHIRO/Getopt-EX-termcolor-1.10.tar.gz
+Getopt::EX::termcolor::Apple_Terminal undef  U/UT/UTASHIRO/Getopt-EX-termcolor-1.10.tar.gz
+Getopt::EX::termcolor::iTerm      undef  U/UT/UTASHIRO/Getopt-EX-termcolor-1.10.tar.gz
+Getopt::EX::termcolor::XTerm      undef  U/UT/UTASHIRO/Getopt-EX-termcolor-1.10.tar.gz
 Getopt::EX::ToggleValue           undef  U/UT/UTASHIRO/Getopt-EX-3.03.tar.gz
 Getopt::EX::Util                   3.03  U/UT/UTASHIRO/Getopt-EX-3.03.tar.gz
 Getopt::ExPar                      1.01  H/HL/HLHAMILT/Getopt-ExPar-1.01.tar.gz
