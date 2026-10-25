@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262460
-Last-Updated: Sun, 25 Oct 2026 17:41:02 GMT
+Last-Updated: Sun, 25 Oct 2026 18:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -107790,11 +107790,11 @@ Inline::Pdlpp                       0.4  E/ET/ETJ/PDL-2.106.tar.gz
 Inline::Perl                       0.01  A/AU/AUTRIJUS/Inline-Perl-0.01.tar.gz
 Inline::Perl6                      0.10  N/NI/NINE/Inline-Perl6-0.10.tar.gz
 Inline::Pugs                       0.01  A/AU/AUDREYT/Perl6-Pugs-6.2.13.tar.gz
-Inline::Python                     0.58  N/NI/NINE/Inline-Python-0.58.tar.gz
-Inline::Python::Boolean            0.58  N/NI/NINE/Inline-Python-0.58.tar.gz
-Inline::Python::Function           0.58  N/NI/NINE/Inline-Python-0.58.tar.gz
-Inline::Python::Object             0.58  N/NI/NINE/Inline-Python-0.58.tar.gz
-Inline::Python::Object::Data       0.58  N/NI/NINE/Inline-Python-0.58.tar.gz
+Inline::Python                     0.59  N/NI/NINE/Inline-Python-0.59.tar.gz
+Inline::Python::Boolean            0.59  N/NI/NINE/Inline-Python-0.59.tar.gz
+Inline::Python::Function           0.59  N/NI/NINE/Inline-Python-0.59.tar.gz
+Inline::Python::Object             0.59  N/NI/NINE/Inline-Python-0.59.tar.gz
+Inline::Python::Object::Data       0.59  N/NI/NINE/Inline-Python-0.59.tar.gz
 Inline::RPerl                     0.003  W/WB/WBRASWELL/RPerl-7.000000.tar.gz
 Inline::Ruby                       0.11  S/SH/SHLOMIF/Inline-Ruby-0.11.tar.gz
 Inline::Ruby::dRuby::Client    0.000002  T/TA/TATENO/Inline-Ruby-dRuby-Client-0.0.2.tar.gz
