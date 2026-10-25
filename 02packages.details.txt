@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262459
-Last-Updated: Sun, 25 Oct 2026 01:17:02 GMT
+Last-Updated: Sun, 25 Oct 2026 03:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -135513,8 +135513,8 @@ Mojo::Debugbar::Monitor::ValidationTiny 0.1.4  C/CR/CRLCU/mojo-debugbar-v0.1.4.t
 Mojo::Debugbar::Monitors          0.1.4  C/CR/CRLCU/mojo-debugbar-v0.1.4.tar.gz
 Mojo::Debugbar::Storage::DBIx     0.1.4  C/CR/CRLCU/mojo-debugbar-v0.1.4.tar.gz
 Mojo::DOM                         undef  S/SR/SRI/Mojolicious-9.53.tar.gz
-Mojo::DOM58                       3.002  D/DB/DBOOK/Mojo-DOM58-3.002.tar.gz
-Mojo::DOM58::Entities             3.002  D/DB/DBOOK/Mojo-DOM58-3.002.tar.gz
+Mojo::DOM58                       3.003  D/DB/DBOOK/Mojo-DOM58-3.003.tar.gz
+Mojo::DOM58::Entities             3.003  D/DB/DBOOK/Mojo-DOM58-3.003.tar.gz
 Mojo::DOM::CSS                    undef  S/SR/SRI/Mojolicious-9.53.tar.gz
 Mojo::DOM::HTML                   undef  S/SR/SRI/Mojolicious-9.53.tar.gz
 Mojo::DOM::Role::Analyzer         0.015  S/ST/STEVIED/Mojo-DOM-Role-Analyzer-0.015.tar.gz
