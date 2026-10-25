@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262459
-Last-Updated: Sun, 25 Oct 2026 05:54:37 GMT
+Last-Updated: Sun, 25 Oct 2026 08:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -102621,8 +102621,8 @@ HP200LX::DBgui                     0.09  G/GG/GGONTER/hp200lx-db-0.09.tar.gz
 HP200LX::DBgui::card               0.09  G/GG/GGONTER/hp200lx-db-0.09.tar.gz
 HP200LX::DBgui::list               0.09  G/GG/GGONTER/hp200lx-db-0.09.tar.gz
 HP200LX::DBgui::vpt                0.09  G/GG/GGONTER/hp200lx-db-0.09.tar.gz
-HP::Handy                          0.01  I/IN/INA/HP/Handy/HP-Handy-0.01.tar.gz
-HP::Handy::SafeString              0.01  I/IN/INA/HP/Handy/HP-Handy-0.01.tar.gz
+HP::Handy                          0.02  I/IN/INA/HP/Handy/HP-Handy-0.02.tar.gz
+HP::Handy::SafeString              0.02  I/IN/INA/HP/Handy/HP-Handy-0.02.tar.gz
 HPC::Runner                        2.48  J/JI/JILLROWE/HPC-Runner-2.48.tar.gz
 HPC::Runner::Command           3.002014  J/JI/JILLROWE/HPC-Runner-Command-3.2.14.tar.gz
 HPC::Runner::Command::archive     undef  J/JI/JILLROWE/HPC-Runner-Command-3.2.14.tar.gz
