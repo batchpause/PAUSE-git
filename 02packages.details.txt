@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262459
-Last-Updated: Sun, 25 Oct 2026 11:29:02 GMT
+Last-Updated: Sun, 25 Oct 2026 11:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -10671,32 +10671,32 @@ App::FileSummoner::CreateFile     0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
 App::FileSummoner::Register       0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
 App::FileSummoner::Register::Rules 0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
 App::FileSummoner::SkeletonDirsFinder 0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
-App::FileSync                  0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Admin           0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Args            0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Base            0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::CLI             0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Client          0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Config          0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Constants       0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Delta           0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::I18N            0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::I18N::en        0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Ignore          0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::IO              0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Lock            0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Merge           0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Platform        0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Protocol        0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Scan            0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Server          0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Settings        0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Snapshot        0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Store           0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Transport::Local 0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Transport::SSH  0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Trash           0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
-App::FileSync::Verify          0.001002  N/NH/NHORNE/App-FileSync-0.001.2.tar.gz
+App::FileSync                  0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Admin           0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Args            0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Base            0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::CLI             0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Client          0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Config          0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Constants       0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Delta           0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::I18N            0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::I18N::en        0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Ignore          0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::IO              0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Lock            0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Merge           0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Platform        0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Protocol        0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Scan            0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Server          0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Settings        0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Snapshot        0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Store           0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Transport::Local 0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Transport::SSH  0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Trash           0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
+App::FileSync::Verify          0.001003  N/NH/NHORNE/App-FileSync-0.001.3.tar.gz
 App::FileTestUtils                0.005  P/PE/PERLANCAR/App-FileTestUtils-0.005.tar.gz
 App::FileTools::BulkRename::Common 0.07  S/SW/SWESTRUP/App-FileTools-BulkRename-0.07.tar.gz
 App::FileTools::BulkRename::Docs   0.07  S/SW/SWESTRUP/App-FileTools-BulkRename-0.07.tar.gz
