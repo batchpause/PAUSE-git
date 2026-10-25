@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262491
-Last-Updated: Sun, 25 Oct 2026 23:29:02 GMT
+Line-Count:   262494
+Last-Updated: Sun, 25 Oct 2026 23:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -136244,8 +136244,11 @@ Mojolicious::Plugin::BootstrapAlerts 0.07  R/RE/RENEEB/Mojolicious-Plugin-Bootst
 Mojolicious::Plugin::BootstrapHelpers 0.0206  C/CS/CSSON/Mojolicious-Plugin-BootstrapHelpers-0.0206.tar.gz
 Mojolicious::Plugin::BootstrapHelpers::Helpers 0.0206  C/CS/CSSON/Mojolicious-Plugin-BootstrapHelpers-0.0206.tar.gz
 Mojolicious::Plugin::BootstrapPagination 0.13  D/DO/DOKECHIN/Mojolicious-Plugin-BootstrapPagination-0.13.tar.gz
-Mojolicious::Plugin::Branding     0.002  P/PO/POLETTIX/Mojolicious-Plugin-Branding-0.002.tar.gz
+Mojolicious::Plugin::Branding     0.003  P/PO/POLETTIX/Mojolicious-Plugin-Branding-0.003.tar.gz
+Mojolicious::Plugin::Branding::IndividualBaseRole 0.003  P/PO/POLETTIX/Mojolicious-Plugin-Branding-0.003.tar.gz
+Mojolicious::Plugin::Branding::IndividualRendererRole 0.003  P/PO/POLETTIX/Mojolicious-Plugin-Branding-0.003.tar.gz
 Mojolicious::Plugin::Branding::IndividualRole 0.002  P/PO/POLETTIX/Mojolicious-Plugin-Branding-0.002.tar.gz
+Mojolicious::Plugin::Branding::IndividualStaticRole 0.003  P/PO/POLETTIX/Mojolicious-Plugin-Branding-0.003.tar.gz
 Mojolicious::Plugin::Branding::RenderRole 0.001  P/PO/POLETTIX/Mojolicious-Plugin-Branding-0.001.tar.gz
 Mojolicious::Plugin::Breadcrumbs 1.001003  Z/ZO/ZOFFIX/Mojolicious-Plugin-Breadcrumbs-1.001003.tar.gz
 Mojolicious::Plugin::BrowserDetect undef  U/UV/UVOELKER/Mojolicious-Plugin-BrowserDetect-0.003.tar.gz
