@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  669957
+Line-Count:  669966
 Written-By:  PAUSE version 1.005
-Date:        Sat, 24 Oct 2026 22:42:20 GMT
+Date:        Sun, 25 Oct 2026 01:17:51 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -345002,6 +345002,10 @@ Langertha::ImageGen,GETTY,f
 Langertha::Input,GETTY,f
 Langertha::Input::Tools,GETTY,f
 Langertha::Knarr,GETTY,f
+Langertha::Knarr::Admin,GETTY,f
+Langertha::Knarr::Authorizer,GETTY,f
+Langertha::Knarr::Authorizer::StaticKey,GETTY,f
+Langertha::Knarr::Authorizer::Token,GETTY,f
 Langertha::Knarr::CLI,GETTY,f
 Langertha::Knarr::CLI::Cmd::Check,GETTY,f
 Langertha::Knarr::CLI::Cmd::Container,GETTY,f
@@ -345019,6 +345023,7 @@ Langertha::Knarr::Handler::Passthrough,GETTY,f
 Langertha::Knarr::Handler::Raider,GETTY,f
 Langertha::Knarr::Handler::RequestLog,GETTY,f
 Langertha::Knarr::Handler::Router,GETTY,f
+Langertha::Knarr::Handler::TokenRoutes,GETTY,f
 Langertha::Knarr::Handler::Tracing,GETTY,f
 Langertha::Knarr::Image,GETTY,f
 Langertha::Knarr::Input,GETTY,f
@@ -345047,7 +345052,11 @@ Langertha::Knarr::Response,GETTY,f
 Langertha::Knarr::Role::UpstreamHTTP,GETTY,f
 Langertha::Knarr::Router,GETTY,f
 Langertha::Knarr::Session,GETTY,f
+Langertha::Knarr::Stack,GETTY,f
 Langertha::Knarr::Stream,GETTY,f
+Langertha::Knarr::TokenStore,GETTY,f
+Langertha::Knarr::TokenStore::Memory,GETTY,f
+Langertha::Knarr::TokenStore::Pg,GETTY,f
 Langertha::Knarr::Tracing,GETTY,f
 Langertha::Manifest,GETTY,f
 Langertha::Manifest::Auth,GETTY,f
