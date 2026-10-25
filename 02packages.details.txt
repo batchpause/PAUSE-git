@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262450
-Last-Updated: Sat, 24 Oct 2026 23:54:32 GMT
+Last-Updated: Sun, 25 Oct 2026 00:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -41819,7 +41819,7 @@ CGI::IDS::Whitelist              1.0217  H/HI/HINNERK/PerlIDS/CGI-IDS-1.0217.tar
 CGI::ImageMagick                  undef  G/GR/GRICHTER/Apache-ImageMagick-2.0b7.tar.gz
 CGI::ImageMagick::SubRequest      undef  G/GR/GRICHTER/Apache-ImageMagick-2.0b7.tar.gz
 CGI::Imagemap                         2  J/JP/JPIERCE/CGI-Imagemap-2.01.tgz
-CGI::Info                          1.15  N/NH/NHORNE/CGI-Info-1.15.tar.gz
+CGI::Info                          1.16  N/NH/NHORNE/CGI-Info-1.16.tar.gz
 CGI::Inspect                        0.5  A/AW/AWWAIID/CGI-Inspect-0.5.tar.gz
 CGI::Inspect::Here                undef  A/AW/AWWAIID/CGI-Inspect-0.5.tar.gz
 CGI::Inspect::Plugin              undef  A/AW/AWWAIID/CGI-Inspect-0.5.tar.gz
@@ -135678,18 +135678,18 @@ Mojo::Path                        undef  S/SR/SRI/Mojolicious-9.53.tar.gz
 Mojo::Path::Role::Relative         0.01  K/KI/KIWIROY/tmp/Mojo-Path-Role-Relative-0.01.tar.gz
 Mojo::PDF                      1.005004  Z/ZO/ZOFFIX/Mojo-PDF-1.005004.tar.gz
 Mojo::PDF::Primitive::Table    1.005004  Z/ZO/ZOFFIX/Mojo-PDF-1.005004.tar.gz
-Mojo::Pg                            5.0  S/SR/SRI/Mojo-Pg-5.0.tar.gz
+Mojo::Pg                           5.01  S/SR/SRI/Mojo-Pg-5.01.tar.gz
 Mojo::Pg::Che                     0.857  M/MC/MCHE/Mojo-Pg-Che-0.857.tar.gz
 Mojo::Pg::Che::Database           undef  M/MC/MCHE/Mojo-Pg-Che-0.857.tar.gz
 Mojo::Pg::Che::Results            undef  M/MC/MCHE/Mojo-Pg-Che-0.857.tar.gz
-Mojo::Pg::Database                undef  S/SR/SRI/Mojo-Pg-5.0.tar.gz
+Mojo::Pg::Database                undef  S/SR/SRI/Mojo-Pg-5.01.tar.gz
 Mojo::Pg::Database::Role::PgPromiseClass 0.002  W/WR/WROG/Mojo-Pg-Role-PromiseClass-0.002.tar.gz
-Mojo::Pg::Migrations              undef  S/SR/SRI/Mojo-Pg-5.0.tar.gz
-Mojo::Pg::PubSub                  undef  S/SR/SRI/Mojo-Pg-5.0.tar.gz
-Mojo::Pg::Results                 undef  S/SR/SRI/Mojo-Pg-5.0.tar.gz
+Mojo::Pg::Migrations              undef  S/SR/SRI/Mojo-Pg-5.01.tar.gz
+Mojo::Pg::PubSub                  undef  S/SR/SRI/Mojo-Pg-5.01.tar.gz
+Mojo::Pg::Results                 undef  S/SR/SRI/Mojo-Pg-5.01.tar.gz
 Mojo::Pg::Results::Role::MoreMethods 0.04  S/SR/SRCHULO/Mojo-DB-Results-Role-MoreMethods-0.04.tar.gz
 Mojo::Pg::Role::PromiseClass      0.002  W/WR/WROG/Mojo-Pg-Role-PromiseClass-0.002.tar.gz
-Mojo::Pg::Transaction             undef  S/SR/SRI/Mojo-Pg-5.0.tar.gz
+Mojo::Pg::Transaction             undef  S/SR/SRI/Mojo-Pg-5.01.tar.gz
 Mojo::PgX::Cursor              0.502001  N/NN/NNUTTER/Mojo-PgX-Cursor-0.502001.tar.gz
 Mojo::PgX::Cursor::Cursor         undef  N/NN/NNUTTER/Mojo-PgX-Cursor-0.502001.tar.gz
 Mojo::PgX::Cursor::Database       undef  N/NN/NNUTTER/Mojo-PgX-Cursor-0.502001.tar.gz
@@ -219984,7 +219984,7 @@ SQL::Abstract::Limit              0.143  A/AS/ASB/SQL-Abstract-Limit-0.143.tar.g
 SQL::Abstract::More                1.44  D/DA/DAMI/SQL-Abstract-More-1.44.tar.gz
 SQL::Abstract::mysql              undef  J/JH/JHTHORSEN/Mojo-mysql-1.28.tar.gz
 SQL::Abstract::Parts              undef  M/MS/MSTROUT/SQL-Abstract-2.000001.tar.gz
-SQL::Abstract::Pg                   1.0  S/SR/SRI/SQL-Abstract-Pg-1.0.tar.gz
+SQL::Abstract::Pg                  1.01  S/SR/SRI/SQL-Abstract-Pg-1.01.tar.gz
 SQL::Abstract::Plugin::BangOverrides undef  M/MS/MSTROUT/SQL-Abstract-2.000001.tar.gz
 SQL::Abstract::Plugin::ExtraClauses undef  M/MS/MSTROUT/SQL-Abstract-2.000001.tar.gz
 SQL::Abstract::Plugin::InsertMulti 0.05  Z/ZI/ZIGOROU/SQL-Abstract-Plugin-InsertMulti-0.05.tar.gz
