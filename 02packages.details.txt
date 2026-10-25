@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262461
-Last-Updated: Sun, 25 Oct 2026 19:41:02 GMT
+Last-Updated: Sun, 25 Oct 2026 20:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -32006,10 +32006,10 @@ Business::TW::TSIB::CStorePayment  0.04  C/CL/CLKAO/Business-TW-TSIB-CStorePayme
 Business::TW::TSIB::CStorePayment::Entry undef  C/CL/CLKAO/Business-TW-TSIB-CStorePayment-0.04.tar.gz
 Business::TW::TSIB::VirtualAccount 0.04  C/CO/CORNELIUS/Business-TW-TSIB-VirtualAccount-0.04b.tar.gz
 Business::TW::TSIB::VirtualAccount::Entry undef  C/CO/CORNELIUS/Business-TW-TSIB-VirtualAccount-0.04b.tar.gz
-Business::UDC                       0.1  S/SK/SKIM/Business-UDC-0.10.tar.gz
-Business::UDC::Grammar              0.1  S/SK/SKIM/Business-UDC-0.10.tar.gz
-Business::UDC::Parser               0.1  S/SK/SKIM/Business-UDC-0.10.tar.gz
-Business::UDC::Tokenizer            0.1  S/SK/SKIM/Business-UDC-0.10.tar.gz
+Business::UDC                      0.11  S/SK/SKIM/Business-UDC-0.11.tar.gz
+Business::UDC::Grammar             0.11  S/SK/SKIM/Business-UDC-0.11.tar.gz
+Business::UDC::Parser              0.11  S/SK/SKIM/Business-UDC-0.11.tar.gz
+Business::UDC::Tokenizer           0.11  S/SK/SKIM/Business-UDC-0.11.tar.gz
 Business::UPC                      0.06  R/RO/ROBF/Business-UPC-0.06.tar.gz
 Business::UPS                      2.04  T/TO/TODDR/Business-UPS-2.04.tar.gz
 Business::UPS::Tracking            1.13  M/MA/MAROS/Business-UPS-Tracking-1.13.tar.gz
