@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262498
-Last-Updated: Mon, 26 Oct 2026 11:17:02 GMT
+Last-Updated: Mon, 26 Oct 2026 17:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -105326,17 +105326,17 @@ HTTP::Balancer::Model::Host       undef  S/SH/SHELLING/HTTP-Balancer-0.0.2.tar.g
 HTTP::Balancer::Role              undef  S/SH/SHELLING/HTTP-Balancer-0.0.2.tar.gz
 HTTP::Balancer::Role::Command     undef  S/SH/SHELLING/HTTP-Balancer-0.0.2.tar.gz
 HTTP::Balancer::Role::Stem        undef  S/SH/SHELLING/HTTP-Balancer-0.0.2.tar.gz
-HTTP::Body                         1.23  G/GE/GETTY/HTTP-Body-1.23.tar.gz
+HTTP::Body                         1.24  G/GE/GETTY/HTTP-Body-1.24.tar.gz
 HTTP::Body::Builder                0.04  T/TO/TOKUHIROM/HTTP-Body-Builder-0.04.tar.gz
 HTTP::Body::Builder::MultiPart    undef  T/TO/TOKUHIROM/HTTP-Body-Builder-0.04.tar.gz
 HTTP::Body::Builder::UrlEncoded   undef  T/TO/TOKUHIROM/HTTP-Body-Builder-0.04.tar.gz
-HTTP::Body::MultiPart              1.23  G/GE/GETTY/HTTP-Body-1.23.tar.gz
+HTTP::Body::MultiPart              1.24  G/GE/GETTY/HTTP-Body-1.24.tar.gz
 HTTP::Body::MultiPart::Extend      0.01  C/CI/CINDY/HTTP-Body-MultiPart-Extend-0.01.tar.gz
-HTTP::Body::OctetStream            1.23  G/GE/GETTY/HTTP-Body-1.23.tar.gz
+HTTP::Body::OctetStream            1.24  G/GE/GETTY/HTTP-Body-1.24.tar.gz
 HTTP::Body::Pairs                   0.3  F/FR/FRODWITH/HTTP-Body-Pairs-0.3.tar.gz
-HTTP::Body::UrlEncoded             1.23  G/GE/GETTY/HTTP-Body-1.23.tar.gz
-HTTP::Body::XForms                 1.23  G/GE/GETTY/HTTP-Body-1.23.tar.gz
-HTTP::Body::XFormsMultipart        1.23  G/GE/GETTY/HTTP-Body-1.23.tar.gz
+HTTP::Body::UrlEncoded             1.24  G/GE/GETTY/HTTP-Body-1.24.tar.gz
+HTTP::Body::XForms                 1.24  G/GE/GETTY/HTTP-Body-1.24.tar.gz
+HTTP::Body::XFormsMultipart        1.24  G/GE/GETTY/HTTP-Body-1.24.tar.gz
 HTTP::Browscap                     0.01  J/JA/JAMESPO/HTTP-Browscap-0.01.tar.gz
 HTTP::BrowserDetect                3.45  O/OA/OALDERS/HTTP-BrowserDetect-3.45.tar.gz
 HTTP::BrowserDetect::isRobot       0.06  F/FA/FAYLAND/HTTP-BrowserDetect-isRobot-0.06.tar.gz
