@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262495
-Last-Updated: Mon, 26 Oct 2026 08:17:02 GMT
+Last-Updated: Mon, 26 Oct 2026 08:54:28 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81017,40 +81017,40 @@ FU::Validate::err                   1.4  Y/YO/YORHEL/FU-1.4.tar.gz
 FU::XMLWriter                       1.4  Y/YO/YORHEL/FU-1.4.tar.gz
 FU::XS                              1.4  Y/YO/YORHEL/FU-1.4.tar.gz
 Fuckin::Lazy                   0.000002  E/EX/EXODIST/Fuckin-Lazy-0.000002.tar.gz
-Fugu                           0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::CLI                      0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Config                   0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Control                  0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Control::Client          0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Curl                     0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Daemon                   0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Ed25519                  0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::EventLoop                0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::File                     0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Imsg                     0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::JSONSocket               0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::KeyDir                   0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Log                      0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Mdnsd                    0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::MQTT                     0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::OpenPGP                  0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Pidfile                  0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Privdrop                 0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Process                  0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Proxy                    0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Proxy::Cache             0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Proxy::Meta              0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Random                   0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::REPL                     0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Sandbox                  0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Signal                   0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Signer                   0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Signify                  0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::SSH                      0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::StateFile                0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::TestLog                  0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::Timeout                  0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
-Fugu::X509                     0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
+Fugu                           0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::CLI                      0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Config                   0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Control                  0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Control::Client          0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Curl                     0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Daemon                   0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Ed25519                  0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::EventLoop                0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::File                     0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Imsg                     0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::JSONSocket               0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::KeyDir                   0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Log                      0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Mdnsd                    0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::MQTT                     0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::OpenPGP                  0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Pidfile                  0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Privdrop                 0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Process                  0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Proxy                    0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Proxy::Cache             0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Proxy::Meta              0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Random                   0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::REPL                     0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Sandbox                  0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Signal                   0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Signer                   0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Signify                  0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::SSH                      0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::StateFile                0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::TestLog                  0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::Timeout                  0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
+Fugu::X509                     0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
 Fukurama::Class                   0.032  T/TO/TOBIWAN/Fukurama-Class-0.032.tar.gz
 Fukurama::Class::Abstract         undef  T/TO/TOBIWAN/Fukurama-Class-0.032.tar.gz
 Fukurama::Class::Attributes       undef  T/TO/TOBIWAN/Fukurama-Class-0.032.tar.gz
@@ -199662,7 +199662,7 @@ Protocol::IMAP::Envelope          0.004  T/TE/TEAM/Protocol-IMAP-0.004.tar.gz
 Protocol::IMAP::Fetch             0.004  T/TE/TEAM/Protocol-IMAP-0.004.tar.gz
 Protocol::IMAP::FetchResponseParser 0.004  T/TE/TEAM/Protocol-IMAP-0.004.tar.gz
 Protocol::IMAP::Server            0.004  T/TE/TEAM/Protocol-IMAP-0.004.tar.gz
-Protocol::Imsg                 0.005005  S/SE/SENZILLA/Fugu-0.5.5.tar.gz
+Protocol::Imsg                 0.005006  S/SE/SENZILLA/Fugu-0.5.6.tar.gz
 Protocol::IR::Code                  1.2  B/BW/BWARDEN/Protocol-IR-Code-1.2.tar.gz
 Protocol::IR::Converter             1.2  B/BW/BWARDEN/Protocol-IR-Code-1.2.tar.gz
 Protocol::IR::Format::CSV           1.2  B/BW/BWARDEN/Protocol-IR-Code-1.2.tar.gz
