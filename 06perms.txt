@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670006
+Line-Count:  670009
 Written-By:  PAUSE version 1.005
-Date:        Mon, 26 Oct 2026 00:55:49 GMT
+Date:        Mon, 26 Oct 2026 09:29:09 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -17100,13 +17100,16 @@ App::FuguWeb::CLI,SENZILLA,f
 App::FuguWeb::Check,SENZILLA,f
 App::FuguWeb::Config,SENZILLA,f
 App::FuguWeb::Config::Group,SENZILLA,f
+App::FuguWeb::Fragment,SENZILLA,f
 App::FuguWeb::Index,SENZILLA,f
 App::FuguWeb::Keys,SENZILLA,f
+App::FuguWeb::Language,SENZILLA,f
 App::FuguWeb::Manual,SENZILLA,f
 App::FuguWeb::Page,SENZILLA,f
 App::FuguWeb::Render,SENZILLA,f
 App::FuguWeb::Rotate,SENZILLA,f
 App::FuguWeb::Site,SENZILLA,f
+App::FuguWeb::Status,SENZILLA,f
 App::FzfUtils,PERLANCAR,f
 App::GHGen,NHORNE,f
 App::GHGen::Analyzer,NHORNE,f
