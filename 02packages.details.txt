@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262495
-Last-Updated: Mon, 26 Oct 2026 02:54:23 GMT
+Last-Updated: Mon, 26 Oct 2026 03:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -123233,24 +123233,24 @@ Locale::Unicode::Data          1.010000  J/JD/JDEGUEST/Locale-Unicode-Data-v1.10
 Locale::Unicode::Data::Boolean 1.010000  J/JD/JDEGUEST/Locale-Unicode-Data-v1.10.0.tar.gz
 Locale::Unicode::Data::Exception 1.010000  J/JD/JDEGUEST/Locale-Unicode-Data-v1.10.0.tar.gz
 Locale::Unicode::Exception     0.004006  J/JD/JDEGUEST/Locale-Unicode-v0.4.6.tar.gz
-Locale::Unicode::RBNF          0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::CLDR    0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::DecimalFormat 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::Exception 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::PluralFormat 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::PluralRules 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::PP      0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::Rule    0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::RuleSet 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::Substitution 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::Substitution::AbsoluteValue 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::Substitution::FractionalPart 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::Substitution::IntegralPart 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::Substitution::Modulus 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::Substitution::Multiplier 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::Substitution::Numerator 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::Substitution::SameValue 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
-Locale::Unicode::RBNF::Util    0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.0.tar.gz
+Locale::Unicode::RBNF          0.001001  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::CLDR    0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::DecimalFormat 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::Exception 0.001001  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::PluralFormat 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::PluralRules 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::PP      0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::Rule    0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::RuleSet 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::Substitution 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::Substitution::AbsoluteValue 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::Substitution::FractionalPart 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::Substitution::IntegralPart 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::Substitution::Modulus 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::Substitution::Multiplier 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::Substitution::Numerator 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::Substitution::SameValue 0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
+Locale::Unicode::RBNF::Util    0.001000  J/JD/JDEGUEST/Locale-Unicode-RBNF-v0.1.1.tar.gz
 Locale::US                         3.04  A/AC/ACCARDO/Locale-US-3.04.tar.gz
 Locale::US::CensusDivisions    1.001000  P/PE/PERLSUFI/Locale-US-CensusDivisions-1.1.0.tar.gz
 Locale::Util                      undef  G/GU/GUIDO/libintl-perl-1.37.tar.gz
@@ -238012,21 +238012,21 @@ Unblock::HTTP2::NativeABI          0.13  H/HA/HAX/Unblock-HTTP2-0.13.tar.gz
 Unblock::HTTP2::Server             0.13  H/HA/HAX/Unblock-HTTP2-0.13.tar.gz
 Unblock::HTTP2::Stream             0.02  H/HA/HAX/Unblock-HTTP2-0.02.tar.gz
 Unblock::HTTP2::Transaction        0.13  H/HA/HAX/Unblock-HTTP2-0.13.tar.gz
-Unblock::HTTP3                     0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
-Unblock::HTTP3::Body::Reader       0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
-Unblock::HTTP3::Body::Stream       0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
-Unblock::HTTP3::Capsule            0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
-Unblock::HTTP3::Capsule::Parser    0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
-Unblock::HTTP3::Capsule::Stream    0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
-Unblock::HTTP3::Client             0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
+Unblock::HTTP3                     0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
+Unblock::HTTP3::Body::Reader       0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
+Unblock::HTTP3::Body::Stream       0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
+Unblock::HTTP3::Capsule            0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
+Unblock::HTTP3::Capsule::Parser    0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
+Unblock::HTTP3::Capsule::Stream    0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
+Unblock::HTTP3::Client             0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
 Unblock::HTTP3::Connection         0.03  H/HA/HAX/Unblock-HTTP3-0.03.tar.gz
-Unblock::HTTP3::Extension::Stream  0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
-Unblock::HTTP3::Integration        0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
-Unblock::HTTP3::NativeABI          0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
+Unblock::HTTP3::Extension::Stream  0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
+Unblock::HTTP3::Integration        0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
+Unblock::HTTP3::NativeABI          0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
 Unblock::HTTP3::Request            0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
 Unblock::HTTP3::Response           0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
-Unblock::HTTP3::Server             0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
-Unblock::HTTP3::Transaction        0.13  H/HA/HAX/Unblock-HTTP3-0.13.tar.gz
+Unblock::HTTP3::Server             0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
+Unblock::HTTP3::Transaction        0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
 Unblock::HTTP::Client              0.02  H/HA/HAX/Unblock-HTTP-0.02.tar.gz
 Unblock::HTTP::Integration         0.02  H/HA/HAX/Unblock-HTTP-0.02.tar.gz
 Unblock::HTTP::QUIC                0.02  H/HA/HAX/Unblock-HTTP-0.02.tar.gz
