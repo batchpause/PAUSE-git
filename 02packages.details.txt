@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262494
-Last-Updated: Mon, 26 Oct 2026 00:17:02 GMT
+Last-Updated: Mon, 26 Oct 2026 00:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -49170,21 +49170,21 @@ CPAN::Meta::Validator          2.150015  E/ET/ETHER/CPAN-Meta-2.150015.tar.gz
 CPAN::Meta::X                     0.010  P/PE/PERLANCAR/CPAN-Meta-X-0.010.tar.gz
 CPAN::Meta::X::Old                0.010  P/PE/PERLANCAR/CPAN-Meta-X-0.010.tar.gz
 CPAN::Meta::YAML                  0.020  E/ET/ETHER/CPAN-Meta-YAML-0.020.tar.gz
-CPAN::MetaCurator                  1.33  R/RS/RSAVAGE/CPAN-MetaCurator-1.33.tgz
-CPAN::MetaCurator::Config          1.33  R/RS/RSAVAGE/CPAN-MetaCurator-1.33.tgz
-CPAN::MetaCurator::Create          1.33  R/RS/RSAVAGE/CPAN-MetaCurator-1.33.tgz
-CPAN::MetaCurator::Database        1.33  R/RS/RSAVAGE/CPAN-MetaCurator-1.33.tgz
-CPAN::MetaCurator::Export          1.33  R/RS/RSAVAGE/CPAN-MetaCurator-1.33.tgz
-CPAN::MetaCurator::HTML            1.33  R/RS/RSAVAGE/CPAN-MetaCurator-1.33.tgz
-CPAN::MetaCurator::Import          1.33  R/RS/RSAVAGE/CPAN-MetaCurator-1.33.tgz
-CPAN::MetaCurator::Search          1.33  R/RS/RSAVAGE/CPAN-MetaCurator-1.33.tgz
-CPAN::MetaCurator::Validate        1.33  R/RS/RSAVAGE/CPAN-MetaCurator-1.33.tgz
+CPAN::MetaCurator                  1.34  R/RS/RSAVAGE/CPAN-MetaCurator-1.34.tgz
+CPAN::MetaCurator::Config          1.34  R/RS/RSAVAGE/CPAN-MetaCurator-1.34.tgz
+CPAN::MetaCurator::Create          1.34  R/RS/RSAVAGE/CPAN-MetaCurator-1.34.tgz
+CPAN::MetaCurator::Database        1.34  R/RS/RSAVAGE/CPAN-MetaCurator-1.34.tgz
+CPAN::MetaCurator::Export          1.34  R/RS/RSAVAGE/CPAN-MetaCurator-1.34.tgz
+CPAN::MetaCurator::HTML            1.34  R/RS/RSAVAGE/CPAN-MetaCurator-1.34.tgz
+CPAN::MetaCurator::Import          1.34  R/RS/RSAVAGE/CPAN-MetaCurator-1.34.tgz
+CPAN::MetaCurator::Search          1.34  R/RS/RSAVAGE/CPAN-MetaCurator-1.34.tgz
+CPAN::MetaCurator::Validate        1.34  R/RS/RSAVAGE/CPAN-MetaCurator-1.34.tgz
 CPAN::Metadata::RDF                1.11  L/LB/LBROCARD/CPAN-Metadata-RDF-1.11.tar.gz
-CPAN::MetaPackager                 1.04  R/RS/RSAVAGE/CPAN-MetaPackager-1.04.tgz
-CPAN::MetaPackager::Config         1.04  R/RS/RSAVAGE/CPAN-MetaPackager-1.04.tgz
-CPAN::MetaPackager::Create         1.04  R/RS/RSAVAGE/CPAN-MetaPackager-1.04.tgz
-CPAN::MetaPackager::Database       1.04  R/RS/RSAVAGE/CPAN-MetaPackager-1.04.tgz
-CPAN::MetaPackager::Import         1.04  R/RS/RSAVAGE/CPAN-MetaPackager-1.04.tgz
+CPAN::MetaPackager                 1.05  R/RS/RSAVAGE/CPAN-MetaPackager-1.05.tgz
+CPAN::MetaPackager::Config         1.05  R/RS/RSAVAGE/CPAN-MetaPackager-1.05.tgz
+CPAN::MetaPackager::Create         1.05  R/RS/RSAVAGE/CPAN-MetaPackager-1.05.tgz
+CPAN::MetaPackager::Database       1.05  R/RS/RSAVAGE/CPAN-MetaPackager-1.05.tgz
+CPAN::MetaPackager::Import         1.05  R/RS/RSAVAGE/CPAN-MetaPackager-1.05.tgz
 CPAN::Metrics                      0.08  A/AD/ADAMK/CPAN-Metrics-0.08.tar.gz
 CPAN::Mini                     1.111017  R/RJ/RJBS/CPAN-Mini-1.111017.tar.gz
 CPAN::Mini::App                1.111017  R/RJ/RJBS/CPAN-Mini-1.111017.tar.gz
