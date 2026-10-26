@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262495
-Last-Updated: Mon, 26 Oct 2026 01:29:01 GMT
+Last-Updated: Mon, 26 Oct 2026 02:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -73732,8 +73732,8 @@ Enbugger::perl5db                 2.016  J/JJ/JJORE/Enbugger-2.016.tar.gz
 Enbugger::ptkdb                   2.016  J/JJ/JJORE/Enbugger-2.016.tar.gz
 Enbugger::sdb                     2.016  J/JJ/JJORE/Enbugger-2.016.tar.gz
 Enbugger::trepan                  2.016  J/JJ/JJORE/Enbugger-2.016.tar.gz
-Encode                             3.24  D/DA/DANKOGAI/Encode-3.24.tar.gz
-Encode::Alias                      2.25  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode                             3.25  D/DA/DANKOGAI/Encode-3.25.tar.gz
+Encode::Alias                      2.26  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::Arabic                     14.2  S/SM/SMRZ/Encode-Arabic-14.2.tar.gz
 Encode::Arabic::ArabTeX            14.1  S/SM/SMRZ/Encode-Arabic-14.2.tar.gz
 Encode::Arabic::ArabTeX::RE        14.1  S/SM/SMRZ/Encode-Arabic-14.2.tar.gz
@@ -73759,10 +73759,10 @@ Encode::BOCU1                      0.03  N/NA/NAOYAT/Encode-BOCU1-0.03.tar.gz
 Encode::BOCU1::XS                  0.02  N/NA/NAOYAT/Encode-BOCU1-XS-0.02.tar.gz
 Encode::Bootstring                 0.03  S/SA/SAUBER/Encode-Bootstring-0.03.tar.gz
 Encode::Buckwalter                  1.1  G/GR/GRAFF/Encode-Buckwalter-1.1.tar.gz
-Encode::Byte                       2.04  D/DA/DANKOGAI/Encode-3.24.tar.gz
-Encode::CJKConstants               2.02  D/DA/DANKOGAI/Encode-3.24.tar.gz
-Encode::CN                         2.03  D/DA/DANKOGAI/Encode-3.24.tar.gz
-Encode::CN::HZ                     2.10  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::Byte                       2.05  D/DA/DANKOGAI/Encode-3.25.tar.gz
+Encode::CJKConstants               2.02  D/DA/DANKOGAI/Encode-3.25.tar.gz
+Encode::CN                         2.04  D/DA/DANKOGAI/Encode-3.25.tar.gz
+Encode::CN::HZ                     2.11  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::CN::Utility                 0.4  S/SA/SAL/Encode-CN-Utility-0.4.tar.gz
 Encode::CNMap                      0.32  Q/QJ/QJZHOU/Encode-CNMap-0.32.tar.gz
 Encode::compat                     0.07  A/AU/AUTRIJUS/Encode-compat-0.07.tar.gz
@@ -73770,7 +73770,7 @@ Encode::compat::5006001            0.05  A/AU/AUTRIJUS/Encode-compat-0.07.tar.gz
 Encode::compat::Alias              0.05  A/AU/AUTRIJUS/Encode-compat-0.07.tar.gz
 Encode::compat::common             0.06  A/AU/AUTRIJUS/Encode-compat-0.07.tar.gz
 Encode::compat::MIME::Header::ISO_2022_JP 0.01  K/KA/KAZUHO/Encode-compat-MIME-Header-ISO_2022_JP-0.01.tar.gz
-Encode::Config                     2.05  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::Config                     2.06  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::Deep                       0.01  S/SE/SEWI/Encode-Deep-0.01.tar.gz
 Encode::Detect                     1.01  J/JG/JGMYERS/Encode-Detect-1.01.tar.gz
 Encode::Detect::CJK            2.000002  F/FO/FOOLFISH/Encode-Detect-CJK-2.0.2.tar.gz
@@ -73780,9 +73780,9 @@ Encode::Detect::Upload::Data       0.04  C/CO/COSMICNET/Encode-Detect-Upload-0.0
 Encode::DIN66003                   0.05  C/CO/CORION/Encode-DIN66003-0.05.tar.gz
 Encode::DosHebrew                   0.5  T/TZ/TZADIKV/Encode-DosHebrew-0.51.tgz
 Encode::DoubleEncodedUTF8          0.05  M/MI/MIYAGAWA/Encode-DoubleEncodedUTF8-0.05.tar.gz
-Encode::EBCDIC                     2.02  D/DA/DANKOGAI/Encode-3.24.tar.gz
-Encode::Encoder                    2.03  D/DA/DANKOGAI/Encode-3.24.tar.gz
-Encode::Encoding                   2.08  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::EBCDIC                     2.03  D/DA/DANKOGAI/Encode-3.25.tar.gz
+Encode::Encoder                    2.04  D/DA/DANKOGAI/Encode-3.25.tar.gz
+Encode::Encoding                   2.09  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::Escape                     0.14  Y/YO/YOU/Encode-Escape-0.14.tar.gz
 Encode::Escape::ASCII              0.19  Y/YO/YOU/Encode-Escape-0.14.tar.gz
 Encode::Escape::Unicode            0.13  Y/YO/YOU/Encode-Escape-0.14.tar.gz
@@ -73790,8 +73790,8 @@ Encode::EUCJPASCII                 0.03  N/NE/NEZUMI/Encode-EUCJPASCII-0.03.tar.
 Encode::EUCJPMS                    0.07  N/NA/NARUSE/Encode-EUCJPMS-0.07.tar.gz
 Encode::First                      0.01  M/MI/MIYAGAWA/Encode-First-0.01.tar.gz
 Encode::Float                      0.11  K/KU/KUBINA/Encode-Float-0.11.tar.gz
-Encode::GSM0338                    2.10  D/DA/DANKOGAI/Encode-3.24.tar.gz
-Encode::Guess                      2.08  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::GSM0338                    2.11  D/DA/DANKOGAI/Encode-3.25.tar.gz
+Encode::Guess                      2.09  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::Guess::Educated            0.03  T/TO/TOMC/Encode-Guess-Educated-0.03.tar.gz
 Encode::HanConvert                 0.35  A/AU/AUDREYT/Encode-HanConvert-0.35.tar.gz
 Encode::HanDetect                  0.01  A/AU/AUTRIJUS/Encode-HanDetect-0.01.tar.gz
@@ -73927,7 +73927,7 @@ Encode::JIS7::2022JP3              0.02  D/DA/DANKOGAI/Encode-JIS2K-0.02.tar.gz
 Encode::JISLegacy                  0.02  N/NE/NEZUMI/Encode-ISO2022-0.04.tar.gz
 Encode::JISX0213                   0.04  N/NE/NEZUMI/Encode-JISX0213-0.04.tar.gz
 Encode::JISX0213::CCS              0.03  N/NE/NEZUMI/Encode-JISX0213-0.04.tar.gz
-Encode::JP                         2.05  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::JP                         2.06  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::JP::Emoji                  0.60  K/KA/KAWASAKI/Encode-JP-Emoji-0.60.tar.gz
 Encode::JP::Emoji::Encoding        0.60  K/KA/KAWASAKI/Encode-JP-Emoji-0.60.tar.gz
 Encode::JP::Emoji::Encoding::Shift_JIS 0.60  K/KA/KAWASAKI/Encode-JP-Emoji-0.60.tar.gz
@@ -73959,8 +73959,8 @@ Encode::JP::Emoji::FB_EMOJI_TYPECAST 0.05  K/KA/KAWASAKI/Encode-JP-Emoji-FB_EMOJ
 Encode::JP::Emoji::Mapping     0.06020101024  K/KA/KAWASAKI/Encode-JP-Emoji-0.60.tar.gz
 Encode::JP::Emoji::PP              0.05  K/KA/KAWASAKI/Encode-JP-Emoji-0.60.tar.gz
 Encode::JP::Emoji::Property        0.60  K/KA/KAWASAKI/Encode-JP-Emoji-0.60.tar.gz
-Encode::JP::H2Z                    2.02  D/DA/DANKOGAI/Encode-3.24.tar.gz
-Encode::JP::JIS7                   2.08  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::JP::H2Z                    2.02  D/DA/DANKOGAI/Encode-3.25.tar.gz
+Encode::JP::JIS7                   2.09  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::JP::Mobile                 0.30  M/MI/MIYAGAWA/Encode-JP-Mobile-0.30.tar.gz
 Encode::JP::Mobile::AirHJIS       undef  M/MI/MIYAGAWA/Encode-JP-Mobile-0.30.tar.gz
 Encode::JP::Mobile::Character     undef  M/MI/MIYAGAWA/Encode-JP-Mobile-0.30.tar.gz
@@ -73992,16 +73992,16 @@ Encode::Korean::SKR_1984           0.04  Y/YO/YOU/Encode-Korean-0.09.tar.gz
 Encode::Korean::SKR_2000           0.05  Y/YO/YOU/Encode-Korean-0.09.tar.gz
 Encode::Korean::TransliteratorGenerator 0.07  Y/YO/YOU/Encode-Korean-0.09.tar.gz
 Encode::Korean::Yale               0.06  Y/YO/YOU/Encode-Korean-0.09.tar.gz
-Encode::KR                         2.03  D/DA/DANKOGAI/Encode-3.24.tar.gz
-Encode::KR::2022_KR                2.04  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::KR                         2.04  D/DA/DANKOGAI/Encode-3.25.tar.gz
+Encode::KR::2022_KR                2.05  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::Locale                     1.05  G/GA/GAAS/Encode-Locale-1.05.tar.gz
 Encode::MAB2                       0.09  A/AN/ANDK/Encode-MAB2-0.09.tar.gz
 Encode::MAB2table                  0.09  A/AN/ANDK/Encode-MAB2-0.09.tar.gz
 Encode::Mapper                     14.1  S/SM/SMRZ/Encode-Arabic-14.2.tar.gz
 Encode::MIME::EncWords             0.03  N/NE/NEZUMI/MIME-EncWords-1.015.0.tar.gz
-Encode::MIME::Header               2.29  D/DA/DANKOGAI/Encode-3.24.tar.gz
-Encode::MIME::Header::ISO_2022_JP  1.09  D/DA/DANKOGAI/Encode-3.24.tar.gz
-Encode::MIME::Name                 1.03  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::MIME::Header               2.30  D/DA/DANKOGAI/Encode-3.25.tar.gz
+Encode::MIME::Header::ISO_2022_JP  1.10  D/DA/DANKOGAI/Encode-3.25.tar.gz
+Encode::MIME::Name                 1.04  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::Multibyte::Detect          1.01  S/SI/SILENCER/Encode-Multibyte-Detect-1.01.tar.gz
 Encode::Newlines                   0.05  N/NE/NEILB/Encode-Newlines-0.05.tar.gz
 Encode::PDFDoc                     0.03  E/EU/EUGEN/Encode-PDFDoc-0.03.tar.gz
@@ -74016,20 +74016,20 @@ Encode::Safename                   0.05  B/BA/BATLOCK/Encode-Safename-0.05.tar.g
 Encode::ShiftJIS2004               0.03  N/NE/NEZUMI/Encode-JISX0213-0.04.tar.gz
 Encode::Simple                    1.003  D/DB/DBOOK/Encode-Simple-1.003.tar.gz
 Encode::StdIO                   0.00001  D/DM/DMAKI/Encode-StdIO-0.00001.tar.gz
-Encode::Symbol                     2.02  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::Symbol                     2.03  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::TECkit                    undef  M/MH/MHOSKEN/Encode-TECkit-0.04.tar.gz
 Encode::transliterate_win1251      1.00  I/IL/ILYAZ/modules/MP3-Tag-1.16.zip
-Encode::TW                         2.03  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::TW                         2.04  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::TW::Unisys::SOSI1          1.01  A/AU/AUDREYT/Encode-HanExtra-0.23.tar.gz
 Encode::TW::Unisys::SOSI2          1.01  A/AU/AUDREYT/Encode-HanExtra-0.23.tar.gz
-Encode::Unicode                    2.20  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::Unicode                    2.21  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::Unicode::Japanese          0.02  H/HI/HIO/Encode-Unicode-Japanese-0.02.tar.gz
 Encode::Unicode::PerlDecodeJava 20171127  P/PR/PRBRENAN/Encode-Unicode-PerlDecodeJava-20171127.tar.gz
-Encode::Unicode::UTF7              2.10  D/DA/DANKOGAI/Encode-3.24.tar.gz
-Encode::utf8                       3.24  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::Unicode::UTF7              2.11  D/DA/DANKOGAI/Encode-3.25.tar.gz
+Encode::utf8                       3.25  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::UTF8::Slow                 0.01  D/DF/DFARRELL/Encode-UTF8-Slow-0.01.tar.gz
 Encode::UTF8Mac                    0.04  T/TO/TOMITA/Encode-UTF8Mac-0.04.tar.gz
-Encode::UTF_EBCDIC                 3.24  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::UTF_EBCDIC                 3.25  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::UTR22                      0.03  M/MH/MHOSKEN/Encode-UTR22-0.14.tar.gz
 Encode::UTR22::Regexp::class       0.03  M/MH/MHOSKEN/Encode-UTR22-0.14.tar.gz
 Encode::UTR22::Regexp::classRef    0.03  M/MH/MHOSKEN/Encode-UTR22-0.14.tar.gz
@@ -74042,10 +74042,10 @@ Encode::Wechsler                   1.00  J/JE/JEFFA/Encode-Wechsler-1.00.tar.gz
 Encode::Wide                       0.07  N/NH/NHORNE/Encode-Wide-0.07.tar.gz
 Encode::Win32                     undef  M/MH/MHOSKEN/Encode-Registry-0.13.tar.gz
 Encode::X11                          31  K/KR/KRYDE/X11-Protocol-Other-31.tar.gz
-Encode::XS                         3.24  D/DA/DANKOGAI/Encode-3.24.tar.gz
+Encode::XS                         3.25  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encode::ZapCP1252                  0.40  D/DW/DWHEELER/Encode-ZapCP1252-0.40.tar.gz
 EncodeConverter                     1.0  M/MS/MSERGEANT/Matts-Message-Parser-1.0.tar.gz
-encoding                           3.00  D/DA/DANKOGAI/Encode-3.24.tar.gz
+encoding                           3.01  D/DA/DANKOGAI/Encode-3.25.tar.gz
 Encoding::BER                      1.02  J/JA/JAW/Encoding-BER-1.02.tar.gz
 Encoding::BER::CER                 1.00  J/JA/JAW/Encoding-BER-1.02.tar.gz
 Encoding::BER::DER                 1.00  J/JA/JAW/Encoding-BER-1.02.tar.gz
