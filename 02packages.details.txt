@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262498
-Last-Updated: Mon, 26 Oct 2026 19:17:02 GMT
+Last-Updated: Mon, 26 Oct 2026 19:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -215984,7 +215984,7 @@ Sim::Clock                         0.03  A/AG/AGENT/Sim-0.03.tar.gz
 Sim::Dispatcher                    0.03  A/AG/AGENT/Sim-0.03.tar.gz
 Simd::Avx512                   20210130  P/PR/PRBRENAN/Simd-Avx512-20210130.tar.gz
 Simple                            undef  L/LA/LARSEN/CGI-Builder-TT2-0.03.tar.gz
-Simple::Accessor                   1.14  A/AT/ATOOMIC/Simple-Accessor-1.14.tar.gz
+Simple::Accessor                   1.15  A/AT/ATOOMIC/Simple-Accessor-1.15.tar.gz
 Simple::Class                     undef  T/TB/TBONE/HTML-Seamstress-6.112830.tar.gz
 Simple::Confvpn                    1.09  K/KA/KAAVANNAN/Simple-Confvpn.tar.gz
 Simple::Factory                    0.09  P/PA/PACMAN/Simple-Factory-0.09.tar.gz
