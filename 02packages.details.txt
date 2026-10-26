@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262498
-Last-Updated: Mon, 26 Oct 2026 20:17:02 GMT
+Last-Updated: Mon, 26 Oct 2026 20:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -66366,26 +66366,26 @@ Devel::StackTrace::Extract     1.000000  M/MA/MAXMIND/Devel-StackTrace-Extract-1
 Devel::StackTrace::Frame           2.05  D/DR/DROLSKY/Devel-StackTrace-2.05.tar.gz
 Devel::StackTrace::WithLexicals    2.01  S/SA/SARTAK/Devel-StackTrace-WithLexicals-2.01.tar.gz
 Devel::StackTrace::WithLexicals::Frame undef  S/SA/SARTAK/Devel-StackTrace-WithLexicals-2.01.tar.gz
-Devel::StatProfiler                0.56  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::Aggregate    undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::Aggregator   undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::EvalSource   undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::EvalSourceStorage undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::EvalStackFrame undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::FlameGraph   undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::Html         undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::MainStackFrame undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::Metadata     undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::NameMap      undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::Reader       undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::Report       undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::SectionChangeReader undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::SectionGuard undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::Slowops      undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::SourceMap    undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::StackFrame   undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::StackTrace   undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
-Devel::StatProfiler::Utils        undef  M/MB/MBARBON/Devel-StatProfiler-0.56.tar.gz
+Devel::StatProfiler                0.57  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::Aggregate    undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::Aggregator   undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::EvalSource   undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::EvalSourceStorage undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::EvalStackFrame undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::FlameGraph   undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::Html         undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::MainStackFrame undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::Metadata     undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::NameMap      undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::Reader       undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::Report       undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::SectionChangeReader undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::SectionGuard undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::Slowops      undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::SourceMap    undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::StackFrame   undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::StackTrace   undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
+Devel::StatProfiler::Utils        undef  M/MB/MBARBON/Devel-StatProfiler-0.57.tar.gz
 Devel::STDERR::Indent              0.06  N/NU/NUFFIN/Devel-STDERR-Indent-0.06.tar.gz
 Devel::StealthDebug               1.008  A/AA/AASSAD/Devel-StealthDebug-1.008.tar.gz
 Devel::STrace                      0.31  D/DA/DARNOLD/Devel-STrace-0.31.tar.gz
