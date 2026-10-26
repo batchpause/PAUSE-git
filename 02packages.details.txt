@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262498
-Last-Updated: Mon, 26 Oct 2026 09:29:02 GMT
+Last-Updated: Mon, 26 Oct 2026 09:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -8765,10 +8765,10 @@ App::annex_to_annex               0.008  S/SP/SPWHITTON/Git-Annex-0.008.tar.gz
 App::annex_to_annex_dropunused    0.008  S/SP/SPWHITTON/Git-Annex-0.008.tar.gz
 App::annex_to_annex_reinject      0.008  S/SP/SPWHITTON/Git-Annex-0.008.tar.gz
 App::ANSIColorUtils               0.011  P/PE/PERLANCAR/App-ANSIColorUtils-0.011.tar.gz
-App::ansicolumn                    1.59  U/UT/UTASHIRO/App-ansicolumn-1.59.tar.gz
-App::ansicolumn::Border           undef  U/UT/UTASHIRO/App-ansicolumn-1.59.tar.gz
-App::ansicolumn::Command          undef  U/UT/UTASHIRO/App-ansicolumn-1.59.tar.gz
-App::ansicolumn::default          undef  U/UT/UTASHIRO/App-ansicolumn-1.59.tar.gz
+App::ansicolumn                    1.60  U/UT/UTASHIRO/App-ansicolumn-1.60.tar.gz
+App::ansicolumn::Border           undef  U/UT/UTASHIRO/App-ansicolumn-1.60.tar.gz
+App::ansicolumn::Command          undef  U/UT/UTASHIRO/App-ansicolumn-1.60.tar.gz
+App::ansicolumn::default          undef  U/UT/UTASHIRO/App-ansicolumn-1.60.tar.gz
 App::ansiecho                      1.10  U/UT/UTASHIRO/App-ansiecho-1.10.tar.gz
 App::ansiecho::Util               undef  U/UT/UTASHIRO/App-ansiecho-1.10.tar.gz
 App::ansiexpand                    1.06  U/UT/UTASHIRO/App-ansiexpand-1.06.tar.gz
@@ -55855,7 +55855,7 @@ Data::Money::Converter             0.07  M/MA/MANWAR/Data-Money-Converter-0.07.t
 Data::Money::Converter::WebserviceX 0.07  M/MA/MANWAR/Data-Money-Converter-WebserviceX-0.07.tar.gz
 Data::Money::Exception            undef  A/AN/ANELSON/Data-Money-0.06.tar.gz
 Data::Money::Types                 0.04  G/GP/GPHAT/Data-Money-0.07.tar.gz
-Data::MoneyCurrency                0.31  E/ED/EDF/Data-MoneyCurrency-0.31.tar.gz
+Data::MoneyCurrency                0.32  E/ED/EDF/Data-MoneyCurrency-0.32.tar.gz
 Data::Morph                    1.140400  N/NP/NPEREZ/Data-Morph-1.140400.tar.gz
 Data::Morph::Backend::DBIC     1.140400  N/NP/NPEREZ/Data-Morph-1.140400.tar.gz
 Data::Morph::Backend::Object   1.140400  N/NP/NPEREZ/Data-Morph-1.140400.tar.gz
