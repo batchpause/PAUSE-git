@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262498
-Last-Updated: Mon, 26 Oct 2026 10:54:30 GMT
+Last-Updated: Mon, 26 Oct 2026 11:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -86155,7 +86155,7 @@ Geo::WebService::OpenCellID::Response::cell::get 0.06  M/MR/MRDVT/Geo-WebService
 Geo::WebService::OpenCellID::Response::cell::getMeasures 0.06  M/MR/MRDVT/Geo-WebService-OpenCellID-0.06.tar.gz
 Geo::WebService::OpenCellID::Response::measure 0.06  M/MR/MRDVT/Geo-WebService-OpenCellID-0.06.tar.gz
 Geo::WebService::OpenCellID::Response::measure::add 0.06  M/MR/MRDVT/Geo-WebService-OpenCellID-0.06.tar.gz
-Geo::What3Words                  v3.0.5  E/ED/EDF/Geo-What3Words-3.0.5.tar.gz
+Geo::What3Words                  v3.0.6  E/ED/EDF/Geo-What3Words-3.0.6.tar.gz
 Geo::WKT                           0.96  M/MA/MARKOV/Geo-WKT-0.96.tar.gz
 Geo::WKT::Simple                   0.05  K/KA/KAWAMURAY/Geo-WKT-Simple-0.05.tar.gz
 Geo::Yandex                         0.3  A/AN/ANDY/Geo-Yandex-0.3.tar.gz
