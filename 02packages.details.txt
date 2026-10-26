@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262495
-Last-Updated: Mon, 26 Oct 2026 03:17:02 GMT
+Last-Updated: Mon, 26 Oct 2026 03:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -237995,7 +237995,7 @@ UMMF::XForm::FoldMultipleInheritance 1.008  K/KS/KSTEPHENS/UMMF-1.02.tar.gz
 UMMF::XForm::Merge                1.006  K/KS/KSTEPHENS/UMMF-1.02.tar.gz
 Unamerican::Truth                  1.08  B/BE/BEPPU/Unamerican-Truth-1.08.tar.gz
 UnazuSan                           0.03  S/SO/SONGMU/UnazuSan-0.03.tar.gz
-Unblock::HTTP                      0.02  H/HA/HAX/Unblock-HTTP-0.02.tar.gz
+Unblock::HTTP                      0.03  H/HA/HAX/Unblock-HTTP-0.03.tar.gz
 Unblock::HTTP1                     0.13  H/HA/HAX/Unblock-HTTP1-0.13.tar.gz
 Unblock::HTTP1::_Engine           undef  H/HA/HAX/Unblock-HTTP1-0.12.tar.gz
 Unblock::HTTP1::_Native           undef  H/HA/HAX/Unblock-HTTP1-0.12.tar.gz
@@ -238027,10 +238027,10 @@ Unblock::HTTP3::Request            0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
 Unblock::HTTP3::Response           0.01  H/HA/HAX/Unblock-HTTP3-0.01.tar.gz
 Unblock::HTTP3::Server             0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
 Unblock::HTTP3::Transaction        0.14  H/HA/HAX/Unblock-HTTP3-0.14.tar.gz
-Unblock::HTTP::Client              0.02  H/HA/HAX/Unblock-HTTP-0.02.tar.gz
-Unblock::HTTP::Integration         0.02  H/HA/HAX/Unblock-HTTP-0.02.tar.gz
-Unblock::HTTP::QUIC                0.02  H/HA/HAX/Unblock-HTTP-0.02.tar.gz
-Unblock::HTTP::Server              0.02  H/HA/HAX/Unblock-HTTP-0.02.tar.gz
+Unblock::HTTP::Client              0.03  H/HA/HAX/Unblock-HTTP-0.03.tar.gz
+Unblock::HTTP::Integration         0.03  H/HA/HAX/Unblock-HTTP-0.03.tar.gz
+Unblock::HTTP::QUIC                0.03  H/HA/HAX/Unblock-HTTP-0.03.tar.gz
+Unblock::HTTP::Server              0.03  H/HA/HAX/Unblock-HTTP-0.03.tar.gz
 Unblock::WebSocket                 0.02  H/HA/HAX/Unblock-WebSocket-0.02.tar.gz
 Unblock::WebSocket::Client         0.02  H/HA/HAX/Unblock-WebSocket-0.02.tar.gz
 Unblock::WebSocket::Handshake      0.02  H/HA/HAX/Unblock-WebSocket-0.02.tar.gz
