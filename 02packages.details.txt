@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262498
-Last-Updated: Mon, 26 Oct 2026 20:29:02 GMT
+Last-Updated: Mon, 26 Oct 2026 20:54:37 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -49114,7 +49114,7 @@ CPAN::Local::Role::MetaCPAN::API  0.001  R/RS/RSRCHBOY/CPAN-Local-Role-MetaCPAN-
 CPAN::Local::Role::Prune          0.010  P/PS/PSHANGOV/CPAN-Local-0.010.tar.gz
 CPAN::Local::Role::Remove         0.010  P/PS/PSHANGOV/CPAN-Local-0.010.tar.gz
 CPAN::LWP::UserAgent             1.9601  A/AN/ANDK/CPAN-2.41.tar.gz
-CPAN::Maker                     v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
+CPAN::Maker                     v2.0.13  B/BI/BIGFOOT/CPAN-Maker-2.0.13.tar.gz
 CPAN::Maker::Bootstrapper        v2.5.0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.5.0.tar.gz
 CPAN::Maker::Bootstrapper::ConfigReader 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.5.0.tar.gz
 CPAN::Maker::Bootstrapper::Constants  0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.5.0.tar.gz
@@ -49146,11 +49146,11 @@ CPAN::Maker::Bootstrapper::Role::ScaffoldImporter 0  B/BI/BIGFOOT/CPAN-Maker-Boo
 CPAN::Maker::Bootstrapper::Role::ShowDefaults 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.5.0.tar.gz
 CPAN::Maker::Bootstrapper::Role::UpdateAvailable 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.5.0.tar.gz
 CPAN::Maker::Bootstrapper::Role::Version 0  B/BI/BIGFOOT/CPAN-Maker-Bootstrapper-2.5.0.tar.gz
-CPAN::Maker::Constants          v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
-CPAN::Maker::Role::FileUtils    v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
-CPAN::Maker::Role::ModuleUtils  v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
-CPAN::Maker::Role::Provides           0  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
-CPAN::Maker::Utils              v2.0.12  B/BI/BIGFOOT/CPAN-Maker-2.0.12.tar.gz
+CPAN::Maker::Constants          v2.0.13  B/BI/BIGFOOT/CPAN-Maker-2.0.13.tar.gz
+CPAN::Maker::Role::FileUtils    v2.0.13  B/BI/BIGFOOT/CPAN-Maker-2.0.13.tar.gz
+CPAN::Maker::Role::ModuleUtils  v2.0.13  B/BI/BIGFOOT/CPAN-Maker-2.0.13.tar.gz
+CPAN::Maker::Role::Provides           0  B/BI/BIGFOOT/CPAN-Maker-2.0.13.tar.gz
+CPAN::Maker::Utils              v2.0.13  B/BI/BIGFOOT/CPAN-Maker-2.0.13.tar.gz
 CPAN::Meta                     2.150015  E/ET/ETHER/CPAN-Meta-2.150015.tar.gz
 CPAN::Meta::Check                 0.018  L/LE/LEONT/CPAN-Meta-Check-0.018.tar.gz
 CPAN::Meta::Converter          2.150015  E/ET/ETHER/CPAN-Meta-2.150015.tar.gz
