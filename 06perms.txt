@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670041
+Line-Count:  670044
 Written-By:  PAUSE version 1.005
-Date:        Tue, 27 Oct 2026 03:18:32 GMT
+Date:        Tue, 27 Oct 2026 15:41:42 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -550304,6 +550304,7 @@ Punk::ClamAV,LNATION,f
 Punk::Command,LNATION,f
 Punk::Command::Apikey,LNATION,f
 Punk::Command::Challenge,LNATION,f
+Punk::Command::Mcp,LNATION,f
 Punk::Command::Push,LNATION,f
 Punk::Command::Queue,LNATION,f
 Punk::Command::SAML,LNATION,f
@@ -550321,6 +550322,7 @@ Punk::Generate,LNATION,f
 Punk::GraphQL,LNATION,f
 Punk::Headers,LNATION,f
 Punk::Logger,LNATION,f
+Punk::MCP,LNATION,f
 Punk::Mailer,LNATION,f
 Punk::Mailer::Job,LNATION,f
 Punk::Mailer::Result,LNATION,f
@@ -550414,6 +550416,7 @@ Punk::Plugin::GraphQL,LNATION,f
 Punk::Plugin::Health,LNATION,f
 Punk::Plugin::I18n,LNATION,f
 Punk::Plugin::Idempotency,LNATION,f
+Punk::Plugin::MCP,LNATION,f
 Punk::Plugin::Mailer,LNATION,f
 Punk::Plugin::Metrics,LNATION,f
 Punk::Plugin::OAuth2,LNATION,f

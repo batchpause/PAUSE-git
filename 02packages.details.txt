@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262518
-Last-Updated: Tue, 27 Oct 2026 14:41:02 GMT
+Line-Count:   262521
+Last-Updated: Tue, 27 Oct 2026 15:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -200131,6 +200131,7 @@ Punk::ClamAV                       0.02  L/LN/LNATION/Punk-ClamAV-0.02.tar.gz
 Punk::Command                      0.66  L/LN/LNATION/Punk-0.66.tar.gz
 Punk::Command::Apikey              0.02  L/LN/LNATION/Punk-APIKey-0.02.tar.gz
 Punk::Command::Challenge           0.01  L/LN/LNATION/Punk-Challenge-0.01.tar.gz
+Punk::Command::Mcp                 0.01  L/LN/LNATION/Punk-MCP-0.01.tar.gz
 Punk::Command::Push                0.03  L/LN/LNATION/Punk-Push-0.03.tar.gz
 Punk::Command::Queue               0.10  L/LN/LNATION/Punk-Queue-0.10.tar.gz
 Punk::Command::SAML               undef  L/LN/LNATION/Punk-SAML-0.03.tar.gz
@@ -200159,6 +200160,7 @@ Punk::Mailer::Transport::Log       0.06  L/LN/LNATION/Punk-Mailer-0.06.tar.gz
 Punk::Mailer::Transport::Resend    0.06  L/LN/LNATION/Punk-Mailer-0.06.tar.gz
 Punk::Mailer::Transport::Sendmail  0.06  L/LN/LNATION/Punk-Mailer-0.06.tar.gz
 Punk::Mailer::Transport::SMTP      0.06  L/LN/LNATION/Punk-Mailer-0.06.tar.gz
+Punk::MCP                          0.01  L/LN/LNATION/Punk-MCP-0.01.tar.gz
 Punk::Model                        0.66  L/LN/LNATION/Punk-0.66.tar.gz
 Punk::Model::ApiKey                0.02  L/LN/LNATION/Punk-APIKey-0.02.tar.gz
 Punk::Model::Computed              0.66  L/LN/LNATION/Punk-0.66.tar.gz
@@ -200244,6 +200246,7 @@ Punk::Plugin::Health               0.66  L/LN/LNATION/Punk-0.66.tar.gz
 Punk::Plugin::I18n                 0.66  L/LN/LNATION/Punk-0.66.tar.gz
 Punk::Plugin::Idempotency          0.66  L/LN/LNATION/Punk-0.66.tar.gz
 Punk::Plugin::Mailer               0.06  L/LN/LNATION/Punk-Mailer-0.06.tar.gz
+Punk::Plugin::MCP                  0.01  L/LN/LNATION/Punk-MCP-0.01.tar.gz
 Punk::Plugin::Metrics              0.66  L/LN/LNATION/Punk-0.66.tar.gz
 Punk::Plugin::OAuth2               0.08  L/LN/LNATION/Punk-OAuth2-0.08.tar.gz
 Punk::Plugin::Observe             undef  L/LN/LNATION/Punk-Observe-0.11.tar.gz
