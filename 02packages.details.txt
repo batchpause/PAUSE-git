@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262518
-Last-Updated: Tue, 27 Oct 2026 06:41:02 GMT
+Last-Updated: Tue, 27 Oct 2026 09:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -10941,21 +10941,21 @@ App::FuguVM::Proxy::Cache      0.003001  S/SE/SENZILLA/App-FuguVM-0.3.1.tar.gz
 App::FuguVM::QMP               0.003001  S/SE/SENZILLA/App-FuguVM-0.3.1.tar.gz
 App::FuguVM::Remote            0.003001  S/SE/SENZILLA/App-FuguVM-0.3.1.tar.gz
 App::FuguVM::State             0.003001  S/SE/SENZILLA/App-FuguVM-0.3.1.tar.gz
-App::FuguWeb                   0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::Check            0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::CLI              0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::Config           0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::Config::Group    0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::Fragment         0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::Index            0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::Keys             0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::Language         0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::Manual           0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::Page             0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::Render           0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::Rotate           0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::Site             0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
-App::FuguWeb::Status           0.011001  S/SE/SENZILLA/App-FuguWeb-0.11.1.tar.gz
+App::FuguWeb                   0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::Check            0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::CLI              0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::Config           0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::Config::Group    0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::Fragment         0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::Index            0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::Keys             0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::Language         0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::Manual           0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::Page             0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::Render           0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::Rotate           0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::Site             0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
+App::FuguWeb::Status           0.011002  S/SE/SENZILLA/App-FuguWeb-0.11.2.tar.gz
 App::FzfUtils                     0.004  P/PE/PERLANCAR/App-FzfUtils-0.004.tar.gz
 App::Gallery                   0.001001  M/MG/MGV/App-Gallery-0.001001.tar.gz
 App::Games::Keno                  undef  T/TY/TYUPYRCML/App-Games-Keno-1.222540.tar.gz
@@ -86464,7 +86464,7 @@ Getopt::LL::Simple                  1.0  A/AS/ASKSH/Getopt-LL-1.0.0.tar.gz
 Getopt::LL::SimpleExporter          1.0  A/AS/ASKSH/Getopt-LL-1.0.0.tar.gz
 Getopt::Long                       2.58  J/JV/JV/Getopt-Long-2.58.tar.gz
 Getopt::Long::Any                 0.002  P/PE/PERLANCAR/Getopt-Long-Any-0.002.tar.gz
-Getopt::Long::Bash               v1.0.0  U/UT/UTASHIRO/Getopt-Long-Bash-1.0.0.tar.gz
+Getopt::Long::Bash               v1.1.0  U/UT/UTASHIRO/Getopt-Long-Bash-1.1.0.tar.gz
 Getopt::Long::Complete            0.318  P/PE/PERLANCAR/Getopt-Long-Complete-0.318.tar.gz
 Getopt::Long::Descriptive         0.117  R/RJ/RJBS/Getopt-Long-Descriptive-0.117.tar.gz
 Getopt::Long::Descriptive::Dump   0.001  P/PE/PERLANCAR/Getopt-Long-Descriptive-Dump-0.001.tar.gz
