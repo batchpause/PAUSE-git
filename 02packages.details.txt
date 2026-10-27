@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262506
-Last-Updated: Tue, 27 Oct 2026 01:54:31 GMT
+Line-Count:   262512
+Last-Updated: Tue, 27 Oct 2026 02:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -53335,6 +53335,7 @@ Dancer2::Plugin::Passphrase::Hashed undef  S/SY/SYSPETE/Dancer2-Plugin-Passphras
 Dancer2::Plugin::Pg                0.07  L/LU/LUCAS/Dancer2-Plugin-Pg-0.07.tar.gz
 Dancer2::Plugin::Pg::Core         undef  L/LU/LUCAS/Dancer2-Plugin-Pg-0.07.tar.gz
 Dancer2::Plugin::Polite           undef  S/ST/STEVIED/Dancer2-Plugin-MarkdownFilesToHTML-0.004.tar.gz
+Dancer2::Plugin::PrivatusAnalytics v1.0.0  P/PR/PRIVATUS/PrivatusAnalytics-1.0.0.tar.gz
 Dancer2::Plugin::ProbabilityRoute undef  S/SU/SUKRIA/Dancer2-Plugin-ProbabilityRoute-0.03.tar.gz
 Dancer2::Plugin::ProgressStatus   0.018  S/SH/SHUMPHREY/Dancer2-Plugin-ProgressStatus-0.018.tar.gz
 Dancer2::Plugin::ProgressStatus::Object 0.018  S/SH/SHUMPHREY/Dancer2-Plugin-ProgressStatus-0.018.tar.gz
@@ -136702,6 +136703,7 @@ Mojolicious::Plugin::PNGCast       0.22  C/CO/CORION/Mojolicious-Plugin-PNGCast-
 Mojolicious::Plugin::PODRenderer  undef  S/SR/SRI/Mojolicious-8.11.tar.gz
 Mojolicious::Plugin::PODViewer    0.007  P/PR/PREACTION/Mojolicious-Plugin-PODViewer-0.007.tar.gz
 Mojolicious::Plugin::PPI           0.07  J/JB/JBERGER/Mojolicious-Plugin-PPI-0.07.tar.gz
+Mojolicious::Plugin::PrivatusAnalytics v1.0.0  P/PR/PRIVATUS/PrivatusAnalytics-1.0.0.tar.gz
 Mojolicious::Plugin::Prometheus  v1.4.1  C/CR/CRORAA/Mojolicious-Plugin-Prometheus-1.4.1.tar.gz
 Mojolicious::Plugin::PrometheusTiny 0.02  J/JA/JAVIER/Mojolicious-Plugin-PrometheusTiny-0.02.tar.gz
 Mojolicious::Plugin::PromiseActions 0.08  M/MR/MRAMBERG/Mojolicious-Plugin-PromiseActions-0.08.tar.gz
@@ -194814,6 +194816,7 @@ Plack::Middleware::Pod             0.05  C/CO/CORION/Plack-Middleware-Pod-0.05.t
 Plack::Middleware::PostErrorToSlack 0.01  H/HI/HITODE/Plack-Middleware-PostErrorToSlack-0.01.tar.gz
 Plack::Middleware::Precompressed  1.104  A/AR/ARISTOTLE/Plack-Middleware-Precompressed-1.104.tar.gz
 Plack::Middleware::PrettyException 1.010  D/DO/DOMM/Plack-Middleware-PrettyException-1.010.tar.gz
+Plack::Middleware::PrivatusAnalytics v1.0.0  P/PR/PRIVATUS/PrivatusAnalytics-1.0.0.tar.gz
 Plack::Middleware::ProcessTimes 1.000000  F/FR/FREW/Plack-Middleware-ProcessTimes-1.000000.tar.gz
 Plack::Middleware::Profiler::KYTProf 0.08  K/KI/KITANO/Plack-Middleware-Profiler-KYTProf-0.08.tar.gz
 Plack::Middleware::Profiler::KYTProf::Profile::DefaultProfile undef  K/KI/KITANO/Plack-Middleware-Profiler-KYTProf-0.03.tar.gz
@@ -198960,6 +198963,9 @@ prior_to_test                      0.06  A/AU/AUTRIJUS/PAR-0.88.tar.gz
 PriQueue                          undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/queues/strpris/PriQueue.pm.gz
 private                            0.04  M/MS/MSCHWERN/Class-Fields-0.204.tar.gz
 Private::Module::WWW::TWikiClient   0.3  M/MU/MUIR/modules/Twiki-Upload-0.3.tar.gz
+PrivatusAnalytics                v1.0.0  P/PR/PRIVATUS/PrivatusAnalytics-1.0.0.tar.gz
+PrivatusAnalytics::Attributes    v1.0.0  P/PR/PRIVATUS/PrivatusAnalytics-1.0.0.tar.gz
+PrivatusAnalytics::PageProps     v1.0.0  P/PR/PRIVATUS/PrivatusAnalytics-1.0.0.tar.gz
 privDNS                           undef  S/SU/SULLR/Net-Inspect-0.22.tar.gz
 privFileCache                     undef  S/SU/SULLR/Net-Inspect-0.331.tar.gz
 privFileCache::HANDLE             undef  S/SU/SULLR/Net-Inspect-0.331.tar.gz
