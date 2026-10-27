@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262518
-Last-Updated: Tue, 27 Oct 2026 11:41:02 GMT
+Last-Updated: Tue, 27 Oct 2026 13:54:28 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -222737,7 +222737,7 @@ Sub::PatternMatching               1.04  S/SM/SMUELLER/Sub-PatternMatching-1.04.
 Sub::Pipe                          0.03  F/FU/FUJIWARA/Sub-Pipe-0.03.tar.gz
 Sub::Pipeline                     0.011  R/RJ/RJBS/Sub-Pipeline-0.011.tar.gz
 Sub::Prepend                       0.01  L/LO/LODIN/Sub-Prepend-0.01.tar.gz
-Sub::Private                       0.07  N/NH/NHORNE/Sub-Private-0.07.tar.gz
+Sub::Private                       0.08  N/NH/NHORNE/Sub-Private-0.08.tar.gz
 Sub::Protected                     0.03  N/NH/NHORNE/Sub-Protected-0.03.tar.gz
 Sub::Prototype                     0.03  E/ET/ETHER/Sub-Prototype-0.03.tar.gz
 Sub::Prototype::Util               0.11  V/VP/VPIT/Sub-Prototype-Util-0.11.tar.gz
