@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262518
-Last-Updated: Tue, 27 Oct 2026 09:29:02 GMT
+Last-Updated: Tue, 27 Oct 2026 10:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -10341,7 +10341,7 @@ App::Dothe::Task                 v0.0.1  Y/YA/YANICK/App-Dothe-0.0.1.tar.gz
 App::DoubleUp                  0.004002  S/ST/STUIFZAND/App-DoubleUp-0.4.2.tar.gz
 App::Download                  1.000001  B/BE/BESSARABV/App-Download-1.0.1.tar.gz
 App::DownloadsDirUtils            0.009  P/PE/PERLANCAR/App-DownloadsDirUtils-0.009.tar.gz
-App::dozo                          1.01  U/UT/UTASHIRO/App-dozo-1.01.tar.gz
+App::dozo                          1.02  U/UT/UTASHIRO/App-dozo-1.02.tar.gz
 App::DPath                         0.12  S/SC/SCHWIGON/App-DPath-0.12.tar.gz
 App::DrivePlayer               0.002010  M/MV/MVSJES/App-DrivePlayer-0.2.10.tar.gz
 App::DrivePlayer::Config          undef  M/MV/MVSJES/App-DrivePlayer-0.2.10.tar.gz
