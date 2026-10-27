@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262512
-Last-Updated: Tue, 27 Oct 2026 02:17:02 GMT
+Line-Count:   262513
+Last-Updated: Tue, 27 Oct 2026 02:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -11399,24 +11399,25 @@ App::Greple::wordle::ORIGINAL     undef  U/UT/UTASHIRO/App-Greple-wordle-1.00.ta
 App::Greple::wordle::util         undef  U/UT/UTASHIRO/App-Greple-wordle-0.13.tar.gz
 App::Greple::wordle::word_all     undef  U/UT/UTASHIRO/App-Greple-wordle-0.13.tar.gz
 App::Greple::wordle::word_hidden  undef  U/UT/UTASHIRO/App-Greple-wordle-0.13.tar.gz
-App::Greple::xlate                 2.02  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
-App::Greple::xlate::Cache         undef  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
-App::Greple::xlate::deepl          2.02  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
-App::Greple::xlate::Filter        undef  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
+App::Greple::xlate                 2.03  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
+App::Greple::xlate::Cache         undef  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
+App::Greple::xlate::deepl          2.03  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
+App::Greple::xlate::Filter        undef  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
 App::Greple::xlate::gpt3         1.0202  U/UT/UTASHIRO/App-Greple-xlate-1.0202.tar.gz
 App::Greple::xlate::gpt4         1.0202  U/UT/UTASHIRO/App-Greple-xlate-1.0202.tar.gz
 App::Greple::xlate::gpt4o        1.0202  U/UT/UTASHIRO/App-Greple-xlate-1.0202.tar.gz
 App::Greple::xlate::gpt5         1.0202  U/UT/UTASHIRO/App-Greple-xlate-1.0202.tar.gz
-App::Greple::xlate::gpty::gpt3     2.02  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
-App::Greple::xlate::gpty::gpt4     2.02  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
-App::Greple::xlate::gpty::gpt4o    2.02  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
-App::Greple::xlate::gpty::gpt5     2.02  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
-App::Greple::xlate::Lang          undef  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
-App::Greple::xlate::llm            2.02  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
-App::Greple::xlate::llm::gpt5      2.02  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
-App::Greple::xlate::Mask          undef  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
-App::Greple::xlate::null           2.02  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
-App::Greple::xlate::Text          undef  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
+App::Greple::xlate::gpty::gpt3     2.03  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
+App::Greple::xlate::gpty::gpt4     2.03  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
+App::Greple::xlate::gpty::gpt4o    2.03  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
+App::Greple::xlate::gpty::gpt5     2.03  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
+App::Greple::xlate::Lang          undef  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
+App::Greple::xlate::llm            2.03  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
+App::Greple::xlate::llm::gpt5      2.03  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
+App::Greple::xlate::llm::gpt6      2.03  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
+App::Greple::xlate::Mask          undef  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
+App::Greple::xlate::null           2.03  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
+App::Greple::xlate::Text          undef  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
 App::Greple::xp                    1.01  U/UT/UTASHIRO/App-Greple-xp-1.01.tar.gz
 App::grepurl                      1.013  B/BR/BRIANDFOY/App-grepurl-1.013.tar.gz
 App::GrepUtils                    0.007  P/PE/PERLANCAR/App-GrepUtils-0.007.tar.gz
@@ -17068,7 +17069,7 @@ App::wsgetmail::MS365::Client     undef  B/BP/BPS/App-wsgetmail-0.11.tar.gz
 App::wsgetmail::MS365::Message    undef  B/BP/BPS/App-wsgetmail-0.11.tar.gz
 App::WUPHF                        0.001  M/MC/MCMILLHJ/App-WUPHF-0.001.tar.gz
 App::xkcdpass                       0.1  G/GC/GCJ/App-xkcdpass-0.1.tar.gz
-App::xlate                         2.02  U/UT/UTASHIRO/App-Greple-xlate-2.02.tar.gz
+App::xlate                         2.03  U/UT/UTASHIRO/App-Greple-xlate-2.03.tar.gz
 App::XLSperl                      undef  J/JO/JONALLEN/XLSperl-0.7.tar.gz
 App::XML::DocBook::Builder       0.1101  S/SH/SHLOMIF/App-XML-DocBook-Builder-0.1101.tar.gz
 App::XML::DocBook::Docmake       0.1101  S/SH/SHLOMIF/App-XML-DocBook-Builder-0.1101.tar.gz
