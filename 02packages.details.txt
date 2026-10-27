@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262499
-Last-Updated: Tue, 27 Oct 2026 00:17:01 GMT
+Last-Updated: Tue, 27 Oct 2026 00:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -127228,7 +127228,7 @@ Map::Tube::London::Line::Piccadilly v2.0.2  M/MA/MANWAR/Map-Tube-London-v2.0.2.t
 Map::Tube::London::Line::Victoria v2.0.2  M/MA/MANWAR/Map-Tube-London-v2.0.2.tar.gz
 Map::Tube::London::Line::WaterlooCity v2.0.2  M/MA/MANWAR/Map-Tube-London-v2.0.2.tar.gz
 Map::Tube::Lyon                 v0.62.5  G/GW/GWS/Map-Tube-Lyon-v0.62.5.tar.gz
-Map::Tube::Madrid                  0.42  M/MA/MANWAR/Map-Tube-Madrid-0.42.tar.gz
+Map::Tube::Madrid                v1.0.0  M/MA/MANWAR/Map-Tube-Madrid-v1.0.0.tar.gz
 Map::Tube::Madrid::Line::L1        0.42  M/MA/MANWAR/Map-Tube-Madrid-0.42.tar.gz
 Map::Tube::Madrid::Line::L11       0.42  M/MA/MANWAR/Map-Tube-Madrid-0.42.tar.gz
 Map::Tube::Madrid::Line::L2        0.42  M/MA/MANWAR/Map-Tube-Madrid-0.42.tar.gz
