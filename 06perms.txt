@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670021
+Line-Count:  670041
 Written-By:  PAUSE version 1.005
-Date:        Tue, 27 Oct 2026 02:41:22 GMT
+Date:        Tue, 27 Oct 2026 03:18:32 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -567632,6 +567632,10 @@ SNMP::Info::Layer2::Kentrox,CVICENTE,c
 SNMP::Info::Layer2::Kentrox,EMILLER,c
 SNMP::Info::Layer2::Kentrox,MAXB,c
 SNMP::Info::Layer2::Kentrox,OLIVER,f
+SNMP::Info::Layer2::LigoWave,CVICENTE,c
+SNMP::Info::Layer2::LigoWave,EMILLER,c
+SNMP::Info::Layer2::LigoWave,MAXB,c
+SNMP::Info::Layer2::LigoWave,OLIVER,f
 SNMP::Info::Layer2::Microsens,CVICENTE,c
 SNMP::Info::Layer2::Microsens,EMILLER,c
 SNMP::Info::Layer2::Microsens,MAXB,c
@@ -567716,6 +567720,10 @@ SNMP::Info::Layer3::ArubaCX,CVICENTE,c
 SNMP::Info::Layer3::ArubaCX,EMILLER,c
 SNMP::Info::Layer3::ArubaCX,MAXB,c
 SNMP::Info::Layer3::ArubaCX,OLIVER,f
+SNMP::Info::Layer3::ArubaInstant,CVICENTE,c
+SNMP::Info::Layer3::ArubaInstant,EMILLER,c
+SNMP::Info::Layer3::ArubaInstant,MAXB,c
+SNMP::Info::Layer3::ArubaInstant,OLIVER,f
 SNMP::Info::Layer3::BayRS,CVICENTE,c
 SNMP::Info::Layer3::BayRS,EMILLER,c
 SNMP::Info::Layer3::BayRS,MAXB,c
@@ -567924,6 +567932,10 @@ SNMP::Info::Layer3::Redlion,CVICENTE,c
 SNMP::Info::Layer3::Redlion,EMILLER,c
 SNMP::Info::Layer3::Redlion,MAXB,c
 SNMP::Info::Layer3::Redlion,OLIVER,f
+SNMP::Info::Layer3::RuckusController,CVICENTE,c
+SNMP::Info::Layer3::RuckusController,EMILLER,c
+SNMP::Info::Layer3::RuckusController,MAXB,c
+SNMP::Info::Layer3::RuckusController,OLIVER,f
 SNMP::Info::Layer3::Scalance,CVICENTE,c
 SNMP::Info::Layer3::Scalance,EMILLER,c
 SNMP::Info::Layer3::Scalance,MAXB,c
@@ -567960,6 +567972,10 @@ SNMP::Info::Layer3::Sun,CVICENTE,c
 SNMP::Info::Layer3::Sun,EMILLER,c
 SNMP::Info::Layer3::Sun,MAXB,c
 SNMP::Info::Layer3::Sun,OLIVER,f
+SNMP::Info::Layer3::Tachyon,CVICENTE,c
+SNMP::Info::Layer3::Tachyon,EMILLER,c
+SNMP::Info::Layer3::Tachyon,MAXB,c
+SNMP::Info::Layer3::Tachyon,OLIVER,f
 SNMP::Info::Layer3::Tasman,CVICENTE,c
 SNMP::Info::Layer3::Tasman,EMILLER,c
 SNMP::Info::Layer3::Tasman,MAXB,c
@@ -567968,6 +567984,10 @@ SNMP::Info::Layer3::Teltonika,CVICENTE,c
 SNMP::Info::Layer3::Teltonika,EMILLER,c
 SNMP::Info::Layer3::Teltonika,MAXB,c
 SNMP::Info::Layer3::Teltonika,OLIVER,f
+SNMP::Info::Layer3::TeltonikaRutOS,CVICENTE,c
+SNMP::Info::Layer3::TeltonikaRutOS,EMILLER,c
+SNMP::Info::Layer3::TeltonikaRutOS,MAXB,c
+SNMP::Info::Layer3::TeltonikaRutOS,OLIVER,f
 SNMP::Info::Layer3::Timetra,CVICENTE,c
 SNMP::Info::Layer3::Timetra,EMILLER,c
 SNMP::Info::Layer3::Timetra,MAXB,c
