@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262518
-Last-Updated: Tue, 27 Oct 2026 10:17:02 GMT
+Last-Updated: Tue, 27 Oct 2026 11:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -74539,7 +74539,7 @@ Erlang::Port                       0.04  H/HI/HIO/Erlang-Port-0.04.tar.gz
 EROOT                             undef  D/DM/DMR/Class-Eroot-19960603.tar.gz
 Err                                0.02  M/MA/MARKF/Err-0.02.tar.gz
 Errno::AnyString                   1.03  P/PU/PUBNOOP/Errno-AnyString-1.03.tar.gz
-Error                           0.17030  S/SH/SHLOMIF/Error-0.17030.tar.gz
+Error                           0.17031  S/SH/SHLOMIF/Error-0.17031.tar.gz
 Error::Base                      v1.0.2  X/XI/XIONG/developer-tools/Error-Base-v1.0.2.tar.gz
 Error::Base::Cookbook            v1.0.2  X/XI/XIONG/developer-tools/Error-Base-v1.0.2.tar.gz
 Error::Base::Late                     0  X/XI/XIONG/developer-tools/Error-Base-v1.0.2.tar.gz
@@ -74619,8 +74619,8 @@ Error::RRD::NoSuchDS              1.015  R/RS/RSOLIV/rrdpoller-1.5.0.tar.gz
 Error::RRDs                       1.015  R/RS/RSOLIV/rrdpoller-1.5.0.tar.gz
 Error::Show                    0.005001  D/DR/DRCLAW/Error-Show-v0.5.1.tar.gz
 Error::Show::Exception         0.005001  D/DR/DRCLAW/Error-Show-v0.5.1.tar.gz
-Error::Simple                   0.17030  S/SH/SHLOMIF/Error-0.17030.tar.gz
-Error::subs                     0.17030  S/SH/SHLOMIF/Error-0.17030.tar.gz
+Error::Simple                   0.17031  S/SH/SHLOMIF/Error-0.17031.tar.gz
+Error::subs                     0.17031  S/SH/SHLOMIF/Error-0.17031.tar.gz
 Error::SystemException             0.05  P/PE/PEVANS/Error-Subclasses-0.05.tar.gz
 Error::Tiny                        0.03  V/VT/VTI/Error-Tiny-0.03.tar.gz
 Error::Tiny::Catch                undef  V/VT/VTI/Error-Tiny-0.03.tar.gz
@@ -74633,7 +74633,7 @@ Error::TypeTiny::Compilation   2.010001  T/TO/TOBYINK/Type-Tiny-2.010001.tar.gz
 Error::TypeTiny::WrongNumberOfParameters 2.010001  T/TO/TOBYINK/Type-Tiny-2.010001.tar.gz
 Error::Unhandled                   1.02  T/TE/TEVERETT/Error-Unhandled-1.02.tar.gz
 Error::Wait                        0.05  G/GR/GRAZZ/Error-Wait-0.05.tar.gz
-Error::WarnDie                  0.17030  S/SH/SHLOMIF/Error-0.17030.tar.gz
+Error::WarnDie                  0.17031  S/SH/SHLOMIF/Error-0.17031.tar.gz
 error_codes                       undef  N/NN/NNMOS/API-Intis-1.00.tar.gz
 error_require                     undef  A/AS/ASPEER/WebDyne-3.029.tar.gz
 errors                             0.13  I/IN/INGY/Error-errors-0.13.tar.gz
