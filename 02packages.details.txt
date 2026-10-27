@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262502
-Last-Updated: Tue, 27 Oct 2026 01:17:02 GMT
+Line-Count:   262506
+Last-Updated: Tue, 27 Oct 2026 01:54:31 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -136259,6 +136259,10 @@ Mojolicious::Plugin::Branding::IndividualStaticRole 0.004  P/PO/POLETTIX/Mojolic
 Mojolicious::Plugin::Branding::RenderRole 0.001  P/PO/POLETTIX/Mojolicious-Plugin-Branding-0.001.tar.gz
 Mojolicious::Plugin::Breadcrumbs 1.001003  Z/ZO/ZOFFIX/Mojolicious-Plugin-Breadcrumbs-1.001003.tar.gz
 Mojolicious::Plugin::BrowserDetect undef  U/UV/UVOELKER/Mojolicious-Plugin-BrowserDetect-0.003.tar.gz
+Mojolicious::Plugin::Buffer    0.001000  N/NH/NHORNE/Mojolicious-Plugin-Buffer-0.001.0.tar.gz
+Mojolicious::Plugin::Buffer::I18N 0.001000  N/NH/NHORNE/Mojolicious-Plugin-Buffer-0.001.0.tar.gz
+Mojolicious::Plugin::Buffer::Lock::File 0.001000  N/NH/NHORNE/Mojolicious-Plugin-Buffer-0.001.0.tar.gz
+Mojolicious::Plugin::Buffer::Lock::Redis 0.001000  N/NH/NHORNE/Mojolicious-Plugin-Buffer-0.001.0.tar.gz
 Mojolicious::Plugin::Bundle       0.004  S/SI/SIDD/Mojolicious-Plugin-Bundle-0.004.tar.gz
 Mojolicious::Plugin::Cache       0.0015  S/SI/SIDD/Mojolicious-Plugin-Cache-0.0015.tar.gz
 Mojolicious::Plugin::Cache::Action 0.0015  S/SI/SIDD/Mojolicious-Plugin-Cache-0.0015.tar.gz

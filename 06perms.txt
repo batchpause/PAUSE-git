@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670010
+Line-Count:  670020
 Written-By:  PAUSE version 1.005
-Date:        Mon, 26 Oct 2026 21:55:40 GMT
+Date:        Tue, 27 Oct 2026 01:55:57 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -114481,6 +114481,7 @@ Dancer2::Plugin::Path::Class,HVOERS,f
 Dancer2::Plugin::Pg,LUCAS,f
 Dancer2::Plugin::Pg::Core,LUCAS,f
 Dancer2::Plugin::Polite,STEVIED,f
+Dancer2::Plugin::PrivatusAnalytics,PRIVATUS,c
 Dancer2::Plugin::ProbabilityRoute,BIGPRESH,c
 Dancer2::Plugin::ProbabilityRoute,SUKRIA,f
 Dancer2::Plugin::ProgressStatus,SHUMPHREY,f
@@ -381839,6 +381840,10 @@ Mojolicious::Plugin::Breadcrumbs,ZOFFIX,f
 Mojolicious::Plugin::BrowserDetect,UVOELKER,f
 Mojolicious::Plugin::Browserify,JHTHORSEN,f
 Mojolicious::Plugin::Browserify::Processor,JHTHORSEN,f
+Mojolicious::Plugin::Buffer,NHORNE,f
+Mojolicious::Plugin::Buffer::I18N,NHORNE,f
+Mojolicious::Plugin::Buffer::Lock::File,NHORNE,f
+Mojolicious::Plugin::Buffer::Lock::Redis,NHORNE,f
 Mojolicious::Plugin::Bundle,SIDD,f
 Mojolicious::Plugin::CBOR,DSHADOW,f
 Mojolicious::Plugin::CGI,JHTHORSEN,f
@@ -382517,6 +382522,7 @@ Mojolicious::Plugin::PoweredBy,KRAIH,c
 Mojolicious::Plugin::PoweredBy,MRAMBERG,c
 Mojolicious::Plugin::PoweredBy,SRI,f
 Mojolicious::Plugin::PoweredBy,TEMPIRE,c
+Mojolicious::Plugin::PrivatusAnalytics,PRIVATUS,c
 Mojolicious::Plugin::ProRenderer,SLOBIN,f
 Mojolicious::Plugin::Prometheus,CRORAA,c
 Mojolicious::Plugin::Prometheus,TYLDUM,f
@@ -544401,6 +544407,7 @@ Plack::Middleware::PostErrorToSlack,HITODE,f
 Plack::Middleware::Precompressed,ARISTOTLE,f
 Plack::Middleware::Precompressed,NOXFER,c
 Plack::Middleware::PrettyException,DOMM,f
+Plack::Middleware::PrivatusAnalytics,PRIVATUS,c
 Plack::Middleware::ProcessTimes,FREW,f
 Plack::Middleware::ProcessTimes,GTERMARS,c
 Plack::Middleware::Profiler::KYTProf,KITANO,f
@@ -548074,6 +548081,9 @@ Printer::Thermal,SHANTANU,f
 Println,PERLOOK,f
 Private::Module::WWW::TWikiClient,ADOPTME,c
 Private::Module::WWW::TWikiClient,MUIR,f
+PrivatusAnalytics,PRIVATUS,c
+PrivatusAnalytics::Attributes,PRIVATUS,c
+PrivatusAnalytics::PageProps,PRIVATUS,c
 Privileges::Drop,TLBDK,f
 ProLite,MSPENCER,f
 Probe::MachineInfo,SRSHAH,f
