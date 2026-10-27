@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670044
+Line-Count:  670092
 Written-By:  PAUSE version 1.005
-Date:        Tue, 27 Oct 2026 15:41:42 GMT
+Date:        Tue, 27 Oct 2026 17:55:44 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -345121,9 +345121,13 @@ Langertha::Raid::Sequential,GETTY,f
 Langertha::Raider,GETTY,f
 Langertha::Raider::ACP::CLI,GETTY,f
 Langertha::Raider::ACP::Client,GETTY,f
+Langertha::Raider::AgentTools,GETTY,f
 Langertha::Raider::Application,GETTY,f
 Langertha::Raider::Approval,GETTY,f
+Langertha::Raider::AskTools,GETTY,f
+Langertha::Raider::BashTools,GETTY,f
 Langertha::Raider::Binary,GETTY,f
+Langertha::Raider::Briefing,GETTY,f
 Langertha::Raider::CLI,GETTY,f
 Langertha::Raider::CLI::Commands,GETTY,f
 Langertha::Raider::CLI::Machine,GETTY,f
@@ -345137,39 +345141,83 @@ Langertha::Raider::CLI::Sessions,GETTY,f
 Langertha::Raider::Config,GETTY,f
 Langertha::Raider::Config::Migrate,GETTY,f
 Langertha::Raider::ConnectCheck,GETTY,f
+Langertha::Raider::Context,GETTY,f
+Langertha::Raider::Context::Agents,GETTY,f
+Langertha::Raider::Context::Frontmatter,GETTY,f
+Langertha::Raider::Context::Layout,GETTY,f
+Langertha::Raider::Context::Memory,GETTY,f
+Langertha::Raider::Context::Plugins,GETTY,f
+Langertha::Raider::Context::Settings,GETTY,f
+Langertha::Raider::Context::Skills,GETTY,f
+Langertha::Raider::Cron,GETTY,f
+Langertha::Raider::CronTools,GETTY,f
 Langertha::Raider::Detect,GETTY,f
 Langertha::Raider::EngineResolver,GETTY,f
 Langertha::Raider::FileTools,GETTY,f
+Langertha::Raider::FileTools::ReadState,GETTY,f
 Langertha::Raider::Hall,GETTY,f
 Langertha::Raider::Hall::ACP,GETTY,f
 Langertha::Raider::Hall::ACP::SubStream,GETTY,f
 Langertha::Raider::Hall::CLI,GETTY,f
 Langertha::Raider::Hall::Cron,GETTY,f
 Langertha::Raider::Hall::MCP,GETTY,f
+Langertha::Raider::Hall::PermissionChannel,GETTY,f
 Langertha::Raider::Hall::Protocol,GETTY,f
 Langertha::Raider::Hall::Raider,GETTY,f
 Langertha::Raider::Hall::Telegram,GETTY,f
 Langertha::Raider::HallTools,GETTY,f
 Langertha::Raider::Home,GETTY,f
+Langertha::Raider::Hooks,GETTY,f
+Langertha::Raider::Hooks::Result,GETTY,f
 Langertha::Raider::Instructions,GETTY,f
+Langertha::Raider::Loadguard,GETTY,f
+Langertha::Raider::MCP,GETTY,f
+Langertha::Raider::MCP::Config,GETTY,f
+Langertha::Raider::MCP::HTTP,GETTY,f
+Langertha::Raider::MCP::Resources,GETTY,f
+Langertha::Raider::MCP::Server,GETTY,f
+Langertha::Raider::MCP::Stdio,GETTY,f
+Langertha::Raider::MCP::View,GETTY,f
+Langertha::Raider::Monitor,GETTY,f
 Langertha::Raider::Packs,GETTY,f
 Langertha::Raider::Packs::Collection,GETTY,f
 Langertha::Raider::Packs::Pack,GETTY,f
+Langertha::Raider::PathConfine,GETTY,f
 Langertha::Raider::PerlTools,GETTY,f
+Langertha::Raider::PermissionChannel,GETTY,f
+Langertha::Raider::Permissions,GETTY,f
+Langertha::Raider::Permissions::ReadOnlyBash,GETTY,f
+Langertha::Raider::Permissions::Rule,GETTY,f
+Langertha::Raider::PlanTools,GETTY,f
+Langertha::Raider::Plugin::ClaudeHooks,GETTY,f
 Langertha::Raider::Plugin::Events,GETTY,f
+Langertha::Raider::Plugin::NestedMemory,GETTY,f
 Langertha::Raider::Plugin::Situation,GETTY,f
 Langertha::Raider::Plugin::Trace,GETTY,f
 Langertha::Raider::Provider::Activation,GETTY,f
+Langertha::Raider::Provider::Binding,GETTY,f
 Langertha::Raider::Provider::Change,GETTY,f
 Langertha::Raider::Provider::Fetch,GETTY,f
 Langertha::Raider::Result,GETTY,f
+Langertha::Raider::SearchTools,GETTY,f
 Langertha::Raider::Session,GETTY,f
 Langertha::Raider::Session::Journal,GETTY,f
 Langertha::Raider::SessionStore,GETTY,f
 Langertha::Raider::Skill,GETTY,f
+Langertha::Raider::SkillResolver,GETTY,f
+Langertha::Raider::SkillResolver::Catalog,GETTY,f
+Langertha::Raider::SkillResolver::Skilletor,GETTY,f
+Langertha::Raider::SkillTools,GETTY,f
+Langertha::Raider::SlashCommand,GETTY,f
+Langertha::Raider::Subagent,GETTY,f
+Langertha::Raider::Tasks,GETTY,f
+Langertha::Raider::TodoTools,GETTY,f
 Langertha::Raider::ToolArgs,GETTY,f
 Langertha::Raider::ToolEffects,GETTY,f
+Langertha::Raider::ToolNames,GETTY,f
 Langertha::Raider::WebTools,GETTY,f
+Langertha::Raider::Worktree,GETTY,f
+Langertha::Raider::WorktreeTools,GETTY,f
 Langertha::RateLimit,GETTY,f
 Langertha::Reasoning,GETTY,f
 Langertha::Reasoning::BudgetPolicy,GETTY,f
