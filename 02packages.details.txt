@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262567
-Last-Updated: Wed, 28 Oct 2026 01:41:02 GMT
+Last-Updated: Wed, 28 Oct 2026 02:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -133564,7 +133564,7 @@ MicroWiki::Views                  undef  B/BE/BEPPU/Squatting-0.83.tar.gz
 MIDI                               0.84  C/CO/CONKLIN/MIDI-Perl-0.84.tar.gz
 MIDI::ALSA                         1.22  P/PJ/PJB/MIDI-ALSA-1.22.tar.gz
 MIDI::Chord::Guitar              0.0706  G/GE/GENE/MIDI-Chord-Guitar-0.0706.tar.gz
-MIDI::Device                     0.0102  G/GE/GENE/MIDI-Device-0.0102.tar.gz
+MIDI::Device                     0.0200  G/GE/GENE/MIDI-Device-0.0200.tar.gz
 MIDI::Device::DX7                0.0101  G/GE/GENE/MIDI-Device-DX7-0.0101.tar.gz
 MIDI::Drummer::Tiny              0.7102  G/GE/GENE/MIDI-Drummer-Tiny-0.7102.tar.gz
 MIDI::Drummer::Tiny::Grooves     0.7102  G/GE/GENE/MIDI-Drummer-Tiny-0.7102.tar.gz
