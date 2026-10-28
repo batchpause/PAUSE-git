@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262574
-Last-Updated: Wed, 28 Oct 2026 15:17:03 GMT
+Last-Updated: Wed, 28 Oct 2026 15:54:16 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -112072,13 +112072,13 @@ JavaScript::Dumper                0.011  P/PE/PERLER/JavaScript-Dumper-0.011.tar
 JavaScript::Ectype                 0.01  H/HD/HDAICHI/JavaScript-Ectype-0.01.tar.gz
 JavaScript::Ectype::Handler::Apache2 0.000001  H/HD/HDAICHI/JavaScript-Ectype-Handler-Apache2-0.0.1.tar.gz
 JavaScript::Ectype::Loader        undef  H/HD/HDAICHI/JavaScript-Ectype-0.01.tar.gz
-JavaScript::Embedded           2.007003  C/CA/CAVAC/JavaScript-Embedded-2.7.3.tar.gz
-JavaScript::Embedded::Bool     2.007003  C/CA/CAVAC/JavaScript-Embedded-2.7.3.tar.gz
-JavaScript::Embedded::Function 2.007003  C/CA/CAVAC/JavaScript-Embedded-2.7.3.tar.gz
-JavaScript::Embedded::NULL     2.007003  C/CA/CAVAC/JavaScript-Embedded-2.7.3.tar.gz
-JavaScript::Embedded::Object   2.007003  C/CA/CAVAC/JavaScript-Embedded-2.7.3.tar.gz
-JavaScript::Embedded::Util     2.007003  C/CA/CAVAC/JavaScript-Embedded-2.7.3.tar.gz
-JavaScript::Embedded::Vm       2.007003  C/CA/CAVAC/JavaScript-Embedded-2.7.3.tar.gz
+JavaScript::Embedded           2.007004  C/CA/CAVAC/JavaScript-Embedded-2.7.4.tar.gz
+JavaScript::Embedded::Bool     2.007004  C/CA/CAVAC/JavaScript-Embedded-2.7.4.tar.gz
+JavaScript::Embedded::Function 2.007004  C/CA/CAVAC/JavaScript-Embedded-2.7.4.tar.gz
+JavaScript::Embedded::NULL     2.007004  C/CA/CAVAC/JavaScript-Embedded-2.7.4.tar.gz
+JavaScript::Embedded::Object   2.007004  C/CA/CAVAC/JavaScript-Embedded-2.7.4.tar.gz
+JavaScript::Embedded::Util     2.007004  C/CA/CAVAC/JavaScript-Embedded-2.7.4.tar.gz
+JavaScript::Embedded::Vm       2.007004  C/CA/CAVAC/JavaScript-Embedded-2.7.4.tar.gz
 JavaScript::Engine                0.066  S/SP/SPROUT/JE-0.066.tar.gz
 JavaScript::Error                 undef  C/CL/CLAESJAC/JavaScript-1.16.tar.gz
 JavaScript::Error::OpcodeLimitExceeded undef  K/KO/KONOBI/JavaScript-Runtime-OpcodeCounting-1.02.tar.gz
