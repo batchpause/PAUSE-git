@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262574
-Last-Updated: Wed, 28 Oct 2026 22:17:02 GMT
+Last-Updated: Wed, 28 Oct 2026 23:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -60482,16 +60482,16 @@ DateTime::LazyInit::Constructor_new 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.
 DateTime::LazyInit::Constructor_now 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
 DateTime::LazyInit::Constructor_today 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
 DateTime::LeapSecond               1.67  D/DR/DROLSKY/DateTime-1.67.tar.gz
-DateTime::Lite                 0.010000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
-DateTime::Lite::_FakeLocale    0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
-DateTime::Lite::_Thawed        0.010000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
-DateTime::Lite::Duration       0.001002  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
-DateTime::Lite::Exception      0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
-DateTime::Lite::Infinite       0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
-DateTime::Lite::Infinite::Future 0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
-DateTime::Lite::Infinite::Past 0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
-DateTime::Lite::PP             0.001002  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
-DateTime::Lite::TimeZone       0.005009  J/JD/JDEGUEST/DateTime-Lite-v0.10.0.tar.gz
+DateTime::Lite                 0.011000  J/JD/JDEGUEST/DateTime-Lite-v0.11.0.tar.gz
+DateTime::Lite::_FakeLocale    0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.11.0.tar.gz
+DateTime::Lite::_Thawed        0.011000  J/JD/JDEGUEST/DateTime-Lite-v0.11.0.tar.gz
+DateTime::Lite::Duration       0.001002  J/JD/JDEGUEST/DateTime-Lite-v0.11.0.tar.gz
+DateTime::Lite::Exception      0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.11.0.tar.gz
+DateTime::Lite::Infinite       0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.11.0.tar.gz
+DateTime::Lite::Infinite::Future 0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.11.0.tar.gz
+DateTime::Lite::Infinite::Past 0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.11.0.tar.gz
+DateTime::Lite::PP             0.001002  J/JD/JDEGUEST/DateTime-Lite-v0.11.0.tar.gz
+DateTime::Lite::TimeZone       0.005009  J/JD/JDEGUEST/DateTime-Lite-v0.11.0.tar.gz
 DateTime::Locale                   1.46  D/DR/DROLSKY/DateTime-Locale-1.46.tar.gz
 DateTime::Locale::Base             1.46  D/DR/DROLSKY/DateTime-Locale-1.46.tar.gz
 DateTime::Locale::Catalog          1.46  D/DR/DROLSKY/DateTime-Locale-1.46.tar.gz
@@ -133565,7 +133565,7 @@ MicroWiki::Views                  undef  B/BE/BEPPU/Squatting-0.83.tar.gz
 MIDI                               0.84  C/CO/CONKLIN/MIDI-Perl-0.84.tar.gz
 MIDI::ALSA                         1.22  P/PJ/PJB/MIDI-ALSA-1.22.tar.gz
 MIDI::Chord::Guitar              0.0706  G/GE/GENE/MIDI-Chord-Guitar-0.0706.tar.gz
-MIDI::Device                     0.0200  G/GE/GENE/MIDI-Device-0.0200.tar.gz
+MIDI::Device                     0.0201  G/GE/GENE/MIDI-Device-0.0201.tar.gz
 MIDI::Device::DX7                0.0101  G/GE/GENE/MIDI-Device-DX7-0.0101.tar.gz
 MIDI::Drummer::Tiny              0.7102  G/GE/GENE/MIDI-Drummer-Tiny-0.7102.tar.gz
 MIDI::Drummer::Tiny::Grooves     0.7102  G/GE/GENE/MIDI-Drummer-Tiny-0.7102.tar.gz
