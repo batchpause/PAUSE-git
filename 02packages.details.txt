@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262574
-Last-Updated: Wed, 28 Oct 2026 19:17:02 GMT
+Last-Updated: Wed, 28 Oct 2026 20:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -49081,11 +49081,11 @@ CPAN::IndexPod                     0.25  L/LB/LBROCARD/CPAN-IndexPod-0.25.tar.gz
 CPAN::Info::FromRepoName          0.001  P/PE/PERLANCAR/CPAN-Info-FromRepoName-0.001.tar.gz
 CPAN::Info::FromURL               0.092  P/PE/PERLANCAR/CPAN-Info-FromURL-0.092.tar.gz
 CPAN::InfoObj                       5.5  A/AN/ANDK/CPAN-2.41.tar.gz
-CPAN::InGit                       0.003  N/NE/NERDVANA/CPAN-InGit-0.003.tar.gz
-CPAN::InGit::ArchiveTree          0.003  N/NE/NERDVANA/CPAN-InGit-0.003.tar.gz
-CPAN::InGit::MirrorTree           0.003  N/NE/NERDVANA/CPAN-InGit-0.003.tar.gz
-CPAN::InGit::MutableTree          0.003  N/NE/NERDVANA/CPAN-InGit-0.003.tar.gz
-CPAN::InGit::Server               0.003  N/NE/NERDVANA/CPAN-InGit-0.003.tar.gz
+CPAN::InGit                       0.004  N/NE/NERDVANA/CPAN-InGit-0.004.tar.gz
+CPAN::InGit::ArchiveTree          0.004  N/NE/NERDVANA/CPAN-InGit-0.004.tar.gz
+CPAN::InGit::MirrorTree           0.004  N/NE/NERDVANA/CPAN-InGit-0.004.tar.gz
+CPAN::InGit::MutableTree          0.004  N/NE/NERDVANA/CPAN-InGit-0.004.tar.gz
+CPAN::InGit::Server               0.004  N/NE/NERDVANA/CPAN-InGit-0.004.tar.gz
 CPAN::Inject                       1.14  P/PS/PSHANGOV/CPAN-Inject-1.14.tar.gz
 CPAN::Kwalify                      5.50  A/AN/ANDK/CPAN-2.41.tar.gz
 CPAN::Local                       0.010  P/PS/PSHANGOV/CPAN-Local-0.010.tar.gz
