@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670092
+Line-Count:  670096
 Written-By:  PAUSE version 1.005
-Date:        Tue, 27 Oct 2026 17:55:44 GMT
+Date:        Wed, 28 Oct 2026 04:29:39 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -570299,6 +570299,7 @@ SPVM::TypeUtil,KIMOTO,f
 SPVM::UV,KIMOTO,f
 SPVM::UV::Callback::Async,KIMOTO,f
 SPVM::UV::Callback::Close,KIMOTO,f
+SPVM::UV::Callback::Exit,KIMOTO,f
 SPVM::UV::Callback::Idle,KIMOTO,f
 SPVM::UV::Callback::Poll,KIMOTO,f
 SPVM::UV::Callback::Read,KIMOTO,f
@@ -570310,12 +570311,15 @@ SPVM::UV::Handle::Async,KIMOTO,f
 SPVM::UV::Handle::Idle,KIMOTO,f
 SPVM::UV::Handle::Pipe,KIMOTO,f
 SPVM::UV::Handle::Poll,KIMOTO,f
+SPVM::UV::Handle::Process,KIMOTO,f
 SPVM::UV::Handle::Stream,KIMOTO,f
 SPVM::UV::Handle::Timer,KIMOTO,f
 SPVM::UV::Loop,KIMOTO,f
+SPVM::UV::ProcessOptions,KIMOTO,f
 SPVM::UV::Request,KIMOTO,f
 SPVM::UV::Request::Write,KIMOTO,f
 SPVM::UV::Resource::UV,KIMOTO,f
+SPVM::UV::StdioContainer,KIMOTO,f
 SPVM::Unicode,KIMOTO,f
 SPVM::Unicode,MOTI,c
 SPVM::Unicode,RYUNOSUKE,c

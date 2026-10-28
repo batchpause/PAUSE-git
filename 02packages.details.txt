@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262567
-Last-Updated: Wed, 28 Oct 2026 02:41:01 GMT
+Line-Count:   262571
+Last-Updated: Wed, 28 Oct 2026 04:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -220067,26 +220067,30 @@ SPVM::Time::Piece                 0.012  K/KI/KIMOTO/SPVM-Time-Piece-0.012.tar.g
 SPVM::Time::Seconds               undef  K/KI/KIMOTO/SPVM-Time-Piece-0.012.tar.gz
 SPVM::Unicode                     0.058  K/KI/KIMOTO/SPVM-Unicode-0.058.tar.gz
 SPVM::Unicode::Normalize          0.011  K/KI/KIMOTO/SPVM-Unicode-Normalize-0.011.tar.gz
-SPVM::UV                          0.003  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Callback::Async         undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Callback::Close         undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Callback::Idle          undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Callback::Poll          undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Callback::Read          undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Callback::Timer         undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Callback::Write         undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::ConfigBuilder           undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Handle                  undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Handle::Async           undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Handle::Idle            undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Handle::Pipe            undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Handle::Poll            undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Handle::Stream          undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Handle::Timer           undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Loop                    undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Request                 undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Request::Write          undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
-SPVM::UV::Resource::UV            undef  K/KI/KIMOTO/SPVM-UV-0.003.tar.gz
+SPVM::UV                          0.004  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Callback::Async         undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Callback::Close         undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Callback::Exit          undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Callback::Idle          undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Callback::Poll          undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Callback::Read          undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Callback::Timer         undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Callback::Write         undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::ConfigBuilder           undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Handle                  undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Handle::Async           undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Handle::Idle            undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Handle::Pipe            undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Handle::Poll            undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Handle::Process         undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Handle::Stream          undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Handle::Timer           undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Loop                    undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::ProcessOptions          undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Request                 undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Request::Write          undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::Resource::UV            undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
+SPVM::UV::StdioContainer          undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
 SQ                               v0.0.6  S/SH/SHLOMIF/SQ-0.0.6.tar.gz
 Sqids                              0.03  M/MY/MYSOCIETY/Sqids-0.03.tar.gz
 Sqids::Constants                  undef  M/MY/MYSOCIETY/Sqids-0.03.tar.gz
