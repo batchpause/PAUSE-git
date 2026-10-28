@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262567
-Last-Updated: Wed, 28 Oct 2026 00:29:02 GMT
+Last-Updated: Wed, 28 Oct 2026 01:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -79156,9 +79156,9 @@ FindApp::Utils::Carp              undef  T/TO/TOMC/FindApp-v0.0.7.tar.gz
 FindApp::Utils::Debug                 1  T/TO/TOMC/FindApp-v0.0.7.tar.gz
 FindApp::Utils::Package::Object   undef  T/TO/TOMC/FindApp-v0.0.7.tar.gz
 FindBin                            1.54  T/TO/TODDR/FindBin-1.54.tar.gz
-FindBin::Bin                   2.000000  L/LE/LEMBARK/FindBin-libs-v5.0.1.tar.gz
-FindBin::libs                  5.000001  L/LE/LEMBARK/FindBin-libs-v5.0.1.tar.gz
-FindBin::Parents               0.001000  L/LE/LEMBARK/FindBin-libs-v5.0.1.tar.gz
+FindBin::Bin                   2.000000  L/LE/LEMBARK/FindBin-libs-v5.0.2.tar.gz
+FindBin::libs                  5.000002  L/LE/LEMBARK/FindBin-libs-v5.0.2.tar.gz
+FindBin::Parents               0.001000  L/LE/LEMBARK/FindBin-libs-v5.0.2.tar.gz
 FindBin::Real                      1.05  S/ST/STRO/FindBin-Real-1.05.tar.gz
 FindBinNew                         1.51  J/JW/JWB/Bio-Grid-Run-SGE-0.066.tar.gz
 FindEvent                          0.01  H/HV/HVC/Video-Manip-0.02.tar.gz
@@ -222788,7 +222788,7 @@ Sub::PatternMatching               1.04  S/SM/SMUELLER/Sub-PatternMatching-1.04.
 Sub::Pipe                          0.03  F/FU/FUJIWARA/Sub-Pipe-0.03.tar.gz
 Sub::Pipeline                     0.011  R/RJ/RJBS/Sub-Pipeline-0.011.tar.gz
 Sub::Prepend                       0.01  L/LO/LODIN/Sub-Prepend-0.01.tar.gz
-Sub::Private                       0.08  N/NH/NHORNE/Sub-Private-0.08.tar.gz
+Sub::Private                       0.09  N/NH/NHORNE/Sub-Private-0.09.tar.gz
 Sub::Protected                     0.03  N/NH/NHORNE/Sub-Protected-0.03.tar.gz
 Sub::Prototype                     0.03  E/ET/ETHER/Sub-Prototype-0.03.tar.gz
 Sub::Prototype::Util               0.11  V/VP/VPIT/Sub-Prototype-Util-0.11.tar.gz
