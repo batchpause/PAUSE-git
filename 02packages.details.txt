@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262571
-Last-Updated: Wed, 28 Oct 2026 13:17:02 GMT
+Last-Updated: Wed, 28 Oct 2026 14:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -203500,7 +203500,7 @@ Redis::LeaderBoard::Member        undef  S/SO/SONGMU/Redis-LeaderBoard-1.11.tar.
 Redis::LeaderBoardMulti            0.02  S/SH/SHOGO/Redis-LeaderBoardMulti-0.02.tar.gz
 Redis::LeaderBoardMulti::Member   undef  S/SH/SHOGO/Redis-LeaderBoardMulti-0.02.tar.gz
 Redis::List                       2.000  D/DA/DAMS/Redis-2.000.tar.gz
-Redis::Namespace                   0.15  S/SH/SHOGO/Redis-Namespace-0.15.tar.gz
+Redis::Namespace                   0.16  S/SH/SHOGO/Redis-Namespace-0.16.tar.gz
 Redis::OpenTracing             0.003000  V/VA/VANHOESEL/Redis-OpenTracing-v0.3.0.tar.gz
 Redis::Parser::XS                  0.02  Z/ZZ/ZZZ/Redis-Parser-XS-0.02.tar.gz
 Redis::Queue                       0.01  P/PO/POPIEL/Redis-Queue-0.01.tar.gz
