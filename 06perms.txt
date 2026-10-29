@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670105
+Line-Count:  670123
 Written-By:  PAUSE version 1.005
-Date:        Thu, 29 Oct 2026 15:42:25 GMT
+Date:        Thu, 29 Oct 2026 18:55:30 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -138926,6 +138926,8 @@ Eval::WithLexicals::WithHintPersistence,VANSTYN,c
 Eval::WithLexicals::WithHintPersistence,WSHELDAHL,c
 EvalTrainingData,AVIKAK,f
 Evaluation,HENRYST,f
+EvasBoxOptionPtr,PERLMAX,f
+EvasBoxPtr,PERLMAX,f
 EvasCanvasPtr,PERLMAX,f
 EvasCoordRectanglePtr,PERLMAX,f
 EvasEventHoldPtr,PERLMAX,f
@@ -138940,6 +138942,7 @@ EvasEventMouseWheelPtr,PERLMAX,f
 EvasEventSignalExitPtr,PERLMAX,f
 EvasEventSignalRealtimePtr,PERLMAX,f
 EvasEventSignalUserPtr,PERLMAX,f
+EvasGridPtr,PERLMAX,f
 EvasImagePtr,PERLMAX,f
 EvasLinePtr,PERLMAX,f
 EvasLockPtr,PERLMAX,f
@@ -138947,6 +138950,9 @@ EvasModifierPtr,PERLMAX,f
 EvasObjectPtr,PERLMAX,f
 EvasPolygonPtr,PERLMAX,f
 EvasRectanglePtr,PERLMAX,f
+EvasSmartClassPtr,PERLMAX,f
+EvasSmartPtr,PERLMAX,f
+EvasTablePtr,PERLMAX,f
 EvasTextPtr,PERLMAX,f
 EvasTextblockCursorPtr,PERLMAX,f
 EvasTextblockNodeFormatPtr,PERLMAX,f
@@ -541310,6 +541316,7 @@ PerlConsole::Commands,SUKRIA,f
 PerlConsole::Console,SUKRIA,f
 PerlConsole::Preferences,SUKRIA,f
 PerlCryptLib,ALVAROL,f
+PerlEventPtr,PERLMAX,f
 PerlFM,VVELOX,f
 PerlFiveEight::State,JHTHORSEN,f
 PerlGSL,JBERGER,f
@@ -541551,6 +541558,8 @@ PerlQt::ClassInfo,AWIN,f
 PerlQt::Method,AWIN,f
 PerlReq::Utils,ATOURBIN,f
 PerlSettingsImporter,MISHIN,f
+PerlSmartClassPtr,PERLMAX,f
+PerlSmartObjectPtr,PERLMAX,f
 PerlSpeak,JKAMPHAUS,f
 PerlSpec,BOSTON,f
 PerlTidy::Options,LEIF,f
@@ -667870,6 +667879,8 @@ pEFL::Elm::Win,PERLMAX,f
 pEFL::Emotion,PERLMAX,f
 pEFL::Emotion::Object,PERLMAX,f
 pEFL::Evas,PERLMAX,f
+pEFL::Evas::Box,PERLMAX,f
+pEFL::Evas::BoxOption,PERLMAX,f
 pEFL::Evas::Canvas,PERLMAX,f
 pEFL::Evas::Coord::Rectangle,PERLMAX,f
 pEFL::Evas::Event::Hold,PERLMAX,f
@@ -667881,6 +667892,7 @@ pEFL::Evas::Event::MouseMove,PERLMAX,f
 pEFL::Evas::Event::MouseOut,PERLMAX,f
 pEFL::Evas::Event::MouseUp,PERLMAX,f
 pEFL::Evas::Event::MouseWheel,PERLMAX,f
+pEFL::Evas::Grid,PERLMAX,f
 pEFL::Evas::Image,PERLMAX,f
 pEFL::Evas::Line,PERLMAX,f
 pEFL::Evas::Lock,PERLMAX,f
@@ -667888,6 +667900,9 @@ pEFL::Evas::Modifier,PERLMAX,f
 pEFL::Evas::Object,PERLMAX,f
 pEFL::Evas::Polygon,PERLMAX,f
 pEFL::Evas::Rectangle,PERLMAX,f
+pEFL::Evas::Smart,PERLMAX,f
+pEFL::Evas::SmartClass,PERLMAX,f
+pEFL::Evas::Table,PERLMAX,f
 pEFL::Evas::Text,PERLMAX,f
 pEFL::Evas::Textblock,PERLMAX,f
 pEFL::Evas::TextblockCursor,PERLMAX,f
@@ -667895,6 +667910,9 @@ pEFL::Evas::TextblockNodeFormat,PERLMAX,f
 pEFL::Evas::TextblockRectangle,PERLMAX,f
 pEFL::Evas::TextblockStyle,PERLMAX,f
 pEFL::PLSide,PERLMAX,f
+pEFL::PerlEvent,PERLMAX,f
+pEFL::PerlSmartClass,PERLMAX,f
+pEFL::PerlSmartObject,PERLMAX,f
 pEFL::Time,PERLMAX,f
 pQuery,INGY,f
 pQuery::DOM,INGY,f
