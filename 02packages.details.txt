@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262598
-Last-Updated: Thu, 29 Oct 2026 21:17:02 GMT
+Last-Updated: Thu, 29 Oct 2026 21:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -219365,10 +219365,10 @@ Spreadsheet::WriteExcelXML::Workbook 0.15  J/JM/JMCNAMARA/Spreadsheet-WriteExcel
 Spreadsheet::WriteExcelXML::Worksheet 0.15  J/JM/JMCNAMARA/Spreadsheet-WriteExcelXML-0.15.tar.gz
 Spreadsheet::WriteExcelXML::XMLwriter 0.15  J/JM/JMCNAMARA/Spreadsheet-WriteExcelXML-0.15.tar.gz
 Spreadsheet::XlateExcel            0.03  X/XA/XAV/Spreadsheet-XlateExcel-0.03.tar.gz
-Spreadsheet::XLSX                  0.19  A/AS/ASB/Spreadsheet-XLSX-0.19.tar.gz
+Spreadsheet::XLSX                  0.20  A/AS/ASB/Spreadsheet-XLSX-0.20.tar.gz
 Spreadsheet::XLSX::Assist          0.01  C/CA/CARLSHEN/Spreadsheet-ParseExcel-Assist.zip
-Spreadsheet::XLSX::Fmt2007         0.19  A/AS/ASB/Spreadsheet-XLSX-0.19.tar.gz
-Spreadsheet::XLSX::Utility2007     0.19  A/AS/ASB/Spreadsheet-XLSX-0.19.tar.gz
+Spreadsheet::XLSX::Fmt2007         0.20  A/AS/ASB/Spreadsheet-XLSX-0.20.tar.gz
+Spreadsheet::XLSX::Utility2007     0.20  A/AS/ASB/Spreadsheet-XLSX-0.20.tar.gz
 Spreadsheet::XLSX::XLSXConvert     1.12  G/GN/GNG/Spreadsheet-BasicRead-1.12.tar.gz
 Spreadsheet::XML_to_XLS            0.02  U/US/USMANOV/Spreadsheet-XML_to_XLS-0.03.tar.gz
 SpringfieldObject                 undef  S/SA/SAMV/Tangram-2.12.tar.gz
@@ -235875,10 +235875,10 @@ Transmission::Utils               undef  O/OL/OLOF/Transmission-Client-0.0806.ta
 Trash::Park                        0.03  M/MS/MSCHILLI/Trash-Park-0.03.tar.gz
 Trash::Park::Element               0.03  M/MS/MSCHILLI/Trash-Park-0.03.tar.gz
 Trav::Dir                          0.02  B/BK/BKB/Trav-Dir-0.02.tar.gz
-Travel::Routing::DE::DBRIS         0.15  D/DE/DERF/Travel-Routing-DE-DBRIS-0.15.tar.gz
-Travel::Routing::DE::DBRIS::Connection 0.15  D/DE/DERF/Travel-Routing-DE-DBRIS-0.15.tar.gz
-Travel::Routing::DE::DBRIS::Connection::Segment 0.15  D/DE/DERF/Travel-Routing-DE-DBRIS-0.15.tar.gz
-Travel::Routing::DE::DBRIS::Offer  0.15  D/DE/DERF/Travel-Routing-DE-DBRIS-0.15.tar.gz
+Travel::Routing::DE::DBRIS         0.16  D/DE/DERF/Travel-Routing-DE-DBRIS-0.16.tar.gz
+Travel::Routing::DE::DBRIS::Connection 0.16  D/DE/DERF/Travel-Routing-DE-DBRIS-0.16.tar.gz
+Travel::Routing::DE::DBRIS::Connection::Segment 0.16  D/DE/DERF/Travel-Routing-DE-DBRIS-0.16.tar.gz
+Travel::Routing::DE::DBRIS::Offer  0.16  D/DE/DERF/Travel-Routing-DE-DBRIS-0.16.tar.gz
 Travel::Routing::DE::EFA           2.25  D/DE/DERF/Travel-Routing-DE-VRR-2.25.tar.gz
 Travel::Routing::DE::EFA::Route    2.25  D/DE/DERF/Travel-Routing-DE-VRR-2.25.tar.gz
 Travel::Routing::DE::EFA::Route::Message 2.25  D/DE/DERF/Travel-Routing-DE-VRR-2.25.tar.gz
@@ -235890,15 +235890,15 @@ Travel::Routing::DE::HAFAS::Location 0.01  D/DE/DERF/Travel-Routing-DE-HAFAS-0.0
 Travel::Routing::DE::HAFAS::Utils  0.11  D/DE/DERF/Travel-Routing-DE-HAFAS-0.11.tar.gz
 Travel::Routing::DE::VRR           2.25  D/DE/DERF/Travel-Routing-DE-VRR-2.25.tar.gz
 Travel::Status::DE::ASEAG          2.01  D/DE/DERF/Travel-Status-DE-URA-2.01.tar.gz
-Travel::Status::DE::DBRIS          0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
-Travel::Status::DE::DBRIS::Formation 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
-Travel::Status::DE::DBRIS::Formation::Carriage 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
-Travel::Status::DE::DBRIS::Formation::Group 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
-Travel::Status::DE::DBRIS::Formation::Sector 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
-Travel::Status::DE::DBRIS::Journey 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
-Travel::Status::DE::DBRIS::JourneyAtStop 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
-Travel::Status::DE::DBRIS::Location 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
-Travel::Status::DE::DBRIS::Operators 0.35  D/DE/DERF/Travel-Status-DE-DBRIS-0.35.tar.gz
+Travel::Status::DE::DBRIS          0.37  D/DE/DERF/Travel-Status-DE-DBRIS-0.37.tar.gz
+Travel::Status::DE::DBRIS::Formation 0.37  D/DE/DERF/Travel-Status-DE-DBRIS-0.37.tar.gz
+Travel::Status::DE::DBRIS::Formation::Carriage 0.37  D/DE/DERF/Travel-Status-DE-DBRIS-0.37.tar.gz
+Travel::Status::DE::DBRIS::Formation::Group 0.37  D/DE/DERF/Travel-Status-DE-DBRIS-0.37.tar.gz
+Travel::Status::DE::DBRIS::Formation::Sector 0.37  D/DE/DERF/Travel-Status-DE-DBRIS-0.37.tar.gz
+Travel::Status::DE::DBRIS::Journey 0.37  D/DE/DERF/Travel-Status-DE-DBRIS-0.37.tar.gz
+Travel::Status::DE::DBRIS::JourneyAtStop 0.37  D/DE/DERF/Travel-Status-DE-DBRIS-0.37.tar.gz
+Travel::Status::DE::DBRIS::Location 0.37  D/DE/DERF/Travel-Status-DE-DBRIS-0.37.tar.gz
+Travel::Status::DE::DBRIS::Operators 0.37  D/DE/DERF/Travel-Status-DE-DBRIS-0.37.tar.gz
 Travel::Status::DE::DBWagenreihung 0.18  D/DE/DERF/Travel-Status-DE-DBWagenreihung-0.18.tar.gz
 Travel::Status::DE::DBWagenreihung::Carriage 0.18  D/DE/DERF/Travel-Status-DE-DBWagenreihung-0.18.tar.gz
 Travel::Status::DE::DBWagenreihung::Group 0.18  D/DE/DERF/Travel-Status-DE-DBWagenreihung-0.18.tar.gz
