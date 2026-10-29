@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262575
-Last-Updated: Thu, 29 Oct 2026 05:54:11 GMT
+Last-Updated: Thu, 29 Oct 2026 06:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -8765,10 +8765,10 @@ App::annex_to_annex               0.008  S/SP/SPWHITTON/Git-Annex-0.008.tar.gz
 App::annex_to_annex_dropunused    0.008  S/SP/SPWHITTON/Git-Annex-0.008.tar.gz
 App::annex_to_annex_reinject      0.008  S/SP/SPWHITTON/Git-Annex-0.008.tar.gz
 App::ANSIColorUtils               0.011  P/PE/PERLANCAR/App-ANSIColorUtils-0.011.tar.gz
-App::ansicolumn                  1.6101  U/UT/UTASHIRO/App-ansicolumn-1.6101.tar.gz
-App::ansicolumn::Border           undef  U/UT/UTASHIRO/App-ansicolumn-1.6101.tar.gz
-App::ansicolumn::Command          undef  U/UT/UTASHIRO/App-ansicolumn-1.6101.tar.gz
-App::ansicolumn::default          undef  U/UT/UTASHIRO/App-ansicolumn-1.6101.tar.gz
+App::ansicolumn                    1.62  U/UT/UTASHIRO/App-ansicolumn-1.62.tar.gz
+App::ansicolumn::Border           undef  U/UT/UTASHIRO/App-ansicolumn-1.62.tar.gz
+App::ansicolumn::Command          undef  U/UT/UTASHIRO/App-ansicolumn-1.62.tar.gz
+App::ansicolumn::default          undef  U/UT/UTASHIRO/App-ansicolumn-1.62.tar.gz
 App::ansiecho                      1.10  U/UT/UTASHIRO/App-ansiecho-1.10.tar.gz
 App::ansiecho::Util               undef  U/UT/UTASHIRO/App-ansiecho-1.10.tar.gz
 App::ansiexpand                    1.06  U/UT/UTASHIRO/App-ansiexpand-1.06.tar.gz
@@ -231582,7 +231582,7 @@ Text::ANSI::BaseUtil              0.234  P/PE/PERLANCAR/Text-ANSI-Util-0.234.tar
 Text::ANSI::Fold                   2.35  U/UT/UTASHIRO/Text-ANSI-Fold-2.35.tar.gz
 Text::ANSI::Fold::Japanese::W3C   undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.35.tar.gz
 Text::ANSI::Fold::Japanese::Wikipedia undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.35.tar.gz
-Text::ANSI::Fold::Util             1.05  U/UT/UTASHIRO/Text-ANSI-Fold-Util-1.05.tar.gz
+Text::ANSI::Fold::Util             1.06  U/UT/UTASHIRO/Text-ANSI-Fold-Util-1.06.tar.gz
 Text::ANSI::Printf                 2.07  U/UT/UTASHIRO/Text-ANSI-Printf-2.07.tar.gz
 Text::ANSI::Tabs                   1.06  U/UT/UTASHIRO/Text-ANSI-Tabs-1.06.tar.gz
 Text::ANSI::Util                  0.234  P/PE/PERLANCAR/Text-ANSI-Util-0.234.tar.gz
