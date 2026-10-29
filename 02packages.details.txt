@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262575
-Last-Updated: Thu, 29 Oct 2026 01:54:20 GMT
+Last-Updated: Thu, 29 Oct 2026 02:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -194527,7 +194527,7 @@ Plack::Handler::Porbo             undef  U/UC/UCHIKO/Porbo-0.01.tar.gz
 Plack::Handler::SCGI               0.02  M/MI/MIYAGAWA/Plack-Handler-SCGI-0.02.tar.gz
 Plack::Handler::Shuvgey           undef  C/CR/CRUX/Shuvgey-0.09.tar.gz
 Plack::Handler::Standalone        undef  M/MI/MIYAGAWA/Plack-1.0057.tar.gz
-Plack::Handler::Starlet           undef  K/KA/KAZUHO/Starlet-0.32.tar.gz
+Plack::Handler::Starlet           undef  K/KA/KAZUHO/Starlet-0.33.tar.gz
 Plack::Handler::Starlight        0.0503  D/DE/DEXTER/Starlight-0.0503.tar.gz
 Plack::Handler::Starman           undef  M/MI/MIYAGAWA/Starman-0.4019.tar.gz
 Plack::Handler::Starman::ModCluster undef  W/WI/WINFINIT/Starman-ModCluster-0.09.tar.gz
@@ -221149,8 +221149,8 @@ Stardust::Controllers              0.08  B/BE/BEPPU/Stardust-0.08.tar.gz
 Stardust::Demo                    undef  B/BE/BEPPU/Stardust-0.08.tar.gz
 Stardust::Demo::Controllers       undef  B/BE/BEPPU/Stardust-0.08.tar.gz
 Stardust::Demo::Views             undef  B/BE/BEPPU/Stardust-0.08.tar.gz
-Starlet                            0.32  K/KA/KAZUHO/Starlet-0.32.tar.gz
-Starlet::Server                   undef  K/KA/KAZUHO/Starlet-0.32.tar.gz
+Starlet                            0.33  K/KA/KAZUHO/Starlet-0.33.tar.gz
+Starlet::Server                   undef  K/KA/KAZUHO/Starlet-0.33.tar.gz
 Starlight                        0.0503  D/DE/DEXTER/Starlight-0.0503.tar.gz
 Starlight::Server                0.0503  D/DE/DEXTER/Starlight-0.0503.tar.gz
 Starlink::AST                      3.05  G/GS/GSB/Starlink-AST-3.05.tar.gz
