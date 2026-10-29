@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262575
-Last-Updated: Thu, 29 Oct 2026 02:17:02 GMT
+Last-Updated: Thu, 29 Oct 2026 02:54:21 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -2784,10 +2784,10 @@ AEKeyDesc                          1.32  C/CN/CNANDOR/Mac-Carbon-0.82.tar.gz
 AES128                             0.02  J/JE/JEFFZHANG/AES128-0.02.tar.gz
 AEStream                           1.32  C/CN/CNANDOR/Mac-Carbon-0.82.tar.gz
 AESubDesc                          1.32  C/CN/CNANDOR/Mac-Carbon-0.82.tar.gz
-Affix                            v1.2.7  S/SA/SANKO/Affix-v1.2.7.tar.gz
-Affix::Build                     v1.2.7  S/SA/SANKO/Affix-v1.2.7.tar.gz
+Affix                            v1.2.8  S/SA/SANKO/Affix-v1.2.8.tar.gz
+Affix::Build                     v1.2.8  S/SA/SANKO/Affix-v1.2.8.tar.gz
 Affix::Infix2Postfix               0.03  A/AD/ADDI/Affix-Infix2Postfix-0.03.tar.gz
-Affix::Wrap                      v1.2.7  S/SA/SANKO/Affix-v1.2.7.tar.gz
+Affix::Wrap                      v1.2.8  S/SA/SANKO/Affix-v1.2.8.tar.gz
 AFS                            2.006004  N/NO/NOG/AFS-2.6.4.tar.gz
 AFS::ACL                       2.006004  N/NO/NOG/AFS-2.6.4.tar.gz
 AFS::BOS                       2.006004  N/NO/NOG/AFS-2.6.4.tar.gz
