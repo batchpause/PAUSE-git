@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262575
-Last-Updated: Thu, 29 Oct 2026 01:29:01 GMT
+Last-Updated: Thu, 29 Oct 2026 01:54:20 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -105748,8 +105748,8 @@ HTTP::OAIPMH::Validator            1.06  S/SI/SIMEON/HTTP-OAIPMH-Validator-1.06.
 HTTP::Online                       0.02  A/AD/ADAMK/HTTP-Online-0.02.tar.gz
 HTTP::Parser                       0.06  E/ED/EDECA/HTTP-Parser-0.06.tar.gz
 HTTP::Parser2::XS                  0.01  Z/ZZ/ZZZ/HTTP-Parser2-XS-0.01.tar.gz
-HTTP::Parser::XS                   0.17  K/KA/KAZUHO/HTTP-Parser-XS-0.17.tar.gz
-HTTP::Parser::XS::PP              undef  K/KA/KAZUHO/HTTP-Parser-XS-0.17.tar.gz
+HTTP::Parser::XS                   0.18  K/KA/KAZUHO/HTTP-Parser-XS-0.18.tar.gz
+HTTP::Parser::XS::PP              undef  K/KA/KAZUHO/HTTP-Parser-XS-0.18.tar.gz
 HTTP::Promise                  0.007004  J/JD/JDEGUEST/HTTP-Promise-v0.7.4.tar.gz
 HTTP::Promise::Body            0.001000  J/JD/JDEGUEST/HTTP-Promise-v0.7.4.tar.gz
 HTTP::Promise::Body::File      0.001000  J/JD/JDEGUEST/HTTP-Promise-v0.7.4.tar.gz
