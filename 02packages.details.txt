@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262598
-Last-Updated: Thu, 29 Oct 2026 22:29:02 GMT
+Last-Updated: Thu, 29 Oct 2026 23:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -13966,7 +13966,7 @@ App::PerlShell::Plugin::TextTable undef  V/VI/VINSWORLD/App-PerlShell-1.09.tar.g
 App::PerlTidy::Tk                  0.03  S/SZ/SZABGAB/App-PerlTidy-Tk-0.03.tar.gz
 App::perluse                     0.0301  D/DE/DEXTER/App-perluse-0.0301.tar.gz
 App::perlutils                    undef  W/WO/WOLDRICH/App-perlutils-0.034.tar.gz
-App::perlvars                  0.000008  O/OA/OALDERS/App-perlvars-0.000008.tar.gz
+App::perlvars                  0.000009  O/OA/OALDERS/App-perlvars-0.000009.tar.gz
 App::PerlXLock                     0.08  F/FI/FINNPERL/App-PerlXLock-0.08.tar.gz
 App::PerlXLock::Inline            undef  F/FI/FINNPERL/App-PerlXLock-0.08.tar.gz
 App::perlzonji                     2.07  M/MA/MARCEL/App-perlfind-2.07.tar.gz
