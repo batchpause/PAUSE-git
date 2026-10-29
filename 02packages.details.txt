@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262575
-Last-Updated: Thu, 29 Oct 2026 00:54:04 GMT
+Last-Updated: Thu, 29 Oct 2026 01:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -120452,14 +120452,14 @@ Linux::Event::Framer::LengthPrefix 0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
 Linux::Event::Framer::Netstring   0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
 Linux::Event::Framer::U32BE       0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
 Linux::Event::Framer::Varint      0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
-Linux::Event::HTTP                0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
+Linux::Event::HTTP                0.004  H/HA/HAX/Linux-Event-HTTP-0.004.tar.gz
 Linux::Event::HTTP::Body::Stream  0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
-Linux::Event::HTTP::Client        0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
+Linux::Event::HTTP::Client        0.004  H/HA/HAX/Linux-Event-HTTP-0.004.tar.gz
 Linux::Event::HTTP::Client::Connection 0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::HTTP::Client::Operation 0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::HTTP::Request       0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::HTTP::Response      0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
-Linux::Event::HTTP::Server        0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
+Linux::Event::HTTP::Server        0.004  H/HA/HAX/Linux-Event-HTTP-0.004.tar.gz
 Linux::Event::HTTP::Server::Connection 0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::HTTP::Transaction   0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::IO                  0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
@@ -120498,12 +120498,12 @@ Linux::Event::Timer               0.105  H/HA/HAX/Linux-Event-0.105.tar.gz
 Linux::Event::TLS                 0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
 Linux::Event::Wakeup              0.105  H/HA/HAX/Linux-Event-0.105.tar.gz
 Linux::Event::Watcher             0.012  H/HA/HAX/Linux-Event-0.012.tar.gz
-Linux::Event::WebSocket           0.002  H/HA/HAX/Linux-Event-WebSocket-0.002.tar.gz
-Linux::Event::WebSocket::Client   0.002  H/HA/HAX/Linux-Event-WebSocket-0.002.tar.gz
-Linux::Event::WebSocket::Client::Connection 0.002  H/HA/HAX/Linux-Event-WebSocket-0.002.tar.gz
-Linux::Event::WebSocket::Connection 0.002  H/HA/HAX/Linux-Event-WebSocket-0.002.tar.gz
-Linux::Event::WebSocket::Server   0.002  H/HA/HAX/Linux-Event-WebSocket-0.002.tar.gz
-Linux::Event::WebSocket::Server::Connection 0.002  H/HA/HAX/Linux-Event-WebSocket-0.002.tar.gz
+Linux::Event::WebSocket           0.003  H/HA/HAX/Linux-Event-WebSocket-0.003.tar.gz
+Linux::Event::WebSocket::Client   0.003  H/HA/HAX/Linux-Event-WebSocket-0.003.tar.gz
+Linux::Event::WebSocket::Client::Connection 0.003  H/HA/HAX/Linux-Event-WebSocket-0.003.tar.gz
+Linux::Event::WebSocket::Connection 0.003  H/HA/HAX/Linux-Event-WebSocket-0.003.tar.gz
+Linux::Event::WebSocket::Server   0.003  H/HA/HAX/Linux-Event-WebSocket-0.003.tar.gz
+Linux::Event::WebSocket::Server::Connection 0.003  H/HA/HAX/Linux-Event-WebSocket-0.003.tar.gz
 Linux::Event::XS                  0.012  H/HA/HAX/Linux-Event-0.012.tar.gz
 Linux::Ext2::Attributes            0.20  D/DJ/DJCOLLINS/Linux-Ext2-Attributes-0.20.tar.gz
 Linux::Ext2::FileAttributes        0.01  D/DW/DWILSON/Linux-Ext2-FileAttributes-0.01.tar.gz
