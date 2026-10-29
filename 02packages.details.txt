@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262575
-Last-Updated: Thu, 29 Oct 2026 06:29:02 GMT
+Last-Updated: Thu, 29 Oct 2026 06:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -13333,7 +13333,7 @@ App::NumberUtilRangeUtils         0.003  P/PE/PERLANCAR/App-NumberUtilRangeUtils
 App::numero2bgc                   0.021  T/TU/TULAMILI/App-numero2bgc-0.021.tar.gz
 App::numseq                       0.002  P/PE/PERLANCAR/App-numseq-0.002.tar.gz
 App::numspeed                     0.001  P/PE/PERLANCAR/App-numspeed-0.001.tar.gz
-App::nup                           1.08  U/UT/UTASHIRO/App-nup-1.08.tar.gz
+App::nup                           1.09  U/UT/UTASHIRO/App-nup-1.09.tar.gz
 App::NutrientUtils                0.001  P/PE/PERLANCAR/App-NutrientUtils-0.001.tar.gz
 App::NYTProfUtils                 0.001  P/PE/PERLANCAR/App-NYTProfUtils-0.001.tar.gz
 App::oaf                          undef  S/SH/SHAW/App-oaf-0.04.tar.gz
@@ -13530,7 +13530,7 @@ App::optex::textconv::tika         1.08  U/UT/UTASHIRO/App-optex-textconv-1.08.t
 App::optex::textconv::xls          1.08  U/UT/UTASHIRO/App-optex-textconv-1.08.tar.gz
 App::optex::textconv::Zip         undef  U/UT/UTASHIRO/App-optex-textconv-0.09.tar.gz
 App::optex::Tmpfile               undef  U/UT/UTASHIRO/App-optex-1.07.tar.gz
-App::optex::up                     1.08  U/UT/UTASHIRO/App-nup-1.08.tar.gz
+App::optex::up                     1.09  U/UT/UTASHIRO/App-nup-1.09.tar.gz
 App::optex::util                  undef  U/UT/UTASHIRO/App-optex-1.07.tar.gz
 App::optex::util::argv            undef  U/UT/UTASHIRO/App-optex-1.07.tar.gz
 App::optex::util::filter          undef  U/UT/UTASHIRO/App-optex-1.07.tar.gz
