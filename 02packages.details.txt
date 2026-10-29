@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262575
-Last-Updated: Wed, 28 Oct 2026 23:54:07 GMT
+Last-Updated: Thu, 29 Oct 2026 00:54:04 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -58869,17 +58869,17 @@ Database::Async::SQLite           0.001  T/TE/TEAM/Database-Async-SQLite-0.001.t
 Database::Async::StatementHandle  0.019  T/TE/TEAM/Database-Async-0.019.tar.gz
 Database::Async::Test             0.019  T/TE/TEAM/Database-Async-0.019.tar.gz
 Database::Async::Transaction      0.019  T/TE/TEAM/Database-Async-0.019.tar.gz
-Database::BI                   0.017001  N/NH/NHORNE/Database-BI-0.017.1.tar.gz
-Database::BI::Ask                 0.017  N/NH/NHORNE/Database-BI-0.017.1.tar.gz
-Database::BI::Calc                0.017  N/NH/NHORNE/Database-BI-0.017.1.tar.gz
-Database::BI::Controller::Dashboard 0.017  N/NH/NHORNE/Database-BI-0.017.1.tar.gz
-Database::BI::Extract             0.017  N/NH/NHORNE/Database-BI-0.017.1.tar.gz
-Database::BI::Insights            0.017  N/NH/NHORNE/Database-BI-0.017.1.tar.gz
-Database::BI::Model::DataSource   0.017  N/NH/NHORNE/Database-BI-0.017.1.tar.gz
-Database::BI::Model::Geocode      0.017  N/NH/NHORNE/Database-BI-0.017.1.tar.gz
-Database::BI::Summary             0.017  N/NH/NHORNE/Database-BI-0.017.1.tar.gz
-Database::BI::Tutorial            0.017  N/NH/NHORNE/Database-BI-0.017.1.tar.gz
-Database::BI::Util                0.017  N/NH/NHORNE/Database-BI-0.017.1.tar.gz
+Database::BI                   0.018000  N/NH/NHORNE/Database-BI-0.018.0.tar.gz
+Database::BI::Ask                 0.018  N/NH/NHORNE/Database-BI-0.018.0.tar.gz
+Database::BI::Calc                0.018  N/NH/NHORNE/Database-BI-0.018.0.tar.gz
+Database::BI::Controller::Dashboard 0.018  N/NH/NHORNE/Database-BI-0.018.0.tar.gz
+Database::BI::Extract             0.018  N/NH/NHORNE/Database-BI-0.018.0.tar.gz
+Database::BI::Insights            0.018  N/NH/NHORNE/Database-BI-0.018.0.tar.gz
+Database::BI::Model::DataSource   0.018  N/NH/NHORNE/Database-BI-0.018.0.tar.gz
+Database::BI::Model::Geocode      0.018  N/NH/NHORNE/Database-BI-0.018.0.tar.gz
+Database::BI::Summary             0.018  N/NH/NHORNE/Database-BI-0.018.0.tar.gz
+Database::BI::Tutorial            0.018  N/NH/NHORNE/Database-BI-0.018.0.tar.gz
+Database::BI::Util                0.018  N/NH/NHORNE/Database-BI-0.018.0.tar.gz
 Database::Cassandra::Client           1  L/LA/LASTMAC/Database-Cassandra-Client-1.tar.gz
 Database::DumpTruck                 1.2  L/LK/LKUNDRAK/Database-DumpTruck-1.2.tar.gz
 Database::Format::Text             1.03  D/DE/DEVDOS/Database-Format-Text-1.03.tar.gz
