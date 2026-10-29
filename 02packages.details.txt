@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262575
-Last-Updated: Thu, 29 Oct 2026 13:41:02 GMT
+Last-Updated: Thu, 29 Oct 2026 14:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -260179,7 +260179,7 @@ XS::JIT::Header                    0.24  L/LN/LNATION/XS-JIT-0.24.tar.gz
 XS::JIT::Header::Parser            0.24  L/LN/LNATION/XS-JIT-0.24.tar.gz
 XS::JIT::Header::TypeMap           0.24  L/LN/LNATION/XS-JIT-0.24.tar.gz
 XS::libboost::mini             1.087000000  S/SY/SYBER/XS-libboost-mini-1.87.0.0.tar.gz
-XS::libbrotli                  1.001000000  S/SY/SYBER/XS-libbrotli-1.1.0.0.tar.gz
+XS::libbrotli                  1.002001000  S/SY/SYBER/XS-libbrotli-1.2.1.0.tar.gz
 XS::libcares                   1.034003000  S/SY/SYBER/XS-libcares-1.34.3.0.tar.gz
 XS::libcatch                   3.007001001  S/SY/SYBER/XS-libcatch-3.7.1.1.tar.gz
 XS::libdwarf                   20241226.0  S/SY/SYBER/XS-libdwarf-20241226.0.tar.gz
