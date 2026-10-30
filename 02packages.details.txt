@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262605
-Last-Updated: Fri, 30 Oct 2026 19:29:02 GMT
+Line-Count:   262606
+Last-Updated: Fri, 30 Oct 2026 19:54:23 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -79171,10 +79171,11 @@ FindApp::Utils::Carp              undef  T/TO/TOMC/FindApp-v0.0.7.tar.gz
 FindApp::Utils::Debug                 1  T/TO/TOMC/FindApp-v0.0.7.tar.gz
 FindApp::Utils::Package::Object   undef  T/TO/TOMC/FindApp-v0.0.7.tar.gz
 FindBin                            1.54  T/TO/TODDR/FindBin-1.54.tar.gz
-FindBin::Bin                   2.000000  L/LE/LEMBARK/FindBin-libs-v5.0.5.tar.gz
-FindBin::libs                  5.000003  L/LE/LEMBARK/FindBin-libs-v5.0.5.tar.gz
-FindBin::Parents               0.001000  L/LE/LEMBARK/FindBin-libs-v5.0.5.tar.gz
+FindBin::Bin                   2.000000  L/LE/LEMBARK/FindBin-libs-v5.0.6.tar.gz
+FindBin::libs                  5.000003  L/LE/LEMBARK/FindBin-libs-v5.0.6.tar.gz
+FindBin::Parents               0.001000  L/LE/LEMBARK/FindBin-libs-v5.0.6.tar.gz
 FindBin::Real                      1.05  S/ST/STRO/FindBin-Real-1.05.tar.gz
+FindBin::Testy                    undef  L/LE/LEMBARK/FindBin-libs-v5.0.6.tar.gz
 FindBinNew                         1.51  J/JW/JWB/Bio-Grid-Run-SGE-0.066.tar.gz
 FindEvent                          0.01  H/HV/HVC/Video-Manip-0.02.tar.gz
 FindEvent::Field                  undef  H/HV/HVC/Video-Manip-0.02.tar.gz
