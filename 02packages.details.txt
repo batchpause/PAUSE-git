@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262599
-Last-Updated: Fri, 30 Oct 2026 03:54:09 GMT
+Last-Updated: Fri, 30 Oct 2026 04:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -60258,7 +60258,7 @@ DateLocale::Language::ru_RU       undef  N/NI/NIKOLAS/DateLocale-1.46.tar.gz
 DateLocale::Language::uk_UA       undef  N/NI/NIKOLAS/DateLocale-1.46.tar.gz
 dates                             undef  T/TQ/TQISJIM/Google-OAuth-0.05.tar.gz
 DateStamp                      1.000004  T/TW/TWYLIE/modules/DateStamp-v1.0.4.tar.gz
-DateTime                           1.67  D/DR/DROLSKY/DateTime-1.67.tar.gz
+DateTime                           1.68  D/DR/DROLSKY/DateTime-1.68.tar.gz
 DateTime::Astro                    1.04  D/DM/DMAKI/DateTime-Astro-1.04.tar.gz
 DateTime::BusinessHours            2.03  B/BR/BRICAS/DateTime-BusinessHours-2.03.tar.gz
 DateTime::Calendar::Chinese        1.00  D/DM/DMAKI/DateTime-Calendar-Chinese-1.00.tar.gz
@@ -60280,7 +60280,7 @@ DateTime::Calendar::TauStation 1.182290  C/CF/CFRANKS/DateTime-Calendar-TauStati
 DateTime::Calendar::VikramaSamvata::Gujarati 0.1  J/JA/JALDHAR/DateTime-Indic-0.2.tar.gz
 DateTime::Calendar::WarwickUniversity 0.02  D/DI/DIOCLES/DateTime-Calendar-WarwickUniversity-0.02.tar.gz
 DateTime::Cron::Simple              0.2  B/BI/BITS/DateTime-Cron-Simple-0.2.tar.gz
-DateTime::Duration                 1.67  D/DR/DROLSKY/DateTime-1.67.tar.gz
+DateTime::Duration                 1.68  D/DR/DROLSKY/DateTime-1.68.tar.gz
 DateTime::Duration::Formatted      0.06  D/DO/DOY/Parse-FixedRecord-0.06.tar.gz
 DateTime::Duration::Fuzzy          0.06  S/SI/SIXTEASE/DateTime-Duration-Fuzzy-0.06.tar.gz
 DateTime::Duration::Patch::StringifyAsISO8601 0.001  P/PE/PERLANCAR/DateTime-Duration-Patch-StringifyAsISO8601-0.001.tar.gz
@@ -60468,14 +60468,14 @@ DateTime::Format::x509             0.01  A/AN/ANELSON/DateTime-Format-x509-0.01.
 DateTime::Format::XMLTV           1.001  C/CJ/CJM/DateTime-Format-XMLTV-1.001.tar.gz
 DateTime::Format::XSD               0.5  T/TI/TIMLEGGE/DateTime-Format-XSD-0.5.tar.gz
 DateTime::Functions                0.13  N/NE/NEILB/DateTime-Functions-0.13.tar.gz
-DateTime::Helpers                  1.67  D/DR/DROLSKY/DateTime-1.67.tar.gz
+DateTime::Helpers                  1.68  D/DR/DROLSKY/DateTime-1.68.tar.gz
 DateTime::HiRes                    0.04  D/DR/DROLSKY/DateTime-HiRes-0.04.tar.gz
 DateTime::Incomplete               0.08  F/FG/FGLOCK/DateTime-Incomplete-0.08.tar.gz
 DateTime::Indic::Chandramana        0.2  J/JA/JALDHAR/DateTime-Indic-0.2.tar.gz
 DateTime::Indic::Utils              0.3  J/JA/JALDHAR/DateTime-Indic-0.2.tar.gz
-DateTime::Infinite                 1.67  D/DR/DROLSKY/DateTime-1.67.tar.gz
-DateTime::Infinite::Future         1.67  D/DR/DROLSKY/DateTime-1.67.tar.gz
-DateTime::Infinite::Past           1.67  D/DR/DROLSKY/DateTime-1.67.tar.gz
+DateTime::Infinite                 1.68  D/DR/DROLSKY/DateTime-1.68.tar.gz
+DateTime::Infinite::Future         1.68  D/DR/DROLSKY/DateTime-1.68.tar.gz
+DateTime::Infinite::Past           1.68  D/DR/DROLSKY/DateTime-1.68.tar.gz
 DateTime::LazyInit               1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
 DateTime::LazyInit::Constructor_from_day_of_year 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
 DateTime::LazyInit::Constructor_from_epoch 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
@@ -60484,7 +60484,7 @@ DateTime::LazyInit::Constructor_last_day_of_month 1.0200  R/RI/RICKM/DateTime-La
 DateTime::LazyInit::Constructor_new 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
 DateTime::LazyInit::Constructor_now 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
 DateTime::LazyInit::Constructor_today 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
-DateTime::LeapSecond               1.67  D/DR/DROLSKY/DateTime-1.67.tar.gz
+DateTime::LeapSecond               1.68  D/DR/DROLSKY/DateTime-1.68.tar.gz
 DateTime::Lite                 0.011000  J/JD/JDEGUEST/DateTime-Lite-v0.11.0.tar.gz
 DateTime::Lite::_FakeLocale    0.001000  J/JD/JDEGUEST/DateTime-Lite-v0.11.0.tar.gz
 DateTime::Lite::_Thawed        0.011000  J/JD/JDEGUEST/DateTime-Lite-v0.11.0.tar.gz
@@ -60506,8 +60506,8 @@ DateTime::Locale::Util             1.47  D/DR/DROLSKY/DateTime-Locale-1.47.tar.g
 DateTime::Moonpig                  1.03  M/MJ/MJD/DateTime-Moonpig-1.03.tar.gz
 DateTime::Ordinal                  0.07  L/LN/LNATION/DateTime-Ordinal-0.07.tar.gz
 DateTime::Patch::AddDowNameToYmd  0.001  P/PE/PERLANCAR/DateTime-Patch-AddDowNameToYmd-0.001.tar.gz
-DateTime::PP                       1.67  D/DR/DROLSKY/DateTime-1.67.tar.gz
-DateTime::PPExtra                  1.67  D/DR/DROLSKY/DateTime-1.67.tar.gz
+DateTime::PP                       1.68  D/DR/DROLSKY/DateTime-1.68.tar.gz
+DateTime::PPExtra                  1.68  D/DR/DROLSKY/DateTime-1.68.tar.gz
 DateTime::Precise                  1.05  B/BZ/BZAJAC/DateTime-Precise-1.05.tar.gz
 DateTime::Schedule                 0.03  T/TY/TYRRMINAL/DateTime-Schedule-0.03.tar.gz
 DateTime::Schedule::Weekly         0.03  T/TY/TYRRMINAL/DateTime-Schedule-0.03.tar.gz
@@ -60870,7 +60870,7 @@ DateTime::TimeZone::Tzfile        0.011  Z/ZE/ZEFRAM/DateTime-TimeZone-Tzfile-0.
 DateTime::TimeZone::UTC            2.72  D/DR/DROLSKY/DateTime-TimeZone-2.72.tar.gz
 DateTime::TimeZone::WET            2.62  D/DR/DROLSKY/DateTime-TimeZone-2.62.tar.gz
 DateTime::Tiny                     1.08  D/DA/DAGOLDEN/DateTime-Tiny-1.08.tar.gz
-DateTime::Types                    1.67  D/DR/DROLSKY/DateTime-1.67.tar.gz
+DateTime::Types                    1.68  D/DR/DROLSKY/DateTime-1.68.tar.gz
 DateTime::Util::Astro           0.12000  D/DM/DMAKI/DateTime-Util-Astro-0.12000.tar.gz
 DateTime::Util::Calc            0.13003  D/DM/DMAKI/DateTime-Util-Calc-0.13003.tar.gz
 DateTime::Util::DayOfWeek          0.05  T/TO/TOKUHIROM/DateTime-Util-DayOfWeek-0.05.tar.gz
