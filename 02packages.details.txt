@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262600
-Last-Updated: Fri, 30 Oct 2026 08:29:02 GMT
+Last-Updated: Fri, 30 Oct 2026 09:54:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -152777,10 +152777,10 @@ Number::Util::Range               0.008  P/PE/PERLANCAR/Number-Util-Range-0.008.
 Number::WithError                  1.01  S/SM/SMUELLER/Number-WithError-1.01.tar.gz
 Number::WithError::LaTeX           0.06  S/SM/SMUELLER/Number-WithError-LaTeX-0.06.tar.gz
 Number::YAUID                       1.5  L/LA/LASTMAC/Number-YAUID-1.5.tar.gz
-Number::ZipCode::JP            0.20260731  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20260731.tar.gz
-Number::ZipCode::JP::Table     0.20260731  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20260731.tar.gz
-Number::ZipCode::JP::Table::Area 0.20260731  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20260731.tar.gz
-Number::ZipCode::JP::Table::Company 0.20260731  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20260731.tar.gz
+Number::ZipCode::JP            0.20261030  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20261030.tar.gz
+Number::ZipCode::JP::Table     0.20261030  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20261030.tar.gz
+Number::ZipCode::JP::Table::Area 0.20261030  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20261030.tar.gz
+Number::ZipCode::JP::Table::Company 0.20261030  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20261030.tar.gz
 Numeric::LL_Array                0.1504  I/IL/ILYAZ/modules/Numeric-LL_Array-0.1504.tar.gz
 Numeric::Matrix                    0.04  L/LN/LNATION/Numeric-Matrix-0.04.tar.gz
 Numeric::Vector                    0.03  L/LN/LNATION/Numeric-Vector-0.03.tar.gz
