@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262600
-Last-Updated: Fri, 30 Oct 2026 11:17:02 GMT
+Last-Updated: Fri, 30 Oct 2026 12:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -8347,37 +8347,37 @@ Api::Domain                        0.03  E/EL/ELASTICML/ElasticEmail-0.03.tar.gz
 API::Drip::Request                 0.05  D/DW/DWRIGHT/API-Drip-Request-0.05.tar.gz
 Api::Eksport                       0.03  E/EL/ELASTICML/ElasticEmail-0.03.tar.gz
 Api::Email                         0.03  E/EL/ELASTICML/ElasticEmail-0.03.tar.gz
-API::Eulerian                       2.3  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW                undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Authority     undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Bench         undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Chrono        undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::File          undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Hook          undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Hook::Noop    undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Hook::Print   undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Parser        undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Parser::CSV   undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Parser::JSON  undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Peer          undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Peer::Rest    undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Peer::Thin    undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Request       undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Sql::Alias    undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Sql::Array    undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Sql::Builder  undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Sql::Group    undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Sql::Join     undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Sql::Output   undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Sql::Outputs  undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Sql::Reader   undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Sql::Then     undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Sql::Timerange undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::Status        undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::UseCases::RollMap undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::UseCases::SanKeyMap undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::UseCases::UnRollMap undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
-API::Eulerian::EDW::WebSocket     undef  M/MJ/MJONDET/API-Eulerian-2.3.tar.gz
+API::Eulerian                       2.5  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW                undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Authority     undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Bench         undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Chrono        undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::File          undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Hook          undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Hook::Noop    undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Hook::Print   undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Parser        undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Parser::CSV   undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Parser::JSON  undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Peer          undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Peer::Rest    undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Peer::Thin    undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Request       undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Sql::Alias    undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Sql::Array    undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Sql::Builder  undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Sql::Group    undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Sql::Join     undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Sql::Output   undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Sql::Outputs  undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Sql::Reader   undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Sql::Then     undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Sql::Timerange undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::Status        undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::UseCases::RollMap undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::UseCases::SanKeyMap undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::UseCases::UnRollMap undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
+API::Eulerian::EDW::WebSocket     undef  M/MJ/MJONDET/API-Eulerian-2.5.tar.gz
 API::GitForge                     0.007  S/SP/SPWHITTON/API-GitForge-0.007.tar.gz
 API::GitForge::GitHub             0.007  S/SP/SPWHITTON/API-GitForge-0.007.tar.gz
 API::GitForge::GitLab             0.007  S/SP/SPWHITTON/API-GitForge-0.007.tar.gz
