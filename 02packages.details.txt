@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262605
-Last-Updated: Fri, 30 Oct 2026 18:41:02 GMT
+Last-Updated: Fri, 30 Oct 2026 19:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -76841,7 +76841,7 @@ FCGI::Async::ClientConnection     undef  P/PE/PEVANS/FCGI-Async-0.21.tar.gz
 FCGI::Async::PSGI                  0.22  P/PE/PEVANS/FCGI-Async-0.22.tar.gz
 FCGI::Async::Request               0.21  P/PE/PEVANS/FCGI-Async-0.21.tar.gz
 FCGI::Async::Stream                0.21  P/PE/PEVANS/FCGI-Async-0.21.tar.gz
-FCGI::Buffer                       0.22  N/NH/NHORNE/FCGI-Buffer-0.22.tar.gz
+FCGI::Buffer                       0.23  N/NH/NHORNE/FCGI-Buffer-0.23.tar.gz
 FCGI::Client                       0.09  T/TO/TOKUHIROM/FCGI-Client-0.09.tar.gz
 FCGI::Client::Connection          undef  T/TO/TOKUHIROM/FCGI-Client-0.09.tar.gz
 FCGI::Client::Constant            undef  T/TO/TOKUHIROM/FCGI-Client-0.09.tar.gz
