@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262606
-Last-Updated: Fri, 30 Oct 2026 21:41:02 GMT
+Last-Updated: Fri, 30 Oct 2026 21:54:11 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -235427,14 +235427,14 @@ Tk::YAMessage                      0.05  H/HA/HANJE/Tk-YADialog-0.05.tar.gz
 Tk::YANoteBook                     0.10  H/HA/HANJE/Tk-YANoteBook-0.10.tar.gz
 Tk::YANoteBook::NameTab            0.10  H/HA/HANJE/Tk-YANoteBook-0.10.tar.gz
 Tk::Year                            1.1  A/AR/ARIF/Tk-Month-1.8.tar.gz
-Tk::Zinc                          3.306  A/AS/ASB/Tk-Zinc-3.306.tar.gz
-Tk::Zinc::Debug                    1.58  A/AS/ASB/Tk-Zinc-3.306.tar.gz
-Tk::Zinc::Graphics                 1.12  A/AS/ASB/Tk-Zinc-3.306.tar.gz
-Tk::Zinc::Logo                     1.06  A/AS/ASB/Tk-Zinc-3.306.tar.gz
-Tk::Zinc::Text                     1.02  A/AS/ASB/Tk-Zinc-3.306.tar.gz
-Tk::Zinc::Trace                    1.13  A/AS/ASB/Tk-Zinc-3.306.tar.gz
-Tk::Zinc::TraceErrors              1.08  A/AS/ASB/Tk-Zinc-3.306.tar.gz
-Tk::Zinc::TraceUtils               1.07  A/AS/ASB/Tk-Zinc-3.306.tar.gz
+Tk::Zinc                          3.307  A/AS/ASB/Tk-Zinc-3.307.tar.gz
+Tk::Zinc::Debug                    1.58  A/AS/ASB/Tk-Zinc-3.307.tar.gz
+Tk::Zinc::Graphics                 1.12  A/AS/ASB/Tk-Zinc-3.307.tar.gz
+Tk::Zinc::Logo                     1.06  A/AS/ASB/Tk-Zinc-3.307.tar.gz
+Tk::Zinc::Text                     1.02  A/AS/ASB/Tk-Zinc-3.307.tar.gz
+Tk::Zinc::Trace                    1.13  A/AS/ASB/Tk-Zinc-3.307.tar.gz
+Tk::Zinc::TraceErrors              1.08  A/AS/ASB/Tk-Zinc-3.307.tar.gz
+Tk::Zinc::TraceUtils               1.07  A/AS/ASB/Tk-Zinc-3.307.tar.gz
 Tkbound                               1  D/DM/DMPETIT/Tk-Bounded-1.0.2.tar.gz
 Tkbound::bXEvent                      1  D/DM/DMPETIT/Tk-Bounded-1.0.2.tar.gz
 Tkboundtags                           1  D/DM/DMPETIT/Tk-Bounded-1.0.2.tar.gz
