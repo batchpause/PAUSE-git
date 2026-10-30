@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262600
-Last-Updated: Fri, 30 Oct 2026 12:17:02 GMT
+Last-Updated: Fri, 30 Oct 2026 12:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -213026,19 +213026,19 @@ Sepia::Xref                        0.65  S/SE/SEANO/Sepia-0.992.tar.gz
 Seq::Iter                         0.001  P/PE/PERLANCAR/Seq-Iter-0.001.tar.gz
 SeqDiff                           undef  B/BL/BLUECURIO/SeqDiff/SeqDiff-v0.1.tar.gz
 Ser::BinRPC                        0.01  T/TM/TMA/Ser-BinRPC-0.01.tar.gz
-Sereal                            5.011  Y/YV/YVES/Sereal-5.011.tar.gz
+Sereal                            6.001  Y/YV/YVES/Sereal-6.001.tar.gz
 Sereal::Dclone                    0.003  D/DB/DBOOK/Sereal-Dclone-0.003.tar.gz
-Sereal::Decoder                   5.011  Y/YV/YVES/Sereal-Decoder-5.011.tar.gz
-Sereal::Decoder::Constants        5.011  Y/YV/YVES/Sereal-Decoder-5.011.tar.gz
-Sereal::Encoder                   5.011  Y/YV/YVES/Sereal-Encoder-5.011.tar.gz
-Sereal::Encoder::Constants        5.011  Y/YV/YVES/Sereal-Encoder-5.011.tar.gz
+Sereal::Decoder                   6.001  Y/YV/YVES/Sereal-Decoder-6.001.tar.gz
+Sereal::Decoder::Constants        6.001  Y/YV/YVES/Sereal-Decoder-6.001.tar.gz
+Sereal::Encoder                   6.001  Y/YV/YVES/Sereal-Encoder-6.001.tar.gz
+Sereal::Encoder::Constants        6.001  Y/YV/YVES/Sereal-Encoder-6.001.tar.gz
 Sereal::Merger                    0.001  I/IK/IKRUGLOV/Sereal-Merger-0.001.tar.gz
 Sereal::Merger::Constants         0.001  I/IK/IKRUGLOV/Sereal-Merger-0.001.tar.gz
 Sereal::Path                      4.004  I/IK/IKRUGLOV/Sereal-Path-4.004.tar.gz
 Sereal::Path::Constants           4.004  I/IK/IKRUGLOV/Sereal-Path-4.004.tar.gz
 Sereal::Path::Iterator            4.004  I/IK/IKRUGLOV/Sereal-Path-4.004.tar.gz
 Sereal::Path::Tie                 4.004  I/IK/IKRUGLOV/Sereal-Path-4.004.tar.gz
-Sereal::Performance               undef  Y/YV/YVES/Sereal-Decoder-5.011.tar.gz
+Sereal::Performance               undef  Y/YV/YVES/Sereal-Decoder-6.001.tar.gz
 Sereal::Splitter                  0.840  D/DA/DAMS/Sereal-Splitter-0.840.tar.gz
 Sereal::Splitter::Constants       0.830  D/DA/DAMS/Sereal-Splitter-0.840.tar.gz
 SerealX::Store                    0.003  G/GV/GVL/SerealX-Store-0.003.tar.gz
