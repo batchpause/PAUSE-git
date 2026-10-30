@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262600
-Last-Updated: Fri, 30 Oct 2026 10:54:20 GMT
+Last-Updated: Fri, 30 Oct 2026 11:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -36042,7 +36042,7 @@ Centrifugo::Client                 1.05  B/BC/BCHAUVET/Centrifugo-Client-1.05.ta
 Ceph::Rados                        0.22  K/KI/KILINRAX/Ceph-Rados-0.22.tar.gz
 Ceph::Rados::IO                    0.01  K/KI/KILINRAX/Ceph-Rados-0.06.tar.gz
 Ceph::Rados::List                  0.01  K/KI/KILINRAX/Ceph-Rados-0.06.tar.gz
-Ceph::Rados::Striper               0.10  K/KI/KILINRAX/Ceph-Rados-Striper-0.10.tar.gz
+Ceph::Rados::Striper               0.11  K/KI/KILINRAX/Ceph-Rados-Striper-0.11.tar.gz
 Ceph::RadosGW::Admin                0.4  C/CR/CREIN/Ceph-RadosGW-Admin-0.4.tar.gz
 Ceph::RadosGW::Admin::HTTPRequest   0.4  C/CR/CREIN/Ceph-RadosGW-Admin-0.4.tar.gz
 Ceph::RadosGW::Admin::User          0.4  C/CR/CREIN/Ceph-RadosGW-Admin-0.4.tar.gz
