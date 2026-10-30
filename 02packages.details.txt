@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262606
-Last-Updated: Fri, 30 Oct 2026 19:54:23 GMT
+Last-Updated: Fri, 30 Oct 2026 20:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -235914,14 +235914,14 @@ Travel::Status::DE::DBWagenreihung::Section 0.14  D/DE/DERF/Travel-Status-DE-DBW
 Travel::Status::DE::DBWagenreihung::Sector 0.18  D/DE/DERF/Travel-Status-DE-DBWagenreihung-0.18.tar.gz
 Travel::Status::DE::DBWagenreihung::Wagon 0.14  D/DE/DERF/Travel-Status-DE-DBWagenreihung-0.14.tar.gz
 Travel::Status::DE::DeutscheBahn   6.15  D/DE/DERF/Travel-Status-DE-DeutscheBahn-6.15.tar.gz
-Travel::Status::DE::EFA            3.21  D/DE/DERF/Travel-Status-DE-VRR-3.21.tar.gz
-Travel::Status::DE::EFA::Departure 3.21  D/DE/DERF/Travel-Status-DE-VRR-3.21.tar.gz
-Travel::Status::DE::EFA::Info      3.21  D/DE/DERF/Travel-Status-DE-VRR-3.21.tar.gz
-Travel::Status::DE::EFA::Line      3.21  D/DE/DERF/Travel-Status-DE-VRR-3.21.tar.gz
+Travel::Status::DE::EFA            3.22  D/DE/DERF/Travel-Status-DE-VRR-3.22.tar.gz
+Travel::Status::DE::EFA::Departure 3.22  D/DE/DERF/Travel-Status-DE-VRR-3.22.tar.gz
+Travel::Status::DE::EFA::Info      3.22  D/DE/DERF/Travel-Status-DE-VRR-3.22.tar.gz
+Travel::Status::DE::EFA::Line      3.22  D/DE/DERF/Travel-Status-DE-VRR-3.22.tar.gz
 Travel::Status::DE::EFA::Result    2.02  D/DE/DERF/Travel-Status-DE-VRR-2.02.tar.gz
-Travel::Status::DE::EFA::Services  3.21  D/DE/DERF/Travel-Status-DE-VRR-3.21.tar.gz
-Travel::Status::DE::EFA::Stop      3.21  D/DE/DERF/Travel-Status-DE-VRR-3.21.tar.gz
-Travel::Status::DE::EFA::Trip      3.21  D/DE/DERF/Travel-Status-DE-VRR-3.21.tar.gz
+Travel::Status::DE::EFA::Services  3.22  D/DE/DERF/Travel-Status-DE-VRR-3.22.tar.gz
+Travel::Status::DE::EFA::Stop      3.22  D/DE/DERF/Travel-Status-DE-VRR-3.22.tar.gz
+Travel::Status::DE::EFA::Trip      3.22  D/DE/DERF/Travel-Status-DE-VRR-3.22.tar.gz
 Travel::Status::DE::HAFAS          6.25  D/DE/DERF/Travel-Status-DE-HAFAS-6.25.tar.gz
 Travel::Status::DE::HAFAS::Journey 6.25  D/DE/DERF/Travel-Status-DE-HAFAS-6.25.tar.gz
 Travel::Status::DE::HAFAS::Location 6.25  D/DE/DERF/Travel-Status-DE-HAFAS-6.25.tar.gz
@@ -235939,7 +235939,7 @@ Travel::Status::DE::MvgMainz       2.01  D/DE/DERF/Travel-Status-DE-URA-2.01.tar
 Travel::Status::DE::URA            2.01  D/DE/DERF/Travel-Status-DE-URA-2.01.tar.gz
 Travel::Status::DE::URA::Result    2.01  D/DE/DERF/Travel-Status-DE-URA-2.01.tar.gz
 Travel::Status::DE::URA::Stop      2.01  D/DE/DERF/Travel-Status-DE-URA-2.01.tar.gz
-Travel::Status::DE::VRR            3.21  D/DE/DERF/Travel-Status-DE-VRR-3.21.tar.gz
+Travel::Status::DE::VRR            3.22  D/DE/DERF/Travel-Status-DE-VRR-3.22.tar.gz
 Travel::Status::GB::TFL            2.01  D/DE/DERF/Travel-Status-DE-URA-2.01.tar.gz
 Travel::Status::MOTIS              0.07  D/DE/DERF/Travel-Status-MOTIS-0.07.tar.gz
 Travel::Status::MOTIS::Polyline    0.07  D/DE/DERF/Travel-Status-MOTIS-0.07.tar.gz
