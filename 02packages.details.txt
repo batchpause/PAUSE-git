@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262599
-Last-Updated: Fri, 30 Oct 2026 03:17:02 GMT
+Last-Updated: Fri, 30 Oct 2026 03:54:09 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -113463,7 +113463,7 @@ JSON::Schema::Helper              0.016  T/TO/TOBYINK/JSON-Schema-0.016.tar.gz
 JSON::Schema::Modern              0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
 JSON::Schema::Modern::Annotation  0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
 JSON::Schema::Modern::Document    0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Document::OpenAPI 0.150  E/ET/ETHER/OpenAPI-Modern-0.150.tar.gz
+JSON::Schema::Modern::Document::OpenAPI 0.151  E/ET/ETHER/OpenAPI-Modern-0.151.tar.gz
 JSON::Schema::Modern::Error       0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
 JSON::Schema::Modern::Result      0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
 JSON::Schema::Modern::ResultNode  0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
@@ -113475,8 +113475,8 @@ JSON::Schema::Modern::Vocabulary::Core 0.652  E/ET/ETHER/JSON-Schema-Modern-0.65
 JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
 JSON::Schema::Modern::Vocabulary::FormatAssertion 0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
 JSON::Schema::Modern::Vocabulary::MetaData 0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Vocabulary::OpenAPI 0.150  E/ET/ETHER/OpenAPI-Modern-0.150.tar.gz
-JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.150  E/ET/ETHER/OpenAPI-Modern-0.150.tar.gz
+JSON::Schema::Modern::Vocabulary::OpenAPI 0.151  E/ET/ETHER/OpenAPI-Modern-0.151.tar.gz
+JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.151  E/ET/ETHER/OpenAPI-Modern-0.151.tar.gz
 JSON::Schema::Modern::Vocabulary::Unevaluated 0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
 JSON::Schema::Modern::Vocabulary::Validation 0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
 JSON::Schema::Null                0.016  T/TO/TOBYINK/JSON-Schema-0.016.tar.gz
@@ -154386,8 +154386,8 @@ OpenAPI::Generator::From::Pod     undef  D/DO/DOOJONIO/OpenAPI-Generator-0.06.ta
 OpenAPI::Generator::Util          undef  D/DO/DOOJONIO/OpenAPI-Generator-0.06.tar.gz
 OpenAPI::Linter                    0.19  M/MA/MANWAR/OpenAPI-Linter-0.19.tar.gz
 OpenAPI::Linter::Location          0.19  M/MA/MANWAR/OpenAPI-Linter-0.19.tar.gz
-OpenAPI::Modern                   0.150  E/ET/ETHER/OpenAPI-Modern-0.150.tar.gz
-OpenAPI::Modern::Utilities        0.150  E/ET/ETHER/OpenAPI-Modern-0.150.tar.gz
+OpenAPI::Modern                   0.151  E/ET/ETHER/OpenAPI-Modern-0.151.tar.gz
+OpenAPI::Modern::Utilities        0.151  E/ET/ETHER/OpenAPI-Modern-0.151.tar.gz
 OpenAPI::PerlGenerator             0.02  C/CO/CORION/OpenAPI-PerlGenerator-0.02.tar.gz
 OpenAPI::PerlGenerator::Template   0.02  C/CO/CORION/OpenAPI-PerlGenerator-0.02.tar.gz
 OpenAPI::PerlGenerator::Template::Mojo 0.02  C/CO/CORION/OpenAPI-PerlGenerator-0.02.tar.gz
