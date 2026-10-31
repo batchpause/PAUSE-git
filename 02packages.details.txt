@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262606
-Last-Updated: Fri, 30 Oct 2026 23:17:02 GMT
+Last-Updated: Sat, 31 Oct 2026 00:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -143655,11 +143655,11 @@ Net::Async::Keycloak::Error::Network 0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.
 Net::Async::Keycloak::Error::Validation 0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
 Net::Async::Keycloak::OIDC        0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
 Net::Async::Keycloak::Role::HTTP  0.001  G/GE/GETTY/Net-Async-Keycloak-0.001.tar.gz
-Net::Async::Kubernetes            0.011  G/GE/GETTY/Net-Async-Kubernetes-0.011.tar.gz
-Net::Async::Kubernetes::Controller 0.011  G/GE/GETTY/Net-Async-Kubernetes-0.011.tar.gz
-Net::Async::Kubernetes::PortForwardListener 0.011  G/GE/GETTY/Net-Async-Kubernetes-0.011.tar.gz
-Net::Async::Kubernetes::PortForwardSession 0.011  G/GE/GETTY/Net-Async-Kubernetes-0.011.tar.gz
-Net::Async::Kubernetes::Watcher   0.011  G/GE/GETTY/Net-Async-Kubernetes-0.011.tar.gz
+Net::Async::Kubernetes            0.012  G/GE/GETTY/Net-Async-Kubernetes-0.012.tar.gz
+Net::Async::Kubernetes::Controller 0.012  G/GE/GETTY/Net-Async-Kubernetes-0.012.tar.gz
+Net::Async::Kubernetes::PortForwardListener 0.012  G/GE/GETTY/Net-Async-Kubernetes-0.012.tar.gz
+Net::Async::Kubernetes::PortForwardSession 0.012  G/GE/GETTY/Net-Async-Kubernetes-0.012.tar.gz
+Net::Async::Kubernetes::Watcher   0.012  G/GE/GETTY/Net-Async-Kubernetes-0.012.tar.gz
 Net::Async::Matrix                 0.19  P/PE/PEVANS/Net-Async-Matrix-0.19.tar.gz
 Net::Async::Matrix::Room           0.19  P/PE/PEVANS/Net-Async-Matrix-0.19.tar.gz
 Net::Async::Matrix::Room::State    0.19  P/PE/PEVANS/Net-Async-Matrix-0.19.tar.gz
