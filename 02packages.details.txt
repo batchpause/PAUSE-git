@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262606
-Last-Updated: Sat, 31 Oct 2026 00:29:02 GMT
+Last-Updated: Sat, 31 Oct 2026 00:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -114838,27 +114838,27 @@ KubeBuilder::Property             undef  J/JL/JLMARTIN/KubeBuilder-0.02.tar.gz
 KubeBuilder::TypeInferer          undef  J/JL/JLMARTIN/KubeBuilder-0.02.tar.gz
 Kubectl::CLIWrapper                0.06  J/JL/JLMARTIN/Kubectl-CLIWrapper-0.06.tar.gz
 Kubectl::CLIWrapper::Result       undef  J/JL/JLMARTIN/Kubectl-CLIWrapper-0.06.tar.gz
-Kubernetes::Comb                  0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::Client::Async   0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::Client::Sync    0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::CRD             0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::CRD::Comb       0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::CRD::CombCondition 0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::CRD::CombEndpoint 0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::CRD::CombResource 0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::CRD::CombSpec   0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::CRD::CombStatus 0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::CRD::CombUpstreamStatus 0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::Endpoint        0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::Role::Client    0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::Role::Static    0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::Role::Upstream  0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::Static          0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::SVG             0.001  G/GE/GETTY/Kubernetes-Comb-SVG-0.001.tar.gz
-Kubernetes::Comb::SVG::Cell       0.001  G/GE/GETTY/Kubernetes-Comb-SVG-0.001.tar.gz
-Kubernetes::Comb::SVG::Layout     0.001  G/GE/GETTY/Kubernetes-Comb-SVG-0.001.tar.gz
-Kubernetes::Comb::Upstream::K8s   0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
-Kubernetes::Comb::Upstream::Static 0.001  G/GE/GETTY/Kubernetes-Comb-0.001.tar.gz
+Kubernetes::Comb                  0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::Client::Async   0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::Client::Sync    0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::CRD             0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::CRD::Comb       0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::CRD::CombCondition 0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::CRD::CombEndpoint 0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::CRD::CombResource 0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::CRD::CombSpec   0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::CRD::CombStatus 0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::CRD::CombUpstreamStatus 0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::Endpoint        0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::Role::Client    0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::Role::Static    0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::Role::Upstream  0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::Static          0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::SVG             0.002  G/GE/GETTY/Kubernetes-Comb-SVG-0.002.tar.gz
+Kubernetes::Comb::SVG::Cell       0.002  G/GE/GETTY/Kubernetes-Comb-SVG-0.002.tar.gz
+Kubernetes::Comb::SVG::Layout     0.002  G/GE/GETTY/Kubernetes-Comb-SVG-0.002.tar.gz
+Kubernetes::Comb::Upstream::K8s   0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
+Kubernetes::Comb::Upstream::Static 0.002  G/GE/GETTY/Kubernetes-Comb-0.002.tar.gz
 Kubernetes::REST                  1.110  G/GE/GETTY/Kubernetes-REST-1.110.tar.gz
 Kubernetes::REST::Admissionregistration 1.110  G/GE/GETTY/Kubernetes-REST-1.110.tar.gz
 Kubernetes::REST::APIError        1.110  G/GE/GETTY/Kubernetes-REST-1.110.tar.gz
