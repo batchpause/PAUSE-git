@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670133
+Line-Count:  670147
 Written-By:  PAUSE version 1.005
-Date:        Fri, 30 Oct 2026 18:17:57 GMT
+Date:        Sat, 31 Oct 2026 03:18:32 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -657661,11 +657661,18 @@ YATT::LRXML::NodeCursor::Path,HKOBA,f
 YATT::LRXML::Parser,HKOBA,f
 YATT::LRXML::Scanner,HKOBA,f
 YATT::Lite,HKOBA,f
+YATT::Lite::ArgMacro,HKOBA,f
 YATT::Lite::Breakpoint,HKOBA,f
 YATT::Lite::CGen,HKOBA,f
 YATT::Lite::CGen::ArgMacro,HKOBA,f
 YATT::Lite::CGen::Perl,HKOBA,f
+YATT::Lite::CLI,HKOBA,f
+YATT::Lite::CLI::GenPerl,HKOBA,f
+YATT::Lite::CLI::Lint,HKOBA,f
+YATT::Lite::CLI::Render,HKOBA,f
+YATT::Lite::ChdirGuard,HKOBA,f
 YATT::Lite::Connection,HKOBA,f
+YATT::Lite::ConnectionProxy,HKOBA,f
 YATT::Lite::Constants,HKOBA,f
 YATT::Lite::Core,HKOBA,f
 YATT::Lite::Entities,HKOBA,f
@@ -657689,12 +657696,18 @@ YATT::Lite::Macro,HKOBA,f
 YATT::Lite::NSBuilder,HKOBA,f
 YATT::Lite::Object,HKOBA,f
 YATT::Lite::PSGIEnv,HKOBA,f
+YATT::Lite::PageConsts,HKOBA,f
 YATT::Lite::Partial,HKOBA,f
 YATT::Lite::Partial::AppPath,HKOBA,f
 YATT::Lite::Partial::ErrorReporter,HKOBA,f
 YATT::Lite::Partial::Gettext,HKOBA,f
 YATT::Lite::Partial::MarkAfterNew,HKOBA,f
 YATT::Lite::RegexpNames,HKOBA,f
+YATT::Lite::Response,HKOBA,f
+YATT::Lite::Response::Writer,HKOBA,f
+YATT::Lite::Site,HKOBA,f
+YATT::Lite::Site::Registry,HKOBA,f
+YATT::Lite::Test::LangServerClient,HKOBA,f
 YATT::Lite::Test::TestFCGI,HKOBA,f
 YATT::Lite::Test::TestUtil,HKOBA,f
 YATT::Lite::Test::XHFTest,HKOBA,f
@@ -657726,6 +657739,7 @@ YATT::Lite::WebMVC0::Partial::LangSwitch,HKOBA,f
 YATT::Lite::WebMVC0::Partial::Session,HKOBA,f
 YATT::Lite::WebMVC0::Partial::Session2,HKOBA,f
 YATT::Lite::WebMVC0::Partial::Session3,HKOBA,f
+YATT::Lite::WebMVC0::Partial::StrictIPMatch,HKOBA,f
 YATT::Lite::WebMVC0::SiteApp,HKOBA,f
 YATT::Lite::WebMVC0::SiteApp::CGI,HKOBA,f
 YATT::Lite::WebMVC0::SiteApp::FCGI,HKOBA,f
