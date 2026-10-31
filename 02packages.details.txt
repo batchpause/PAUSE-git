@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262620
-Last-Updated: Sat, 31 Oct 2026 21:41:01 GMT
+Last-Updated: Sat, 31 Oct 2026 22:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -113494,7 +113494,7 @@ JSON::SchemaValidator              1.04  V/VT/VTI/JSON-SchemaValidator-1.04.tar.
 JSON::SchemaValidator::Pointer    undef  V/VT/VTI/JSON-SchemaValidator-1.04.tar.gz
 JSON::SchemaValidator::Result     undef  V/VT/VTI/JSON-SchemaValidator-1.04.tar.gz
 JSON::Server                       0.03  B/BK/BKB/JSON-Server-0.03.tar.gz
-JSON::SIMD                         1.07  P/PJ/PJUHASZ/JSON-SIMD-1.07.tar.gz
+JSON::SIMD                         1.08  P/PJ/PJUHASZ/JSON-SIMD-1.08.tar.gz
 JSON::SL                       1.000007  M/MN/MNUNBERG/JSON-SL-1.0.7.tar.gz
 JSON::SL::Boolean              1.000007  M/MN/MNUNBERG/JSON-SL-1.0.7.tar.gz
 JSON::SL::EscapeTH                undef  M/MN/MNUNBERG/JSON-SL-1.0.7.tar.gz
