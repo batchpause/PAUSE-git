@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262620
-Last-Updated: Sat, 31 Oct 2026 21:17:02 GMT
+Last-Updated: Sat, 31 Oct 2026 21:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -127184,7 +127184,7 @@ Map::Metro::Plugin::Map::Oslo    0.1104  C/CS/CSSON/Map-Metro-Plugin-Map-Oslo-0.
 Map::Metro::Plugin::Map::Stockholm 0.1973  C/CS/CSSON/Map-Metro-Plugin-Map-Stockholm-0.1973.tar.gz
 Map::Metro::Shim                 0.2405  C/CS/CSSON/Map-Metro-0.2405.tar.gz
 Map::Metro::Types                0.2405  C/CS/CSSON/Map-Metro-0.2405.tar.gz
-Map::Tube                        v5.1.0  M/MA/MANWAR/Map-Tube-v5.1.0.tar.gz
+Map::Tube                        v5.1.1  M/MA/MANWAR/Map-Tube-v5.1.1.tar.gz
 Map::Tube::API                   v1.0.0  M/MA/MANWAR/Map-Tube-API-v1.0.0.tar.gz
 Map::Tube::API::Exception        v1.0.0  M/MA/MANWAR/Map-Tube-API-v1.0.0.tar.gz
 Map::Tube::API::UserAgent        v1.0.0  M/MA/MANWAR/Map-Tube-API-v1.0.0.tar.gz
@@ -127210,7 +127210,7 @@ Map::Tube::Budapest                0.07  S/SK/SKIM/Map-Tube-Budapest-0.07.tar.gz
 Map::Tube::Chicago               v0.2.3  G/GW/GWS/Map-Tube-Chicago-v0.2.3.tar.gz
 Map::Tube::CLI                   v1.0.2  M/MA/MANWAR/Map-Tube-CLI-v1.0.2.tar.gz
 Map::Tube::CLI::Option           v1.0.2  M/MA/MANWAR/Map-Tube-CLI-v1.0.2.tar.gz
-Map::Tube::Cookbook              v5.1.0  M/MA/MANWAR/Map-Tube-v5.1.0.tar.gz
+Map::Tube::Cookbook              v5.1.1  M/MA/MANWAR/Map-Tube-v5.1.1.tar.gz
 Map::Tube::Copenhagen              0.04  S/SL/SLU/Map-Tube-Copenhagen-0.04.tar.gz
 Map::Tube::Delhi                   0.99  M/MA/MANWAR/Map-Tube-Delhi-0.99.tar.gz
 Map::Tube::Delhi::Line::Blue       0.99  M/MA/MANWAR/Map-Tube-Delhi-0.99.tar.gz
@@ -127281,7 +127281,7 @@ Map::Tube::KualaLumpur             0.07  S/SK/SKIM/Map-Tube-KualaLumpur-0.07.tar
 Map::Tube::Leipzig               v1.0.0  M/MA/MANWAR/Map-Tube-Leipzig-v1.0.0.tar.gz
 Map::Tube::Leipzig::Line::S3       0.03  M/MA/MANWAR/Map-Tube-Leipzig-v0.1.0.tar.gz
 Map::Tube::Leipzig::Line::S7       0.03  M/MA/MANWAR/Map-Tube-Leipzig-v0.1.0.tar.gz
-Map::Tube::Line                  v5.1.0  M/MA/MANWAR/Map-Tube-v5.1.0.tar.gz
+Map::Tube::Line                  v5.1.1  M/MA/MANWAR/Map-Tube-v5.1.1.tar.gz
 Map::Tube::London                v2.0.2  M/MA/MANWAR/Map-Tube-London-v2.0.2.tar.gz
 Map::Tube::London::Line::Bakerloo v2.0.2  M/MA/MANWAR/Map-Tube-London-v2.0.2.tar.gz
 Map::Tube::London::Line::Central v2.0.2  M/MA/MANWAR/Map-Tube-London-v2.0.2.tar.gz
@@ -127312,7 +127312,7 @@ Map::Tube::Muenchen              v0.1.4  G/GW/GWS/Map-Tube-Muenchen-v0.1.4.tar.g
 Map::Tube::Nanjing                 0.05  S/SK/SKIM/Map-Tube-Nanjing-0.05.tar.gz
 Map::Tube::Napoli                v0.1.2  G/GW/GWS/Map-Tube-Napoli-v0.1.2.tar.gz
 Map::Tube::NizhnyNovgorod          0.04  S/SK/SKIM/Map-Tube-NizhnyNovgorod-0.04.tar.gz
-Map::Tube::Node                  v5.1.0  M/MA/MANWAR/Map-Tube-v5.1.0.tar.gz
+Map::Tube::Node                  v5.1.1  M/MA/MANWAR/Map-Tube-v5.1.1.tar.gz
 Map::Tube::Novosibirsk             0.05  S/SK/SKIM/Map-Tube-Novosibirsk-0.05.tar.gz
 Map::Tube::Nuremberg               0.08  S/ST/STELIM/Map-Tube-Nuremberg-0.08.tar.gz
 Map::Tube::NYC                     0.71  M/MA/MANWAR/Map-Tube-NYC-0.71.tar.gz
@@ -127325,7 +127325,7 @@ Map::Tube::NYC::Line::IRTFlushing  0.71  M/MA/MANWAR/Map-Tube-NYC-0.71.tar.gz
 Map::Tube::NYC::Line::IRTLexingtonAvenue 0.71  M/MA/MANWAR/Map-Tube-NYC-0.71.tar.gz
 Map::Tube::Oslo                  v0.1.4  G/GW/GWS/Map-Tube-Oslo-v0.1.4.tar.gz
 Map::Tube::Paris                 v0.2.2  G/GW/GWS/Map-Tube-Paris-v0.2.2.tar.gz
-Map::Tube::Pluggable             v5.1.0  M/MA/MANWAR/Map-Tube-v5.1.0.tar.gz
+Map::Tube::Pluggable             v5.1.1  M/MA/MANWAR/Map-Tube-v5.1.1.tar.gz
 Map::Tube::Plugin::Formatter       0.17  M/MA/MANWAR/Map-Tube-Plugin-Formatter-0.17.tar.gz
 Map::Tube::Plugin::Formatter::Utils 0.17  M/MA/MANWAR/Map-Tube-Plugin-Formatter-0.17.tar.gz
 Map::Tube::Plugin::FuzzyFind    v0.82.1  G/GW/GWS/Map-Tube-Plugin-FuzzyFind-v0.82.1.tar.gz
@@ -127337,7 +127337,7 @@ Map::Tube::Rome                    1.03  G/GD/GDT/Map-Tube-Rome-1.03.tar.gz
 Map::Tube::Rome::Line::MA          1.03  G/GD/GDT/Map-Tube-Rome-1.03.tar.gz
 Map::Tube::Rome::Line::MB          1.03  G/GD/GDT/Map-Tube-Rome-1.03.tar.gz
 Map::Tube::Rome::Line::MC          1.03  G/GD/GDT/Map-Tube-Rome-1.03.tar.gz
-Map::Tube::Route                 v5.1.0  M/MA/MANWAR/Map-Tube-v5.1.0.tar.gz
+Map::Tube::Route                 v5.1.1  M/MA/MANWAR/Map-Tube-v5.1.1.tar.gz
 Map::Tube::SaintPetersburg         0.08  S/SK/SKIM/Map-Tube-SaintPetersburg-0.08.tar.gz
 Map::Tube::Samara                  0.08  S/SK/SKIM/Map-Tube-Samara-0.08.tar.gz
 Map::Tube::SanFrancisco          v0.1.3  G/GW/GWS/Map-Tube-SanFrancisco-v0.1.3.tar.gz
@@ -127361,7 +127361,7 @@ Map::Tube::Sydney::Line::T6        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.ta
 Map::Tube::Sydney::Line::T7        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
 Map::Tube::Sydney::Line::T8        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
 Map::Tube::Sydney::Line::T9        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Table                 v5.1.0  M/MA/MANWAR/Map-Tube-v5.1.0.tar.gz
+Map::Tube::Table                 v5.1.1  M/MA/MANWAR/Map-Tube-v5.1.1.tar.gz
 Map::Tube::Tbilisi                 0.05  S/SK/SKIM/Map-Tube-Tbilisi-0.05.tar.gz
 Map::Tube::Text::Shortest          0.02  S/SK/SKIM/Map-Tube-Text-Shortest-0.02.tar.gz
 Map::Tube::Text::Table             0.05  S/SK/SKIM/Map-Tube-Text-Table-0.05.tar.gz
@@ -127370,8 +127370,8 @@ Map::Tube::Tokyo                   0.63  M/MA/MANWAR/Map-Tube-Tokyo-0.63.tar.gz
 Map::Tube::Tokyo::Line::Asakusa    0.63  M/MA/MANWAR/Map-Tube-Tokyo-0.63.tar.gz
 Map::Tube::Tokyo::Line::Chiyoda    0.63  M/MA/MANWAR/Map-Tube-Tokyo-0.63.tar.gz
 Map::Tube::Toulouse              v0.1.3  G/GW/GWS/Map-Tube-Toulouse-v0.1.3.tar.gz
-Map::Tube::Types                 v5.1.0  M/MA/MANWAR/Map-Tube-v5.1.0.tar.gz
-Map::Tube::Utils                 v5.1.0  M/MA/MANWAR/Map-Tube-v5.1.0.tar.gz
+Map::Tube::Types                 v5.1.1  M/MA/MANWAR/Map-Tube-v5.1.1.tar.gz
+Map::Tube::Utils                 v5.1.1  M/MA/MANWAR/Map-Tube-v5.1.1.tar.gz
 Map::Tube::Utils::Graph            0.16  M/MA/MANWAR/Map-Tube-Plugin-Graph-0.16.tar.gz
 Map::Tube::Vienna                  0.09  S/SK/SKIM/Map-Tube-Vienna-0.09.tar.gz
 Map::Tube::Warsaw                  0.09  S/SK/SKIM/Map-Tube-Warsaw-0.09.tar.gz
@@ -229918,7 +229918,7 @@ Test::Magpie::When                 0.11  S/ST/STEVENL/Test-Magpie-0.11.tar.gz
 Test::Mail                         0.06  S/SK/SKUD/Test-Mail-0.06.tar.gz
 Test::Manifest                    2.026  B/BR/BRIANDFOY/Test-Manifest-2.026.tar.gz
 Test::ManyParams                   0.10  B/BI/BIGJ/Test-ManyParams-0.10.tar.gz
-Test::Map::Tube                  v5.1.0  M/MA/MANWAR/Map-Tube-v5.1.0.tar.gz
+Test::Map::Tube                  v5.1.1  M/MA/MANWAR/Map-Tube-v5.1.1.tar.gz
 Test::MasterData::Declare          0.02  M/MA/MACOPY/Test-MasterData-Declare-0.02.tar.gz
 Test::MasterData::Declare::Compare::RowCustrom undef  M/MA/MACOPY/Test-MasterData-Declare-0.02.tar.gz
 Test::MasterData::Declare::Compare::RowHash undef  M/MA/MACOPY/Test-MasterData-Declare-0.02.tar.gz
