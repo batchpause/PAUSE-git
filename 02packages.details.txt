@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262620
-Last-Updated: Sat, 31 Oct 2026 14:17:02 GMT
+Last-Updated: Sat, 31 Oct 2026 14:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -118014,17 +118014,17 @@ Ledger::Parser                     0.06  P/PE/PERLANCAR/Ledger-Parser-0.06.tar.g
 LedgerSMB::API                     0.04  H/HE/HESCO/LedgerSMB-API-0.04a.tar.gz
 LedgerSMB::API::OSCommerce         0.01  H/HE/HESCO/LedgerSMB-API-0.04a.tar.gz
 LedgerSMB::API::OSCommerce::YourCustomizations 0.01  H/HE/HESCO/LedgerSMB-API-0.01.tar.gz
-LedgerSMB::Installer           0.999014  E/EH/EHUELS/LedgerSMB-Installer-v0.999.14.tar.gz
-LedgerSMB::Installer::Configuration 0.999014  E/EH/EHUELS/LedgerSMB-Installer-v0.999.14.tar.gz
-LedgerSMB::Installer::OS       0.999014  E/EH/EHUELS/LedgerSMB-Installer-v0.999.14.tar.gz
-LedgerSMB::Installer::OS::linux 0.999014  E/EH/EHUELS/LedgerSMB-Installer-v0.999.14.tar.gz
-LedgerSMB::Installer::OS::linux::debian 0.999014  E/EH/EHUELS/LedgerSMB-Installer-v0.999.14.tar.gz
-LedgerSMB::Installer::OS::linux::fedora 0.999014  E/EH/EHUELS/LedgerSMB-Installer-v0.999.14.tar.gz
-LedgerSMB::Installer::OS::linux::rhel 0.999014  E/EH/EHUELS/LedgerSMB-Installer-v0.999.14.tar.gz
-LedgerSMB::Installer::OS::unix 0.999014  E/EH/EHUELS/LedgerSMB-Installer-v0.999.14.tar.gz
-LedgerSMB::Installer::PkgMan::APT 0.999014  E/EH/EHUELS/LedgerSMB-Installer-v0.999.14.tar.gz
-LedgerSMB::Installer::PkgMan::dnf 0.999014  E/EH/EHUELS/LedgerSMB-Installer-v0.999.14.tar.gz
-LedgerSMB::Installer::PkgMan::yum 0.999014  E/EH/EHUELS/LedgerSMB-Installer-v0.999.14.tar.gz
+LedgerSMB::Installer           0.999015  E/EH/EHUELS/LedgerSMB-Installer-v0.999.15.tar.gz
+LedgerSMB::Installer::Configuration 0.999015  E/EH/EHUELS/LedgerSMB-Installer-v0.999.15.tar.gz
+LedgerSMB::Installer::OS       0.999015  E/EH/EHUELS/LedgerSMB-Installer-v0.999.15.tar.gz
+LedgerSMB::Installer::OS::linux 0.999015  E/EH/EHUELS/LedgerSMB-Installer-v0.999.15.tar.gz
+LedgerSMB::Installer::OS::linux::debian 0.999015  E/EH/EHUELS/LedgerSMB-Installer-v0.999.15.tar.gz
+LedgerSMB::Installer::OS::linux::fedora 0.999015  E/EH/EHUELS/LedgerSMB-Installer-v0.999.15.tar.gz
+LedgerSMB::Installer::OS::linux::rhel 0.999015  E/EH/EHUELS/LedgerSMB-Installer-v0.999.15.tar.gz
+LedgerSMB::Installer::OS::unix 0.999015  E/EH/EHUELS/LedgerSMB-Installer-v0.999.15.tar.gz
+LedgerSMB::Installer::PkgMan::APT 0.999015  E/EH/EHUELS/LedgerSMB-Installer-v0.999.15.tar.gz
+LedgerSMB::Installer::PkgMan::dnf 0.999015  E/EH/EHUELS/LedgerSMB-Installer-v0.999.15.tar.gz
+LedgerSMB::Installer::PkgMan::yum 0.999015  E/EH/EHUELS/LedgerSMB-Installer-v0.999.15.tar.gz
 LeftPad                           0.003  D/DA/DAGOLDEN/LeftPad-0.003.tar.gz
 Legacy::DB::SyntenyBlock              0  L/LD/LDS/GBrowse-2.55.tar.gz
 Legacy::DB::SyntenyIO                 0  L/LD/LDS/GBrowse-2.55.tar.gz
