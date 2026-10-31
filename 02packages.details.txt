@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262606
-Last-Updated: Sat, 31 Oct 2026 01:41:02 GMT
+Last-Updated: Sat, 31 Oct 2026 01:54:17 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -130188,9 +130188,9 @@ MColPro::Util::TimeHelper         undef  W/WJ/WJIAN/MColPro-2.01.tar.gz
 MCP                                0.15  S/SR/SRI/MCP-0.15.tar.gz
 MCP::Client                       undef  S/SR/SRI/MCP-0.15.tar.gz
 MCP::Constants                    undef  S/SR/SRI/MCP-0.15.tar.gz
-MCP::K8s                          0.003  G/GE/GETTY/MCP-K8s-0.003.tar.gz
-MCP::K8s::Permissions             0.003  G/GE/GETTY/MCP-K8s-0.003.tar.gz
-MCP::Kubernetes                   0.003  G/GE/GETTY/MCP-K8s-0.003.tar.gz
+MCP::K8s                          0.004  G/GE/GETTY/MCP-K8s-0.004.tar.gz
+MCP::K8s::Permissions             0.004  G/GE/GETTY/MCP-K8s-0.004.tar.gz
+MCP::Kubernetes                   0.004  G/GE/GETTY/MCP-K8s-0.004.tar.gz
 MCP::Picnic                       0.001  G/GE/GETTY/MCP-Picnic-0.001.tar.gz
 MCP::Primitive                    undef  S/SR/SRI/MCP-0.15.tar.gz
 MCP::Prompt                       undef  S/SR/SRI/MCP-0.15.tar.gz
