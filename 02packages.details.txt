@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262621
-Last-Updated: Sun, 01 Nov 2026 12:53:58 GMT
+Last-Updated: Sun, 01 Nov 2026 13:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -200264,7 +200264,7 @@ Punk::OAuth2::Server               0.08  L/LN/LNATION/Punk-OAuth2-0.08.tar.gz
 Punk::OAuth2::Server::Store        0.08  L/LN/LNATION/Punk-OAuth2-0.08.tar.gz
 Punk::OAuth2::Tokens               0.08  L/LN/LNATION/Punk-OAuth2-0.08.tar.gz
 Punk::OAuth2::Util                 0.08  L/LN/LNATION/Punk-OAuth2-0.08.tar.gz
-Punk::Observe                      0.11  L/LN/LNATION/Punk-Observe-0.11.tar.gz
+Punk::Observe                      0.12  L/LN/LNATION/Punk-Observe-0.12.tar.gz
 Punk::Observe::Alert              undef  L/LN/LNATION/Punk-Observe-0.11.tar.gz
 Punk::Observe::Backend            undef  L/LN/LNATION/Punk-Observe-0.11.tar.gz
 Punk::Observe::Backend::Pg        undef  L/LN/LNATION/Punk-Observe-0.11.tar.gz
