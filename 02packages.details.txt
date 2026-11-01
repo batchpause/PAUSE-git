@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262618
-Last-Updated: Sun, 01 Nov 2026 21:17:02 GMT
+Last-Updated: Sun, 01 Nov 2026 21:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -111524,7 +111524,7 @@ iRedAdmin                          0.04  L/LU/LUCAS/iRedAdmin-0.04.tar.gz
 iRedAdmin::Admin                  undef  L/LU/LUCAS/iRedAdmin-0.04.tar.gz
 iRedAdmin::Domain                 undef  L/LU/LUCAS/iRedAdmin-0.04.tar.gz
 iRedAdmin::User                   undef  L/LU/LUCAS/iRedAdmin-0.04.tar.gz
-IRI                                0.15  G/GW/GWILLIAMS/IRI-0.15.tar.gz
+IRI                                0.16  G/GW/GWILLIAMS/IRI-0.16.tar.gz
 IronMan::Schema                    0.03  I/ID/IDN/IronMan-Schema-0.03.tar.gz
 IronMan::Schema::Result::Feed     undef  I/ID/IDN/IronMan-Schema-0.03.tar.gz
 IronMan::Schema::Result::FeedTagMap undef  I/ID/IDN/IronMan-Schema-0.03.tar.gz
