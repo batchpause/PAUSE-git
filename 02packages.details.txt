@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262618
-Last-Updated: Sun, 01 Nov 2026 21:41:02 GMT
+Last-Updated: Sun, 01 Nov 2026 22:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -120463,14 +120463,14 @@ Linux::Event::Framer::LengthPrefix 0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
 Linux::Event::Framer::Netstring   0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
 Linux::Event::Framer::U32BE       0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
 Linux::Event::Framer::Varint      0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
-Linux::Event::HTTP                0.004  H/HA/HAX/Linux-Event-HTTP-0.004.tar.gz
+Linux::Event::HTTP                0.005  H/HA/HAX/Linux-Event-HTTP-0.005.tar.gz
 Linux::Event::HTTP::Body::Stream  0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
-Linux::Event::HTTP::Client        0.004  H/HA/HAX/Linux-Event-HTTP-0.004.tar.gz
+Linux::Event::HTTP::Client        0.005  H/HA/HAX/Linux-Event-HTTP-0.005.tar.gz
 Linux::Event::HTTP::Client::Connection 0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::HTTP::Client::Operation 0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::HTTP::Request       0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::HTTP::Response      0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
-Linux::Event::HTTP::Server        0.004  H/HA/HAX/Linux-Event-HTTP-0.004.tar.gz
+Linux::Event::HTTP::Server        0.005  H/HA/HAX/Linux-Event-HTTP-0.005.tar.gz
 Linux::Event::HTTP::Server::Connection 0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::HTTP::Transaction   0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::IO                  0.117  H/HA/HAX/Linux-Event-0.117.tar.gz
