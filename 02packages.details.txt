@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262621
-Last-Updated: Sun, 01 Nov 2026 14:29:02 GMT
+Last-Updated: Sun, 01 Nov 2026 18:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -85370,7 +85370,7 @@ Geo::Address::Parser::Rules::IRL   0.08  N/NH/NHORNE/Geo-Address-Parser-0.08.tar
 Geo::Address::Parser::Rules::NZ    0.08  N/NH/NHORNE/Geo-Address-Parser-0.08.tar.gz
 Geo::Address::Parser::Rules::UK    0.08  N/NH/NHORNE/Geo-Address-Parser-0.08.tar.gz
 Geo::Address::Parser::Rules::US    0.08  N/NH/NHORNE/Geo-Address-Parser-0.08.tar.gz
-Geo::AnomalyDetector               0.02  N/NH/NHORNE/Geo-AnomalyDetector-0.02.tar.gz
+Geo::AnomalyDetector               0.03  N/NH/NHORNE/Geo-AnomalyDetector-0.03.tar.gz
 Geo::Approx                         0.8  N/NW/NWETTERS/Geo-Approx-0.8.tar.gz
 Geo::BUFR                          1.42  P/PS/PSANNES/Geo-BUFR-1.42.tar.gz
 Geo::Cache                         0.22  R/RB/RBOW/Geo-Cache-0.11.tar.gz
