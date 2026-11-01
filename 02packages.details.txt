@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262621
-Last-Updated: Sun, 01 Nov 2026 19:17:02 GMT
+Line-Count:   262618
+Last-Updated: Sun, 01 Nov 2026 19:54:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -74903,9 +74903,6 @@ EvasEventMouseMovePtr             undef  P/PE/PERLMAX/pEFL-0.79.tar.gz
 EvasEventMouseOutPtr              undef  P/PE/PERLMAX/pEFL-0.79.tar.gz
 EvasEventMouseUpPtr               undef  P/PE/PERLMAX/pEFL-0.79.tar.gz
 EvasEventMouseWheelPtr            undef  P/PE/PERLMAX/pEFL-0.79.tar.gz
-EvasEventSignalExitPtr            undef  P/PE/PERLMAX/pEFL-0.76.tar.gz
-EvasEventSignalRealtimePtr        undef  P/PE/PERLMAX/pEFL-0.76.tar.gz
-EvasEventSignalUserPtr            undef  P/PE/PERLMAX/pEFL-0.76.tar.gz
 EvasGridPtr                       undef  P/PE/PERLMAX/pEFL-0.79.tar.gz
 EvasImagePtr                      undef  P/PE/PERLMAX/pEFL-0.79.tar.gz
 EvasLinePtr                       undef  P/PE/PERLMAX/pEFL-0.79.tar.gz
