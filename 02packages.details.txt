@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262618
-Last-Updated: Mon, 02 Nov 2026 06:53:52 GMT
+Line-Count:   262620
+Last-Updated: Mon, 02 Nov 2026 07:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -79119,12 +79119,14 @@ Finance::Tax::Aruba::Income::2023 0.013  W/WA/WATERKIP/Finance-Tax-Aruba-0.013.t
 Finance::Tax::Aruba::Income::2025 0.013  W/WA/WATERKIP/Finance-Tax-Aruba-0.013.tar.gz
 Finance::Tax::Aruba::Role::Income::TaxYear 0.013  W/WA/WATERKIP/Finance-Tax-Aruba-0.013.tar.gz
 Finance::TickerSymbols             3.11  J/JE/JEZRA/Finance-TickerSymbols-3.11.zip
-Finance::Tiller2QIF                1.10  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.10.tar.gz
-Finance::Tiller2QIF::DB            1.10  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.10.tar.gz
-Finance::Tiller2QIF::Map           1.10  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.10.tar.gz
-Finance::Tiller2QIF::ReadCSV       1.10  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.10.tar.gz
-Finance::Tiller2QIF::Util          1.10  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.10.tar.gz
-Finance::Tiller2QIF::WriteQIF      1.10  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.10.tar.gz
+Finance::Tiller2QIF                1.20  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.20.tar.gz
+Finance::Tiller2QIF::DB            1.20  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.20.tar.gz
+Finance::Tiller2QIF::Interactive   1.20  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.20.tar.gz
+Finance::Tiller2QIF::Interactive::_DatabaseGuard 1.20  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.20.tar.gz
+Finance::Tiller2QIF::Map           1.20  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.20.tar.gz
+Finance::Tiller2QIF::ReadCSV       1.20  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.20.tar.gz
+Finance::Tiller2QIF::Util          1.20  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.20.tar.gz
+Finance::Tiller2QIF::WriteQIF      1.20  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.20.tar.gz
 Finance::TW::EmergingQuote         0.26  C/CL/CLKAO/Finance-TW-EmergingQuote-0.26.tar.gz
 Finance::TW::TAIFEX                0.39  C/CL/CLKAO/Finance-TW-TAIFEX-0.39.tar.gz
 Finance::TW::TAIFEX::Contract     undef  C/CL/CLKAO/Finance-TW-TAIFEX-0.39.tar.gz
