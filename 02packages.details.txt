@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262620
-Last-Updated: Mon, 02 Nov 2026 08:54:52 GMT
+Last-Updated: Mon, 02 Nov 2026 09:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -11391,7 +11391,7 @@ App::Greple::under::bake           0.99  U/UT/UTASHIRO/App-Greple-under-0.99.tar
 App::Greple::under::line           1.00  U/UT/UTASHIRO/App-Greple-under-1.00.tar.gz
 App::Greple::under::mise           0.99  U/UT/UTASHIRO/App-Greple-under-0.99.tar.gz
 App::Greple::under::place         undef  U/UT/UTASHIRO/App-Greple-under-1.00.tar.gz
-App::Greple::update                1.04  U/UT/UTASHIRO/App-Greple-update-1.04.tar.gz
+App::Greple::update                1.05  U/UT/UTASHIRO/App-Greple-update-1.05.tar.gz
 App::Greple::Util                 undef  U/UT/UTASHIRO/App-Greple-10.05.tar.gz
 App::Greple::wordle                1.00  U/UT/UTASHIRO/App-Greple-wordle-1.00.tar.gz
 App::Greple::wordle::game         undef  U/UT/UTASHIRO/App-Greple-wordle-1.00.tar.gz
