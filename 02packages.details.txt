@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262620
-Last-Updated: Mon, 02 Nov 2026 16:29:02 GMT
+Last-Updated: Mon, 02 Nov 2026 16:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -231640,11 +231640,11 @@ Text::APL::Translator             undef  V/VT/VTI/Text-APL-0.09.tar.gz
 Text::APL::WithCaching            undef  V/VT/VTI/Text-APL-0.09.tar.gz
 Text::APL::Writer                 undef  V/VT/VTI/Text-APL-0.09.tar.gz
 Text::ASCII::Convert               0.38  F/FK/FKENTO/Text-ASCII-Convert-0.38.tar.gz
-Text::AsciidocDown             0.001002  S/SP/SPATOCS/Text-AsciidocDown-0.1.2.tar.gz
-Text::AsciidocDown::Include    0.001002  S/SP/SPATOCS/Text-AsciidocDown-0.1.2.tar.gz
-Text::AsciidocDown::Parser     0.001002  S/SP/SPATOCS/Text-AsciidocDown-0.1.2.tar.gz
-Text::AsciidocDown::Refs       0.001002  S/SP/SPATOCS/Text-AsciidocDown-0.1.2.tar.gz
-Text::AsciidocDown::Subs       0.001002  S/SP/SPATOCS/Text-AsciidocDown-0.1.2.tar.gz
+Text::AsciidocDown             0.001003  S/SP/SPATOCS/Text-AsciidocDown-0.1.3.tar.gz
+Text::AsciidocDown::Include    0.001003  S/SP/SPATOCS/Text-AsciidocDown-0.1.3.tar.gz
+Text::AsciidocDown::Parser     0.001003  S/SP/SPATOCS/Text-AsciidocDown-0.1.3.tar.gz
+Text::AsciidocDown::Refs       0.001003  S/SP/SPATOCS/Text-AsciidocDown-0.1.3.tar.gz
+Text::AsciidocDown::Subs       0.001003  S/SP/SPATOCS/Text-AsciidocDown-0.1.3.tar.gz
 Text::ASCIIMathML                  0.81  N/NO/NODINE/Text-ASCIIMathML-0.81.tar.gz
 Text::ASCIIMathML::Node            0.81  N/NO/NODINE/Text-ASCIIMathML-0.81.tar.gz
 Text::ASCIIPipe                1.001000  T/TH/THORGIS/Text-ASCIIPipe-1.001000.tar.gz
@@ -232260,10 +232260,10 @@ Text::Markdown::Discount           0.19  S/SO/SONGMU/Text-Markdown-Discount-0.19
 Text::Markdown::Hoedown            1.03  T/TO/TOKUHIROM/Text-Markdown-Hoedown-1.03.tar.gz
 Text::Markdown::PerlExtensions     0.06  N/NE/NEILB/Text-Markdown-PerlExtensions-0.06.tar.gz
 Text::Markdown::Slidy              0.04  S/SO/SONGMU/Text-Markdown-Slidy-0.04.tar.gz
-Text::MarkdownAdoc             0.001000  S/SP/SPATOCS/Text-MarkdownAdoc-0.1.0.tar.gz
-Text::MarkdownAdoc::Inline        undef  S/SP/SPATOCS/Text-MarkdownAdoc-0.1.0.tar.gz
-Text::MarkdownAdoc::Parser        undef  S/SP/SPATOCS/Text-MarkdownAdoc-0.1.0.tar.gz
-Text::MarkdownAdoc::Refs          undef  S/SP/SPATOCS/Text-MarkdownAdoc-0.1.0.tar.gz
+Text::MarkdownAdoc             0.001001  S/SP/SPATOCS/Text-MarkdownAdoc-0.1.1.tar.gz
+Text::MarkdownAdoc::Inline        undef  S/SP/SPATOCS/Text-MarkdownAdoc-0.1.1.tar.gz
+Text::MarkdownAdoc::Parser        undef  S/SP/SPATOCS/Text-MarkdownAdoc-0.1.1.tar.gz
+Text::MarkdownAdoc::Refs          undef  S/SP/SPATOCS/Text-MarkdownAdoc-0.1.1.tar.gz
 Text::MarkdownTable            0.003001  V/VO/VOJ/Text-MarkdownTable-0.3.1.tar.gz
 Text::Markmoredown             0.000036  K/KI/KIAVASH/text/Text-Markmoredown-0.000036.tar.gz
 Text::Markup                       0.43  D/DW/DWHEELER/Text-Markup-0.43.tar.gz
