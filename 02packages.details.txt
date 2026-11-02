@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262618
-Last-Updated: Mon, 02 Nov 2026 03:41:02 GMT
+Last-Updated: Mon, 02 Nov 2026 04:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4711,7 +4711,7 @@ Alien::Xrepo::PackageInfo       v1.0.10  S/SA/SANKO/Alien-Xrepo-v1.0.10.tar.gz
 Alien::Xrepo::Runtime           v1.0.10  S/SA/SANKO/Alien-Xrepo-v1.0.10.tar.gz
 Alien::Xrepo::Runtime::Alt      v1.0.10  S/SA/SANKO/Alien-Xrepo-v1.0.10.tar.gz
 Alien::xz                          0.09  P/PL/PLICEASE/Alien-xz-0.09.tar.gz
-Alien::YAMLScript              0.003006  I/IN/INGY/Alien-YAMLScript-0.3.6.tar.gz
+Alien::YAMLScript              0.003007  I/IN/INGY/Alien-YAMLScript-0.3.7.tar.gz
 Alien::YARA                      v0.0.1  M/MA/MANWAR/Alien-YARA-v0.0.6.tar.gz
 Alien::Z3                         0.002  S/SI/SIMCOP/Alien-Z3-0.002.tar.gz
 Alien::Zcash                      undef  L/LE/LETO/Alien-Zcash-0.01.tar.gz
