@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670159
+Line-Count:  670211
 Written-By:  PAUSE version 1.005
-Date:        Mon, 02 Nov 2026 19:29:54 GMT
+Date:        Mon, 02 Nov 2026 20:17:45 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -383709,8 +383709,60 @@ Monitoring::Reporter::Web::Plugin::List,TEX,f
 Monitoring::Reporter::Web::Plugin::Selftest,TEX,f
 Monitoring::Sneck,VVELOX,f
 Monitoring::Sneck::Boop_Snoot,VVELOX,f
+Monitoring::Sneck::Checks,VVELOX,f
+Monitoring::Sneck::Checks::accounts,VVELOX,f
+Monitoring::Sneck::Checks::base,VVELOX,f
+Monitoring::Sneck::Checks::cciss,VVELOX,f
+Monitoring::Sneck::Checks::cert_dir,VVELOX,f
+Monitoring::Sneck::Checks::cert_file,VVELOX,f
+Monitoring::Sneck::Checks::checksums,VVELOX,f
+Monitoring::Sneck::Checks::config_value,VVELOX,f
+Monitoring::Sneck::Checks::conntrack,VVELOX,f
+Monitoring::Sneck::Checks::containers,VVELOX,f
+Monitoring::Sneck::Checks::debsecan,VVELOX,f
+Monitoring::Sneck::Checks::disk,VVELOX,f
+Monitoring::Sneck::Checks::dns,VVELOX,f
+Monitoring::Sneck::Checks::dns_sync,VVELOX,f
+Monitoring::Sneck::Checks::file_age,VVELOX,f
+Monitoring::Sneck::Checks::file_handles,VVELOX,f
+Monitoring::Sneck::Checks::file_mode,VVELOX,f
+Monitoring::Sneck::Checks::hosts,VVELOX,f
+Monitoring::Sneck::Checks::http,VVELOX,f
+Monitoring::Sneck::Checks::http_json,VVELOX,f
+Monitoring::Sneck::Checks::https_cert,VVELOX,f
+Monitoring::Sneck::Checks::interface,VVELOX,f
+Monitoring::Sneck::Checks::jails,VVELOX,f
+Monitoring::Sneck::Checks::kernel_modules,VVELOX,f
+Monitoring::Sneck::Checks::listening,VVELOX,f
+Monitoring::Sneck::Checks::load,VVELOX,f
+Monitoring::Sneck::Checks::log,VVELOX,f
+Monitoring::Sneck::Checks::memory,VVELOX,f
+Monitoring::Sneck::Checks::mount,VVELOX,f
+Monitoring::Sneck::Checks::neighbors,VVELOX,f
+Monitoring::Sneck::Checks::ntp,VVELOX,f
+Monitoring::Sneck::Checks::oom,VVELOX,f
+Monitoring::Sneck::Checks::packages,VVELOX,f
+Monitoring::Sneck::Checks::pid_file,VVELOX,f
+Monitoring::Sneck::Checks::ping,VVELOX,f
+Monitoring::Sneck::Checks::pkg_audit,VVELOX,f
+Monitoring::Sneck::Checks::pressure,VVELOX,f
+Monitoring::Sneck::Checks::procs,VVELOX,f
+Monitoring::Sneck::Checks::rbl,VVELOX,f
+Monitoring::Sneck::Checks::reboot_needed,VVELOX,f
+Monitoring::Sneck::Checks::resolv,VVELOX,f
+Monitoring::Sneck::Checks::sensors,VVELOX,f
+Monitoring::Sneck::Checks::service,VVELOX,f
+Monitoring::Sneck::Checks::smtp,VVELOX,f
+Monitoring::Sneck::Checks::sshd_config,VVELOX,f
 Monitoring::Sneck::Checks::supervisorctl,VVELOX,f
 Monitoring::Sneck::Checks::suricata_flows,VVELOX,f
+Monitoring::Sneck::Checks::swap,VVELOX,f
+Monitoring::Sneck::Checks::swraid,VVELOX,f
+Monitoring::Sneck::Checks::sysctl,VVELOX,f
+Monitoring::Sneck::Checks::systemd_failed,VVELOX,f
+Monitoring::Sneck::Checks::tcp,VVELOX,f
+Monitoring::Sneck::Checks::tls_protocols,VVELOX,f
+Monitoring::Sneck::Checks::uptime,VVELOX,f
 Monitoring::Sneck::Config,VVELOX,f
 Monitoring::Spooler,TEX,f
 Monitoring::Spooler::Cmd,TEX,f
