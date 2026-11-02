@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262628
-Last-Updated: Mon, 02 Nov 2026 19:17:01 GMT
+Line-Count:   262629
+Last-Updated: Mon, 02 Nov 2026 19:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -43800,7 +43800,7 @@ Check::OneTree                    undef  U/UN/UNERA/DR-Tarantool-0.44.tar.gz
 Check::Order                      undef  U/UN/UNERA/DR-Tarantool-0.44.tar.gz
 Check::Ping                       undef  U/UN/UNERA/DR-Tarantool-0.44.tar.gz
 Check::Socket                      0.04  S/SK/SKIM/Check-Socket-0.04.tar.gz
-Check::supervisorctl           0.000001  V/VV/VVELOX/Check-supervisorctl-0.0.1.tar.gz
+Check::supervisorctl           0.001000  V/VV/VVELOX/Check-supervisorctl-0.1.0.tar.gz
 Check::SuricataFlows           0.003000  V/VV/VVELOX/Check-SuricataFlows-0.3.0.tar.gz
 Check::Term                        0.01  S/SK/SKIM/Check-Term-0.01.tar.gz
 Check::Term::Color                 0.01  S/SK/SKIM/Check-Term-Color-0.01.tar.gz
@@ -137742,6 +137742,7 @@ Monitoring::Reporter::Web::Plugin::List 0.01  T/TE/TEX/Monitoring-Reporter-0.01.
 Monitoring::Reporter::Web::Plugin::Selftest 0.01  T/TE/TEX/Monitoring-Reporter-0.01.tar.gz
 Monitoring::Sneck              1.007000  V/VV/VVELOX/Monitoring-Sneck-1.7.0.tar.gz
 Monitoring::Sneck::Boop_Snoot  0.002000  V/VV/VVELOX/Monitoring-Sneck-Boop_Snoot-0.2.0.tar.gz
+Monitoring::Sneck::Checks::supervisorctl 0.001000  V/VV/VVELOX/Check-supervisorctl-0.1.0.tar.gz
 Monitoring::Sneck::Checks::suricata_flows 0.003000  V/VV/VVELOX/Check-SuricataFlows-0.3.0.tar.gz
 Monitoring::Sneck::Config      1.007000  V/VV/VVELOX/Monitoring-Sneck-1.7.0.tar.gz
 Monitoring::Spooler                0.05  T/TE/TEX/Monitoring-Spooler-0.05.tar.gz
@@ -199206,17 +199207,17 @@ Proc::Safetynet::RpcSession::Simple undef  D/DT/DTADY/Proc-Safetynet-0.04.tar.gz
 Proc::Safetynet::Supervisor       undef  D/DT/DTADY/Proc-Safetynet-0.04.tar.gz
 Proc::Scoreboard                    1.1  M/MK/MKUL/Proc-Application-0.01.tar.gz
 Proc::Scoreboard::Dir               1.1  M/MK/MKUL/Proc-Application-0.01.tar.gz
-Proc::ShellSpawn                   0.01  I/IL/ILYAZ/modules/Proc-Spawner-0.01.zip
-Proc::ShellSpawn::Large           undef  I/IL/ILYAZ/modules/Proc-Spawner-0.01.zip
-Proc::ShellSubset                 undef  I/IL/ILYAZ/modules/Proc-Spawner-0.01.zip
-Proc::ShellSubset::Large          undef  I/IL/ILYAZ/modules/Proc-Spawner-0.01.zip
-Proc::ShellSubset::Small          undef  I/IL/ILYAZ/modules/Proc-Spawner-0.01.zip
+Proc::ShellSpawn                   0.02  I/IL/ILYAZ/modules/Proc-Spawner-0.02.zip
+Proc::ShellSpawn::Large            0.02  I/IL/ILYAZ/modules/Proc-Spawner-0.02.zip
+Proc::ShellSubset                  0.02  I/IL/ILYAZ/modules/Proc-Spawner-0.02.zip
+Proc::ShellSubset::Large           0.02  I/IL/ILYAZ/modules/Proc-Spawner-0.02.zip
+Proc::ShellSubset::Small           0.02  I/IL/ILYAZ/modules/Proc-Spawner-0.02.zip
 Proc::Short                        0.01  J/JH/JHKIM/Proc-Short-0.01.tar.gz
 Proc::Simple                       1.32  M/MS/MSCHILLI/Proc-Simple-1.32.tar.gz
 Proc::Simple::Async                0.03  B/BE/BERLE/Proc-Simple-Async-0.03.tar.gz
 Proc::Spawn                        1.03  G/GA/GARROW/Proc-Spawn-1.03.tar.gz
-Proc::Spawner                      0.01  I/IL/ILYAZ/modules/Proc-Spawner-0.01.zip
-Proc::Spawner::Graph              undef  I/IL/ILYAZ/modules/Proc-Spawner-0.01.zip
+Proc::Spawner                      0.02  I/IL/ILYAZ/modules/Proc-Spawner-0.02.zip
+Proc::Spawner::Graph               0.02  I/IL/ILYAZ/modules/Proc-Spawner-0.02.zip
 Proc::Stat                         0.03  M/MI/MIKER/Proc-Stat-0.03.tar.gz
 Proc::Supervised::Convenience      1.01  R/RH/RHESA/Proc-Supervised-Convenience-1.01.tar.gz
 Proc::Swarm                    1.161060  D/DI/DIEDERICH/Proc-Swarm-1.161060.tar.gz
