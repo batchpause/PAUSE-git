@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262621
-Last-Updated: Mon, 02 Nov 2026 17:54:07 GMT
+Last-Updated: Mon, 02 Nov 2026 18:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -41578,7 +41578,7 @@ CGI::AutoForm                      1.05  R/RS/RSANDBERG/CGI-AutoForm-1.05.tar.gz
 CGI::AutoForm::Session            undef  R/RS/RSANDBERG/CGI-AutoForm-1.05.tar.gz
 CGI::Browse                    1.000000  R/RO/ROGERHALL/CGI-Browse-1.0.0.tar.gz
 CGI::BrowserDetect                 1.02  L/LN/LNATION/CGI-BrowserDetect-1.02.tar.gz
-CGI::Buffer                        0.88  N/NH/NHORNE/CGI-Buffer-0.88.tar.gz
+CGI::Buffer                        0.89  N/NH/NHORNE/CGI-Buffer-0.89.tar.gz
 CGI::Builder                       1.36  D/DO/DOMIZIO/CGI-Builder-1.36.tar.gz
 CGI::Builder::Auth                 0.06  V/VE/VESELOSKY/CGI-Builder-Auth-0.06.tar.gz
 CGI::Builder::Auth::AdminBase  1.001001001  V/VE/VESELOSKY/CGI-Builder-Auth-0.06.tar.gz
