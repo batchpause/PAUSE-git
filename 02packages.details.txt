@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262618
-Last-Updated: Mon, 02 Nov 2026 03:17:03 GMT
+Last-Updated: Mon, 02 Nov 2026 03:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -127343,21 +127343,21 @@ Map::Tube::Singapore               0.05  S/SK/SKIM/Map-Tube-Singapore-0.05.tar.g
 Map::Tube::Sofia                    0.1  S/SK/SKIM/Map-Tube-Sofia-0.10.tar.gz
 Map::Tube::Stockholm             v0.1.4  G/GW/GWS/Map-Tube-Stockholm-v0.1.4.tar.gz
 Map::Tube::Stuttgart             v0.1.3  G/GW/GWS/Map-Tube-Stuttgart-v0.1.3.tar.gz
-Map::Tube::Sydney                  1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::L1        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::L2        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::L3        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::L4        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::M1        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::T1        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::T2        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::T3        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::T4        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::T5        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::T6        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::T7        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::T8        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
-Map::Tube::Sydney::Line::T9        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.1.tar.gz
+Map::Tube::Sydney                  1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::L1        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::L2        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::L3        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::L4        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::M1        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::T1        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::T2        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::T3        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::T4        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::T5        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::T6        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::T7        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::T8        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
+Map::Tube::Sydney::Line::T9        1.01  E/EA/EARLYBEAN/Map-Tube-Sydney-1.0.2.tar.gz
 Map::Tube::Table                 v5.1.1  M/MA/MANWAR/Map-Tube-v5.1.1.tar.gz
 Map::Tube::Tbilisi                 0.05  S/SK/SKIM/Map-Tube-Tbilisi-0.05.tar.gz
 Map::Tube::Text::Shortest          0.02  S/SK/SKIM/Map-Tube-Text-Shortest-0.02.tar.gz
