@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262620
-Last-Updated: Mon, 02 Nov 2026 13:17:02 GMT
+Last-Updated: Mon, 02 Nov 2026 13:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -233195,7 +233195,7 @@ Text::VisualPrintf::IO            undef  U/UT/UTASHIRO/Text-VisualPrintf-4.03.ta
 Text::VisualPrintf::Transform     undef  U/UT/UTASHIRO/Text-VisualPrintf-3.11.tar.gz
 Text::VisualWidth                  0.02  N/NA/NANZOU/Text-VisualWidth-0.02.tar.gz
 Text::VisualWidth::EUC_JP         undef  N/NA/NANZOU/Text-VisualWidth-0.02.tar.gz
-Text::VisualWidth::PP              0.08  T/TO/TOKUHIROM/Text-VisualWidth-PP-0.08.tar.gz
+Text::VisualWidth::PP              0.09  T/TO/TOKUHIROM/Text-VisualWidth-PP-0.09.tar.gz
 Text::VisualWidth::UTF8           undef  N/NA/NANZOU/Text-VisualWidth-0.02.tar.gz
 Text::Vpp                          1.17  D/DD/DDUMONT/Text-Vpp-1.17.tar.gz
 Text::WagnerFischer                0.04  D/DA/DAVIDEBE/Text-WagnerFischer-0.04.tar.gz
