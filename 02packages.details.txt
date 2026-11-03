@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262681
-Last-Updated: Mon, 02 Nov 2026 23:54:14 GMT
+Line-Count:   262683
+Last-Updated: Tue, 03 Nov 2026 00:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -11350,7 +11350,7 @@ App::Greple::debug                undef  U/UT/UTASHIRO/App-Greple-10.05.tar.gz
 App::Greple::dig                  undef  U/UT/UTASHIRO/App-Greple-10.05.tar.gz
 App::Greple::Filter               undef  U/UT/UTASHIRO/App-Greple-10.05.tar.gz
 App::Greple::find                 undef  U/UT/UTASHIRO/App-Greple-10.05.tar.gz
-App::Greple::frame                 1.03  U/UT/UTASHIRO/App-Greple-frame-1.03.tar.gz
+App::Greple::frame                 1.04  U/UT/UTASHIRO/App-Greple-frame-1.04.tar.gz
 App::Greple::frame::RPN           undef  U/UT/UTASHIRO/App-Greple-frame-0.06.tar.gz
 App::Greple::git                   1.00  U/UT/UTASHIRO/App-Greple-git-1.00.tar.gz
 App::Greple::Grep                 undef  U/UT/UTASHIRO/App-Greple-10.05.tar.gz
@@ -123239,10 +123239,12 @@ Locale::RecodeData::VISCII        undef  G/GU/GUIDO/libintl-perl-1.37.tar.gz
 Locale::Scope                      0.04  K/KA/KARUPA/Locale-Scope-0.04.tar.gz
 Locale::Script                     3.91  S/SB/SBECK/Locale-Codes-3.91.tar.gz
 Locale::Set                        0.77  P/PE/PERLANCAR/Locale-Set-0.77.tar.gz
-Locale::Simple                    0.109  G/GE/GETTY/Locale-Simple-0.109.tar.gz
-Locale::Simple::Scraper           0.109  G/GE/GETTY/Locale-Simple-0.109.tar.gz
-Locale::Simple::Scraper::Parser   0.109  G/GE/GETTY/Locale-Simple-0.109.tar.gz
-Locale::Simple::Scraper::ParserShortcuts 0.109  G/GE/GETTY/Locale-Simple-0.109.tar.gz
+Locale::Simple                    0.200  G/GE/GETTY/Locale-Simple-0.200.tar.gz
+Locale::Simple::CLI               0.200  G/GE/GETTY/Locale-Simple-0.200.tar.gz
+Locale::Simple::PO2JSON           0.200  G/GE/GETTY/Locale-Simple-0.200.tar.gz
+Locale::Simple::Scraper           0.200  G/GE/GETTY/Locale-Simple-0.200.tar.gz
+Locale::Simple::Scraper::Parser   0.200  G/GE/GETTY/Locale-Simple-0.200.tar.gz
+Locale::Simple::Scraper::ParserShortcuts 0.200  G/GE/GETTY/Locale-Simple-0.200.tar.gz
 Locale::SubCountry                 2.07  K/KI/KIMRYAN/Locale-SubCountry-2.07.tar.gz
 Locale::SubCountry::Codes         undef  K/KI/KIMRYAN/Locale-SubCountry-2.07.tar.gz
 Locale::SubCountry::World          2.07  K/KI/KIMRYAN/Locale-SubCountry-2.07.tar.gz
