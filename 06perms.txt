@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670217
+Line-Count:  670237
 Written-By:  PAUSE version 1.005
-Date:        Tue, 03 Nov 2026 00:18:21 GMT
+Date:        Tue, 03 Nov 2026 02:30:18 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -567748,6 +567748,10 @@ SNMP::Info::Layer2::Exinda,CVICENTE,c
 SNMP::Info::Layer2::Exinda,EMILLER,c
 SNMP::Info::Layer2::Exinda,MAXB,c
 SNMP::Info::Layer2::Exinda,OLIVER,f
+SNMP::Info::Layer2::FortiAP,CVICENTE,c
+SNMP::Info::Layer2::FortiAP,EMILLER,c
+SNMP::Info::Layer2::FortiAP,MAXB,c
+SNMP::Info::Layer2::FortiAP,OLIVER,f
 SNMP::Info::Layer2::Foundry,CVICENTE,c
 SNMP::Info::Layer2::Foundry,EMILLER,c
 SNMP::Info::Layer2::Foundry,MAXB,c
@@ -568048,6 +568052,10 @@ SNMP::Info::Layer3::OneAccess,CVICENTE,c
 SNMP::Info::Layer3::OneAccess,EMILLER,c
 SNMP::Info::Layer3::OneAccess,MAXB,c
 SNMP::Info::Layer3::OneAccess,OLIVER,f
+SNMP::Info::Layer3::Onyx,CVICENTE,c
+SNMP::Info::Layer3::Onyx,EMILLER,c
+SNMP::Info::Layer3::Onyx,MAXB,c
+SNMP::Info::Layer3::Onyx,OLIVER,f
 SNMP::Info::Layer3::PacketFront,CVICENTE,c
 SNMP::Info::Layer3::PacketFront,EMILLER,c
 SNMP::Info::Layer3::PacketFront,MAXB,c
@@ -568136,6 +568144,10 @@ SNMP::Info::Layer3::VMware,CVICENTE,c
 SNMP::Info::Layer3::VMware,EMILLER,c
 SNMP::Info::Layer3::VMware,MAXB,c
 SNMP::Info::Layer3::VMware,OLIVER,f
+SNMP::Info::Layer3::VOSS,CVICENTE,c
+SNMP::Info::Layer3::VOSS,EMILLER,c
+SNMP::Info::Layer3::VOSS,MAXB,c
+SNMP::Info::Layer3::VOSS,OLIVER,f
 SNMP::Info::Layer3::VyOS,CVICENTE,c
 SNMP::Info::Layer3::VyOS,EMILLER,c
 SNMP::Info::Layer3::VyOS,MAXB,c
@@ -568220,6 +568232,14 @@ SNMP::Info::RapidCity,CVICENTE,c
 SNMP::Info::RapidCity,EMILLER,c
 SNMP::Info::RapidCity,MAXB,c
 SNMP::Info::RapidCity,OLIVER,f
+SNMP::Info::RapidCityLegacy,CVICENTE,c
+SNMP::Info::RapidCityLegacy,EMILLER,c
+SNMP::Info::RapidCityLegacy,MAXB,c
+SNMP::Info::RapidCityLegacy,OLIVER,f
+SNMP::Info::RapidCityVRF,CVICENTE,c
+SNMP::Info::RapidCityVRF,EMILLER,c
+SNMP::Info::RapidCityVRF,MAXB,c
+SNMP::Info::RapidCityVRF,OLIVER,f
 SNMP::Info::SONMP,CVICENTE,c
 SNMP::Info::SONMP,EMILLER,c
 SNMP::Info::SONMP,MAXB,c
