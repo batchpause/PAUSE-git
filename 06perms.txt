@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670237
+Line-Count:  670238
 Written-By:  PAUSE version 1.005
-Date:        Tue, 03 Nov 2026 02:30:18 GMT
+Date:        Tue, 03 Nov 2026 04:17:44 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -539437,6 +539437,7 @@ Perl::Critic::Policy::RegularExpressions::ProhibitFixedStringMatches,ELLIOTJS,c
 Perl::Critic::Policy::RegularExpressions::ProhibitFixedStringMatches,PETDANCE,c
 Perl::Critic::Policy::RegularExpressions::ProhibitFixedStringMatches,THALJEF,c
 Perl::Critic::Policy::RegularExpressions::ProhibitFixedStringMatches,WYANT,c
+Perl::Critic::Policy::RegularExpressions::ProhibitIneffectiveModifiers,TEODESIAN,f
 Perl::Critic::Policy::RegularExpressions::ProhibitRegexForStringEquality,TEODESIAN,f
 Perl::Critic::Policy::RegularExpressions::ProhibitRegexToChomp,TEODESIAN,f
 Perl::Critic::Policy::RegularExpressions::ProhibitRegexToStripAffix,TEODESIAN,f
