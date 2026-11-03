@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262701
-Last-Updated: Tue, 03 Nov 2026 14:29:02 GMT
+Last-Updated: Tue, 03 Nov 2026 15:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -53217,7 +53217,7 @@ Dancer2::Plugin::Emailesque        0.03  A/AM/AMBS/Dancer/Dancer2-Plugin-Emailes
 Dancer2::Plugin::EncryptID         0.03  S/SH/SHARDIWAL/Dancer2-Plugin-EncryptID-0.03.tar.gz
 Dancer2::Plugin::Etcd             0.011  H/HE/HEXFUSION/Dancer2-Plugin-Etcd-0.011.tar.gz
 Dancer2::Plugin::Etcd::CLI        0.011  H/HE/HEXFUSION/Dancer2-Plugin-Etcd-0.011.tar.gz
-Dancer2::Plugin::Feed          1.263060  D/DE/DEMIGUISE/Dancer2-Plugin-Feed-1.263060.tar.gz
+Dancer2::Plugin::Feed          1.263070  D/DE/DEMIGUISE/Dancer2-Plugin-Feed-1.263070.tar.gz
 Dancer2::Plugin::Flash             0.03  S/SH/SHARDIWAL/Dancer2-Plugin-Flash-0.03.tar.gz
 Dancer2::Plugin::FlashNote         0.03  E/ES/ESAYM/Dancer2-Plugin-FlashNote-0.03.tar.gz
 Dancer2::Plugin::FontSubset      v0.0.1  Y/YA/YANICK/Dancer2-Plugin-FontSubset-0.0.1.tar.gz
