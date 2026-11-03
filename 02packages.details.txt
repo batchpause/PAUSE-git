@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262683
-Last-Updated: Tue, 03 Nov 2026 00:17:02 GMT
+Last-Updated: Tue, 03 Nov 2026 01:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -231673,9 +231673,9 @@ Text::Annotated::Line              0.04  W/WI/WIMV/Text-Annotated-Line-0.04.tar.
 Text::Annotated::Reader            0.04  W/WI/WIMV/Text-Annotated-Line-0.04.tar.gz
 Text::Annotated::Writer            0.04  W/WI/WIMV/Text-Annotated-Line-0.04.tar.gz
 Text::ANSI::BaseUtil              0.234  P/PE/PERLANCAR/Text-ANSI-Util-0.234.tar.gz
-Text::ANSI::Fold                   2.35  U/UT/UTASHIRO/Text-ANSI-Fold-2.35.tar.gz
-Text::ANSI::Fold::Japanese::W3C   undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.35.tar.gz
-Text::ANSI::Fold::Japanese::Wikipedia undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.35.tar.gz
+Text::ANSI::Fold                   2.36  U/UT/UTASHIRO/Text-ANSI-Fold-2.36.tar.gz
+Text::ANSI::Fold::Japanese::W3C   undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.36.tar.gz
+Text::ANSI::Fold::Japanese::Wikipedia undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.36.tar.gz
 Text::ANSI::Fold::Util             1.06  U/UT/UTASHIRO/Text-ANSI-Fold-Util-1.06.tar.gz
 Text::ANSI::Printf                 2.07  U/UT/UTASHIRO/Text-ANSI-Printf-2.07.tar.gz
 Text::ANSI::Tabs                   1.06  U/UT/UTASHIRO/Text-ANSI-Tabs-1.06.tar.gz
