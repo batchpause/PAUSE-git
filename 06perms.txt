@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670250
+Line-Count:  670252
 Written-By:  PAUSE version 1.005
-Date:        Tue, 03 Nov 2026 12:42:07 GMT
+Date:        Tue, 03 Nov 2026 16:17:17 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -332153,6 +332153,8 @@ JSON::Schema::Corvus::Regex::Vm,MWADAMS,f
 JSON::Schema::Corvus::ResultsCollector,MWADAMS,f
 JSON::Schema::Corvus::Runtime,MWADAMS,f
 JSON::Schema::Corvus::Uri,MWADAMS,f
+JSON::Schema::Corvus::Uts46,MWADAMS,f
+JSON::Schema::Corvus::Uts46Data,MWADAMS,f
 JSON::Schema::Corvus::Validator,MWADAMS,f
 JSON::Schema::Corvus::XS,MWADAMS,f
 JSON::Schema::Corvus::XS::Error,MWADAMS,f
