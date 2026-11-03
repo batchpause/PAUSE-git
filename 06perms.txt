@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670272
+Line-Count:  670291
 Written-By:  PAUSE version 1.005
-Date:        Tue, 03 Nov 2026 17:17:55 GMT
+Date:        Tue, 03 Nov 2026 17:55:50 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -131450,6 +131450,25 @@ Disbatch::Web::Files,ASHLEYW,f
 Disbatch::Web::Tasks,ASHLEYW,f
 Disbatch::Web::V3,ASHLEYW,f
 Disc,WSDOOKADR,f
+Discord::Client,VSN,f
+Discord::Client::Cache,VSN,f
+Discord::Client::Commands,VSN,f
+Discord::Client::Error,VSN,f
+Discord::Client::Gateway,VSN,f
+Discord::Client::Gateway::Shards,VSN,f
+Discord::Client::HTTPInteractions,VSN,f
+Discord::Client::Intents,VSN,f
+Discord::Client::Interaction,VSN,f
+Discord::Client::Interaction::Verifier,VSN,f
+Discord::Client::Interactions,VSN,f
+Discord::Client::Model,VSN,f
+Discord::Client::Model::Channel,VSN,f
+Discord::Client::Model::Guild,VSN,f
+Discord::Client::Model::Message,VSN,f
+Discord::Client::Model::User,VSN,f
+Discord::Client::REST,VSN,f
+Discord::Client::REST::Error,VSN,f
+Discord::Client::UI,VSN,f
 Discovery,HENRYST,f
 Disk::Dir::Read,PGOLLUCCI,f
 Disk::File::Backup,PGOLLUCCI,f

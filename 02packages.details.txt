@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262723
-Last-Updated: Tue, 03 Nov 2026 17:41:02 GMT
+Line-Count:   262742
+Last-Updated: Tue, 03 Nov 2026 17:54:26 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -67832,6 +67832,25 @@ Disbatch::Web::Files              4.103  A/AS/ASHLEYW/disbatch-4.103.tar.gz
 Disbatch::Web::Tasks              4.103  A/AS/ASHLEYW/disbatch-4.103.tar.gz
 Disbatch::Web::V3                 4.103  A/AS/ASHLEYW/disbatch-4.103.tar.gz
 DISCO                              0.01  W/WE/WENZ/DISCO-0.01.zip
+Discord::Client                   0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Cache            0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Commands         0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Error            0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Gateway          0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Gateway::Shards  0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::HTTPInteractions 0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Intents          0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Interaction      0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Interaction::Verifier 0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Interactions     0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Model            0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Model::Channel   0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Model::Guild     0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Model::Message   0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::Model::User      0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::REST             0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::REST::Error      0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client::UI               0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
 Discovery                         undef  H/HE/HENRYST/ALBD-0.05.tar.gz
 Disk::SMART                        0.18  P/PT/PTROST/Disk-SMART-0.18.tar.gz
 Disk::SmartTools               3.004000  M/MM/MMARTINI/Disk-SmartTools-v3.4.0.tar.gz
@@ -199295,18 +199314,18 @@ Proc::Safetynet::RpcSession::Simple undef  D/DT/DTADY/Proc-Safetynet-0.04.tar.gz
 Proc::Safetynet::Supervisor       undef  D/DT/DTADY/Proc-Safetynet-0.04.tar.gz
 Proc::Scoreboard                    1.1  M/MK/MKUL/Proc-Application-0.01.tar.gz
 Proc::Scoreboard::Dir               1.1  M/MK/MKUL/Proc-Application-0.01.tar.gz
-Proc::ShellSpawn                   0.03  I/IL/ILYAZ/modules/Proc-Spawner-0.03.zip
-Proc::ShellSpawn::Builtins         0.03  I/IL/ILYAZ/modules/Proc-Spawner-0.03.zip
-Proc::ShellSpawn::Large            0.03  I/IL/ILYAZ/modules/Proc-Spawner-0.03.zip
-Proc::ShellSubset                  0.03  I/IL/ILYAZ/modules/Proc-Spawner-0.03.zip
-Proc::ShellSubset::Large           0.03  I/IL/ILYAZ/modules/Proc-Spawner-0.03.zip
-Proc::ShellSubset::Small           0.03  I/IL/ILYAZ/modules/Proc-Spawner-0.03.zip
+Proc::ShellSpawn                   0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
+Proc::ShellSpawn::Builtins         0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
+Proc::ShellSpawn::Large            0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
+Proc::ShellSubset                  0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
+Proc::ShellSubset::Large           0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
+Proc::ShellSubset::Small           0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
 Proc::Short                        0.01  J/JH/JHKIM/Proc-Short-0.01.tar.gz
 Proc::Simple                       1.32  M/MS/MSCHILLI/Proc-Simple-1.32.tar.gz
 Proc::Simple::Async                0.03  B/BE/BERLE/Proc-Simple-Async-0.03.tar.gz
 Proc::Spawn                        1.03  G/GA/GARROW/Proc-Spawn-1.03.tar.gz
-Proc::Spawner                      0.03  I/IL/ILYAZ/modules/Proc-Spawner-0.03.zip
-Proc::Spawner::Graph               0.03  I/IL/ILYAZ/modules/Proc-Spawner-0.03.zip
+Proc::Spawner                      0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
+Proc::Spawner::Graph               0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
 Proc::Stat                         0.03  M/MI/MIKER/Proc-Stat-0.03.tar.gz
 Proc::Supervised::Convenience      1.01  R/RH/RHESA/Proc-Supervised-Convenience-1.01.tar.gz
 Proc::Swarm                    1.161060  D/DI/DIEDERICH/Proc-Swarm-1.161060.tar.gz
