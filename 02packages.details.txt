@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262723
-Last-Updated: Tue, 03 Nov 2026 17:29:02 GMT
+Last-Updated: Tue, 03 Nov 2026 17:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -191740,7 +191740,7 @@ Perl::Critic::Policy::ControlStructures::ProhibitInlineDo 0.001004  B/BB/BBLACKM
 Perl::Critic::Policy::ControlStructures::ProhibitLabelsWithSpecialBlockNames 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitMultipleSubscripts undef  S/SN/SNEZ/Perl-Critic-PolicyBundle-SNEZ-0.03.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitMutatingListFunctions 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
-Perl::Critic::Policy::ControlStructures::ProhibitMutatingListFunctionsStricter 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-ControlStructures-ProhibitMutatingListFunctionsStricter-0.001.tar.gz
+Perl::Critic::Policy::ControlStructures::ProhibitMutatingListFunctionsStricter 0.002  T/TE/TEODESIAN/Perl-Critic-Policy-ControlStructures-ProhibitMutatingListFunctionsStricter-0.002.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitNegativeExpressionsInUnlessAndUntilConditions 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitPostfixControls 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitReturnInDoBlock 0.03  U/UT/UTGWKK/Perl-Critic-Policy-ControlStructures-ProhibitReturnInDoBlock-0.03.tar.gz
@@ -254491,24 +254491,24 @@ WWW::NOS::Open::Result           v1.0.5  I/IP/IPENBURG/WWW-NOS-Open-v1.0.5.tar.g
 WWW::NOS::Open::TypeDef          v1.0.5  I/IP/IPENBURG/WWW-NOS-Open-v1.0.5.tar.gz
 WWW::NOS::Open::Version          v1.0.5  I/IP/IPENBURG/WWW-NOS-Open-v1.0.5.tar.gz
 WWW::NOS::Open::Video            v1.0.5  I/IP/IPENBURG/WWW-NOS-Open-v1.0.5.tar.gz
-WWW::Noss                          2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::BaseConfig              2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::Curl                    2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::DB                      2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
+WWW::Noss                          2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::BaseConfig              2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::Curl                    2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::DB                      2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
 WWW::Noss::Dir                     1.10  S/SA/SAMYOUNG/WWW-Noss-1.10.tar.gz
-WWW::Noss::FeedConfig              2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::FeedReader              2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::FeedReader::Atom        2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::FeedReader::MediaRSS    2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::FeedReader::RSS         2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::Forker                  2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::GroupConfig             2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::Home                    2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::Lynx                    2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::OPML                    2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::TextToHtml              2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::Timestamp               2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
-WWW::Noss::Util                    2.04  S/SA/SAMYOUNG/WWW-Noss-2.04.tar.gz
+WWW::Noss::FeedConfig              2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::FeedReader              2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::FeedReader::Atom        2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::FeedReader::MediaRSS    2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::FeedReader::RSS         2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::Forker                  2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::GroupConfig             2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::Home                    2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::Lynx                    2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::OPML                    2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::TextToHtml              2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::Timestamp               2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
+WWW::Noss::Util                    2.05  S/SA/SAMYOUNG/WWW-Noss-2.05.tar.gz
 WWW::Notifo                        0.09  A/AN/ANDYA/WWW-Notifo-0.09.tar.gz
 WWW::NZPost::Tracking              0.01  A/AQ/AQUILINA/WWW-NZPost-Tracking-0.01.tar.gz
 WWW::NZPost::Tracking::Detail      0.01  A/AQ/AQUILINA/WWW-NZPost-Tracking-0.01.tar.gz
