@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262703
-Last-Updated: Tue, 03 Nov 2026 16:41:02 GMT
+Last-Updated: Tue, 03 Nov 2026 16:54:22 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -10135,7 +10135,7 @@ App::Dazz::Command::overlap       undef  W/WA/WANGQ/App-Dazz-0.1.0.tar.gz
 App::Dazz::Command::overlap2      undef  W/WA/WANGQ/App-Dazz-0.1.0.tar.gz
 App::Dazz::Command::show2ovlp     undef  W/WA/WANGQ/App-Dazz-0.1.0.tar.gz
 App::Dazz::Common                 undef  W/WA/WANGQ/App-Dazz-0.1.0.tar.gz
-App::DBBrowser                    2.446  K/KU/KUERBIS/App-DBBrowser-2.446.tar.gz
+App::DBBrowser                    2.447  K/KU/KUERBIS/App-DBBrowser-2.447.tar.gz
 App::DBCritic                     0.023  M/MJ/MJGARDNER/App-DBCritic-0.023.tar.gz
 App::DBCritic::Loader             0.023  M/MJ/MJGARDNER/App-DBCritic-0.023.tar.gz
 App::DBCritic::Policy             0.023  M/MJ/MJGARDNER/App-DBCritic-0.023.tar.gz
