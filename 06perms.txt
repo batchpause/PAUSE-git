@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670240
+Line-Count:  670248
 Written-By:  PAUSE version 1.005
-Date:        Tue, 03 Nov 2026 05:18:04 GMT
+Date:        Tue, 03 Nov 2026 10:29:18 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -127324,6 +127324,7 @@ Devel::Cover::Report::Text,PJCJ,f
 Devel::Cover::Report::Text2,PJCJ,f
 Devel::Cover::Report::Vim,PJCJ,f
 Devel::Cover::Report::Vim::Template::Provider,PJCJ,f
+Devel::Cover::Report::XSCover,LNATION,f
 Devel::Cover::Statement,PJCJ,f
 Devel::Cover::Subroutine,PJCJ,f
 Devel::Cover::Test,PJCJ,f
@@ -129758,6 +129759,13 @@ Devel::WxProf::Treemap::Output::Imager,MKUTTER,f
 Devel::WxProf::Treemap::Squarified,MKUTTER,f
 Devel::XDebug,SPECTRUM,f
 Devel::XRay,JBISBEE,f
+Devel::XSCover,LNATION,f
+Devel::XSCover::Build,LNATION,f
+Devel::XSCover::DB,LNATION,f
+Devel::XSCover::Deparse,LNATION,f
+Devel::XSCover::Gcov,LNATION,f
+Devel::XSCover::Test,LNATION,f
+Devel::XSCover::XS,LNATION,f
 Devel::XSHelper,TOKUHIROM,f
 Devel::Xref,SEANO,f
 Devel::bt,AUGGY,c
