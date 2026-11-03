@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262691
-Last-Updated: Tue, 03 Nov 2026 08:17:02 GMT
+Last-Updated: Tue, 03 Nov 2026 08:54:14 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -8773,7 +8773,7 @@ App::ansicolumn::default          undef  U/UT/UTASHIRO/App-ansicolumn-1.62.tar.g
 App::ansiecho                      1.10  U/UT/UTASHIRO/App-ansiecho-1.10.tar.gz
 App::ansiecho::Util               undef  U/UT/UTASHIRO/App-ansiecho-1.10.tar.gz
 App::ansiexpand                    1.06  U/UT/UTASHIRO/App-ansiexpand-1.06.tar.gz
-App::ansifold                      1.37  U/UT/UTASHIRO/App-ansifold-1.37.tar.gz
+App::ansifold                      1.38  U/UT/UTASHIRO/App-ansifold-1.38.tar.gz
 App::ansiprintf                    2.07  U/UT/UTASHIRO/Text-ANSI-Printf-2.07.tar.gz
 App::ansiprintf::Util             undef  U/UT/UTASHIRO/Text-ANSI-Printf-2.07.tar.gz
 App::Antigen                      0.001  T/TB/TBSLIVER/App-Antigen-0.001.tar.gz
