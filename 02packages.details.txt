@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262742
-Last-Updated: Tue, 03 Nov 2026 17:54:26 GMT
+Last-Updated: Tue, 03 Nov 2026 18:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -147544,7 +147544,7 @@ Net::IPAM::IP                      4.01  G/GA/GAISSMAI/Net-IPAM-IP-4.01.tar.gz
 Net::IPAM::Tree                    4.00  G/GA/GAISSMAI/Net-IPAM-Tree-4.00.tar.gz
 Net::IPAM::Tree::Private          undef  G/GA/GAISSMAI/Net-IPAM-Tree-4.00.tar.gz
 Net::IPAM::Util                   undef  G/GA/GAISSMAI/Net-IPAM-IP-4.01.tar.gz
-Net::IPData                         1.0  I/IP/IPDATA/Net-IPData-1.0.0.tar.gz
+Net::IPData                    1.001000  I/IP/IPDATA/Net-IPData-1.1.0.tar.gz
 Net::Iperf::Parser                 0.04  E/EB/EBRUNI/Net-Iperf-Parser-0.04.tar.gz
 NET::IPFilter                       1.2  S/SE/SENGER/NET-IPFilter_V1.1.2.tar.gz
 NET::IPFilterSimple                 1.2  S/SE/SENGER/NET-IPFilterSimple_V1.1.tar.gz
@@ -191759,7 +191759,7 @@ Perl::Critic::Policy::ControlStructures::ProhibitInlineDo 0.001004  B/BB/BBLACKM
 Perl::Critic::Policy::ControlStructures::ProhibitLabelsWithSpecialBlockNames 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitMultipleSubscripts undef  S/SN/SNEZ/Perl-Critic-PolicyBundle-SNEZ-0.03.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitMutatingListFunctions 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
-Perl::Critic::Policy::ControlStructures::ProhibitMutatingListFunctionsStricter 0.002  T/TE/TEODESIAN/Perl-Critic-Policy-ControlStructures-ProhibitMutatingListFunctionsStricter-0.002.tar.gz
+Perl::Critic::Policy::ControlStructures::ProhibitMutatingListFunctionsStricter 0.003  T/TE/TEODESIAN/Perl-Critic-Policy-ControlStructures-ProhibitMutatingListFunctionsStricter-0.003.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitNegativeExpressionsInUnlessAndUntilConditions 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitPostfixControls 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitReturnInDoBlock 0.03  U/UT/UTGWKK/Perl-Critic-Policy-ControlStructures-ProhibitReturnInDoBlock-0.03.tar.gz
