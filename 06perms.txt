@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670252
+Line-Count:  670272
 Written-By:  PAUSE version 1.005
-Date:        Tue, 03 Nov 2026 16:17:17 GMT
+Date:        Tue, 03 Nov 2026 17:17:55 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -131497,6 +131497,26 @@ Dist::Build::XS::PkgConfig,LEONT,f
 Dist::Build::XS::WriteConstants,LEONT,f
 Dist::CheckConflicts,ADOPTME,f
 Dist::CheckConflicts,DOY,c
+Dist::Conformance,TEODESIAN,f
+Dist::Conformance::Check,TEODESIAN,f
+Dist::Conformance::Check::ClaudeMd,TEODESIAN,f
+Dist::Conformance::Check::ClaudeSettings,TEODESIAN,f
+Dist::Conformance::Check::CriticProfile,TEODESIAN,f
+Dist::Conformance::Check::DataSchema,TEODESIAN,f
+Dist::Conformance::Check::DistFiles,TEODESIAN,f
+Dist::Conformance::Check::GitHooks,TEODESIAN,f
+Dist::Conformance::Check::ToolConfiguration,TEODESIAN,f
+Dist::Conformance::Check::Workflows,TEODESIAN,f
+Dist::Conformance::Config,TEODESIAN,f
+Dist::Conformance::Flavor,TEODESIAN,f
+Dist::Conformance::Schema,TEODESIAN,f
+Dist::Conformance::Snapshot,TEODESIAN,f
+Dist::Conformance::Snapshot::Directory,TEODESIAN,f
+Dist::Conformance::Snapshot::Tree,TEODESIAN,f
+Dist::Conformance::Source,TEODESIAN,f
+Dist::Conformance::Source::Directory,TEODESIAN,f
+Dist::Conformance::Source::Git,TEODESIAN,f
+Dist::Conformance::Update,TEODESIAN,f
 Dist::Data,GETTY,f
 Dist::Data,MITHALDU,c
 Dist::Data,XSAWYERX,c
