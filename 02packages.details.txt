@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262744
-Last-Updated: Wed, 04 Nov 2026 08:29:02 GMT
+Last-Updated: Wed, 04 Nov 2026 09:17:03 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4359,7 +4359,7 @@ Alien::cmake4                      0.04  S/SK/SKIM/Alien-cmake4-0.04.tar.gz
 Alien::cmark                      0.005  D/DB/DBOOK/Alien-cmark-0.005.tar.gz
 Alien::CodePress                   1.03  A/AS/ASKSH/Alien-CodePress-1.03.tar.gz
 Alien::CodePress::Archive          1.03  A/AS/ASKSH/Alien-CodePress-1.03.tar.gz
-Alien::CorvusJsonSchema        0.001000  M/MW/MWADAMS/Alien-CorvusJsonSchema-v0.1.0.tar.gz
+Alien::CorvusJsonSchema        0.001001  M/MW/MWADAMS/Alien-CorvusJsonSchema-v0.1.1.tar.gz
 Alien::Cowl                        0.01  Z/ZM/ZMUGHAL/Alien-Cowl-0.01.tar.gz
 Alien::CPython3                    0.01  Z/ZM/ZMUGHAL/Alien-CPython3-0.01.tar.gz
 Alien::CSFML                     v0.0.7  S/SA/SANKO/Alien-CSFML-v0.0.7.tar.gz
