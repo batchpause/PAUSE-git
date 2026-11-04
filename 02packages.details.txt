@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262744
-Last-Updated: Wed, 04 Nov 2026 06:41:02 GMT
+Last-Updated: Wed, 04 Nov 2026 08:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -126446,25 +126446,25 @@ Mail::Milter::Wrapper              0.03  T/TV/TVIERLING/Mail-Milter-0.07.tar.gz
 Mail::Milter::Wrapper::DecodeSRS   0.02  T/TV/TVIERLING/Mail-Milter-0.07.tar.gz
 Mail::Milter::Wrapper::DeferToRCPT 0.03  T/TV/TVIERLING/Mail-Milter-0.07.tar.gz
 Mail::Milter::Wrapper::RejectMsgEditor 0.03  T/TV/TVIERLING/Mail-Milter-0.07.tar.gz
-Mail::MIMEDefang               3.007002  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::Actions         undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::Antispam        undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::Antivirus       undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::Async             1.0  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::Async::Checks     1.0  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::Async::Results    1.0  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::Authres         undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::BIMI            undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::DKIM            undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::DKIM::ARC       undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::Mail            undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::MIME            undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::Net             undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::RFC2822         undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::SPF             undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::TLSPolicy       undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::Unit            undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
-Mail::MIMEDefang::Utils           undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.2.tar.gz
+Mail::MIMEDefang               3.007003  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::Actions         undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::Antispam        undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::Antivirus       undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::Async             1.0  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::Async::Checks     1.0  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::Async::Results    1.0  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::Authres         undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::BIMI            undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::DKIM            undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::DKIM::ARC       undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::Mail            undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::MIME            undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::Net             undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::RFC2822         undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::SPF             undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::TLSPolicy       undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::Unit            undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
+Mail::MIMEDefang::Utils           undef  G/GB/GBECHIS/Mail-MIMEDefang-3.7.3.tar.gz
 Mail::Miner                         2.7  S/SI/SIMON/Mail-Miner-2.7.tar.gz
 Mail::Miner::Asset                undef  S/SI/SIMON/Mail-Miner-2.7.tar.gz
 Mail::Miner::Assets               undef  S/SI/SIMON/Mail-Miner-2.7.tar.gz
@@ -153228,7 +153228,7 @@ Object::Previous                 1.1012  J/JE/JETTERO/Object-Previous-1.1012.tar
 Object::Properties                1.003  A/AR/ARISTOTLE/Object-Properties-1.003.tar.gz
 Object::Properties::Base          1.003  A/AR/ARISTOTLE/Object-Properties-1.003.tar.gz
 Object::props                       2.4  S/SK/SKNPP/OOTools-2.41.tar.gz
-Object::Proto                      1.01  L/LN/LNATION/Object-Proto-1.01.tar.gz
+Object::Proto                      1.02  L/LN/LNATION/Object-Proto-1.02.tar.gz
 Object::Proto::Install::Files     undef  L/LN/LNATION/Object-Proto-0.19.tar.gz
 Object::Proto::Sugar               1.01  L/LN/LNATION/Object-Proto-Sugar-1.01.tar.gz
 Object::Prototype                  0.02  D/DA/DANKOGAI/Object-Prototype-0.02.tar.gz
