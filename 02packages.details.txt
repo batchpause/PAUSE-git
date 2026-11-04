@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262744
-Last-Updated: Wed, 04 Nov 2026 00:17:02 GMT
+Last-Updated: Wed, 04 Nov 2026 00:54:11 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -85487,7 +85487,7 @@ Geo::Coder::GooglePlaces::V3       0.06  N/NH/NHORNE/Geo-Coder-GooglePlaces-0.06
 Geo::Coder::Googlev3               0.17  S/SR/SREZIC/Geo-Coder-Googlev3-0.17.tar.gz
 Geo::Coder::HostIP                 0.07  J/JA/JANITOR/Geo-Coder-HostIP-0.08.tar.gz
 Geo::Coder::Ja                     0.03  J/JI/JIRO/Geo-Coder-Ja-0.03.tar.gz
-Geo::Coder::List                   0.39  N/NH/NHORNE/Geo-Coder-List-0.39.tar.gz
+Geo::Coder::List                   0.40  N/NH/NHORNE/Geo-Coder-List-0.40.tar.gz
 Geo::Coder::Many                   0.46  K/KA/KAORU/Geo-Coder-Many-0.46-5.tar.gz
 Geo::Coder::Many::Bing             0.02  K/KA/KAORU/Geo-Coder-Many-0.46-5.tar.gz
 Geo::Coder::Many::Generic          0.01  K/KA/KAORU/Geo-Coder-Many-0.46-5.tar.gz
