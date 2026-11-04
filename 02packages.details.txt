@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262744
-Last-Updated: Wed, 04 Nov 2026 10:29:02 GMT
+Last-Updated: Wed, 04 Nov 2026 10:54:36 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -44687,12 +44687,12 @@ Clang::Index                       0.09  A/AL/ALEXBIO/Clang-0.09.tar.gz
 Clang::TUnit                       0.09  A/AL/ALEXBIO/Clang-0.09.tar.gz
 Clang::Type                        0.09  A/AL/ALEXBIO/Clang-0.09.tar.gz
 Clang::TypeKind                    0.09  A/AL/ALEXBIO/Clang-0.09.tar.gz
-ClarID::Tools                      0.04  M/MR/MRUEDA/ClarID-Tools-0.04.tar.gz
-ClarID::Tools::Command::code      undef  M/MR/MRUEDA/ClarID-Tools-0.04.tar.gz
-ClarID::Tools::Command::qrcode    undef  M/MR/MRUEDA/ClarID-Tools-0.04.tar.gz
-ClarID::Tools::Command::validate  undef  M/MR/MRUEDA/ClarID-Tools-0.04.tar.gz
-ClarID::Tools::Util               undef  M/MR/MRUEDA/ClarID-Tools-0.04.tar.gz
-ClarID::Tools::Validator          undef  M/MR/MRUEDA/ClarID-Tools-0.04.tar.gz
+ClarID::Tools                      0.05  M/MR/MRUEDA/ClarID-Tools-0.05.tar.gz
+ClarID::Tools::Command::code      undef  M/MR/MRUEDA/ClarID-Tools-0.05.tar.gz
+ClarID::Tools::Command::qrcode    undef  M/MR/MRUEDA/ClarID-Tools-0.05.tar.gz
+ClarID::Tools::Command::validate  undef  M/MR/MRUEDA/ClarID-Tools-0.05.tar.gz
+ClarID::Tools::Util               undef  M/MR/MRUEDA/ClarID-Tools-0.05.tar.gz
+ClarID::Tools::Validator          undef  M/MR/MRUEDA/ClarID-Tools-0.05.tar.gz
 Clarion                            1.02  U/UK/UKOLOFF/Clarion-1.02.tar.gz
 ClarionUnlock                       1.0  A/AJ/AJDIXON/ClarionUnlock-1.0.tar.gz
 Clarity::XOG                      undef  S/SC/SCHWIGON/clarity/Clarity-XOG-Merge-1.001.tar.gz
