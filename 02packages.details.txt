@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262744
-Last-Updated: Wed, 04 Nov 2026 00:54:11 GMT
+Last-Updated: Wed, 04 Nov 2026 02:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -28659,7 +28659,7 @@ BioX::SeqUtils::Promoter::SaveTypes::Text 0.001001  C/CS/CSTEPHENE/BioX-SeqUtils
 BioX::SeqUtils::Promoter::Sequence 0.001001  C/CS/CSTEPHENE/BioX-SeqUtils-Promoter-0.1.1.tar.gz
 BioX::SeqUtils::Promoter::Sequences 0.001001  C/CS/CSTEPHENE/BioX-SeqUtils-Promoter-0.1.1.tar.gz
 BioX::SeqUtils::RandomSequence 0.009004  R/RO/ROGERHALL/BioX-SeqUtils-RandomSequence-0.94.tar.gz
-BioX::Tax::Kraken              0.002001  V/VO/VOLKENING/BioX-Tax-Kraken-0.002001.tar.gz
+BioX::Tax::Kraken              0.002002  V/VO/VOLKENING/BioX-Tax-Kraken-0.002002.tar.gz
 BioX::Workflow                     1.10  J/JI/JILLROWE/BioX-Workflow-1.10.tar.gz
 BioX::Workflow::Command        2.004001  J/JI/JILLROWE/BioX-Workflow-Command-2.4.1.tar.gz
 BioX::Workflow::Command::add      undef  J/JI/JILLROWE/BioX-Workflow-Command-2.4.1.tar.gz
