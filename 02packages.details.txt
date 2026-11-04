@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262745
-Last-Updated: Wed, 04 Nov 2026 12:41:02 GMT
+Last-Updated: Wed, 04 Nov 2026 14:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -144777,15 +144777,15 @@ Net::CUPS                          0.65  N/NI/NINE/Net-CUPS-0.65.tar.gz
 Net::CUPS::Destination             0.61  N/NI/NINE/Net-CUPS-0.65.tar.gz
 Net::CUPS::IPP                     0.61  N/NI/NINE/Net-CUPS-0.65.tar.gz
 Net::CUPS::PPD                     0.61  N/NI/NINE/Net-CUPS-0.65.tar.gz
-Net::Curl                          0.59  S/SY/SYP/Net-Curl-0.59.tar.gz
-Net::Curl::Compat                  4.15  S/SY/SYP/Net-Curl-0.59.tar.gz
+Net::Curl                          0.60  S/SY/SYP/Net-Curl-0.60.tar.gz
+Net::Curl::Compat                  4.15  S/SY/SYP/Net-Curl-0.60.tar.gz
 Net::Curl::Easier                  0.01  F/FE/FELIPE/Net-Curl-Easier-0.01.tar.gz
-Net::Curl::Easy                    0.59  S/SY/SYP/Net-Curl-0.59.tar.gz
-Net::Curl::Easy::Code              0.59  S/SY/SYP/Net-Curl-0.59.tar.gz
-Net::Curl::Form                    0.59  S/SY/SYP/Net-Curl-0.59.tar.gz
-Net::Curl::Form::Code              0.59  S/SY/SYP/Net-Curl-0.59.tar.gz
-Net::Curl::Multi                   0.59  S/SY/SYP/Net-Curl-0.59.tar.gz
-Net::Curl::Multi::Code             0.59  S/SY/SYP/Net-Curl-0.59.tar.gz
+Net::Curl::Easy                    0.60  S/SY/SYP/Net-Curl-0.60.tar.gz
+Net::Curl::Easy::Code              0.60  S/SY/SYP/Net-Curl-0.60.tar.gz
+Net::Curl::Form                    0.60  S/SY/SYP/Net-Curl-0.60.tar.gz
+Net::Curl::Form::Code              0.60  S/SY/SYP/Net-Curl-0.60.tar.gz
+Net::Curl::Multi                   0.60  S/SY/SYP/Net-Curl-0.60.tar.gz
+Net::Curl::Multi::Code             0.60  S/SY/SYP/Net-Curl-0.60.tar.gz
 Net::Curl::Multi::EV               0.08  K/KN/KNI/curl_ev-0.08.tar.gz
 Net::Curl::Parallel              v2.0.0  R/RK/RKINYON/Net-Curl-Parallel-2.0.0.tar.gz
 Net::Curl::Parallel::Response    v2.0.0  R/RK/RKINYON/Net-Curl-Parallel-2.0.0.tar.gz
@@ -144805,8 +144805,8 @@ Net::Curl::Promiser::LoopBase     undef  F/FE/FELIPE/Net-Curl-Promiser-0.21.tar.
 Net::Curl::Promiser::Mojo         undef  F/FE/FELIPE/Net-Curl-Promiser-0.21.tar.gz
 Net::Curl::Promiser::Mojo::FDFHStore undef  F/FE/FELIPE/Net-Curl-Promiser-0.06.tar.gz
 Net::Curl::Promiser::Select       undef  F/FE/FELIPE/Net-Curl-Promiser-0.21.tar.gz
-Net::Curl::Share                   0.59  S/SY/SYP/Net-Curl-0.59.tar.gz
-Net::Curl::Share::Code             0.59  S/SY/SYP/Net-Curl-0.59.tar.gz
+Net::Curl::Share                   0.60  S/SY/SYP/Net-Curl-0.60.tar.gz
+Net::Curl::Share::Code             0.60  S/SY/SYP/Net-Curl-0.60.tar.gz
 Net::Curl::Simple                  0.13  S/SP/SPARKY/Net-Curl-Simple-0.13.tar.gz
 Net::Curl::Simple::Async           0.13  S/SP/SPARKY/Net-Curl-Simple-0.13.tar.gz
 Net::Curl::Simple::Async::AnyEvent undef  S/SP/SPARKY/Net-Curl-Simple-0.13.tar.gz
