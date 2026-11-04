@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670293
+Line-Count:  670329
 Written-By:  PAUSE version 1.005
-Date:        Tue, 03 Nov 2026 19:29:39 GMT
+Date:        Wed, 04 Nov 2026 09:56:05 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -10044,9 +10044,12 @@ AnyEvent::Atom::Stream,MIYAGAWA,f
 AnyEvent::Atom::Stream::UserAgent,MIYAGAWA,f
 AnyEvent::BDB,MLEHMANN,f
 AnyEvent::Base,MLEHMANN,f
-AnyEvent::Beanstalk,GBARR,f
-AnyEvent::Beanstalk::Job,GBARR,f
-AnyEvent::Beanstalk::Stats,GBARR,f
+AnyEvent::Beanstalk,ADOPTME,f
+AnyEvent::Beanstalk,GBARR,c
+AnyEvent::Beanstalk::Job,ADOPTME,f
+AnyEvent::Beanstalk::Job,GBARR,c
+AnyEvent::Beanstalk::Stats,ADOPTME,f
+AnyEvent::Beanstalk::Stats,GBARR,c
 AnyEvent::Beanstalk::Worker,SCOTTW,f
 AnyEvent::BitTorrent,SANKO,f
 AnyEvent::Blackboard,TAG,f
@@ -39165,9 +39168,12 @@ BeamerReveal::Object,WDAEMS,f
 BeamerReveal::Object::BeamerFrame,WDAEMS,f
 BeamerReveal::Object::Presentation,WDAEMS,f
 BeamerReveal::TemplateStore,WDAEMS,f
-Beanstalk::Client,GBARR,f
-Beanstalk::Job,GBARR,f
-Beanstalk::Stats,GBARR,f
+Beanstalk::Client,ADOPTME,f
+Beanstalk::Client,GBARR,c
+Beanstalk::Job,ADOPTME,f
+Beanstalk::Job,GBARR,c
+Beanstalk::Stats,ADOPTME,f
+Beanstalk::Stats,GBARR,c
 Beautifier,TEUN,f
 BeePack,GETTY,f
 BeeSQL,SCOTTA,f
@@ -100370,24 +100376,41 @@ Convert::AnyBase::Carp,ROKR,f
 Convert::AnyBase::Converter,RKRIMEN,c
 Convert::AnyBase::Converter,ROKR,f
 Convert::Ascii85,MAUKE,f
-Convert::BER,GBARR,f
-Convert::BER::ANY,GBARR,f
-Convert::BER::BER,GBARR,f
-Convert::BER::BIT_STRING,GBARR,f
-Convert::BER::BIT_STRING8,GBARR,f
-Convert::BER::BOOLEAN,GBARR,f
-Convert::BER::CHOICE,GBARR,f
-Convert::BER::CONSTRUCTED,GBARR,f
-Convert::BER::INTEGER,GBARR,f
-Convert::BER::NULL,GBARR,f
-Convert::BER::OBJECT_ID,GBARR,f
-Convert::BER::OPTIONAL,GBARR,f
-Convert::BER::REAL,GBARR,f
-Convert::BER::SEQUENCE,GBARR,f
-Convert::BER::SEQUENCE_OF,GBARR,f
-Convert::BER::STRING,GBARR,f
+Convert::BER,ADOPTME,f
+Convert::BER,GBARR,c
+Convert::BER::ANY,ADOPTME,f
+Convert::BER::ANY,GBARR,c
+Convert::BER::BER,ADOPTME,f
+Convert::BER::BER,GBARR,c
+Convert::BER::BIT_STRING,ADOPTME,f
+Convert::BER::BIT_STRING,GBARR,c
+Convert::BER::BIT_STRING8,ADOPTME,f
+Convert::BER::BIT_STRING8,GBARR,c
+Convert::BER::BOOLEAN,ADOPTME,f
+Convert::BER::BOOLEAN,GBARR,c
+Convert::BER::CHOICE,ADOPTME,f
+Convert::BER::CHOICE,GBARR,c
+Convert::BER::CONSTRUCTED,ADOPTME,f
+Convert::BER::CONSTRUCTED,GBARR,c
+Convert::BER::INTEGER,ADOPTME,f
+Convert::BER::INTEGER,GBARR,c
+Convert::BER::NULL,ADOPTME,f
+Convert::BER::NULL,GBARR,c
+Convert::BER::OBJECT_ID,ADOPTME,f
+Convert::BER::OBJECT_ID,GBARR,c
+Convert::BER::OPTIONAL,ADOPTME,f
+Convert::BER::OPTIONAL,GBARR,c
+Convert::BER::REAL,ADOPTME,f
+Convert::BER::REAL,GBARR,c
+Convert::BER::SEQUENCE,ADOPTME,f
+Convert::BER::SEQUENCE,GBARR,c
+Convert::BER::SEQUENCE_OF,ADOPTME,f
+Convert::BER::SEQUENCE_OF,GBARR,c
+Convert::BER::STRING,ADOPTME,f
+Convert::BER::STRING,GBARR,c
 Convert::BER::XS,MLEHMANN,f
-Convert::BER::_Time_generic,GBARR,f
+Convert::BER::_Time_generic,ADOPTME,f
+Convert::BER::_Time_generic,GBARR,c
 Convert::Base32,ARISTOTLE,c
 Convert::Base32,IKEGAMI,c
 Convert::Base32,MIYAGAWA,f
@@ -106418,7 +106441,8 @@ DBIx::Class::Candy::ResultSet,FREW,f
 DBIx::Class::Candy::ResultSet,MAESTRO,c
 DBIx::Class::Candy::ResultSet,OVID,c
 DBIx::Class::Candy::ResultSet,WESM,c
-DBIx::Class::ColumnDefault,GBARR,f
+DBIx::Class::ColumnDefault,ADOPTME,f
+DBIx::Class::ColumnDefault,GBARR,c
 DBIx::Class::Componentised,NOXFER,c
 DBIx::Class::Componentised,RIBASUSHI,f
 DBIx::Class::CompressColumns,JESSESTAY,f
@@ -137958,7 +137982,8 @@ Encode::Argv,DMAKI,f
 Encode::BOCU1,NAOYAT,f
 Encode::BOCU1::XS,NAOYAT,f
 Encode::Base2N,SYBER,f
-Encode::Base32::Crockford,GBARR,f
+Encode::Base32::Crockford,ADOPTME,f
+Encode::Base32::Crockford,GBARR,c
 Encode::Base32::GMP,JWANG,f
 Encode::Base58,MIYAGAWA,f
 Encode::Base58::BigInt,SATOH,f
@@ -315803,7 +315828,8 @@ HTML::Mason::PSGIHandler::Streamy,RUZ,c
 HTML::Mason::Parser,DROLSKY,c
 HTML::Mason::Parser,JSWARTZ,f
 HTML::Mason::Parser,RJBS,c
-HTML::Mason::PlackHandler,GBARR,f
+HTML::Mason::PlackHandler,ADOPTME,f
+HTML::Mason::PlackHandler,GBARR,c
 HTML::Mason::Plugin,DROLSKY,c
 HTML::Mason::Plugin,JSWARTZ,f
 HTML::Mason::Plugin,RJBS,c
@@ -315849,8 +315875,10 @@ HTML::Mason::Request::Jifty,JESSE,f
 HTML::Mason::Request::Jifty,RUZ,c
 HTML::Mason::Request::PSGI,ABH,f
 HTML::Mason::Request::PSGI,RUZ,c
-HTML::Mason::Request::Plack,GBARR,f
-HTML::Mason::Request::Plack::Redirect,GBARR,f
+HTML::Mason::Request::Plack,ADOPTME,f
+HTML::Mason::Request::Plack,GBARR,c
+HTML::Mason::Request::Plack::Redirect,ADOPTME,f
+HTML::Mason::Request::Plack::Redirect,GBARR,c
 HTML::Mason::Request::WithApacheSession,DROLSKY,f
 HTML::Mason::Request::WithApacheSession,JSWARTZ,c
 HTML::Mason::Resolver,DROLSKY,c
@@ -378087,7 +378115,8 @@ Module::Install::Inline,INGY,f
 Module::Install::Inline,JESSE,c
 Module::Install::Inline,PJF,c
 Module::Install::InlineModule,INGY,f
-Module::Install::InstallDirs,GBARR,f
+Module::Install::InstallDirs,ADOPTME,f
+Module::Install::InstallDirs,GBARR,c
 Module::Install::JSONMETA,ADOPTME,f
 Module::Install::JSONMETA,RJBS,c
 Module::Install::MakeMaker,ADAMK,c
@@ -388812,8 +388841,10 @@ MooseX::Aliases::Meta::Trait::Role::ApplicationToRole,ADOPTME,f
 MooseX::Aliases::Meta::Trait::Role::ApplicationToRole,DOY,c
 MooseX::Aliases::Meta::Trait::Role::Composite,ADOPTME,f
 MooseX::Aliases::Meta::Trait::Role::Composite,DOY,c
-MooseX::Alien,GBARR,f
-MooseX::Alien::Meta,GBARR,f
+MooseX::Alien,ADOPTME,f
+MooseX::Alien,GBARR,c
+MooseX::Alien::Meta,ADOPTME,f
+MooseX::Alien::Meta,GBARR,c
 MooseX::AlwaysCoerce,ETHER,c
 MooseX::AlwaysCoerce,RKITOVER,f
 MooseX::AlwaysCoerce::Role::Meta::Attribute,ETHER,c
@@ -391279,7 +391310,8 @@ MooseX::Role::RelatedClassRoles,FLORA,c
 MooseX::Role::RelatedClassRoles,HDP,f
 MooseX::Role::RelatedClassRoles,PERIGRIN,c
 MooseX::Role::RelatedClassRoles,SARTAK,c
-MooseX::Role::Restricted,GBARR,f
+MooseX::Role::Restricted,ADOPTME,f
+MooseX::Role::Restricted,GBARR,c
 MooseX::Role::Searchable,GPHAT,f
 MooseX::Role::Strict,OVID,f
 MooseX::Role::Tempdir,IAMB,f
@@ -395733,7 +395765,8 @@ Nagios::Plugin::Base,GAVINC,c
 Nagios::Plugin::Base,HOLGER,c
 Nagios::Plugin::Base,NIERLEIN,f
 Nagios::Plugin::Base,TONVOON,c
-Nagios::Plugin::Beanstalk,GBARR,f
+Nagios::Plugin::Beanstalk,ADOPTME,f
+Nagios::Plugin::Beanstalk,GBARR,c
 Nagios::Plugin::ByGmond,CHENRYN,f
 Nagios::Plugin::CAS,DOUGDUDE,f
 Nagios::Plugin::CheckHost,UNDEF,f
@@ -395764,7 +395797,8 @@ Nagios::Plugin::Getopt,GAVINC,c
 Nagios::Plugin::Getopt,HOLGER,c
 Nagios::Plugin::Getopt,NIERLEIN,f
 Nagios::Plugin::Getopt,TONVOON,c
-Nagios::Plugin::LDAP,GBARR,f
+Nagios::Plugin::LDAP,ADOPTME,f
+Nagios::Plugin::LDAP,GBARR,c
 Nagios::Plugin::OverHTTP,DOUGDUDE,f
 Nagios::Plugin::OverHTTP::Formatter,DOUGDUDE,f
 Nagios::Plugin::OverHTTP::Formatter::Nagios::Auto,DOUGDUDE,f
@@ -541870,7 +541904,8 @@ Perlbal::Plugin::Throttle::Store::Memcached,BRADFITZ,f
 Perlbal::Plugin::Throttle::Store::Memcached,DORMANDO,c
 Perlbal::Plugin::Throttle::Store::Memory,BRADFITZ,f
 Perlbal::Plugin::Throttle::Store::Memory,DORMANDO,c
-Perlbal::Plugin::TrustHeader,GBARR,f
+Perlbal::Plugin::TrustHeader,ADOPTME,f
+Perlbal::Plugin::TrustHeader,GBARR,c
 Perlbal::Plugin::UrlGroup,NEKOKAK,f
 Perlbal::Plugin::Vhosts,BRADFITZ,f
 Perlbal::Plugin::Vhosts,DORMANDO,c
@@ -544780,7 +544815,8 @@ Plack::Middleware::Woothee,SONGMU,f
 Plack::Middleware::Woothee::Object,BAYASHI,c
 Plack::Middleware::Woothee::Object,SONGMU,f
 Plack::Middleware::Writer,MIYAGAWA,f
-Plack::Middleware::XForwardedFor,GBARR,f
+Plack::Middleware::XForwardedFor,ADOPTME,f
+Plack::Middleware::XForwardedFor,GBARR,c
 Plack::Middleware::XFrameOptions::All,GSLIN,f
 Plack::Middleware::XFramework,MIYAGAWA,f
 Plack::Middleware::XRay,FUJIWARA,f
