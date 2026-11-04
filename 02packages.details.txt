@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262746
-Last-Updated: Wed, 04 Nov 2026 20:29:02 GMT
+Line-Count:   262748
+Last-Updated: Wed, 04 Nov 2026 20:54:23 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -101756,13 +101756,13 @@ Ham::Resources::Utils              0.05  C/CJ/CJUAN/Ham-Resources-Utils-0.05.tar
 Ham::Scraper                        0.9  K/KW/KWITTMER/Ham-Scraper-0.9.tar.gz
 Ham::WorldMap                      0.01  D/DE/DEVZENDO/Ham-WorldMap-0.01.tar.gz
 Ham::WSJTX::Logparse               0.01  D/DE/DEVZENDO/Ham-WSJTX-Logparse-0.01.tar.gz
-HAMT                               0.03  L/LN/LNATION/HAMT-0.03.tar.gz
-HAMT::Map                          0.03  L/LN/LNATION/HAMT-0.03.tar.gz
-HAMT::Map::Transient               0.03  L/LN/LNATION/HAMT-0.03.tar.gz
-HAMT::Set                          0.03  L/LN/LNATION/HAMT-0.03.tar.gz
-HAMT::Set::Transient               0.03  L/LN/LNATION/HAMT-0.03.tar.gz
-HAMT::Vector                       0.03  L/LN/LNATION/HAMT-0.03.tar.gz
-HAMT::Vector::Transient            0.03  L/LN/LNATION/HAMT-0.03.tar.gz
+HAMT                               0.04  L/LN/LNATION/HAMT-0.04.tar.gz
+HAMT::Map                          0.04  L/LN/LNATION/HAMT-0.04.tar.gz
+HAMT::Map::Transient               0.04  L/LN/LNATION/HAMT-0.04.tar.gz
+HAMT::Set                          0.04  L/LN/LNATION/HAMT-0.04.tar.gz
+HAMT::Set::Transient               0.04  L/LN/LNATION/HAMT-0.04.tar.gz
+HAMT::Vector                       0.04  L/LN/LNATION/HAMT-0.04.tar.gz
+HAMT::Vector::Transient            0.04  L/LN/LNATION/HAMT-0.04.tar.gz
 Handel                          1.00014  C/CL/CLACO/Handel-1.00014.tar.gz
 Handel::Base                      undef  C/CL/CLACO/Handel-1.00014.tar.gz
 Handel::Cart                      undef  C/CL/CLACO/Handel-1.00014.tar.gz
@@ -121071,10 +121071,12 @@ LJ::Schedule::Vcal                  0.6  K/KI/KITTY/LJ-Schedule-0.6.tar.gz
 LJ::Simple                         0.15  S/SI/SIMES/LJ-Simple-0.15.tar.gz
 LLEval                             0.01  G/GF/GFUJI/LLEval-0.01.tar.gz
 LLEval::CLI                       undef  G/GF/GFUJI/LLEval-0.01.tar.gz
-LLM::API                         v1.0.1  B/BI/BIGFOOT/LLM-API-1.0.1.tar.gz
-LLM::API::Content                v1.0.1  B/BI/BIGFOOT/LLM-API-1.0.1.tar.gz
-LLM::API::Response               v1.0.0  B/BI/BIGFOOT/LLM-API-1.0.1.tar.gz
-LLM::API::Usage                  v1.0.0  B/BI/BIGFOOT/LLM-API-1.0.1.tar.gz
+LLM::API                         v2.0.0  B/BI/BIGFOOT/LLM-API-2.0.0.tar.gz
+LLM::API::Anthropic              v2.0.0  B/BI/BIGFOOT/LLM-API-2.0.0.tar.gz
+LLM::API::Bedrock                v2.0.0  B/BI/BIGFOOT/LLM-API-2.0.0.tar.gz
+LLM::API::Content                v2.0.0  B/BI/BIGFOOT/LLM-API-2.0.0.tar.gz
+LLM::API::Response               v1.0.0  B/BI/BIGFOOT/LLM-API-2.0.0.tar.gz
+LLM::API::Usage                  v1.0.0  B/BI/BIGFOOT/LLM-API-2.0.0.tar.gz
 LLM::SimpleClient                  0.01  K/KP/KPRISTINE/LLM-SimpleClient-0.01.tar.gz
 LLM::SimpleClient::HuggingFace     0.01  K/KP/KPRISTINE/LLM-SimpleClient-0.01.tar.gz
 LLM::SimpleClient::Mistral         0.01  K/KP/KPRISTINE/LLM-SimpleClient-0.01.tar.gz
