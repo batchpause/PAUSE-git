@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262745
-Last-Updated: Wed, 04 Nov 2026 17:17:01 GMT
+Line-Count:   262746
+Last-Updated: Wed, 04 Nov 2026 18:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -192021,6 +192021,7 @@ Perl::Critic::Policy::ValuesAndExpressions::ProhibitCommaSeparatedStatements 1.1
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitComplexVersion 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitConstantPragma 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitDefinedBeforeLength 0.002  T/TE/TEODESIAN/Perl-Critic-Policy-ValuesAndExpressions-ProhibitDefinedBeforeLength-0.002.tar.gz
+Perl::Critic::Policy::ValuesAndExpressions::ProhibitDescendingRanges 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-ValuesAndExpressions-ProhibitDescendingRanges-0.001.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitDuplicateHashKeys 100  K/KR/KRYDE/Perl-Critic-Pulp-100.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitEmptyCommas 100  K/KR/KRYDE/Perl-Critic-Pulp-100.tar.gz
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitEmptyPostfixLoop 0.001  X/XS/XSAWYERX/Perl-Critic-Policy-ValuesAndExpressions-ProhibitEmptyPostfixLoop-0.001.tar.gz
