@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262744
-Last-Updated: Wed, 04 Nov 2026 10:54:36 GMT
+Line-Count:   262745
+Last-Updated: Wed, 04 Nov 2026 11:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -198698,6 +198698,7 @@ PRANG::Util                        0.21  E/EG/EGILES/PRANG-0.21.tar.gz
 PRANG::XMLSchema::Types            0.21  E/EG/EGILES/PRANG-0.21.tar.gz
 PRANG::XMLSchema::Whatever         0.21  E/EG/EGILES/PRANG-0.21.tar.gz
 PrankCall                         0.004  L/LO/LOGIE/PrankCall-0.004.tar.gz
+Praxo::Core                      v0.1.1  H/HA/HANHUIWEN/Praxo-Core-0.1.1.tar.gz
 Predicate                         undef  A/AY/AYMULYAR/SemMed-Interface-0.05.tar.gz
 pref                              undef  T/TO/TOMC/scripts/ADVLABS/rprint/pref.pm.gz
 PrefixCompiler                        0  M/MA/MARKLEEUW/SVN-TeamTools-Indexer-0.002.tar.gz
