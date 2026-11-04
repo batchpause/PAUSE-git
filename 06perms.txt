@@ -5,7 +5,7 @@ Description: CSV file of upload permission to the CPAN per namespace
 Columns:     package,userid,best-permission
 Line-Count:  670331
 Written-By:  PAUSE version 1.005
-Date:        Wed, 04 Nov 2026 18:42:03 GMT
+Date:        Wed, 04 Nov 2026 19:41:07 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -428671,32 +428671,32 @@ PDL::MyInlineMod,KGB,c
 PDL::MyInlineMod,LUKKA,c
 PDL::MyInlineMod,PERLDL,c
 PDL::MyInlineMod,ZMUGHAL,c
-PDL::NDBin,EBAUDREZ,f
-PDL::NDBin,ETJ,c
+PDL::NDBin,EBAUDREZ,c
+PDL::NDBin,ETJ,f
 PDL::NDBin,ZMUGHAL,c
-PDL::NDBin::Action::Avg,EBAUDREZ,f
-PDL::NDBin::Action::Avg,ETJ,c
+PDL::NDBin::Action::Avg,EBAUDREZ,c
+PDL::NDBin::Action::Avg,ETJ,f
 PDL::NDBin::Action::Avg,ZMUGHAL,c
-PDL::NDBin::Action::CodeRef,EBAUDREZ,f
-PDL::NDBin::Action::CodeRef,ETJ,c
+PDL::NDBin::Action::CodeRef,EBAUDREZ,c
+PDL::NDBin::Action::CodeRef,ETJ,f
 PDL::NDBin::Action::CodeRef,ZMUGHAL,c
-PDL::NDBin::Action::Count,EBAUDREZ,f
-PDL::NDBin::Action::Count,ETJ,c
+PDL::NDBin::Action::Count,EBAUDREZ,c
+PDL::NDBin::Action::Count,ETJ,f
 PDL::NDBin::Action::Count,ZMUGHAL,c
-PDL::NDBin::Action::Max,EBAUDREZ,f
-PDL::NDBin::Action::Max,ETJ,c
+PDL::NDBin::Action::Max,EBAUDREZ,c
+PDL::NDBin::Action::Max,ETJ,f
 PDL::NDBin::Action::Max,ZMUGHAL,c
-PDL::NDBin::Action::Min,EBAUDREZ,f
-PDL::NDBin::Action::Min,ETJ,c
+PDL::NDBin::Action::Min,EBAUDREZ,c
+PDL::NDBin::Action::Min,ETJ,f
 PDL::NDBin::Action::Min,ZMUGHAL,c
-PDL::NDBin::Action::StdDev,EBAUDREZ,f
-PDL::NDBin::Action::StdDev,ETJ,c
+PDL::NDBin::Action::StdDev,EBAUDREZ,c
+PDL::NDBin::Action::StdDev,ETJ,f
 PDL::NDBin::Action::StdDev,ZMUGHAL,c
-PDL::NDBin::Action::Sum,EBAUDREZ,f
-PDL::NDBin::Action::Sum,ETJ,c
+PDL::NDBin::Action::Sum,EBAUDREZ,c
+PDL::NDBin::Action::Sum,ETJ,f
 PDL::NDBin::Action::Sum,ZMUGHAL,c
-PDL::NDBin::Iterator,EBAUDREZ,f
-PDL::NDBin::Iterator,ETJ,c
+PDL::NDBin::Iterator,EBAUDREZ,c
+PDL::NDBin::Iterator,ETJ,f
 PDL::NDBin::Iterator,ZMUGHAL,c
 PDL::NamedArgs,CAVANAUGH,f
 PDL::NetCDF,DHUNT,f
