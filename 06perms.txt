@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670370
+Line-Count:  670371
 Written-By:  PAUSE version 1.005
-Date:        Thu, 05 Nov 2026 19:55:29 GMT
+Date:        Thu, 05 Nov 2026 20:41:14 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -420470,6 +420470,7 @@ Oracle::SQL::Builder,GEOTIGER,f
 Oracle::SQLLoader,EZRA,f
 Oracle::Schema,GEOTIGER,f
 Oracle::Sqlldr,MCGREGOR,f
+Oracle::TNS,CADE,f
 Oracle::Trace,RFOLEY,f
 Oracle::Trace::Chunk,RFOLEY,f
 Oracle::Trace::Entry,RFOLEY,f
