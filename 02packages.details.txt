@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262784
-Last-Updated: Thu, 05 Nov 2026 15:29:01 GMT
+Last-Updated: Thu, 05 Nov 2026 15:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -104395,7 +104395,7 @@ HTML::Object::XPath::Step      0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::XPath::Variable  0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::XQuery           0.004001  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Obliterate                    0.3  D/DM/DMUEY/HTML-Obliterate-0.3.tar.gz
-HTML::OSM                          0.13  N/NH/NHORNE/HTML-OSM-0.13.tar.gz
+HTML::OSM                          0.14  N/NH/NHORNE/HTML-OSM-0.14.tar.gz
 HTML::Packer                       2.12  L/LE/LEEJO/HTML-Packer-2.12.tar.gz
 HTML::PageIndex                     0.3  K/KM/KMELTZ/HTML-PageIndex-0.3.tar.gz
 HTML::Pager                        0.03  S/SA/SAMTREGAR/HTML-Pager-0.03.tar.gz
