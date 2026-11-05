@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262784
-Last-Updated: Thu, 05 Nov 2026 09:54:13 GMT
+Last-Updated: Thu, 05 Nov 2026 12:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -84565,7 +84565,7 @@ Garivini::DB                      undef  D/DO/DORMANDO/Garivini-0.002.tar.gz
 Garivini::Injector                undef  D/DO/DORMANDO/Garivini-0.002.tar.gz
 Garivini::QueueRunner             undef  D/DO/DORMANDO/Garivini-0.002.tar.gz
 Gas::Prices                    0.000004  A/AS/ASHOOOO/Gas-Prices-0.0.4.tar.gz
-Gazelle                            0.50  K/KA/KAZEBURO/Gazelle-0.50.tar.gz
+Gazelle                            0.51  K/KA/KAZEBURO/Gazelle-0.51.tar.gz
 GB18030                            1.15  I/IN/INA/Char/GB18030/Char-GB18030-1.15.tar.gz
 gb64                                1.0  D/DO/DOMERO/gb64-1.0.0.tar.gz
 GBK                                1.22  I/IN/INA/GBK/GBK-1.22.tar.gz
@@ -194689,7 +194689,7 @@ Plack::Handler::FCGI::EV::Handler  0.01  M/MI/MIYAGAWA/Plack-Handler-FCGI-EV-0.0
 Plack::Handler::Feersum           undef  E/EG/EGOR/Feersum-1.509.tar.gz
 Plack::Handler::Feersum::SS        0.06  E/EG/EGOR/Plack-Handler-Feersum-SS-0.06.tar.gz
 Plack::Handler::Fliggy            undef  V/VT/VTI/Fliggy-0.009003.tar.gz
-Plack::Handler::Gazelle            0.50  K/KA/KAZEBURO/Gazelle-0.50.tar.gz
+Plack::Handler::Gazelle            0.51  K/KA/KAZEBURO/Gazelle-0.51.tar.gz
 Plack::Handler::Gepok             0.292  P/PE/PERLANCAR/Gepok-0.292.tar.gz
 Plack::Handler::H2             0.000005  R/RA/RAWLEYFOW/Plack-Handler-H2-0.0.5.tar.gz
 Plack::Handler::H2::Writer        undef  R/RA/RAWLEYFOW/Plack-Handler-H2-0.0.5.tar.gz
