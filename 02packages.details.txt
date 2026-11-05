@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262784
-Last-Updated: Thu, 05 Nov 2026 08:29:02 GMT
+Last-Updated: Thu, 05 Nov 2026 09:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -24586,7 +24586,7 @@ Bigtop::ScriptHelp::Style::Pg8Live undef  P/PH/PHILCROW/Bigtop-0.38.tar.gz
 Bigtop::TentMaker                 undef  P/PH/PHILCROW/Bigtop-0.38.tar.gz
 Bigtop::TentMakerPath             undef  P/PH/PHILCROW/Bigtop-0.38.tar.gz
 Bijection                          1.03  L/LN/LNATION/Bijection-1.03.tar.gz
-Bijection::XS                      0.11  L/LN/LNATION/Bijection-XS-0.11.tar.gz
+Bijection::XS                      0.12  L/LN/LNATION/Bijection-XS-0.12.tar.gz
 BikePower                          0.33  S/SR/SREZIC/BikePower-0.33.tar.gz
 BikePower::HTML                    0.02  S/SR/SREZIC/BikePower-0.33.tar.gz
 BikePower::Tk                      0.04  S/SR/SREZIC/BikePower-0.33.tar.gz
