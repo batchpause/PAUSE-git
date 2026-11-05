@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670333
+Line-Count:  670364
 Written-By:  PAUSE version 1.005
-Date:        Wed, 04 Nov 2026 20:55:46 GMT
+Date:        Thu, 05 Nov 2026 01:18:26 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -10412,6 +10412,8 @@ AnyEvent::MCP::Config,MLEHMANN,f
 AnyEvent::MCP::Extension,MLEHMANN,f
 AnyEvent::MCP::File,MLEHMANN,f
 AnyEvent::MCP::Helper,MLEHMANN,f
+AnyEvent::MCP::IMAP::OAuth2,MLEHMANN,f
+AnyEvent::MCP::IMAP::Providers,MLEHMANN,f
 AnyEvent::MCP::Permissions::Ask,MLEHMANN,f
 AnyEvent::MCP::Server,MLEHMANN,f
 AnyEvent::MCP::Server::Connect,MLEHMANN,f
@@ -349715,6 +349717,35 @@ LinkTree,CHIPS,f
 Link_Controller,MIKEDLR,c
 LinkedList::Single,LEMBARK,f
 LinkedList::Single::Doc,LEMBARK,f
+LinkedList::Single::Example::Bench,LEMBARK,f
+LinkedList::Single::Example::Handoff,LEMBARK,f
+LinkedList::Single::Example::Handoff::Array,LEMBARK,f
+LinkedList::Single::Example::Handoff::Marked,LEMBARK,f
+LinkedList::Single::Example::Handoff::POD,LEMBARK,f
+LinkedList::Single::Example::LRU,LEMBARK,f
+LinkedList::Single::Example::LRU::Array,LEMBARK,f
+LinkedList::Single::Example::LRU::Lazy,LEMBARK,f
+LinkedList::Single::Example::LRU::Order,LEMBARK,f
+LinkedList::Single::Example::LRU::POD,LEMBARK,f
+LinkedList::Single::Example::Latency,LEMBARK,f
+LinkedList::Single::Example::Lock,LEMBARK,f
+LinkedList::Single::Example::Ordered,LEMBARK,f
+LinkedList::Single::Example::Ordered::Buckets,LEMBARK,f
+LinkedList::Single::Example::Ordered::Hash,LEMBARK,f
+LinkedList::Single::Example::Ordered::POD,LEMBARK,f
+LinkedList::Single::Example::Ordered::Sorted,LEMBARK,f
+LinkedList::Single::Example::POD,LEMBARK,f
+LinkedList::Single::Example::Probe,LEMBARK,f
+LinkedList::Single::Example::SlidingWindow,LEMBARK,f
+LinkedList::Single::Example::SlidingWindow::Array,LEMBARK,f
+LinkedList::Single::Example::SlidingWindow::POD,LEMBARK,f
+LinkedList::Single::Example::SortedMerge,LEMBARK,f
+LinkedList::Single::Example::SortedMerge::Array,LEMBARK,f
+LinkedList::Single::Example::SortedMerge::POD,LEMBARK,f
+LinkedList::Single::Example::Timer,LEMBARK,f
+LinkedList::Single::Example::Timer::Array,LEMBARK,f
+LinkedList::Single::Example::Timer::POD,LEMBARK,f
+LinkedList::Single::Examples,LEMBARK,f
 LinkedList::Single::TestUtil,LEMBARK,f
 Linkedin::OAuth2,AKS,f
 Linksys::Config,JTAVARES,f
