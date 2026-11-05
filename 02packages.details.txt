@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262784
-Last-Updated: Thu, 05 Nov 2026 14:29:02 GMT
+Last-Updated: Thu, 05 Nov 2026 15:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -44706,7 +44706,7 @@ Clarity::XOG::Command::merge      undef  S/SC/SCHWIGON/clarity/Clarity-XOG-Merge
 Clarity::XOG::Command::selftest   undef  S/SC/SCHWIGON/clarity/Clarity-XOG-Merge-1.001.tar.gz
 Clarity::XOG::Merge               1.001  S/SC/SCHWIGON/clarity/Clarity-XOG-Merge-1.001.tar.gz
 CLASS                          1.001008  J/JD/JDEGUEST/CLASS-v1.1.8.tar.gz
-Class::Abstract                    0.02  N/NH/NHORNE/Class-Abstract-0.02.tar.gz
+Class::Abstract                    0.03  N/NH/NHORNE/Class-Abstract-0.03.tar.gz
 Class::Accessor                    0.51  K/KA/KASEI/Class-Accessor-0.51.tar.gz
 Class::Accessor::Array            0.032  P/PE/PERLANCAR/Class-Accessor-Array-0.032.tar.gz
 Class::Accessor::Array::Glob       0.01  P/PE/PERLANCAR/Class-Accessor-Array-Glob-0.01.tar.gz
@@ -199356,18 +199356,18 @@ Proc::Safetynet::RpcSession::Simple undef  D/DT/DTADY/Proc-Safetynet-0.04.tar.gz
 Proc::Safetynet::Supervisor       undef  D/DT/DTADY/Proc-Safetynet-0.04.tar.gz
 Proc::Scoreboard                    1.1  M/MK/MKUL/Proc-Application-0.01.tar.gz
 Proc::Scoreboard::Dir               1.1  M/MK/MKUL/Proc-Application-0.01.tar.gz
-Proc::ShellSpawn                   0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
-Proc::ShellSpawn::Builtins         0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
-Proc::ShellSpawn::Large            0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
-Proc::ShellSubset                  0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
-Proc::ShellSubset::Large           0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
-Proc::ShellSubset::Small           0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
+Proc::ShellSpawn                   0.05  I/IL/ILYAZ/modules/Proc-Spawner-0.05.zip
+Proc::ShellSpawn::Builtins         0.05  I/IL/ILYAZ/modules/Proc-Spawner-0.05.zip
+Proc::ShellSpawn::Large            0.05  I/IL/ILYAZ/modules/Proc-Spawner-0.05.zip
+Proc::ShellSubset                  0.05  I/IL/ILYAZ/modules/Proc-Spawner-0.05.zip
+Proc::ShellSubset::Large           0.05  I/IL/ILYAZ/modules/Proc-Spawner-0.05.zip
+Proc::ShellSubset::Small           0.05  I/IL/ILYAZ/modules/Proc-Spawner-0.05.zip
 Proc::Short                        0.01  J/JH/JHKIM/Proc-Short-0.01.tar.gz
 Proc::Simple                       1.32  M/MS/MSCHILLI/Proc-Simple-1.32.tar.gz
 Proc::Simple::Async                0.03  B/BE/BERLE/Proc-Simple-Async-0.03.tar.gz
 Proc::Spawn                        1.03  G/GA/GARROW/Proc-Spawn-1.03.tar.gz
-Proc::Spawner                      0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
-Proc::Spawner::Graph               0.04  I/IL/ILYAZ/modules/Proc-Spawner-0.04.zip
+Proc::Spawner                      0.05  I/IL/ILYAZ/modules/Proc-Spawner-0.05.zip
+Proc::Spawner::Graph               0.05  I/IL/ILYAZ/modules/Proc-Spawner-0.05.zip
 Proc::Stat                         0.03  M/MI/MIKER/Proc-Stat-0.03.tar.gz
 Proc::Supervised::Convenience      1.01  R/RH/RHESA/Proc-Supervised-Convenience-1.01.tar.gz
 Proc::Swarm                    1.161060  D/DI/DIEDERICH/Proc-Swarm-1.161060.tar.gz
