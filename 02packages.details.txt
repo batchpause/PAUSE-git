@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262748
-Last-Updated: Wed, 04 Nov 2026 23:41:02 GMT
+Last-Updated: Thu, 05 Nov 2026 00:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -199220,7 +199220,7 @@ Proc::FastSpawn                     1.2  M/ML/MLEHMANN/Proc-FastSpawn-1.2.tar.gz
 Proc::Find                        0.051  P/PE/PERLANCAR/Proc-Find-0.051.tar.gz
 Proc::Find::Parents               0.631  P/PE/PERLANCAR/Proc-Find-Parents-0.631.tar.gz
 Proc::Fork                        0.808  A/AR/ARISTOTLE/Proc-Fork-0.808.tar.gz
-Proc::Fork::Control                 1.6  C/CF/CFABER/Proc-Fork-Control-1.6.tar.gz
+Proc::Fork::Control                 1.7  C/CF/CFABER/Proc-Fork-Control-1.7.tar.gz
 Proc::Forkfunc                 96.041701  M/MU/MUIR/modules/Proc-Forkfunc-96.042201.tar.gz
 Proc::Forking                      1.50  F/FD/FDULAU/Proc-Forking-1.50.tar.gz
 Proc::Forkmap                    0.2305  T/TR/TRSKI/Proc-Forkmap-0.2305.tar.gz
