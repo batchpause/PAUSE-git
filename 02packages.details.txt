@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262784
-Last-Updated: Thu, 05 Nov 2026 08:17:02 GMT
+Last-Updated: Thu, 05 Nov 2026 08:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -85066,7 +85066,7 @@ Gears::Context                    0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
 Gears::Controller                 0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
 Gears::Generator                  0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
 Gears::Logger                     0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
-Gears::Logger::Handler            0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
+Gears::Logger::Handler            0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
 Gears::Router                     0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
 Gears::Router::Location           0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
 Gears::Router::Location::Match    0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
@@ -85077,14 +85077,14 @@ Gears::Router::Pattern::Match     0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
 Gears::Router::Pattern::SigilMatch 0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
 Gears::Router::Proto              0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
 Gears::Template                   0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
-Gears::Template::TT               0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
+Gears::Template::TT               0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
 Gears::X                          0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
 Gears::X::Config                  0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
 Gears::X::Generator               0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
 Gears::X::HTTP                    0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
 Gears::X::Logger                  0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
 Gears::X::Template                0.104  B/BR/BRTASTIC/Gears-0.104.tar.gz
-Gears::X::Thunderhorse            0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
+Gears::X::Thunderhorse            0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
 Gedcom                             1.22  P/PJ/PJCJ/Gedcom-1.22.tar.gz
 Gedcom::CGI                        1.22  P/PJ/PJCJ/Gedcom-1.22.tar.gz
 Gedcom::Comparison                 1.22  P/PJ/PJCJ/Gedcom-1.22.tar.gz
@@ -228702,7 +228702,7 @@ Test2::Roo::Class                 1.005  D/DJ/DJERIUS/Test2-Roo-1.005.tar.gz
 Test2::Roo::Cookbook              1.005  D/DJ/DJERIUS/Test2-Roo-1.005.tar.gz
 Test2::Roo::Role                  1.005  D/DJ/DJERIUS/Test2-Roo-1.005.tar.gz
 Test2::Suite                   1.302226  E/EX/EXODIST/Test-Simple-1.302226.tar.gz
-Test2::Thunderhorse               0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
+Test2::Thunderhorse               0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
 Test2::Todo                    1.302226  E/EX/EXODIST/Test-Simple-1.302226.tar.gz
 Test2::Tools                   1.302226  E/EX/EXODIST/Test-Simple-1.302226.tar.gz
 Test2::Tools::AfterSubtest        undef  S/SH/SHUMPHREY/Test2-Tools-AfterSubtest-0.001.tar.gz
@@ -233920,26 +233920,26 @@ Throwable::X                      0.008  R/RJ/RJBS/Throwable-X-0.008.tar.gz
 Throwable::X::Types               0.008  R/RJ/RJBS/Throwable-X-0.008.tar.gz
 Thrust                            0.200  F/FR/FRACTAL/Thrust-0.200.tar.gz
 Thrust::Window                    undef  F/FR/FRACTAL/Thrust-0.200.tar.gz
-Thunderhorse                      0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::App                 0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::AppController       0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Autoloadable        0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Config              0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Context             0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Context::Facade     0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Controller          0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Message             0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Module              0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Module::Logger      0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Module::Middleware  0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Module::Template    0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Request             0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Response            0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Router              0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Router::Location    0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::Router::SpecializedCache 0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::SSE                 0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
-Thunderhorse::WebSocket           0.106  B/BR/BRTASTIC/Thunderhorse-0.106.tar.gz
+Thunderhorse                      0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::App                 0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::AppController       0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Autoloadable        0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Config              0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Context             0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Context::Facade     0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Controller          0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Message             0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Module              0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Module::Logger      0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Module::Middleware  0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Module::Template    0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Request             0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Response            0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Router              0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Router::Location    0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::Router::SpecializedCache 0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::SSE                 0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
+Thunderhorse::WebSocket           0.107  B/BR/BRTASTIC/Thunderhorse-0.107.tar.gz
 Tibco::Rv                          1.15  S/ST/STURM/Tibco-Rv-1.15.tar.gz
 Tibco::Rv::Cm::Listener            1.12  S/ST/STURM/Tibco-Rv-1.15.tar.gz
 Tibco::Rv::Cm::Msg                 1.02  S/ST/STURM/Tibco-Rv-1.15.tar.gz
