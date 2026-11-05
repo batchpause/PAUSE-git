@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262784
-Last-Updated: Thu, 05 Nov 2026 17:54:08 GMT
+Last-Updated: Thu, 05 Nov 2026 19:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -44385,7 +44385,7 @@ Chronos::Action::UserPrefs        undef  S/SI/SIMONP/chronos-1.1.6.1.tar.gz
 Chronos::Authen                   undef  S/SI/SIMONP/chronos-1.1.6.1.tar.gz
 Chronos::Static                1.001006  S/SI/SIMONP/chronos-1.1.6.1.tar.gz
 Chucker                           undef  S/SA/SAMTREGAR/XML-Filter-ExceptionLocator-1.01.tar.gz
-Chunkstrumenter                   undef  M/MS/MSTROUT/SQL-Abstract-2.000001.tar.gz
+Chunkstrumenter                   undef  G/GE/GETTY/SQL-Abstract-2.000002.tar.gz
 CIAO::Lib::Param                   0.09  D/DJ/DJERIUS/CIAO-Lib-Param-0.09.tar.gz
 CIAO::Lib::Param::Error            0.09  D/DJ/DJERIUS/CIAO-Lib-Param-0.09.tar.gz
 CIAO::Lib::StackIO                 0.02  D/DJ/DJERIUS/CIAO-Lib-StackIO-0.02.tar.gz
@@ -220291,11 +220291,11 @@ SPVM::UV::StdioContainer          undef  K/KI/KIMOTO/SPVM-UV-0.004.tar.gz
 SQ                               v0.0.6  S/SH/SHLOMIF/SQ-0.0.6.tar.gz
 Sqids                              0.03  M/MY/MYSOCIETY/Sqids-0.03.tar.gz
 Sqids::Constants                  undef  M/MY/MYSOCIETY/Sqids-0.03.tar.gz
-SQL::Abstract                  2.000001  M/MS/MSTROUT/SQL-Abstract-2.000001.tar.gz
+SQL::Abstract                  2.000002  G/GE/GETTY/SQL-Abstract-2.000002.tar.gz
 SQL::Abstract::Builder         0.001001  T/TR/TRON/SQL-Abstract-Builder-v0.1.1.tar.gz
 SQL::Abstract::Classic             1.91  R/RI/RIBASUSHI/SQL-Abstract-Classic-1.91.tar.gz
 SQL::Abstract::Complete            1.12  G/GR/GRYPHON/SQL-Abstract-Complete-1.12.tar.gz
-SQL::Abstract::Formatter          undef  M/MS/MSTROUT/SQL-Abstract-2.000001.tar.gz
+SQL::Abstract::Formatter          undef  G/GE/GETTY/SQL-Abstract-2.000002.tar.gz
 SQL::Abstract::FromQuery           0.11  D/DA/DAMI/SQL-Abstract-FromQuery-0.11.tar.gz
 SQL::Abstract::FromQuery::Contains undef  D/DA/DAMI/SQL-Abstract-FromQuery-0.11.tar.gz
 SQL::Abstract::FromQuery::FR      undef  D/DA/DAMI/SQL-Abstract-FromQuery-0.11.tar.gz
@@ -220303,18 +220303,18 @@ SQL::Abstract::FromQuery::Oracle  undef  D/DA/DAMI/SQL-Abstract-FromQuery-0.11.t
 SQL::Abstract::Limit              0.143  A/AS/ASB/SQL-Abstract-Limit-0.143.tar.gz
 SQL::Abstract::More                1.44  D/DA/DAMI/SQL-Abstract-More-1.44.tar.gz
 SQL::Abstract::mysql              undef  J/JH/JHTHORSEN/Mojo-mysql-1.28.tar.gz
-SQL::Abstract::Parts              undef  M/MS/MSTROUT/SQL-Abstract-2.000001.tar.gz
+SQL::Abstract::Parts              undef  G/GE/GETTY/SQL-Abstract-2.000002.tar.gz
 SQL::Abstract::Pg                  1.01  S/SR/SRI/SQL-Abstract-Pg-1.01.tar.gz
-SQL::Abstract::Plugin::BangOverrides undef  M/MS/MSTROUT/SQL-Abstract-2.000001.tar.gz
-SQL::Abstract::Plugin::ExtraClauses undef  M/MS/MSTROUT/SQL-Abstract-2.000001.tar.gz
+SQL::Abstract::Plugin::BangOverrides undef  G/GE/GETTY/SQL-Abstract-2.000002.tar.gz
+SQL::Abstract::Plugin::ExtraClauses undef  G/GE/GETTY/SQL-Abstract-2.000002.tar.gz
 SQL::Abstract::Plugin::InsertMulti 0.05  Z/ZI/ZIGOROU/SQL-Abstract-Plugin-InsertMulti-0.05.tar.gz
 SQL::Abstract::Plugin::InsertReturning 0.05  C/CY/CYCLES/SQL-Abstract-Plugin-InsertReturning-0.05.tar.gz
 SQL::Abstract::Plugin::TableAlias  0.06  L/LN/LNATION/SQL-Abstract-Plugin-TableAlias-0.06.tar.gz
 SQL::Abstract::Prefetch           0.003  E/ET/ETJ/SQL-Abstract-Prefetch-0.003.tar.gz
-SQL::Abstract::Reference          undef  M/MS/MSTROUT/SQL-Abstract-2.000001.tar.gz
-SQL::Abstract::Role::Plugin       undef  M/MS/MSTROUT/SQL-Abstract-2.000001.tar.gz
-SQL::Abstract::Test               undef  M/MS/MSTROUT/SQL-Abstract-2.000001.tar.gz
-SQL::Abstract::Tree               undef  M/MS/MSTROUT/SQL-Abstract-2.000001.tar.gz
+SQL::Abstract::Reference          undef  G/GE/GETTY/SQL-Abstract-2.000002.tar.gz
+SQL::Abstract::Role::Plugin       undef  G/GE/GETTY/SQL-Abstract-2.000002.tar.gz
+SQL::Abstract::Test               undef  G/GE/GETTY/SQL-Abstract-2.000002.tar.gz
+SQL::Abstract::Tree               undef  G/GE/GETTY/SQL-Abstract-2.000002.tar.gz
 SQL::Abstract::Util               undef  R/RI/RIBASUSHI/SQL-Abstract-Classic-1.91.tar.gz
 SQL::Abstract::WithLimit       0.000009  M/MI/MISHOO/DBIx-OO-0.0.9.tar.gz
 SQL::Admin                       v0.5.0  B/BA/BARNEY/SQL-Admin-v0.5.0.tar.gz
