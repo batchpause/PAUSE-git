@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262784
-Last-Updated: Thu, 05 Nov 2026 09:17:02 GMT
+Last-Updated: Thu, 05 Nov 2026 09:54:13 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -206054,12 +206054,12 @@ Router::Pygmy::Route               0.05  D/DA/DANIELR/Router-Pygmy-0.05.tar.gz
 Router::R3                     0.011001  C/CI/CINDY/Router-R3-0.011001.tar.gz
 Router::Ragel                      0.06  E/EG/EGOR/Router-Ragel-0.06.tar.gz
 Router::Resource                   0.22  A/AR/ARISTOTLE/Router-Resource-0.22.tar.gz
-Router::Simple                     0.17  T/TO/TOKUHIROM/Router-Simple-0.17.tar.gz
-Router::Simple::Declare           undef  T/TO/TOKUHIROM/Router-Simple-0.17.tar.gz
+Router::Simple                     0.18  T/TO/TOKUHIROM/Router-Simple-0.18.tar.gz
+Router::Simple::Declare           undef  T/TO/TOKUHIROM/Router-Simple-0.18.tar.gz
 Router::Simple::Reversible         0.02  P/PA/PAPIX/Router-Simple-Reversible-0.02.tar.gz
-Router::Simple::Route             undef  T/TO/TOKUHIROM/Router-Simple-0.17.tar.gz
+Router::Simple::Route             undef  T/TO/TOKUHIROM/Router-Simple-0.18.tar.gz
 Router::Simple::Sinatraish         0.03  T/TO/TOKUHIROM/Router-Simple-Sinatraish-0.03.tar.gz
-Router::Simple::SubMapper         undef  T/TO/TOKUHIROM/Router-Simple-0.17.tar.gz
+Router::Simple::SubMapper         undef  T/TO/TOKUHIROM/Router-Simple-0.18.tar.gz
 Router::XS                         0.02  D/DF/DFARRELL/Router-XS-0.02.tar.gz
 RouterBase                         0.01  S/SA/SAMUEL/IPDevice-0.03.tar.gz
 RouterBase::Atom                   0.01  S/SA/SAMUEL/IPDevice-0.03.tar.gz
