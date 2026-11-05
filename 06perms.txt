@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670371
+Line-Count:  670375
 Written-By:  PAUSE version 1.005
-Date:        Thu, 05 Nov 2026 20:41:14 GMT
+Date:        Thu, 05 Nov 2026 23:18:17 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -542945,12 +542945,15 @@ Physics::Electrodeposition::CopperPlating,JOVAN,f
 Physics::Electrodeposition::GDSII,JOVAN,f
 Physics::Electrodeposition::Pattern,JOVAN,f
 Physics::Ellipsometry::VASE,JOVAN,f
+Physics::Ellipsometry::VASE::Anisotropy,JOVAN,f
 Physics::Ellipsometry::VASE::Dispersion,JOVAN,f
 Physics::Ellipsometry::VASE::EMA,JOVAN,f
+Physics::Ellipsometry::VASE::MagnetoOptic,JOVAN,f
 Physics::Ellipsometry::VASE::Materials,JOVAN,f
 Physics::Ellipsometry::VASE::Optimizer,JOVAN,f
 Physics::Ellipsometry::VASE::Parameter,JOVAN,f
 Physics::Ellipsometry::VASE::TMM,JOVAN,f
+Physics::Ellipsometry::VASE::Temperature,JOVAN,f
 Physics::Etch,JOVAN,f
 Physics::Etch::Chamber,JOVAN,f
 Physics::Etch::DryEtch,JOVAN,f
@@ -625186,6 +625189,7 @@ UUID::Random::Secure,PERLANCAR,f
 UUID::Tiny,CAUGUSTIN,f
 UUID::Tiny::Patch::UseMRS,PERLANCAR,f
 UUID::URandom,DAGOLDEN,f
+UUID::V7,LEONT,f
 UV,CAPOEIRAB,c
 UV,PEVANS,c
 UV,TYPESTER,f

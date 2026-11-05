@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262786
-Last-Updated: Thu, 05 Nov 2026 22:54:07 GMT
+Line-Count:   262790
+Last-Updated: Thu, 05 Nov 2026 23:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -190010,7 +190010,7 @@ PDL::Demos                        undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Demos::BAD_demo              undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Demos::Cartography_demo      undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Demos::DSPWindows            0.103  E/ET/ETJ/PDL-DSP-Windows-0.103.tar.gz
-PDL::Demos::Ellipsometry          undef  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.03.tar.gz
+PDL::Demos::Ellipsometry          undef  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.04.tar.gz
 PDL::Demos::Func_demo             undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Demos::General               undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Demos::Gnuplot               undef  E/ET/ETJ/PDL-Graphics-Gnuplot-2.033.tar.gz
@@ -193855,13 +193855,16 @@ Physics::Electrodeposition         1.01  J/JO/JOVAN/Physics-Electrodeposition-1.
 Physics::Electrodeposition::CopperPlating 0.01  J/JO/JOVAN/Physics-Electrodeposition-1.01.tar.gz
 Physics::Electrodeposition::GDSII  1.00  J/JO/JOVAN/Physics-Electrodeposition-1.01.tar.gz
 Physics::Electrodeposition::Pattern 1.00  J/JO/JOVAN/Physics-Electrodeposition-1.01.tar.gz
-Physics::Ellipsometry::VASE        1.03  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.03.tar.gz
-Physics::Ellipsometry::VASE::Dispersion 1.03  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.03.tar.gz
-Physics::Ellipsometry::VASE::EMA   1.03  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.03.tar.gz
-Physics::Ellipsometry::VASE::Materials 1.03  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.03.tar.gz
-Physics::Ellipsometry::VASE::Optimizer 1.03  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.03.tar.gz
-Physics::Ellipsometry::VASE::Parameter 1.03  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.03.tar.gz
-Physics::Ellipsometry::VASE::TMM   1.03  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.03.tar.gz
+Physics::Ellipsometry::VASE        1.04  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.04.tar.gz
+Physics::Ellipsometry::VASE::Anisotropy 1.04  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.04.tar.gz
+Physics::Ellipsometry::VASE::Dispersion 1.04  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.04.tar.gz
+Physics::Ellipsometry::VASE::EMA   1.04  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.04.tar.gz
+Physics::Ellipsometry::VASE::MagnetoOptic 1.04  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.04.tar.gz
+Physics::Ellipsometry::VASE::Materials 1.04  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.04.tar.gz
+Physics::Ellipsometry::VASE::Optimizer 1.04  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.04.tar.gz
+Physics::Ellipsometry::VASE::Parameter 1.04  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.04.tar.gz
+Physics::Ellipsometry::VASE::Temperature 1.04  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.04.tar.gz
+Physics::Ellipsometry::VASE::TMM   1.04  J/JO/JOVAN/Physics-Ellipsometry-VASE-1.04.tar.gz
 Physics::Etch                      0.02  J/JO/JOVAN/Physics-Etch-0.02.tar.gz
 Physics::Etch::Chamber             0.02  J/JO/JOVAN/Physics-Etch-0.02.tar.gz
 Physics::Etch::DryEtch             0.02  J/JO/JOVAN/Physics-Etch-0.02.tar.gz
@@ -239571,6 +239574,7 @@ UUID::Random::Secure              0.004  P/PE/PERLANCAR/UUID-Random-Secure-0.004
 UUID::Tiny                         1.04  C/CA/CAUGUSTIN/UUID-Tiny-1.04.tar.gz
 UUID::Tiny::Patch::UseMRS         0.002  P/PE/PERLANCAR/UUID-Tiny-Patch-UseMRS-0.002.tar.gz
 UUID::URandom                     0.001  D/DA/DAGOLDEN/UUID-URandom-0.001.tar.gz
+UUID::V7                          0.001  L/LE/LEONT/UUID-V7-0.001.tar.gz
 UV                                2.002  P/PE/PEVANS/UV-2.002.tar.gz
 UV::Async                         2.002  P/PE/PEVANS/UV-2.002.tar.gz
 UV::Check                         2.002  P/PE/PEVANS/UV-2.002.tar.gz
