@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262784
-Last-Updated: Thu, 05 Nov 2026 19:29:02 GMT
+Line-Count:   262785
+Last-Updated: Thu, 05 Nov 2026 19:54:11 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -191633,6 +191633,7 @@ Perl::Build::Built                 1.34  S/SK/SKAJI/Perl-Build-1.34.tar.gz
 Perl::Build::Git               0.001000  K/KE/KENTNL/Perl-Build-Git-0.001000.tar.gz
 Perl::Builtins                     0.04  D/DF/DFARRELL/Perl-Builtins-0.04.tar.gz
 Perl::Class                       0.006  W/WB/WBRASWELL/Perl-Types-0.400.tar.gz
+Perl::CodeMap                  0.003001  M/MU/MULLER/Perl-CodeMap-0.3.1.tar.gz
 Perl::Command                      0.01  S/SA/SAMV/Perl-Command-0.01.tar.gz
 Perl::Compare                      0.11  A/AD/ADAMK/Perl-Compare-0.11.tar.gz
 Perl::Config                      0.017  W/WB/WBRASWELL/Perl-Types-0.400.tar.gz
