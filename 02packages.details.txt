@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262784
-Last-Updated: Thu, 05 Nov 2026 12:54:02 GMT
+Last-Updated: Thu, 05 Nov 2026 14:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -140406,7 +140406,7 @@ Moxy::Plugin::XMLisHTML           undef  T/TO/TOKUHIROM/Moxy-0.70.tar.gz
 Moxy::Request                     undef  T/TO/TOKUHIROM/Moxy-0.70.tar.gz
 Moxy::Session::State::BasicAuth   undef  T/TO/TOKUHIROM/Moxy-0.70.tar.gz
 Moxy::Util                        undef  T/TO/TOKUHIROM/Moxy-0.70.tar.gz
-Mozilla::CA                    20261020  L/LW/LWP/Mozilla-CA-20261020.tar.gz
+Mozilla::CA                    20261105  L/LW/LWP/Mozilla-CA-20261105.tar.gz
 Mozilla::ConsoleService            0.06  B/BO/BOSU/Mozilla-ConsoleService-0.06.tar.gz
 Mozilla::DOM                       0.23  S/SL/SLANNING/Mozilla-DOM-0.23.tar.gz
 Mozilla::DOM::AbstractView         0.23  S/SL/SLANNING/Mozilla-DOM-0.23.tar.gz
