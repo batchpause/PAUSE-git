@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262792
-Last-Updated: Fri, 06 Nov 2026 07:54:30 GMT
+Line-Count:   262793
+Last-Updated: Fri, 06 Nov 2026 08:54:35 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -231847,22 +231847,23 @@ Text::BasicTemplate               2.006  D/DC/DCARRAWAY/Text-BasicTemplate-2.006
 Text::Bastardize                   0.08  A/AY/AYRNIEU/Text-Bastardize-0.08.tar.gz
 Text::Bayon                     0.00002  M/MI/MIKI/Text-Bayon-0.00002.tar.gz
 Text::Beautify                     0.08  C/CO/COG/Text-Beautify-0.08.tar.gz
-Text::BibTeX                       0.91  A/AM/AMBS/Text-BibTeX-0.91.tar.gz
-Text::BibTeX::BibEntry             0.88  A/AM/AMBS/Text-BibTeX-0.91.tar.gz
-Text::BibTeX::BibFormat            0.88  A/AM/AMBS/Text-BibTeX-0.91.tar.gz
-Text::BibTeX::BibSort              0.88  A/AM/AMBS/Text-BibTeX-0.91.tar.gz
-Text::BibTeX::BibStructure         0.88  A/AM/AMBS/Text-BibTeX-0.91.tar.gz
+Text::BibTeX                       1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
+Text::BibTeX::BibEntry             1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
+Text::BibTeX::BibFormat            1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
+Text::BibTeX::BibSort              1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
+Text::BibTeX::BibStructure         1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
 Text::BibTeX::BibStyle             0.03  N/NO/NODINE/Text-BibTeX-BibStyle-0.03.tar.gz
-Text::BibTeX::Entry                0.88  A/AM/AMBS/Text-BibTeX-0.91.tar.gz
-Text::BibTeX::File                 0.88  A/AM/AMBS/Text-BibTeX-0.91.tar.gz
-Text::BibTeX::Name                 0.88  A/AM/AMBS/Text-BibTeX-0.91.tar.gz
-Text::BibTeX::NameFormat           0.88  A/AM/AMBS/Text-BibTeX-0.91.tar.gz
-Text::BibTeX::SimpleValue          0.88  A/AM/AMBS/Text-BibTeX-0.91.tar.gz
-Text::BibTeX::Structure            0.88  A/AM/AMBS/Text-BibTeX-0.91.tar.gz
-Text::BibTeX::StructuredEntry      0.88  A/AM/AMBS/Text-BibTeX-0.91.tar.gz
+Text::BibTeX::Entry                1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
+Text::BibTeX::Error                1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
+Text::BibTeX::File                 1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
+Text::BibTeX::Name                 1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
+Text::BibTeX::NameFormat           1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
+Text::BibTeX::SimpleValue          1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
+Text::BibTeX::Structure            1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
+Text::BibTeX::StructuredEntry      1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
 Text::BibTeX::Validate         0.003000  M/ME/MERKYS/Text-BibTeX-Validate-0.3.0.tar.gz
 Text::BibTeX::Validate::Warning 0.003000  M/ME/MERKYS/Text-BibTeX-Validate-0.3.0.tar.gz
-Text::BibTeX::Value                0.88  A/AM/AMBS/Text-BibTeX-0.91.tar.gz
+Text::BibTeX::Value                1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
 Text::Bidi                         2.18  K/KA/KAMENSKY/Text-Bidi-2.18.tar.gz
 Text::Bidi::Array                  2.18  K/KA/KAMENSKY/Text-Bidi-2.18.tar.gz
 Text::Bidi::Array::Byte            2.18  K/KA/KAMENSKY/Text-Bidi-2.18.tar.gz
