@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262808
-Last-Updated: Fri, 06 Nov 2026 17:54:45 GMT
+Line-Count:   262809
+Last-Updated: Fri, 06 Nov 2026 18:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -68082,6 +68082,7 @@ Dist::Zilla::App::Command::msg_scan 0.91  C/CC/CCM/Dist-Zilla-LocaleTextDomain-0
 Dist::Zilla::App::Command::new    6.040  R/RJ/RJBS/Dist-Zilla-6.040.tar.gz
 Dist::Zilla::App::Command::nop    6.040  R/RJ/RJBS/Dist-Zilla-6.040.tar.gz
 Dist::Zilla::App::Command::perltidy 0.21  F/FA/FAYLAND/Dist-Zilla-Plugin-PerlTidy-0.21.tar.gz
+Dist::Zilla::App::Command::podchecker 0.001  T/TE/TEODESIAN/Dist-Zilla-App-Command-podchecker-0.001.tar.gz
 Dist::Zilla::App::Command::podpreview 0.004  P/PS/PSHANGOV/Dist-Zilla-App-Command-podpreview-0.004.tar.gz
 Dist::Zilla::App::Command::policies 0.002  M/MI/MIKKOI/Dist-Zilla-Plugin-Software-Policies-0.002.tar.gz
 Dist::Zilla::App::Command::pot    2.000  J/JQ/JQUELIN/Dist-Zilla-App-Command-pot-2.000.tar.gz
