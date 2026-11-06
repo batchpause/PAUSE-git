@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670392
+Line-Count:  670395
 Written-By:  PAUSE version 1.005
-Date:        Fri, 06 Nov 2026 15:18:22 GMT
+Date:        Fri, 06 Nov 2026 17:17:19 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -383861,6 +383861,7 @@ Monitoring::Sneck::Checks::disk,VVELOX,f
 Monitoring::Sneck::Checks::dns,VVELOX,f
 Monitoring::Sneck::Checks::dns_sync,VVELOX,f
 Monitoring::Sneck::Checks::file_age,VVELOX,f
+Monitoring::Sneck::Checks::file_content,VVELOX,f
 Monitoring::Sneck::Checks::file_handles,VVELOX,f
 Monitoring::Sneck::Checks::file_mode,VVELOX,f
 Monitoring::Sneck::Checks::hosts,VVELOX,f
@@ -383870,11 +383871,13 @@ Monitoring::Sneck::Checks::https_cert,VVELOX,f
 Monitoring::Sneck::Checks::interface,VVELOX,f
 Monitoring::Sneck::Checks::jails,VVELOX,f
 Monitoring::Sneck::Checks::kernel_modules,VVELOX,f
+Monitoring::Sneck::Checks::linux_ras,VVELOX,f
 Monitoring::Sneck::Checks::listening,VVELOX,f
 Monitoring::Sneck::Checks::load,VVELOX,f
 Monitoring::Sneck::Checks::log,VVELOX,f
 Monitoring::Sneck::Checks::memory,VVELOX,f
 Monitoring::Sneck::Checks::mount,VVELOX,f
+Monitoring::Sneck::Checks::mtime,VVELOX,f
 Monitoring::Sneck::Checks::neighbors,VVELOX,f
 Monitoring::Sneck::Checks::ntp,VVELOX,f
 Monitoring::Sneck::Checks::oom,VVELOX,f
