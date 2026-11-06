@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262809
-Last-Updated: Fri, 06 Nov 2026 20:17:02 GMT
+Last-Updated: Fri, 06 Nov 2026 20:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -67848,25 +67848,25 @@ Disbatch::Web::Files              4.103  A/AS/ASHLEYW/disbatch-4.103.tar.gz
 Disbatch::Web::Tasks              4.103  A/AS/ASHLEYW/disbatch-4.103.tar.gz
 Disbatch::Web::V3                 4.103  A/AS/ASHLEYW/disbatch-4.103.tar.gz
 DISCO                              0.01  W/WE/WENZ/DISCO-0.01.zip
-Discord::Client                   0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Cache            0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Commands         0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Error            0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Gateway          0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Gateway::Shards  0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::HTTPInteractions 0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Intents          0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Interaction      0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Interaction::Verifier 0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Interactions     0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Model            0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Model::Channel   0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Model::Guild     0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Model::Message   0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::Model::User      0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::REST             0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::REST::Error      0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
-Discord::Client::UI               0.001  V/VS/VSN/Discord-Client-0.001.tar.gz
+Discord::Client                   0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Cache            0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Commands         0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Error            0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Gateway          0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Gateway::Shards  0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::HTTPInteractions 0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Intents          0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Interaction      0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Interaction::Verifier 0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Interactions     0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Model            0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Model::Channel   0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Model::Guild     0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Model::Message   0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::Model::User      0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::REST             0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::REST::Error      0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
+Discord::Client::UI               0.002  V/VS/VSN/Discord-Client-0.002.tar.gz
 Discovery                         undef  H/HE/HENRYST/ALBD-0.05.tar.gz
 Disk::SMART                        0.18  P/PT/PTROST/Disk-SMART-0.18.tar.gz
 Disk::SmartTools               3.004000  M/MM/MMARTINI/Disk-SmartTools-v3.4.0.tar.gz
