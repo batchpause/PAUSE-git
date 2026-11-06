@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670380
+Line-Count:  670392
 Written-By:  PAUSE version 1.005
-Date:        Fri, 06 Nov 2026 08:55:43 GMT
+Date:        Fri, 06 Nov 2026 15:18:22 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -24097,6 +24097,17 @@ App::Web,EHUELS,c
 App::Web,JONASBN,f
 App::Web::NAOdash,MGV,f
 App::Web::VPKBuilder,MGV,f
+App::WebPerimeterScan,NHORNE,f
+App::WebPerimeterScan::Checks,NHORNE,f
+App::WebPerimeterScan::Findings,NHORNE,f
+App::WebPerimeterScan::HTTP,NHORNE,f
+App::WebPerimeterScan::I18N,NHORNE,f
+App::WebPerimeterScan::Messages,NHORNE,f
+App::WebPerimeterScan::Ports,NHORNE,f
+App::WebPerimeterScan::Report,NHORNE,f
+App::WebPerimeterScan::Scope,NHORNE,f
+App::WebPerimeterScan::Source,NHORNE,f
+App::WebPerimeterScan::TLS,NHORNE,f
 App::WebSearchUtils,PERLANCAR,f
 App::WhatTimeIsIt,BAYASHI,f
 App::Whatsit,CEBJYRE,f
@@ -591018,6 +591029,7 @@ String::Formatter::Cookbook,RJBS,f
 String::Fraction,MARKF,f
 String::FriendlyID,ATANATION,f
 String::Fuzzy,JDEGUEST,f
+String::FuzzyMatch,CORION,f
 String::Glob::Permute,MSCHILLI,f
 String::Gsub,HIO,f
 String::Gsub::Functions,HIO,f

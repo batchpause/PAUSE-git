@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262793
-Last-Updated: Fri, 06 Nov 2026 13:54:33 GMT
+Line-Count:   262805
+Last-Updated: Fri, 06 Nov 2026 15:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -6051,29 +6051,29 @@ AnyEvent::Log::LOG                undef  M/ML/MLEHMANN/AnyEvent-7.17.tar.gz
 AnyEvent::Loop                    undef  M/ML/MLEHMANN/AnyEvent-7.17.tar.gz
 AnyEvent::Mac::Pasteboard          0.03  O/OG/OGATA/AnyEvent-Mac-Pasteboard-0.03.tar.gz
 AnyEvent::Mattermost              0.002  J/JS/JSIME/AnyEvent-Mattermost-0.002.tar.gz
-AnyEvent::MCP                      0.81  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Base                0.81  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Client             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Client::HTTP       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Client::JSONL      undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Client::Request    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Config             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Extension          undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::File               undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Helper             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::IMAP::OAuth2       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::IMAP::Providers    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Permissions::Ask   undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Server             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Server::Connect    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Server::HTTP       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Server::JSONL      undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Server::Permissions undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Server::Request    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Server::Simple     undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Server::Toolset    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Workdirs           undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
-AnyEvent::MCP::Worker::IMAP       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.81.tar.gz
+AnyEvent::MCP                      0.82  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Base                0.82  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Client             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Client::HTTP       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Client::JSONL      undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Client::Request    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Config             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Extension          undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::File               undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Helper             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::IMAP::OAuth2       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::IMAP::Providers    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Permissions::Ask   undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Server             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Server::Connect    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Server::HTTP       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Server::JSONL      undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Server::Permissions undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Server::Request    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Server::Simple     undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Server::Toolset    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Workdirs           undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
+AnyEvent::MCP::Worker::IMAP       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
 AnyEvent::mDNS                     0.06  M/MI/MIYAGAWA/AnyEvent-mDNS-0.06.tar.gz
 AnyEvent::Memcached                0.08  M/MO/MONS/AnyEvent-Memcached-0.08.tar.gz
 AnyEvent::Memcached::Hash::WithNext undef  M/MO/MONS/AnyEvent-Memcached-0.08.tar.gz
@@ -16939,6 +16939,17 @@ App::WeaverUtils                   0.05  P/PE/PERLANCAR/App-WeaverUtils-0.05.tar
 App::Web                          undef  C/CW/CWINTERS/Workflow-0.15.tar.gz
 App::Web::NAOdash                 0.003  M/MG/MGV/NetHack-NAOdash-0.003.tar.gz
 App::Web::VPKBuilder              0.001  M/MG/MGV/App-Web-VPKBuilder-0.001.tar.gz
+App::WebPerimeterScan          0.001000  N/NH/NHORNE/App-WebPerimeterScan-0.001.0.tar.gz
+App::WebPerimeterScan::Checks     0.001  N/NH/NHORNE/App-WebPerimeterScan-0.001.0.tar.gz
+App::WebPerimeterScan::Findings   0.001  N/NH/NHORNE/App-WebPerimeterScan-0.001.0.tar.gz
+App::WebPerimeterScan::HTTP       0.001  N/NH/NHORNE/App-WebPerimeterScan-0.001.0.tar.gz
+App::WebPerimeterScan::I18N       0.001  N/NH/NHORNE/App-WebPerimeterScan-0.001.0.tar.gz
+App::WebPerimeterScan::Messages   0.001  N/NH/NHORNE/App-WebPerimeterScan-0.001.0.tar.gz
+App::WebPerimeterScan::Ports      0.001  N/NH/NHORNE/App-WebPerimeterScan-0.001.0.tar.gz
+App::WebPerimeterScan::Report     0.001  N/NH/NHORNE/App-WebPerimeterScan-0.001.0.tar.gz
+App::WebPerimeterScan::Scope      0.001  N/NH/NHORNE/App-WebPerimeterScan-0.001.0.tar.gz
+App::WebPerimeterScan::Source     0.001  N/NH/NHORNE/App-WebPerimeterScan-0.001.0.tar.gz
+App::WebPerimeterScan::TLS        0.001  N/NH/NHORNE/App-WebPerimeterScan-0.001.0.tar.gz
 App::WebSearchUtils               0.001  P/PE/PERLANCAR/App-WebSearchUtils-0.001.tar.gz
 App::week                        1.0701  U/UT/UTASHIRO/App-week-1.0701.tar.gz
 App::week::CalYear                undef  U/UT/UTASHIRO/App-week-1.0701.tar.gz
@@ -222581,6 +222592,7 @@ String::FormatX                    0.01  C/CS/CSA/String-FormatX-0.01.tar.gz
 String::Fraction                   0.30  M/MA/MARKF/String-Fraction-0.30.tar.gz
 String::FriendlyID                1.000  A/AT/ATANATION/String-FriendlyID-1.000.tar.gz
 String::Fuzzy                  0.001001  J/JD/JDEGUEST/String-Fuzzy-v0.1.1.tar.gz
+String::FuzzyMatch                 0.01  C/CO/CORION/String-FuzzyMatch-0.01.tar.gz
 String::Glob::Permute              0.01  M/MS/MSCHILLI/String-Glob-Permute-0.01.tar.gz
 String::Gsub                       0.04  H/HI/HIO/String-Gsub-0.04.tar.gz
 String::Gsub::Functions           undef  H/HI/HIO/String-Gsub-0.04.tar.gz
