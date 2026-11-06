@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262805
-Last-Updated: Fri, 06 Nov 2026 16:17:02 GMT
+Last-Updated: Fri, 06 Nov 2026 16:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -239589,7 +239589,7 @@ UUID::Random::Secure              0.004  P/PE/PERLANCAR/UUID-Random-Secure-0.004
 UUID::Tiny                         1.04  C/CA/CAUGUSTIN/UUID-Tiny-1.04.tar.gz
 UUID::Tiny::Patch::UseMRS         0.002  P/PE/PERLANCAR/UUID-Tiny-Patch-UseMRS-0.002.tar.gz
 UUID::URandom                     0.001  D/DA/DAGOLDEN/UUID-URandom-0.001.tar.gz
-UUID::V7                          0.001  L/LE/LEONT/UUID-V7-0.001.tar.gz
+UUID::V7                          0.002  L/LE/LEONT/UUID-V7-0.002.tar.gz
 UV                                2.002  P/PE/PEVANS/UV-2.002.tar.gz
 UV::Async                         2.002  P/PE/PEVANS/UV-2.002.tar.gz
 UV::Check                         2.002  P/PE/PEVANS/UV-2.002.tar.gz
