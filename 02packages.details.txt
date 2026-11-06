@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262792
-Last-Updated: Fri, 06 Nov 2026 02:29:02 GMT
+Last-Updated: Fri, 06 Nov 2026 02:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -227813,12 +227813,12 @@ Term::Animation                     2.6  K/KB/KBAUCOM/Term-Animation-2.6.tar.gz
 Term::Animation::Entity           undef  K/KB/KBAUCOM/Term-Animation-2.6.tar.gz
 Term::ANSI::Sprintf                0.11  L/LN/LNATION/Term-ANSI-Sprintf-0.11.tar.gz
 Term::ANSIColor                    5.01  R/RR/RRA/Term-ANSIColor-5.01.tar.gz
-Term::ANSIColor::Concise           3.03  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.03.tar.gz
-Term::ANSIColor::Concise::Color    3.03  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.03.tar.gz
-Term::ANSIColor::Concise::ColorObject 3.03  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.03.tar.gz
-Term::ANSIColor::Concise::ColorUtils 3.03  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.03.tar.gz
-Term::ANSIColor::Concise::Table    3.03  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.03.tar.gz
-Term::ANSIColor::Concise::Transform 3.03  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.03.tar.gz
+Term::ANSIColor::Concise           3.04  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.04.tar.gz
+Term::ANSIColor::Concise::Color    3.04  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.04.tar.gz
+Term::ANSIColor::Concise::ColorObject 3.04  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.04.tar.gz
+Term::ANSIColor::Concise::ColorUtils 3.04  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.04.tar.gz
+Term::ANSIColor::Concise::Table    3.04  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.04.tar.gz
+Term::ANSIColor::Concise::Transform 3.04  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.04.tar.gz
 Term::ANSIColor::Conditional      0.009  P/PE/PERLANCAR/Term-ANSIColor-Conditional-0.009.tar.gz
 Term::ANSIColor::Gradients         0.10  N/NK/NKH/Term-ANSIColor-Gradients-0.10.tar.gz
 Term::ANSIColor::Gradients::Accessibility 0.10  N/NK/NKH/Term-ANSIColor-Gradients-0.10.tar.gz
