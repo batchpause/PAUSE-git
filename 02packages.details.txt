@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262793
-Last-Updated: Fri, 06 Nov 2026 10:29:02 GMT
+Last-Updated: Fri, 06 Nov 2026 11:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -225211,20 +225211,20 @@ System::Daemon                     0.15  V/VS/VSESPB/System-Daemon-0.15.tar.gz
 System::Daemon::Utils             undef  V/VS/VSESPB/System-Daemon-0.15.tar.gz
 System::Explain                    0.02  C/CX/CXW/System-Explain-0.02.tar.gz
 System::Index                       0.1  J/JB/JBRYAN/System-Index-0.1.zip
-System::Info                      0.068  H/HM/HMBRAND/System-Info-0.068.tgz
-System::Info::AIX                 0.050  H/HM/HMBRAND/System-Info-0.068.tgz
-System::Info::Base                0.050  H/HM/HMBRAND/System-Info-0.068.tgz
-System::Info::BSD                 0.051  H/HM/HMBRAND/System-Info-0.068.tgz
-System::Info::Cygwin              0.050  H/HM/HMBRAND/System-Info-0.068.tgz
-System::Info::Darwin              0.057  H/HM/HMBRAND/System-Info-0.068.tgz
-System::Info::Generic             0.050  H/HM/HMBRAND/System-Info-0.068.tgz
-System::Info::Haiku               0.050  H/HM/HMBRAND/System-Info-0.068.tgz
-System::Info::HPUX                0.051  H/HM/HMBRAND/System-Info-0.068.tgz
-System::Info::Irix                0.050  H/HM/HMBRAND/System-Info-0.068.tgz
-System::Info::Linux               0.054  H/HM/HMBRAND/System-Info-0.068.tgz
-System::Info::Solaris             0.050  H/HM/HMBRAND/System-Info-0.068.tgz
-System::Info::VMS                 0.050  H/HM/HMBRAND/System-Info-0.068.tgz
-System::Info::Windows             0.051  H/HM/HMBRAND/System-Info-0.068.tgz
+System::Info                      0.069  H/HM/HMBRAND/System-Info-0.069.tgz
+System::Info::AIX                 0.050  H/HM/HMBRAND/System-Info-0.069.tgz
+System::Info::Base                0.050  H/HM/HMBRAND/System-Info-0.069.tgz
+System::Info::BSD                 0.051  H/HM/HMBRAND/System-Info-0.069.tgz
+System::Info::Cygwin              0.050  H/HM/HMBRAND/System-Info-0.069.tgz
+System::Info::Darwin              0.057  H/HM/HMBRAND/System-Info-0.069.tgz
+System::Info::Generic             0.050  H/HM/HMBRAND/System-Info-0.069.tgz
+System::Info::Haiku               0.050  H/HM/HMBRAND/System-Info-0.069.tgz
+System::Info::HPUX                0.051  H/HM/HMBRAND/System-Info-0.069.tgz
+System::Info::Irix                0.050  H/HM/HMBRAND/System-Info-0.069.tgz
+System::Info::Linux               0.055  H/HM/HMBRAND/System-Info-0.069.tgz
+System::Info::Solaris             0.050  H/HM/HMBRAND/System-Info-0.069.tgz
+System::Info::VMS                 0.050  H/HM/HMBRAND/System-Info-0.069.tgz
+System::Info::Windows             0.051  H/HM/HMBRAND/System-Info-0.069.tgz
 System::InitD                      1.36  V/VS/VSESPB/System-InitD-1.36.tar.gz
 System::InitD::Base               undef  V/VS/VSESPB/System-InitD-1.36.tar.gz
 System::InitD::Const              undef  V/VS/VSESPB/System-InitD-1.36.tar.gz
