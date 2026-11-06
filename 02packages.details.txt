@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262809
-Last-Updated: Fri, 06 Nov 2026 19:17:01 GMT
+Last-Updated: Fri, 06 Nov 2026 20:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -8586,7 +8586,7 @@ ApiTypes::TrackedLink              0.03  E/EL/ELASTICML/ElasticEmail-0.03.tar.gz
 ApiTypes::TrackingType             0.03  E/EL/ELASTICML/ElasticEmail-0.03.tar.gz
 ApiTypes::Usage                    0.03  E/EL/ELASTICML/ElasticEmail-0.03.tar.gz
 APNS::Agent                        0.06  S/SO/SONGMU/APNS-Agent-0.06.tar.gz
-Apophis                            1.00  L/LN/LNATION/Apophis-1.00.tar.gz
+Apophis                            1.01  L/LN/LNATION/Apophis-1.01.tar.gz
 App                               13887  S/SP/SPADKINS/App-Context-0.968.tar.gz
 App1                              undef  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
 App1::CustInfo                    undef  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
@@ -47040,7 +47040,7 @@ ColorTransform::Tint              0.002  P/PE/PERLANCAR/ColorTransforms-Standard
 ColorTransform::Weight            0.002  P/PE/PERLANCAR/ColorTransforms-Standard-0.002.tar.gz
 ColorTransforms::Standard         0.002  P/PE/PERLANCAR/ColorTransforms-Standard-0.002.tar.gz
 Colouring::In                      0.27  L/LN/LNATION/Colouring-In-0.27.tar.gz
-Colouring::In::XS                  0.12  L/LN/LNATION/Colouring-In-XS-0.12.tar.gz
+Colouring::In::XS                  0.13  L/LN/LNATION/Colouring-In-XS-0.13.tar.gz
 Combinator                     0.004003  C/CI/CINDY/Combinator-0.004003.tar.gz
 Combinatorial::Permutations       undef  E/ED/EDPRATOMO/Algorithm-Permute-0.10.tar.gz
 Combine::Check_record             undef  A/AA/AARDO/combine_4.005.tar.gz
@@ -65714,7 +65714,7 @@ Devel::Cover::Report::Text         1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
 Devel::Cover::Report::Text2        1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
 Devel::Cover::Report::Vim          1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
 Devel::Cover::Report::Vim::Template::Provider 1.51  P/PJ/PJCJ/Devel-Cover-1.51.tar.gz
-Devel::Cover::Report::XSCover      0.08  L/LN/LNATION/Devel-XSCover-0.08.tar.gz
+Devel::Cover::Report::XSCover      0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
 Devel::Cover::Statement            1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
 Devel::Cover::Subroutine           1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
 Devel::Cover::Test                 1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
@@ -66707,14 +66707,14 @@ Devel::WxProf::Treemap         0.000001  M/MK/MKUTTER/Devel-WxProf-0.0.1.tar.gz
 Devel::WxProf::Treemap::Output::Imager 0.000001  M/MK/MKUTTER/Devel-WxProf-0.0.1.tar.gz
 Devel::WxProf::Treemap::Squarified 0.000001  M/MK/MKUTTER/Devel-WxProf-0.0.1.tar.gz
 Devel::XRay                        0.95  J/JB/JBISBEE/Devel-XRay-0.95.tar.gz
-Devel::XSCover                     0.08  L/LN/LNATION/Devel-XSCover-0.08.tar.gz
-Devel::XSCover::Build              0.08  L/LN/LNATION/Devel-XSCover-0.08.tar.gz
-Devel::XSCover::DB                 0.08  L/LN/LNATION/Devel-XSCover-0.08.tar.gz
-Devel::XSCover::Deparse            0.08  L/LN/LNATION/Devel-XSCover-0.08.tar.gz
-Devel::XSCover::Flow               0.08  L/LN/LNATION/Devel-XSCover-0.08.tar.gz
-Devel::XSCover::Gcov               0.08  L/LN/LNATION/Devel-XSCover-0.08.tar.gz
-Devel::XSCover::Test               0.08  L/LN/LNATION/Devel-XSCover-0.08.tar.gz
-Devel::XSCover::XS                 0.08  L/LN/LNATION/Devel-XSCover-0.08.tar.gz
+Devel::XSCover                     0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
+Devel::XSCover::Build              0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
+Devel::XSCover::DB                 0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
+Devel::XSCover::Deparse            0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
+Devel::XSCover::Flow               0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
+Devel::XSCover::Gcov               0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
+Devel::XSCover::Test               0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
+Devel::XSCover::XS                 0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
 Devel::XSHelper                    1.03  T/TO/TOKUHIROM/Module-Build-Pluggable-XSUtil-1.03.tar.gz
 Developer::Dashboard               6.06  M/MI/MICVU/Developer-Dashboard-6.06.tar.gz
 Developer::Dashboard::ActionRunner 6.06  M/MI/MICVU/Developer-Dashboard-6.06.tar.gz
