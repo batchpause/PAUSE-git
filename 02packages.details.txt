@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262805
-Last-Updated: Fri, 06 Nov 2026 15:29:02 GMT
+Last-Updated: Fri, 06 Nov 2026 16:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -51381,7 +51381,7 @@ Crypt::Stream::Sober128           0.091  M/MI/MIK/CryptX-0.091.tar.gz
 Crypt::Stream::Sosemanuk          0.091  M/MI/MIK/CryptX-0.091.tar.gz
 Crypt::Stream::XChaCha            0.091  M/MI/MIK/CryptX-0.091.tar.gz
 Crypt::Stream::XSalsa20           0.091  M/MI/MIK/CryptX-0.091.tar.gz
-Crypt::SysRandom                  0.007  L/LE/LEONT/Crypt-SysRandom-0.007.tar.gz
+Crypt::SysRandom                  0.008  L/LE/LEONT/Crypt-SysRandom-0.008.tar.gz
 Crypt::SysRandom::XS              0.011  L/LE/LEONT/Crypt-SysRandom-XS-0.011.tar.gz
 Crypt::TC18                         1.0  J/JC/JCDUQUE/Crypt-TC18-1.0.0.tar.gz
 Crypt::TEA                         1.26  A/AM/AMS/Crypt-TEA-1.26.tar.gz
@@ -153160,7 +153160,7 @@ Object::Botox                      1.15  M/ME/MEETTYA/Object-Botox-1.15.tar.gz
 Object::Cache::Sqlite          0.001002  B/BA/BAKERSCOT/Object-Cache-Sqlite-v0.1.2.tar.gz
 Object::Capsule                   0.012  R/RJ/RJBS/Object-Capsule-0.012.tar.gz
 Object::Composer               0.000002  G/GV/GVENKAT/Object-Composer-0.0.2.tar.gz
-Object::Configure                  0.24  N/NH/NHORNE/Object-Configure-0.24.tar.gz
+Object::Configure                  0.25  N/NH/NHORNE/Object-Configure-0.25.tar.gz
 Object::Container                  0.16  B/BA/BAYASHI/Object-Container-0.16.tar.gz
 Object::Container::Exporter        0.03  N/NE/NEKOKAK/Object-Container-Exporter-0.03.tar.gz
 Object::Deadly                     0.09  J/JJ/JJORE/Object-Deadly-0.09.tar.gz
