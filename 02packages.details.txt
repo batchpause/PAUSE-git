@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262793
-Last-Updated: Fri, 06 Nov 2026 11:17:02 GMT
+Last-Updated: Fri, 06 Nov 2026 13:54:33 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -190018,8 +190018,8 @@ PDL::Demos::General               undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Demos::Gnuplot               undef  E/ET/ETJ/PDL-Graphics-Gnuplot-2.033.tar.gz
 PDL::Demos::GSL_CDF               undef  E/ET/ETJ/PDL-GSL-2.103.tar.gz
 PDL::Demos::GSL_RNG               undef  E/ET/ETJ/PDL-GSL-2.103.tar.gz
-PDL::Demos::PGPLOT                undef  E/ET/ETJ/PGPLOT-2.36.tar.gz
-PDL::Demos::PGPLOT_OO             undef  E/ET/ETJ/PGPLOT-2.36.tar.gz
+PDL::Demos::PGPLOT                undef  E/ET/ETJ/PGPLOT-2.37.tar.gz
+PDL::Demos::PGPLOT_OO             undef  E/ET/ETJ/PGPLOT-2.37.tar.gz
 PDL::Demos::PLplot                undef  E/ET/ETJ/PDL-Graphics-PLplot-0.842.tar.gz
 PDL::Demos::Prima                 undef  E/ET/ETJ/PDL-Graphics-Prima-0.21.tar.gz
 PDL::Demos::Proj4_demo            undef  E/ET/ETJ/PDL-Transform-Proj4-2.099.tar.gz
@@ -190074,11 +190074,11 @@ PDL::Graphics::Gnuplot            2.033  E/ET/ETJ/PDL-Graphics-Gnuplot-2.033.tar
 PDL::Graphics::IIS                0.001  E/ET/ETJ/PDL-Graphics-IIS-0.001.tar.gz
 PDL::Graphics::Limits             0.031  E/ET/ETJ/PDL-Graphics-Limits-0.031.tar.gz
 PDL::Graphics::Limits::DSet       0.031  E/ET/ETJ/PDL-Graphics-Limits-0.031.tar.gz
-PDL::Graphics::LUT                undef  E/ET/ETJ/PGPLOT-2.36.tar.gz
+PDL::Graphics::LUT                undef  E/ET/ETJ/PGPLOT-2.37.tar.gz
 PDL::Graphics::OpenGLQ            undef  E/ET/ETJ/PDL-Graphics-TriD-2.102.tar.gz
-PDL::Graphics::PGPLOT             undef  E/ET/ETJ/PGPLOT-2.36.tar.gz
-PDL::Graphics::PGPLOT::Window     undef  E/ET/ETJ/PGPLOT-2.36.tar.gz
-PDL::Graphics::PGPLOTOptions      undef  E/ET/ETJ/PGPLOT-2.36.tar.gz
+PDL::Graphics::PGPLOT             undef  E/ET/ETJ/PGPLOT-2.37.tar.gz
+PDL::Graphics::PGPLOT::Window     undef  E/ET/ETJ/PGPLOT-2.37.tar.gz
+PDL::Graphics::PGPLOTOptions      undef  E/ET/ETJ/PGPLOT-2.37.tar.gz
 PDL::Graphics::PLplot             0.842  E/ET/ETJ/PDL-Graphics-PLplot-0.842.tar.gz
 PDL::Graphics::Prima               0.21  E/ET/ETJ/PDL-Graphics-Prima-0.21.tar.gz
 PDL::Graphics::Prima::Axis         0.18  E/ET/ETJ/PDL-Graphics-Prima-0.21.tar.gz
@@ -190128,7 +190128,7 @@ PDL::Graphics::Simple::Gnuplot    undef  E/ET/ETJ/PDL-Graphics-Simple-1.017.tar.
 PDL::Graphics::Simple::PGPLOT     undef  E/ET/ETJ/PDL-Graphics-Simple-1.017.tar.gz
 PDL::Graphics::Simple::PLplot     undef  E/ET/ETJ/PDL-Graphics-Simple-1.017.tar.gz
 PDL::Graphics::Simple::Prima      undef  E/ET/ETJ/PDL-Graphics-Simple-1.017.tar.gz
-PDL::Graphics::State              undef  E/ET/ETJ/PGPLOT-2.36.tar.gz
+PDL::Graphics::State              undef  E/ET/ETJ/PGPLOT-2.37.tar.gz
 PDL::Graphics::TriD               2.102  E/ET/ETJ/PDL-Graphics-TriD-2.102.tar.gz
 PDL::Graphics::TriD::ArcBall      undef  E/ET/ETJ/PDL-Graphics-TriD-2.102.tar.gz
 PDL::Graphics::TriD::ArcBowl      undef  E/ET/ETJ/PDL-Graphics-TriD-2.102.tar.gz
@@ -193622,7 +193622,7 @@ PGP::Mail                           1.7  M/MA/MATTBM/PGP-Mail-1.7.tar.gz
 PGP::Pipe                           0.3  G/GE/GEHIC/PGP-0.3a.tar.gz
 PGP::Sign                          1.04  R/RR/RRA/PGP-Sign-1.04.tar.gz
 PGP::Words::Tiny                  0.002  D/DA/DAGOLDEN/PGP-Words-Tiny-0.002.tar.gz
-PGPLOT                             2.36  E/ET/ETJ/PGPLOT-2.36.tar.gz
+PGPLOT                             2.37  E/ET/ETJ/PGPLOT-2.37.tar.gz
 PGPLOT::Device                     0.14  D/DJ/DJERIUS/PGPLOT-Device-0.14.tar.gz
 PGPLOT::Device::PGWin              0.14  D/DJ/DJERIUS/PGPLOT-Device-0.14.tar.gz
 PGPLOT::Simple                     0.05  F/FM/FMERGES/PGPLOT-Simple-0.05.tar.gz
