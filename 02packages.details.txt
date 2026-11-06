@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262793
-Last-Updated: Fri, 06 Nov 2026 10:17:01 GMT
+Last-Updated: Fri, 06 Nov 2026 10:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -13887,7 +13887,7 @@ App::perlminlint::Plugin::LintPL  undef  H/HK/HKOBA/App-perlminlint-0.24.tar.gz
 App::perlminlint::Plugin::LintPM  undef  H/HK/HKOBA/App-perlminlint-0.24.tar.gz
 App::perlminlint::Plugin::LintT   undef  H/HK/HKOBA/App-perlminlint-0.24.tar.gz
 App::perlminlint::Plugin::LintYATTRC undef  H/HK/HKOBA/App-perlminlint-0.24.tar.gz
-App::perlmv                       0.609  P/PE/PERLANCAR/App-perlmv-0.609.tar.gz
+App::perlmv                       0.610  P/PE/PERLANCAR/App-perlmv-0.610.tar.gz
 App::perlmv::scriptlet::according_to_containing_dir 0.001  P/PE/PERLANCAR/App-perlmv-scriptlet-according_to_containing_dir-0.001.tar.gz
 App::perlmv::scriptlet::add_extension_according_to_mime_type 0.607  P/PE/PERLANCAR/App-perlmv-scriptlet-add_extension_according_to_mime_type-0.607.tar.gz
 App::perlmv::scriptlet::add_prefix 0.002  P/PE/PERLANCAR/App-perlmv-scriptlet-add_prefix-0.002.tar.gz
@@ -13896,14 +13896,14 @@ App::perlmv::scriptlet::add_suffix 0.001  P/PE/PERLANCAR/App-perlmv-scriptlet-ad
 App::perlmv::scriptlet::add_suffix_imgsize 0.001  P/PE/PERLANCAR/App-perlmv-scriptlet-add_suffix_imgsize-0.001.tar.gz
 App::perlmv::scriptlet::number_tracks 0.003  P/PE/PERLANCAR/App-perlmv-scriptlet-number_tracks-0.003.tar.gz
 App::perlmv::scriptlet::prefix_with_number 0.002  P/PE/PERLANCAR/App-perlmv-scriptlet-prefix_with_number-0.002.tar.gz
-App::perlmv::scriptlet::remove_common_prefix 0.609  P/PE/PERLANCAR/App-perlmv-0.609.tar.gz
-App::perlmv::scriptlet::remove_common_suffix 0.609  P/PE/PERLANCAR/App-perlmv-0.609.tar.gz
+App::perlmv::scriptlet::remove_common_prefix 0.610  P/PE/PERLANCAR/App-perlmv-0.610.tar.gz
+App::perlmv::scriptlet::remove_common_suffix 0.610  P/PE/PERLANCAR/App-perlmv-0.610.tar.gz
 App::perlmv::scriptlet::to_random 0.001  P/PE/PERLANCAR/App-perlmv-scriptlet-to_random-0.001.tar.gz
 App::perlmv::scriptlet::to_random_ext 0.001  P/PE/PERLANCAR/App-perlmv-scriptlet-to_random-0.001.tar.gz
 App::perlmv::scriptlet::to_uuid   0.001  P/PE/PERLANCAR/App-perlmv-scriptlet-to_uuid-0.001.tar.gz
 App::perlmv::scriptlet::to_uuid_ext 0.001  P/PE/PERLANCAR/App-perlmv-scriptlet-to_uuid-0.001.tar.gz
 App::perlmv::scriptlet::with_number 0.003  P/PE/PERLANCAR/App-perlmv-scriptlet-with_number-0.003.tar.gz
-App::perlmv::scriptlets::std      0.609  P/PE/PERLANCAR/App-perlmv-0.609.tar.gz
+App::perlmv::scriptlets::std      0.610  P/PE/PERLANCAR/App-perlmv-0.610.tar.gz
 App::perlmv::u                    0.007  P/PE/PERLANCAR/App-perlmv-u-0.007.tar.gz
 App::PerlNitpick                   0.01  G/GU/GUGOD/App-PerlNitpick-0.01.tar.gz
 App::PerlNitpick::Nitpicker       undef  G/GU/GUGOD/App-PerlNitpick-v0.4.0.tar.gz
@@ -47190,7 +47190,7 @@ Compiler::Parser::Node::ThreeTermOperator undef  G/GO/GOCCY/Compiler-Parser-0.10
 Compiler::Parser::Node::WhileStmt undef  G/GO/GOCCY/Compiler-Parser-0.10.tar.gz
 Complete                          0.202  P/PE/PERLANCAR/Complete-0.202.tar.gz
 Complete::Acme::MetaSyntactic     0.002  P/PE/PERLANCAR/Complete-Acme-MetaSyntactic-0.002.tar.gz
-Complete::App::perlmv             0.609  P/PE/PERLANCAR/App-perlmv-0.609.tar.gz
+Complete::App::perlmv             0.610  P/PE/PERLANCAR/App-perlmv-0.610.tar.gz
 Complete::Bash                    0.337  P/PE/PERLANCAR/Complete-Bash-0.337.tar.gz
 Complete::Bash::History           0.060  P/PE/PERLANCAR/Complete-Bash-History-0.060.tar.gz
 Complete::Chrome                  0.002  P/PE/PERLANCAR/Complete-Chrome-0.002.tar.gz
