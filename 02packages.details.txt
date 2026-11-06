@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262809
-Last-Updated: Fri, 06 Nov 2026 20:29:01 GMT
+Last-Updated: Fri, 06 Nov 2026 21:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -75688,40 +75688,40 @@ ExtUtils::Builder::Action::Composite 0.020  L/LE/LEONT/ExtUtils-Builder-0.020.ta
 ExtUtils::Builder::Action::Function 0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
 ExtUtils::Builder::Action::Perl   0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
 ExtUtils::Builder::Action::Primitive 0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
-ExtUtils::Builder::ArgumentCollector 0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::AutoDetect::C  0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
+ExtUtils::Builder::ArgumentCollector 0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::AutoDetect::C  0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
 ExtUtils::Builder::AutoDetect::Cpp 0.033  L/LE/LEONT/ExtUtils-Builder-Compiler-0.033.tar.gz
-ExtUtils::Builder::Binary         0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::BuildTools::Base 0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::BuildTools::FromPerl 0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Compiler       0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Compiler::MSVC 0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Compiler::Unixy 0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Compiler::VMS  0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Conf           0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
+ExtUtils::Builder::Binary         0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::BuildTools::Base 0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::BuildTools::FromPerl 0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Compiler       0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Compiler::MSVC 0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Compiler::Unixy 0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Compiler::VMS  0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Conf           0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
 ExtUtils::Builder::CPAN::Tool     0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
 ExtUtils::Builder::FileSet        0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
 ExtUtils::Builder::FileSet::Filter 0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
 ExtUtils::Builder::FileSet::Free  0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
 ExtUtils::Builder::FileSet::Subst 0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
-ExtUtils::Builder::Linker         0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Linker::Ar     0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Linker::COFF   0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Linker::ELF::Any 0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Linker::ELF::GCC 0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Linker::Mach::GCC 0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Linker::PE::GCC 0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Linker::PE::MSVC 0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Linker::Unixy  0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
-ExtUtils::Builder::Linker::XCOFF  0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
+ExtUtils::Builder::Linker         0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Linker::Ar     0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Linker::COFF   0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Linker::ELF::Any 0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Linker::ELF::GCC 0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Linker::Mach::GCC 0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Linker::PE::GCC 0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Linker::PE::MSVC 0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Linker::Unixy  0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
+ExtUtils::Builder::Linker::XCOFF  0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
 ExtUtils::Builder::MakeMaker      0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
 ExtUtils::Builder::MultiLingual   0.033  L/LE/LEONT/ExtUtils-Builder-Compiler-0.033.tar.gz
 ExtUtils::Builder::Node           0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
-ExtUtils::Builder::ParseXS        0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
+ExtUtils::Builder::ParseXS        0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
 ExtUtils::Builder::Plan           0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
 ExtUtils::Builder::Planner        0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
 ExtUtils::Builder::Planner::Extension 0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
-ExtUtils::Builder::Profile::Perl  0.037  L/LE/LEONT/ExtUtils-Builder-Compiler-0.037.tar.gz
+ExtUtils::Builder::Profile::Perl  0.038  L/LE/LEONT/ExtUtils-Builder-Compiler-0.038.tar.gz
 ExtUtils::Builder::Serializer     0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
 ExtUtils::Builder::Util           0.020  L/LE/LEONT/ExtUtils-Builder-0.020.tar.gz
 ExtUtils::BuildRC                 0.005  L/LE/LEONT/ExtUtils-BuildRC-0.005.tar.gz
