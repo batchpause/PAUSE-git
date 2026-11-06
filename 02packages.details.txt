@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262793
-Last-Updated: Fri, 06 Nov 2026 08:54:35 GMT
+Last-Updated: Fri, 06 Nov 2026 09:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4359,7 +4359,7 @@ Alien::cmake4                      0.04  S/SK/SKIM/Alien-cmake4-0.04.tar.gz
 Alien::cmark                      0.005  D/DB/DBOOK/Alien-cmark-0.005.tar.gz
 Alien::CodePress                   1.03  A/AS/ASKSH/Alien-CodePress-1.03.tar.gz
 Alien::CodePress::Archive          1.03  A/AS/ASKSH/Alien-CodePress-1.03.tar.gz
-Alien::CorvusJsonSchema        0.001001  M/MW/MWADAMS/Alien-CorvusJsonSchema-v0.1.1.tar.gz
+Alien::CorvusJsonSchema        0.001002  M/MW/MWADAMS/Alien-CorvusJsonSchema-v0.1.2.tar.gz
 Alien::Cowl                        0.01  Z/ZM/ZMUGHAL/Alien-Cowl-0.01.tar.gz
 Alien::CPython3                    0.01  Z/ZM/ZMUGHAL/Alien-CPython3-0.01.tar.gz
 Alien::CSFML                     v0.0.7  S/SA/SANKO/Alien-CSFML-v0.0.7.tar.gz
@@ -113505,14 +113505,14 @@ JSON::Schema::Corvus::Uri         undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.1.
 JSON::Schema::Corvus::Uts46       undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.1.tar.gz
 JSON::Schema::Corvus::Uts46Data   undef  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.1.tar.gz
 JSON::Schema::Corvus::Validator 0.001001  M/MW/MWADAMS/JSON-Schema-Corvus-v0.1.1.tar.gz
-JSON::Schema::Corvus::XS       0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
-JSON::Schema::Corvus::XS::Error 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
-JSON::Schema::Corvus::XS::Error::Compilation 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
-JSON::Schema::Corvus::XS::Error::Depth 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
-JSON::Schema::Corvus::XS::Error::InvalidJson 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
-JSON::Schema::Corvus::XS::Error::PatternMatchLimit 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
-JSON::Schema::Corvus::XS::Error::PatternTooLarge 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
-JSON::Schema::Corvus::XS::ResultsCollector 0.001000  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.0.tar.gz
+JSON::Schema::Corvus::XS       0.001001  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.1.tar.gz
+JSON::Schema::Corvus::XS::Error 0.001001  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.1.tar.gz
+JSON::Schema::Corvus::XS::Error::Compilation 0.001001  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.1.tar.gz
+JSON::Schema::Corvus::XS::Error::Depth 0.001001  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.1.tar.gz
+JSON::Schema::Corvus::XS::Error::InvalidJson 0.001001  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.1.tar.gz
+JSON::Schema::Corvus::XS::Error::PatternMatchLimit 0.001001  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.1.tar.gz
+JSON::Schema::Corvus::XS::Error::PatternTooLarge 0.001001  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.1.tar.gz
+JSON::Schema::Corvus::XS::ResultsCollector 0.001001  M/MW/MWADAMS/JSON-Schema-Corvus-XS-v0.1.1.tar.gz
 JSON::Schema::Draft201909         0.131  E/ET/ETHER/JSON-Schema-Draft201909-0.131.tar.gz
 JSON::Schema::Error               0.016  T/TO/TOBYINK/JSON-Schema-0.016.tar.gz
 JSON::Schema::Fast                 0.10  L/LN/LNATION/JSON-Schema-Fast-0.10.tar.gz
