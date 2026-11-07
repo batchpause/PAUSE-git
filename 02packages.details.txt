@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262811
-Last-Updated: Sat, 07 Nov 2026 14:53:57 GMT
+Last-Updated: Sat, 07 Nov 2026 16:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -20742,10 +20742,10 @@ Async::Hooks::Ctl                  0.16  M/ME/MELO/Async-Hooks-0.16.tar.gz
 Async::Interrupt                   1.26  M/ML/MLEHMANN/Async-Interrupt-1.26.tar.gz
 Async::MergePoint                  0.04  P/PE/PEVANS/Async-MergePoint-0.04.tar.gz
 Async::Methods                 0.000004  M/MS/MSTROUT/Async-Methods-0.000004.tar.gz
-Async::Microservice                0.08  J/JK/JKUTEJ/Async-Microservice-0.08.tar.gz
-Async::Microservice::HelloWorld   undef  J/JK/JKUTEJ/Async-Microservice-0.08.tar.gz
-Async::Microservice::Time          0.08  J/JK/JKUTEJ/Async-Microservice-0.08.tar.gz
-Async::MicroserviceReq             0.08  J/JK/JKUTEJ/Async-Microservice-0.08.tar.gz
+Async::Microservice                0.09  J/JK/JKUTEJ/Async-Microservice-0.09.tar.gz
+Async::Microservice::HelloWorld   undef  J/JK/JKUTEJ/Async-Microservice-0.09.tar.gz
+Async::Microservice::Time          0.09  J/JK/JKUTEJ/Async-Microservice-0.09.tar.gz
+Async::MicroserviceReq             0.09  J/JK/JKUTEJ/Async-Microservice-0.09.tar.gz
 Async::Queue                      0.021  T/TO/TOSHIOITO/Async-Queue-0.021.tar.gz
 Async::Redis                   0.002000  J/JJ/JJNAPIORK/Async-Redis-0.002000.tar.gz
 Async::Redis::AutoPipeline        undef  J/JJ/JJNAPIORK/Async-Redis-0.002000.tar.gz
