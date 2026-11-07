@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262809
-Last-Updated: Sat, 07 Nov 2026 02:41:02 GMT
+Line-Count:   262810
+Last-Updated: Sat, 07 Nov 2026 05:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -67905,26 +67905,27 @@ Dist::Build::XS::Import           0.028  L/LE/LEONT/Dist-Build-0.028.tar.gz
 Dist::Build::XS::PkgConfig        0.002  L/LE/LEONT/Dist-Build-XS-PkgConfig-0.002.tar.gz
 Dist::Build::XS::WriteConstants   0.028  L/LE/LEONT/Dist-Build-0.028.tar.gz
 Dist::CheckConflicts               0.11  D/DO/DOY/Dist-CheckConflicts-0.11.tar.gz
-Dist::Conformance                 0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Check          0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Check::ClaudeMd 0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Check::ClaudeSettings 0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Check::CriticProfile 0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Check::DataSchema 0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Check::DistFiles 0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Check::GitHooks 0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Check::ToolConfiguration 0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Check::Workflows 0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Config         0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Flavor         0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Schema         0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Snapshot       0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Snapshot::Directory 0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Snapshot::Tree 0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Source         0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Source::Directory 0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Source::Git    0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
-Dist::Conformance::Update         0.002  T/TE/TEODESIAN/Dist-Conformance-0.002.tar.gz
+Dist::Conformance                 0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Check          0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Check::ClaudeMd 0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Check::ClaudeSettings 0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Check::CriticProfile 0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Check::DataSchema 0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Check::DistFiles 0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Check::GitHooks 0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Check::SystemPackages 0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Check::ToolConfiguration 0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Check::Workflows 0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Config         0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Flavor         0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Schema         0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Snapshot       0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Snapshot::Directory 0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Snapshot::Tree 0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Source         0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Source::Directory 0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Source::Git    0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
+Dist::Conformance::Update         0.003  T/TE/TEODESIAN/Dist-Conformance-0.003.tar.gz
 Dist::Data                        0.007  G/GE/GETTY/Dist-Data-0.007.tar.gz
 Dist::Dzpl                       0.0020  R/RO/ROKR/Dist-Dzpl-0.0020.tar.gz
 Dist::Dzpl::App                   undef  R/RO/ROKR/Dist-Dzpl-0.0020.tar.gz
