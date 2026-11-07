@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670406
+Line-Count:  670411
 Written-By:  PAUSE version 1.005
-Date:        Sat, 07 Nov 2026 20:41:13 GMT
+Date:        Sat, 07 Nov 2026 21:18:19 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -631472,14 +631472,19 @@ Validator::ErrorCode,PLCGI,f
 Validator::Example,BPMEDLEY,f
 Validator::Group,SEMENOVF,f
 Validator::LIVR,KOORCHIK,f
+Validator::LIVR::Rules::Collection,KOORCHIK,f
 Validator::LIVR::Rules::Common,KOORCHIK,f
+Validator::LIVR::Rules::Conditional,KOORCHIK,f
+Validator::LIVR::Rules::DateTime,KOORCHIK,f
 Validator::LIVR::Rules::Filters,KOORCHIK,f
+Validator::LIVR::Rules::Format,KOORCHIK,f
 Validator::LIVR::Rules::Helpers,KOORCHIK,f
 Validator::LIVR::Rules::Meta,KOORCHIK,f
 Validator::LIVR::Rules::Modifiers,KOORCHIK,f
 Validator::LIVR::Rules::Numeric,KOORCHIK,f
 Validator::LIVR::Rules::Special,KOORCHIK,f
 Validator::LIVR::Rules::String,KOORCHIK,f
+Validator::LIVR::Rules::Types,KOORCHIK,f
 Validator::Lazy,ANTONC,f
 Validator::Lazy::Role::Check,ANTONC,f
 Validator::Lazy::Role::Check::Case,ANTONC,f
