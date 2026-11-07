@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262812
-Last-Updated: Sat, 07 Nov 2026 17:41:02 GMT
+Last-Updated: Sat, 07 Nov 2026 20:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -30319,8 +30319,8 @@ Brownie::XPath                    undef  M/MA/MASAKI/Brownie-0.09.tar.gz
 Browser::Find::Windows            0.002  P/PE/PERLANCAR/Browser-Find-Windows-0.002.tar.gz
 Browser::LibModule                 0.67  R/RK/RKIES/Tk-Browser-0.82-1.tar.gz
 Browser::LibModuleSymbol           0.53  R/RK/RKIES/Tk-Browser-0.82-1.tar.gz
-Browser::OIDC                     0.002  L/LE/LEONT/Browser-OIDC-0.002.tar.gz
-Browser::OIDC::TokenResponse      0.002  L/LE/LEONT/Browser-OIDC-0.002.tar.gz
+Browser::OIDC                     0.003  L/LE/LEONT/Browser-OIDC-0.003.tar.gz
+Browser::OIDC::TokenResponse      0.003  L/LE/LEONT/Browser-OIDC-0.003.tar.gz
 Browser::Open                      0.04  C/CF/CFRANKS/Browser-Open-0.04.tar.gz
 Browser::Start                     0.01  P/PL/PLICEASE/Browser-Start-0.01.tar.gz
 Browsermob::Proxy                  0.17  G/GE/GEMPESAW/Browsermob-Proxy-0.17.tar.gz
