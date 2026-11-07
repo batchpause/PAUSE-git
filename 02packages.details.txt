@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262811
-Last-Updated: Sat, 07 Nov 2026 16:29:02 GMT
+Last-Updated: Sat, 07 Nov 2026 16:53:48 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -49693,15 +49693,15 @@ CPANPLUS::Dist::Build              0.90  B/BI/BINGOS/CPANPLUS-Dist-Build-0.90.ta
 CPANPLUS::Dist::Build::Constants   0.90  B/BI/BINGOS/CPANPLUS-Dist-Build-0.90.tar.gz
 CPANPLUS::Dist::Deb                0.12  K/KA/KANE/CPANPLUS-Dist-Deb-0.12.tar.gz
 CPANPLUS::Dist::Deb::Constants     0.01  K/KA/KANE/CPANPLUS-Dist-Deb-0.12.tar.gz
-CPANPLUS::Dist::Debora            0.018  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.018.tar.gz
-CPANPLUS::Dist::Debora::License   0.018  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.018.tar.gz
-CPANPLUS::Dist::Debora::Package   0.018  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.018.tar.gz
-CPANPLUS::Dist::Debora::Package::Debian 0.018  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.018.tar.gz
-CPANPLUS::Dist::Debora::Package::Mageia 0.018  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.018.tar.gz
-CPANPLUS::Dist::Debora::Package::RPM 0.018  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.018.tar.gz
-CPANPLUS::Dist::Debora::Package::Tar 0.018  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.018.tar.gz
-CPANPLUS::Dist::Debora::Pod       0.018  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.018.tar.gz
-CPANPLUS::Dist::Debora::Util      0.018  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.018.tar.gz
+CPANPLUS::Dist::Debora            0.019  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.019.tar.gz
+CPANPLUS::Dist::Debora::License   0.019  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.019.tar.gz
+CPANPLUS::Dist::Debora::Package   0.019  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.019.tar.gz
+CPANPLUS::Dist::Debora::Package::Debian 0.019  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.019.tar.gz
+CPANPLUS::Dist::Debora::Package::Mageia 0.019  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.019.tar.gz
+CPANPLUS::Dist::Debora::Package::RPM 0.019  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.019.tar.gz
+CPANPLUS::Dist::Debora::Package::Tar 0.019  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.019.tar.gz
+CPANPLUS::Dist::Debora::Pod       0.019  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.019.tar.gz
+CPANPLUS::Dist::Debora::Util      0.019  V/VO/VOEGELAS/CPANPLUS-Dist-Debora-0.019.tar.gz
 CPANPLUS::Dist::Fedora           v0.4.4  S/SH/SHLOMIF/CPANPLUS-Dist-Fedora-0.4.4.tar.gz
 CPANPLUS::Dist::Gentoo             0.12  V/VP/VPIT/CPANPLUS-Dist-Gentoo-0.12.tar.gz
 CPANPLUS::Dist::Gentoo::Atom       0.12  V/VP/VPIT/CPANPLUS-Dist-Gentoo-0.12.tar.gz
