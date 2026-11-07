@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262809
-Last-Updated: Fri, 06 Nov 2026 21:17:02 GMT
+Last-Updated: Sat, 07 Nov 2026 02:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -113626,7 +113626,7 @@ JSON::Validator::Schema::Draft6   undef  J/JH/JHTHORSEN/JSON-Validator-5.19.tar.
 JSON::Validator::Schema::Draft7   undef  J/JH/JHTHORSEN/JSON-Validator-5.19.tar.gz
 JSON::Validator::Schema::OpenAPIv2 undef  J/JH/JHTHORSEN/JSON-Validator-5.19.tar.gz
 JSON::Validator::Schema::OpenAPIv3 undef  J/JH/JHTHORSEN/JSON-Validator-5.19.tar.gz
-JSON::Validator::Schema::Troglodyne 1.000  T/TE/TEODESIAN/json-validator-schema-troglodyne-1.000.tar.gz
+JSON::Validator::Schema::Troglodyne 1.001  T/TE/TEODESIAN/json-validator-schema-troglodyne-1.001.tar.gz
 JSON::Validator::Store            undef  J/JH/JHTHORSEN/JSON-Validator-5.19.tar.gz
 JSON::Validator::URI              undef  J/JH/JHTHORSEN/JSON-Validator-5.19.tar.gz
 JSON::Validator::Util             undef  J/JH/JHTHORSEN/JSON-Validator-5.19.tar.gz
