@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262810
-Last-Updated: Sat, 07 Nov 2026 08:29:02 GMT
+Last-Updated: Sat, 07 Nov 2026 12:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -65694,7 +65694,7 @@ Devel::Cover::Report::Codecov::Service::Travis 0.02  P/PI/PINE/Devel-Cover-Repor
 Devel::Cover::Report::Codecov::Service::Wercker undef  P/PI/PINE/Devel-Cover-Report-Codecov-0.25.tar.gz
 Devel::Cover::Report::Codecovbash v0.43.0  T/TI/TINITA/Devel-Cover-Report-Codecovbash-v0.43.0.tar.gz
 Devel::Cover::Report::Compilation  1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
-Devel::Cover::Report::Coveralls    0.32  M/MI/MIKIHOSHI/Devel-Cover-Report-Coveralls-0.32.tar.gz
+Devel::Cover::Report::Coveralls  v1.0.0  M/MI/MIKIHOSHI/Devel-Cover-Report-Coveralls-1.0.0.tar.gz
 Devel::Cover::Report::Html         1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
 Devel::Cover::Report::Html_basic   1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
 Devel::Cover::Report::Html_basic::Template::Provider 1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
