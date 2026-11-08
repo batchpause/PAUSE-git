@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262899
-Last-Updated: Sun, 08 Nov 2026 18:17:02 GMT
+Line-Count:   262900
+Last-Updated: Sun, 08 Nov 2026 18:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -62141,13 +62141,14 @@ DBIO::MySQL::Diff::Index       0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
 DBIO::MySQL::Diff::PrimaryKey  0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
 DBIO::MySQL::Diff::Table       0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
 DBIO::MySQL::Diff::View        0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
-DBIO::MySQL::EV                0.900001  G/GE/GETTY/DBIO-MySQL-EV-0.900001.tar.gz
-DBIO::MySQL::EV::ConnectInfo   0.900001  G/GE/GETTY/DBIO-MySQL-EV-0.900001.tar.gz
-DBIO::MySQL::EV::Pool          0.900001  G/GE/GETTY/DBIO-MySQL-EV-0.900001.tar.gz
-DBIO::MySQL::EV::QueryExecutor 0.900001  G/GE/GETTY/DBIO-MySQL-EV-0.900001.tar.gz
-DBIO::MySQL::EV::Storage       0.900001  G/GE/GETTY/DBIO-MySQL-EV-0.900001.tar.gz
-DBIO::MySQL::EV::TestHarness   0.900001  G/GE/GETTY/DBIO-MySQL-EV-0.900001.tar.gz
-DBIO::MySQL::EV::TransactionContext 0.900001  G/GE/GETTY/DBIO-MySQL-EV-0.900001.tar.gz
+DBIO::MySQL::EV                0.900004  G/GE/GETTY/DBIO-MySQL-EV-0.900004.tar.gz
+DBIO::MySQL::EV::ConnectInfo   0.900004  G/GE/GETTY/DBIO-MySQL-EV-0.900004.tar.gz
+DBIO::MySQL::EV::Future        0.900004  G/GE/GETTY/DBIO-MySQL-EV-0.900004.tar.gz
+DBIO::MySQL::EV::Pool          0.900004  G/GE/GETTY/DBIO-MySQL-EV-0.900004.tar.gz
+DBIO::MySQL::EV::QueryExecutor 0.900004  G/GE/GETTY/DBIO-MySQL-EV-0.900004.tar.gz
+DBIO::MySQL::EV::Storage       0.900004  G/GE/GETTY/DBIO-MySQL-EV-0.900004.tar.gz
+DBIO::MySQL::EV::TestHarness   0.900004  G/GE/GETTY/DBIO-MySQL-EV-0.900004.tar.gz
+DBIO::MySQL::EV::TransactionContext 0.900004  G/GE/GETTY/DBIO-MySQL-EV-0.900004.tar.gz
 DBIO::MySQL::Identifier        0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
 DBIO::MySQL::IndexType         0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
 DBIO::MySQL::Introspect        0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
