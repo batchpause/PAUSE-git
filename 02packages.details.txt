@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262863
-Last-Updated: Sun, 08 Nov 2026 17:41:02 GMT
+Line-Count:   262866
+Last-Updated: Sun, 08 Nov 2026 17:54:00 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -58864,8 +58864,8 @@ Data::ZPath::Node              0.001000  T/TO/TOBYINK/Data-ZPath-0.001000.tar.gz
 Data::ZPath::NodeList          0.001000  T/TO/TOBYINK/Data-ZPath-0.001000.tar.gz
 data_file                          2.22  C/CJ/CJONES/Microarray-0.45c.zip
 DataAccess                        undef  A/AY/AYMULYAR/SemMed-Interface-0.05.tar.gz
-Database::Abstraction              0.55  N/NH/NHORNE/Database-Abstraction-0.55.tar.gz
-Database::Abstraction::Query       0.55  N/NH/NHORNE/Database-Abstraction-0.55.tar.gz
+Database::Abstraction              0.56  N/NH/NHORNE/Database-Abstraction-0.56.tar.gz
+Database::Abstraction::Query       0.56  N/NH/NHORNE/Database-Abstraction-0.56.tar.gz
 Database::Async                   0.019  T/TE/TEAM/Database-Async-0.019.tar.gz
 Database::Async::Backoff          0.019  T/TE/TEAM/Database-Async-0.019.tar.gz
 Database::Async::Backoff::Exponential 0.019  T/TE/TEAM/Database-Async-0.019.tar.gz
@@ -62068,9 +62068,9 @@ DBIO::Firebird::Storage::Common 0.900001  G/GE/GETTY/DBIO-Firebird-0.900001.tar.
 DBIO::Firebird::Storage::InterBase 0.900001  G/GE/GETTY/DBIO-Firebird-0.900001.tar.gz
 DBIO::Firebird::Test::SequenceTest 0.900001  G/GE/GETTY/DBIO-Firebird-0.900001.tar.gz
 DBIO::Firebird::Type           0.900001  G/GE/GETTY/DBIO-Firebird-0.900001.tar.gz
-DBIO::Forked                   0.900001  G/GE/GETTY/DBIO-Forked-0.900001.tar.gz
-DBIO::Forked::Future           0.900001  G/GE/GETTY/DBIO-Forked-0.900001.tar.gz
-DBIO::Forked::Storage          0.900001  G/GE/GETTY/DBIO-Forked-0.900001.tar.gz
+DBIO::Forked                   0.900004  G/GE/GETTY/DBIO-Forked-0.900004.tar.gz
+DBIO::Forked::Future           0.900004  G/GE/GETTY/DBIO-Forked-0.900004.tar.gz
+DBIO::Forked::Storage          0.900004  G/GE/GETTY/DBIO-Forked-0.900004.tar.gz
 DBIO::Future                   0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Future::Immediate        0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Generate                 0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
@@ -62081,13 +62081,16 @@ DBIO::Generate::Style::Moo     0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Generate::Style::Moose   0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Generate::Style::Vanilla 0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Generate::Util           0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
-DBIO::GraphQL                  0.900001  G/GE/GETTY/DBIO-GraphQL-0.900001.tar.gz
-DBIO::GraphQL::Filter          0.900001  G/GE/GETTY/DBIO-GraphQL-0.900001.tar.gz
-DBIO::GraphQL::Filter::Null    0.900001  G/GE/GETTY/DBIO-GraphQL-0.900001.tar.gz
-DBIO::GraphQL::Filter::Search  0.900001  G/GE/GETTY/DBIO-GraphQL-0.900001.tar.gz
-DBIO::GraphQL::Mutation        0.900001  G/GE/GETTY/DBIO-GraphQL-0.900001.tar.gz
-DBIO::GraphQL::Relationship    0.900001  G/GE/GETTY/DBIO-GraphQL-0.900001.tar.gz
-DBIO::GraphQL::ScalarMap       0.900001  G/GE/GETTY/DBIO-GraphQL-0.900001.tar.gz
+DBIO::GraphQL                  0.900004  G/GE/GETTY/DBIO-GraphQL-0.900004.tar.gz
+DBIO::GraphQL::Error           0.900004  G/GE/GETTY/DBIO-GraphQL-0.900004.tar.gz
+DBIO::GraphQL::Filter          0.900004  G/GE/GETTY/DBIO-GraphQL-0.900004.tar.gz
+DBIO::GraphQL::Filter::Null    0.900004  G/GE/GETTY/DBIO-GraphQL-0.900004.tar.gz
+DBIO::GraphQL::Filter::Search  0.900004  G/GE/GETTY/DBIO-GraphQL-0.900004.tar.gz
+DBIO::GraphQL::Limits          0.900004  G/GE/GETTY/DBIO-GraphQL-0.900004.tar.gz
+DBIO::GraphQL::Mutation        0.900004  G/GE/GETTY/DBIO-GraphQL-0.900004.tar.gz
+DBIO::GraphQL::Policy          0.900004  G/GE/GETTY/DBIO-GraphQL-0.900004.tar.gz
+DBIO::GraphQL::Relationship    0.900004  G/GE/GETTY/DBIO-GraphQL-0.900004.tar.gz
+DBIO::GraphQL::ScalarMap       0.900004  G/GE/GETTY/DBIO-GraphQL-0.900004.tar.gz
 DBIO::HashAccessor             0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::InflateColumn            0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::InflateColumn::DateTime  0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz

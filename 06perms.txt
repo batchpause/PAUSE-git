@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670452
+Line-Count:  670472
 Written-By:  PAUSE version 1.005
-Date:        Sun, 08 Nov 2026 17:41:20 GMT
+Date:        Sun, 08 Nov 2026 17:55:16 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -105908,10 +105908,13 @@ DBIO::Generate::Style::Moose,GETTY,f
 DBIO::Generate::Style::Vanilla,GETTY,f
 DBIO::Generate::Util,GETTY,f
 DBIO::GraphQL,GETTY,f
+DBIO::GraphQL::Error,GETTY,f
 DBIO::GraphQL::Filter,GETTY,f
 DBIO::GraphQL::Filter::Null,GETTY,f
 DBIO::GraphQL::Filter::Search,GETTY,f
+DBIO::GraphQL::Limits,GETTY,f
 DBIO::GraphQL::Mutation,GETTY,f
+DBIO::GraphQL::Policy,GETTY,f
 DBIO::GraphQL::Relationship,GETTY,f
 DBIO::GraphQL::ScalarMap,GETTY,f
 DBIO::HashAccessor,GETTY,f
@@ -106028,21 +106031,31 @@ DBIO::PostgreSQL::Async::TransactionContext,GETTY,f
 DBIO::PostgreSQL::DDL,GETTY,f
 DBIO::PostgreSQL::Deploy,GETTY,f
 DBIO::PostgreSQL::Diff,GETTY,f
+DBIO::PostgreSQL::Diff::CaseOnly,GETTY,f
 DBIO::PostgreSQL::Diff::Column,GETTY,f
+DBIO::PostgreSQL::Diff::Dependents,GETTY,f
 DBIO::PostgreSQL::Diff::Extension,GETTY,f
+DBIO::PostgreSQL::Diff::ForeignKey,GETTY,f
 DBIO::PostgreSQL::Diff::Function,GETTY,f
 DBIO::PostgreSQL::Diff::Index,GETTY,f
+DBIO::PostgreSQL::Diff::NoStatement,GETTY,f
 DBIO::PostgreSQL::Diff::Policy,GETTY,f
 DBIO::PostgreSQL::Diff::Schema,GETTY,f
+DBIO::PostgreSQL::Diff::Sequence,GETTY,f
+DBIO::PostgreSQL::Diff::SequenceOwner,GETTY,f
 DBIO::PostgreSQL::Diff::Table,GETTY,f
 DBIO::PostgreSQL::Diff::Trigger,GETTY,f
 DBIO::PostgreSQL::Diff::Type,GETTY,f
+DBIO::PostgreSQL::Diff::View,GETTY,f
 DBIO::PostgreSQL::EV,GETTY,f
 DBIO::PostgreSQL::EV::ConnectInfo,GETTY,f
 DBIO::PostgreSQL::EV::Pool,GETTY,f
 DBIO::PostgreSQL::EV::Storage,GETTY,f
 DBIO::PostgreSQL::EV::TestHarness,GETTY,f
 DBIO::PostgreSQL::EV::TransactionContext,GETTY,f
+DBIO::PostgreSQL::Extension,GETTY,f
+DBIO::PostgreSQL::InflateColumn::TSVector,GETTY,f
+DBIO::PostgreSQL::InflateColumn::Vector,GETTY,f
 DBIO::PostgreSQL::Introspect,GETTY,f
 DBIO::PostgreSQL::Introspect::CheckConstraints,GETTY,f
 DBIO::PostgreSQL::Introspect::Columns,GETTY,f
@@ -106051,6 +106064,8 @@ DBIO::PostgreSQL::Introspect::ForeignKeys,GETTY,f
 DBIO::PostgreSQL::Introspect::Functions,GETTY,f
 DBIO::PostgreSQL::Introspect::Indexes,GETTY,f
 DBIO::PostgreSQL::Introspect::Normalize,GETTY,f
+DBIO::PostgreSQL::Introspect::OutsideDependents,GETTY,f
+DBIO::PostgreSQL::Introspect::OutsideReaders,GETTY,f
 DBIO::PostgreSQL::Introspect::Parse,GETTY,f
 DBIO::PostgreSQL::Introspect::Policies,GETTY,f
 DBIO::PostgreSQL::Introspect::Schemas,GETTY,f
@@ -106071,11 +106086,16 @@ DBIO::PostgreSQL::PostGIS::Introspect,GETTY,f
 DBIO::PostgreSQL::PostGIS::ResultSet,GETTY,f
 DBIO::PostgreSQL::PostGIS::Storage,GETTY,f
 DBIO::PostgreSQL::Result,GETTY,f
+DBIO::PostgreSQL::ResultSet,GETTY,f
 DBIO::PostgreSQL::SQLMaker,GETTY,f
 DBIO::PostgreSQL::Storage,GETTY,f
 DBIO::PostgreSQL::Storage::Async,GETTY,f
+DBIO::PostgreSQL::Test::Conformance,GETTY,f
 DBIO::PostgreSQL::Test::EventTZPg,GETTY,f
 DBIO::PostgreSQL::Test::SequenceTest,GETTY,f
+DBIO::PostgreSQL::Util,GETTY,f
+DBIO::PostgreSQL::Vector,GETTY,f
+DBIO::PostgreSQL::Vector::Op,GETTY,f
 DBIO::Relationship,GETTY,f
 DBIO::Relationship::Base,GETTY,f
 DBIO::Relationship::BelongsTo,GETTY,f
