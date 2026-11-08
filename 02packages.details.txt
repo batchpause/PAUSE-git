@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262853
-Last-Updated: Sun, 08 Nov 2026 16:29:01 GMT
+Line-Count:   262854
+Last-Updated: Sun, 08 Nov 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -61974,10 +61974,11 @@ DBIO::AccessBroker::Static     0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::AccessBroker::Vault      0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Adapter::Base            0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Admin                    0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
-DBIO::Async                    0.900001  G/GE/GETTY/DBIO-Async-0.900001.tar.gz
-DBIO::Async::Pool              0.900001  G/GE/GETTY/DBIO-Async-0.900001.tar.gz
-DBIO::Async::Storage           0.900001  G/GE/GETTY/DBIO-Async-0.900001.tar.gz
-DBIO::Async::TransactionContext 0.900001  G/GE/GETTY/DBIO-Async-0.900001.tar.gz
+DBIO::Async                    0.900004  G/GE/GETTY/DBIO-Async-0.900004.tar.gz
+DBIO::Async::Future            0.900004  G/GE/GETTY/DBIO-Async-0.900004.tar.gz
+DBIO::Async::Pool              0.900004  G/GE/GETTY/DBIO-Async-0.900004.tar.gz
+DBIO::Async::Storage           0.900004  G/GE/GETTY/DBIO-Async-0.900004.tar.gz
+DBIO::Async::TransactionContext 0.900004  G/GE/GETTY/DBIO-Async-0.900004.tar.gz
 DBIO::Base                     0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Cake                     0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Candy                    0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
