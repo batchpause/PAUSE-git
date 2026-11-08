@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262835
-Last-Updated: Sun, 08 Nov 2026 15:17:02 GMT
+Last-Updated: Sun, 08 Nov 2026 15:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -41958,7 +41958,7 @@ CGI::LDAPSession                    0.9  J/JE/JEFF/CGISession.tar.gz
 CGI::LDAPSession::CGI               0.9  J/JE/JEFF/CGISession.tar.gz
 CGI::LDAPSession::CookieJar::DBI  undef  J/JE/JEFF/CGISession.tar.gz
 CGI::LDAPSession::LDAPServer        0.9  J/JE/JEFF/CGISession.tar.gz
-CGI::Lingua                        0.87  N/NH/NHORNE/CGI-Lingua-0.87.tar.gz
+CGI::Lingua                        0.88  N/NH/NHORNE/CGI-Lingua-0.88.tar.gz
 CGI::List                          0.05  R/RO/ROMDAV/CGI-List-0.05.tar.gz
 CGI::Listman                       0.05  H/HP/HPYHACKER/CGI-Listman-0.05.tar.gz
 CGI::Listman::dictionary           0.02  H/HP/HPYHACKER/CGI-Listman-0.02.tar.gz
@@ -221816,7 +221816,7 @@ Stats::Fermi::FermiDiracStats     undef  K/KO/KOBOLDWIZ/Perl5/Stats-Fermi-0.1.7.
 Stats::Hawking                 0.001003  K/KO/KOBOLDWIZ/Perl5/Stats-Hawking-0.1.3.tar.gz
 Stats::Hawking::HawkingTemperature undef  K/KO/KOBOLDWIZ/Perl5/Stats-Hawking-0.1.3.tar.gz
 Stats::Hawking::HTRandom          undef  K/KO/KOBOLDWIZ/Perl5/Stats-Hawking-0.1.3.tar.gz
-Stats::LikeR                     0.3417  D/DC/DCON/Stats-LikeR-0.3417.tar.gz
+Stats::LikeR                     0.3418  D/DC/DCON/Stats-LikeR-0.3418.tar.gz
 Stats::LikeR::col                  0.28  D/DC/DCON/Stats-LikeR-0.28.tar.gz
 Stats::LikeR::Pred                 0.16  D/DC/DCON/Stats-LikeR-0.16.tar.gz
 Stats::LikeR::Usage              0.3413  D/DC/DCON/Stats-LikeR-0.3413.tar.gz
