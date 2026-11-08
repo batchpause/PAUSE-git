@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670498
+Line-Count:  670505
 Written-By:  PAUSE version 1.005
-Date:        Sun, 08 Nov 2026 18:42:02 GMT
+Date:        Sun, 08 Nov 2026 18:55:15 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -105934,20 +105934,27 @@ DBIO::MSSQL::Diff,GETTY,f
 DBIO::MSSQL::Diff::Column,GETTY,f
 DBIO::MSSQL::Diff::ForeignKey,GETTY,f
 DBIO::MSSQL::Diff::Index,GETTY,f
+DBIO::MSSQL::Diff::PrimaryKey,GETTY,f
+DBIO::MSSQL::Diff::Schema,GETTY,f
 DBIO::MSSQL::Diff::Table,GETTY,f
+DBIO::MSSQL::Diff::View,GETTY,f
 DBIO::MSSQL::Introspect,GETTY,f
 DBIO::MSSQL::Introspect::Columns,GETTY,f
 DBIO::MSSQL::Introspect::ForeignKeys,GETTY,f
 DBIO::MSSQL::Introspect::Indexes,GETTY,f
 DBIO::MSSQL::Introspect::Tables,GETTY,f
+DBIO::MSSQL::Introspect::Views,GETTY,f
 DBIO::MSSQL::Result,GETTY,f
 DBIO::MSSQL::SQLMaker,GETTY,f
 DBIO::MSSQL::Storage,GETTY,f
 DBIO::MSSQL::Storage::DateTime::Format,GETTY,f
 DBIO::MSSQL::Storage::ODBC,GETTY,f
+DBIO::MSSQL::Storage::StopAtFirstError,GETTY,f
 DBIO::MSSQL::Storage::Sybase,GETTY,f
 DBIO::MSSQL::Storage::Sybase::DateTime::Format,GETTY,f
 DBIO::MSSQL::Storage::Sybase::NoBindVars,GETTY,f
+DBIO::MSSQL::Test::Conformance,GETTY,f
+DBIO::MSSQL::Util,GETTY,f
 DBIO::Moo,GETTY,f
 DBIO::Moose,GETTY,f
 DBIO::MySQL,GETTY,f

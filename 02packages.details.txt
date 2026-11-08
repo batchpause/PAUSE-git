@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262909
-Last-Updated: Sun, 08 Nov 2026 18:41:02 GMT
+Line-Count:   262916
+Last-Updated: Sun, 08 Nov 2026 18:54:00 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -62102,28 +62102,35 @@ DBIO::Introspect::Base         0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Introspect::DBI          0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Moo                      0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Moose                    0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
-DBIO::MSSQL                    0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Adapter           0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::DDL               0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Deploy            0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Diff              0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Diff::Column      0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Diff::ForeignKey  0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Diff::Index       0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Diff::Table       0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Introspect        0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Introspect::Columns 0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Introspect::ForeignKeys 0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Introspect::Indexes 0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Introspect::Tables 0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Result            0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::SQLMaker          0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Storage           0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Storage::DateTime::Format 0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Storage::ODBC     0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Storage::Sybase   0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Storage::Sybase::DateTime::Format 0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
-DBIO::MSSQL::Storage::Sybase::NoBindVars 0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
+DBIO::MSSQL                    0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Adapter           0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::DDL               0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Deploy            0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Diff              0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Diff::Column      0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Diff::ForeignKey  0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Diff::Index       0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Diff::PrimaryKey  0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Diff::Schema      0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Diff::Table       0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Diff::View        0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Introspect        0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Introspect::Columns 0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Introspect::ForeignKeys 0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Introspect::Indexes 0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Introspect::Tables 0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Introspect::Views 0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Result            0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::SQLMaker          0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Storage           0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Storage::DateTime::Format 0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Storage::ODBC     0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Storage::StopAtFirstError 0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Storage::Sybase   0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Storage::Sybase::DateTime::Format 0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Storage::Sybase::NoBindVars 0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Test::Conformance 0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
+DBIO::MSSQL::Util              0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
 DBIO::MySQL                    0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
 DBIO::MySQL::Adapter           0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
 DBIO::MySQL::Async             0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
@@ -62325,7 +62332,7 @@ DBIO::Schema::Versioned        0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar
 DBIO::Shortcut::db2            0.900001  G/GE/GETTY/DBIO-DB2-0.900001.tar.gz
 DBIO::Shortcut::du             0.900001  G/GE/GETTY/DBIO-DuckDB-0.900001.tar.gz
 DBIO::Shortcut::fb             0.900001  G/GE/GETTY/DBIO-Firebird-0.900001.tar.gz
-DBIO::Shortcut::ms             0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
+DBIO::Shortcut::ms             0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
 DBIO::Shortcut::mysql          0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
 DBIO::Shortcut::ora            0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
 DBIO::Shortcut::pg             0.900004  G/GE/GETTY/DBIO-PostgreSQL-0.900004.tar.gz
