@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670571
+Line-Count:  670596
 Written-By:  PAUSE version 1.005
-Date:        Sun, 08 Nov 2026 19:18:16 GMT
+Date:        Sun, 08 Nov 2026 19:30:08 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -105971,6 +105971,30 @@ DBIO::InflateColumn::Serializer,GETTY,f
 DBIO::InflateColumn::Serializer::JSON,GETTY,f
 DBIO::InflateColumn::Serializer::MessagePack,GETTY,f
 DBIO::InflateColumn::Serializer::YAML,GETTY,f
+DBIO::Informix,GETTY,f
+DBIO::Informix::ColumnDef,GETTY,f
+DBIO::Informix::DDL,GETTY,f
+DBIO::Informix::Deploy,GETTY,f
+DBIO::Informix::Diff,GETTY,f
+DBIO::Informix::Diff::Column,GETTY,f
+DBIO::Informix::Diff::ForeignKey,GETTY,f
+DBIO::Informix::Diff::Index,GETTY,f
+DBIO::Informix::Diff::PrimaryKey,GETTY,f
+DBIO::Informix::Diff::Table,GETTY,f
+DBIO::Informix::Diff::UniqueConstraint,GETTY,f
+DBIO::Informix::Introspect,GETTY,f
+DBIO::Informix::Introspect::Columns,GETTY,f
+DBIO::Informix::Introspect::ForeignKeys,GETTY,f
+DBIO::Informix::Introspect::Indexes,GETTY,f
+DBIO::Informix::Introspect::Tables,GETTY,f
+DBIO::Informix::Introspect::UniqueConstraints,GETTY,f
+DBIO::Informix::Introspect::Util,GETTY,f
+DBIO::Informix::SQLMaker,GETTY,f
+DBIO::Informix::Storage,GETTY,f
+DBIO::Informix::Storage::DateTime::Format,GETTY,f
+DBIO::Informix::Test::Conformance,GETTY,f
+DBIO::Informix::Types,GETTY,f
+DBIO::Informix::Util,GETTY,f
 DBIO::Introspect::Base,GETTY,f
 DBIO::Introspect::DBI,GETTY,f
 DBIO::MSSQL,GETTY,f
@@ -106237,6 +106261,7 @@ DBIO::Shortcut::ch,GETTY,f
 DBIO::Shortcut::db2,GETTY,f
 DBIO::Shortcut::du,GETTY,f
 DBIO::Shortcut::fb,GETTY,f
+DBIO::Shortcut::ix,GETTY,f
 DBIO::Shortcut::ms,GETTY,f
 DBIO::Shortcut::mysql,GETTY,f
 DBIO::Shortcut::ora,GETTY,f
