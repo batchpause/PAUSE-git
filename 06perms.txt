@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670424
+Line-Count:  670441
 Written-By:  PAUSE version 1.005
-Date:        Sun, 08 Nov 2026 13:41:09 GMT
+Date:        Sun, 08 Nov 2026 16:17:36 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -105845,6 +105845,7 @@ DBIO::DeploymentHandler::VersionHandler::Monotonic,GETTY,f
 DBIO::DeploymentHandler::VersionStorage::Standard,GETTY,f
 DBIO::DeploymentHandler::VersionStorage::Standard::Component,GETTY,f
 DBIO::DeploymentHandler::VersionStorage::Standard::VersionResult,GETTY,f
+DBIO::DeploymentHandler::VersionStorage::Standard::VersionResultSet,GETTY,f
 DBIO::Deprecated,GETTY,f
 DBIO::Diff::Base,GETTY,f
 DBIO::Diff::Compare,GETTY,f
@@ -105867,6 +105868,10 @@ DBIO::DuckDB::Storage,GETTY,f
 DBIO::DuckDB::Test,GETTY,f
 DBIO::EncodedColumn,GETTY,f
 DBIO::Exception,GETTY,f
+DBIO::Exception::Server,GETTY,f
+DBIO::Extension,GETTY,f
+DBIO::Extension::List,GETTY,f
+DBIO::Extension::Protocol,GETTY,f
 DBIO::FilterColumn,GETTY,f
 DBIO::Firebird,GETTY,f
 DBIO::Firebird::DDL,GETTY,f
@@ -106140,6 +106145,7 @@ DBIO::Skills,GETTY,f
 DBIO::StartupCheck,GETTY,f
 DBIO::Storage,GETTY,f
 DBIO::Storage::Async,GETTY,f
+DBIO::Storage::Async::PipelineContext,GETTY,f
 DBIO::Storage::Async::TransactionContext,GETTY,f
 DBIO::Storage::BlockRunner,GETTY,f
 DBIO::Storage::Composed,GETTY,f
@@ -106151,6 +106157,7 @@ DBIO::Storage::DBI::Cursor,GETTY,f
 DBIO::Storage::DBI::DataTypeClassifier,GETTY,f
 DBIO::Storage::DBI::IdentityInsert,GETTY,f
 DBIO::Storage::DBI::NoBindVars,GETTY,f
+DBIO::Storage::DBI::NoBindVars::Interpolated,GETTY,f
 DBIO::Storage::DBI::ODBC,GETTY,f
 DBIO::Storage::DBI::UniqueIdentifier,GETTY,f
 DBIO::Storage::DateTimeFormat,GETTY,f
@@ -106194,12 +106201,21 @@ DBIO::Sybase::Storage::ASE::NoBindVars,GETTY,f
 DBIO::Sybase::Storage::ASE::TxnManager,GETTY,f
 DBIO::Sybase::Storage::FreeTDS,GETTY,f
 DBIO::Test,GETTY,f
+DBIO::Test::AsyncHarness,GETTY,f
+DBIO::Test::AsyncParity,GETTY,f
+DBIO::Test::AsyncParity::Cases,GETTY,f
 DBIO::Test::BaseResult,GETTY,f
 DBIO::Test::BaseResultSet,GETTY,f
+DBIO::Test::Conformance,GETTY,f
+DBIO::Test::Conformance::Cases::Bind,GETTY,f
+DBIO::Test::Conformance::Cases::DDL,GETTY,f
+DBIO::Test::Conformance::Cases::Diff,GETTY,f
+DBIO::Test::Conformance::Cases::Names,GETTY,f
 DBIO::Test::Cursor,GETTY,f
 DBIO::Test::DateTimeParser,GETTY,f
 DBIO::Test::DeployComponent,GETTY,f
 DBIO::Test::ErrorComponent,GETTY,f
+DBIO::Test::ExtensionSet,GETTY,f
 DBIO::Test::FakeComponent,GETTY,f
 DBIO::Test::ForeignComponent,GETTY,f
 DBIO::Test::Future,GETTY,f
@@ -106225,6 +106241,7 @@ DBIO::Test::ResultSetManager,GETTY,f
 DBIO::Test::SQLMRebase,GETTY,f
 DBIO::Test::Schema,GETTY,f
 DBIO::Test::Storage,GETTY,f
+DBIO::Test::StorageLayer,GETTY,f
 DBIO::Test::SyntaxErrorComponent1,GETTY,f
 DBIO::Test::SyntaxErrorComponent2,GETTY,f
 DBIO::Test::SyntaxErrorComponent3,GETTY,f
