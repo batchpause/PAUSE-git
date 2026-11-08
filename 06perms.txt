@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670423
+Line-Count:  670424
 Written-By:  PAUSE version 1.005
-Date:        Sun, 08 Nov 2026 11:55:09 GMT
+Date:        Sun, 08 Nov 2026 13:41:09 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -554272,6 +554272,7 @@ RF::Component,EWHEELER,f
 RF::Component::Multi,EWHEELER,f
 RF::Functions,MRDVT,f
 RF::HC12,STEVEB,f
+RF::LTE::EARFCN,MRDVT,f
 RFC::RFC822::Address,ABIGAIL,f
 RFID::Alien,GIFF,f
 RFID::Alien::Reader,GIFF,f
