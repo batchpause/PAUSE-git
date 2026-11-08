@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262830
-Last-Updated: Sun, 08 Nov 2026 01:41:02 GMT
+Last-Updated: Sun, 08 Nov 2026 02:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -199392,18 +199392,18 @@ Proc::Safetynet::RpcSession::Simple undef  D/DT/DTADY/Proc-Safetynet-0.04.tar.gz
 Proc::Safetynet::Supervisor       undef  D/DT/DTADY/Proc-Safetynet-0.04.tar.gz
 Proc::Scoreboard                    1.1  M/MK/MKUL/Proc-Application-0.01.tar.gz
 Proc::Scoreboard::Dir               1.1  M/MK/MKUL/Proc-Application-0.01.tar.gz
-Proc::ShellSpawn                   0.08  I/IL/ILYAZ/modules/Proc-Spawner-0.08.zip
-Proc::ShellSpawn::Builtins         0.08  I/IL/ILYAZ/modules/Proc-Spawner-0.08.zip
-Proc::ShellSpawn::Large            0.08  I/IL/ILYAZ/modules/Proc-Spawner-0.08.zip
-Proc::ShellSubset                  0.08  I/IL/ILYAZ/modules/Proc-Spawner-0.08.zip
-Proc::ShellSubset::Large           0.08  I/IL/ILYAZ/modules/Proc-Spawner-0.08.zip
-Proc::ShellSubset::Small           0.08  I/IL/ILYAZ/modules/Proc-Spawner-0.08.zip
+Proc::ShellSpawn                   0.09  I/IL/ILYAZ/modules/Proc-Spawner-0.09.zip
+Proc::ShellSpawn::Builtins         0.09  I/IL/ILYAZ/modules/Proc-Spawner-0.09.zip
+Proc::ShellSpawn::Large            0.09  I/IL/ILYAZ/modules/Proc-Spawner-0.09.zip
+Proc::ShellSubset                  0.09  I/IL/ILYAZ/modules/Proc-Spawner-0.09.zip
+Proc::ShellSubset::Large           0.09  I/IL/ILYAZ/modules/Proc-Spawner-0.09.zip
+Proc::ShellSubset::Small           0.09  I/IL/ILYAZ/modules/Proc-Spawner-0.09.zip
 Proc::Short                        0.01  J/JH/JHKIM/Proc-Short-0.01.tar.gz
 Proc::Simple                       1.32  M/MS/MSCHILLI/Proc-Simple-1.32.tar.gz
 Proc::Simple::Async                0.03  B/BE/BERLE/Proc-Simple-Async-0.03.tar.gz
 Proc::Spawn                        1.03  G/GA/GARROW/Proc-Spawn-1.03.tar.gz
-Proc::Spawner                      0.08  I/IL/ILYAZ/modules/Proc-Spawner-0.08.zip
-Proc::Spawner::Graph               0.08  I/IL/ILYAZ/modules/Proc-Spawner-0.08.zip
+Proc::Spawner                      0.09  I/IL/ILYAZ/modules/Proc-Spawner-0.09.zip
+Proc::Spawner::Graph               0.09  I/IL/ILYAZ/modules/Proc-Spawner-0.09.zip
 Proc::Stat                         0.03  M/MI/MIKER/Proc-Stat-0.03.tar.gz
 Proc::Supervised::Convenience      1.01  R/RH/RHESA/Proc-Supervised-Convenience-1.01.tar.gz
 Proc::Swarm                    1.161060  D/DI/DIEDERICH/Proc-Swarm-1.161060.tar.gz
