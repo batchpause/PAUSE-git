@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670411
+Line-Count:  670419
 Written-By:  PAUSE version 1.005
-Date:        Sat, 07 Nov 2026 21:18:19 GMT
+Date:        Sun, 08 Nov 2026 01:41:13 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -136722,6 +136722,14 @@ Ekahau::Server::Test::Background,GIFF,f
 Ekahau::Server::Test::Listener,GIFF,f
 Ekoi8r,INA,f
 Ekoi8u,INA,f
+Ekorn::Pipeline,CPANIC,f
+Ekorn::Pipeline::Errors,CPANIC,f
+Ekorn::Pipeline::Gather,CPANIC,f
+Ekorn::Pipeline::Pipes,CPANIC,f
+Ekorn::Pipeline::Stages::Batch,CPANIC,f
+Ekorn::Pipeline::Stages::Flow,CPANIC,f
+Ekorn::Pipeline::Stages::Taps,CPANIC,f
+Ekorn::Pipeline::Stop,CPANIC,f
 Ekps9566,INA,f
 Eksc5601,INA,f
 Elastic::Doc,DIEGOK,c

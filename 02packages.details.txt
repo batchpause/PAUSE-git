@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262822
-Last-Updated: Sun, 08 Nov 2026 00:17:02 GMT
+Line-Count:   262830
+Last-Updated: Sun, 08 Nov 2026 01:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -73039,6 +73039,14 @@ Ekahau::Server::Test::Background  undef  G/GI/GIFF/Ekahau-0.001.tar.gz
 Ekahau::Server::Test::Listener    undef  G/GI/GIFF/Ekahau-0.001.tar.gz
 Ekoi8r                             1.22  I/IN/INA/KOI8R/KOI8R-1.22.tar.gz
 Ekoi8u                             1.22  I/IN/INA/KOI8U/KOI8U-1.22.tar.gz
+Ekorn::Pipeline                  v0.1.1  C/CP/CPANIC/Ekorn-Pipeline-v0.1.1.tar.gz
+Ekorn::Pipeline::Errors           undef  C/CP/CPANIC/Ekorn-Pipeline-v0.1.1.tar.gz
+Ekorn::Pipeline::Gather           undef  C/CP/CPANIC/Ekorn-Pipeline-v0.1.1.tar.gz
+Ekorn::Pipeline::Pipes            undef  C/CP/CPANIC/Ekorn-Pipeline-v0.1.1.tar.gz
+Ekorn::Pipeline::Stages::Batch    undef  C/CP/CPANIC/Ekorn-Pipeline-v0.1.1.tar.gz
+Ekorn::Pipeline::Stages::Flow     undef  C/CP/CPANIC/Ekorn-Pipeline-v0.1.1.tar.gz
+Ekorn::Pipeline::Stages::Taps     undef  C/CP/CPANIC/Ekorn-Pipeline-v0.1.1.tar.gz
+Ekorn::Pipeline::Stop             undef  C/CP/CPANIC/Ekorn-Pipeline-v0.1.1.tar.gz
 Ekps9566                           1.22  I/IN/INA/KPS9566/KPS9566-1.22.tar.gz
 Eksc5601                           1.22  I/IN/INA/KSC5601/KSC5601-1.22.tar.gz
 ELab::Client                      0.020  A/AK/AKHUETTEL/ELab-Client-0.020.tar.gz
