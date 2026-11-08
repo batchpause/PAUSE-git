@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262854
-Last-Updated: Sun, 08 Nov 2026 17:17:02 GMT
+Line-Count:   262863
+Last-Updated: Sun, 08 Nov 2026 17:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -62292,29 +62292,38 @@ DBIO::Shortcut::ms             0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
 DBIO::Shortcut::mysql          0.900001  G/GE/GETTY/DBIO-MySQL-0.900001.tar.gz
 DBIO::Shortcut::ora            0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
 DBIO::Shortcut::pg             0.900001  G/GE/GETTY/DBIO-PostgreSQL-0.900001.tar.gz
-DBIO::Shortcut::sqlite         0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
+DBIO::Shortcut::sqlite         0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
 DBIO::Shortcut::syb            0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
 DBIO::Skills                   0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::SQL::Util                0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
-DBIO::SQLite                   0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Adapter          0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::DDL              0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Deploy           0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Diff             0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Diff::Column     0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Diff::Index      0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Diff::Rebuild    0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Diff::Table      0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Introspect       0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Introspect::Columns 0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Introspect::ForeignKeys 0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Introspect::Indexes 0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Introspect::Tables 0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Result           0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::SQLMaker         0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Storage          0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Test             0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
-DBIO::SQLite::Util             0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
+DBIO::SQLite                   0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Adapter          0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::DDL              0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Deploy           0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Diff             0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Diff::Column     0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Diff::Index      0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Diff::Rebuild    0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Diff::Table      0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Diff::View       0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Extension        0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Extension::FTS5  0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Extension::RTree 0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Extension::VirtualTable 0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Introspect       0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Introspect::Columns 0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Introspect::ForeignKeys 0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Introspect::Indexes 0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Introspect::Tables 0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Introspect::Triggers 0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::JSON             0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::JSON::Op         0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Result           0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::SQLMaker         0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Storage          0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Test             0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Test::Conformance 0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
+DBIO::SQLite::Util             0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
 DBIO::SQLMaker                 0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::SQLMaker::ClassicExtensions 0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::StartupCheck             0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz

@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670443
+Line-Count:  670452
 Written-By:  PAUSE version 1.005
-Date:        Sun, 08 Nov 2026 17:17:30 GMT
+Date:        Sun, 08 Nov 2026 17:41:20 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -106119,15 +106119,24 @@ DBIO::SQLite::Diff::Column,GETTY,f
 DBIO::SQLite::Diff::Index,GETTY,f
 DBIO::SQLite::Diff::Rebuild,GETTY,f
 DBIO::SQLite::Diff::Table,GETTY,f
+DBIO::SQLite::Diff::View,GETTY,f
+DBIO::SQLite::Extension,GETTY,f
+DBIO::SQLite::Extension::FTS5,GETTY,f
+DBIO::SQLite::Extension::RTree,GETTY,f
+DBIO::SQLite::Extension::VirtualTable,GETTY,f
 DBIO::SQLite::Introspect,GETTY,f
 DBIO::SQLite::Introspect::Columns,GETTY,f
 DBIO::SQLite::Introspect::ForeignKeys,GETTY,f
 DBIO::SQLite::Introspect::Indexes,GETTY,f
 DBIO::SQLite::Introspect::Tables,GETTY,f
+DBIO::SQLite::Introspect::Triggers,GETTY,f
+DBIO::SQLite::JSON,GETTY,f
+DBIO::SQLite::JSON::Op,GETTY,f
 DBIO::SQLite::Result,GETTY,f
 DBIO::SQLite::SQLMaker,GETTY,f
 DBIO::SQLite::Storage,GETTY,f
 DBIO::SQLite::Test,GETTY,f
+DBIO::SQLite::Test::Conformance,GETTY,f
 DBIO::SQLite::Util,GETTY,f
 DBIO::Schema,GETTY,f
 DBIO::Schema::ModelCompiler,GETTY,f
