@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262833
-Last-Updated: Sun, 08 Nov 2026 07:29:02 GMT
+Last-Updated: Sun, 08 Nov 2026 08:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -239850,20 +239850,20 @@ Validator::Lazy::Role::Composer    0.03  A/AN/ANTONC/Validator-Lazy-0.03.tar.gz
 Validator::Lazy::Role::Notifications 0.03  A/AN/ANTONC/Validator-Lazy-0.03.tar.gz
 Validator::Lazy::TestRole::ExtRoleExample 0.03  A/AN/ANTONC/Validator-Lazy-0.03.tar.gz
 Validator::Lazy::TestRole::FieldDep 0.03  A/AN/ANTONC/Validator-Lazy-0.03.tar.gz
-Validator::LIVR                     2.2  K/KO/KOORCHIK/Validator-LIVR-2.2.tar.gz
-Validator::LIVR::Rules::Collection  2.2  K/KO/KOORCHIK/Validator-LIVR-2.2.tar.gz
-Validator::LIVR::Rules::Common      2.2  K/KO/KOORCHIK/Validator-LIVR-2.2.tar.gz
-Validator::LIVR::Rules::Conditional 2.2  K/KO/KOORCHIK/Validator-LIVR-2.2.tar.gz
-Validator::LIVR::Rules::DateTime    2.2  K/KO/KOORCHIK/Validator-LIVR-2.2.tar.gz
+Validator::LIVR                    2.21  K/KO/KOORCHIK/Validator-LIVR-2.21.tar.gz
+Validator::LIVR::Rules::Collection 2.21  K/KO/KOORCHIK/Validator-LIVR-2.21.tar.gz
+Validator::LIVR::Rules::Common     2.21  K/KO/KOORCHIK/Validator-LIVR-2.21.tar.gz
+Validator::LIVR::Rules::Conditional 2.21  K/KO/KOORCHIK/Validator-LIVR-2.21.tar.gz
+Validator::LIVR::Rules::DateTime   2.21  K/KO/KOORCHIK/Validator-LIVR-2.21.tar.gz
 Validator::LIVR::Rules::Filters    0.09  K/KO/KOORCHIK/Validator-LIVR-0.09.tar.gz
-Validator::LIVR::Rules::Format      2.2  K/KO/KOORCHIK/Validator-LIVR-2.2.tar.gz
+Validator::LIVR::Rules::Format     2.21  K/KO/KOORCHIK/Validator-LIVR-2.21.tar.gz
 Validator::LIVR::Rules::Helpers    0.09  K/KO/KOORCHIK/Validator-LIVR-0.09.tar.gz
-Validator::LIVR::Rules::Meta        2.2  K/KO/KOORCHIK/Validator-LIVR-2.2.tar.gz
-Validator::LIVR::Rules::Modifiers   2.2  K/KO/KOORCHIK/Validator-LIVR-2.2.tar.gz
-Validator::LIVR::Rules::Numeric     2.2  K/KO/KOORCHIK/Validator-LIVR-2.2.tar.gz
-Validator::LIVR::Rules::Special     2.2  K/KO/KOORCHIK/Validator-LIVR-2.2.tar.gz
-Validator::LIVR::Rules::String      2.2  K/KO/KOORCHIK/Validator-LIVR-2.2.tar.gz
-Validator::LIVR::Rules::Types       2.2  K/KO/KOORCHIK/Validator-LIVR-2.2.tar.gz
+Validator::LIVR::Rules::Meta       2.21  K/KO/KOORCHIK/Validator-LIVR-2.21.tar.gz
+Validator::LIVR::Rules::Modifiers  2.21  K/KO/KOORCHIK/Validator-LIVR-2.21.tar.gz
+Validator::LIVR::Rules::Numeric    2.21  K/KO/KOORCHIK/Validator-LIVR-2.21.tar.gz
+Validator::LIVR::Rules::Special    2.21  K/KO/KOORCHIK/Validator-LIVR-2.21.tar.gz
+Validator::LIVR::Rules::String     2.21  K/KO/KOORCHIK/Validator-LIVR-2.21.tar.gz
+Validator::LIVR::Rules::Types      2.21  K/KO/KOORCHIK/Validator-LIVR-2.21.tar.gz
 Validator::Var                     0.03  S/SE/SEMENOVF/Validator-Var-0.03.tar.gz
 Valiemon                           0.05  P/PO/POKUTUNA/Valiemon-0.05.tar.gz
 Valiemon::Attributes              undef  P/PO/POKUTUNA/Valiemon-0.05.tar.gz
