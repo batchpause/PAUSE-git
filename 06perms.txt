@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670505
+Line-Count:  670571
 Written-By:  PAUSE version 1.005
-Date:        Sun, 08 Nov 2026 18:55:15 GMT
+Date:        Sun, 08 Nov 2026 19:18:16 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -105815,6 +105815,35 @@ DBIO::ChangeLog::Entry,GETTY,f
 DBIO::ChangeLog::Schema,GETTY,f
 DBIO::ChangeLog::Set,GETTY,f
 DBIO::ChangeLog::Table,GETTY,f
+DBIO::ClickHouse,GETTY,f
+DBIO::ClickHouse::DDL,GETTY,f
+DBIO::ClickHouse::DDL::Emit,GETTY,f
+DBIO::ClickHouse::Deploy,GETTY,f
+DBIO::ClickHouse::Diff,GETTY,f
+DBIO::ClickHouse::Diff::Column,GETTY,f
+DBIO::ClickHouse::Diff::Index,GETTY,f
+DBIO::ClickHouse::Diff::Table,GETTY,f
+DBIO::ClickHouse::Diff::View,GETTY,f
+DBIO::ClickHouse::Introspect,GETTY,f
+DBIO::ClickHouse::Introspect::Columns,GETTY,f
+DBIO::ClickHouse::Introspect::Indexes,GETTY,f
+DBIO::ClickHouse::Introspect::Tables,GETTY,f
+DBIO::ClickHouse::Introspect::Util,GETTY,f
+DBIO::ClickHouse::Native,GETTY,f
+DBIO::ClickHouse::Result,GETTY,f
+DBIO::ClickHouse::SQLMaker,GETTY,f
+DBIO::ClickHouse::Storage,GETTY,f
+DBIO::ClickHouse::Storage::TxnScopeGuard,GETTY,f
+DBIO::ClickHouse::Test,GETTY,f
+DBIO::ClickHouse::Test::Conformance,GETTY,f
+DBIO::ClickHouse::Test::Schema,GETTY,f
+DBIO::ClickHouse::Test::Schema::Hit,GETTY,f
+DBIO::ClickHouse::Test::Schema::HotHit,GETTY,f
+DBIO::ClickHouse::Test::Schema::Probe,GETTY,f
+DBIO::ClickHouse::Test::Schema::Reading,GETTY,f
+DBIO::ClickHouse::Test::Schema::Snapshot,GETTY,f
+DBIO::ClickHouse::Test::Schema::Unsorted,GETTY,f
+DBIO::ClickHouse::Util,GETTY,f
 DBIO::Componentised,GETTY,f
 DBIO::Core,GETTY,f
 DBIO::Cursor,GETTY,f
@@ -105825,14 +105854,20 @@ DBIO::DB2::Diff,GETTY,f
 DBIO::DB2::Diff::Column,GETTY,f
 DBIO::DB2::Diff::ForeignKey,GETTY,f
 DBIO::DB2::Diff::Index,GETTY,f
+DBIO::DB2::Diff::Reorg,GETTY,f
 DBIO::DB2::Diff::Table,GETTY,f
+DBIO::DB2::Diff::UniqueConstraint,GETTY,f
+DBIO::DB2::Diff::View,GETTY,f
 DBIO::DB2::Introspect,GETTY,f
 DBIO::DB2::Introspect::Columns,GETTY,f
 DBIO::DB2::Introspect::ForeignKeys,GETTY,f
 DBIO::DB2::Introspect::Indexes,GETTY,f
 DBIO::DB2::Introspect::Tables,GETTY,f
+DBIO::DB2::Introspect::UniqueConstraints,GETTY,f
 DBIO::DB2::SQLMaker,GETTY,f
 DBIO::DB2::Storage,GETTY,f
+DBIO::DB2::Storage::Cursor,GETTY,f
+DBIO::DB2::Test::Conformance,GETTY,f
 DBIO::DB2::Type,GETTY,f
 DBIO::Deploy::Base,GETTY,f
 DBIO::Deploy::Base::TempDatabase,GETTY,f
@@ -105852,21 +105887,28 @@ DBIO::Diff::Base,GETTY,f
 DBIO::Diff::Compare,GETTY,f
 DBIO::Diff::Op,GETTY,f
 DBIO::DuckDB,GETTY,f
+DBIO::DuckDB::Arrow,GETTY,f
 DBIO::DuckDB::DDL,GETTY,f
 DBIO::DuckDB::DDL::Emit,GETTY,f
 DBIO::DuckDB::Deploy,GETTY,f
 DBIO::DuckDB::Diff,GETTY,f
 DBIO::DuckDB::Diff::Column,GETTY,f
 DBIO::DuckDB::Diff::Index,GETTY,f
+DBIO::DuckDB::Diff::Rebuild,GETTY,f
 DBIO::DuckDB::Diff::Table,GETTY,f
+DBIO::DuckDB::Diff::View,GETTY,f
+DBIO::DuckDB::Extension,GETTY,f
 DBIO::DuckDB::Introspect,GETTY,f
 DBIO::DuckDB::Introspect::Columns,GETTY,f
 DBIO::DuckDB::Introspect::ForeignKeys,GETTY,f
 DBIO::DuckDB::Introspect::Indexes,GETTY,f
 DBIO::DuckDB::Introspect::Tables,GETTY,f
+DBIO::DuckDB::Introspect::Uniques,GETTY,f
 DBIO::DuckDB::SQLMaker,GETTY,f
 DBIO::DuckDB::Storage,GETTY,f
 DBIO::DuckDB::Test,GETTY,f
+DBIO::DuckDB::Test::Conformance,GETTY,f
+DBIO::DuckDB::Util,GETTY,f
 DBIO::EncodedColumn,GETTY,f
 DBIO::Exception,GETTY,f
 DBIO::Exception::Server,GETTY,f
@@ -105880,8 +105922,10 @@ DBIO::Firebird::DateTime::Format,GETTY,f
 DBIO::Firebird::Deploy,GETTY,f
 DBIO::Firebird::Diff,GETTY,f
 DBIO::Firebird::Diff::Column,GETTY,f
+DBIO::Firebird::Diff::Constraint,GETTY,f
 DBIO::Firebird::Diff::Index,GETTY,f
 DBIO::Firebird::Diff::Table,GETTY,f
+DBIO::Firebird::Diff::View,GETTY,f
 DBIO::Firebird::Introspect,GETTY,f
 DBIO::Firebird::Introspect::Columns,GETTY,f
 DBIO::Firebird::Introspect::ForeignKeys,GETTY,f
@@ -105892,8 +105936,11 @@ DBIO::Firebird::SQLMaker,GETTY,f
 DBIO::Firebird::Storage,GETTY,f
 DBIO::Firebird::Storage::Common,GETTY,f
 DBIO::Firebird::Storage::InterBase,GETTY,f
+DBIO::Firebird::Storage::ODBC,GETTY,f
+DBIO::Firebird::Test::Conformance,GETTY,f
 DBIO::Firebird::Test::SequenceTest,GETTY,f
 DBIO::Firebird::Type,GETTY,f
+DBIO::Firebird::Util,GETTY,f
 DBIO::Forked,GETTY,f
 DBIO::Forked::Future,GETTY,f
 DBIO::Forked::Storage,GETTY,f
@@ -106186,6 +106233,7 @@ DBIO::Schema,GETTY,f
 DBIO::Schema::ModelCompiler,GETTY,f
 DBIO::Schema::Type,GETTY,f
 DBIO::Schema::Versioned,GETTY,f
+DBIO::Shortcut::ch,GETTY,f
 DBIO::Shortcut::db2,GETTY,f
 DBIO::Shortcut::du,GETTY,f
 DBIO::Shortcut::fb,GETTY,f
@@ -110631,7 +110679,25 @@ DBIx::Skinny::Util,NEKOKAK,f
 DBIx::SpatialKey,MLEHMANN,f
 DBIx::Spreadsheet,CORION,f
 DBIx::Squirrel,CPANIC,f
+DBIx::Squirrel::Context,CPANIC,f
 DBIx::Squirrel::Crypt::Fernet,CPANIC,f
+DBIx::Squirrel::Errors,CPANIC,f
+DBIx::Squirrel::Gather,CPANIC,f
+DBIx::Squirrel::Iterator,CPANIC,f
+DBIx::Squirrel::Pipeline,CPANIC,f
+DBIx::Squirrel::Pipes,CPANIC,f
+DBIx::Squirrel::Placeholders,CPANIC,f
+DBIx::Squirrel::Result,CPANIC,f
+DBIx::Squirrel::Results,CPANIC,f
+DBIx::Squirrel::Stages::Batch,CPANIC,f
+DBIx::Squirrel::Stages::Flow,CPANIC,f
+DBIx::Squirrel::Stages::Rows,CPANIC,f
+DBIx::Squirrel::Stages::Taps,CPANIC,f
+DBIx::Squirrel::Stop,CPANIC,f
+DBIx::Squirrel::Sugar,CPANIC,f
+DBIx::Squirrel::Util,CPANIC,f
+DBIx::Squirrel::db,CPANIC,f
+DBIx::Squirrel::st,CPANIC,f
 DBIx::StORM,LUKEROSS,f
 DBIx::StORM::Class,LUKEROSS,f
 DBIx::StORM::FilteredRecordSet,LUKEROSS,f
