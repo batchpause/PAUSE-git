@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262900
-Last-Updated: Sun, 08 Nov 2026 18:29:02 GMT
+Line-Count:   262909
+Last-Updated: Sun, 08 Nov 2026 18:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -62330,7 +62330,7 @@ DBIO::Shortcut::mysql          0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
 DBIO::Shortcut::ora            0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
 DBIO::Shortcut::pg             0.900004  G/GE/GETTY/DBIO-PostgreSQL-0.900004.tar.gz
 DBIO::Shortcut::sqlite         0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
-DBIO::Shortcut::syb            0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
+DBIO::Shortcut::syb            0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
 DBIO::Skills                   0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::SQL::Util                0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::SQLite                   0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
@@ -62388,39 +62388,48 @@ DBIO::Storage::PoolBase        0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Storage::QueryRewrite    0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Storage::Statistics      0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Storage::TxnScopeGuard   0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
-DBIO::Sybase                   0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::DDL              0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Deploy           0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff             0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::Column     0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::Column::Add 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::Column::Alter 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::Column::Drop 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::ForeignKey 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::ForeignKey::Create 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::ForeignKey::Drop 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::Index      0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::Index::Alter 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::Index::Create 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::Index::Drop 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::Table      0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::Table::Create 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Diff::Table::Drop 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Introspect       0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Introspect::Columns 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Introspect::ForeignKeys 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Introspect::Indexes 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Introspect::Tables 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::SQLMaker         0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Storage          0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Storage::ASE     0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Storage::ASE::BulkInsert 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Storage::ASE::DateTime::Format 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Storage::ASE::IdentityRetrieval 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Storage::ASE::LOBWriter 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Storage::ASE::NoBindVars 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Storage::ASE::TxnManager 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
-DBIO::Sybase::Storage::FreeTDS 0.900001  G/GE/GETTY/DBIO-Sybase-0.900001.tar.gz
+DBIO::Sybase                   0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::DDL              0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Deploy           0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff             0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::Column     0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::Column::Add 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::Column::Alter 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::Column::Drop 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::ForeignKey 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::ForeignKey::Create 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::ForeignKey::Drop 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::Index      0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::Index::Alter 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::Index::Create 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::Index::Drop 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::Table      0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::Table::Create 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::Table::Drop 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::Table::PrimaryKey::Add 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::Table::PrimaryKey::Drop 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::View       0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::View::Create 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Diff::View::Drop 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Introspect       0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Introspect::Columns 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Introspect::ForeignKeys 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Introspect::Indexes 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Introspect::Tables 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Introspect::Views 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Quote            0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::SQLMaker         0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Storage          0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Storage::ASE     0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Storage::ASE::BulkInsert 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Storage::ASE::DateTime::Format 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Storage::ASE::IdentityRetrieval 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Storage::ASE::LOBWriter 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Storage::ASE::NoBindVars 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Storage::ASE::TxnManager 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Storage::FreeTDS 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Test::Conformance 0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
+DBIO::Sybase::Util             0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
 DBIO::Test                     0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Test::AsyncHarness       0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::Test::AsyncParity        0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
@@ -137383,7 +137392,7 @@ MojoX::Log::Syslog                 0.01  F/FA/FAYLAND/MojoX-Log-Syslog-0.01.tar.
 MojoX::Logite                      0.01  A/AR/AREGGIORI/MojoX-Logite-0.01.tar.gz
 MojoX::MIME::Types                 2.30  M/MA/MARKOV/MIME-Types-2.30.tar.gz
 MojoX::Model                      undef  A/AV/AVKHOZOV/Mojolicious-Plugin-Model-0.13.tar.gz
-MojoX::MojoDbWrap                 0.006  P/PO/POLETTIX/MojoX-MojoDbWrap-0.006.tar.gz
+MojoX::MojoDbWrap                 0.100  P/PO/POLETTIX/MojoX-MojoDbWrap-0.100.tar.gz
 MojoX::Moose::Controller           0.02  C/CH/CHGOVUK/MojoX-Moose-Controller-0.02.tar.gz
 MojoX::Mysql                       0.22  K/KO/KOSTYA/MojoX-Mysql-0.22.tar.gz
 MojoX::Mysql::DB                  undef  K/KO/KOSTYA/MojoX-Mysql-0.22.tar.gz

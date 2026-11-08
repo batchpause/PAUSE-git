@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670489
+Line-Count:  670498
 Written-By:  PAUSE version 1.005
-Date:        Sun, 08 Nov 2026 18:17:59 GMT
+Date:        Sun, 08 Nov 2026 18:42:02 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -106232,11 +106232,18 @@ DBIO::Sybase::Diff::Index::Drop,GETTY,f
 DBIO::Sybase::Diff::Table,GETTY,f
 DBIO::Sybase::Diff::Table::Create,GETTY,f
 DBIO::Sybase::Diff::Table::Drop,GETTY,f
+DBIO::Sybase::Diff::Table::PrimaryKey::Add,GETTY,f
+DBIO::Sybase::Diff::Table::PrimaryKey::Drop,GETTY,f
+DBIO::Sybase::Diff::View,GETTY,f
+DBIO::Sybase::Diff::View::Create,GETTY,f
+DBIO::Sybase::Diff::View::Drop,GETTY,f
 DBIO::Sybase::Introspect,GETTY,f
 DBIO::Sybase::Introspect::Columns,GETTY,f
 DBIO::Sybase::Introspect::ForeignKeys,GETTY,f
 DBIO::Sybase::Introspect::Indexes,GETTY,f
 DBIO::Sybase::Introspect::Tables,GETTY,f
+DBIO::Sybase::Introspect::Views,GETTY,f
+DBIO::Sybase::Quote,GETTY,f
 DBIO::Sybase::SQLMaker,GETTY,f
 DBIO::Sybase::Storage,GETTY,f
 DBIO::Sybase::Storage::ASE,GETTY,f
@@ -106247,6 +106254,8 @@ DBIO::Sybase::Storage::ASE::LOBWriter,GETTY,f
 DBIO::Sybase::Storage::ASE::NoBindVars,GETTY,f
 DBIO::Sybase::Storage::ASE::TxnManager,GETTY,f
 DBIO::Sybase::Storage::FreeTDS,GETTY,f
+DBIO::Sybase::Test::Conformance,GETTY,f
+DBIO::Sybase::Util,GETTY,f
 DBIO::Test,GETTY,f
 DBIO::Test::AsyncHarness,GETTY,f
 DBIO::Test::AsyncParity,GETTY,f
