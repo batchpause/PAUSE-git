@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263007
-Last-Updated: Sun, 08 Nov 2026 21:17:02 GMT
+Last-Updated: Sun, 08 Nov 2026 22:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -16814,7 +16814,7 @@ App::Unliner::Language::Shell     undef  F/FR/FRACTAL/App-Unliner-0.020.tar.gz
 App::Unliner::Program             undef  F/FR/FRACTAL/App-Unliner-0.020.tar.gz
 App::Unliner::Program::Compiled   undef  F/FR/FRACTAL/App-Unliner-0.020.tar.gz
 App::Unliner::Util                undef  F/FR/FRACTAL/App-Unliner-0.020.tar.gz
-App::UpdateConfig                  1.06  M/MA/MATHIAS/App-UpdateConfig/App-UpdateConfig-1.06.tar.gz
+App::UpdateConfig                  1.07  M/MA/MATHIAS/App-UpdateConfig/App-UpdateConfig-1.07.tar.gz
 App::UpdateCPANfile              v1.1.1  H/HI/HITODE/App-UpdateCPANfile-1.1.1.tar.gz
 App::UpdateCPANfile::Change       undef  H/HI/HITODE/App-UpdateCPANfile-1.1.1.tar.gz
 App::UpdateCPANfile::CPANfileSnapshotParser undef  H/HI/HITODE/App-UpdateCPANfile-1.1.1.tar.gz
