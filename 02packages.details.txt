@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   262833
-Last-Updated: Sun, 08 Nov 2026 05:54:02 GMT
+Last-Updated: Sun, 08 Nov 2026 06:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -62018,7 +62018,7 @@ DBIO::DeploymentHandler::VersionHandler::Monotonic 0.900002  G/GE/GETTY/DBIO-0.9
 DBIO::DeploymentHandler::VersionStorage::Standard 0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::DeploymentHandler::VersionStorage::Standard::Component 0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::DeploymentHandler::VersionStorage::Standard::VersionResult 0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
-DBIO::Deprecated               0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
+DBIO::Deprecated               0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
 DBIO::Diff::Base               0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::Diff::Compare            0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::Diff::Op                 0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
@@ -62116,11 +62116,11 @@ DBIO::MSSQL::Storage::Sybase::DateTime::Format 0.900001  G/GE/GETTY/DBIO-MSSQL-0
 DBIO::MSSQL::Storage::Sybase::NoBindVars 0.900001  G/GE/GETTY/DBIO-MSSQL-0.900001.tar.gz
 DBIO::MySQL                    0.900001  G/GE/GETTY/DBIO-MySQL-0.900001.tar.gz
 DBIO::MySQL::Adapter           0.900001  G/GE/GETTY/DBIO-MySQL-0.900001.tar.gz
-DBIO::MySQL::Async             0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
-DBIO::MySQL::Async::Pool       0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
-DBIO::MySQL::Async::QueryExecutor 0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
-DBIO::MySQL::Async::Storage    0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
-DBIO::MySQL::Async::TransactionContext 0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
+DBIO::MySQL::Async             0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
+DBIO::MySQL::Async::Pool       0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
+DBIO::MySQL::Async::QueryExecutor 0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
+DBIO::MySQL::Async::Storage    0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
+DBIO::MySQL::Async::TransactionContext 0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
 DBIO::MySQL::DDL               0.900001  G/GE/GETTY/DBIO-MySQL-0.900001.tar.gz
 DBIO::MySQL::Deploy            0.900001  G/GE/GETTY/DBIO-MySQL-0.900001.tar.gz
 DBIO::MySQL::Diff              0.900001  G/GE/GETTY/DBIO-MySQL-0.900001.tar.gz
@@ -62187,11 +62187,11 @@ DBIO::PostgreSQL::Adapter      0.900001  G/GE/GETTY/DBIO-PostgreSQL-0.900001.tar
 DBIO::PostgreSQL::Age          0.900001  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900001.tar.gz
 DBIO::PostgreSQL::Age::Storage 0.900001  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900001.tar.gz
 DBIO::PostgreSQL::Age::Storage::Async 0.900001  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900001.tar.gz
-DBIO::PostgreSQL::Async        0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
-DBIO::PostgreSQL::Async::ConnectInfo 0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
-DBIO::PostgreSQL::Async::Pool  0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
-DBIO::PostgreSQL::Async::Storage 0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
-DBIO::PostgreSQL::Async::TransactionContext 0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
+DBIO::PostgreSQL::Async        0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
+DBIO::PostgreSQL::Async::ConnectInfo 0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
+DBIO::PostgreSQL::Async::Pool  0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
+DBIO::PostgreSQL::Async::Storage 0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
+DBIO::PostgreSQL::Async::TransactionContext 0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
 DBIO::PostgreSQL::DDL          0.900001  G/GE/GETTY/DBIO-PostgreSQL-0.900001.tar.gz
 DBIO::PostgreSQL::Deploy       0.900001  G/GE/GETTY/DBIO-PostgreSQL-0.900001.tar.gz
 DBIO::PostgreSQL::Diff         0.900001  G/GE/GETTY/DBIO-PostgreSQL-0.900001.tar.gz
@@ -62271,13 +62271,13 @@ DBIO::ResultSource::RowParser  0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::ResultSource::RowParser::Util 0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::ResultSource::Table      0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::ResultSource::View       0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
-DBIO::ResultSourceHandle       0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
+DBIO::ResultSourceHandle       0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
 DBIO::ResultSourceProxy        0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::Row                      0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::Schema                   0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::Schema::ModelCompiler    0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::Schema::Type             0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
-DBIO::Schema::Versioned        0.900000  G/GE/GETTY/DBIO-0.900000.tar.gz
+DBIO::Schema::Versioned        0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
 DBIO::Shortcut::db2            0.900001  G/GE/GETTY/DBIO-DB2-0.900001.tar.gz
 DBIO::Shortcut::du             0.900001  G/GE/GETTY/DBIO-DuckDB-0.900001.tar.gz
 DBIO::Shortcut::fb             0.900001  G/GE/GETTY/DBIO-Firebird-0.900001.tar.gz
@@ -62310,7 +62310,7 @@ DBIO::SQLite::Test             0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
 DBIO::SQLite::Util             0.900001  G/GE/GETTY/DBIO-SQLite-0.900001.tar.gz
 DBIO::SQLMaker                 0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::SQLMaker::ClassicExtensions 0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
-DBIO::StartupCheck             0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
+DBIO::StartupCheck             0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
 DBIO::Storage                  0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::Storage::Async           0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::Storage::Async::TransactionContext 0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
@@ -62408,8 +62408,8 @@ DBIO::Test::Util::UmaskGuard   0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::Timestamp                0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::Util                     0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIO::UUIDColumns              0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
-DBIO::Version                  0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
-DBIO::Version::Table           0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
+DBIO::Version                  0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
+DBIO::Version::Table           0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
 DBIOx                          0.900002  G/GE/GETTY/DBIO-0.900002.tar.gz
 DBIPR                              0.01  J/JO/JOEJIANG/DBIPR-0.01.tar.gz
 DBIx::Abstract                     1.04  W/WI/WINTER/DBIx-Abstract-1.04.tar.gz
@@ -68378,7 +68378,7 @@ Dist::Zilla::Plugin::DBIO::CoverageTest 0.900004  G/GE/GETTY/Dist-Zilla-PluginBu
 Dist::Zilla::Plugin::DBIO::GatherSkills 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
 Dist::Zilla::Plugin::DBIO::LicenseFile 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
 Dist::Zilla::Plugin::DBIO::PodCheckerTest 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
-Dist::Zilla::Plugin::DBIO::SetCopyrightHolder 0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
+Dist::Zilla::Plugin::DBIO::SetCopyrightHolder 0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
 Dist::Zilla::Plugin::DBIO::SetMeta 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
 Dist::Zilla::Plugin::DBIO::VersionLockstepTest 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
 Dist::Zilla::Plugin::Deb::VersionFromChangelog 0.04  M/MM/MMCLERIC/Dist-Zilla-Deb-0.04.tar.gz
