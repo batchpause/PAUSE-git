@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   262830
-Last-Updated: Sun, 08 Nov 2026 04:53:51 GMT
+Line-Count:   262833
+Last-Updated: Sun, 08 Nov 2026 05:54:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -68373,11 +68373,14 @@ Dist::Zilla::Plugin::CycloneDX    0.001  L/LE/LEONT/Dist-Zilla-Plugin-CycloneDX-
 Dist::Zilla::Plugin::Data::Sah    0.005  P/PE/PERLANCAR/Dist-Zilla-Plugin-Data-Sah-0.005.tar.gz
 Dist::Zilla::Plugin::Data::Sah::Coerce 0.001  P/PE/PERLANCAR/Dist-Zilla-Plugin-Data-Sah-Coerce-0.001.tar.gz
 Dist::Zilla::Plugin::Data::Sah::Filter 0.002  P/PE/PERLANCAR/Dist-Zilla-Plugin-Data-Sah-Filter-0.002.tar.gz
-Dist::Zilla::Plugin::DBIO::CodebergMeta 0.900003  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900003.tar.gz
-Dist::Zilla::Plugin::DBIO::CoverageTest 0.900003  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900003.tar.gz
-Dist::Zilla::Plugin::DBIO::GatherSkills 0.900003  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900003.tar.gz
+Dist::Zilla::Plugin::DBIO::CodebergMeta 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
+Dist::Zilla::Plugin::DBIO::CoverageTest 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
+Dist::Zilla::Plugin::DBIO::GatherSkills 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
+Dist::Zilla::Plugin::DBIO::LicenseFile 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
+Dist::Zilla::Plugin::DBIO::PodCheckerTest 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
 Dist::Zilla::Plugin::DBIO::SetCopyrightHolder 0.900001  G/GE/GETTY/DBIO-Deprecated-0.900001.tar.gz
-Dist::Zilla::Plugin::DBIO::SetMeta 0.900003  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900003.tar.gz
+Dist::Zilla::Plugin::DBIO::SetMeta 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
+Dist::Zilla::Plugin::DBIO::VersionLockstepTest 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
 Dist::Zilla::Plugin::Deb::VersionFromChangelog 0.04  M/MM/MMCLERIC/Dist-Zilla-Deb-0.04.tar.gz
 Dist::Zilla::Plugin::Depak         0.21  P/PE/PERLANCAR/Dist-Zilla-Plugin-Depak-0.21.tar.gz
 Dist::Zilla::Plugin::Deprecated   0.007  E/ET/ETHER/Dist-Zilla-Plugin-Deprecated-0.007.tar.gz
@@ -69049,7 +69052,7 @@ Dist::Zilla::PluginBundle::CSJEWELL 0.900  C/CS/CSJEWELL/Dist-Zilla-BeLike-CSJEW
 Dist::Zilla::PluginBundle::DAGOLDEN 0.079  D/DA/DAGOLDEN/Dist-Zilla-PluginBundle-DAGOLDEN-0.079.tar.gz
 Dist::Zilla::PluginBundle::Dancer 0.0013  Y/YA/YANICK/Dist-Zilla-PluginBundle-Dancer-0.0013.tar.gz
 Dist::Zilla::PluginBundle::DANIELP 1.04  D/DA/DANIELP/Dist-Zilla-PluginBundle-DANIELP-1.04.tar.gz
-Dist::Zilla::PluginBundle::DBIO 0.900003  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900003.tar.gz
+Dist::Zilla::PluginBundle::DBIO 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
 Dist::Zilla::PluginBundle::DBR    0.024  D/DB/DBR/Dist-Zilla-PluginBundle-DBR-0.024.tar.gz
 Dist::Zilla::PluginBundle::DOY     0.15  D/DO/DOY/Dist-Zilla-PluginBundle-DOY-0.15.tar.gz
 Dist::Zilla::PluginBundle::DPHYS      1  H/HE/HEEB/Dist-Zilla-PluginBundle-DPHYS-1.tar.gz
@@ -196778,8 +196781,8 @@ Pod::Weaver::PluginBundle::Celogeek 1.1  C/CE/CELOGEEK/Dist-Zilla-PluginBundle-A
 Pod::Weaver::PluginBundle::CHIM 0.052005  C/CH/CHIM/Dist-Zilla-PluginBundle-Author-CHIM-0.052005.tar.gz
 Pod::Weaver::PluginBundle::CorePrep 4.022  R/RJ/RJBS/Pod-Weaver-4.022.tar.gz
 Pod::Weaver::PluginBundle::DAGOLDEN 0.079  D/DA/DAGOLDEN/Dist-Zilla-PluginBundle-DAGOLDEN-0.079.tar.gz
-Pod::Weaver::PluginBundle::DBIO 0.900003  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900003.tar.gz
-Pod::Weaver::PluginBundle::DBIO::Heritage 0.900003  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900003.tar.gz
+Pod::Weaver::PluginBundle::DBIO 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
+Pod::Weaver::PluginBundle::DBIO::Heritage 0.900004  G/GE/GETTY/Dist-Zilla-PluginBundle-DBIO-0.900004.tar.gz
 Pod::Weaver::PluginBundle::Default 4.022  R/RJ/RJBS/Pod-Weaver-4.022.tar.gz
 Pod::Weaver::PluginBundle::DROLSKY 1.25  D/DR/DROLSKY/Dist-Zilla-PluginBundle-DROLSKY-1.25.tar.gz
 Pod::Weaver::PluginBundle::FLORA   0.04  E/ET/ETHER/Pod-Weaver-PluginBundle-FLORA-0.04.tar.gz
