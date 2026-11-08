@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670597
+Line-Count:  670604
 Written-By:  PAUSE version 1.005
-Date:        Sun, 08 Nov 2026 23:18:13 GMT
+Date:        Sun, 08 Nov 2026 23:30:16 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -106082,8 +106082,11 @@ DBIO::Oracle::DDL,GETTY,f
 DBIO::Oracle::Deploy,GETTY,f
 DBIO::Oracle::Diff,GETTY,f
 DBIO::Oracle::Diff::Column,GETTY,f
+DBIO::Oracle::Diff::ForeignKey,GETTY,f
 DBIO::Oracle::Diff::Index,GETTY,f
 DBIO::Oracle::Diff::Table,GETTY,f
+DBIO::Oracle::Diff::Unique,GETTY,f
+DBIO::Oracle::Diff::View,GETTY,f
 DBIO::Oracle::Identifier,GETTY,f
 DBIO::Oracle::Introspect,GETTY,f
 DBIO::Oracle::Introspect::Columns,GETTY,f
@@ -106091,6 +106094,7 @@ DBIO::Oracle::Introspect::ForeignKeys,GETTY,f
 DBIO::Oracle::Introspect::Indexes,GETTY,f
 DBIO::Oracle::Introspect::Keys,GETTY,f
 DBIO::Oracle::Introspect::Tables,GETTY,f
+DBIO::Oracle::Introspect::Views,GETTY,f
 DBIO::Oracle::SQLMaker,GETTY,f
 DBIO::Oracle::SQLMaker::Joins,GETTY,f
 DBIO::Oracle::Storage,GETTY,f
@@ -106100,8 +106104,11 @@ DBIO::Oracle::Storage::FKDeferral,GETTY,f
 DBIO::Oracle::Storage::LOBSupport,GETTY,f
 DBIO::Oracle::Storage::Savepoints,GETTY,f
 DBIO::Oracle::Storage::WhereJoins,GETTY,f
+DBIO::Oracle::Test::Conformance,GETTY,f
+DBIO::Oracle::Test::Conformance::Deploy,GETTY,f
 DBIO::Oracle::Test::SequenceTest,GETTY,f
 DBIO::Oracle::Type,GETTY,f
+DBIO::Oracle::Util,GETTY,f
 DBIO::Ordered,GETTY,f
 DBIO::PK,GETTY,f
 DBIO::PK::Auto,GETTY,f

@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   263008
-Last-Updated: Sun, 08 Nov 2026 23:17:02 GMT
+Line-Count:   263015
+Last-Updated: Sun, 08 Nov 2026 23:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -62251,35 +62251,42 @@ DBIO::MySQL::Test::EventTZ     0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
 DBIO::MySQL::Test::EventTZDeprecated 0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
 DBIO::MySQL::Util              0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
 DBIO::Optional::Dependencies   0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
-DBIO::Oracle                   0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::DDL              0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Deploy           0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Diff             0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Diff::Column     0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Diff::Index      0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Diff::Table      0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Identifier       0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Introspect       0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Introspect::Columns 0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Introspect::ForeignKeys 0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Introspect::Indexes 0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Introspect::Keys 0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Introspect::Tables 0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::SQLMaker         0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::SQLMaker::Joins  0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Storage          0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Storage::AutoIncrement 0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Storage::ConnectSetup 0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Storage::FKDeferral 0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Storage::LOBSupport 0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Storage::Savepoints 0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Storage::WhereJoins 0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Test::SequenceTest 0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
-DBIO::Oracle::Type             0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
+DBIO::Oracle                   0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::DDL              0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Deploy           0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Diff             0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Diff::Column     0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Diff::ForeignKey 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Diff::Index      0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Diff::Table      0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Diff::Unique     0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Diff::View       0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Identifier       0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Introspect       0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Introspect::Columns 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Introspect::ForeignKeys 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Introspect::Indexes 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Introspect::Keys 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Introspect::Tables 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Introspect::Views 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::SQLMaker         0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::SQLMaker::Joins  0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Storage          0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Storage::AutoIncrement 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Storage::ConnectSetup 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Storage::FKDeferral 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Storage::LOBSupport 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Storage::Savepoints 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Storage::WhereJoins 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Test::Conformance 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Test::Conformance::Deploy 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Test::SequenceTest 0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Type             0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
+DBIO::Oracle::Util             0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
 DBIO::Ordered                  0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::PK                       0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::PK::Auto                 0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
-DBIO::PK::Auto::Oracle         0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
+DBIO::PK::Auto::Oracle         0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
 DBIO::PopulateMore             0.900004  G/GE/GETTY/DBIO-0.900004.tar.gz
 DBIO::PostgreSQL               0.900004  G/GE/GETTY/DBIO-PostgreSQL-0.900004.tar.gz
 DBIO::PostgreSQL::Adapter      0.900004  G/GE/GETTY/DBIO-PostgreSQL-0.900004.tar.gz
@@ -62407,7 +62414,7 @@ DBIO::Shortcut::fb             0.900004  G/GE/GETTY/DBIO-Firebird-0.900004.tar.g
 DBIO::Shortcut::ix             0.900004  G/GE/GETTY/DBIO-Informix-0.900004.tar.gz
 DBIO::Shortcut::ms             0.900004  G/GE/GETTY/DBIO-MSSQL-0.900004.tar.gz
 DBIO::Shortcut::mysql          0.900004  G/GE/GETTY/DBIO-MySQL-0.900004.tar.gz
-DBIO::Shortcut::ora            0.900001  G/GE/GETTY/DBIO-Oracle-0.900001.tar.gz
+DBIO::Shortcut::ora            0.900004  G/GE/GETTY/DBIO-Oracle-0.900004.tar.gz
 DBIO::Shortcut::pg             0.900004  G/GE/GETTY/DBIO-PostgreSQL-0.900004.tar.gz
 DBIO::Shortcut::sqlite         0.900004  G/GE/GETTY/DBIO-SQLite-0.900004.tar.gz
 DBIO::Shortcut::syb            0.900004  G/GE/GETTY/DBIO-Sybase-0.900004.tar.gz
