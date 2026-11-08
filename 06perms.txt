@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670472
+Line-Count:  670489
 Written-By:  PAUSE version 1.005
-Date:        Sun, 08 Nov 2026 17:55:16 GMT
+Date:        Sun, 08 Nov 2026 18:17:59 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -105958,19 +105958,25 @@ DBIO::MySQL::Async::QueryExecutor,GETTY,f
 DBIO::MySQL::Async::Storage,GETTY,f
 DBIO::MySQL::Async::TransactionContext,GETTY,f
 DBIO::MySQL::DDL,GETTY,f
+DBIO::MySQL::DefaultValue,GETTY,f
 DBIO::MySQL::Deploy,GETTY,f
 DBIO::MySQL::Diff,GETTY,f
 DBIO::MySQL::Diff::Column,GETTY,f
 DBIO::MySQL::Diff::ForeignKey,GETTY,f
 DBIO::MySQL::Diff::Index,GETTY,f
+DBIO::MySQL::Diff::PrimaryKey,GETTY,f
 DBIO::MySQL::Diff::Table,GETTY,f
+DBIO::MySQL::Diff::View,GETTY,f
 DBIO::MySQL::EV,GETTY,f
 DBIO::MySQL::EV::ConnectInfo,GETTY,f
+DBIO::MySQL::EV::Future,GETTY,f
 DBIO::MySQL::EV::Pool,GETTY,f
 DBIO::MySQL::EV::QueryExecutor,GETTY,f
 DBIO::MySQL::EV::Storage,GETTY,f
 DBIO::MySQL::EV::TestHarness,GETTY,f
 DBIO::MySQL::EV::TransactionContext,GETTY,f
+DBIO::MySQL::Identifier,GETTY,f
+DBIO::MySQL::IndexType,GETTY,f
 DBIO::MySQL::Introspect,GETTY,f
 DBIO::MySQL::Introspect::Columns,GETTY,f
 DBIO::MySQL::Introspect::ForeignKeys,GETTY,f
@@ -105978,15 +105984,20 @@ DBIO::MySQL::Introspect::Indexes,GETTY,f
 DBIO::MySQL::Introspect::Tables,GETTY,f
 DBIO::MySQL::Introspect::Util,GETTY,f
 DBIO::MySQL::MariaDB,GETTY,f
+DBIO::MySQL::MariaDBForkGuard,GETTY,f
+DBIO::MySQL::NotifyTable,GETTY,f
 DBIO::MySQL::Result,GETTY,f
 DBIO::MySQL::SQLMaker,GETTY,f
 DBIO::MySQL::SQLMaker::MariaDB,GETTY,f
 DBIO::MySQL::Storage,GETTY,f
 DBIO::MySQL::Storage::Async,GETTY,f
+DBIO::MySQL::Storage::Async::Binary,GETTY,f
 DBIO::MySQL::Storage::MariaDB,GETTY,f
 DBIO::MySQL::Storage::MariaDB::Async,GETTY,f
+DBIO::MySQL::Test::Conformance,GETTY,f
 DBIO::MySQL::Test::EventTZ,GETTY,f
 DBIO::MySQL::Test::EventTZDeprecated,GETTY,f
+DBIO::MySQL::Util,GETTY,f
 DBIO::Optional::Dependencies,GETTY,f
 DBIO::Oracle,GETTY,f
 DBIO::Oracle::DDL,GETTY,f
@@ -106021,6 +106032,9 @@ DBIO::PopulateMore,GETTY,f
 DBIO::PostgreSQL,GETTY,f
 DBIO::PostgreSQL::Adapter,GETTY,f
 DBIO::PostgreSQL::Age,GETTY,f
+DBIO::PostgreSQL::Age::Deploy,GETTY,f
+DBIO::PostgreSQL::Age::Extension,GETTY,f
+DBIO::PostgreSQL::Age::Introspect,GETTY,f
 DBIO::PostgreSQL::Age::Storage,GETTY,f
 DBIO::PostgreSQL::Age::Storage::Async,GETTY,f
 DBIO::PostgreSQL::Async,GETTY,f
@@ -106049,6 +106063,7 @@ DBIO::PostgreSQL::Diff::Type,GETTY,f
 DBIO::PostgreSQL::Diff::View,GETTY,f
 DBIO::PostgreSQL::EV,GETTY,f
 DBIO::PostgreSQL::EV::ConnectInfo,GETTY,f
+DBIO::PostgreSQL::EV::Future,GETTY,f
 DBIO::PostgreSQL::EV::Pool,GETTY,f
 DBIO::PostgreSQL::EV::Storage,GETTY,f
 DBIO::PostgreSQL::EV::TestHarness,GETTY,f
@@ -106081,10 +106096,12 @@ DBIO::PostgreSQL::PostGIS::Codec::WKB::Decoder,GETTY,f
 DBIO::PostgreSQL::PostGIS::Codec::WKT::Builder,GETTY,f
 DBIO::PostgreSQL::PostGIS::Codec::WKT::Parser,GETTY,f
 DBIO::PostgreSQL::PostGIS::Deploy,GETTY,f
+DBIO::PostgreSQL::PostGIS::Extension,GETTY,f
 DBIO::PostgreSQL::PostGIS::Geometry,GETTY,f
 DBIO::PostgreSQL::PostGIS::Introspect,GETTY,f
 DBIO::PostgreSQL::PostGIS::ResultSet,GETTY,f
 DBIO::PostgreSQL::PostGIS::Storage,GETTY,f
+DBIO::PostgreSQL::PostGIS::Topology::Extension,GETTY,f
 DBIO::PostgreSQL::Result,GETTY,f
 DBIO::PostgreSQL::ResultSet,GETTY,f
 DBIO::PostgreSQL::SQLMaker,GETTY,f
