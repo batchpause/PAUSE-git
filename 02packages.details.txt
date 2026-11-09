@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263016
-Last-Updated: Mon, 09 Nov 2026 09:29:02 GMT
+Last-Updated: Mon, 09 Nov 2026 11:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -49659,9 +49659,9 @@ cPanel::APIClient::X::Base        undef  C/CP/CPANEL/cPanel-APIClient-0.10.tar.g
 cPanel::APIClient::X::CommandFailed undef  C/CP/CPANEL/cPanel-APIClient-0.10.tar.gz
 cPanel::APIClient::X::HTTP        undef  C/CP/CPANEL/cPanel-APIClient-0.10.tar.gz
 cPanel::APIClient::X::SubTransport undef  C/CP/CPANEL/cPanel-APIClient-0.10.tar.gz
-Cpanel::JSON::XS                   4.80  R/RU/RURBAN/Cpanel-JSON-XS-4.80.tar.gz
-Cpanel::JSON::XS::Boolean          4.80  R/RU/RURBAN/Cpanel-JSON-XS-4.80.tar.gz
-Cpanel::JSON::XS::Type             4.80  R/RU/RURBAN/Cpanel-JSON-XS-4.80.tar.gz
+Cpanel::JSON::XS                   4.81  R/RU/RURBAN/Cpanel-JSON-XS-4.81.tar.gz
+Cpanel::JSON::XS::Boolean          4.81  R/RU/RURBAN/Cpanel-JSON-XS-4.81.tar.gz
+Cpanel::JSON::XS::Type             4.81  R/RU/RURBAN/Cpanel-JSON-XS-4.81.tar.gz
 cPanel::MemTest                     0.3  D/DM/DMUEY/cPanel-MemTest-0.3.tar.gz
 cPanel::nginx                      0.01  I/ID/IDIVISION/cPanel-nginx-v0.01.tar.gz
 cPanel::PublicAPI                   2.8  C/CP/CPANEL/cPanel-PublicAPI-2.8.tar.gz
