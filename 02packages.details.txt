@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263020
-Last-Updated: Mon, 09 Nov 2026 15:54:24 GMT
+Last-Updated: Mon, 09 Nov 2026 17:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -46615,7 +46615,7 @@ CMS::JoomlaToDrupal                0.05  H/HE/HESCO/CMS-JoomlaToDrupal-0.05.tar.
 CMS::MediaWiki                   0.8014  R/RE/RETOH/CMS/CMS-MediaWiki-0.8014.tar.gz
 cmt::libchm                        0.01  L/LE/LENIK/cmt-libchm-0.01.tar.gz
 CN::Province                       0.02  Z/ZY/ZYY/CN-Province-0.02.tar.gz
-Cn::Util                          0.024  D/DC/DCON/Cn-Util-0.024.tar.gz
+Cn::Util                         0.0241  D/DC/DCON/Cn-Util-0.0241.tar.gz
 CNAB                               0.01  C/CO/COSTELA/CNAB-0.01.tar.gz
 CNC::Cog                          0.061  M/MA/MARKWIN/CNC-Cog-0.061.tar.gz
 CNC::Cog::Gcode                   0.061  M/MA/MARKWIN/CNC-Cog-0.061.tar.gz
