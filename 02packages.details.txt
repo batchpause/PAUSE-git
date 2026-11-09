@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263021
-Last-Updated: Mon, 09 Nov 2026 23:29:02 GMT
+Last-Updated: Mon, 09 Nov 2026 23:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -81392,19 +81392,19 @@ Functional::Utility                1.02  B/BE/BELDEN/Functional-Utility-1.02.tar
 FunctionalPerl                 0.072076  P/PF/PFLANZE/FunctionalPerl-0.72.76.tar.gz
 FundamentalUnit                   undef  C/CO/COSMOLOJ/Cosmoloj-UnitSimple-0.1.2.tar.gz
 Funifs                              1.3  V/VO/VOVA/Funifs-1.3.tar.gz
-Furl                               3.15  S/SY/SYOHEX/Furl-3.15.tar.gz
-Furl::ConnectionCache             undef  S/SY/SYOHEX/Furl-3.15.tar.gz
+Furl                               3.16  T/TO/TOKUHIROM/Furl-3.16.tar.gz
+Furl::ConnectionCache             undef  T/TO/TOKUHIROM/Furl-3.16.tar.gz
 Furl::Cookies                      0.03  K/KA/KAZUNORI/Furl-Cookies-0.03.tar.gz
-Furl::Headers                     undef  S/SY/SYOHEX/Furl-3.15.tar.gz
-Furl::HTTP                         3.15  S/SY/SYOHEX/Furl-3.15.tar.gz
+Furl::Headers                     undef  T/TO/TOKUHIROM/Furl-3.16.tar.gz
+Furl::HTTP                         3.16  T/TO/TOKUHIROM/Furl-3.16.tar.gz
 Furl::HTTP::OAuth                 0.002  A/AS/ASCRA/Furl-HTTP-OAuth-0.002.tar.gz
 Furl::PSGI                         0.03  M/MH/MHOWARD/Furl-PSGI-0.03.tar.gz
 Furl::PSGI::HTTP                   0.03  M/MH/MHOWARD/Furl-PSGI-0.03.tar.gz
-Furl::Request                     undef  S/SY/SYOHEX/Furl-3.15.tar.gz
-Furl::Response                    undef  S/SY/SYOHEX/Furl-3.15.tar.gz
+Furl::Request                     undef  T/TO/TOKUHIROM/Furl-3.16.tar.gz
+Furl::Response                    undef  T/TO/TOKUHIROM/Furl-3.16.tar.gz
 Furl::S3                           0.02  I/IK/IKEBE/Furl-S3-0.02.tar.gz
 Furl::S3::Error                   undef  I/IK/IKEBE/Furl-S3-0.02.tar.gz
-Furl::ZlibStream                  undef  S/SY/SYOHEX/Furl-3.15.tar.gz
+Furl::ZlibStream                  undef  T/TO/TOKUHIROM/Furl-3.16.tar.gz
 FurlX::Coro                        1.02  G/GF/GFUJI/FurlX-Coro-1.02.tar.gz
 FurlX::Coro::HTTP                     0  G/GF/GFUJI/FurlX-Coro-1.01.tar.gz
 Fuse                               0.16  D/DP/DPATES/Fuse-0.16.tar.gz
