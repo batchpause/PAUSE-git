@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263020
-Last-Updated: Mon, 09 Nov 2026 21:54:12 GMT
+Last-Updated: Mon, 09 Nov 2026 22:54:08 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -48233,7 +48233,7 @@ Convert::Ascii85                   0.01  M/MA/MAUKE/Convert-Ascii85-0.01.tar.gz
 Convert::ASCII::Armor             undef  V/VI/VIPUL/Convert-ASCII-Armour-1.4.tar.gz
 Convert::ASCII::Armour              1.4  V/VI/VIPUL/Convert-ASCII-Armour-1.4.tar.gz
 Convert::ASCIInames               1.002  R/RO/ROUS/Convert-ASCIInames-1.002.tar.gz
-Convert::ASN1                      0.34  T/TI/TIMLEGGE/Convert-ASN1-0.34.tar.gz
+Convert::ASN1                      0.36  T/TI/TIMLEGGE/Convert-ASN1-0.36.tar.gz
 Convert::ASN1::asn1c               0.07  T/TI/TIMOS/Convert-ASN1-asn1c-0.07.tar.gz
 Convert::Base32                    0.06  I/IK/IKEGAMI/Convert-Base32-0.06.tar.gz
 Convert::Base32::Crockford         0.16  I/IN/INGY/Convert-Base32-Crockford-0.16.tar.gz
@@ -113732,25 +113732,25 @@ JSON::Schema::Fast::Compiled       0.10  L/LN/LNATION/JSON-Schema-Fast-0.10.tar.
 JSON::Schema::Fit                  0.07  L/LI/LIOSHA/JSON-Schema-Fit-0.07.tar.gz
 JSON::Schema::Generate             0.15  L/LN/LNATION/JSON-Schema-Generate-0.15.tar.gz
 JSON::Schema::Helper              0.016  T/TO/TOBYINK/JSON-Schema-0.016.tar.gz
-JSON::Schema::Modern              0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Annotation  0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Document    0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
+JSON::Schema::Modern              0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Annotation  0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Document    0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
 JSON::Schema::Modern::Document::OpenAPI 0.152  E/ET/ETHER/OpenAPI-Modern-0.152.tar.gz
-JSON::Schema::Modern::Error       0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Result      0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::ResultNode  0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Utilities   0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Vocabulary  0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Vocabulary::Applicator 0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Vocabulary::Content 0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Vocabulary::Core 0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Vocabulary::FormatAssertion 0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Vocabulary::MetaData 0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
+JSON::Schema::Modern::Error       0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Result      0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::ResultNode  0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Utilities   0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Vocabulary  0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Vocabulary::Applicator 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Vocabulary::Content 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Vocabulary::Core 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Vocabulary::FormatAssertion 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Vocabulary::MetaData 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
 JSON::Schema::Modern::Vocabulary::OpenAPI 0.152  E/ET/ETHER/OpenAPI-Modern-0.152.tar.gz
 JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.152  E/ET/ETHER/OpenAPI-Modern-0.152.tar.gz
-JSON::Schema::Modern::Vocabulary::Unevaluated 0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
-JSON::Schema::Modern::Vocabulary::Validation 0.652  E/ET/ETHER/JSON-Schema-Modern-0.652.tar.gz
+JSON::Schema::Modern::Vocabulary::Unevaluated 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Vocabulary::Validation 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
 JSON::Schema::Null                0.016  T/TO/TOBYINK/JSON-Schema-0.016.tar.gz
 JSON::Schema::Result              0.016  T/TO/TOBYINK/JSON-Schema-0.016.tar.gz
 JSON::Schema::Shorthand          v0.0.2  Y/YA/YANICK/JSON-Schema-Shorthand-0.0.2.tar.gz
