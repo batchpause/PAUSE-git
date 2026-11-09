@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263020
-Last-Updated: Mon, 09 Nov 2026 17:29:01 GMT
+Last-Updated: Mon, 09 Nov 2026 17:54:14 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -61406,7 +61406,7 @@ DBD::Mock::dr                     undef  J/JL/JLCOOPER/DBD-Mock-1.60.tar.gz
 DBD::Mock::Pool                   undef  J/JL/JLCOOPER/DBD-Mock-1.60.tar.gz
 DBD::Mock::Pool::db               undef  J/JL/JLCOOPER/DBD-Mock-1.60.tar.gz
 DBD::Mock::Session                undef  J/JL/JLCOOPER/DBD-Mock-1.60.tar.gz
-DBD::Mock::Session::GenerateFixtures 1.16  U/UX/UXYZAB/DBD-Mock-Session-GenerateFixtures-1.16.tar.gz
+DBD::Mock::Session::GenerateFixtures 1.17  U/UX/UXYZAB/DBD-Mock-Session-GenerateFixtures-1.17.tar.gz
 DBD::Mock::st                     undef  J/JL/JLCOOPER/DBD-Mock-1.60.tar.gz
 DBD::Mock::StatementTrack         undef  J/JL/JLCOOPER/DBD-Mock-1.60.tar.gz
 DBD::Mock::StatementTrack::Iterator undef  J/JL/JLCOOPER/DBD-Mock-1.60.tar.gz
