@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263015
-Last-Updated: Mon, 09 Nov 2026 03:53:55 GMT
+Last-Updated: Mon, 09 Nov 2026 04:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -138140,8 +138140,8 @@ Monkey::Patch::Handle              0.03  F/FR/FRODWITH/Monkey-Patch-0.03.tar.gz
 Monkey::Patch::Handle::Class       0.03  F/FR/FRODWITH/Monkey-Patch-0.03.tar.gz
 Monkey::Patch::Handle::Object      0.03  F/FR/FRODWITH/Monkey-Patch-0.03.tar.gz
 monkeypatch                       0.001  P/PE/PERLANCAR/monkeypatch-0.001.tar.gz
-Monoceros                          0.29  K/KA/KAZEBURO/Monoceros-0.29.tar.gz
-Monoceros::Server                 undef  K/KA/KAZEBURO/Monoceros-0.29.tar.gz
+Monoceros                          0.30  K/KA/KAZEBURO/Monoceros-0.30.tar.gz
+Monoceros::Server                 undef  K/KA/KAZEBURO/Monoceros-0.30.tar.gz
 Monorail                            0.4  C/CR/CREIN/Monorail-0.4.tar.gz
 Monorail::Bootstrapper              0.4  C/CR/CREIN/Monorail-0.4.tar.gz
 Monorail::Change::AddField          0.4  C/CR/CREIN/Monorail-0.4.tar.gz
@@ -194917,7 +194917,7 @@ Plack::Handler::HTTP::Server::Simple::PSGIServer 0.16  M/MI/MIYAGAWA/HTTP-Server
 Plack::Handler::Hyperman           0.68  L/LN/LNATION/Hyperman-0.68.tar.gz
 Plack::Handler::Martian            0.08  A/AL/ALTREUS/Martian-0.08.tar.gz
 Plack::Handler::Message::Passing  undef  B/BO/BOBTFISH/Message-Passing-PSGI-0.001.tar.gz
-Plack::Handler::Monoceros         undef  K/KA/KAZEBURO/Monoceros-0.29.tar.gz
+Plack::Handler::Monoceros         undef  K/KA/KAZEBURO/Monoceros-0.30.tar.gz
 Plack::Handler::Net::Async::FastCGI 0.26  P/PE/PEVANS/Net-Async-FastCGI-0.26.tar.gz
 Plack::Handler::Net::Async::HTTP::Server 0.15  P/PE/PEVANS/Net-Async-HTTP-Server-0.15.tar.gz
 Plack::Handler::Net::FastCGI       0.01  C/CH/CHANSEN/Plack-Handler-Net-FastCGI-0.01.tar.gz
@@ -195220,7 +195220,7 @@ Plack::Middleware::MethodOverride  0.20  M/MI/MIYAGAWA/Plack-Middleware-MethodOv
 Plack::Middleware::Mirror         0.401  R/RW/RWSTAUNER/Plack-Middleware-Mirror-0.401.tar.gz
 Plack::Middleware::MockProxyFrontend 0.005  A/AR/ARISTOTLE/Plack-Middleware-MockProxyFrontend-0.005.tar.gz
 Plack::Middleware::ModuleInfo      0.04  B/BA/BAYASHI/Plack-Middleware-ModuleInfo-0.04.tar.gz
-Plack::Middleware::MonocerosStatus undef  K/KA/KAZEBURO/Monoceros-0.29.tar.gz
+Plack::Middleware::MonocerosStatus undef  K/KA/KAZEBURO/Monoceros-0.30.tar.gz
 Plack::Middleware::Negotiate       0.20  V/VO/VOJ/Plack-Middleware-Negotiate-0.20.tar.gz
 Plack::Middleware::NeverExpire    1.201  A/AR/ARISTOTLE/Plack-Middleware-NeverExpire-1.201.tar.gz
 Plack::Middleware::NewRelic      0.0502  A/AA/AANARI/Plack-Middleware-NewRelic-0.0502.tar.gz
