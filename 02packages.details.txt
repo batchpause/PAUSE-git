@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263015
-Last-Updated: Mon, 09 Nov 2026 07:17:02 GMT
+Last-Updated: Mon, 09 Nov 2026 08:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -249751,7 +249751,7 @@ WebService::Lucene::Results       undef  B/BR/BRICAS/WebService-Lucene-0.10.tar.
 WebService::Lucene::XOXOParser    undef  B/BR/BRICAS/WebService-Lucene-0.10.tar.gz
 WebService::Lymbix                 0.02  O/OH/OHOUSHYAR/WebService-Lymbix-0.02.tar.gz
 WebService::Mackerel               0.05  P/PA/PAPIX/WebService-Mackerel-0.05.tar.gz
-WebService::Mailgun                0.17  M/MI/MIKIHOSHI/WebService-Mailgun-0.17.tar.gz
+WebService::Mailgun              v1.0.0  M/MI/MIKIHOSHI/WebService-Mailgun-1.0.0.tar.gz
 WebService::MailJet              0.0003  K/KA/KANISHKA/WebService-MailJet-0.003.tar.gz
 WebService::Mandrill                0.8  L/LE/LEV/WebService-Mandrill-0.8.tar.gz
 WebService::Mappoint                0.3  C/CG/CGARCIA/WebService-Mappoint-0.30.tar.gz
