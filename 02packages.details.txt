@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   263016
-Last-Updated: Mon, 09 Nov 2026 11:41:01 GMT
+Line-Count:   263017
+Last-Updated: Mon, 09 Nov 2026 13:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -143548,17 +143548,17 @@ Net::API::Gett::User               1.06  M/MA/MALLEN/Net-API-Gett-1.06.tar.gz
 Net::API::Nominatim                0.03  B/BL/BLIAKO/Net-API-Nominatim-0.03.tar.gz
 Net::API::Nominatim::Model::Address 0.03  B/BL/BLIAKO/Net-API-Nominatim-0.03.tar.gz
 Net::API::Nominatim::Model::BoundingBox 0.03  B/BL/BLIAKO/Net-API-Nominatim-0.03.tar.gz
-Net::API::REST                 1.002006  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
-Net::API::REST::Cookie         1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
-Net::API::REST::Cookies        1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
-Net::API::REST::DateTime       1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
-Net::API::REST::Endpoint       1.002006  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
-Net::API::REST::JWT            0.100004  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
-Net::API::REST::Query          1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
-Net::API::REST::RC             1.002006  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
-Net::API::REST::Request        1.001000  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
-Net::API::REST::Response       1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
-Net::API::REST::Status         1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.6.tar.gz
+Net::API::REST                 1.002007  J/JD/JDEGUEST/Net-API-REST-v1.2.7.tar.gz
+Net::API::REST::Cookie         1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.7.tar.gz
+Net::API::REST::Cookies        1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.7.tar.gz
+Net::API::REST::DateTime       1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.7.tar.gz
+Net::API::REST::Endpoint       1.002007  J/JD/JDEGUEST/Net-API-REST-v1.2.7.tar.gz
+Net::API::REST::JWT            0.100004  J/JD/JDEGUEST/Net-API-REST-v1.2.7.tar.gz
+Net::API::REST::Query          1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.7.tar.gz
+Net::API::REST::RC             1.002007  J/JD/JDEGUEST/Net-API-REST-v1.2.7.tar.gz
+Net::API::REST::Request        1.001000  J/JD/JDEGUEST/Net-API-REST-v1.2.7.tar.gz
+Net::API::REST::Response       1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.7.tar.gz
+Net::API::REST::Status         1.000000  J/JD/JDEGUEST/Net-API-REST-v1.2.7.tar.gz
 Net::API::RPX                  1.000001  K/KE/KENTNL/Net-API-RPX-1.000001.tar.gz
 Net::API::RPX::Exception       1.000001  K/KE/KENTNL/Net-API-RPX-1.000001.tar.gz
 Net::API::RPX::Exception::Network 1.000001  K/KE/KENTNL/Net-API-RPX-1.000001.tar.gz
@@ -150890,20 +150890,21 @@ Net::UP::Notify                    1.01  P/PT/PTIMMINS/Net-UP-Notify-1.01.tar.gz
 Net::UPCDatabase                   0.07  W/WI/WILSOND/Net-UPCDatabase-0.07.tar.gz
 Net::UploadMirror                  0.13  K/KN/KNORR/Net-UploadMirror-0.13.tar.gz
 Net::UploadMirror::FileName        0.13  K/KN/KNORR/Net-UploadMirror-0.13.tar.gz
-Net::UPnP                      1.004006  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
-Net::UPnP::ActionResponse         undef  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
-Net::UPnP::AV::Container          undef  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
-Net::UPnP::AV::Content            undef  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
-Net::UPnP::AV::Item               undef  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
-Net::UPnP::AV::MediaRenderer      undef  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
-Net::UPnP::AV::MediaServer        undef  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
-Net::UPnP::ControlPoint           undef  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
-Net::UPnP::Device                 undef  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
-Net::UPnP::GW::Gateway            undef  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
-Net::UPnP::HTTP                   undef  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
-Net::UPnP::HTTPResponse           undef  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
-Net::UPnP::QueryResponse          undef  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
-Net::UPnP::Service                undef  S/SK/SKONNO/Net-UPnP-1.4.6.tar.gz
+Net::UPnP                      1.004007  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::ActionResponse         undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::AV::Container          undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::AV::Content            undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::AV::Item               undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::AV::MediaRenderer      undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::AV::MediaServer        undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::AV::RSS                undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::ControlPoint           undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::Device                 undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::GW::Gateway            undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::HTTP                   undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::HTTPResponse           undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::QueryResponse          undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
+Net::UPnP::Service                undef  S/SK/SKONNO/Net-UPnP-1.4.7.tar.gz
 Net::UPS                           0.16  D/DA/DAKKAR/Net-UPS-0.16.tar.gz
 Net::UPS::Address                  0.16  D/DA/DAKKAR/Net-UPS-0.16.tar.gz
 Net::UPS::ErrorHandler             0.16  D/DA/DAKKAR/Net-UPS-0.16.tar.gz
