@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670609
+Line-Count:  670610
 Written-By:  PAUSE version 1.005
-Date:        Mon, 09 Nov 2026 15:55:33 GMT
+Date:        Mon, 09 Nov 2026 23:18:10 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -38911,6 +38911,7 @@ BarefootJS::Date,KFLY,f
 BarefootJS::DevReload,KFLY,f
 BarefootJS::Evaluator,KFLY,f
 BarefootJS::SearchParams,KFLY,f
+BarefootJS::Undefined,KFLY,f
 BarefootJS::_TZProbe,KFLY,f
 Barracuda::Api,MQL,f
 Base64::Serializer,MJFS,c
