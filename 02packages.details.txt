@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263026
-Last-Updated: Tue, 10 Nov 2026 21:54:44 GMT
+Last-Updated: Tue, 10 Nov 2026 22:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -22404,11 +22404,11 @@ B::Tree                           undef  S/SI/SIMON/B-Tree-0.02.tar.gz
 B::TypeCheck                      undef  B/BA/BARGLE/Devel-TypeCheck-1.2.2.tar.gz
 B::UNOP                           undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 B::UNOP_AUX                       undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
-B::Utils                           0.28  E/ET/ETHER/B-Utils-0.28.tar.gz
+B::Utils                           0.29  E/ET/ETHER/B-Utils-0.29.tar.gz
 B::Utils1                          1.05  R/RU/RURBAN/B-Utils1-1.05.tar.gz
 B::Utils1::Install::Files         undef  R/RU/RURBAN/B-Utils1-1.05.tar.gz
 B::Utils1::OP                      1.05  R/RU/RURBAN/B-Utils1-1.05.tar.gz
-B::Utils::OP                       0.28  E/ET/ETHER/B-Utils-0.28.tar.gz
+B::Utils::OP                       0.29  E/ET/ETHER/B-Utils-0.29.tar.gz
 B::Walker                          0.11  A/AT/ATOURBIN/rpm-build-perl-0.82.tar.gz
 B::XPath                           0.01  C/CH/CHROMATIC/B-XPath-0.01.tar.gz
 B::Xref                            1.07  S/SH/SHAY/perl-5.42.3.tar.gz
@@ -55641,8 +55641,8 @@ Data::JPack::App               0.001002  D/DR/DRCLAW/Data-JPack-v0.3.2.tar.gz
 Data::JPack::Container         0.001000  D/DR/DRCLAW/Data-JPack-v0.1.0.tar.gz
 Data::JPack::Packer               undef  D/DR/DRCLAW/Data-JPack-v0.1.0.tar.gz
 Data::JPack::TimeSeries           undef  D/DR/DRCLAW/Data-JPack-v0.1.0.tar.gz
-Data::JSEmail                      0.06  B/BR/BRONG/Data-JSEmail-0.06.tar.gz
-Data::JSEmail::MIMEPart            0.06  B/BR/BRONG/Data-JSEmail-0.06.tar.gz
+Data::JSEmail                      0.07  B/BR/BRONG/Data-JSEmail-0.07.tar.gz
+Data::JSEmail::MIMEPart            0.07  B/BR/BRONG/Data-JSEmail-0.07.tar.gz
 Data::JSONSchema::Ajv              0.09  O/OL/OLEG/Data-JSONSchema-Ajv-0.09.tar.gz
 Data::JSONSchema::Ajv::src         0.09  O/OL/OLEG/Data-JSONSchema-Ajv-0.09.tar.gz
 Data::JSONSchema::Ajv::src::04     0.09  O/OL/OLEG/Data-JSONSchema-Ajv-0.09.tar.gz
@@ -232543,9 +232543,9 @@ Text::IQ::EN                      0.007  K/KA/KARMAN/Text-IQ-0.007.tar.gz
 Text::Ispell                       0.04  J/JD/JDPORTER/Text-Ispell-0.04.tar.gz
 Text::JaroWinkler                   0.1  S/SC/SCW/Text-JaroWinkler-0.1.tar.gz
 Text::JavE                     0.000003  O/OS/OSFAMERON/Text-JavE-0.0.3.tar.gz
-Text::JSCalendar                   0.10  B/BR/BRONG/Text-JSCalendar-0.10.tar.gz
-Text::JSCalendar::TimeZones       undef  B/BR/BRONG/Text-JSCalendar-0.10.tar.gz
-Text::JSContact                    0.06  B/BR/BRONG/Text-JSContact-0.06.tar.gz
+Text::JSCalendar                   0.11  B/BR/BRONG/Text-JSCalendar-0.11.tar.gz
+Text::JSCalendar::TimeZones       undef  B/BR/BRONG/Text-JSCalendar-0.11.tar.gz
+Text::JSContact                    0.07  B/BR/BRONG/Text-JSContact-0.07.tar.gz
 Text::JSON::Nibble                 1.01  D/DA/DAEMON/Text-JSON-Nibble-1.01.tar.gz
 Text::Kakasi                       2.04  D/DA/DANKOGAI/Text-Kakasi-2.04.tar.gz
 Text::Karma                        0.05  H/HI/HINRIK/Text-Karma-0.05.tar.gz
