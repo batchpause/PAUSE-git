@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263025
-Last-Updated: Tue, 10 Nov 2026 18:29:02 GMT
+Last-Updated: Tue, 10 Nov 2026 18:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -43816,7 +43816,7 @@ Check::OneTree                    undef  U/UN/UNERA/DR-Tarantool-0.44.tar.gz
 Check::Order                      undef  U/UN/UNERA/DR-Tarantool-0.44.tar.gz
 Check::Ping                       undef  U/UN/UNERA/DR-Tarantool-0.44.tar.gz
 Check::Socket                      0.04  S/SK/SKIM/Check-Socket-0.04.tar.gz
-Check::supervisorctl           0.002000  V/VV/VVELOX/Check-supervisorctl-0.2.0.tar.gz
+Check::supervisorctl           0.002001  V/VV/VVELOX/Check-supervisorctl-0.2.1.tar.gz
 Check::SuricataFlows           0.003000  V/VV/VVELOX/Check-SuricataFlows-0.3.0.tar.gz
 Check::Term                        0.01  S/SK/SKIM/Check-Term-0.01.tar.gz
 Check::Term::Color                 0.01  S/SK/SKIM/Check-Term-Color-0.01.tar.gz
@@ -138096,7 +138096,7 @@ Monitoring::Sneck::Checks::sensors 0.000001  V/VV/VVELOX/Monitoring-Sneck-Checks
 Monitoring::Sneck::Checks::service 0.000001  V/VV/VVELOX/Monitoring-Sneck-Checks-0.1.1.tar.gz
 Monitoring::Sneck::Checks::smtp 0.000001  V/VV/VVELOX/Monitoring-Sneck-Checks-0.1.1.tar.gz
 Monitoring::Sneck::Checks::sshd_config 0.000001  V/VV/VVELOX/Monitoring-Sneck-Checks-0.1.1.tar.gz
-Monitoring::Sneck::Checks::supervisorctl 0.002000  V/VV/VVELOX/Check-supervisorctl-0.2.0.tar.gz
+Monitoring::Sneck::Checks::supervisorctl 0.002000  V/VV/VVELOX/Check-supervisorctl-0.2.1.tar.gz
 Monitoring::Sneck::Checks::suricata_flows 0.003000  V/VV/VVELOX/Check-SuricataFlows-0.3.0.tar.gz
 Monitoring::Sneck::Checks::swap 0.000001  V/VV/VVELOX/Monitoring-Sneck-Checks-0.1.1.tar.gz
 Monitoring::Sneck::Checks::swraid 0.000001  V/VV/VVELOX/Monitoring-Sneck-Checks-0.1.1.tar.gz
