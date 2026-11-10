@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263025
-Last-Updated: Tue, 10 Nov 2026 15:17:02 GMT
+Last-Updated: Tue, 10 Nov 2026 15:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -104610,7 +104610,7 @@ HTML::Object::XPath::Step      0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::XPath::Variable  0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::XQuery           0.004001  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Obliterate                    0.3  D/DM/DMUEY/HTML-Obliterate-0.3.tar.gz
-HTML::OSM                          0.18  N/NH/NHORNE/HTML-OSM-0.18.tar.gz
+HTML::OSM                          0.19  N/NH/NHORNE/HTML-OSM-0.19.tar.gz
 HTML::Packer                       2.12  L/LE/LEEJO/HTML-Packer-2.12.tar.gz
 HTML::PageIndex                     0.3  K/KM/KMELTZ/HTML-PageIndex-0.3.tar.gz
 HTML::Pager                        0.03  S/SA/SAMTREGAR/HTML-Pager-0.03.tar.gz
@@ -239340,7 +239340,7 @@ URI::Escape::Any                  0.001  P/PE/PERLANCAR/URI-Escape-Any-0.001.tar
 URI::Escape::JavaScript            0.04  T/TA/TANIGUCHI/URI-Escape-JavaScript-0.04.tar.gz
 URI::Escape::Optimistic           0.008  T/TO/TOBYINK/RDF-RDB2RDF-0.008.tar.gz
 URI::Escape::Path                 0.001  P/PE/PERLANCAR/URI-Escape-Path-0.001.tar.gz
-URI::Escape::XS                    0.14  D/DA/DANKOGAI/URI-Escape-XS-0.14.tar.gz
+URI::Escape::XS                    0.15  D/DA/DANKOGAI/URI-Escape-XS-0.15.tar.gz
 URI::exasol                        0.24  D/DW/DWHEELER/URI-db-0.24.tar.gz
 URI::fasp                          0.01  S/SH/SHAW/URI-fasp-0.01.tar.gz
 URI::Fast                          0.55  J/JE/JEFFOBER/URI-Fast-0.55.tar.gz
