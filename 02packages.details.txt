@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263021
-Last-Updated: Tue, 10 Nov 2026 01:29:01 GMT
+Last-Updated: Tue, 10 Nov 2026 02:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -104610,7 +104610,7 @@ HTML::Object::XPath::Step      0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::XPath::Variable  0.002000  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Object::XQuery           0.004001  J/JD/JDEGUEST/HTML-Object-v0.6.3.tar.gz
 HTML::Obliterate                    0.3  D/DM/DMUEY/HTML-Obliterate-0.3.tar.gz
-HTML::OSM                          0.16  N/NH/NHORNE/HTML-OSM-0.16.tar.gz
+HTML::OSM                          0.17  N/NH/NHORNE/HTML-OSM-0.17.tar.gz
 HTML::Packer                       2.12  L/LE/LEEJO/HTML-Packer-2.12.tar.gz
 HTML::PageIndex                     0.3  K/KM/KMELTZ/HTML-PageIndex-0.3.tar.gz
 HTML::Pager                        0.03  S/SA/SAMTREGAR/HTML-Pager-0.03.tar.gz
@@ -235347,7 +235347,7 @@ Tk::EntryCheck                     0.04  S/ST/STRAT/Tk-EntryCheck-0.04.tar.gz
 Tk::EntrySet                       0.11  L/LA/LAMPRECHT/Tk-EntrySet-0.11.tar.gz
 Tk::ErrorDialog                   4.008  S/SR/SREZIC/Tk-804.036.tar.gz
 Tk::ErrorDump                      0.02  D/DA/DARNOLD/Tk-ErrorDump-0.02.tar.gz
-Tk::eText                          2.04  I/IL/ILYAZ/modules/etext-2.04.zip
+Tk::eText                          2.05  I/IL/ILYAZ/modules/etext-2.05.zip
 Tk::Event                         4.040  S/SR/SREZIC/Tk-804.036.tar.gz
 Tk::Event::IO                     4.009  S/SR/SREZIC/Tk-804.036.tar.gz
 Tk::ExecuteCommand                  1.6  L/LU/LUSOL/Tk-ExecuteCommand-1.6.tar.gz
