@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263025
-Last-Updated: Tue, 10 Nov 2026 10:17:01 GMT
+Last-Updated: Tue, 10 Nov 2026 10:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -195044,7 +195044,7 @@ Plack::Middleware::ContentLength  undef  M/MI/MIYAGAWA/Plack-1.0057.tar.gz
 Plack::Middleware::ContentMD5     undef  M/MI/MIYAGAWA/Plack-1.0057.tar.gz
 Plack::Middleware::CookieMonster   0.03  M/MA/MANNI/Plack-Middleware-CookieMonster-0.03.tar.gz
 Plack::Middleware::CrossOrigin    0.014  H/HA/HAARG/Plack-Middleware-CrossOrigin-0.014.tar.gz
-Plack::Middleware::CSP             0.03  A/AS/ASHLEY/Plack-Middleware-CSP-0.03.tar.gz
+Plack::Middleware::CSP             0.04  A/AS/ASHLEY/Plack-Middleware-CSP-0.04.tar.gz
 Plack::Middleware::CSRFBlock       0.10  M/MA/MATTP/Plack-Middleware-CSRFBlock-0.10.tar.gz
 Plack::Middleware::CSS::Compressor 0.01  J/JA/JANUS/Plack-Middleware-CSS-Compressor-0.01.tar.gz
 Plack::Middleware::Curlizer        0.03  B/BA/BAYASHI/Plack-Middleware-Curlizer-0.03.tar.gz
