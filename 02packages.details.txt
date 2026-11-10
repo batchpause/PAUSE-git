@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263021
-Last-Updated: Tue, 10 Nov 2026 00:41:02 GMT
+Last-Updated: Tue, 10 Nov 2026 01:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -141295,14 +141295,14 @@ Music::NeoRiemannianTonnetz        0.27  J/JM/JMATES/Music-NeoRiemannianTonnetz-
 Music::Note                        0.01  B/BD/BDAGLISH/Music-Note-0.01.tar.gz
 Music::Note::Frequency             0.05  K/KR/KROH/Music-Note-Frequency-0.05.tar.gz
 Music::Note::Role::Operators       0.04  Z/ZA/ZARQUON/Music-Note-Role-Operators-0.04.tar.gz
-Music::NWC2MusicXML            0.002004  N/NH/NHORNE/Music-NWC2MusicXML-0.002.4.tar.gz
-Music::NWC2MusicXML::Diagnostics 0.002004  N/NH/NHORNE/Music-NWC2MusicXML-0.002.4.tar.gz
-Music::NWC2MusicXML::Event     0.002004  N/NH/NHORNE/Music-NWC2MusicXML-0.002.4.tar.gz
-Music::NWC2MusicXML::MusicXML  0.002004  N/NH/NHORNE/Music-NWC2MusicXML-0.002.4.tar.gz
-Music::NWC2MusicXML::NWC       0.002004  N/NH/NHORNE/Music-NWC2MusicXML-0.002.4.tar.gz
-Music::NWC2MusicXML::Parser    0.002004  N/NH/NHORNE/Music-NWC2MusicXML-0.002.4.tar.gz
-Music::NWC2MusicXML::Score     0.002004  N/NH/NHORNE/Music-NWC2MusicXML-0.002.4.tar.gz
-Music::NWC2MusicXML::Staff     0.002004  N/NH/NHORNE/Music-NWC2MusicXML-0.002.4.tar.gz
+Music::NWC2MusicXML            0.003000  N/NH/NHORNE/Music-NWC2MusicXML-0.003.0.tar.gz
+Music::NWC2MusicXML::Diagnostics  0.003  N/NH/NHORNE/Music-NWC2MusicXML-0.003.0.tar.gz
+Music::NWC2MusicXML::Event        0.003  N/NH/NHORNE/Music-NWC2MusicXML-0.003.0.tar.gz
+Music::NWC2MusicXML::MusicXML     0.003  N/NH/NHORNE/Music-NWC2MusicXML-0.003.0.tar.gz
+Music::NWC2MusicXML::NWC          0.003  N/NH/NHORNE/Music-NWC2MusicXML-0.003.0.tar.gz
+Music::NWC2MusicXML::Parser       0.003  N/NH/NHORNE/Music-NWC2MusicXML-0.003.0.tar.gz
+Music::NWC2MusicXML::Score        0.003  N/NH/NHORNE/Music-NWC2MusicXML-0.003.0.tar.gz
+Music::NWC2MusicXML::Staff     0.003000  N/NH/NHORNE/Music-NWC2MusicXML-0.003.0.tar.gz
 Music::Percussion::Tabla         0.0803  G/GE/GENE/Music-Percussion-Tabla-0.0803.tar.gz
 Music::PitchNum                    0.09  J/JM/JMATES/Music-PitchNum-0.09.tar.gz
 Music::PitchNum::ABC               0.09  J/JM/JMATES/Music-PitchNum-0.09.tar.gz
