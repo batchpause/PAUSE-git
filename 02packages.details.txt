@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263025
-Last-Updated: Tue, 10 Nov 2026 16:29:02 GMT
+Last-Updated: Tue, 10 Nov 2026 17:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -8586,7 +8586,7 @@ ApiTypes::TrackedLink              0.03  E/EL/ELASTICML/ElasticEmail-0.03.tar.gz
 ApiTypes::TrackingType             0.03  E/EL/ELASTICML/ElasticEmail-0.03.tar.gz
 ApiTypes::Usage                    0.03  E/EL/ELASTICML/ElasticEmail-0.03.tar.gz
 APNS::Agent                        0.06  S/SO/SONGMU/APNS-Agent-0.06.tar.gz
-Apophis                            1.01  L/LN/LNATION/Apophis-1.01.tar.gz
+Apophis                            1.02  L/LN/LNATION/Apophis-1.02.tar.gz
 App                               13887  S/SP/SPADKINS/App-Context-0.968.tar.gz
 App1                              undef  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
 App1::CustInfo                    undef  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
@@ -44677,7 +44677,7 @@ Citrix::LaunchMesg                 0.25  O/OH/OHOLLMEN/Citrix-0.25.tar.gz
 Citrix::SessionSet                 0.25  O/OH/OHOLLMEN/Citrix-0.25.tar.gz
 Citrix::SessOp                     0.25  O/OH/OHOLLMEN/Citrix-0.25.tar.gz
 City                                  1  M/MS/MSCHLUE/Class-Classgen-classgen-3.03.tar.gz
-ClamAV::Clamd                      0.08  L/LN/LNATION/ClamAV-Clamd-0.08.tar.gz
+ClamAV::Clamd                      0.09  L/LN/LNATION/ClamAV-Clamd-0.09.tar.gz
 ClamAV::Client                     0.11  J/JM/JMEHNLE/clamav-client/ClamAV-Client-0.11.tar.gz
 ClamAV::Client::Error              0.11  J/JM/JMEHNLE/clamav-client/ClamAV-Client-0.11.tar.gz
 ClamAV::Config                     0.11  J/JM/JMEHNLE/clamav-client/ClamAV-Client-0.11.tar.gz
@@ -65903,7 +65903,7 @@ Devel::Cover::Report::Text         1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
 Devel::Cover::Report::Text2        1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
 Devel::Cover::Report::Vim          1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
 Devel::Cover::Report::Vim::Template::Provider 1.51  P/PJ/PJCJ/Devel-Cover-1.51.tar.gz
-Devel::Cover::Report::XSCover      0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
+Devel::Cover::Report::XSCover      0.10  L/LN/LNATION/Devel-XSCover-0.10.tar.gz
 Devel::Cover::Statement            1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
 Devel::Cover::Subroutine           1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
 Devel::Cover::Test                 1.52  P/PJ/PJCJ/Devel-Cover-1.52.tar.gz
@@ -66896,14 +66896,14 @@ Devel::WxProf::Treemap         0.000001  M/MK/MKUTTER/Devel-WxProf-0.0.1.tar.gz
 Devel::WxProf::Treemap::Output::Imager 0.000001  M/MK/MKUTTER/Devel-WxProf-0.0.1.tar.gz
 Devel::WxProf::Treemap::Squarified 0.000001  M/MK/MKUTTER/Devel-WxProf-0.0.1.tar.gz
 Devel::XRay                        0.95  J/JB/JBISBEE/Devel-XRay-0.95.tar.gz
-Devel::XSCover                     0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
-Devel::XSCover::Build              0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
-Devel::XSCover::DB                 0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
-Devel::XSCover::Deparse            0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
-Devel::XSCover::Flow               0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
-Devel::XSCover::Gcov               0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
-Devel::XSCover::Test               0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
-Devel::XSCover::XS                 0.09  L/LN/LNATION/Devel-XSCover-0.09.tar.gz
+Devel::XSCover                     0.10  L/LN/LNATION/Devel-XSCover-0.10.tar.gz
+Devel::XSCover::Build              0.10  L/LN/LNATION/Devel-XSCover-0.10.tar.gz
+Devel::XSCover::DB                 0.10  L/LN/LNATION/Devel-XSCover-0.10.tar.gz
+Devel::XSCover::Deparse            0.10  L/LN/LNATION/Devel-XSCover-0.10.tar.gz
+Devel::XSCover::Flow               0.10  L/LN/LNATION/Devel-XSCover-0.10.tar.gz
+Devel::XSCover::Gcov               0.10  L/LN/LNATION/Devel-XSCover-0.10.tar.gz
+Devel::XSCover::Test               0.10  L/LN/LNATION/Devel-XSCover-0.10.tar.gz
+Devel::XSCover::XS                 0.10  L/LN/LNATION/Devel-XSCover-0.10.tar.gz
 Devel::XSHelper                    1.03  T/TO/TOKUHIROM/Module-Build-Pluggable-XSUtil-1.03.tar.gz
 Developer::Dashboard               6.06  M/MI/MICVU/Developer-Dashboard-6.06.tar.gz
 Developer::Dashboard::ActionRunner 6.06  M/MI/MICVU/Developer-Dashboard-6.06.tar.gz
@@ -106612,14 +106612,14 @@ Hyper::Developer::Generator::Control::Flow 0.010  A/AC/ACID/Hyper-Developer-0.07
 Hyper::Developer::Generator::Environment 0.010  A/AC/ACID/Hyper-Developer-0.07.tar.gz
 Hyper::Developer::Model::Viewer   0.100  A/AC/ACID/Hyper-Developer-0.07.tar.gz
 Hyper::Developer::Server          undef  A/AC/ACID/Hyper-Developer-0.07.tar.gz
-Hyperman                           0.68  L/LN/LNATION/Hyperman-0.68.tar.gz
-Hyperman::Event::Epoll             0.68  L/LN/LNATION/Hyperman-0.68.tar.gz
-Hyperman::Event::IOUring           0.68  L/LN/LNATION/Hyperman-0.68.tar.gz
-Hyperman::Event::Kqueue            0.68  L/LN/LNATION/Hyperman-0.68.tar.gz
-Hyperman::Event::Poll              0.68  L/LN/LNATION/Hyperman-0.68.tar.gz
-Hyperman::Future                   0.68  L/LN/LNATION/Hyperman-0.68.tar.gz
-Hyperman::Loop                     0.68  L/LN/LNATION/Hyperman-0.68.tar.gz
-Hyperman::Writer                   0.68  L/LN/LNATION/Hyperman-0.68.tar.gz
+Hyperman                           0.69  L/LN/LNATION/Hyperman-0.69.tar.gz
+Hyperman::Event::Epoll             0.69  L/LN/LNATION/Hyperman-0.69.tar.gz
+Hyperman::Event::IOUring           0.69  L/LN/LNATION/Hyperman-0.69.tar.gz
+Hyperman::Event::Kqueue            0.69  L/LN/LNATION/Hyperman-0.69.tar.gz
+Hyperman::Event::Poll              0.69  L/LN/LNATION/Hyperman-0.69.tar.gz
+Hyperman::Future                   0.69  L/LN/LNATION/Hyperman-0.69.tar.gz
+Hyperman::Loop                     0.69  L/LN/LNATION/Hyperman-0.69.tar.gz
+Hyperman::Writer                   0.69  L/LN/LNATION/Hyperman-0.69.tar.gz
 Hyperscan                          0.04  M/MS/MSIKORA/Hyperscan-0.04.tar.gz
 Hyperscan::Database                0.04  M/MS/MSIKORA/Hyperscan-0.04.tar.gz
 Hyperscan::Matcher                 0.04  M/MS/MSIKORA/Hyperscan-0.04.tar.gz
@@ -194920,7 +194920,7 @@ Plack::Handler::H2::Writer        undef  R/RA/RAWLEYFOW/Plack-Handler-H2-0.0.5.t
 Plack::Handler::HTTP::Server::PSGI undef  M/MI/MIYAGAWA/Plack-1.0057.tar.gz
 Plack::Handler::HTTP::Server::Simple 0.16  M/MI/MIYAGAWA/HTTP-Server-Simple-PSGI-0.16.tar.gz
 Plack::Handler::HTTP::Server::Simple::PSGIServer 0.16  M/MI/MIYAGAWA/HTTP-Server-Simple-PSGI-0.16.tar.gz
-Plack::Handler::Hyperman           0.68  L/LN/LNATION/Hyperman-0.68.tar.gz
+Plack::Handler::Hyperman           0.69  L/LN/LNATION/Hyperman-0.69.tar.gz
 Plack::Handler::Martian            0.08  A/AL/ALTREUS/Martian-0.08.tar.gz
 Plack::Handler::Message::Passing  undef  B/BO/BOBTFISH/Message-Passing-PSGI-0.001.tar.gz
 Plack::Handler::Monoceros         undef  K/KA/KAZEBURO/Monoceros-0.30.tar.gz
