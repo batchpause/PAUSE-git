@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263025
-Last-Updated: Tue, 10 Nov 2026 19:54:22 GMT
+Last-Updated: Tue, 10 Nov 2026 20:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -53191,7 +53191,7 @@ Dancer2::Plugin::Auth::SAFE       0.002  K/KV/KVENTIN/Dancer2-Plugin-Auth-SAFE-0
 Dancer2::Plugin::Auth::Tiny       0.008  X/XS/XSAWYERX/Dancer2-Plugin-Auth-Tiny-0.008.tar.gz
 Dancer2::Plugin::BrowserDetect 1.163590  H/HO/HOBBESTIG/Dancer2-Plugin-BrowserDetect-1.163590.tar.gz
 Dancer2::Plugin::Cache::CHI      v2.0.1  Y/YA/YANICK/Dancer2-Plugin-Cache-CHI-2.0.1.tar.gz
-Dancer2::Plugin::Captcha           0.14  M/MA/MANWAR/Dancer2-Plugin-Captcha-0.14.tar.gz
+Dancer2::Plugin::Captcha       1.000000  M/MA/MANWAR/Dancer2-Plugin-Captcha-v1.0.0.tar.gz
 Dancer2::Plugin::Cart            1.0001  A/AM/AMORTEGUI/Dancer2-Plugin-Cart-1.0001.tar.gz
 Dancer2::Plugin::Cart::Email     0.0001  A/AM/AMORTEGUI/Dancer2-Plugin-Cart-0.0004.tar.gz
 Dancer2::Plugin::Cart::Ext::Email 0.0002  A/AM/AMORTEGUI/Dancer2-Plugin-Cart-0.0005.tar.gz
@@ -130250,11 +130250,11 @@ MathWorks::Type::platformList     undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
 MathWorks::Type::product          undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
 MathWorks::Type::productDepItem   undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
 MathWorks::Type::productDepList   undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
-Matplotlib::Simple               0.3341  D/DC/DCON/Matplotlib-Simple-0.3341.tar.gz
-Matplotlib::Simple::Colors       0.3341  D/DC/DCON/Matplotlib-Simple-0.3341.tar.gz
-Matplotlib::Simple::Ggplot2      0.3341  D/DC/DCON/Matplotlib-Simple-0.3341.tar.gz
-Matplotlib::Simple::Gnuplot      0.3341  D/DC/DCON/Matplotlib-Simple-0.3341.tar.gz
-Matplotlib::Simple::Matplotlib   0.3341  D/DC/DCON/Matplotlib-Simple-0.3341.tar.gz
+Matplotlib::Simple               0.3343  D/DC/DCON/Matplotlib-Simple-0.3343.tar.gz
+Matplotlib::Simple::Colors       0.3343  D/DC/DCON/Matplotlib-Simple-0.3343.tar.gz
+Matplotlib::Simple::Ggplot2      0.3343  D/DC/DCON/Matplotlib-Simple-0.3343.tar.gz
+Matplotlib::Simple::Gnuplot      0.3343  D/DC/DCON/Matplotlib-Simple-0.3343.tar.gz
+Matplotlib::Simple::Matplotlib   0.3343  D/DC/DCON/Matplotlib-Simple-0.3343.tar.gz
 Matrix::Simple                     1.04  O/OX/OXJGOUO/Matrix-Simple-1.04.tar.gz
 Matts::Message                    undef  M/MS/MSERGEANT/Matts-Message-Parser-1.0.tar.gz
 Matts::Message::Parser              1.0  M/MS/MSERGEANT/Matts-Message-Parser-1.0.tar.gz
