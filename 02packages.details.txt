@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263025
-Last-Updated: Tue, 10 Nov 2026 09:29:02 GMT
+Last-Updated: Tue, 10 Nov 2026 10:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -58147,7 +58147,7 @@ Data::TagDB::Tag                v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
 Data::TagDB::WeakBaseObject     v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
 Data::TagDB::WellKnown          v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
 Data::TagHive                     0.005  R/RJ/RJBS/Data-TagHive-0.005.tar.gz
-Data::TagListMatcher             v0.1.0  L/LI/LION/Data-TagListMatcher-v0.01.tar.gz
+Data::TagListMatcher             v0.2.0  L/LI/LION/Data-TagListMatcher-v0.02.tar.gz
 Data::TagMap                     v0.3.0  L/LI/LION/Data-TagMap-v0.03.tar.gz
 Data::Taxi                         0.96  M/MI/MIKO/Data-Taxi-0.96.tar.gz
 Data::Taxonomy::Tags               0.05  T/TS/TSIBLEY/Data-Taxonomy-Tags-0.05.tar.gz
