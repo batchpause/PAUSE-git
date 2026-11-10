@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263025
-Last-Updated: Tue, 10 Nov 2026 20:17:02 GMT
+Last-Updated: Tue, 10 Nov 2026 21:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -47905,10 +47905,10 @@ Config::Writer::BIRD              undef  K/KO/KORNIX/Config-Writer-0.0.4.tar.gz
 Config::XMLPerl                    0.01  G/GM/GMPASSOS/Config-XMLPerl-0.01.tar.gz
 Config::XPath                      0.16  P/PE/PEVANS/Config-XPath-0.16.tar.gz
 Config::XPath::Reloadable          0.16  P/PE/PEVANS/Config-XPath-0.16.tar.gz
-Config::XrmDatabase                0.08  D/DJ/DJERIUS/Config-XrmDatabase-0.08.tar.gz
-Config::XrmDatabase::Failure       0.08  D/DJ/DJERIUS/Config-XrmDatabase-0.08.tar.gz
-Config::XrmDatabase::Types         0.08  D/DJ/DJERIUS/Config-XrmDatabase-0.08.tar.gz
-Config::XrmDatabase::Util          0.08  D/DJ/DJERIUS/Config-XrmDatabase-0.08.tar.gz
+Config::XrmDatabase                0.09  D/DJ/DJERIUS/Config-XrmDatabase-0.09.tar.gz
+Config::XrmDatabase::Failure       0.09  D/DJ/DJERIUS/Config-XrmDatabase-0.09.tar.gz
+Config::XrmDatabase::Types         0.09  D/DJ/DJERIUS/Config-XrmDatabase-0.09.tar.gz
+Config::XrmDatabase::Util          0.09  D/DJ/DJERIUS/Config-XrmDatabase-0.09.tar.gz
 Config::YAARG                     0.023  A/AL/ALUCAS/Config-YAARG-0.023.tar.gz
 Config::Yacp                       2.00  T/TS/TSTANLEY/Config-Yacp-2.00.tar.gz
 Config::Yak                        0.23  T/TE/TEX/Config-Yak-0.23.tar.gz
