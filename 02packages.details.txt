@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263025
-Last-Updated: Tue, 10 Nov 2026 07:17:02 GMT
+Last-Updated: Tue, 10 Nov 2026 08:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -217422,8 +217422,8 @@ Smart::Dispatch::Match            0.006  T/TO/TOBYINK/Smart-Dispatch-0.006.tar.g
 Smart::Dispatch::Table            0.006  T/TO/TOBYINK/Smart-Dispatch-0.006.tar.gz
 Smart::Match                      0.008  L/LE/LEONT/Smart-Match-0.008.tar.gz
 Smart::Match::Overload            0.008  L/LE/LEONT/Smart-Match-0.008.tar.gz
-Smart::Options                   v1.0.0  M/MI/MIKIHOSHI/Smart-Options-1.0.0.tar.gz
-Smart::Options::Declare           undef  M/MI/MIKIHOSHI/Smart-Options-1.0.0.tar.gz
+Smart::Options                   v1.0.1  M/MI/MIKIHOSHI/Smart-Options-1.0.1.tar.gz
+Smart::Options::Declare           undef  M/MI/MIKIHOSHI/Smart-Options-1.0.1.tar.gz
 SmarTalk                           0.10  C/CL/CLADI/SmarTalk_v10.tar.gz
 Smartcat::App                  0.000012  T/TA/TARAS/Smartcat-App-0.0.12.tar.gz
 Smartcat::App::Command            undef  T/TA/TARAS/Smartcat-App-0.0.12.tar.gz
