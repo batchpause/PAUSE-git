@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263076
-Last-Updated: Wed, 11 Nov 2026 18:54:29 GMT
+Last-Updated: Wed, 11 Nov 2026 19:54:34 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -219494,10 +219494,10 @@ Spreadsheet::ConvertAA             0.06  N/NK/NKH/Spreadsheet-ConvertAA-0.06.tar
 Spreadsheet::CSV                   0.20  D/DD/DDICK/Spreadsheet-CSV-0.20.tar.gz
 Spreadsheet::DataFromExcel     1.001003  Z/ZO/ZOFFIX/Spreadsheet-DataFromExcel-1.001004.tar.gz
 Spreadsheet::DataToExcel         0.0105  Z/ZO/ZOFFIX/Spreadsheet-DataToExcel-0.0105.tar.gz
-Spreadsheet::Edit              1001.004  J/JI/JIMAVERA/Spreadsheet-Edit-1001.004.tar.gz
-Spreadsheet::Edit::IO          1001.004  J/JI/JIMAVERA/Spreadsheet-Edit-1001.004.tar.gz
-Spreadsheet::Edit::Log         1001.004  J/JI/JIMAVERA/Spreadsheet-Edit-1001.004.tar.gz
-Spreadsheet::Edit::Preload     1001.004  J/JI/JIMAVERA/Spreadsheet-Edit-1001.004.tar.gz
+Spreadsheet::Edit              1001.005  J/JI/JIMAVERA/Spreadsheet-Edit-1001.005.tar.gz
+Spreadsheet::Edit::IO          1001.005  J/JI/JIMAVERA/Spreadsheet-Edit-1001.005.tar.gz
+Spreadsheet::Edit::Log         1001.005  J/JI/JIMAVERA/Spreadsheet-Edit-1001.005.tar.gz
+Spreadsheet::Edit::Preload     1001.005  J/JI/JIMAVERA/Spreadsheet-Edit-1001.005.tar.gz
 Spreadsheet::Engine                0.14  T/TM/TMTM/Spreadsheet-Engine-0.14.tar.gz
 Spreadsheet::Engine::Error        undef  T/TM/TMTM/Spreadsheet-Engine-0.14.tar.gz
 Spreadsheet::Engine::Fn::Approximator undef  T/TM/TMTM/Spreadsheet-Engine-0.14.tar.gz
