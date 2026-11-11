@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263076
-Last-Updated: Wed, 11 Nov 2026 19:54:34 GMT
+Last-Updated: Wed, 11 Nov 2026 20:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -54746,8 +54746,8 @@ Data::Dump::Sexp                  0.002  M/MG/MGV/Data-Dump-Sexp-0.002.tar.gz
 Data::Dump::SExpression           0.001  P/PE/PERLANCAR/Data-Dump-SExpression-0.001.tar.gz
 Data::Dump::SkipObjects           0.001  P/PE/PERLANCAR/Data-Dump-SkipObjects-0.001.tar.gz
 Data::Dump::SortKeys               0.04  P/PE/PERLANCAR/Data-Dump-SortKeys-0.04.tar.gz
-Data::Dump::Streamer              3.001  Y/YV/YVES/Data-Dump-Streamer-3.001.tar.gz
-Data::Dump::Streamer::Deparser    3.001  Y/YV/YVES/Data-Dump-Streamer-3.001.tar.gz
+Data::Dump::Streamer              3.002  Y/YV/YVES/Data-Dump-Streamer-3.002.tar.gz
+Data::Dump::Streamer::Deparser    3.002  Y/YV/YVES/Data-Dump-Streamer-3.002.tar.gz
 Data::Dump::Trace                  0.02  G/GA/GARU/Data-Dump-1.25.tar.gz
 Data::Dump::Trace::Call            0.02  G/GA/GARU/Data-Dump-1.25.tar.gz
 Data::Dump::Trace::Wrapper         0.02  G/GA/GARU/Data-Dump-1.25.tar.gz
