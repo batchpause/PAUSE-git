@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263047
-Last-Updated: Wed, 11 Nov 2026 12:41:02 GMT
+Last-Updated: Wed, 11 Nov 2026 13:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -48526,8 +48526,8 @@ CookBookB::Struct1                 0.01  D/DM/DMR/CookBookB-19960430.tar.gz
 CookBookB::Struct2                 0.01  D/DM/DMR/CookBookB-19960430.tar.gz
 CookBookB::Struct3                 0.01  D/DM/DMR/CookBookB-19960430.tar.gz
 Cookie                         0.003011  J/JD/JDEGUEST/Cookie-v0.3.11.tar.gz
-Cookie::Baker                      0.12  K/KA/KAZEBURO/Cookie-Baker-0.12.tar.gz
-Cookie::Baker::XS                  0.12  K/KA/KAZEBURO/Cookie-Baker-XS-0.12.tar.gz
+Cookie::Baker                      0.13  K/KA/KAZEBURO/Cookie-Baker-0.13.tar.gz
+Cookie::Baker::XS                  0.13  K/KA/KAZEBURO/Cookie-Baker-XS-0.13.tar.gz
 Cookie::Domain                 0.001008  J/JD/JDEGUEST/Cookie-v0.3.11.tar.gz
 Cookie::Jar                    0.003004  J/JD/JDEGUEST/Cookie-v0.3.11.tar.gz
 Cookie::XS                         0.11  A/AG/AGENT/Cookie-XS-0.11.tar.gz
@@ -51945,7 +51945,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressi
 Cucumber::TagExpressions::Node  v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressions-11.0.1.tar.gz
 Cucumber::TagExpressions::NotNode v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressions-11.0.1.tar.gz
 Cucumber::TagExpressions::OrNode v11.0.1  C/CU/CUKEBOT/Cucumber-TagExpressions-11.0.1.tar.gz
-Cucumber::Test::Release::Automation undef  C/CU/CUKEBOT/Cucumber-Test-Release-Automation-v0.0.176.tar.gz
+Cucumber::Test::Release::Automation undef  C/CU/CUKEBOT/Cucumber-Test-Release-Automation-v0.0.179.tar.gz
 CUI                               undef  A/AY/AYMULYAR/SemMed-Interface-0.05.tar.gz
 Curia                               1.0  M/MI/MIKIO/qdbm-perl-1.8.14.tar.gz
 Curl::Impersonate                  0.03  E/EG/EGOR/Curl-Impersonate-0.03.tar.gz
