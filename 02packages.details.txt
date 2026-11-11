@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263077
-Last-Updated: Wed, 11 Nov 2026 22:54:32 GMT
+Last-Updated: Wed, 11 Nov 2026 23:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -250723,8 +250723,8 @@ WebService::SmartRow              0.008  L/LA/LANCEW/WebService-SmartRow-0.008.t
 WebService::SmartyStreets        0.0105  A/AA/AANARI/WebService-SmartyStreets-0.0105.tar.gz
 WebService::SmartyStreets::Exception::AddressMissingInformation 0.0105  A/AA/AANARI/WebService-SmartyStreets-0.0105.tar.gz
 WebService::SmartyStreets::Exception::AddressNotFound 0.0105  A/AA/AANARI/WebService-SmartyStreets-0.0105.tar.gz
-WebService::SmsGora               1.000  T/TE/TEKSERVIX/WebService-SmsGora-1.000.tar.gz
-WebService::SmsGora::Error        1.000  T/TE/TEKSERVIX/WebService-SmsGora-1.000.tar.gz
+WebService::SmsGora               1.001  T/TE/TEKSERVIX/WebService-SmsGora-1.001.tar.gz
+WebService::SmsGora::Error        1.001  T/TE/TEKSERVIX/WebService-SmsGora-1.001.tar.gz
 WebService::Snapcard              undef  I/IR/IRONCAMEL/WebService-Snapcard-0.0001.tar.gz
 WebService::Solr                   0.44  P/PE/PETDANCE/WebService-Solr-0.44.tar.gz
 WebService::Solr::Document        undef  P/PE/PETDANCE/WebService-Solr-0.44.tar.gz
@@ -251030,8 +251030,8 @@ WebService::Walmart::Request       0.01  B/BR/BRANDON/WebService-Walmart-0.01.ta
 WebService::Walmart::Review        0.01  B/BR/BRANDON/WebService-Walmart-0.01.tar.gz
 WebService::Walmart::Store         0.01  B/BR/BRANDON/WebService-Walmart-0.01.tar.gz
 WebService::Walmart::Taxonomy      0.01  B/BR/BRANDON/WebService-Walmart-0.01.tar.gz
-WebService::WAservix              1.000  T/TE/TEKSERVIX/WebService-WAservix-1.000.tar.gz
-WebService::WAservix::Error       1.000  T/TE/TEKSERVIX/WebService-WAservix-1.000.tar.gz
+WebService::WAservix              1.001  T/TE/TEKSERVIX/WebService-WAservix-1.001.tar.gz
+WebService::WAservix::Error       1.001  T/TE/TEKSERVIX/WebService-WAservix-1.001.tar.gz
 WebService::weblogUpdates          0.35  A/AS/ASCOPE/WebService-weblogUpdates-0.35.tar.gz
 WebService::WebSequenceDiagrams 0.00001  M/MI/MIKI/WebService-WebSequenceDiagrams-0.00001.tar.gz
 WebService::Wedata             0.000004  K/KO/KOYACHI/WebService-Wedata-v0.0.4.tar.gz
