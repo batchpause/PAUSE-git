@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670651
+Line-Count:  670665
 Written-By:  PAUSE version 1.005
-Date:        Wed, 11 Nov 2026 14:18:21 GMT
+Date:        Wed, 11 Nov 2026 14:42:19 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -384069,7 +384069,10 @@ Monitoring::Sneck,VVELOX,f
 Monitoring::Sneck::Boop_Snoot,VVELOX,f
 Monitoring::Sneck::Checks,VVELOX,f
 Monitoring::Sneck::Checks::accounts,VVELOX,f
+Monitoring::Sneck::Checks::apparmor,VVELOX,f
+Monitoring::Sneck::Checks::auditd,VVELOX,f
 Monitoring::Sneck::Checks::base,VVELOX,f
+Monitoring::Sneck::Checks::bond,VVELOX,f
 Monitoring::Sneck::Checks::cciss,VVELOX,f
 Monitoring::Sneck::Checks::cert_dir,VVELOX,f
 Monitoring::Sneck::Checks::cert_file,VVELOX,f
@@ -384081,6 +384084,8 @@ Monitoring::Sneck::Checks::debsecan,VVELOX,f
 Monitoring::Sneck::Checks::disk,VVELOX,f
 Monitoring::Sneck::Checks::dns,VVELOX,f
 Monitoring::Sneck::Checks::dns_sync,VVELOX,f
+Monitoring::Sneck::Checks::edac,VVELOX,f
+Monitoring::Sneck::Checks::fail2ban,VVELOX,f
 Monitoring::Sneck::Checks::file_age,VVELOX,f
 Monitoring::Sneck::Checks::file_content,VVELOX,f
 Monitoring::Sneck::Checks::file_handles,VVELOX,f
@@ -384092,10 +384097,12 @@ Monitoring::Sneck::Checks::https_cert,VVELOX,f
 Monitoring::Sneck::Checks::interface,VVELOX,f
 Monitoring::Sneck::Checks::jails,VVELOX,f
 Monitoring::Sneck::Checks::kernel_modules,VVELOX,f
+Monitoring::Sneck::Checks::ldap,VVELOX,f
 Monitoring::Sneck::Checks::linux_ras,VVELOX,f
 Monitoring::Sneck::Checks::listening,VVELOX,f
 Monitoring::Sneck::Checks::load,VVELOX,f
 Monitoring::Sneck::Checks::log,VVELOX,f
+Monitoring::Sneck::Checks::mailq,VVELOX,f
 Monitoring::Sneck::Checks::memory,VVELOX,f
 Monitoring::Sneck::Checks::mount,VVELOX,f
 Monitoring::Sneck::Checks::mtime,VVELOX,f
@@ -384111,8 +384118,10 @@ Monitoring::Sneck::Checks::procs,VVELOX,f
 Monitoring::Sneck::Checks::rbl,VVELOX,f
 Monitoring::Sneck::Checks::reboot_needed,VVELOX,f
 Monitoring::Sneck::Checks::resolv,VVELOX,f
+Monitoring::Sneck::Checks::selinux,VVELOX,f
 Monitoring::Sneck::Checks::sensors,VVELOX,f
 Monitoring::Sneck::Checks::service,VVELOX,f
+Monitoring::Sneck::Checks::smart,VVELOX,f
 Monitoring::Sneck::Checks::smtp,VVELOX,f
 Monitoring::Sneck::Checks::sshd_config,VVELOX,f
 Monitoring::Sneck::Checks::supervisorctl,VVELOX,f
@@ -384122,8 +384131,13 @@ Monitoring::Sneck::Checks::swraid,VVELOX,f
 Monitoring::Sneck::Checks::sysctl,VVELOX,f
 Monitoring::Sneck::Checks::systemd_failed,VVELOX,f
 Monitoring::Sneck::Checks::tcp,VVELOX,f
+Monitoring::Sneck::Checks::thermal_throttle,VVELOX,f
+Monitoring::Sneck::Checks::time_sync,VVELOX,f
 Monitoring::Sneck::Checks::tls_protocols,VVELOX,f
 Monitoring::Sneck::Checks::uptime,VVELOX,f
+Monitoring::Sneck::Checks::vrrp,VVELOX,f
+Monitoring::Sneck::Checks::wireguard,VVELOX,f
+Monitoring::Sneck::Checks::zfs,VVELOX,f
 Monitoring::Sneck::Config,VVELOX,f
 Monitoring::Spooler,TEX,f
 Monitoring::Spooler::Cmd,TEX,f
