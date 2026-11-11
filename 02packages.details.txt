@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263076
-Last-Updated: Wed, 11 Nov 2026 18:41:01 GMT
+Last-Updated: Wed, 11 Nov 2026 18:54:29 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -196558,7 +196558,7 @@ Pod::LaTeX::Book               0.000001  L/LU/LUTETIUS/pod2book-0.0.1.tar.gz
 Pod::Licensizer                    0.03  M/MS/MSCHILLI/Pod-Licensizer-0.03.tar.gz
 Pod::link                          1.02  M/MA/MAREKR/Pod-Compiler-0.21.tar.gz
 Pod::List                          1.67  M/MA/MAREKR/Pod-Parser-1.67.tar.gz
-Pod::Literate                  0.000002  B/BB/BBLACKM/Pod-Literate-0.0.2.tar.gz
+Pod::Literate                  0.000003  B/BB/BBLACKM/Pod-Literate-0.0.3.tar.gz
 Pod::LOL                           0.15  T/TI/TIMKA/Pod-LOL-0.15.tar.gz
 Pod::Loom                          0.08  C/CJ/CJM/Pod-Loom-0.08.tar.gz
 Pod::Loom::_EventCounter           0.05  C/CJ/CJM/Pod-Loom-0.05.tar.gz
