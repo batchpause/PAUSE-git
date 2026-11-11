@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670636
+Line-Count:  670651
 Written-By:  PAUSE version 1.005
-Date:        Wed, 11 Nov 2026 10:29:23 GMT
+Date:        Wed, 11 Nov 2026 14:18:21 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -121969,6 +121969,21 @@ Data::Session::Serialize::FreezeThaw,RSAVAGE,f
 Data::Session::Serialize::JSON,RSAVAGE,f
 Data::Session::Serialize::Storable,RSAVAGE,f
 Data::Session::Serialize::YAML,RSAVAGE,f
+Data::Shared,EGOR,f
+Data::Shared::Adapter,EGOR,f
+Data::Shared::Adapter::Indexed,EGOR,f
+Data::Shared::Adapter::Keyed,EGOR,f
+Data::Shared::Adapter::Map,EGOR,f
+Data::Shared::Adapter::Queue,EGOR,f
+Data::Shared::Adapter::Set,EGOR,f
+Data::Shared::Adapter::Sketch,EGOR,f
+Data::Shared::Adapter::Sync,EGOR,f
+Data::Shared::Compiled,EGOR,f
+Data::Shared::Composite,EGOR,f
+Data::Shared::Manifest,EGOR,f
+Data::Shared::Node,EGOR,f
+Data::Shared::Registry,EGOR,f
+Data::Shared::Storage,EGOR,f
 Data::Shark,BILLWALZ,f
 Data::Shark::DBI,BILLWALZ,f
 Data::Shark::DIO,BILLWALZ,f
