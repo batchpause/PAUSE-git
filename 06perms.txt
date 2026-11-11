@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670632
+Line-Count:  670636
 Written-By:  PAUSE version 1.005
-Date:        Wed, 11 Nov 2026 08:41:16 GMT
+Date:        Wed, 11 Nov 2026 10:29:23 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -645371,6 +645371,8 @@ WebService::Smartling,MCOX,f
 WebService::SmartyStreets,AANARI,f
 WebService::SmartyStreets::Exception::AddressMissingInformation,AANARI,f
 WebService::SmartyStreets::Exception::AddressNotFound,AANARI,f
+WebService::SmsGora,TEKSERVIX,f
+WebService::SmsGora::Error,TEKSERVIX,f
 WebService::Snapcard,IRONCAMEL,f
 WebService::Solr,BRICAS,f
 WebService::Solr,PETDANCE,c
@@ -645739,6 +645741,8 @@ WebService::VigLink,PHRED,f
 WebService::VirusTotal,SORBS,f
 WebService::Vtiger,MONSENHOR,f
 WebService::Vultr,ESKAAREN,f
+WebService::WAservix,TEKSERVIX,f
+WebService::WAservix::Error,TEKSERVIX,f
 WebService::WTFIsMyIP,PLICEASE,f
 WebService::Walmart,BRANDON,f
 WebService::Walmart::Exception,BRANDON,f
