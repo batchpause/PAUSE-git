@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670616
+Line-Count:  670631
 Written-By:  PAUSE version 1.005
-Date:        Wed, 11 Nov 2026 00:18:07 GMT
+Date:        Wed, 11 Nov 2026 02:17:54 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -122379,6 +122379,7 @@ Data::Text::Simple,SKIM,f
 Data::Throttler,MSCHILLI,f
 Data::Throttler::Backend::Base,MSCHILLI,f
 Data::Throttler::Backend::Memory,MSCHILLI,f
+Data::Throttler::Backend::VWF,NHORNE,f
 Data::Throttler::Backend::YAML,MSCHILLI,f
 Data::Throttler::BucketChain,MSCHILLI,f
 Data::Throttler::BucketChain::Memcached,CODEREPOS,c
@@ -640132,6 +640133,20 @@ Web::Util::DBIC::Paging,WESM,c
 Web::Util::ExtPaging,FREW,f
 Web::Util::ExtPaging,MAESTRO,c
 Web::Util::ExtPaging,WESM,c
+Web::VWF,NHORNE,f
+Web::VWF::Allow,NHORNE,f
+Web::VWF::Blacklist,NHORNE,f
+Web::VWF::CAPTCHA,NHORNE,f
+Web::VWF::Config,NHORNE,f
+Web::VWF::Data::index,NHORNE,f
+Web::VWF::Data::vwf_log,NHORNE,f
+Web::VWF::Display,NHORNE,f
+Web::VWF::Display::captcha,NHORNE,f
+Web::VWF::Display::index,NHORNE,f
+Web::VWF::Display::meta_data,NHORNE,f
+Web::VWF::Display::table,NHORNE,f
+Web::VWF::Throttle,NHORNE,f
+Web::VWF::Utils,NHORNE,f
 Web::Widget,CORNELIUS,f
 Web::XDO,MIKO,f
 Web::oEmbed,MIYAGAWA,f
