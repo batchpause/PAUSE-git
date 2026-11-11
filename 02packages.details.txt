@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   263076
-Last-Updated: Wed, 11 Nov 2026 22:17:02 GMT
+Line-Count:   263077
+Last-Updated: Wed, 11 Nov 2026 22:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -192237,6 +192237,7 @@ Perl::Critic::Policy::RegularExpressions::ProhibitEscapedMetacharacters 1.156  P
 Perl::Critic::Policy::RegularExpressions::ProhibitFixedStringMatches 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::RegularExpressions::ProhibitIneffectiveModifiers 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-RegularExpressions-ProhibitIneffectiveModifiers-0.001.tar.gz
 Perl::Critic::Policy::RegularExpressions::ProhibitRegexForStringEquality 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-RegularExpressions-ProhibitRegexForStringEquality-0.001.tar.gz
+Perl::Critic::Policy::RegularExpressions::ProhibitRegexInStrings 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-RegularExpressions-ProhibitRegexInStrings-0.001.tar.gz
 Perl::Critic::Policy::RegularExpressions::ProhibitRegexToChomp 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-RegularExpressions-ProhibitRegexToChomp-0.001.tar.gz
 Perl::Critic::Policy::RegularExpressions::ProhibitRegexToSplitAtDelimiter 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-RegularExpressions-ProhibitRegexToSplitAtDelimiter-0.001.tar.gz
 Perl::Critic::Policy::RegularExpressions::ProhibitRegexToStripAffix 0.001  T/TE/TEODESIAN/Perl-Critic-Policy-RegularExpressions-ProhibitRegexToStripAffix-0.001.tar.gz
