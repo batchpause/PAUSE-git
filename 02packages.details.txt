@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263076
-Last-Updated: Wed, 11 Nov 2026 15:17:01 GMT
+Last-Updated: Wed, 11 Nov 2026 16:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -41876,7 +41876,7 @@ CGI::IDS::Whitelist              1.0217  H/HI/HINNERK/PerlIDS/CGI-IDS-1.0217.tar
 CGI::ImageMagick                  undef  G/GR/GRICHTER/Apache-ImageMagick-2.0b7.tar.gz
 CGI::ImageMagick::SubRequest      undef  G/GR/GRICHTER/Apache-ImageMagick-2.0b7.tar.gz
 CGI::Imagemap                         2  J/JP/JPIERCE/CGI-Imagemap-2.01.tgz
-CGI::Info                          1.16  N/NH/NHORNE/CGI-Info-1.16.tar.gz
+CGI::Info                          1.17  N/NH/NHORNE/CGI-Info-1.17.tar.gz
 CGI::Inspect                        0.5  A/AW/AWWAIID/CGI-Inspect-0.5.tar.gz
 CGI::Inspect::Here                undef  A/AW/AWWAIID/CGI-Inspect-0.5.tar.gz
 CGI::Inspect::Plugin              undef  A/AW/AWWAIID/CGI-Inspect-0.5.tar.gz
