@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263893
-Last-Updated: Thu, 12 Nov 2026 18:54:30 GMT
+Last-Updated: Thu, 12 Nov 2026 19:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -137477,18 +137477,18 @@ MojoX::Aliyun                      0.02  F/FA/FAYLAND/App-Aliyun-0.02.tar.gz
 MojoX::AlmostJSON              1.151250  X/XL/XLAT/MojoX-AlmostJSON-1.151250.tar.gz
 MojoX::AlmostJSON::_Bool       1.151250  X/XL/XLAT/MojoX-AlmostJSON-1.151250.tar.gz
 MojoX::Auth::Simple            0.004002  K/KI/KIMHAWTIN/MojoX-Auth-Simple-0.04.03.tar.gz
-MojoX::Authentication             0.010  P/PO/POLETTIX/MojoX-Authentication-0.010.tar.gz
-MojoX::Authentication::Model      0.010  P/PO/POLETTIX/MojoX-Authentication-0.010.tar.gz
-MojoX::Authentication::Model::Db  0.010  P/PO/POLETTIX/MojoX-Authentication-0.010.tar.gz
-MojoX::Authentication::Model::Hash 0.010  P/PO/POLETTIX/MojoX-Authentication-0.010.tar.gz
-MojoX::Authentication::Model::Role::Creator 0.010  P/PO/POLETTIX/MojoX-Authentication-0.010.tar.gz
-MojoX::Authentication::Model::Role::Local 0.010  P/PO/POLETTIX/MojoX-Authentication-0.010.tar.gz
-MojoX::Authentication::Model::Role::MojoDbWrap 0.010  P/PO/POLETTIX/MojoX-Authentication-0.010.tar.gz
-MojoX::Authentication::Model::Role::Remap 0.010  P/PO/POLETTIX/MojoX-Authentication-0.010.tar.gz
-MojoX::Authentication::Model::SAML2 0.010  P/PO/POLETTIX/MojoX-Authentication-0.010.tar.gz
-MojoX::Authentication::Model::SAML2::Db 0.010  P/PO/POLETTIX/MojoX-Authentication-0.010.tar.gz
-MojoX::Authentication::Model::SAML2::Hash 0.010  P/PO/POLETTIX/MojoX-Authentication-0.010.tar.gz
-MojoX::Authentication::Util       undef  P/PO/POLETTIX/MojoX-Authentication-0.010.tar.gz
+MojoX::Authentication             0.100  P/PO/POLETTIX/MojoX-Authentication-0.100.tar.gz
+MojoX::Authentication::Model      0.100  P/PO/POLETTIX/MojoX-Authentication-0.100.tar.gz
+MojoX::Authentication::Model::Db  0.100  P/PO/POLETTIX/MojoX-Authentication-0.100.tar.gz
+MojoX::Authentication::Model::Hash 0.100  P/PO/POLETTIX/MojoX-Authentication-0.100.tar.gz
+MojoX::Authentication::Model::Role::Creator 0.100  P/PO/POLETTIX/MojoX-Authentication-0.100.tar.gz
+MojoX::Authentication::Model::Role::Local 0.100  P/PO/POLETTIX/MojoX-Authentication-0.100.tar.gz
+MojoX::Authentication::Model::Role::MojoDbWrap 0.100  P/PO/POLETTIX/MojoX-Authentication-0.100.tar.gz
+MojoX::Authentication::Model::Role::Remap 0.100  P/PO/POLETTIX/MojoX-Authentication-0.100.tar.gz
+MojoX::Authentication::Model::SAML2 0.100  P/PO/POLETTIX/MojoX-Authentication-0.100.tar.gz
+MojoX::Authentication::Model::SAML2::Db 0.100  P/PO/POLETTIX/MojoX-Authentication-0.100.tar.gz
+MojoX::Authentication::Model::SAML2::Hash 0.100  P/PO/POLETTIX/MojoX-Authentication-0.100.tar.gz
+MojoX::Authentication::Util       0.100  P/PO/POLETTIX/MojoX-Authentication-0.100.tar.gz
 MojoX::CloudFlare::Simple          0.04  F/FA/FAYLAND/MojoX-CloudFlare-Simple-0.04.tar.gz
 MojoX::ConfigAppStart              1.06  G/GR/GRYPHON/MojoX-ConfigAppStart-1.06.tar.gz
 MojoX::CPAN::Uploader             0.034  Y/YK/YKO/MojoX-CPAN-Uploader-0.034.tar.gz
