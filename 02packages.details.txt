@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263088
-Last-Updated: Thu, 12 Nov 2026 06:41:01 GMT
+Last-Updated: Thu, 12 Nov 2026 07:54:18 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -118046,7 +118046,7 @@ LaTeX::PGF::Diagram2D::Polyline    1.00  D/DK/DKRAUSE/LaTeX-PGF-Diagram2D-1.02.t
 LaTeX::PGF::Diagram2D::Xspline     1.00  D/DK/DKRAUSE/LaTeX-PGF-Diagram2D-1.02.tar.gz
 LaTeX::Pod                         0.23  S/SC/SCHUBIGER/LaTeX-Pod-0.23.tar.gz
 LaTeX::Recode                      0.05  A/AM/AMBS/LaTeX-Recode-0.05.tar.gz
-LaTeX::Replicase                  0.793  D/DO/DONANGEL/LaTeX/LaTeX-Replicase-0.793.tar.gz
+LaTeX::Replicase                  0.803  D/DO/DONANGEL/LaTeX/LaTeX-Replicase-0.803.tar.gz
 LaTeX::Table                     v1.0.6  L/LI/LIMAONE/LaTeX-Table-v1.0.6.tar.gz
 LaTeX::Table::Themes::Beamer     v1.0.6  L/LI/LIMAONE/LaTeX-Table-v1.0.6.tar.gz
 LaTeX::Table::Themes::Booktabs   v1.0.6  L/LI/LIMAONE/LaTeX-Table-v1.0.6.tar.gz
