@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263088
-Last-Updated: Thu, 12 Nov 2026 09:54:21 GMT
+Last-Updated: Thu, 12 Nov 2026 10:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -199006,7 +199006,7 @@ PRANG::Util                        0.21  E/EG/EGILES/PRANG-0.21.tar.gz
 PRANG::XMLSchema::Types            0.21  E/EG/EGILES/PRANG-0.21.tar.gz
 PRANG::XMLSchema::Whatever         0.21  E/EG/EGILES/PRANG-0.21.tar.gz
 PrankCall                         0.004  L/LO/LOGIE/PrankCall-0.004.tar.gz
-Praxo::Core                      v0.2.0  H/HA/HANHUIWEN/Praxo-Core-0.2.0.tar.gz
+Praxo::Core                      v0.3.0  H/HA/HANHUIWEN/Praxo-Core-0.3.0.tar.gz
 Predicate                         undef  A/AY/AYMULYAR/SemMed-Interface-0.05.tar.gz
 pref                              undef  T/TO/TOMC/scripts/ADVLABS/rprint/pref.pm.gz
 PrefixCompiler                        0  M/MA/MARKLEEUW/SVN-TeamTools-Indexer-0.002.tar.gz
