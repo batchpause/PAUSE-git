@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  670667
+Line-Count:  670677
 Written-By:  PAUSE version 1.005
-Date:        Thu, 12 Nov 2026 02:17:49 GMT
+Date:        Thu, 12 Nov 2026 02:55:40 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -19608,6 +19608,7 @@ App::Netdisco::DB::Result::Community,OLIVER,f
 App::Netdisco::DB::Result::Device,OLIVER,f
 App::Netdisco::DB::Result::DeviceBrowser,OLIVER,f
 App::Netdisco::DB::Result::DeviceIp,OLIVER,f
+App::Netdisco::DB::Result::DeviceIpResolved,OLIVER,f
 App::Netdisco::DB::Result::DeviceModule,OLIVER,f
 App::Netdisco::DB::Result::DevicePort,OLIVER,f
 App::Netdisco::DB::Result::DevicePortLog,OLIVER,f
@@ -19621,7 +19622,10 @@ App::Netdisco::DB::Result::DeviceRoute,OLIVER,f
 App::Netdisco::DB::Result::DeviceSkip,OLIVER,f
 App::Netdisco::DB::Result::DeviceSnapshot,OLIVER,f
 App::Netdisco::DB::Result::DeviceVlan,OLIVER,f
+App::Netdisco::DB::Result::DeviceVrf,OLIVER,f
 App::Netdisco::DB::Result::Enterprise,OLIVER,f
+App::Netdisco::DB::Result::L3Domain,OLIVER,f
+App::Netdisco::DB::Result::L3DomainMember,OLIVER,f
 App::Netdisco::DB::Result::Log,OLIVER,f
 App::Netdisco::DB::Result::Manufacturer,OLIVER,f
 App::Netdisco::DB::Result::NetmapPositions,OLIVER,f
@@ -19647,6 +19651,7 @@ App::Netdisco::DB::Result::Virtual::ActiveNode,OLIVER,f
 App::Netdisco::DB::Result::Virtual::ActiveNodeWithAge,OLIVER,f
 App::Netdisco::DB::Result::Virtual::ApRadioChannelPower,OLIVER,f
 App::Netdisco::DB::Result::Virtual::CidrIps,OLIVER,f
+App::Netdisco::DB::Result::Virtual::CidrIpsByDomain,OLIVER,f
 App::Netdisco::DB::Result::Virtual::DeviceDnsMismatch,OLIVER,f
 App::Netdisco::DB::Result::Virtual::DeviceLinks,OLIVER,f
 App::Netdisco::DB::Result::Virtual::DevicePlatforms,OLIVER,f
@@ -19676,6 +19681,7 @@ App::Netdisco::DB::Result::Virtual::TastyJobs,OLIVER,f
 App::Netdisco::DB::Result::Virtual::UnDirEdgesAgg,OLIVER,f
 App::Netdisco::DB::Result::Virtual::UndiscoveredNeighbors,OLIVER,f
 App::Netdisco::DB::Result::Virtual::UserRole,OLIVER,f
+App::Netdisco::DB::Result::Virtual::VrfInconsistency,OLIVER,f
 App::Netdisco::DB::Result::Virtual::WalkJobs,OLIVER,f
 App::Netdisco::DB::ResultSet,OLIVER,f
 App::Netdisco::DB::ResultSet::AccessControlListMap,OLIVER,f
@@ -19768,6 +19774,7 @@ App::Netdisco::Util::ExpandParams,OLIVER,f
 App::Netdisco::Util::FastResolver,OLIVER,f
 App::Netdisco::Util::Graph,OLIVER,f
 App::Netdisco::Util::JobAction,OLIVER,f
+App::Netdisco::Util::L3Domain,OLIVER,f
 App::Netdisco::Util::MCE,OLIVER,f
 App::Netdisco::Util::Nbtstat,OLIVER,f
 App::Netdisco::Util::Node,OLIVER,f
@@ -19787,6 +19794,7 @@ App::Netdisco::Util::SiteLocal,OLIVER,f
 App::Netdisco::Util::Snapshot,OLIVER,f
 App::Netdisco::Util::Statistics,OLIVER,f
 App::Netdisco::Util::Token,OLIVER,f
+App::Netdisco::Util::VRF,OLIVER,f
 App::Netdisco::Util::Web,OLIVER,f
 App::Netdisco::Util::Worker,OLIVER,f
 App::Netdisco::Web,OLIVER,f
@@ -19843,6 +19851,7 @@ App::Netdisco::Web::Plugin::Report::DuplexMismatch,OLIVER,f
 App::Netdisco::Web::Plugin::Report::HalfDuplex,OLIVER,f
 App::Netdisco::Web::Plugin::Report::InventoryByModelByOS,OLIVER,f
 App::Netdisco::Web::Plugin::Report::IpInventory,OLIVER,f
+App::Netdisco::Web::Plugin::Report::L3Domains,OLIVER,f
 App::Netdisco::Web::Plugin::Report::ModuleInventory,OLIVER,f
 App::Netdisco::Web::Plugin::Report::Netbios,OLIVER,f
 App::Netdisco::Web::Plugin::Report::NodeMultiIPs,OLIVER,f
@@ -19859,6 +19868,7 @@ App::Netdisco::Web::Plugin::Report::PortVLANMismatch,OLIVER,f
 App::Netdisco::Web::Plugin::Report::SsidInventory,OLIVER,f
 App::Netdisco::Web::Plugin::Report::SubnetUtilization,OLIVER,f
 App::Netdisco::Web::Plugin::Report::VlanInventory,OLIVER,f
+App::Netdisco::Web::Plugin::Report::VrfInconsistency,OLIVER,f
 App::Netdisco::Web::Plugin::Search::Device,OLIVER,f
 App::Netdisco::Web::Plugin::Search::Node,OLIVER,f
 App::Netdisco::Web::Plugin::Search::Port,OLIVER,f
