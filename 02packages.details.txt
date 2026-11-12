@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263088
-Last-Updated: Thu, 12 Nov 2026 08:29:02 GMT
+Last-Updated: Thu, 12 Nov 2026 09:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -48536,8 +48536,8 @@ CookBookB::Struct1                 0.01  D/DM/DMR/CookBookB-19960430.tar.gz
 CookBookB::Struct2                 0.01  D/DM/DMR/CookBookB-19960430.tar.gz
 CookBookB::Struct3                 0.01  D/DM/DMR/CookBookB-19960430.tar.gz
 Cookie                         0.004001  J/JD/JDEGUEST/Cookie-v0.4.1.tar.gz
-Cookie::Baker                      0.13  K/KA/KAZEBURO/Cookie-Baker-0.13.tar.gz
-Cookie::Baker::XS                  0.13  K/KA/KAZEBURO/Cookie-Baker-XS-0.13.tar.gz
+Cookie::Baker                      0.14  K/KA/KAZEBURO/Cookie-Baker-0.14.tar.gz
+Cookie::Baker::XS                  0.14  K/KA/KAZEBURO/Cookie-Baker-XS-0.14.tar.gz
 Cookie::Domain                 0.001009  J/JD/JDEGUEST/Cookie-v0.4.1.tar.gz
 Cookie::Jar                    0.004000  J/JD/JDEGUEST/Cookie-v0.4.1.tar.gz
 Cookie::XS                         0.11  A/AG/AGENT/Cookie-XS-0.11.tar.gz
