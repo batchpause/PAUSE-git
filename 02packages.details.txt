@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263924
-Last-Updated: Thu, 12 Nov 2026 21:41:02 GMT
+Last-Updated: Thu, 12 Nov 2026 22:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -60879,7 +60879,7 @@ DateTime::TimeZone::Local::Android 2.72  D/DR/DROLSKY/DateTime-TimeZone-2.72.tar
 DateTime::TimeZone::Local::hpux   undef  D/DO/DOLMEN/DateTime-TimeZone-HPUX-1.04.tar.gz
 DateTime::TimeZone::Local::Unix    2.72  D/DR/DROLSKY/DateTime-TimeZone-2.72.tar.gz
 DateTime::TimeZone::Local::VMS     2.72  D/DR/DROLSKY/DateTime-TimeZone-2.72.tar.gz
-DateTime::TimeZone::Local::Win32   2.06  D/DA/DAPINK/DateTime-TimeZone-Local-Win32-2.06.tar.gz
+DateTime::TimeZone::Local::Win32   2.07  D/DA/DAPINK/DateTime-TimeZone-Local-Win32-2.07.tar.gz
 DateTime::TimeZone::MET            2.62  D/DR/DROLSKY/DateTime-TimeZone-2.62.tar.gz
 DateTime::TimeZone::MST            2.62  D/DR/DROLSKY/DateTime-TimeZone-2.62.tar.gz
 DateTime::TimeZone::MST7MDT        2.72  D/DR/DROLSKY/DateTime-TimeZone-2.72.tar.gz
@@ -228456,7 +228456,7 @@ Term::Graille::IO                  0.09  S/SA/SAIFTYNET/Term-Graille-0.09.tar.gz
 Term::Graille::Menu                 0.1  S/SA/SAIFTYNET/Term-Graille-0.10.tar.gz
 Term::Graille::Selector             0.1  S/SA/SAIFTYNET/Term-Graille-0.10.tar.gz
 Term::Graille::Textarea             0.1  S/SA/SAIFTYNET/Term-Graille-0.10.tar.gz
-Term::Highlight                2.003000  R/RA/RADKOV/Term-Highlight-2.3.0.tar.gz
+Term::Highlight                2.003001  R/RA/RADKOV/Term-Highlight-2.3.1.tar.gz
 Term::HiliteDiff                   0.10  J/JJ/JJORE/Term-HiliteDiff-0.10.tar.gz
 Term::HiliteDiff::_impl            0.10  J/JJ/JJORE/Term-HiliteDiff-0.10.tar.gz
 Term::hr                          0.002  W/WO/WOLDRICH/Term-hr-0.002.tar.gz
