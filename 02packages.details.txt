@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263088
-Last-Updated: Thu, 12 Nov 2026 11:17:02 GMT
+Last-Updated: Thu, 12 Nov 2026 11:54:30 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -127590,7 +127590,7 @@ Map::Tube::Exception::MissingSupportedMap 3.24  M/MA/MANWAR/Map-Tube-Exception-3
 Map::Tube::Exception::MissingSupportedObject 3.24  M/MA/MANWAR/Map-Tube-Exception-3.25.tar.gz
 Map::Tube::Exception::RouteNotFound 3.24  M/MA/MANWAR/Map-Tube-Exception-3.25.tar.gz
 Map::Tube::Frankfurt               0.04  R/RE/RENEEB/Map-Tube-Frankfurt-0.04.tar.gz
-Map::Tube::Generic               v0.2.1  G/GW/GWS/Map-Tube-Generic-v0.2.1.tar.gz
+Map::Tube::Generic               v0.2.2  G/GW/GWS/Map-Tube-Generic-v0.2.2.tar.gz
 Map::Tube::Glasgow              v0.72.4  G/GW/GWS/Map-Tube-Glasgow-v0.72.4.tar.gz
 Map::Tube::Graph                   0.06  S/SK/SKIM/Map-Tube-Graph-0.06.tar.gz
 Map::Tube::GraphViz                0.07  S/SK/SKIM/Map-Tube-GraphViz-0.07.tar.gz
