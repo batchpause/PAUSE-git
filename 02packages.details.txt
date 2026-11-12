@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263088
-Last-Updated: Thu, 12 Nov 2026 06:17:01 GMT
+Last-Updated: Thu, 12 Nov 2026 06:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -153528,7 +153528,7 @@ Object::Previous                 1.1012  J/JE/JETTERO/Object-Previous-1.1012.tar
 Object::Properties                1.003  A/AR/ARISTOTLE/Object-Properties-1.003.tar.gz
 Object::Properties::Base          1.003  A/AR/ARISTOTLE/Object-Properties-1.003.tar.gz
 Object::props                       2.4  S/SK/SKNPP/OOTools-2.41.tar.gz
-Object::Proto                      1.05  L/LN/LNATION/Object-Proto-1.05.tar.gz
+Object::Proto                      1.06  L/LN/LNATION/Object-Proto-1.06.tar.gz
 Object::Proto::Install::Files     undef  L/LN/LNATION/Object-Proto-0.19.tar.gz
 Object::Proto::Sugar               1.01  L/LN/LNATION/Object-Proto-Sugar-1.01.tar.gz
 Object::Prototype                  0.02  D/DA/DANKOGAI/Object-Prototype-0.02.tar.gz
