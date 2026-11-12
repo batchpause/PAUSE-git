@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263924
-Last-Updated: Thu, 12 Nov 2026 22:17:02 GMT
+Last-Updated: Thu, 12 Nov 2026 23:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -144808,15 +144808,15 @@ Net::Bullfinch::Iterator           0.16  F/FL/FLORA/Net-Bullfinch-0.16.tar.gz
 Net::Calais                        1.02  A/AA/AAR/Net-Calais-1.02.tar.gz
 Net::CalDAV::FindEntry             0.01  C/CO/CORION/Net-CalDAV-FindEntry-0.01.tar.gz
 Net::CalDAV::Utils                 0.01  C/CO/CORION/Net-CalDAV-FindEntry-0.01.tar.gz
-Net::CalDAVTalk                    0.18  B/BR/BRONG/Net-CalDAVTalk-0.18.tar.gz
+Net::CalDAVTalk                    0.19  B/BR/BRONG/Net-CalDAVTalk-0.19.tar.gz
 Net::CalDAVTalk::Extended          0.01  C/CO/CORION/Net-CalDAV-FindEntry-0.01.tar.gz
-Net::CalDAVTalk::TimeZones        undef  B/BR/BRONG/Net-CalDAVTalk-0.18.tar.gz
+Net::CalDAVTalk::TimeZones        undef  B/BR/BRONG/Net-CalDAVTalk-0.19.tar.gz
 Net::Camera::Edimax::IC1500       1.008  M/ME/MEH/Net-Camera-Edimax-IC1500-1.008.tar.gz
 Net::Camera::Sercomm::ICamera2     0.02  M/MR/MRDVT/Net-Camera-Sercomm-ICamera2-0.02.tar.gz
 Net::CampaignMonitor           2.002002  J/JJ/JJC/Net-CampaignMonitor-v2.2.2.tar.gz
 Net::Canopy::BAM                   0.04  J/JA/JAUER/Net-Canopy-BAM-0.04.tgz
 Net::CapsuleCRM                1.151910  E/EL/ELLIOTT/Net-CapsuleCRM-1.151910.tar.gz
-Net::CardDAVTalk                   0.13  B/BR/BRONG/Net-CardDAVTalk-0.13.tar.gz
+Net::CardDAVTalk                   0.14  B/BR/BRONG/Net-CardDAVTalk-0.14.tar.gz
 Net::CardDAVTalk::VCard           undef  B/BR/BRONG/Net-CardDAVTalk-0.09.tar.gz
 Net::CascadeCopy               0.002006  V/VV/VVU/Net-CascadeCopy-0.2.6.tar.gz
 Net::Cassandra                     0.35  L/LB/LBROCARD/Net-Cassandra-0.35.tar.gz
@@ -145224,8 +145224,8 @@ Net::DAV::LockManager::DB         1.305  C/CP/CPANEL/Net-DAV-Server-1.305.tar.gz
 Net::DAV::LockManager::Simple     1.305  C/CP/CPANEL/Net-DAV-Server-1.305.tar.gz
 Net::DAV::Server                  1.304  G/GW/GWADEJ/Net-DAV-Server-1.304.tar.gz
 Net::DAV::UUID                    1.305  C/CP/CPANEL/Net-DAV-Server-1.305.tar.gz
-Net::DAVTalk                       0.25  B/BR/BRONG/Net-DAVTalk-0.25.tar.gz
-Net::DAVTalk::XMLParser           undef  B/BR/BRONG/Net-DAVTalk-0.25.tar.gz
+Net::DAVTalk                       0.26  B/BR/BRONG/Net-DAVTalk-0.26.tar.gz
+Net::DAVTalk::XMLParser           undef  B/BR/BRONG/Net-DAVTalk-0.26.tar.gz
 Net::DBus                      1.002000  D/DA/DANBERR/Net-DBus-1.2.0.tar.gz
 Net::DBus::Annotation             undef  D/DA/DANBERR/Net-DBus-1.2.0.tar.gz
 Net::DBus::ASyncReply             undef  D/DA/DANBERR/Net-DBus-1.2.0.tar.gz
