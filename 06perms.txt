@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671481
+Line-Count:  671512
 Written-By:  PAUSE version 1.005
-Date:        Thu, 12 Nov 2026 16:29:10 GMT
+Date:        Thu, 12 Nov 2026 21:41:09 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -563404,6 +563404,37 @@ RevML::Doctype::v0_35,RBS,f
 RevML::Writer,RBS,f
 Reverse::Proxy,LNATION,f
 ReverseProxy::FormFiller,DELTOMBE,f
+Review::Helper,EXODIST,f
+Review::Helper::Builder,EXODIST,f
+Review::Helper::CLI,EXODIST,f
+Review::Helper::CLI::Build,EXODIST,f
+Review::Helper::CLI::Close,EXODIST,f
+Review::Helper::CLI::Export,EXODIST,f
+Review::Helper::CLI::Feedback,EXODIST,f
+Review::Helper::CLI::Fill,EXODIST,f
+Review::Helper::CLI::Import,EXODIST,f
+Review::Helper::CLI::Iterate,EXODIST,f
+Review::Helper::CLI::List,EXODIST,f
+Review::Helper::CLI::Note,EXODIST,f
+Review::Helper::CLI::Prune,EXODIST,f
+Review::Helper::CLI::Published,EXODIST,f
+Review::Helper::CLI::Serve,EXODIST,f
+Review::Helper::CLI::Sheet,EXODIST,f
+Review::Helper::CLI::Skills,EXODIST,f
+Review::Helper::CLI::Version,EXODIST,f
+Review::Helper::DB,EXODIST,f
+Review::Helper::Diff,EXODIST,f
+Review::Helper::Export,EXODIST,f
+Review::Helper::Feedback,EXODIST,f
+Review::Helper::Journal,EXODIST,f
+Review::Helper::Manual,EXODIST,f
+Review::Helper::Registry,EXODIST,f
+Review::Helper::Server,EXODIST,f
+Review::Helper::Sheet,EXODIST,f
+Review::Helper::Split,EXODIST,f
+Review::Helper::Util,EXODIST,f
+Review::Helper::VCS,EXODIST,f
+Review::Helper::VCS::Git,EXODIST,f
 Rewire,AWNCORP,f
 Rewire::Engine,AWNCORP,f
 Rewire::Ruleset,AWNCORP,f

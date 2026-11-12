@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   263893
-Last-Updated: Thu, 12 Nov 2026 20:29:02 GMT
+Line-Count:   263924
+Last-Updated: Thu, 12 Nov 2026 21:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -204996,6 +204996,37 @@ ReturnValue::Success              0.904  B/BR/BRIANDFOY/ReturnValue-0.904.tar.gz
 Reuters::SSL                       0.52  C/CB/CBARKEY/Reuters-SSL-0.52.tar.gz
 Reverse::Proxy                     0.06  L/LN/LNATION/Reverse-Proxy-0.06.tar.gz
 ReverseProxy::FormFiller            0.5  D/DE/DELTOMBE/ReverseProxy-FormFiller-0.5.tar.gz
+Review::Helper                    0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::Builder           0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI               0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Build        0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Close        0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Export       0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Feedback     0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Fill         0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Import       0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Iterate      0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::List         0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Note         0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Prune        0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Published    0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Serve        0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Sheet        0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Skills       0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::CLI::Version      0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::DB                0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::Diff              0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::Export            0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::Feedback          0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::Journal           0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::Manual            0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::Registry          0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::Server            0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::Sheet             0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::Split             0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::Util              0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::VCS               0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
+Review::Helper::VCS::Git          0.001  E/EX/EXODIST/Review-Helper-0.001.tar.gz
 revphone                           0.01  P/PH/PHOCUS/revphone-0.01.tar.gz
 Rewire                             0.06  A/AW/AWNCORP/Rewire-0.06.tar.gz
 Rewire::Engine                    undef  A/AW/AWNCORP/Rewire-0.06.tar.gz
