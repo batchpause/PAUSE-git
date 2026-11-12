@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263893
-Last-Updated: Thu, 12 Nov 2026 16:41:01 GMT
+Last-Updated: Thu, 12 Nov 2026 16:54:16 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -16477,10 +16477,10 @@ App::Sysadmin::Log::Simple::File  0.009  D/DO/DOHERTY/App-Sysadmin-Log-Simple-0.
 App::Sysadmin::Log::Simple::HTTP  0.009  D/DO/DOHERTY/App-Sysadmin-Log-Simple-0.009.tar.gz
 App::Sysadmin::Log::Simple::Twitter 0.009  D/DO/DOHERTY/App-Sysadmin-Log-Simple-0.009.tar.gz
 App::Sysadmin::Log::Simple::UDP   0.009  D/DO/DOHERTY/App-Sysadmin-Log-Simple-0.009.tar.gz
-App::Syslogd                      0.002  N/NH/NHORNE/App-Syslogd-0.002.0.tar.gz
-App::Syslogd::Cache               0.002  N/NH/NHORNE/App-Syslogd-0.002.0.tar.gz
-App::Syslogd::I18N                0.002  N/NH/NHORNE/App-Syslogd-0.002.0.tar.gz
-App::Syslogd::I18N::en            0.002  N/NH/NHORNE/App-Syslogd-0.002.0.tar.gz
+App::Syslogd                   0.002001  N/NH/NHORNE/App-Syslogd-0.002.1.tar.gz
+App::Syslogd::Cache            0.002001  N/NH/NHORNE/App-Syslogd-0.002.1.tar.gz
+App::Syslogd::I18N             0.002001  N/NH/NHORNE/App-Syslogd-0.002.1.tar.gz
+App::Syslogd::I18N::en         0.002001  N/NH/NHORNE/App-Syslogd-0.002.1.tar.gz
 App::SystemdUtils                 0.001  P/PE/PERLANCAR/App-SystemdUtils-0.001.tar.gz
 App::t1generate                    0.24  T/TU/TULAMILI/App-t1generate-0.24.tar.gz
 App::t2generate                    0.24  T/TU/TULAMILI/App-t2generate-0.24.tar.gz
