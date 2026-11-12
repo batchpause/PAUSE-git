@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263924
-Last-Updated: Thu, 12 Nov 2026 23:17:02 GMT
+Last-Updated: Thu, 12 Nov 2026 23:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -235427,7 +235427,7 @@ Tk::EntryCheck                     0.04  S/ST/STRAT/Tk-EntryCheck-0.04.tar.gz
 Tk::EntrySet                       0.11  L/LA/LAMPRECHT/Tk-EntrySet-0.11.tar.gz
 Tk::ErrorDialog                   4.008  S/SR/SREZIC/Tk-804.036.tar.gz
 Tk::ErrorDump                      0.02  D/DA/DARNOLD/Tk-ErrorDump-0.02.tar.gz
-Tk::eText                          2.08  I/IL/ILYAZ/modules/etext-2.08.zip
+Tk::eText                          2.09  I/IL/ILYAZ/modules/etext-2.09.zip
 Tk::Event                         4.040  S/SR/SREZIC/Tk-804.036.tar.gz
 Tk::Event::IO                     4.009  S/SR/SREZIC/Tk-804.036.tar.gz
 Tk::ExecuteCommand                  1.6  L/LU/LUSOL/Tk-ExecuteCommand-1.6.tar.gz
