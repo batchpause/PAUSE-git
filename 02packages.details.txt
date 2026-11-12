@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263088
-Last-Updated: Thu, 12 Nov 2026 07:54:18 GMT
+Last-Updated: Thu, 12 Nov 2026 08:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4579,7 +4579,7 @@ Alien::poetry                  1.000006  O/OL/OLIVER/Alien-poetry-1.000006.tar.g
 Alien::Poppler                    0.002  Z/ZM/ZMUGHAL/Alien-Poppler-0.002.tar.gz
 Alien::premake5                   0.003  J/JJ/JJATRIA/Alien-premake5-0.003.tar.gz
 Alien::proj                        1.31  S/SL/SLAFFAN/Alien-proj-1.31.tar.gz
-Alien::ProtoBuf                    0.09  M/MB/MBARBON/Alien-ProtoBuf-0.09.tar.gz
+Alien::ProtoBuf                    0.10  M/MB/MBARBON/Alien-ProtoBuf-0.10.tar.gz
 Alien::Prototype               v1.6.0.3  G/GT/GTERMARS/Alien-Prototype-v1.6.0.3.tar.gz
 Alien::Prototype::Carousel      v0.26.4  G/GT/GTERMARS/Alien-Prototype-Carousel-v0.26.4.tar.gz
 Alien::Prototype::Window         v1.3.4  G/GT/GTERMARS/Alien-Prototype-Window-v1.3.4.tar.gz
