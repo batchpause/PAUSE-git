@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263936
-Last-Updated: Fri, 13 Nov 2026 17:29:01 GMT
+Last-Updated: Fri, 13 Nov 2026 17:54:33 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -192933,8 +192933,8 @@ Perl::Tags::Tag::Role              0.32  O/OS/OSFAMERON/Perl-Tags-0.32.tar.gz
 Perl::Tags::Tag::Stub              0.32  O/OS/OSFAMERON/Perl-Tags-0.32.tar.gz
 Perl::Tags::Tag::Sub               0.32  O/OS/OSFAMERON/Perl-Tags-0.32.tar.gz
 Perl::Tags::Tag::Var               0.32  O/OS/OSFAMERON/Perl-Tags-0.32.tar.gz
-Perl::Tests::Covering             0.002  T/TE/TEODESIAN/Perl-Tests-Covering-0.002.tar.gz
-Perl::Tests::Covering::Recorder   0.002  T/TE/TEODESIAN/Perl-Tests-Covering-0.002.tar.gz
+Perl::Tests::Covering             0.003  T/TE/TEODESIAN/Perl-Tests-Covering-0.003.tar.gz
+Perl::Tests::Covering::Recorder   0.003  T/TE/TEODESIAN/Perl-Tests-Covering-0.003.tar.gz
 Perl::Tidy                     20260826  S/SH/SHANCOCK/Perl-Tidy-20260826.tar.gz
 Perl::Tidy::Debugger           20260826  S/SH/SHANCOCK/Perl-Tidy-20260826.tar.gz
 Perl::Tidy::DevNull            20230701  S/SH/SHANCOCK/Perl-Tidy-20230701.tar.gz
