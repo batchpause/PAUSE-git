@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671520
+Line-Count:  671526
 Written-By:  PAUSE version 1.005
-Date:        Fri, 13 Nov 2026 13:18:00 GMT
+Date:        Fri, 13 Nov 2026 15:55:37 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -331029,12 +331029,18 @@ Internals::CountObjects,JJORE,f
 Internals::DumpArenas,JJORE,f
 Internals::GraphArenas,JJORE,f
 InternetData,MSLM,f
+InternetData::AsnResult,MSLM,f
+InternetData::Bogon,MSLM,f
+InternetData::Bogons,MSLM,f
+InternetData::Cache,MSLM,f
 InternetData::Database,MSLM,f
+InternetData::DomainResult,MSLM,f
 InternetData::Error,MSLM,f
 InternetData::Oauth,MSLM,f
 InternetData::OauthAccessDeniedError,MSLM,f
 InternetData::OauthError,MSLM,f
 InternetData::OauthExpiredTokenError,MSLM,f
+InternetData::Result,MSLM,f
 Interpolate,DMUEY,f
 Interpolation,ADOPTME,f
 Interpolation,HANDOFF,c
