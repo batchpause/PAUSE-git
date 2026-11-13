@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671517
+Line-Count:  671518
 Written-By:  PAUSE version 1.005
-Date:        Fri, 13 Nov 2026 10:41:15 GMT
+Date:        Fri, 13 Nov 2026 12:55:48 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -381501,6 +381501,7 @@ MojoX::Mysql::DB,KOSTYA,f
 MojoX::Mysql::Result,KOSTYA,f
 MojoX::Mysql::Util,KOSTYA,f
 MojoX::NetstringStream,WIEGEROP,f
+MojoX::Pg::Migrations::Env,DJO,f
 MojoX::Ping,UNDEF,f
 MojoX::Plugin::AnyCache,CHGOVUK,f
 MojoX::Plugin::AnyCache::Backend,CHGOVUK,f
