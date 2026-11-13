@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263937
-Last-Updated: Fri, 13 Nov 2026 19:29:02 GMT
+Last-Updated: Fri, 13 Nov 2026 19:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -130387,7 +130387,7 @@ MaxMind::DB::Writer::Tree::Processor::VisualizeTree 0.300004  M/MA/MAXMIND/MaxMi
 MaxMind::DB::Writer::Util      0.300004  M/MA/MAXMIND/MaxMind-DB-Writer-0.300004.tar.gz
 maybe                            0.0202  D/DE/DEXTER/maybe-0.0202.tar.gz
 maybe::start                      undef  E/EH/EHUELS/Object-Remote-0.005000.tar.gz
-mayhaps                          v0.1.1  R/RR/RRWO/mayhaps-v0.1.1.tar.gz
+mayhaps                          v0.1.2  R/RR/RRWO/mayhaps-v0.1.2.tar.gz
 Maypole                            2.13  T/TE/TEEJAY/Maypole-2.13.tar.gz
 Maypole::Application               2.11  T/TE/TEEJAY/Maypole-2.13.tar.gz
 Maypole::Authentication::UserSessionCookie 1.4  S/SI/SIMON/Maypole-Authentication-UserSessionCookie-1.4.tar.gz
