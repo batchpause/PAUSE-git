@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263937
-Last-Updated: Fri, 13 Nov 2026 19:41:02 GMT
+Last-Updated: Fri, 13 Nov 2026 20:54:20 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -205590,7 +205590,7 @@ RF::Component                     1.006  E/EW/EWHEELER/RF-Component-1.006.tar.gz
 RF::Component::Multi              undef  E/EW/EWHEELER/RF-Component-1.006.tar.gz
 RF::Functions                      0.06  M/MR/MRDVT/RF-Functions-0.06.tar.gz
 RF::HC12                           0.01  S/ST/STEVEB/RF-HC12-0.01.tar.gz
-RF::LTE::EARFCN                    0.02  M/MR/MRDVT/RF-LTE-EARFCN-0.02.tar.gz
+RF::LTE::EARFCN                    0.03  M/MR/MRDVT/RF-LTE-EARFCN-0.03.tar.gz
 RFC::RFC822::Address           2009110702  A/AB/ABIGAIL/RFC-RFC822-Address-2009110702.tar.gz
 RFID::Alien::Reader               0.003  G/GI/GIFF/RFID-Alien-0.003.tar.gz
 RFID::Alien::Reader::Serial       undef  G/GI/GIFF/RFID-Alien-0.003.tar.gz
