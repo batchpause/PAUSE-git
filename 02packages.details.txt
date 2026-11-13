@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263936
-Last-Updated: Fri, 13 Nov 2026 17:17:02 GMT
+Last-Updated: Fri, 13 Nov 2026 17:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -230377,7 +230377,7 @@ Test::LocalFunctions::PPI         undef  M/MO/MOZNION/Test-LocalFunctions-0.23.t
 Test::LocalFunctions::Receptor    undef  M/MO/MOZNION/Test-LocalFunctions-0.23.tar.gz
 Test::LocalFunctions::Util        undef  M/MO/MOZNION/Test-LocalFunctions-0.23.tar.gz
 Test::Log4perl                   0.1001  F/FO/FOTANGO/Test-Log4perl-0.1001.tar.gz
-Test::Log::Abstraction         0.002001  N/NH/NHORNE/Test-Log-Abstraction-0.002.1.tar.gz
+Test::Log::Abstraction         0.002002  N/NH/NHORNE/Test-Log-Abstraction-0.002.2.tar.gz
 Test::Log::Dispatch                0.03  J/JS/JSWARTZ/Test-Log-Dispatch-0.03.tar.gz
 Test::Log::Log4perl                0.32  C/CL/CLKAO/Test-Log-Log4perl-0.32.tar.gz
 Test::LogFile                      0.04  K/KO/KOJIMAGI/Test-LogFile-0.04.tar.gz
