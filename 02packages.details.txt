@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263924
-Last-Updated: Fri, 13 Nov 2026 01:41:02 GMT
+Last-Updated: Fri, 13 Nov 2026 01:54:29 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -127540,8 +127540,8 @@ Map::Tube::Brussels              v0.2.2  G/GW/GWS/Map-Tube-Brussels-v0.2.2.tar.g
 Map::Tube::Bucharest               0.12  S/SK/SKIM/Map-Tube-Bucharest-0.12.tar.gz
 Map::Tube::Budapest                0.07  S/SK/SKIM/Map-Tube-Budapest-0.07.tar.gz
 Map::Tube::Chicago               v0.2.3  G/GW/GWS/Map-Tube-Chicago-v0.2.3.tar.gz
-Map::Tube::CLI                   v1.2.0  M/MA/MANWAR/Map-Tube-CLI-v1.2.0.tar.gz
-Map::Tube::CLI::Option           v1.2.0  M/MA/MANWAR/Map-Tube-CLI-v1.2.0.tar.gz
+Map::Tube::CLI                   v1.2.1  M/MA/MANWAR/Map-Tube-CLI-v1.2.1.tar.gz
+Map::Tube::CLI::Option           v1.2.1  M/MA/MANWAR/Map-Tube-CLI-v1.2.1.tar.gz
 Map::Tube::Cookbook              v5.2.0  M/MA/MANWAR/Map-Tube-v5.2.0.tar.gz
 Map::Tube::Copenhagen              0.04  S/SL/SLU/Map-Tube-Copenhagen-0.04.tar.gz
 Map::Tube::Delhi                   0.99  M/MA/MANWAR/Map-Tube-Delhi-0.99.tar.gz
