@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   263936
-Last-Updated: Fri, 13 Nov 2026 16:54:36 GMT
+Last-Updated: Fri, 13 Nov 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -6051,29 +6051,29 @@ AnyEvent::Log::LOG                undef  M/ML/MLEHMANN/AnyEvent-7.17.tar.gz
 AnyEvent::Loop                    undef  M/ML/MLEHMANN/AnyEvent-7.17.tar.gz
 AnyEvent::Mac::Pasteboard          0.03  O/OG/OGATA/AnyEvent-Mac-Pasteboard-0.03.tar.gz
 AnyEvent::Mattermost              0.002  J/JS/JSIME/AnyEvent-Mattermost-0.002.tar.gz
-AnyEvent::MCP                       0.9  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Base                 0.9  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Client             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Client::HTTP       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Client::JSONL      undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Client::Request    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Config             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Extension          undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
+AnyEvent::MCP                      0.91  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Base                0.91  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Client             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Client::HTTP       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Client::JSONL      undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Client::Request    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Config             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Extension          undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
 AnyEvent::MCP::File               undef  M/ML/MLEHMANN/AnyEvent-MCP-0.82.tar.gz
-AnyEvent::MCP::Helper             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::IMAP::OAuth2       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::IMAP::Providers    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Permissions::Ask   undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Server             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Server::Connect    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Server::HTTP       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Server::JSONL      undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Server::Permissions undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Server::Request    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Server::Simple     undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Server::Toolset    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Workdirs           undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
-AnyEvent::MCP::Worker::IMAP       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.9.tar.gz
+AnyEvent::MCP::Helper             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::IMAP::OAuth2       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::IMAP::Providers    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Permissions::Ask   undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Server             undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Server::Connect    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Server::HTTP       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Server::JSONL      undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Server::Permissions undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Server::Request    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Server::Simple     undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Server::Toolset    undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Workdirs           undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
+AnyEvent::MCP::Worker::IMAP       undef  M/ML/MLEHMANN/AnyEvent-MCP-0.91.tar.gz
 AnyEvent::mDNS                     0.06  M/MI/MIYAGAWA/AnyEvent-mDNS-0.06.tar.gz
 AnyEvent::Memcached                0.08  M/MO/MONS/AnyEvent-Memcached-0.08.tar.gz
 AnyEvent::Memcached::Hash::WithNext undef  M/MO/MONS/AnyEvent-Memcached-0.08.tar.gz
@@ -207167,7 +207167,7 @@ RT::Extension::AutomaticAssignment::Filter::UserDefined undef  B/BP/BPS/RT-Exten
 RT::Extension::AutomaticAssignment::Filter::WorkSchedule undef  B/BP/BPS/RT-Extension-AutomaticAssignment-2.00.tar.gz
 RT::Extension::AutomaticAssignment::Test undef  B/BP/BPS/RT-Extension-AutomaticAssignment-2.00.tar.gz
 RT::Extension::AwayMode            0.05  F/FI/FIREFART/RT-Extension-AwayMode-0.05.tar.gz
-RT::Extension::AWS::Assets         0.09  B/BP/BPS/RT-Extension-AWS-Assets-0.09.tar.gz
+RT::Extension::AWS::Assets         0.10  B/BP/BPS/RT-Extension-AWS-Assets-0.10.tar.gz
 RT::Extension::BecomeUser          0.02  M/MB/MBP/RT-Extension-BecomeUser-1.01.tar.gz
 RT::Extension::BooleanCustomField  0.05  G/GI/GIBUS/RT-Extension-BooleanCustomField-0.05.tar.gz
 RT::Extension::BounceEmail         0.03  H/HO/HOFSTETTM/RT-Extension-BounceEmail-0.03.tar.gz
