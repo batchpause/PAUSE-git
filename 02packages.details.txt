@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264006
-Last-Updated: Sat, 14 Nov 2026 13:54:01 GMT
+Line-Count:   264007
+Last-Updated: Sat, 14 Nov 2026 15:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -232248,17 +232248,18 @@ Text::BibTeX::StructuredEntry      1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
 Text::BibTeX::Validate         0.003000  M/ME/MERKYS/Text-BibTeX-Validate-0.3.0.tar.gz
 Text::BibTeX::Validate::Warning 0.003000  M/ME/MERKYS/Text-BibTeX-Validate-0.3.0.tar.gz
 Text::BibTeX::Value                1.00  A/AM/AMBS/Text-BibTeX-1.00.tar.gz
-Text::Bidi                         2.18  K/KA/KAMENSKY/Text-Bidi-2.18.tar.gz
-Text::Bidi::Array                  2.18  K/KA/KAMENSKY/Text-Bidi-2.18.tar.gz
-Text::Bidi::Array::Byte            2.18  K/KA/KAMENSKY/Text-Bidi-2.18.tar.gz
-Text::Bidi::Array::Long            2.18  K/KA/KAMENSKY/Text-Bidi-2.18.tar.gz
+Text::Bidi                         2.19  K/KA/KAMENSKY/Text-Bidi-2.19.tar.gz
+Text::Bidi::Array                  2.19  K/KA/KAMENSKY/Text-Bidi-2.19.tar.gz
+Text::Bidi::Array::Byte            2.19  K/KA/KAMENSKY/Text-Bidi-2.19.tar.gz
+Text::Bidi::Array::Long            2.19  K/KA/KAMENSKY/Text-Bidi-2.19.tar.gz
 Text::Bidi::CapRTL                undef  K/KA/KAMENSKY/Text-Bidi-0.03.tar.gz
-Text::Bidi::Constants              2.18  K/KA/KAMENSKY/Text-Bidi-2.18.tar.gz
-Text::Bidi::Paragraph              2.18  K/KA/KAMENSKY/Text-Bidi-2.18.tar.gz
+Text::Bidi::Constants              2.19  K/KA/KAMENSKY/Text-Bidi-2.19.tar.gz
+Text::Bidi::Paragraph              2.19  K/KA/KAMENSKY/Text-Bidi-2.19.tar.gz
 Text::Bidi::private               undef  K/KA/KAMENSKY/Text-Bidi-2.02.tar.gz
 Text::Bidi::private::_FriBidiList undef  K/KA/KAMENSKY/Text-Bidi-0.03.tar.gz
 Text::Bidi::private::FriBidiRunType undef  K/KA/KAMENSKY/Text-Bidi-0.03.tar.gz
 Text::Bidi::privatec              undef  K/KA/KAMENSKY/Text-Bidi-2.01.tar.gz
+Text::Bidi::Selection              2.19  K/KA/KAMENSKY/Text-Bidi-2.19.tar.gz
 Text::Bind                         0.04  E/EH/EHOOD/Text-Bind-0.04.tar.gz
 Text::BIP                          0.51  T/TI/TIMA/Text-BIP-0.51.tar.gz
 Text::BlockLayout                  0.03  M/MO/MORITZ/Text-BlockLayout-0.03.tar.gz
