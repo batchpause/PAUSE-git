@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264006
-Last-Updated: Sat, 14 Nov 2026 06:41:02 GMT
+Last-Updated: Sat, 14 Nov 2026 08:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -236455,15 +236455,15 @@ Travel::Routing::DE::HAFAS::Location 0.01  D/DE/DERF/Travel-Routing-DE-HAFAS-0.0
 Travel::Routing::DE::HAFAS::Utils  0.11  D/DE/DERF/Travel-Routing-DE-HAFAS-0.11.tar.gz
 Travel::Routing::DE::VRR           2.25  D/DE/DERF/Travel-Routing-DE-VRR-2.25.tar.gz
 Travel::Status::DE::ASEAG          2.01  D/DE/DERF/Travel-Status-DE-URA-2.01.tar.gz
-Travel::Status::DE::DBRIS          0.39  D/DE/DERF/Travel-Status-DE-DBRIS-0.39.tar.gz
-Travel::Status::DE::DBRIS::Formation 0.39  D/DE/DERF/Travel-Status-DE-DBRIS-0.39.tar.gz
-Travel::Status::DE::DBRIS::Formation::Carriage 0.39  D/DE/DERF/Travel-Status-DE-DBRIS-0.39.tar.gz
-Travel::Status::DE::DBRIS::Formation::Group 0.39  D/DE/DERF/Travel-Status-DE-DBRIS-0.39.tar.gz
-Travel::Status::DE::DBRIS::Formation::Sector 0.39  D/DE/DERF/Travel-Status-DE-DBRIS-0.39.tar.gz
-Travel::Status::DE::DBRIS::Journey 0.39  D/DE/DERF/Travel-Status-DE-DBRIS-0.39.tar.gz
-Travel::Status::DE::DBRIS::JourneyAtStop 0.39  D/DE/DERF/Travel-Status-DE-DBRIS-0.39.tar.gz
-Travel::Status::DE::DBRIS::Location 0.39  D/DE/DERF/Travel-Status-DE-DBRIS-0.39.tar.gz
-Travel::Status::DE::DBRIS::Operators 0.39  D/DE/DERF/Travel-Status-DE-DBRIS-0.39.tar.gz
+Travel::Status::DE::DBRIS          0.40  D/DE/DERF/Travel-Status-DE-DBRIS-0.40.tar.gz
+Travel::Status::DE::DBRIS::Formation 0.40  D/DE/DERF/Travel-Status-DE-DBRIS-0.40.tar.gz
+Travel::Status::DE::DBRIS::Formation::Carriage 0.40  D/DE/DERF/Travel-Status-DE-DBRIS-0.40.tar.gz
+Travel::Status::DE::DBRIS::Formation::Group 0.40  D/DE/DERF/Travel-Status-DE-DBRIS-0.40.tar.gz
+Travel::Status::DE::DBRIS::Formation::Sector 0.40  D/DE/DERF/Travel-Status-DE-DBRIS-0.40.tar.gz
+Travel::Status::DE::DBRIS::Journey 0.40  D/DE/DERF/Travel-Status-DE-DBRIS-0.40.tar.gz
+Travel::Status::DE::DBRIS::JourneyAtStop 0.40  D/DE/DERF/Travel-Status-DE-DBRIS-0.40.tar.gz
+Travel::Status::DE::DBRIS::Location 0.40  D/DE/DERF/Travel-Status-DE-DBRIS-0.40.tar.gz
+Travel::Status::DE::DBRIS::Operators 0.40  D/DE/DERF/Travel-Status-DE-DBRIS-0.40.tar.gz
 Travel::Status::DE::DBWagenreihung 0.18  D/DE/DERF/Travel-Status-DE-DBWagenreihung-0.18.tar.gz
 Travel::Status::DE::DBWagenreihung::Carriage 0.18  D/DE/DERF/Travel-Status-DE-DBWagenreihung-0.18.tar.gz
 Travel::Status::DE::DBWagenreihung::Group 0.18  D/DE/DERF/Travel-Status-DE-DBWagenreihung-0.18.tar.gz
@@ -246146,17 +246146,17 @@ Voxgig::Struct::Bool           0.001000  R/RJ/RJRODGER/Voxgig-Struct-0.1.0.tar.g
 Voxgig::Struct::JsonParser     0.001000  R/RJ/RJRODGER/Voxgig-Struct-0.1.0.tar.gz
 Voxgig::Struct::Null           0.001000  R/RJ/RJRODGER/Voxgig-Struct-0.1.0.tar.gz
 Voxgig::Struct::OrderedHash    0.001000  R/RJ/RJRODGER/Voxgig-Struct-0.1.0.tar.gz
-VPNDetection                   3.013002  M/MS/MSLM/VPNDetection-3.13.2.tar.gz
-VPNDetection::Bogon            3.013002  M/MS/MSLM/VPNDetection-3.13.2.tar.gz
-VPNDetection::Bogons              undef  M/MS/MSLM/VPNDetection-3.13.2.tar.gz
-VPNDetection::Cache            3.013002  M/MS/MSLM/VPNDetection-3.13.2.tar.gz
-VPNDetection::Database         3.013002  M/MS/MSLM/VPNDetection-3.13.2.tar.gz
-VPNDetection::Error            3.013002  M/MS/MSLM/VPNDetection-3.13.2.tar.gz
-VPNDetection::Oauth            3.013002  M/MS/MSLM/VPNDetection-3.13.2.tar.gz
-VPNDetection::OauthAccessDeniedError 3.013002  M/MS/MSLM/VPNDetection-3.13.2.tar.gz
-VPNDetection::OauthError       3.013002  M/MS/MSLM/VPNDetection-3.13.2.tar.gz
-VPNDetection::OauthExpiredTokenError 3.013002  M/MS/MSLM/VPNDetection-3.13.2.tar.gz
-VPNDetection::Result           3.013002  M/MS/MSLM/VPNDetection-3.13.2.tar.gz
+VPNDetection                   3.014000  M/MS/MSLM/VPNDetection-3.14.0.tar.gz
+VPNDetection::Bogon            3.014000  M/MS/MSLM/VPNDetection-3.14.0.tar.gz
+VPNDetection::Bogons              undef  M/MS/MSLM/VPNDetection-3.14.0.tar.gz
+VPNDetection::Cache            3.014000  M/MS/MSLM/VPNDetection-3.14.0.tar.gz
+VPNDetection::Database         3.014000  M/MS/MSLM/VPNDetection-3.14.0.tar.gz
+VPNDetection::Error            3.014000  M/MS/MSLM/VPNDetection-3.14.0.tar.gz
+VPNDetection::Oauth            3.014000  M/MS/MSLM/VPNDetection-3.14.0.tar.gz
+VPNDetection::OauthAccessDeniedError 3.014000  M/MS/MSLM/VPNDetection-3.14.0.tar.gz
+VPNDetection::OauthError       3.014000  M/MS/MSLM/VPNDetection-3.14.0.tar.gz
+VPNDetection::OauthExpiredTokenError 3.014000  M/MS/MSLM/VPNDetection-3.14.0.tar.gz
+VPNDetection::Result           3.014000  M/MS/MSLM/VPNDetection-3.14.0.tar.gz
 vpopmail                           0.08  S/SS/SSCANLON/vpopmail-0.08.tar.gz
 vptk_w::ConfigRead                undef  F/FE/FELIXL/vptk/vptk_w_2_42b.tgz
 vptk_w::EditorServices            undef  F/FE/FELIXL/vptk/vptk_w_2_42b.tgz
