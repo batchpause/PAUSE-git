@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264007
-Last-Updated: Sat, 14 Nov 2026 15:17:02 GMT
+Last-Updated: Sat, 14 Nov 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -120856,21 +120856,21 @@ Linux::Epoll                      0.019  L/LE/LEONT/Linux-Epoll-0.019.tar.gz
 Linux::Ethtool                     0.11  D/DJ/DJCOLLINS/Linux-Ethtool-0.11.tar.gz
 Linux::Ethtool::Settings           0.11  D/DJ/DJCOLLINS/Linux-Ethtool-0.11.tar.gz
 Linux::Ethtool::WOL                0.11  D/DJ/DJCOLLINS/Linux-Ethtool-0.11.tar.gz
-Linux::Event                      0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Address             0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
+Linux::Event                      0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Address             0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
 Linux::Event::Backend             0.012  H/HA/HAX/Linux-Event-0.012.tar.gz
 Linux::Event::Backend::Epoll      0.012  H/HA/HAX/Linux-Event-0.012.tar.gz
 Linux::Event::Bench               0.012  H/HA/HAX/Linux-Event-0.012.tar.gz
 Linux::Event::Datagram            0.105  H/HA/HAX/Linux-Event-0.105.tar.gz
-Linux::Event::Error               0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Framer              0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Framer::DecimalLength 0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Framer::Delimiter   0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Framer::Fixed       0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Framer::LengthPrefix 0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Framer::Netstring   0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Framer::U32BE       0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Framer::Varint      0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
+Linux::Event::Error               0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Framer              0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Framer::DecimalLength 0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Framer::Delimiter   0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Framer::Fixed       0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Framer::LengthPrefix 0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Framer::Netstring   0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Framer::U32BE       0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Framer::Varint      0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
 Linux::Event::HTTP                0.005  H/HA/HAX/Linux-Event-HTTP-0.005.tar.gz
 Linux::Event::HTTP::Body::Stream  0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::HTTP::Client        0.005  H/HA/HAX/Linux-Event-HTTP-0.005.tar.gz
@@ -120881,23 +120881,23 @@ Linux::Event::HTTP::Response      0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::HTTP::Server        0.005  H/HA/HAX/Linux-Event-HTTP-0.005.tar.gz
 Linux::Event::HTTP::Server::Connection 0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
 Linux::Event::HTTP::Transaction   0.003  H/HA/HAX/Linux-Event-HTTP-0.003.tar.gz
-Linux::Event::IO                  0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::IO::Pipe            0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::IO::Sock            0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::IO::Sock::Dgram     0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::IO::Sock::Listener  0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::IO::Sock::Stream    0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::IO::TTY             0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Kernel              0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Kernel::Event       0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Kernel::Inotify     0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Kernel::Inotify::Event 0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Kernel::Inotify::Watch 0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Kernel::Process     0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Kernel::Signal      0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
-Linux::Event::Kernel::Timer       0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
+Linux::Event::IO                  0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::IO::Pipe            0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::IO::Sock            0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::IO::Sock::Dgram     0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::IO::Sock::Listener  0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::IO::Sock::Stream    0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::IO::TTY             0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Kernel              0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Kernel::Event       0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Kernel::Inotify     0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Kernel::Inotify::Event 0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Kernel::Inotify::Watch 0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Kernel::Process     0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Kernel::Signal      0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
+Linux::Event::Kernel::Timer       0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
 Linux::Event::Listener            0.105  H/HA/HAX/Linux-Event-0.105.tar.gz
-Linux::Event::Loop                0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
+Linux::Event::Loop                0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
 Linux::Event::Operation           0.010  H/HA/HAX/Linux-Event-0.010.tar.gz
 Linux::Event::Pid                 0.012  H/HA/HAX/Linux-Event-0.012.tar.gz
 Linux::Event::Pid::Subscription   0.012  H/HA/HAX/Linux-Event-0.012.tar.gz
@@ -120914,7 +120914,7 @@ Linux::Event::Signal              0.105  H/HA/HAX/Linux-Event-0.105.tar.gz
 Linux::Event::Signal::Subscription 0.012  H/HA/HAX/Linux-Event-0.012.tar.gz
 Linux::Event::Stream              0.105  H/HA/HAX/Linux-Event-0.105.tar.gz
 Linux::Event::Timer               0.105  H/HA/HAX/Linux-Event-0.105.tar.gz
-Linux::Event::TLS                 0.119  H/HA/HAX/Linux-Event-0.119.tar.gz
+Linux::Event::TLS                 0.120  H/HA/HAX/Linux-Event-0.120.tar.gz
 Linux::Event::Wakeup              0.105  H/HA/HAX/Linux-Event-0.105.tar.gz
 Linux::Event::Watcher             0.012  H/HA/HAX/Linux-Event-0.012.tar.gz
 Linux::Event::WebSocket           0.003  H/HA/HAX/Linux-Event-WebSocket-0.003.tar.gz
