@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671527
+Line-Count:  671579
 Written-By:  PAUSE version 1.005
-Date:        Fri, 13 Nov 2026 19:17:18 GMT
+Date:        Sat, 14 Nov 2026 00:18:18 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -347943,6 +347943,58 @@ LibCAS::ModPerl2,MMORRIS,f
 LibEth,DYACOB,f
 LibJIT,VYF,f
 LibTerm::GetKey,BARRYP,c
+LibTmux,TONY,f
+LibTmux::Client,TONY,f
+LibTmux::ClientSelection,TONY,f
+LibTmux::Codec,TONY,f
+LibTmux::CommandResult,TONY,f
+LibTmux::Entity,TONY,f
+LibTmux::Filter,TONY,f
+LibTmux::Operation,TONY,f
+LibTmux::Pane,TONY,f
+LibTmux::PaneSelection,TONY,f
+LibTmux::Platform::Linux,TONY,f
+LibTmux::ProcessJob,TONY,f
+LibTmux::QueryPlan,TONY,f
+LibTmux::Schema,TONY,f
+LibTmux::Selection,TONY,f
+LibTmux::Selection::Iterator,TONY,f
+LibTmux::Server,TONY,f
+LibTmux::Session,TONY,f
+LibTmux::SessionSelection,TONY,f
+LibTmux::Snapshot,TONY,f
+LibTmux::Transport,TONY,f
+LibTmux::Window,TONY,f
+LibTmux::WindowLink,TONY,f
+LibTmux::WindowLinkSelection,TONY,f
+LibTmux::WindowSelection,TONY,f
+LibTmux::Workspace,TONY,f
+LibTmux::Workspace::X,TONY,f
+LibTmux::Workspace::X::Config,TONY,f
+LibTmux::Workspace::X::Conflict,TONY,f
+LibTmux::Workspace::X::Load,TONY,f
+LibTmux::X,TONY,f
+LibTmux::X::AcquisitionRace,TONY,f
+LibTmux::X::Cancelled,TONY,f
+LibTmux::X::Codec,TONY,f
+LibTmux::X::Command,TONY,f
+LibTmux::X::Creation,TONY,f
+LibTmux::X::InvalidArgument,TONY,f
+LibTmux::X::InvalidFilter,TONY,f
+LibTmux::X::InvalidSelection,TONY,f
+LibTmux::X::MultipleMatches,TONY,f
+LibTmux::X::NoMatch,TONY,f
+LibTmux::X::NoServer,TONY,f
+LibTmux::X::NoSuchTarget,TONY,f
+LibTmux::X::OutputLimit,TONY,f
+LibTmux::X::QueryMismatch,TONY,f
+LibTmux::X::Spawn,TONY,f
+LibTmux::X::StaleReference,TONY,f
+LibTmux::X::Timeout,TONY,f
+LibTmux::X::Transport,TONY,f
+LibTmux::X::Unloaded,TONY,f
+LibTmux::X::Unsupported,TONY,f
+LibTmux::X::UnsupportedValue,TONY,f
 LibTracker::Client,GERA,f
 LibTracker::Client::MetaDataTypeDetails,GERA,f
 LibUI,SANKO,f
