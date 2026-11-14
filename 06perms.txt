@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671580
+Line-Count:  671586
 Written-By:  PAUSE version 1.005
-Date:        Sat, 14 Nov 2026 00:30:25 GMT
+Date:        Sat, 14 Nov 2026 00:55:27 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -347944,6 +347944,12 @@ LibEth,DYACOB,f
 LibJIT,VYF,f
 LibTerm::GetKey,BARRYP,c
 LibTmux,TONY,f
+LibTmux::Async,TONY,f
+LibTmux::Async::Server,TONY,f
+LibTmux::Async::Transport,TONY,f
+LibTmux::Async::X,TONY,f
+LibTmux::Async::X::Closed,TONY,f
+LibTmux::Async::X::QueueFull,TONY,f
 LibTmux::Client,TONY,f
 LibTmux::ClientSelection,TONY,f
 LibTmux::Codec,TONY,f
