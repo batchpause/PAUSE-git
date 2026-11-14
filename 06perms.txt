@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671614
+Line-Count:  671623
 Written-By:  PAUSE version 1.005
-Date:        Sat, 14 Nov 2026 21:18:25 GMT
+Date:        Sat, 14 Nov 2026 21:55:08 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -364117,21 +364117,30 @@ Mail::Convert::Mbox::ToEml,RJBS,c
 Mail::DKIM,JASLONG,f
 Mail::DKIM,MBRADSHAW,c
 Mail::DKIM2,BRONG,f
+Mail::DKIM2::Address,BRONG,f
 Mail::DKIM2::BodyHasher,BRONG,f
 Mail::DKIM2::BodyPlan,BRONG,f
+Mail::DKIM2::Canon,BRONG,f
+Mail::DKIM2::Chain,BRONG,f
+Mail::DKIM2::Chain::_Reader,BRONG,f
 Mail::DKIM2::Common,BRONG,f
 Mail::DKIM2::DSN,BRONG,f
 Mail::DKIM2::Digest,BRONG,f
+Mail::DKIM2::Fold,BRONG,f
 Mail::DKIM2::Gate,BRONG,f
 Mail::DKIM2::HeaderParser,BRONG,f
 Mail::DKIM2::HeaderPlan,BRONG,f
+Mail::DKIM2::Hop,BRONG,f
+Mail::DKIM2::Key,BRONG,f
 Mail::DKIM2::MessageInstance,BRONG,f
 Mail::DKIM2::MessageStore,BRONG,f
+Mail::DKIM2::RecipeJSON,BRONG,f
 Mail::DKIM2::Reflector,BRONG,f
 Mail::DKIM2::Signature,BRONG,f
 Mail::DKIM2::Signer,BRONG,f
 Mail::DKIM2::Split,BRONG,f
 Mail::DKIM2::TagValueList,BRONG,f
+Mail::DKIM2::Util,BRONG,f
 Mail::DKIM2::Validate,BRONG,f
 Mail::DKIM2::Verifier,BRONG,f
 Mail::DKIM2::Wrap,BRONG,f
