@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671598
+Line-Count:  671614
 Written-By:  PAUSE version 1.005
-Date:        Sat, 14 Nov 2026 15:18:24 GMT
+Date:        Sat, 14 Nov 2026 21:18:25 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -136951,13 +136951,29 @@ Ekahau::Server::Test::Listener,GIFF,f
 Ekoi8r,INA,f
 Ekoi8u,INA,f
 Ekorn::Pipeline,CPANIC,f
+Ekorn::Pipeline::Element,CPANIC,f
 Ekorn::Pipeline::Errors,CPANIC,f
+Ekorn::Pipeline::Factories,CPANIC,f
 Ekorn::Pipeline::Gather,CPANIC,f
+Ekorn::Pipeline::Iterator,CPANIC,f
+Ekorn::Pipeline::JSON,CPANIC,f
+Ekorn::Pipeline::Operators,CPANIC,f
+Ekorn::Pipeline::Operators::Chain,CPANIC,f
+Ekorn::Pipeline::Operators::Stages,CPANIC,f
 Ekorn::Pipeline::Pipes,CPANIC,f
+Ekorn::Pipeline::Sink,CPANIC,f
+Ekorn::Pipeline::Sink::Many,CPANIC,f
+Ekorn::Pipeline::Sink::One,CPANIC,f
+Ekorn::Pipeline::Sinks,CPANIC,f
+Ekorn::Pipeline::Source,CPANIC,f
+Ekorn::Pipeline::Sources,CPANIC,f
+Ekorn::Pipeline::Stage,CPANIC,f
 Ekorn::Pipeline::Stages::Batch,CPANIC,f
 Ekorn::Pipeline::Stages::Flow,CPANIC,f
 Ekorn::Pipeline::Stages::Taps,CPANIC,f
 Ekorn::Pipeline::Stop,CPANIC,f
+Ekorn::Pipeline::Sugar,CPANIC,f
+Ekorn::Pipeline::Tooling,CPANIC,f
 Ekps9566,INA,f
 Eksc5601,INA,f
 Elastic::Doc,DIEGOK,c
