@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264035
-Last-Updated: Sun, 15 Nov 2026 11:29:02 GMT
+Last-Updated: Sun, 15 Nov 2026 11:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -135136,7 +135136,7 @@ Module::Build::Service::memcached  0.91  M/MD/MDORMAN/Module-Build-Service-0.91.
 Module::Build::Service::postgresql 0.91  M/MD/MDORMAN/Module-Build-Service-0.91.tar.gz
 Module::Build::Service::slapd      0.91  M/MD/MDORMAN/Module-Build-Service-0.91.tar.gz
 Module::Build::Smolder             0.02  W/WO/WONKO/Module-Build-Smolder-0.02.tar.gz
-Module::Build::SysPath             0.19  J/JK/JKUTEJ/Module-Build-SysPath-0.19.tar.gz
+Module::Build::SysPath             0.20  J/JK/JKUTEJ/Module-Build-SysPath-0.20.tar.gz
 Module::Build::TAPArchive          0.04  W/WO/WONKO/Module-Build-TAPArchive-0.04.tar.gz
 Module::Build::TestReporter           1  C/CH/CHROMATIC/Module-Build-TestReporter-1.00.tar.gz
 Module::Build::Tiny               0.053  L/LE/LEONT/Module-Build-Tiny-0.053.tar.gz
