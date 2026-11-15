@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264035
-Last-Updated: Sun, 15 Nov 2026 12:54:04 GMT
+Last-Updated: Sun, 15 Nov 2026 13:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -199113,7 +199113,7 @@ PRANG::Util                        0.21  E/EG/EGILES/PRANG-0.21.tar.gz
 PRANG::XMLSchema::Types            0.21  E/EG/EGILES/PRANG-0.21.tar.gz
 PRANG::XMLSchema::Whatever         0.21  E/EG/EGILES/PRANG-0.21.tar.gz
 PrankCall                         0.004  L/LO/LOGIE/PrankCall-0.004.tar.gz
-Praxo::Core                      v0.5.1  H/HA/HANHUIWEN/Praxo-Core-0.5.1.tar.gz
+Praxo::Core                      v0.6.0  H/HA/HANHUIWEN/Praxo-Core-0.6.0.tar.gz
 Predicate                         undef  A/AY/AYMULYAR/SemMed-Interface-0.05.tar.gz
 pref                              undef  T/TO/TOMC/scripts/ADVLABS/rprint/pref.pm.gz
 PrefixCompiler                        0  M/MA/MARKLEEUW/SVN-TeamTools-Indexer-0.002.tar.gz
@@ -213604,19 +213604,19 @@ Sepia::Xref                        0.65  S/SE/SEANO/Sepia-0.992.tar.gz
 Seq::Iter                         0.001  P/PE/PERLANCAR/Seq-Iter-0.001.tar.gz
 SeqDiff                           undef  B/BL/BLUECURIO/SeqDiff/SeqDiff-v0.1.tar.gz
 Ser::BinRPC                        0.01  T/TM/TMA/Ser-BinRPC-0.01.tar.gz
-Sereal                            7.002  Y/YV/YVES/Sereal-7.002.tar.gz
+Sereal                            7.003  Y/YV/YVES/Sereal-7.003.tar.gz
 Sereal::Dclone                    0.003  D/DB/DBOOK/Sereal-Dclone-0.003.tar.gz
-Sereal::Decoder                   7.002  Y/YV/YVES/Sereal-Decoder-7.002.tar.gz
-Sereal::Decoder::Constants        7.002  Y/YV/YVES/Sereal-Decoder-7.002.tar.gz
-Sereal::Encoder                   7.002  Y/YV/YVES/Sereal-Encoder-7.002.tar.gz
-Sereal::Encoder::Constants        7.002  Y/YV/YVES/Sereal-Encoder-7.002.tar.gz
+Sereal::Decoder                   7.003  Y/YV/YVES/Sereal-Decoder-7.003.tar.gz
+Sereal::Decoder::Constants        7.003  Y/YV/YVES/Sereal-Decoder-7.003.tar.gz
+Sereal::Encoder                   7.003  Y/YV/YVES/Sereal-Encoder-7.003.tar.gz
+Sereal::Encoder::Constants        7.003  Y/YV/YVES/Sereal-Encoder-7.003.tar.gz
 Sereal::Merger                    0.001  I/IK/IKRUGLOV/Sereal-Merger-0.001.tar.gz
 Sereal::Merger::Constants         0.001  I/IK/IKRUGLOV/Sereal-Merger-0.001.tar.gz
 Sereal::Path                      4.004  I/IK/IKRUGLOV/Sereal-Path-4.004.tar.gz
 Sereal::Path::Constants           4.004  I/IK/IKRUGLOV/Sereal-Path-4.004.tar.gz
 Sereal::Path::Iterator            4.004  I/IK/IKRUGLOV/Sereal-Path-4.004.tar.gz
 Sereal::Path::Tie                 4.004  I/IK/IKRUGLOV/Sereal-Path-4.004.tar.gz
-Sereal::Performance               undef  Y/YV/YVES/Sereal-Decoder-7.002.tar.gz
+Sereal::Performance               undef  Y/YV/YVES/Sereal-Decoder-7.003.tar.gz
 Sereal::Splitter                  0.840  D/DA/DAMS/Sereal-Splitter-0.840.tar.gz
 Sereal::Splitter::Constants       0.830  D/DA/DAMS/Sereal-Splitter-0.840.tar.gz
 SerealX::Store                    0.003  G/GV/GVL/SerealX-Store-0.003.tar.gz
