@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264035
-Last-Updated: Sun, 15 Nov 2026 11:41:02 GMT
+Last-Updated: Sun, 15 Nov 2026 12:54:04 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -23151,18 +23151,18 @@ Beam::Wire::Exception::InvalidConfig 1.031  P/PR/PREACTION/Beam-Wire-1.031.tar.g
 Beam::Wire::Exception::NotFound   1.031  P/PR/PREACTION/Beam-Wire-1.031.tar.gz
 Beam::Wire::Exception::Service    1.031  P/PR/PREACTION/Beam-Wire-1.031.tar.gz
 Beam::Wire::Moose                 0.005  P/PR/PREACTION/Beam-Wire-Moose-0.005.tar.gz
-BeamerReveal                   20260408.1240  W/WD/WDAEMS/BeamerReveal-20260408.1240.tar.gz
-BeamerReveal::FrameConverter   20260408.1240  W/WD/WDAEMS/BeamerReveal-20260408.1240.tar.gz
-BeamerReveal::IPC::Run         20260408.1240  W/WD/WDAEMS/BeamerReveal-20260408.1240.tar.gz
-BeamerReveal::Log              20260408.1240  W/WD/WDAEMS/BeamerReveal-20260408.1240.tar.gz
-BeamerReveal::Log::Ansi        20260408.1240  W/WD/WDAEMS/BeamerReveal-20260408.1240.tar.gz
+BeamerReveal                   20261115.1249  W/WD/WDAEMS/BeamerReveal-20261115.1249.tar.gz
+BeamerReveal::FrameConverter   20261115.1249  W/WD/WDAEMS/BeamerReveal-20261115.1249.tar.gz
+BeamerReveal::IPC::Run         20261115.1249  W/WD/WDAEMS/BeamerReveal-20261115.1249.tar.gz
+BeamerReveal::Log              20261115.1249  W/WD/WDAEMS/BeamerReveal-20261115.1249.tar.gz
+BeamerReveal::Log::Ansi        20261115.1249  W/WD/WDAEMS/BeamerReveal-20261115.1249.tar.gz
 BeamerReveal::Log::Win32       20251231.1112  W/WD/WDAEMS/BeamerReveal-20251231.1112.tar.gz
-BeamerReveal::MediaManager     20260408.1240  W/WD/WDAEMS/BeamerReveal-20260408.1240.tar.gz
-BeamerReveal::NotesFactory     20260408.1240  W/WD/WDAEMS/BeamerReveal-20260408.1240.tar.gz
-BeamerReveal::Object           20260408.1240  W/WD/WDAEMS/BeamerReveal-20260408.1240.tar.gz
-BeamerReveal::Object::BeamerFrame 20260408.1240  W/WD/WDAEMS/BeamerReveal-20260408.1240.tar.gz
-BeamerReveal::Object::Presentation 20260408.1240  W/WD/WDAEMS/BeamerReveal-20260408.1240.tar.gz
-BeamerReveal::TemplateStore    20260408.1240  W/WD/WDAEMS/BeamerReveal-20260408.1240.tar.gz
+BeamerReveal::MediaManager     20261115.1249  W/WD/WDAEMS/BeamerReveal-20261115.1249.tar.gz
+BeamerReveal::NotesFactory     20261115.1249  W/WD/WDAEMS/BeamerReveal-20261115.1249.tar.gz
+BeamerReveal::Object           20261115.1249  W/WD/WDAEMS/BeamerReveal-20261115.1249.tar.gz
+BeamerReveal::Object::BeamerFrame 20261115.1249  W/WD/WDAEMS/BeamerReveal-20261115.1249.tar.gz
+BeamerReveal::Object::Presentation 20261115.1249  W/WD/WDAEMS/BeamerReveal-20261115.1249.tar.gz
+BeamerReveal::TemplateStore    20261115.1249  W/WD/WDAEMS/BeamerReveal-20261115.1249.tar.gz
 BeamX::Peer::Emitter              0.003  D/DJ/DJERIUS/BeamX-Peer-Emitter-0.003.tar.gz
 BeamX::Peer::Listener             0.003  D/DJ/DJERIUS/BeamX-Peer-Emitter-0.003.tar.gz
 Beanstalk::Client                  1.07  G/GB/GBARR/Beanstalk-Client-1.07.tar.gz
