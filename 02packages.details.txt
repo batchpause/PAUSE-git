@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264035
-Last-Updated: Sun, 15 Nov 2026 10:54:09 GMT
+Last-Updated: Sun, 15 Nov 2026 11:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -108553,7 +108553,7 @@ IO::All::Socket                   undef  F/FR/FREW/IO-All-0.87.tar.gz
 IO::All::STDIO                    undef  F/FR/FREW/IO-All-0.87.tar.gz
 IO::All::String                   undef  F/FR/FREW/IO-All-0.87.tar.gz
 IO::All::Temp                     undef  F/FR/FREW/IO-All-0.87.tar.gz
-IO::Any                            0.09  J/JK/JKUTEJ/IO-Any-0.09.tar.gz
+IO::Any                            0.10  J/JK/JKUTEJ/IO-Any-0.10.tar.gz
 IO::Async                         0.805  P/PE/PEVANS/IO-Async-0.805.tar.gz
 IO::Async::Channel                0.805  P/PE/PEVANS/IO-Async-0.805.tar.gz
 IO::Async::Debug                  0.805  P/PE/PEVANS/IO-Async-0.805.tar.gz
