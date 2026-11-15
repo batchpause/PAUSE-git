@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264045
-Last-Updated: Sun, 15 Nov 2026 21:29:02 GMT
+Last-Updated: Sun, 15 Nov 2026 22:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -113807,25 +113807,25 @@ JSON::Schema::Fast::Compiled       0.10  L/LN/LNATION/JSON-Schema-Fast-0.10.tar.
 JSON::Schema::Fit                  0.07  L/LI/LIOSHA/JSON-Schema-Fit-0.07.tar.gz
 JSON::Schema::Generate             0.15  L/LN/LNATION/JSON-Schema-Generate-0.15.tar.gz
 JSON::Schema::Helper              0.016  T/TO/TOBYINK/JSON-Schema-0.016.tar.gz
-JSON::Schema::Modern              0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
-JSON::Schema::Modern::Annotation  0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
-JSON::Schema::Modern::Document    0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern              0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
+JSON::Schema::Modern::Annotation  0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
+JSON::Schema::Modern::Document    0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
 JSON::Schema::Modern::Document::OpenAPI 0.153  E/ET/ETHER/OpenAPI-Modern-0.153.tar.gz
-JSON::Schema::Modern::Error       0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
-JSON::Schema::Modern::Result      0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
-JSON::Schema::Modern::ResultNode  0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
-JSON::Schema::Modern::Utilities   0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
-JSON::Schema::Modern::Vocabulary  0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
-JSON::Schema::Modern::Vocabulary::Applicator 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
-JSON::Schema::Modern::Vocabulary::Content 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
-JSON::Schema::Modern::Vocabulary::Core 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
-JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
-JSON::Schema::Modern::Vocabulary::FormatAssertion 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
-JSON::Schema::Modern::Vocabulary::MetaData 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Error       0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
+JSON::Schema::Modern::Result      0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
+JSON::Schema::Modern::ResultNode  0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
+JSON::Schema::Modern::Utilities   0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
+JSON::Schema::Modern::Vocabulary  0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
+JSON::Schema::Modern::Vocabulary::Applicator 0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
+JSON::Schema::Modern::Vocabulary::Content 0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
+JSON::Schema::Modern::Vocabulary::Core 0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
+JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
+JSON::Schema::Modern::Vocabulary::FormatAssertion 0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
+JSON::Schema::Modern::Vocabulary::MetaData 0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
 JSON::Schema::Modern::Vocabulary::OpenAPI 0.153  E/ET/ETHER/OpenAPI-Modern-0.153.tar.gz
 JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.153  E/ET/ETHER/OpenAPI-Modern-0.153.tar.gz
-JSON::Schema::Modern::Vocabulary::Unevaluated 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
-JSON::Schema::Modern::Vocabulary::Validation 0.653  E/ET/ETHER/JSON-Schema-Modern-0.653.tar.gz
+JSON::Schema::Modern::Vocabulary::Unevaluated 0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
+JSON::Schema::Modern::Vocabulary::Validation 0.654  E/ET/ETHER/JSON-Schema-Modern-0.654.tar.gz
 JSON::Schema::Null                0.016  T/TO/TOBYINK/JSON-Schema-0.016.tar.gz
 JSON::Schema::Result              0.016  T/TO/TOBYINK/JSON-Schema-0.016.tar.gz
 JSON::Schema::Shorthand          v0.0.2  Y/YA/YANICK/JSON-Schema-Shorthand-0.0.2.tar.gz
