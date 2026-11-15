@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264035
-Last-Updated: Sun, 15 Nov 2026 13:54:18 GMT
+Last-Updated: Sun, 15 Nov 2026 14:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -34238,13 +34238,13 @@ Catalyst::Plugin::OAuth2::ResourceServer::Error 0.003  P/PE/PENFOLD/Catalyst-Plu
 Catalyst::Plugin::OAuth2::ResourceServer::Server 0.003  P/PE/PENFOLD/Catalyst-Plugin-OAuth2-ResourceServer-0.003.tar.gz
 Catalyst::Plugin::Observe          0.02  M/MR/MRAMBERG/Catalyst-Plugin-Observe-0.02.tar.gz
 Catalyst::Plugin::OIDC             1.05  S/SM/SMOURLHOU/Catalyst-Plugin-OIDC-1.05.tar.gz
-Catalyst::Plugin::OpenIDConnect    0.15  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.15.tar.gz
-Catalyst::Plugin::OpenIDConnect::Context undef  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.15.tar.gz
-Catalyst::Plugin::OpenIDConnect::Controller::Root undef  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.15.tar.gz
-Catalyst::Plugin::OpenIDConnect::Role::Store undef  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.15.tar.gz
-Catalyst::Plugin::OpenIDConnect::Utils::JWT undef  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.15.tar.gz
-Catalyst::Plugin::OpenIDConnect::Utils::Store undef  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.15.tar.gz
-Catalyst::Plugin::OpenIDConnect::Utils::Store::Redis undef  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.15.tar.gz
+Catalyst::Plugin::OpenIDConnect    0.16  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.16.tar.gz
+Catalyst::Plugin::OpenIDConnect::Context undef  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.16.tar.gz
+Catalyst::Plugin::OpenIDConnect::Controller::Root undef  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.16.tar.gz
+Catalyst::Plugin::OpenIDConnect::Role::Store undef  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.16.tar.gz
+Catalyst::Plugin::OpenIDConnect::Utils::JWT undef  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.16.tar.gz
+Catalyst::Plugin::OpenIDConnect::Utils::Store undef  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.16.tar.gz
+Catalyst::Plugin::OpenIDConnect::Utils::Store::Redis undef  T/TF/TFRAYNER/Catalyst-Plugin-OpenIDConnect-0.16.tar.gz
 Catalyst::Plugin::OrderedParams    0.06  A/AG/AGRUNDMA/Catalyst-Plugin-OrderedParams-0.06.tar.gz
 Catalyst::Plugin::PageCache        0.32  V/VE/VERISSIMO/Catalyst-Plugin-PageCache-0.32.tar.gz
 Catalyst::Plugin::Params::Demoronize 1.14  D/DI/DIZ/Catalyst-Plugin-Params-Demoronize-1.14.tar.gz
