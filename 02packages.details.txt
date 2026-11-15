@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264033
-Last-Updated: Sun, 15 Nov 2026 02:41:02 GMT
+Last-Updated: Sun, 15 Nov 2026 03:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -13362,7 +13362,7 @@ App::NumberUtilRangeUtils         0.003  P/PE/PERLANCAR/App-NumberUtilRangeUtils
 App::numero2bgc                   0.021  T/TU/TULAMILI/App-numero2bgc-0.021.tar.gz
 App::numseq                       0.002  P/PE/PERLANCAR/App-numseq-0.002.tar.gz
 App::numspeed                     0.001  P/PE/PERLANCAR/App-numspeed-0.001.tar.gz
-App::nup                           1.15  U/UT/UTASHIRO/App-nup-1.15.tar.gz
+App::nup                           1.16  U/UT/UTASHIRO/App-nup-1.16.tar.gz
 App::NutrientUtils                0.001  P/PE/PERLANCAR/App-NutrientUtils-0.001.tar.gz
 App::NYTProfUtils                 0.001  P/PE/PERLANCAR/App-NYTProfUtils-0.001.tar.gz
 App::oaf                          undef  S/SH/SHAW/App-oaf-0.04.tar.gz
@@ -13559,7 +13559,7 @@ App::optex::textconv::tika         1.08  U/UT/UTASHIRO/App-optex-textconv-1.08.t
 App::optex::textconv::xls          1.08  U/UT/UTASHIRO/App-optex-textconv-1.08.tar.gz
 App::optex::textconv::Zip         undef  U/UT/UTASHIRO/App-optex-textconv-0.09.tar.gz
 App::optex::Tmpfile               undef  U/UT/UTASHIRO/App-optex-1.07.tar.gz
-App::optex::up                     1.15  U/UT/UTASHIRO/App-nup-1.15.tar.gz
+App::optex::up                     1.16  U/UT/UTASHIRO/App-nup-1.16.tar.gz
 App::optex::util                  undef  U/UT/UTASHIRO/App-optex-1.07.tar.gz
 App::optex::util::argv            undef  U/UT/UTASHIRO/App-optex-1.07.tar.gz
 App::optex::util::filter          undef  U/UT/UTASHIRO/App-optex-1.07.tar.gz
@@ -126399,34 +126399,34 @@ Mail::DeliveryStatus::Report      1.543  R/RJ/RJBS/Mail-DeliveryStatus-BouncePar
 Mail::Dir                          0.03  X/XA/XAN/Mail-Dir-0.03.tar.gz
 Mail::Dir::Message                undef  X/XA/XAN/Mail-Dir-0.03.tar.gz
 Mail::DKIM                     1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM2                        0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Address               0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::BodyHasher            0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::BodyPlan              0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Canon                 0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Chain                 0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Chain::_Reader        0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Common                0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Digest                0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::DSN                   0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Fold                  0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Gate                  0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::HeaderParser          0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::HeaderPlan            0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Hop                   0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Key                   0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::MessageInstance       0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::MessageStore          0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::RecipeJSON            0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Reflector             0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Signature             0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Signer                0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Split                 0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::TagValueList          0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Util                  0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Validate              0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Verifier              0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::DKIM2::Wrap                  0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
+Mail::DKIM2                        0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Address               0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::BodyHasher            0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::BodyPlan              0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Canon                 0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Chain                 0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Chain::_Reader        0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Common                0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Digest                0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::DSN                   0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Fold                  0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Gate                  0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::HeaderParser          0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::HeaderPlan            0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Hop                   0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Key                   0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::MessageInstance       0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::MessageStore          0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::RecipeJSON            0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Reflector             0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Signature             0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Signer                0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Split                 0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::TagValueList          0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Util                  0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Validate              0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Verifier              0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::DKIM2::Wrap                  0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
 Mail::DKIM::Algorithm::Base    1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
 Mail::DKIM::Algorithm::dk_rsa_sha1 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
 Mail::DKIM::Algorithm::ed25519_sha256 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
@@ -126773,8 +126773,8 @@ Mail::Milter::Authentication::Handler::BIMI 4.20261112  M/MB/MBRADSHAW/Mail-Milt
 Mail::Milter::Authentication::Handler::Blocker 4.20261112  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261112.tar.gz
 Mail::Milter::Authentication::Handler::ClamAV 2.20180611  M/MB/MBRADSHAW/Mail-Milter-Authentication-Extra-2.20180611.tar.gz
 Mail::Milter::Authentication::Handler::DKIM 4.20261112  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261112.tar.gz
-Mail::Milter::Authentication::Handler::DKIM2Sign 0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
-Mail::Milter::Authentication::Handler::DKIM2Verify 0.32  B/BR/BRONG/Mail-DKIM2-0.32.tar.gz
+Mail::Milter::Authentication::Handler::DKIM2Sign 0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
+Mail::Milter::Authentication::Handler::DKIM2Verify 0.33  B/BR/BRONG/Mail-DKIM2-0.33.tar.gz
 Mail::Milter::Authentication::Handler::DMARC 4.20261112  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261112.tar.gz
 Mail::Milter::Authentication::Handler::IPRev 4.20261112  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261112.tar.gz
 Mail::Milter::Authentication::Handler::LocalIP 4.20261112  M/MB/MBRADSHAW/Mail-Milter-Authentication-4.20261112.tar.gz
