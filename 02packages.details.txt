@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264045
-Last-Updated: Sun, 15 Nov 2026 21:17:02 GMT
+Last-Updated: Sun, 15 Nov 2026 21:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -219958,10 +219958,10 @@ Spreadsheet::WriteExcelXML::Workbook 0.15  J/JM/JMCNAMARA/Spreadsheet-WriteExcel
 Spreadsheet::WriteExcelXML::Worksheet 0.15  J/JM/JMCNAMARA/Spreadsheet-WriteExcelXML-0.15.tar.gz
 Spreadsheet::WriteExcelXML::XMLwriter 0.15  J/JM/JMCNAMARA/Spreadsheet-WriteExcelXML-0.15.tar.gz
 Spreadsheet::XlateExcel            0.03  X/XA/XAV/Spreadsheet-XlateExcel-0.03.tar.gz
-Spreadsheet::XLSX                  0.20  A/AS/ASB/Spreadsheet-XLSX-0.20.tar.gz
+Spreadsheet::XLSX                  0.21  A/AS/ASB/Spreadsheet-XLSX-0.21.tar.gz
 Spreadsheet::XLSX::Assist          0.01  C/CA/CARLSHEN/Spreadsheet-ParseExcel-Assist.zip
-Spreadsheet::XLSX::Fmt2007         0.20  A/AS/ASB/Spreadsheet-XLSX-0.20.tar.gz
-Spreadsheet::XLSX::Utility2007     0.20  A/AS/ASB/Spreadsheet-XLSX-0.20.tar.gz
+Spreadsheet::XLSX::Fmt2007         0.21  A/AS/ASB/Spreadsheet-XLSX-0.21.tar.gz
+Spreadsheet::XLSX::Utility2007     0.21  A/AS/ASB/Spreadsheet-XLSX-0.21.tar.gz
 Spreadsheet::XLSX::XLSXConvert     1.12  G/GN/GNG/Spreadsheet-BasicRead-1.12.tar.gz
 Spreadsheet::XML_to_XLS            0.02  U/US/USMANOV/Spreadsheet-XML_to_XLS-0.03.tar.gz
 SpringfieldObject                 undef  S/SA/SAMV/Tangram-2.12.tar.gz
