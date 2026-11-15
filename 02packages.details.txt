@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264045
-Last-Updated: Sun, 15 Nov 2026 22:53:56 GMT
+Last-Updated: Sun, 15 Nov 2026 23:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -235101,7 +235101,7 @@ Time::Keeper::Sun                  0.03  L/LN/LNATION/Time-Keeper-Sky-0.02.tar.g
 Time::Keeper::Sun::Day             0.03  L/LN/LNATION/Time-Keeper-Sky-0.02.tar.gz
 Time::Keeper::Time                 0.13  L/LN/LNATION/Time-Keeper-0.13.tar.gz
 Time::Keeper::YearMonth            0.13  L/LN/LNATION/Time-Keeper-0.13.tar.gz
-Time::Keeper::Zone                 0.06  L/LN/LNATION/Time-Keeper-Zone-0.06.tar.gz
+Time::Keeper::Zone                 0.07  L/LN/LNATION/Time-Keeper-Zone-0.07.tar.gz
 Time::LeapSecond                   0.92  C/CH/CHANSEN/Time-Str-0.92.tar.gz
 Time::Left                        1.000  T/TF/TFBW/Time-Left-1.000.tar.gz
 Time::Limit                       0.003  T/TO/TOBYINK/Time-Limit-0.003.tar.gz
