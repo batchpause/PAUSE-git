@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264035
-Last-Updated: Sun, 15 Nov 2026 14:17:02 GMT
+Last-Updated: Sun, 15 Nov 2026 14:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -119621,7 +119621,7 @@ Lingua::EN::Inflexion::Verbs   20230704.18294  D/DC/DCONWAY/Lingua-EN-Inflexion-
 Lingua::EN::Keywords                2.0  S/SI/SIMON/Lingua-EN-Keywords-2.0.tar.gz
 Lingua::EN::Keywords::Yahoo         0.5  S/SI/SIMONW/Lingua-EN-Keywords-Yahoo-0.5.tar.gz
 Lingua::EN::MatchNames             1.36  B/BR/BRIANL/Lingua-EN-MatchNames-1.36.tar.gz
-Lingua::EN::NameCase               1.21  N/NH/NHORNE/Lingua-EN-NameCase-1.21.tar.gz
+Lingua::EN::NameCase               1.22  N/NH/NHORNE/Lingua-EN-NameCase-1.22.tar.gz
 Lingua::EN::NamedEntity            1.93  R/RU/RUNARB/Lingua-EN-NamedEntity-1.93.tar.gz
 Lingua::EN::Namegame               0.05  Y/YU/YUMPY/Namegame/Lingua-EN-Namegame-0.05.tar.gz
 Lingua::EN::NameLookup             0.01  P/PB/PBARLOW/Lingua-EN-NameLookup-0.01.tar.gz
