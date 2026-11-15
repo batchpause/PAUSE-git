@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264033
-Last-Updated: Sun, 15 Nov 2026 00:17:02 GMT
+Last-Updated: Sun, 15 Nov 2026 01:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -51967,7 +51967,7 @@ Cucumber::TagExpressions::LiteralNode v11.1.0  C/CU/CUKEBOT/Cucumber-TagExpressi
 Cucumber::TagExpressions::Node  v11.1.0  C/CU/CUKEBOT/Cucumber-TagExpressions-11.1.0.tar.gz
 Cucumber::TagExpressions::NotNode v11.1.0  C/CU/CUKEBOT/Cucumber-TagExpressions-11.1.0.tar.gz
 Cucumber::TagExpressions::OrNode v11.1.0  C/CU/CUKEBOT/Cucumber-TagExpressions-11.1.0.tar.gz
-Cucumber::Test::Release::Automation undef  C/CU/CUKEBOT/Cucumber-Test-Release-Automation-v0.0.181.tar.gz
+Cucumber::Test::Release::Automation undef  C/CU/CUKEBOT/Cucumber-Test-Release-Automation-v0.0.182.tar.gz
 CUI                               undef  A/AY/AYMULYAR/SemMed-Interface-0.05.tar.gz
 Curia                               1.0  M/MI/MIKIO/qdbm-perl-1.8.14.tar.gz
 Curl::Impersonate                  0.03  E/EG/EGOR/Curl-Impersonate-0.03.tar.gz
@@ -105631,13 +105631,13 @@ HTTP::AnyUA::Middleware::RequestHeaders 0.904  C/CC/CCM/HTTP-AnyUA-0.904.tar.gz
 HTTP::AnyUA::Middleware::Runtime  0.904  C/CC/CCM/HTTP-AnyUA-0.904.tar.gz
 HTTP::AnyUA::Util                 0.904  C/CC/CCM/HTTP-AnyUA-0.904.tar.gz
 HTTP::API::Client                  1.26  M/MI/MICVU/HTTP-API-Client-1.26.tar.gz
-HTTP::API::Core                    1.08  S/SH/SHINGO/HTTP-API-Core-1.08.tar.gz
-HTTP::API::Core::Auth             undef  S/SH/SHINGO/HTTP-API-Core-1.08.tar.gz
-HTTP::API::Core::Error            undef  S/SH/SHINGO/HTTP-API-Core-1.08.tar.gz
-HTTP::API::Core::Form             undef  S/SH/SHINGO/HTTP-API-Core-1.08.tar.gz
-HTTP::API::Core::Pagination       undef  S/SH/SHINGO/HTTP-API-Core-1.08.tar.gz
-HTTP::API::Core::RateLimit        undef  S/SH/SHINGO/HTTP-API-Core-1.08.tar.gz
-HTTP::API::Core::Response         undef  S/SH/SHINGO/HTTP-API-Core-1.08.tar.gz
+HTTP::API::Core                    1.09  S/SH/SHINGO/HTTP-API-Core-1.09.tar.gz
+HTTP::API::Core::Auth             undef  S/SH/SHINGO/HTTP-API-Core-1.09.tar.gz
+HTTP::API::Core::Error            undef  S/SH/SHINGO/HTTP-API-Core-1.09.tar.gz
+HTTP::API::Core::Form             undef  S/SH/SHINGO/HTTP-API-Core-1.09.tar.gz
+HTTP::API::Core::Pagination       undef  S/SH/SHINGO/HTTP-API-Core-1.09.tar.gz
+HTTP::API::Core::RateLimit        undef  S/SH/SHINGO/HTTP-API-Core-1.09.tar.gz
+HTTP::API::Core::Response         undef  S/SH/SHINGO/HTTP-API-Core-1.09.tar.gz
 HTTP::API::DataTypeMarker          1.26  M/MI/MICVU/HTTP-API-Client-1.26.tar.gz
 HTTP::AppServer                    0.04  K/KI/KITOMER/HTTP-AppServer-0.04.tar.gz
 HTTP::AppServer::Base              0.01  K/KI/KITOMER/HTTP-AppServer-0.04.tar.gz
