@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264047
-Last-Updated: Mon, 16 Nov 2026 02:41:02 GMT
+Last-Updated: Mon, 16 Nov 2026 02:54:14 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -60899,7 +60899,7 @@ DateTime::TimeZone::Local::Android 2.72  D/DR/DROLSKY/DateTime-TimeZone-2.72.tar
 DateTime::TimeZone::Local::hpux   undef  D/DO/DOLMEN/DateTime-TimeZone-HPUX-1.04.tar.gz
 DateTime::TimeZone::Local::Unix    2.72  D/DR/DROLSKY/DateTime-TimeZone-2.72.tar.gz
 DateTime::TimeZone::Local::VMS     2.72  D/DR/DROLSKY/DateTime-TimeZone-2.72.tar.gz
-DateTime::TimeZone::Local::Win32   2.07  D/DA/DAPINK/DateTime-TimeZone-Local-Win32-2.07.tar.gz
+DateTime::TimeZone::Local::Win32   2.08  D/DA/DAPINK/DateTime-TimeZone-Local-Win32-2.08.tar.gz
 DateTime::TimeZone::MET            2.62  D/DR/DROLSKY/DateTime-TimeZone-2.62.tar.gz
 DateTime::TimeZone::MST            2.62  D/DR/DROLSKY/DateTime-TimeZone-2.62.tar.gz
 DateTime::TimeZone::MST7MDT        2.72  D/DR/DROLSKY/DateTime-TimeZone-2.72.tar.gz
