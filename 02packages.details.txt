@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264055
-Last-Updated: Mon, 16 Nov 2026 12:54:26 GMT
+Line-Count:   264075
+Last-Updated: Mon, 16 Nov 2026 15:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -233754,6 +233754,26 @@ Text::UnicodeBox::Control             0  E/EW/EWATERS/Text-UnicodeBox-0.03.tar.g
 Text::UnicodeBox::Table               0  E/EW/EWATERS/Text-UnicodeBox-0.03.tar.gz
 Text::UnicodeBox::Text                0  E/EW/EWATERS/Text-UnicodeBox-0.03.tar.gz
 Text::UnicodeBox::Utility             0  E/EW/EWATERS/Text-UnicodeBox-0.03.tar.gz
+Text::UnicodeStyle                 0.01  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::Bold          undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::BoldFraktur   undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::BoldItalic    undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::BoldScript    undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::Circled       undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::Doublestruck  undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::Fraktur       undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::Fullwidth     undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::Italic        undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::Monospace     undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::NegativeCircled undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::NegativeSquared undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::Parenthesized undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::SansSerif     undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::SansSerifBold undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::SansSerifBoldItalic undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::SansSerifItalic undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::Script        undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
+Text::UnicodeStyle::Squared       undef  S/SH/SHOORICK/Text-UnicodeStyle-0.01.tar.gz
 Text::UnicodeTable::Simple         0.10  S/SY/SYOHEX/Text-UnicodeTable-Simple-0.10.tar.gz
 Text::Unidecode                    1.30  S/SB/SBURKE/Text-Unidecode-1.30.tar.gz
 Text::Unmunch                       0.2  E/EL/ELIONORA/Text-Unmunch-0.2.tar.gz

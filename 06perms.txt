@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671646
+Line-Count:  671666
 Written-By:  PAUSE version 1.005
-Date:        Mon, 16 Nov 2026 12:41:56 GMT
+Date:        Mon, 16 Nov 2026 15:18:20 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -615842,6 +615842,26 @@ Text::UnicodeBox::Control,EWATERS,f
 Text::UnicodeBox::Table,EWATERS,f
 Text::UnicodeBox::Text,EWATERS,f
 Text::UnicodeBox::Utility,EWATERS,f
+Text::UnicodeStyle,SHOORICK,f
+Text::UnicodeStyle::Bold,SHOORICK,f
+Text::UnicodeStyle::BoldFraktur,SHOORICK,f
+Text::UnicodeStyle::BoldItalic,SHOORICK,f
+Text::UnicodeStyle::BoldScript,SHOORICK,f
+Text::UnicodeStyle::Circled,SHOORICK,f
+Text::UnicodeStyle::Doublestruck,SHOORICK,f
+Text::UnicodeStyle::Fraktur,SHOORICK,f
+Text::UnicodeStyle::Fullwidth,SHOORICK,f
+Text::UnicodeStyle::Italic,SHOORICK,f
+Text::UnicodeStyle::Monospace,SHOORICK,f
+Text::UnicodeStyle::NegativeCircled,SHOORICK,f
+Text::UnicodeStyle::NegativeSquared,SHOORICK,f
+Text::UnicodeStyle::Parenthesized,SHOORICK,f
+Text::UnicodeStyle::SansSerif,SHOORICK,f
+Text::UnicodeStyle::SansSerifBold,SHOORICK,f
+Text::UnicodeStyle::SansSerifBoldItalic,SHOORICK,f
+Text::UnicodeStyle::SansSerifItalic,SHOORICK,f
+Text::UnicodeStyle::Script,SHOORICK,f
+Text::UnicodeStyle::Squared,SHOORICK,f
 Text::UnicodeTable::Simple,SYOHEX,f
 Text::Unidecode,SBURKE,f
 Text::Unmunch,ELIONORA,f
