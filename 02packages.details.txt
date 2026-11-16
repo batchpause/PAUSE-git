@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264053
-Last-Updated: Mon, 16 Nov 2026 07:29:02 GMT
+Last-Updated: Mon, 16 Nov 2026 07:54:09 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -86744,7 +86744,7 @@ Getopt::EX                         3.05  U/UT/UTASHIRO/Getopt-EX-3.05.tar.gz
 Getopt::EX::Colormap               3.05  U/UT/UTASHIRO/Getopt-EX-3.05.tar.gz
 Getopt::EX::Config               1.0202  U/UT/UTASHIRO/Getopt-EX-Config-1.0202.tar.gz
 Getopt::EX::debug                  1.01  U/UT/UTASHIRO/Getopt-EX-debug-1.01.tar.gz
-Getopt::EX::Factotum              undef  U/UT/UTASHIRO/IO-Factotum-0.01.tar.gz
+Getopt::EX::Factotum              undef  U/UT/UTASHIRO/IO-Factotum-0.02.tar.gz
 Getopt::EX::Func                   3.05  U/UT/UTASHIRO/Getopt-EX-3.05.tar.gz
 Getopt::EX::Hashed               1.0702  U/UT/UTASHIRO/Getopt-EX-Hashed-1.0702.tar.gz
 Getopt::EX::i18n                   1.02  U/UT/UTASHIRO/Getopt-EX-i18n-1.02.tar.gz
@@ -108782,9 +108782,9 @@ IO::Events::stdout                  0.6  K/KA/KARASIK/IO-Events-0.6.tar.gz
 IO::Events::Timer                   0.6  K/KA/KARASIK/IO-Events-0.6.tar.gz
 IO::ExplicitHandle                0.002  Z/ZE/ZEFRAM/IO-ExplicitHandle-0.002.tar.gz
 IO::Extended                        1.0  M/MU/MUENALAN/IO-Extended-0.16.tar.gz
-IO::Factotum                       0.01  U/UT/UTASHIRO/IO-Factotum-0.01.tar.gz
-IO::Factotum::ARGV                undef  U/UT/UTASHIRO/IO-Factotum-0.01.tar.gz
-IO::Factotum::skylighting         undef  U/UT/UTASHIRO/IO-Factotum-0.01.tar.gz
+IO::Factotum                       0.02  U/UT/UTASHIRO/IO-Factotum-0.02.tar.gz
+IO::Factotum::ARGV                undef  U/UT/UTASHIRO/IO-Factotum-0.02.tar.gz
+IO::Factotum::skylighting         undef  U/UT/UTASHIRO/IO-Factotum-0.02.tar.gz
 IO::FD                         0.003011  D/DR/DRCLAW/IO-FD-v0.3.11.tar.gz
 IO::FD::Constants                 undef  D/DR/DRCLAW/IO-FD-v0.3.11.tar.gz
 IO::FD::DWIM                      undef  D/DR/DRCLAW/IO-FD-v0.3.11.tar.gz
