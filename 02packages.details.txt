@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264077
-Last-Updated: Mon, 16 Nov 2026 16:54:17 GMT
+Last-Updated: Mon, 16 Nov 2026 18:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -120886,7 +120886,7 @@ Linux::DVB::DVBT::Freq             1.01  S/SD/SDPRICE/Linux-DVB-DVBT-2.20.tar.gz
 Linux::DVB::DVBT::TS               0.08  S/SD/SDPRICE/Linux-DVB-DVBT-TS-0.08.tar.gz
 Linux::DVB::DVBT::Utils            2.07  S/SD/SDPRICE/Linux-DVB-DVBT-2.20.tar.gz
 Linux::DVB::Frontend               1.03  M/ML/MLEHMANN/Linux-DVB-1.03.tar.gz
-Linux::Epoll                      0.019  L/LE/LEONT/Linux-Epoll-0.019.tar.gz
+Linux::Epoll                      0.020  L/LE/LEONT/Linux-Epoll-0.020.tar.gz
 Linux::Ethtool                     0.11  D/DJ/DJCOLLINS/Linux-Ethtool-0.11.tar.gz
 Linux::Ethtool::Settings           0.11  D/DJ/DJCOLLINS/Linux-Ethtool-0.11.tar.gz
 Linux::Ethtool::WOL                0.11  D/DJ/DJCOLLINS/Linux-Ethtool-0.11.tar.gz
