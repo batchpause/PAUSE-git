@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264047
-Last-Updated: Mon, 16 Nov 2026 04:29:02 GMT
+Last-Updated: Mon, 16 Nov 2026 04:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -47112,8 +47112,8 @@ Command::DynamicSubCommands       undef  B/BR/BRUMMETT/UR-0.47.tar.gz
 Command::Interactive                1.4  B/BI/BINARY/Command-Interactive-1.4.tar.gz
 Command::Interactive::Interaction  1.21  B/BI/BINARY/Command-Interactive-1.21.tar.gz
 Command::resize                   undef  S/SK/SKLUKIN/Mojolicious-Plugin-Gallery-0.10.tar.gz
-Command::Run                       1.05  U/UT/UTASHIRO/Command-Run-1.05.tar.gz
-Command::Run::Tmpfile             undef  U/UT/UTASHIRO/Command-Run-1.05.tar.gz
+Command::Run                       1.06  U/UT/UTASHIRO/Command-Run-1.06.tar.gz
+Command::Run::Tmpfile             undef  U/UT/UTASHIRO/Command-Run-1.06.tar.gz
 Command::Runner                  v1.0.0  S/SK/SKAJI/Command-Runner-v1.0.0.tar.gz
 Command::Runner::LineBuffer       undef  S/SK/SKAJI/Command-Runner-v1.0.0.tar.gz
 Command::Runner::Quote            undef  S/SK/SKAJI/Command-Runner-v1.0.0.tar.gz
@@ -232202,9 +232202,9 @@ Text::Annotated::Line              0.04  W/WI/WIMV/Text-Annotated-Line-0.04.tar.
 Text::Annotated::Reader            0.04  W/WI/WIMV/Text-Annotated-Line-0.04.tar.gz
 Text::Annotated::Writer            0.04  W/WI/WIMV/Text-Annotated-Line-0.04.tar.gz
 Text::ANSI::BaseUtil              0.234  P/PE/PERLANCAR/Text-ANSI-Util-0.234.tar.gz
-Text::ANSI::Fold                 2.3901  U/UT/UTASHIRO/Text-ANSI-Fold-2.3901.tar.gz
-Text::ANSI::Fold::Japanese::W3C   undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.3901.tar.gz
-Text::ANSI::Fold::Japanese::Wikipedia undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.3901.tar.gz
+Text::ANSI::Fold                 2.3902  U/UT/UTASHIRO/Text-ANSI-Fold-2.3902.tar.gz
+Text::ANSI::Fold::Japanese::W3C   undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.3902.tar.gz
+Text::ANSI::Fold::Japanese::Wikipedia undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.3902.tar.gz
 Text::ANSI::Fold::Util             1.06  U/UT/UTASHIRO/Text-ANSI-Fold-Util-1.06.tar.gz
 Text::ANSI::Printf                 2.07  U/UT/UTASHIRO/Text-ANSI-Printf-2.07.tar.gz
 Text::ANSI::Tabs                   1.06  U/UT/UTASHIRO/Text-ANSI-Tabs-1.06.tar.gz
