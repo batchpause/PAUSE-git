@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264047
-Last-Updated: Mon, 16 Nov 2026 04:41:02 GMT
+Last-Updated: Mon, 16 Nov 2026 04:54:09 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -149533,7 +149533,7 @@ Net::PT                            0.01  P/PF/PFTYLR/Net-PT-0.01.tar.gz
 Net::PT2                       1.000002  P/PF/PFTYLR/Net-PT2-Test-1.0.2.tar.gz
 Net::PT2::Test                 1.000002  P/PF/PFTYLR/Net-PT2-Test-1.0.2.tar.gz
 Net::PT::Test                      0.01  P/PF/PFTYLR/Net-PT-Test-0.01.tar.gz
-Net::PublicSuffixList             0.503  B/BR/BRIANDFOY/Net-PublicSuffixList-0.503.tar.gz
+Net::PublicSuffixList             0.504  B/BR/BRIANDFOY/Net-PublicSuffixList-0.504.tar.gz
 Net::PubSubHubbub::Publisher       0.91  B/BR/BRADFITZ/Net-PubSubHubbub-Publisher-0.91.tar.gz
 Net::PulseMeter                    0.07  M/MO/MOTONAROL/Net-PulseMeter-0.07.tar.gz
 Net::PulseMeter::Sensor::Base     undef  M/MO/MOTONAROL/Net-PulseMeter-0.07.tar.gz
