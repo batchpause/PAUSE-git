@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671666
+Line-Count:  671668
 Written-By:  PAUSE version 1.005
-Date:        Mon, 16 Nov 2026 15:18:20 GMT
+Date:        Mon, 16 Nov 2026 16:17:11 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -23769,6 +23769,7 @@ App::Test::Generator::Mutant,NHORNE,f
 App::Test::Generator::Mutation::Base,NHORNE,f
 App::Test::Generator::Mutation::BooleanNegation,NHORNE,f
 App::Test::Generator::Mutation::ConditionalInversion,NHORNE,f
+App::Test::Generator::Mutation::Feedback,NHORNE,f
 App::Test::Generator::Mutation::NumericBoundary,NHORNE,f
 App::Test::Generator::Mutation::ReturnUndef,NHORNE,f
 App::Test::Generator::Mutator,NHORNE,f
@@ -23779,6 +23780,7 @@ App::Test::Generator::Planner::Grouping,NHORNE,f
 App::Test::Generator::Planner::Isolation,NHORNE,f
 App::Test::Generator::Planner::Mock,NHORNE,f
 App::Test::Generator::PodExampleExtractor,NHORNE,f
+App::Test::Generator::Provenance,NHORNE,f
 App::Test::Generator::Report::HTML,NHORNE,f
 App::Test::Generator::Sample::Module,NHORNE,f
 App::Test::Generator::SchemaExtractor,NHORNE,f
