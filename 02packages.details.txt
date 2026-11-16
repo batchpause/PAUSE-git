@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264047
-Last-Updated: Mon, 16 Nov 2026 02:54:14 GMT
+Last-Updated: Mon, 16 Nov 2026 03:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -126188,41 +126188,41 @@ Mail::AuthenticationResults::Token::Separator 2.20261029  M/MB/MBRADSHAW/Mail-Au
 Mail::AuthenticationResults::Token::Space 2.20261029  M/MB/MBRADSHAW/Mail-AuthenticationResults-2.20261029.tar.gz
 Mail::AuthenticationResults::Token::String 2.20261029  M/MB/MBRADSHAW/Mail-AuthenticationResults-2.20261029.tar.gz
 Mail::Barracuda::API               0.01  J/JA/JAUER/Mail-Barracuda-API-0.01.tar.gz
-Mail::BIMI                     3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::App                3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::App::Command::checkdomain 3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::App::Command::checkrecord 3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::App::Command::checksvg 3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::App::Command::checkvmc 3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::App::Command::svgfromvmc 3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Base               3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::CacheBackend::FastMmap 3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::CacheBackend::File 3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::CacheBackend::Null 3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Constants          3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Error              3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Indicator          3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Options            3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
+Mail::BIMI                     3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::App                3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::App::Command::checkdomain 3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::App::Command::checkrecord 3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::App::Command::checksvg 3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::App::Command::checkvmc 3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::App::Command::svgfromvmc 3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Base               3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::CacheBackend::FastMmap 3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::CacheBackend::File 3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::CacheBackend::Null 3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Constants          3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Error              3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Indicator          3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Options            3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
 Mail::BIMI::Pragmas            1.20200226  M/MB/MBRADSHAW/Mail-BIMI-1.20200226.tar.gz
-Mail::BIMI::Prelude            3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Record             3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Record::Authority  3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Record::Location   3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Result             3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Role::Cacheable    3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Role::CacheBackend 3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
+Mail::BIMI::Prelude            3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Record             3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Record::Authority  3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Record::Location   3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Result             3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Role::Cacheable    3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Role::CacheBackend 3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
 Mail::BIMI::Role::Constants    1.20200226  M/MB/MBRADSHAW/Mail-BIMI-1.20200226.tar.gz
-Mail::BIMI::Role::Data         3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
+Mail::BIMI::Role::Data         3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
 Mail::BIMI::Role::Error        1.20200226  M/MB/MBRADSHAW/Mail-BIMI-1.20200226.tar.gz
-Mail::BIMI::Role::HasError     3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Role::HasHTTPClient 3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
+Mail::BIMI::Role::HasError     3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Role::HasHTTPClient 3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
 Mail::BIMI::Role::Resolver     1.20200226  M/MB/MBRADSHAW/Mail-BIMI-1.20200226.tar.gz
-Mail::BIMI::Trait::Cacheable   3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Trait::CacheKey    3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::Trait::CacheSerial 3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::VMC                3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::VMC::Cert          3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
-Mail::BIMI::VMC::Chain         3.20260824  M/MB/MBRADSHAW/Mail-BIMI-3.20260824.tar.gz
+Mail::BIMI::Trait::Cacheable   3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Trait::CacheKey    3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::Trait::CacheSerial 3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::VMC                3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::VMC::Cert          3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
+Mail::BIMI::VMC::Chain         3.20261116  M/MB/MBRADSHAW/Mail-BIMI-3.20261116.tar.gz
 Mail::Box                          4.02  M/MA/MARKOV/Mail-Box-4.02.tar.gz
 Mail::Box::Collection              4.02  M/MA/MARKOV/Mail-Box-4.02.tar.gz
 Mail::Box::Dbx                    undef  M/MA/MARKOV/Mail-Box-2.120.tar.gz
