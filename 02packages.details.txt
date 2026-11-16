@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264054
-Last-Updated: Mon, 16 Nov 2026 09:17:02 GMT
+Last-Updated: Mon, 16 Nov 2026 10:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -211511,7 +211511,7 @@ Scope::Session::Flyweight::_Base   0.01  H/HD/HDAICHI/Scope-Session-0.02.tar.gz
 Scope::Session::Notes              0.02  H/HD/HDAICHI/Scope-Session-0.02.tar.gz
 Scope::Session::Singleton          0.01  H/HD/HDAICHI/Scope-Session-0.02.tar.gz
 Scope::UndefSafe                   0.04  P/PI/PINE/Scope-UndefSafe-0.04.tar.gz
-Scope::Upper                       0.34  V/VP/VPIT/Scope-Upper-0.34.tar.gz
+Scope::Upper                       0.35  V/VP/VPIT/Scope-Upper-0.35.tar.gz
 Scope::With                        0.01  C/CH/CHOCOLATE/Scope-With-0.01.tar.gz
 Scrabble::Dict                     0.01  A/AC/ACG/Scrabble-Dict-0.01.tar.gz
 Scrapar::Backend::_base           undef  X/XE/XERN/Scrapar-0.0.1.tar.gz
