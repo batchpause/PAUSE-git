@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264077
-Last-Updated: Mon, 16 Nov 2026 22:17:02 GMT
+Last-Updated: Mon, 16 Nov 2026 22:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -126415,7 +126415,7 @@ Mail::DeliveryStatus::BounceParser 1.543  R/RJ/RJBS/Mail-DeliveryStatus-BouncePa
 Mail::DeliveryStatus::Report      1.543  R/RJ/RJBS/Mail-DeliveryStatus-BounceParser-1.543.tar.gz
 Mail::Dir                          0.03  X/XA/XAN/Mail-Dir-0.03.tar.gz
 Mail::Dir::Message                undef  X/XA/XAN/Mail-Dir-0.03.tar.gz
-Mail::DKIM                     1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
+Mail::DKIM                     1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
 Mail::DKIM2                        0.34  B/BR/BRONG/Mail-DKIM2-0.34.tar.gz
 Mail::DKIM2::Address               0.34  B/BR/BRONG/Mail-DKIM2-0.34.tar.gz
 Mail::DKIM2::BodyHasher            0.34  B/BR/BRONG/Mail-DKIM2-0.34.tar.gz
@@ -126444,44 +126444,44 @@ Mail::DKIM2::Util                  0.34  B/BR/BRONG/Mail-DKIM2-0.34.tar.gz
 Mail::DKIM2::Validate              0.34  B/BR/BRONG/Mail-DKIM2-0.34.tar.gz
 Mail::DKIM2::Verifier              0.34  B/BR/BRONG/Mail-DKIM2-0.34.tar.gz
 Mail::DKIM2::Wrap                  0.34  B/BR/BRONG/Mail-DKIM2-0.34.tar.gz
-Mail::DKIM::Algorithm::Base    1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Algorithm::dk_rsa_sha1 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Algorithm::ed25519_sha256 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Algorithm::rsa_sha1 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Algorithm::rsa_sha256 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::ARC::MessageSignature 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::ARC::Seal          1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::ARC::Signer        1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::ARC::Verifier      1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::AuthorDomainPolicy 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Canonicalization::Base 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Canonicalization::dk_nofws 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Canonicalization::dk_simple 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Canonicalization::DkCommon 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Canonicalization::DkimCommon 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Canonicalization::nowsp 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Canonicalization::relaxed 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Canonicalization::seal 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Canonicalization::simple 1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Common             1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::DkimPolicy         1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::DkPolicy           1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::DkSignature        1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::DNS                1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
+Mail::DKIM::Algorithm::Base    1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Algorithm::dk_rsa_sha1 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Algorithm::ed25519_sha256 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Algorithm::rsa_sha1 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Algorithm::rsa_sha256 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::ARC::MessageSignature 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::ARC::Seal          1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::ARC::Signer        1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::ARC::Verifier      1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::AuthorDomainPolicy 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Canonicalization::Base 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Canonicalization::dk_nofws 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Canonicalization::dk_simple 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Canonicalization::DkCommon 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Canonicalization::DkimCommon 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Canonicalization::nowsp 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Canonicalization::relaxed 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Canonicalization::seal 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Canonicalization::simple 1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Common             1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::DkimPolicy         1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::DkPolicy           1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::DkSignature        1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::DNS                1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
 Mail::DKIM::Iterator              1.011  S/SU/SULLR/Mail-DKIM-Iterator-1.011.tar.gz
 Mail::DKIM::Iterator::SignRecord  1.011  S/SU/SULLR/Mail-DKIM-Iterator-1.011.tar.gz
 Mail::DKIM::Iterator::VerifyRecord 1.011  S/SU/SULLR/Mail-DKIM-Iterator-1.011.tar.gz
-Mail::DKIM::Key                1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::KeyValueList       1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::MessageParser      1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Policy             1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::PrivateKey         1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::PublicKey          1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Signature          1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Signer             1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::SignerPolicy       1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::TextWrap           1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
-Mail::DKIM::Verifier           1.20261105  M/MB/MBRADSHAW/Mail-DKIM-1.20261105.tar.gz
+Mail::DKIM::Key                1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::KeyValueList       1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::MessageParser      1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Policy             1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::PrivateKey         1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::PublicKey          1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Signature          1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Signer             1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::SignerPolicy       1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::TextWrap           1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
+Mail::DKIM::Verifier           1.20261116  M/MB/MBRADSHAW/Mail-DKIM-1.20261116.tar.gz
 Mail::DMARC                    2.20261110  M/MS/MSIMERSON/Mail-DMARC-2.20261110.tar.gz
 Mail::DMARC::Base              2.20261110  M/MS/MSIMERSON/Mail-DMARC-2.20261110.tar.gz
 Mail::DMARC::HTTP              2.20261110  M/MS/MSIMERSON/Mail-DMARC-2.20261110.tar.gz
