@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264077
-Last-Updated: Mon, 16 Nov 2026 16:29:02 GMT
+Last-Updated: Mon, 16 Nov 2026 16:54:17 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -17506,11 +17506,11 @@ AptPkg::State                     undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.2
 AptPkg::System                    undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 AptPkg::Version                   undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 Arabic                             1.22  I/IN/INA/Arabic/Arabic-1.22.tar.gz
-Arango::Tango                     0.020  A/AM/AMBS/Arango-Tango-0.020.tar.gz
-Arango::Tango::API                0.020  A/AM/AMBS/Arango-Tango-0.020.tar.gz
-Arango::Tango::Collection         0.020  A/AM/AMBS/Arango-Tango-0.020.tar.gz
-Arango::Tango::Cursor             0.020  A/AM/AMBS/Arango-Tango-0.020.tar.gz
-Arango::Tango::Database           0.020  A/AM/AMBS/Arango-Tango-0.020.tar.gz
+Arango::Tango                     0.021  A/AM/AMBS/Arango-Tango-0.021.tar.gz
+Arango::Tango::API                0.021  A/AM/AMBS/Arango-Tango-0.021.tar.gz
+Arango::Tango::Collection         0.021  A/AM/AMBS/Arango-Tango-0.021.tar.gz
+Arango::Tango::Cursor             0.021  A/AM/AMBS/Arango-Tango-0.021.tar.gz
+Arango::Tango::Database           0.021  A/AM/AMBS/Arango-Tango-0.021.tar.gz
 ArangoDB                           0.08  H/HI/HIDEAKIO/ArangoDB-0.08.tar.gz
 ArangoDB2                          0.11  E/EW/EWARNCKE/ArangoDB2-0.11.tar.gz
 ArangoDB2::Admin                  undef  E/EW/EWARNCKE/ArangoDB2-0.11.tar.gz
@@ -158547,8 +158547,8 @@ Params::Validate::Dependencies::Documenter 2.00  D/DC/DCANTRELL/Params-Validate-
 Params::Validate::Dummy            0.03  I/IV/IVORW/Module-Optional-0.03.tar.gz
 Params::Validate::Micro           0.032  H/HD/HDP/Params-Validate-Micro-0.032.tar.gz
 Params::Validate::PP               1.31  D/DR/DROLSKY/Params-Validate-1.31.tar.gz
-Params::Validate::Strict           0.42  N/NH/NHORNE/Params-Validate-Strict-0.42.tar.gz
-Params::Validate::Strict::BNF      0.42  N/NH/NHORNE/Params-Validate-Strict-0.42.tar.gz
+Params::Validate::Strict           0.43  N/NH/NHORNE/Params-Validate-Strict-0.43.tar.gz
+Params::Validate::Strict::BNF      0.43  N/NH/NHORNE/Params-Validate-Strict-0.43.tar.gz
 Params::Validate::XS               1.31  D/DR/DROLSKY/Params-Validate-1.31.tar.gz
 Params::ValidationCompiler         0.31  D/DR/DROLSKY/Params-ValidationCompiler-0.31.tar.gz
 Params::ValidationCompiler::Compiler 0.31  D/DR/DROLSKY/Params-ValidationCompiler-0.31.tar.gz
