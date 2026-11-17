@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671672
+Line-Count:  671678
 Written-By:  PAUSE version 1.005
-Date:        Tue, 17 Nov 2026 00:42:17 GMT
+Date:        Tue, 17 Nov 2026 02:55:29 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -16113,10 +16113,13 @@ App::Dapper,MDB,f
 App::Dapper::Agents,MDB,f
 App::Dapper::Check,MDB,f
 App::Dapper::Collections,MDB,f
+App::Dapper::Components,MDB,f
 App::Dapper::Date,MDB,f
 App::Dapper::Defaults,MDB,f
 App::Dapper::Deploy,MDB,f
 App::Dapper::Filters,MDB,f
+App::Dapper::Images,MDB,f
+App::Dapper::Import,MDB,f
 App::Dapper::Init,MDB,f
 App::Dapper::MCP,MDB,f
 App::Dapper::Markdown,MDB,f
@@ -105901,6 +105904,7 @@ DBIO::DB2::Introspect::UniqueConstraints,GETTY,f
 DBIO::DB2::SQLMaker,GETTY,f
 DBIO::DB2::Storage,GETTY,f
 DBIO::DB2::Storage::Cursor,GETTY,f
+DBIO::DB2::Storage::DateTimeFormat,GETTY,f
 DBIO::DB2::Test::Conformance,GETTY,f
 DBIO::DB2::Type,GETTY,f
 DBIO::Deploy::Base,GETTY,f
@@ -132430,10 +132434,12 @@ Dist::Zilla::Plugin::CriticTests,JQUELIN,f
 Dist::Zilla::Plugin::CustomLicense,POLETTIX,f
 Dist::Zilla::Plugin::CycloneDX,LEONT,f
 Dist::Zilla::Plugin::DBIO::CodebergMeta,GETTY,f
+Dist::Zilla::Plugin::DBIO::CoverageGate,GETTY,f
 Dist::Zilla::Plugin::DBIO::CoverageTest,GETTY,f
 Dist::Zilla::Plugin::DBIO::GatherSkills,GETTY,f
 Dist::Zilla::Plugin::DBIO::LicenseFile,GETTY,f
 Dist::Zilla::Plugin::DBIO::PodCheckerTest,GETTY,f
+Dist::Zilla::Plugin::DBIO::RequireCoreVersion,GETTY,f
 Dist::Zilla::Plugin::DBIO::SetCopyrightHolder,GETTY,f
 Dist::Zilla::Plugin::DBIO::SetMeta,GETTY,f
 Dist::Zilla::Plugin::DBIO::VersionLockstepTest,GETTY,f
