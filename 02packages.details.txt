@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264144
-Last-Updated: Tue, 17 Nov 2026 10:54:09 GMT
+Last-Updated: Tue, 17 Nov 2026 11:54:08 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -57959,21 +57959,21 @@ Data::SExpression::Cons           undef  N/NE/NELHAGE/Data-SExpression-0.41.tar.
 Data::SExpression::Parser          1.05  N/NE/NELHAGE/Data-SExpression-0.41.tar.gz
 Data::SExpression::Symbol         undef  N/NE/NELHAGE/Data-SExpression-0.41.tar.gz
 Data::SExpression::Xen         0.000002  E/EW/EWINDISCH/Data-SExpression-Xen-0.0.2.tar.gz
-Data::Shared                       0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Adapter              0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Adapter::Indexed     0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Adapter::Keyed       0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Adapter::Map         0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Adapter::Queue       0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Adapter::Set         0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Adapter::Sketch      0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Adapter::Sync        0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Compiled             0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Composite            0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Manifest             0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Node                 0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Registry             0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
-Data::Shared::Storage              0.01  E/EG/EGOR/Data-Shared-0.01.tar.gz
+Data::Shared                       0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Adapter              0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Adapter::Indexed     0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Adapter::Keyed       0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Adapter::Map         0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Adapter::Queue       0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Adapter::Set         0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Adapter::Sketch      0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Adapter::Sync        0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Compiled             0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Composite            0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Manifest             0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Node                 0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Registry             0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
+Data::Shared::Storage              0.02  E/EG/EGOR/Data-Shared-0.02.tar.gz
 Data::Shark                        v2.1  B/BI/BILLWALZ/Data-Shark-v2.1.0.tar.gz
 Data::Shark::DBI                   v2.1  B/BI/BILLWALZ/Data-Shark-v2.1.0.tar.gz
 Data::Shark::DIO                   v2.2  B/BI/BILLWALZ/Data-Shark-v2.1.0.tar.gz
