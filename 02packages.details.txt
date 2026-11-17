@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264144
-Last-Updated: Tue, 17 Nov 2026 10:41:02 GMT
+Last-Updated: Tue, 17 Nov 2026 10:54:09 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -233296,10 +233296,10 @@ Text::Playlist                     0.02  A/AD/ADUSER/Text-Playlist-0.02.tar.gz
 Text::Playlist::M3U                0.02  A/AD/ADUSER/Text-Playlist-0.02.tar.gz
 Text::Playlist::PLS                0.02  A/AD/ADUSER/Text-Playlist-0.02.tar.gz
 Text::Pluralize                     1.1  K/KV/KVAIL/Text-Pluralize-1.1.tar.gz
-Text::PO                       1.000002  J/JD/JDEGUEST/Text-PO-v1.0.2.tar.gz
-Text::PO::Element              0.004002  J/JD/JDEGUEST/Text-PO-v1.0.2.tar.gz
-Text::PO::Gettext              1.000000  J/JD/JDEGUEST/Text-PO-v1.0.2.tar.gz
-Text::PO::MO                   0.004000  J/JD/JDEGUEST/Text-PO-v1.0.2.tar.gz
+Text::PO                       1.000003  J/JD/JDEGUEST/Text-PO-v1.0.3.tar.gz
+Text::PO::Element              0.004002  J/JD/JDEGUEST/Text-PO-v1.0.3.tar.gz
+Text::PO::Gettext              1.000001  J/JD/JDEGUEST/Text-PO-v1.0.3.tar.gz
+Text::PO::MO                   0.004000  J/JD/JDEGUEST/Text-PO-v1.0.3.tar.gz
 Text::PO::Parser               0.000001  C/CY/CYPLP/Text-PO-Parser-0.0.1.tar.bz2
 Text::PORE                         1.02  Z/ZT/ZTANG/Text-PORE-1.02.tar.gz
 Text::PORE::Globals               undef  Z/ZT/ZTANG/Text-PORE-1.02.tar.gz
