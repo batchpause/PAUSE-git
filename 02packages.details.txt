@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264087
-Last-Updated: Tue, 17 Nov 2026 03:29:02 GMT
+Line-Count:   264144
+Last-Updated: Tue, 17 Nov 2026 03:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -62348,12 +62348,12 @@ DBIO::PK::Auto::Oracle         0.900007  G/GE/GETTY/DBIO-Oracle-0.900007.tar.gz
 DBIO::PopulateMore             0.900007  G/GE/GETTY/DBIO-0.900007.tar.gz
 DBIO::PostgreSQL               0.900007  G/GE/GETTY/DBIO-PostgreSQL-0.900007.tar.gz
 DBIO::PostgreSQL::Adapter      0.900007  G/GE/GETTY/DBIO-PostgreSQL-0.900007.tar.gz
-DBIO::PostgreSQL::Age          0.900004  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900004.tar.gz
-DBIO::PostgreSQL::Age::Deploy  0.900004  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900004.tar.gz
-DBIO::PostgreSQL::Age::Extension 0.900004  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900004.tar.gz
-DBIO::PostgreSQL::Age::Introspect 0.900004  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900004.tar.gz
-DBIO::PostgreSQL::Age::Storage 0.900004  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900004.tar.gz
-DBIO::PostgreSQL::Age::Storage::Async 0.900004  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900004.tar.gz
+DBIO::PostgreSQL::Age          0.900007  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900007.tar.gz
+DBIO::PostgreSQL::Age::Deploy  0.900007  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900007.tar.gz
+DBIO::PostgreSQL::Age::Extension 0.900007  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900007.tar.gz
+DBIO::PostgreSQL::Age::Introspect 0.900007  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900007.tar.gz
+DBIO::PostgreSQL::Age::Storage 0.900007  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900007.tar.gz
+DBIO::PostgreSQL::Age::Storage::Async 0.900007  G/GE/GETTY/DBIO-PostgreSQL-Age-0.900007.tar.gz
 DBIO::PostgreSQL::Async        0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
 DBIO::PostgreSQL::Async::ConnectInfo 0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
 DBIO::PostgreSQL::Async::Pool  0.900004  G/GE/GETTY/DBIO-Deprecated-0.900004.tar.gz
@@ -62408,17 +62408,17 @@ DBIO::PostgreSQL::Introspect::Types 0.900007  G/GE/GETTY/DBIO-PostgreSQL-0.90000
 DBIO::PostgreSQL::JSONB        0.900007  G/GE/GETTY/DBIO-PostgreSQL-0.900007.tar.gz
 DBIO::PostgreSQL::JSONB::Op    0.900007  G/GE/GETTY/DBIO-PostgreSQL-0.900007.tar.gz
 DBIO::PostgreSQL::PgSchema     0.900007  G/GE/GETTY/DBIO-PostgreSQL-0.900007.tar.gz
-DBIO::PostgreSQL::PostGIS      0.900004  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900004.tar.gz
-DBIO::PostgreSQL::PostGIS::Codec::WKB::Decoder 0.900004  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900004.tar.gz
-DBIO::PostgreSQL::PostGIS::Codec::WKT::Builder 0.900004  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900004.tar.gz
-DBIO::PostgreSQL::PostGIS::Codec::WKT::Parser 0.900004  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900004.tar.gz
-DBIO::PostgreSQL::PostGIS::Deploy 0.900004  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900004.tar.gz
-DBIO::PostgreSQL::PostGIS::Extension 0.900004  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900004.tar.gz
-DBIO::PostgreSQL::PostGIS::Geometry 0.900004  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900004.tar.gz
-DBIO::PostgreSQL::PostGIS::Introspect 0.900004  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900004.tar.gz
-DBIO::PostgreSQL::PostGIS::ResultSet 0.900004  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900004.tar.gz
-DBIO::PostgreSQL::PostGIS::Storage 0.900004  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900004.tar.gz
-DBIO::PostgreSQL::PostGIS::Topology::Extension 0.900004  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900004.tar.gz
+DBIO::PostgreSQL::PostGIS      0.900007  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900007.tar.gz
+DBIO::PostgreSQL::PostGIS::Codec::WKB::Decoder 0.900007  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900007.tar.gz
+DBIO::PostgreSQL::PostGIS::Codec::WKT::Builder 0.900007  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900007.tar.gz
+DBIO::PostgreSQL::PostGIS::Codec::WKT::Parser 0.900007  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900007.tar.gz
+DBIO::PostgreSQL::PostGIS::Deploy 0.900007  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900007.tar.gz
+DBIO::PostgreSQL::PostGIS::Extension 0.900007  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900007.tar.gz
+DBIO::PostgreSQL::PostGIS::Geometry 0.900007  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900007.tar.gz
+DBIO::PostgreSQL::PostGIS::Introspect 0.900007  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900007.tar.gz
+DBIO::PostgreSQL::PostGIS::ResultSet 0.900007  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900007.tar.gz
+DBIO::PostgreSQL::PostGIS::Storage 0.900007  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900007.tar.gz
+DBIO::PostgreSQL::PostGIS::Topology::Extension 0.900007  G/GE/GETTY/DBIO-PostgreSQL-PostGIS-0.900007.tar.gz
 DBIO::PostgreSQL::Result       0.900007  G/GE/GETTY/DBIO-PostgreSQL-0.900007.tar.gz
 DBIO::PostgreSQL::ResultSet    0.900007  G/GE/GETTY/DBIO-PostgreSQL-0.900007.tar.gz
 DBIO::PostgreSQL::SQLMaker     0.900007  G/GE/GETTY/DBIO-PostgreSQL-0.900007.tar.gz
@@ -117076,6 +117076,63 @@ Langertha::Engine::vLLM           0.505  G/GE/GETTY/Langertha-0.505.tar.gz
 Langertha::Engine::VLLMHook       0.505  G/GE/GETTY/Langertha-0.505.tar.gz
 Langertha::Engine::Whisper        0.505  G/GE/GETTY/Langertha-0.505.tar.gz
 Langertha::Engine::XAI            0.505  G/GE/GETTY/Langertha-0.505.tar.gz
+Langertha::Holmgang               0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Batch        0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Case         0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::CLI          0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Error        0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Evaluation   0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Excerpt      0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Expectation  0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Grader       0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Haystack     0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Lint         0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Loader       0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Random       0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Report       0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Role::AnswerWorld 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Role::Simulator 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Runner       0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Shell        0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Shell::Filter 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Denken  0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::IOS     0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Kueche  0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux   0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Accounts 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Backup 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Calendar 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Dns 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Docker 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Git 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Helm 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Http 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Kubernetes 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Logrotate 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::MariaDB 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Monitoring 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Nft 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Nginx 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Pki 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Postfix 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Postgres 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Redis 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::RedisService 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::SshAccess 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Sshd 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Linux::Storage 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Roost   0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::RouterOS 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Schichtfehler 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Sehen   0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Sim::Uebersetzung 0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Simulators   0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Structure    0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Suite        0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Target       0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::Template     0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::ToolSchema   0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
+Langertha::Holmgang::World        0.001  G/GE/GETTY/Langertha-Holmgang-0.001.tar.gz
 Langertha::HTTP::BoundedDecode    0.505  G/GE/GETTY/Langertha-0.505.tar.gz
 Langertha::HTTP::ConnectCheck     0.505  G/GE/GETTY/Langertha-0.505.tar.gz
 Langertha::HTTP::Redirect         0.505  G/GE/GETTY/Langertha-0.505.tar.gz

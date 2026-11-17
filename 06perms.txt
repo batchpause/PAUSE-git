@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671678
+Line-Count:  671735
 Written-By:  PAUSE version 1.005
-Date:        Tue, 17 Nov 2026 02:55:29 GMT
+Date:        Tue, 17 Nov 2026 03:41:47 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -345446,6 +345446,63 @@ Langertha::HTTP::BoundedDecode,GETTY,f
 Langertha::HTTP::ConnectCheck,GETTY,f
 Langertha::HTTP::Redirect,GETTY,f
 Langertha::HTTP::UserAgent,GETTY,f
+Langertha::Holmgang,GETTY,f
+Langertha::Holmgang::Batch,GETTY,f
+Langertha::Holmgang::CLI,GETTY,f
+Langertha::Holmgang::Case,GETTY,f
+Langertha::Holmgang::Error,GETTY,f
+Langertha::Holmgang::Evaluation,GETTY,f
+Langertha::Holmgang::Excerpt,GETTY,f
+Langertha::Holmgang::Expectation,GETTY,f
+Langertha::Holmgang::Grader,GETTY,f
+Langertha::Holmgang::Haystack,GETTY,f
+Langertha::Holmgang::Lint,GETTY,f
+Langertha::Holmgang::Loader,GETTY,f
+Langertha::Holmgang::Random,GETTY,f
+Langertha::Holmgang::Report,GETTY,f
+Langertha::Holmgang::Role::AnswerWorld,GETTY,f
+Langertha::Holmgang::Role::Simulator,GETTY,f
+Langertha::Holmgang::Runner,GETTY,f
+Langertha::Holmgang::Shell,GETTY,f
+Langertha::Holmgang::Shell::Filter,GETTY,f
+Langertha::Holmgang::Sim::Denken,GETTY,f
+Langertha::Holmgang::Sim::IOS,GETTY,f
+Langertha::Holmgang::Sim::Kueche,GETTY,f
+Langertha::Holmgang::Sim::Linux,GETTY,f
+Langertha::Holmgang::Sim::Linux::Accounts,GETTY,f
+Langertha::Holmgang::Sim::Linux::Backup,GETTY,f
+Langertha::Holmgang::Sim::Linux::Calendar,GETTY,f
+Langertha::Holmgang::Sim::Linux::Dns,GETTY,f
+Langertha::Holmgang::Sim::Linux::Docker,GETTY,f
+Langertha::Holmgang::Sim::Linux::Git,GETTY,f
+Langertha::Holmgang::Sim::Linux::Helm,GETTY,f
+Langertha::Holmgang::Sim::Linux::Http,GETTY,f
+Langertha::Holmgang::Sim::Linux::Kubernetes,GETTY,f
+Langertha::Holmgang::Sim::Linux::Logrotate,GETTY,f
+Langertha::Holmgang::Sim::Linux::MariaDB,GETTY,f
+Langertha::Holmgang::Sim::Linux::Monitoring,GETTY,f
+Langertha::Holmgang::Sim::Linux::Nft,GETTY,f
+Langertha::Holmgang::Sim::Linux::Nginx,GETTY,f
+Langertha::Holmgang::Sim::Linux::Pki,GETTY,f
+Langertha::Holmgang::Sim::Linux::Postfix,GETTY,f
+Langertha::Holmgang::Sim::Linux::Postgres,GETTY,f
+Langertha::Holmgang::Sim::Linux::Redis,GETTY,f
+Langertha::Holmgang::Sim::Linux::RedisService,GETTY,f
+Langertha::Holmgang::Sim::Linux::SshAccess,GETTY,f
+Langertha::Holmgang::Sim::Linux::Sshd,GETTY,f
+Langertha::Holmgang::Sim::Linux::Storage,GETTY,f
+Langertha::Holmgang::Sim::Roost,GETTY,f
+Langertha::Holmgang::Sim::RouterOS,GETTY,f
+Langertha::Holmgang::Sim::Schichtfehler,GETTY,f
+Langertha::Holmgang::Sim::Sehen,GETTY,f
+Langertha::Holmgang::Sim::Uebersetzung,GETTY,f
+Langertha::Holmgang::Simulators,GETTY,f
+Langertha::Holmgang::Structure,GETTY,f
+Langertha::Holmgang::Suite,GETTY,f
+Langertha::Holmgang::Target,GETTY,f
+Langertha::Holmgang::Template,GETTY,f
+Langertha::Holmgang::ToolSchema,GETTY,f
+Langertha::Holmgang::World,GETTY,f
 Langertha::ImageGen,GETTY,f
 Langertha::Input,GETTY,f
 Langertha::Input::Tools,GETTY,f
