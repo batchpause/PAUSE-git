@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264151
-Last-Updated: Tue, 17 Nov 2026 17:54:06 GMT
+Last-Updated: Tue, 17 Nov 2026 19:53:59 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -127832,7 +127832,7 @@ Map::Tube::Napoli                v0.1.2  G/GW/GWS/Map-Tube-Napoli-v0.1.2.tar.gz
 Map::Tube::NizhnyNovgorod          0.04  S/SK/SKIM/Map-Tube-NizhnyNovgorod-0.04.tar.gz
 Map::Tube::Node                  v5.2.0  M/MA/MANWAR/Map-Tube-v5.2.0.tar.gz
 Map::Tube::Novosibirsk             0.05  S/SK/SKIM/Map-Tube-Novosibirsk-0.05.tar.gz
-Map::Tube::Nuremberg               0.08  S/ST/STELIM/Map-Tube-Nuremberg-0.08.tar.gz
+Map::Tube::Nuremberg               0.09  S/ST/STELIM/Map-Tube-Nuremberg-0.09.tar.gz
 Map::Tube::NYC                     0.71  M/MA/MANWAR/Map-Tube-NYC-0.71.tar.gz
 Map::Tube::NYC::Line::BMTCanarsie  0.71  M/MA/MANWAR/Map-Tube-NYC-0.71.tar.gz
 Map::Tube::NYC::Line::BMTNassauStreet 0.71  M/MA/MANWAR/Map-Tube-NYC-0.71.tar.gz
