@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671745
+Line-Count:  671832
 Written-By:  PAUSE version 1.005
-Date:        Tue, 17 Nov 2026 16:17:24 GMT
+Date:        Tue, 17 Nov 2026 20:29:12 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -614891,6 +614891,93 @@ Text::NumericData::File,THORGIS,f
 Text::NumericData::FileCalc,THORGIS,f
 Text::NumericData::Stat,THORGIS,f
 Text::NumericList,GRUDZIAR,f
+Text::Nunjucks,GETTY,f
+Text::Nunjucks::Compiler,GETTY,f
+Text::Nunjucks::Compiler::Compiler,GETTY,f
+Text::Nunjucks::Context,GETTY,f
+Text::Nunjucks::Context::Gone,GETTY,f
+Text::Nunjucks::EmitterObj,GETTY,f
+Text::Nunjucks::Environment,GETTY,f
+Text::Nunjucks::Filters,GETTY,f
+Text::Nunjucks::Globals,GETTY,f
+Text::Nunjucks::Lexer,GETTY,f
+Text::Nunjucks::Lexer::Token,GETTY,f
+Text::Nunjucks::Lexer::Tokenizer,GETTY,f
+Text::Nunjucks::Lib,GETTY,f
+Text::Nunjucks::Lib::Error,GETTY,f
+Text::Nunjucks::Lib::TemplateError,GETTY,f
+Text::Nunjucks::Loader,GETTY,f
+Text::Nunjucks::Loader::FileSystem,GETTY,f
+Text::Nunjucks::Loader::Precompiled,GETTY,f
+Text::Nunjucks::Nodes,GETTY,f
+Text::Nunjucks::Nodes::Add,GETTY,f
+Text::Nunjucks::Nodes::And,GETTY,f
+Text::Nunjucks::Nodes::Array,GETTY,f
+Text::Nunjucks::Nodes::AsyncAll,GETTY,f
+Text::Nunjucks::Nodes::AsyncEach,GETTY,f
+Text::Nunjucks::Nodes::BinOp,GETTY,f
+Text::Nunjucks::Nodes::Block,GETTY,f
+Text::Nunjucks::Nodes::CallExtension,GETTY,f
+Text::Nunjucks::Nodes::CallExtensionAsync,GETTY,f
+Text::Nunjucks::Nodes::Caller,GETTY,f
+Text::Nunjucks::Nodes::Capture,GETTY,f
+Text::Nunjucks::Nodes::Case,GETTY,f
+Text::Nunjucks::Nodes::Compare,GETTY,f
+Text::Nunjucks::Nodes::CompareOperand,GETTY,f
+Text::Nunjucks::Nodes::Concat,GETTY,f
+Text::Nunjucks::Nodes::Dict,GETTY,f
+Text::Nunjucks::Nodes::Div,GETTY,f
+Text::Nunjucks::Nodes::Extends,GETTY,f
+Text::Nunjucks::Nodes::Filter,GETTY,f
+Text::Nunjucks::Nodes::FilterAsync,GETTY,f
+Text::Nunjucks::Nodes::FloorDiv,GETTY,f
+Text::Nunjucks::Nodes::For,GETTY,f
+Text::Nunjucks::Nodes::FromImport,GETTY,f
+Text::Nunjucks::Nodes::FunCall,GETTY,f
+Text::Nunjucks::Nodes::Group,GETTY,f
+Text::Nunjucks::Nodes::If,GETTY,f
+Text::Nunjucks::Nodes::IfAsync,GETTY,f
+Text::Nunjucks::Nodes::Import,GETTY,f
+Text::Nunjucks::Nodes::In,GETTY,f
+Text::Nunjucks::Nodes::Include,GETTY,f
+Text::Nunjucks::Nodes::InlineIf,GETTY,f
+Text::Nunjucks::Nodes::Is,GETTY,f
+Text::Nunjucks::Nodes::KeywordArgs,GETTY,f
+Text::Nunjucks::Nodes::Literal,GETTY,f
+Text::Nunjucks::Nodes::LookupVal,GETTY,f
+Text::Nunjucks::Nodes::Macro,GETTY,f
+Text::Nunjucks::Nodes::Mod,GETTY,f
+Text::Nunjucks::Nodes::Mul,GETTY,f
+Text::Nunjucks::Nodes::Neg,GETTY,f
+Text::Nunjucks::Nodes::Node,GETTY,f
+Text::Nunjucks::Nodes::NodeList,GETTY,f
+Text::Nunjucks::Nodes::Not,GETTY,f
+Text::Nunjucks::Nodes::Or,GETTY,f
+Text::Nunjucks::Nodes::Output,GETTY,f
+Text::Nunjucks::Nodes::Pair,GETTY,f
+Text::Nunjucks::Nodes::Pos,GETTY,f
+Text::Nunjucks::Nodes::Pow,GETTY,f
+Text::Nunjucks::Nodes::Root,GETTY,f
+Text::Nunjucks::Nodes::Set,GETTY,f
+Text::Nunjucks::Nodes::Sub,GETTY,f
+Text::Nunjucks::Nodes::Super,GETTY,f
+Text::Nunjucks::Nodes::Switch,GETTY,f
+Text::Nunjucks::Nodes::Symbol,GETTY,f
+Text::Nunjucks::Nodes::TemplateData,GETTY,f
+Text::Nunjucks::Nodes::TemplateRef,GETTY,f
+Text::Nunjucks::Nodes::UnaryOp,GETTY,f
+Text::Nunjucks::Nodes::Value,GETTY,f
+Text::Nunjucks::Parser,GETTY,f
+Text::Nunjucks::Parser::Parser,GETTY,f
+Text::Nunjucks::Runtime,GETTY,f
+Text::Nunjucks::Runtime::Frame,GETTY,f
+Text::Nunjucks::Runtime::KwArgs,GETTY,f
+Text::Nunjucks::Runtime::None,GETTY,f
+Text::Nunjucks::Runtime::Regex,GETTY,f
+Text::Nunjucks::Runtime::SafeString,GETTY,f
+Text::Nunjucks::Template,GETTY,f
+Text::Nunjucks::Tests,GETTY,f
+Text::Nunjucks::Transformer,GETTY,f
 Text::Orientation,XERN,f
 Text::Orientation::StringOperation,XERN,f
 Text::Original,SIMONW,f

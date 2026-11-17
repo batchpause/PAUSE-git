@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264151
-Last-Updated: Tue, 17 Nov 2026 19:53:59 GMT
+Line-Count:   264238
+Last-Updated: Tue, 17 Nov 2026 20:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -233178,6 +233178,93 @@ Text::NumericData::File               1  T/TH/THORGIS/Text-NumericData-2.004001.
 Text::NumericData::FileCalc           1  T/TH/THORGIS/Text-NumericData-2.004001.tar.gz
 Text::NumericData::Stat               1  T/TH/THORGIS/Text-NumericData-2.004001.tar.gz
 Text::NumericList                  0.01  G/GR/GRUDZIAR/Text-NumericList-0.01.tar.gz
+Text::Nunjucks                    0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Compiler          0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Compiler::Compiler 0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Context           0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Context::Gone     0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::EmitterObj        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Environment       0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Filters           0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Globals           0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Lexer             0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Lexer::Token      0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Lexer::Tokenizer  0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Lib               0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Lib::Error        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Lib::TemplateError 0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Loader            0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Loader::FileSystem 0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Loader::Precompiled 0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes             0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Add        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::And        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Array      0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::AsyncAll   0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::AsyncEach  0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::BinOp      0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Block      0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Caller     0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::CallExtension 0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::CallExtensionAsync 0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Capture    0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Case       0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Compare    0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::CompareOperand 0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Concat     0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Dict       0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Div        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Extends    0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Filter     0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::FilterAsync 0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::FloorDiv   0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::For        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::FromImport 0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::FunCall    0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Group      0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::If         0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::IfAsync    0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Import     0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::In         0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Include    0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::InlineIf   0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Is         0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::KeywordArgs 0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Literal    0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::LookupVal  0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Macro      0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Mod        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Mul        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Neg        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Node       0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::NodeList   0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Not        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Or         0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Output     0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Pair       0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Pos        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Pow        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Root       0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Set        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Sub        0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Super      0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Switch     0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Symbol     0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::TemplateData 0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::TemplateRef 0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::UnaryOp    0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Nodes::Value      0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Parser            0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Parser::Parser    0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Runtime           0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Runtime::Frame    0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Runtime::KwArgs   0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Runtime::None     0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Runtime::Regex    0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Runtime::SafeString 0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Template          0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Tests             0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
+Text::Nunjucks::Transformer       0.001  G/GE/GETTY/Text-Nunjucks-0.001.tar.gz
 Text::NWrap                        0.11  G/GA/GABOR/Text-Format0.52+NWrap0.11.tar.gz
 Text::Orientation                  0.04  X/XE/XERN/Text-Orientation-0.04.tar.gz
 Text::Orientation::StringOperation undef  X/XE/XERN/Text-Orientation-0.04.tar.gz
