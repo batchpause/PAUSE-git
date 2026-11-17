@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671832
+Line-Count:  671835
 Written-By:  PAUSE version 1.005
-Date:        Tue, 17 Nov 2026 20:29:12 GMT
+Date:        Tue, 17 Nov 2026 21:41:09 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -1321,6 +1321,7 @@ API::Docker::Type::HostConfig::LogConfig,GETTY,f
 API::Docker::Type::IDResponse,GETTY,f
 API::Docker::Type::IPAM,GETTY,f
 API::Docker::Type::IPAMConfig,GETTY,f
+API::Docker::Type::IPAMStatus,GETTY,f
 API::Docker::Type::ImageConfig,GETTY,f
 API::Docker::Type::ImageDeleteResponseItem,GETTY,f
 API::Docker::Type::ImageHistoryResponseItem,GETTY,f
@@ -1350,6 +1351,7 @@ API::Docker::Type::NetworkAttachmentConfig,GETTY,f
 API::Docker::Type::NetworkContainer,GETTY,f
 API::Docker::Type::NetworkCreateResponse,GETTY,f
 API::Docker::Type::NetworkSettings,GETTY,f
+API::Docker::Type::NetworkStatus,GETTY,f
 API::Docker::Type::NetworkingConfig,GETTY,f
 API::Docker::Type::Node,GETTY,f
 API::Docker::Type::NodeDescription,GETTY,f
@@ -1405,6 +1407,7 @@ API::Docker::Type::ServiceSpec::Mode::ReplicatedJob,GETTY,f
 API::Docker::Type::ServiceSpec::RollbackConfig,GETTY,f
 API::Docker::Type::ServiceSpec::UpdateConfig,GETTY,f
 API::Docker::Type::ServiceUpdateResponse,GETTY,f
+API::Docker::Type::SubnetStatus,GETTY,f
 API::Docker::Type::Swarm,GETTY,f
 API::Docker::Type::SwarmInfo,GETTY,f
 API::Docker::Type::SwarmSpec,GETTY,f
