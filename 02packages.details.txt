@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264144
-Last-Updated: Tue, 17 Nov 2026 05:17:02 GMT
+Last-Updated: Tue, 17 Nov 2026 05:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4398,7 +4398,7 @@ Alien::gdal                        1.44  S/SL/SLAFFAN/Alien-gdal-1.44.tar.gz
 Alien::Gearman                      2.6  C/CO/CONTRA/Alien-Gearman-2.6.tar.gz
 Alien::GEOS                        0.01  A/AA/AAR/Alien-GEOS-0.01.tar.gz
 Alien::geos::af                   1.012  S/SL/SLAFFAN/Alien-geos-af-1.012.tar.gz
-Alien::gettext                    0.002  G/GE/GETTY/Alien-gettext-0.002.tar.gz
+Alien::gettext                    0.003  G/GE/GETTY/Alien-gettext-0.003.tar.gz
 Alien::Gfsm                       0.002  M/MO/MOOCOW/Alien-Gfsm-0.002.tar.gz
 Alien::GfsmXL                     0.004  M/MO/MOOCOW/Alien-GfsmXL-0.004.tar.gz
 Alien::ggml                        0.09  L/LN/LNATION/Alien-ggml-0.09.tar.gz
