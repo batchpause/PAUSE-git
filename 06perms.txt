@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671735
+Line-Count:  671738
 Written-By:  PAUSE version 1.005
-Date:        Tue, 17 Nov 2026 03:41:47 GMT
+Date:        Tue, 17 Nov 2026 14:42:09 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -57258,14 +57258,17 @@ Bit::ShiftReg,STBEY,f
 Bit::Twiddling,BRIANG,f
 Bit::Util,SALVA,f
 Bit::Vector,ANDK,c
+Bit::Vector,SHLOMIF,c
 Bit::Vector,STBEY,f
 Bit::Vector::Array,GSLONDON,f
 Bit::Vector::Array::Tie,GSLONDON,f
 Bit::Vector::Minimal,TMTM,f
 Bit::Vector::Named,BILLH,f
 Bit::Vector::Overload,ANDK,c
+Bit::Vector::Overload,SHLOMIF,c
 Bit::Vector::Overload,STBEY,f
 Bit::Vector::String,ANDK,c
+Bit::Vector::String,SHLOMIF,c
 Bit::Vector::String,STBEY,f
 BitArray,GWORROLL,f
 BitArray1,GWORROLL,c
