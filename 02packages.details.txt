@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264241
-Last-Updated: Tue, 17 Nov 2026 21:41:02 GMT
+Last-Updated: Tue, 17 Nov 2026 21:54:04 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -68635,10 +68635,10 @@ Dist::Zilla::Plugin::DistINI      6.040  R/RJ/RJBS/Dist-Zilla-6.040.tar.gz
 Dist::Zilla::Plugin::DistManifestTests 2.000006  E/ET/ETHER/Dist-Zilla-Plugin-Test-DistManifest-2.000006.tar.gz
 Dist::Zilla::Plugin::DOAP         0.003  T/TO/TOBYINK/Dist-Zilla-Plugin-DOAP-0.003.tar.gz
 Dist::Zilla::Plugin::Docker        0.01  M/MS/MSCHOUT/Dist-Zilla-Plugin-Docker-0.01.tar.gz
-Dist::Zilla::Plugin::Docker::API  0.105  G/GE/GETTY/Dist-Zilla-Plugin-Docker-API-0.105.tar.gz
-Dist::Zilla::Plugin::Docker::API::Client 0.105  G/GE/GETTY/Dist-Zilla-Plugin-Docker-API-0.105.tar.gz
-Dist::Zilla::Plugin::Docker::API::Result 0.105  G/GE/GETTY/Dist-Zilla-Plugin-Docker-API-0.105.tar.gz
-Dist::Zilla::Plugin::Docker::API::TagTemplate 0.105  G/GE/GETTY/Dist-Zilla-Plugin-Docker-API-0.105.tar.gz
+Dist::Zilla::Plugin::Docker::API  0.106  G/GE/GETTY/Dist-Zilla-Plugin-Docker-API-0.106.tar.gz
+Dist::Zilla::Plugin::Docker::API::Client 0.106  G/GE/GETTY/Dist-Zilla-Plugin-Docker-API-0.106.tar.gz
+Dist::Zilla::Plugin::Docker::API::Result 0.106  G/GE/GETTY/Dist-Zilla-Plugin-Docker-API-0.106.tar.gz
+Dist::Zilla::Plugin::Docker::API::TagTemplate 0.106  G/GE/GETTY/Dist-Zilla-Plugin-Docker-API-0.106.tar.gz
 Dist::Zilla::Plugin::Docker::DockerClient 0.01  M/MS/MSCHOUT/Dist-Zilla-Plugin-Docker-0.01.tar.gz
 Dist::Zilla::Plugin::Documentation::SQL 0.03  M/MA/MARMAND/Dist-Zilla-Plugin-Documentation-SQL-0.03.tar.gz
 Dist::Zilla::Plugin::Doppelgaenger 0.008  D/DA/DAGOLDEN/Dist-Zilla-Plugin-Doppelgaenger-0.008.tar.gz
