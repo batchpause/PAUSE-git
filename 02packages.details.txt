@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264151
-Last-Updated: Tue, 17 Nov 2026 16:41:02 GMT
+Last-Updated: Tue, 17 Nov 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -247357,21 +247357,21 @@ Web::Solid::Test::HTTPLists       0.021  K/KJ/KJETILK/Web-Solid-Test-0.021.tar.g
 Web::Solid::Util                  undef  H/HO/HOCHSTEN/Web-Solid-Auth-0.4.tar.gz
 Web::Util::DBIC::Paging        0.001004  W/WE/WESM/Web-Util-DBIC-Paging-0.001004.tar.gz
 Web::Util::ExtPaging           0.001003  F/FR/FREW/Web-Util-ExtPaging-0.001003.tar.gz
-Web::VWF                       0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::Allow                0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::Blacklist            0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::CAPTCHA              0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::Config               0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::Data::index          0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::Data::vwf_log        0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::Display              0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::Display::captcha     0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::Display::index       0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::Display::meta_data   0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::Display::table       0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::Mail                 0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::Throttle             0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
-Web::VWF::Utils                0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
+Web::VWF                       0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::Allow                0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::Blacklist            0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::CAPTCHA              0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::Config               0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::Data::index          0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::Data::vwf_log        0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::Display              0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::Display::captcha     0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::Display::index       0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::Display::meta_data   0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::Display::table       0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::Mail                 0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::Throttle             0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
+Web::VWF::Utils                0.003000  N/NH/NHORNE/Web-VWF-0.003.0.tar.gz
 Web::XDO                           0.11  M/MI/MIKO/Web-XDO-0.11.tar.gz
 Webalizer::Hist                    0.03  Y/YO/YORHEL/Webalizer-Hist-0.03.tar.gz
 WebAPI::DBIC                   0.004002  T/TI/TIMB/WebAPI-DBIC-0.004002.tar.gz
