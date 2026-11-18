@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264254
-Last-Updated: Wed, 18 Nov 2026 10:29:02 GMT
+Last-Updated: Wed, 18 Nov 2026 10:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -103356,7 +103356,7 @@ HTML::DBForm::Search::TableList    1.05  K/KR/KRAILEY/HTML-DBForm-1.05.tar.gz
 HTML::DBTable                      0.05  E/EB/EBRUNI/HTML-DBTable-0.05.tar.gz
 HTML::Debug                        0.12  M/MR/MRANDALL/HTML-Debug-0.12.tar.gz
 HTML::Declare                       2.6  B/BI/BINGOS/HTML-Declare-2.6.tar.gz
-HTML::Defang                       1.09  R/RO/ROBM/HTML-Defang-1.09.tar.gz
+HTML::Defang                       1.10  R/RO/ROBM/HTML-Defang-1.10.tar.gz
 HTML::Defaultify                   1.01  J/JS/JSM/HTML-Defaultify-1.01.tar.gz
 HTML::DeferableCSS               v0.4.2  R/RR/RRWO/HTML-DeferableCSS-v0.4.2.tar.gz
 HTML::Detergent                    0.06  D/DO/DORIAN/HTML-Detergent-0.06.tar.gz
