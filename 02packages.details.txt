@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264254
-Last-Updated: Wed, 18 Nov 2026 08:41:02 GMT
+Last-Updated: Wed, 18 Nov 2026 09:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -232301,11 +232301,11 @@ Text::ANSI::Fold                 2.3902  U/UT/UTASHIRO/Text-ANSI-Fold-2.3902.tar
 Text::ANSI::Fold::Japanese::W3C   undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.3902.tar.gz
 Text::ANSI::Fold::Japanese::Wikipedia undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.3902.tar.gz
 Text::ANSI::Fold::Util             1.06  U/UT/UTASHIRO/Text-ANSI-Fold-Util-1.06.tar.gz
-Text::ANSI::Highlight              0.02  U/UT/UTASHIRO/Text-ANSI-Highlight-0.02.tar.gz
-Text::ANSI::Highlight::IO         undef  U/UT/UTASHIRO/Text-ANSI-Highlight-0.02.tar.gz
-Text::ANSI::Highlight::pandoc     undef  U/UT/UTASHIRO/Text-ANSI-Highlight-0.02.tar.gz
-Text::ANSI::Highlight::skylighting undef  U/UT/UTASHIRO/Text-ANSI-Highlight-0.02.tar.gz
-Text::ANSI::Highlight::sourcehighlight undef  U/UT/UTASHIRO/Text-ANSI-Highlight-0.02.tar.gz
+Text::ANSI::Highlight              0.03  U/UT/UTASHIRO/Text-ANSI-Highlight-0.03.tar.gz
+Text::ANSI::Highlight::IO         undef  U/UT/UTASHIRO/Text-ANSI-Highlight-0.03.tar.gz
+Text::ANSI::Highlight::pandoc     undef  U/UT/UTASHIRO/Text-ANSI-Highlight-0.03.tar.gz
+Text::ANSI::Highlight::skylighting undef  U/UT/UTASHIRO/Text-ANSI-Highlight-0.03.tar.gz
+Text::ANSI::Highlight::sourcehighlight undef  U/UT/UTASHIRO/Text-ANSI-Highlight-0.03.tar.gz
 Text::ANSI::Printf                 2.07  U/UT/UTASHIRO/Text-ANSI-Printf-2.07.tar.gz
 Text::ANSI::Tabs                   1.06  U/UT/UTASHIRO/Text-ANSI-Tabs-1.06.tar.gz
 Text::ANSI::Util                  0.234  P/PE/PERLANCAR/Text-ANSI-Util-0.234.tar.gz
