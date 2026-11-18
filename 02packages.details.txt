@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264253
-Last-Updated: Wed, 18 Nov 2026 07:29:01 GMT
+Last-Updated: Wed, 18 Nov 2026 07:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -113940,7 +113940,7 @@ JSON::WebToken::Crypt::RSA            0  X/XA/XAICRON/JSON-WebToken-0.05.tar.gz
 JSON::WebToken::Exception         undef  X/XA/XAICRON/JSON-WebToken-0.10.tar.gz
 JSON::Whitespace                   0.62  B/BK/BKB/JSON-Parse-0.62.tar.gz
 JSON::WithComments                0.003  R/RJ/RJRAY/JSON-WithComments-0.003.tar.gz
-JSON::XS                           4.05  M/ML/MLEHMANN/JSON-XS-4.05.tar.gz
+JSON::XS                           4.06  M/ML/MLEHMANN/JSON-XS-4.06.tar.gz
 JSON::XS::ByteString              1.007  C/CI/CINDY/JSON-XS-ByteString-1.007.tar.gz
 JSON::XS::Sugar                    1.01  M/MA/MAXMIND/JSON-XS-Sugar-1.01.tar.gz
 JSON::XS::VersionOneAndTwo         0.31  L/LB/LBROCARD/JSON-XS-VersionOneAndTwo-0.31.tar.gz
