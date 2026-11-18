@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264253
-Last-Updated: Wed, 18 Nov 2026 04:17:02 GMT
+Last-Updated: Wed, 18 Nov 2026 04:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4636,7 +4636,7 @@ Alien::SNMP::MIBDEV            2.020000  I/IN/INPHOBIA/Alien-SNMP-MIBDEV-2.02000
 Alien::Sodium                     2.000  C/CA/CAPOEIRAB/Alien-Sodium-2.000.tar.gz
 Alien::Sord                        0.01  Z/ZM/ZMUGHAL/Alien-Sord-0.01.tar.gz
 Alien::spatialite                  1.09  S/SL/SLAFFAN/Alien-spatialite-1.09.tar.gz
-Alien::sqlite                      1.07  S/SL/SLAFFAN/Alien-sqlite-1.07.tar.gz
+Alien::sqlite                      1.08  S/SL/SLAFFAN/Alien-sqlite-1.08.tar.gz
 Alien::sqlite_vec                 0.001  G/GE/GETTY/Alien-sqlite_vec-0.001.tar.gz
 Alien::SunVox                      0.03  J/JB/JBARRETT/Alien-SunVox-0.03.tar.gz
 Alien::SVN                     v1.8.11.0  M/MS/MSCHWERN/Alien-SVN-v1.8.11.0.tar.gz
