@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264255
-Last-Updated: Wed, 18 Nov 2026 13:29:02 GMT
+Last-Updated: Wed, 18 Nov 2026 14:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -136176,10 +136176,10 @@ Mojo::Events::Listeners           undef  C/CR/CRLCU/mojo-events-0.0.2.tar.gz
 Mojo::Events::Listeners::Say      undef  C/CR/CRLCU/mojo-events-0.0.2.tar.gz
 Mojo::Exception                   undef  S/SR/SRI/Mojolicious-9.54.tar.gz
 Mojo::Exception::_Guard           undef  S/SR/SRI/Mojolicious-8.19.tar.gz
-Mojo::Feed                         0.21  D/DO/DOTAN/Mojo-Feed-0.21.tar.gz
-Mojo::Feed::Item                  undef  D/DO/DOTAN/Mojo-Feed-0.21.tar.gz
-Mojo::Feed::Item::Enclosure       undef  D/DO/DOTAN/Mojo-Feed-0.21.tar.gz
-Mojo::Feed::Reader                undef  D/DO/DOTAN/Mojo-Feed-0.21.tar.gz
+Mojo::Feed                         0.22  D/DO/DOTAN/Mojo-Feed-0.22.tar.gz
+Mojo::Feed::Item                  undef  D/DO/DOTAN/Mojo-Feed-0.22.tar.gz
+Mojo::Feed::Item::Enclosure       undef  D/DO/DOTAN/Mojo-Feed-0.22.tar.gz
+Mojo::Feed::Reader                undef  D/DO/DOTAN/Mojo-Feed-0.22.tar.gz
 Mojo::File                        undef  S/SR/SRI/Mojolicious-9.54.tar.gz
 Mojo::File::ChangeNotify           0.03  C/CO/CORION/Mojo-File-ChangeNotify-0.03.tar.gz
 Mojo::File::ChangeNotify::WatcherProcess 0.03  C/CO/CORION/Mojo-File-ChangeNotify-0.03.tar.gz
@@ -136986,7 +136986,7 @@ Mojolicious::Plugin::ExportExcel 1.001001  W/WF/WFSO/Mojolicious-Plugin-ExportEx
 Mojolicious::Plugin::ExposeControllerMethod 1.000001  M/MA/MAXMIND/Mojolicious-Plugin-ExposeControllerMethod-1.000001.tar.gz
 Mojolicious::Plugin::ExposeControllerMethod::Proxy 1.000001  M/MA/MAXMIND/Mojolicious-Plugin-ExposeControllerMethod-1.000001.tar.gz
 Mojolicious::Plugin::Facets        0.07  C/CA/CAFEGRATZ/Mojolicious-Plugin-Facets-0.07.tar.gz
-Mojolicious::Plugin::FeedReader    0.21  D/DO/DOTAN/Mojo-Feed-0.21.tar.gz
+Mojolicious::Plugin::FeedReader    0.22  D/DO/DOTAN/Mojo-Feed-0.22.tar.gz
 Mojolicious::Plugin::FillInFormLite 0.02  U/UC/UCHIKO/Mojolicious-Plugin-FillInFormLite-0.02.tar.gz
 Mojolicious::Plugin::Foil         0.006  R/RU/RUBYKAT/Mojolicious-Plugin-Foil-0.006.tar.gz
 Mojolicious::Plugin::Fondation     0.08  D/DA/DAB/Mojolicious-Plugin-Fondation-0.08.tar.gz
