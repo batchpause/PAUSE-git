@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264244
-Last-Updated: Wed, 18 Nov 2026 01:17:02 GMT
+Last-Updated: Wed, 18 Nov 2026 01:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -219317,8 +219317,8 @@ Sparrow::Misc                     undef  M/ME/MELEZHIK/Sparrow-0.3.10.tar.gz
 Sparse                             0.03  A/AM/AMRUTA/Sparse-0.03.tar.gz
 Sparse::Vector                     0.03  A/AM/AMRUTA/Sparse-0.03.tar.gz
 Spawn::Safe                       2.006  J/JE/JEAGLE/Spawn-Safe-2.006.tar.gz
-Speak                              1.07  D/DE/DEFARIA/Speak-1.07.tar.gz
-Speak::Logger                      1.07  D/DE/DEFARIA/Speak-1.07.tar.gz
+Speak                              1.09  D/DE/DEFARIA/Speak-1.09.tar.gz
+Speak::Logger                      1.09  D/DE/DEFARIA/Speak-1.09.tar.gz
 SpecialVars                        0.08  P/PH/PHILCROW/Data-HTMLDumper-0.08.tar.gz
 Specio                             0.53  D/DR/DROLSKY/Specio-0.53.tar.gz
 Specio::Coercion                   0.53  D/DR/DROLSKY/Specio-0.53.tar.gz
