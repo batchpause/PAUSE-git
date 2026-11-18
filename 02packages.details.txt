@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264263
-Last-Updated: Wed, 18 Nov 2026 22:17:02 GMT
+Last-Updated: Wed, 18 Nov 2026 22:54:17 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4636,7 +4636,7 @@ Alien::SNMP::MIBDEV            2.020000  I/IN/INPHOBIA/Alien-SNMP-MIBDEV-2.02000
 Alien::Sodium                     2.000  C/CA/CAPOEIRAB/Alien-Sodium-2.000.tar.gz
 Alien::Sord                        0.01  Z/ZM/ZMUGHAL/Alien-Sord-0.01.tar.gz
 Alien::spatialite                  1.09  S/SL/SLAFFAN/Alien-spatialite-1.09.tar.gz
-Alien::sqlite                      1.08  S/SL/SLAFFAN/Alien-sqlite-1.08.tar.gz
+Alien::sqlite                      1.09  S/SL/SLAFFAN/Alien-sqlite-1.09.tar.gz
 Alien::sqlite_vec                 0.001  G/GE/GETTY/Alien-sqlite_vec-0.001.tar.gz
 Alien::SunVox                      0.03  J/JB/JBARRETT/Alien-SunVox-0.03.tar.gz
 Alien::SVN                     v1.8.11.0  M/MS/MSCHWERN/Alien-SVN-v1.8.11.0.tar.gz
@@ -220456,7 +220456,7 @@ SPVM::IO::Socket::Interface       undef  K/KI/KIMOTO/SPVM-IO-0.17.tar.gz
 SPVM::IO::Socket::IP              undef  K/KI/KIMOTO/SPVM-IO-0.260.tar.gz
 SPVM::IO::Socket::IP::Import::IPv4 undef  K/KI/KIMOTO/SPVM-IO-0.260.tar.gz
 SPVM::IO::Socket::IP::Import::IPv6 undef  K/KI/KIMOTO/SPVM-IO-0.260.tar.gz
-SPVM::IO::Socket::SSL             0.025  K/KI/KIMOTO/SPVM-IO-Socket-SSL-0.025.tar.gz
+SPVM::IO::Socket::SSL             0.026  K/KI/KIMOTO/SPVM-IO-Socket-SSL-0.026.tar.gz
 SPVM::IO::Socket::UNIX            undef  K/KI/KIMOTO/SPVM-IO-0.260.tar.gz
 SPVM::IO::Util                    undef  K/KI/KIMOTO/SPVM-IO-0.17.tar.gz
 SPVM::JIT                         undef  K/KI/KIMOTO/SPVM-0.990209.tar.gz
