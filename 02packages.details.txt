@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264258
-Last-Updated: Wed, 18 Nov 2026 16:17:02 GMT
+Line-Count:   264263
+Last-Updated: Wed, 18 Nov 2026 16:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -103517,7 +103517,7 @@ HTML::Embperl::Session         3.000001  G/GR/GRICHTER/Embperl-3.0.1.tar.gz
 HTML::EmbperlObject            1.003001  G/GR/GRICHTER/HTML-Embperl-1.3.6.tar.gz
 HTML::Encapsulate                v0.3.0  N/NP/NPW/HTML-Encapsulate-v0.3.0.tar.gz
 HTML::Encoding                     0.61  B/BJ/BJOERN/HTML-Encoding-0.61.tar.gz
-HTML::Entities                     3.86  O/OA/OALDERS/HTML-Parser-3.86.tar.gz
+HTML::Entities                     3.87  O/OA/OALDERS/HTML-Parser-3.87.tar.gz
 HTML::Entities::ConvertPictogramMobileJp 0.09  T/TO/TOKUHIROM/HTML-Entities-ConvertPictogramMobileJp-0.09.tar.gz
 HTML::Entities::ConvertPictogramMobileJp::KDDITABLE undef  T/TO/TOKUHIROM/HTML-Entities-ConvertPictogramMobileJp-0.09.tar.gz
 HTML::Entities::ImodePictogram     0.06  M/MI/MIYAGAWA/HTML-Entities-ImodePictogram-0.06.tar.gz
@@ -103581,7 +103581,7 @@ HTML::FillInForm                   2.22  O/OA/OALDERS/HTML-FillInForm-2.22.tar.g
 HTML::FillInForm::ForceUTF8        0.03  K/KA/KAZEBURO/HTML-FillInForm-ForceUTF8-0.03.tar.gz
 HTML::FillInForm::Lite             1.15  G/GF/GFUJI/HTML-FillInForm-Lite-1.15.tar.gz
 HTML::FillInForm::Lite::Compat     1.15  G/GF/GFUJI/HTML-FillInForm-Lite-1.15.tar.gz
-HTML::Filter                       3.86  O/OA/OALDERS/HTML-Parser-3.86.tar.gz
+HTML::Filter                       3.87  O/OA/OALDERS/HTML-Parser-3.87.tar.gz
 HTML::Filter::Callbacks            0.10  X/XA/XAICRON/HTML-Filter-Callbacks-0.10.tar.gz
 HTML::Filter::Callbacks::Tag      undef  X/XA/XAICRON/HTML-Filter-Callbacks-0.10.tar.gz
 HTML::Form                         6.13  O/OA/OALDERS/HTML-Form-6.13.tar.gz
@@ -104119,7 +104119,7 @@ HTML::GUI::text                    0.01  J/JC/JCHASSLER/HTML-GUI-0.04.tar.gz
 HTML::GUI::widget                  0.04  J/JC/JCHASSLER/HTML-GUI-0.04.tar.gz
 HTML::Gumbo                        0.20  B/BP/BPS/HTML-Gumbo-0.20.tar.gz
 HTML::HashTable                     0.6  S/SK/SKUD/HTML-HashTable-0.6.tar.gz
-HTML::HeadParser                   3.86  O/OA/OALDERS/HTML-Parser-3.86.tar.gz
+HTML::HeadParser                   3.87  O/OA/OALDERS/HTML-Parser-3.87.tar.gz
 HTML::HeadParser::Liberal          0.03  D/DM/DMAKI/HTML-HeadParser-Liberal-0.03.tar.gz
 html::hello_world                 undef  T/TB/TBONE/HTML-Seamstress-6.112830.tar.gz
 HTML::Highlight                     0.2  T/TR/TRIPIE/HTML-Highlight-0.20.tar.gz
@@ -104321,7 +104321,7 @@ HTML::LinkAdd                      0.13  L/LG/LGODDARD/HTML-LinkAdd-0.13.tar.gz
 HTML::LinkChanger                   2.4  S/SE/SERGEYCHE/HTML-LinkChanger-2.4.tar.gz
 HTML::LinkChanger::Absolutizer      2.4  S/SE/SERGEYCHE/HTML-LinkChanger-2.4.tar.gz
 HTML::LinkChanger::URLFilter        2.4  S/SE/SERGEYCHE/HTML-LinkChanger-2.4.tar.gz
-HTML::LinkExtor                    3.86  O/OA/OALDERS/HTML-Parser-3.86.tar.gz
+HTML::LinkExtor                    3.87  O/OA/OALDERS/HTML-Parser-3.87.tar.gz
 HTML::LinkExtractor                0.13  P/PO/PODMASTER/HTML-LinkExtractor-0.13.tar.gz
 HTML::LinkFilter                   0.03  K/KU/KUNIYOSHI/HTML-LinkFilter-0.03.tar.gz
 HTML::LinkList                   0.1701  R/RU/RUBYKAT/HTML-LinkList-0.1701.tar.gz
@@ -104706,7 +104706,7 @@ HTML::Paging::SQL                  1.17  W/WA/WAC/HTML-Paging-SQL-1.11.tar.gz
 HTML::ParagraphSplit               1.05  H/HA/HANENKAMP/HTML-ParagraphSplit-1.05.tar.gz
 HTML::Parse                        5.07  K/KE/KENTNL/HTML-Tree-5.07.tar.gz
 HTML::ParseBrowser                 1.15  N/NE/NEILB/HTML-ParseBrowser-1.15.tar.gz
-HTML::Parser                       3.86  O/OA/OALDERS/HTML-Parser-3.86.tar.gz
+HTML::Parser                       3.87  O/OA/OALDERS/HTML-Parser-3.87.tar.gz
 HTML::Parser::Simple               2.02  R/RS/RSAVAGE/HTML-Parser-Simple-2.02.tgz
 HTML::Parser::Simple::Attributes   2.02  R/RS/RSAVAGE/HTML-Parser-Simple-2.02.tgz
 HTML::Parser::Simple::Reporter     2.02  R/RS/RSAVAGE/HTML-Parser-Simple-2.02.tgz
@@ -104752,7 +104752,7 @@ HTML::Prototype::Helper::Tag      undef  E/ES/ESSKAR/HTML-Prototype-1.48.tar.gz
 HTML::Prototype::Js               undef  E/ES/ESSKAR/HTML-Prototype-1.48.tar.gz
 HTML::Prototype::Useful            0.05  M/MR/MRAMBERG/HTML-Prototype-Useful-0.05.tar.gz
 HTML::Prototype::Useful::Js       undef  M/MR/MRAMBERG/HTML-Prototype-Useful-0.05.tar.gz
-HTML::PullParser                   3.86  O/OA/OALDERS/HTML-Parser-3.86.tar.gz
+HTML::PullParser                   3.87  O/OA/OALDERS/HTML-Parser-3.87.tar.gz
 HTML::PullParser::Nested           0.04  C/CJ/CJK/HTML-PullParser-Nested-0.04.tar.gz
 HTML::Purifier                     0.01  N/NH/NHORNE/HTML-Purifier-0.01.tar.gz
 HTML::Puzzle                       0.13  E/EB/EBRUNI/HTML-Puzzle-0.13.tar.gz
@@ -105228,7 +105228,7 @@ HTML::TocGenerator                 1.12  F/FV/FVULTO/HTML-Toc-1.12.tar.gz
 HTML::TocInsertor                  1.12  F/FV/FVULTO/HTML-Toc-1.12.tar.gz
 HTML::TocUpdator                   1.12  F/FV/FVULTO/HTML-Toc-1.12.tar.gz
 HTML::ToDocBook                  0.0301  R/RU/RUBYKAT/html2dbk-0.0301.tar.gz
-HTML::TokeParser                   3.86  O/OA/OALDERS/HTML-Parser-3.86.tar.gz
+HTML::TokeParser                   3.87  O/OA/OALDERS/HTML-Parser-3.87.tar.gz
 HTML::TokeParser::Simple           3.16  O/OV/OVID/HTML-TokeParser-Simple-3.16.tar.gz
 HTML::TokeParser::Simple::Token    3.16  O/OV/OVID/HTML-TokeParser-Simple-3.16.tar.gz
 HTML::TokeParser::Simple::Token::Comment 3.16  O/OV/OVID/HTML-TokeParser-Simple-3.16.tar.gz
@@ -127068,21 +127068,26 @@ Mail::Pyzor::SHA                   0.06  F/FE/FELIPE/Mail-Pyzor-0.06.tar.gz
 Mail::Pyzor::X                     0.06  F/FE/FELIPE/Mail-Pyzor-0.06.tar.gz
 Mail::Pyzor::X::Base               0.06  F/FE/FELIPE/Mail-Pyzor-0.06.tar.gz
 Mail::Pyzor::X::Timeout            0.06  F/FE/FELIPE/Mail-Pyzor-0.06.tar.gz
-Mail::Qmail::Filter                1.31  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::CheckDeliverability 1.02  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::ClamAV         1.0  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::DMARC         1.21  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::Dump          1.01  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::LogEnvelope   1.01  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::Queue          1.0  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::RequireFrom    1.1  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::RewriteFrom    1.0  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::RewriteSender  1.0  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::SkipQueue     1.01  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::SpamAssassin  1.01  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::Util          1.11  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::ValidateFrom  1.21  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
-Mail::Qmail::Filter::ValidateSender 1.0  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
+Mail::Qmail::Filter                1.71  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::Base::CalloutVerify 0.42  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::CheckDeliverability 1.02  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::ClamAV         1.0  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::DMARC         1.33  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::Dump          1.01  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::Graylist      0.12  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::LogEnvelope   1.01  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::Queue          1.0  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::RDNS          2.01  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::RequireFrom    1.1  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::RewriteFrom    1.0  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::RewriteSender  1.0  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::SkipQueue     1.01  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::SpamAssassin  1.01  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::Util           2.0  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::ValidateFrom  1.21  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::ValidateSender 1.01  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::VerifyFrom    0.41  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
+Mail::Qmail::Filter::VerifySender  0.41  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
 Mail::Qmail::Queue::Error          0.02  G/GI/GIFF/Mail-Qmail-Queue-0.02.tar.gz
 Mail::Qmail::Queue::Message        0.02  G/GI/GIFF/Mail-Qmail-Queue-0.02.tar.gz
 Mail::Qmail::Queue::Receive::Body  0.02  G/GI/GIFF/Mail-Qmail-Queue-0.02.tar.gz
@@ -127571,7 +127576,7 @@ Mailru::Cloud                      0.10  V/VR/VRAG/Mailru-Cloud-0.10.tar.gz
 Mailru::Cloud::Auth                0.10  V/VR/VRAG/Mailru-Cloud-0.10.tar.gz
 MailTool                          undef  R/RJ/RJBS/MIME-Lite-3.038.tar.gz
 MailTools                          2.22  M/MA/MARKOV/MailTools-2.22.tar.gz
-MailX::Qmail::Queue::Message        1.0  F/FA/FANY/Mail-Qmail-Filter-1.32.tar.gz
+MailX::Qmail::Queue::Message       1.41  F/FA/FANY/Mail-Qmail-Filter-2.01.tar.gz
 MAIN                                0.1  P/PI/PING/PBJ-JNI-0.1.tar.gz
 maint::inc::PreloadPodWeaver      undef  Z/ZM/ZMUGHAL/RDF-Cowl-1.0.0.tar.gz
 Maintainers                        0.03  D/DA/DAPM/perl-5.10.1.tar.gz

@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671853
+Line-Count:  671858
 Written-By:  PAUSE version 1.005
-Date:        Wed, 18 Nov 2026 16:17:58 GMT
+Date:        Wed, 18 Nov 2026 16:29:17 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -365121,12 +365121,15 @@ Mail::Pyzor::X::Base,FELIPE,c
 Mail::Pyzor::X::Timeout,CPANEL,f
 Mail::Pyzor::X::Timeout,FELIPE,c
 Mail::Qmail::Filter,FANY,f
+Mail::Qmail::Filter::Base::CalloutVerify,FANY,f
 Mail::Qmail::Filter::CheckDeliverability,FANY,f
 Mail::Qmail::Filter::ClamAV,FANY,f
 Mail::Qmail::Filter::DMARC,FANY,f
 Mail::Qmail::Filter::Dump,FANY,f
+Mail::Qmail::Filter::Graylist,FANY,f
 Mail::Qmail::Filter::LogEnvelope,FANY,f
 Mail::Qmail::Filter::Queue,FANY,f
+Mail::Qmail::Filter::RDNS,FANY,f
 Mail::Qmail::Filter::RequireFrom,FANY,f
 Mail::Qmail::Filter::RewriteFrom,FANY,f
 Mail::Qmail::Filter::RewriteSender,FANY,f
@@ -365135,6 +365138,8 @@ Mail::Qmail::Filter::SpamAssassin,FANY,f
 Mail::Qmail::Filter::Util,FANY,f
 Mail::Qmail::Filter::ValidateFrom,FANY,f
 Mail::Qmail::Filter::ValidateSender,FANY,f
+Mail::Qmail::Filter::VerifyFrom,FANY,f
+Mail::Qmail::Filter::VerifySender,FANY,f
 Mail::Qmail::Queue,GIFF,c
 Mail::Qmail::Queue::Error,GIFF,f
 Mail::Qmail::Queue::Message,GIFF,f
