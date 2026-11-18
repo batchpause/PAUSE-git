@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671838
+Line-Count:  671843
 Written-By:  PAUSE version 1.005
-Date:        Wed, 18 Nov 2026 00:30:13 GMT
+Date:        Wed, 18 Nov 2026 03:18:21 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -132233,7 +132233,10 @@ Dist::Zilla::Plugin::Author::CSSON::GithubActions,CSSON,f
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::BaseWorkflow,CSSON,f
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::Role::Workflow,CSSON,f
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::Workflow::TestWithMakefile,CSSON,f
+Dist::Zilla::Plugin::Author::GETTY::Binary,GETTY,f
+Dist::Zilla::Plugin::Author::GETTY::GitHubRelease,GETTY,f
 Dist::Zilla::Plugin::Author::GETTY::GiteaMeta,GETTY,f
+Dist::Zilla::Plugin::Author::GETTY::InstallCheck,GETTY,f
 Dist::Zilla::Plugin::Author::GSG,GSG,f
 Dist::Zilla::Plugin::Author::GSG::HasVersionTests,GSG,f
 Dist::Zilla::Plugin::Author::HAYOBAAN::LinkCheck,HAYOBAAN,f
@@ -133366,6 +133369,7 @@ Dist::Zilla::PluginBundle::Author::FERREIRA,FERREIRA,f
 Dist::Zilla::PluginBundle::Author::GABRIEL,GABRIEL,f
 Dist::Zilla::PluginBundle::Author::GEEKRUTH,GEEKRUTH,f
 Dist::Zilla::PluginBundle::Author::GETTY,GETTY,f
+Dist::Zilla::PluginBundle::Author::GETTY::Binary,GETTY,f
 Dist::Zilla::PluginBundle::Author::GETTY::Docker,GETTY,f
 Dist::Zilla::PluginBundle::Author::GSG,GSG,f
 Dist::Zilla::PluginBundle::Author::GTERMARS,GTERMARS,f
@@ -547395,6 +547399,7 @@ Pod::Weaver::Section::ANSITable::BorderStyles,PERLANCAR,f
 Pod::Weaver::Section::ANSITable::ColorThemes,PERLANCAR,f
 Pod::Weaver::Section::AllowOverride,CJM,f
 Pod::Weaver::Section::Author::GETTY::Legal,GETTY,f
+Pod::Weaver::Section::Author::GETTY::Support,GETTY,f
 Pod::Weaver::Section::Author::HAYOBAAN::Bugs,HAYOBAAN,f
 Pod::Weaver::Section::Authors,RJBS,f
 Pod::Weaver::Section::AutoDoc,ZURBORG,f
