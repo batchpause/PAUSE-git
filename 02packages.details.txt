@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264255
-Last-Updated: Wed, 18 Nov 2026 14:54:07 GMT
+Last-Updated: Wed, 18 Nov 2026 15:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -46655,7 +46655,7 @@ CMS::JoomlaToDrupal                0.05  H/HE/HESCO/CMS-JoomlaToDrupal-0.05.tar.
 CMS::MediaWiki                   0.8014  R/RE/RETOH/CMS/CMS-MediaWiki-0.8014.tar.gz
 cmt::libchm                        0.01  L/LE/LENIK/cmt-libchm-0.01.tar.gz
 CN::Province                       0.02  Z/ZY/ZYY/CN-Province-0.02.tar.gz
-Cn::Util                         0.0242  D/DC/DCON/Cn-Util-0.0242.tar.gz
+Cn::Util                         0.0243  D/DC/DCON/Cn-Util-0.0243.tar.gz
 CNAB                               0.01  C/CO/COSTELA/CNAB-0.01.tar.gz
 CNC::Cog                          0.061  M/MA/MARKWIN/CNC-Cog-0.061.tar.gz
 CNC::Cog::Gcode                   0.061  M/MA/MARKWIN/CNC-Cog-0.061.tar.gz
@@ -130614,7 +130614,7 @@ Maypole::View::Base               undef  T/TE/TEEJAY/Maypole-2.13.tar.gz
 Maypole::View::Mason                0.3  M/MR/MRAMBERG/Maypole-View-Mason-0.3.tar.gz
 Maypole::View::TT                  2.12  T/TE/TEEJAY/Maypole-2.13.tar.gz
 Maypole::Virtual::Application      0.01  D/DA/DAVEBAIRD/Maypole-Virtual-Application-0.01.tar.gz
-mb                                 0.66  I/IN/INA/mb/mb-0.66.tar.gz
+mb                                 0.67  I/IN/INA/mb/mb-0.67.tar.gz
 mb::Encode                         0.04  I/IN/INA/mb/Encode/mb-Encode-0.04.tar.gz
 mb::JSON                           0.07  I/IN/INA/mb/JSON/mb-JSON-0.07.tar.gz
 mb::JSON::Boolean                  0.07  I/IN/INA/mb/JSON/mb-JSON-0.07.tar.gz
@@ -235758,7 +235758,7 @@ Tk::EntryCheck                     0.04  S/ST/STRAT/Tk-EntryCheck-0.04.tar.gz
 Tk::EntrySet                       0.11  L/LA/LAMPRECHT/Tk-EntrySet-0.11.tar.gz
 Tk::ErrorDialog                   4.008  S/SR/SREZIC/Tk-804.036.tar.gz
 Tk::ErrorDump                      0.02  D/DA/DARNOLD/Tk-ErrorDump-0.02.tar.gz
-Tk::eText                          2.09  I/IL/ILYAZ/modules/etext-2.09.zip
+Tk::eText                          2.10  I/IL/ILYAZ/etext/etext-2.10.zip
 Tk::Event                         4.040  S/SR/SREZIC/Tk-804.036.tar.gz
 Tk::Event::IO                     4.009  S/SR/SREZIC/Tk-804.036.tar.gz
 Tk::ExecuteCommand                  1.6  L/LU/LUSOL/Tk-ExecuteCommand-1.6.tar.gz
