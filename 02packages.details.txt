@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264254
-Last-Updated: Wed, 18 Nov 2026 12:29:01 GMT
+Last-Updated: Wed, 18 Nov 2026 13:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -46281,10 +46281,10 @@ CLI::Table::Util                   0.06  T/TU/TULAMILI/CLI-Table-Util-0.06.tar.g
 CLI::TextLines::Utils              0.11  T/TU/TULAMILI/CLI-TextLines-Utils-0.11.tar.gz
 CLI::Var                          undef  C/CP/CPHIL/CLI-0.24.tar.gz
 ClickHouse                         0.05  E/EL/ELCAMLOST/ClickHouse-0.05.tar.gz
-ClickHouse::Encoder                0.03  E/EG/EGOR/ClickHouse-Encoder-0.03.tar.gz
-ClickHouse::Encoder::BulkInserter  0.03  E/EG/EGOR/ClickHouse-Encoder-0.03.tar.gz
-ClickHouse::Encoder::Streamer      0.03  E/EG/EGOR/ClickHouse-Encoder-0.03.tar.gz
-ClickHouse::Encoder::TCP           0.03  E/EG/EGOR/ClickHouse-Encoder-0.03.tar.gz
+ClickHouse::Encoder                0.04  E/EG/EGOR/ClickHouse-Encoder-0.04.tar.gz
+ClickHouse::Encoder::BulkInserter  0.04  E/EG/EGOR/ClickHouse-Encoder-0.04.tar.gz
+ClickHouse::Encoder::Streamer      0.04  E/EG/EGOR/ClickHouse-Encoder-0.04.tar.gz
+ClickHouse::Encoder::TCP           0.04  E/EG/EGOR/ClickHouse-Encoder-0.04.tar.gz
 Client                            undef  E/EE/EESTABROO/Crypt-HCE_SHA-0.75.tar.gz
 Clio                               0.02  A/AJ/AJGB/Clio-0.02.tar.gz
 Clio::Client                       0.02  A/AJ/AJGB/Clio-0.02.tar.gz
@@ -64526,15 +64526,15 @@ DBIx::Schema::DSL::Context        undef  S/SO/SONGMU/DBIx-Schema-DSL-1.0000.tar.
 DBIx::Schema::DSL::Dumper          0.07  K/KF/KFLY/DBIx-Schema-DSL-Dumper-0.07.tar.gz
 DBIx::Schema::Migration            1.01  A/AL/ALEXPAN/DBIx-Schema-Migration-1.01.tar.gz
 DBIx::Schema::UpToDate            1.001  R/RW/RWSTAUNER/DBIx-Schema-UpToDate-1.001.tar.gz
-DBIx::SchemaChecksum              1.105  D/DO/DOMM/DBIx-SchemaChecksum-1.105.tar.gz
-DBIx::SchemaChecksum::App         1.105  D/DO/DOMM/DBIx-SchemaChecksum-1.105.tar.gz
-DBIx::SchemaChecksum::App::ApplyChanges 1.105  D/DO/DOMM/DBIx-SchemaChecksum-1.105.tar.gz
-DBIx::SchemaChecksum::App::Checksum 1.105  D/DO/DOMM/DBIx-SchemaChecksum-1.105.tar.gz
-DBIx::SchemaChecksum::App::NewChangesFile 1.105  D/DO/DOMM/DBIx-SchemaChecksum-1.105.tar.gz
-DBIx::SchemaChecksum::App::ShowUpdatePath 1.105  D/DO/DOMM/DBIx-SchemaChecksum-1.105.tar.gz
+DBIx::SchemaChecksum              1.106  D/DO/DOMM/DBIx-SchemaChecksum-1.106.tar.gz
+DBIx::SchemaChecksum::App         1.106  D/DO/DOMM/DBIx-SchemaChecksum-1.106.tar.gz
+DBIx::SchemaChecksum::App::ApplyChanges 1.106  D/DO/DOMM/DBIx-SchemaChecksum-1.106.tar.gz
+DBIx::SchemaChecksum::App::Checksum 1.106  D/DO/DOMM/DBIx-SchemaChecksum-1.106.tar.gz
+DBIx::SchemaChecksum::App::NewChangesFile 1.106  D/DO/DOMM/DBIx-SchemaChecksum-1.106.tar.gz
+DBIx::SchemaChecksum::App::ShowUpdatePath 1.106  D/DO/DOMM/DBIx-SchemaChecksum-1.106.tar.gz
 DBIx::SchemaChecksum::Driver::mysql undef  D/DO/DOMM/DBIx-SchemaChecksum-1.102.tar.gz
-DBIx::SchemaChecksum::Driver::Pg  1.105  D/DO/DOMM/DBIx-SchemaChecksum-1.105.tar.gz
-DBIx::SchemaChecksum::Driver::SQLite 1.105  D/DO/DOMM/DBIx-SchemaChecksum-1.105.tar.gz
+DBIx::SchemaChecksum::Driver::Pg  1.106  D/DO/DOMM/DBIx-SchemaChecksum-1.106.tar.gz
+DBIx::SchemaChecksum::Driver::SQLite 1.106  D/DO/DOMM/DBIx-SchemaChecksum-1.106.tar.gz
 DBIx::ScopedTransaction          v1.2.0  A/AU/AUBERTG/DBIx-ScopedTransaction-v1.2.0.tar.gz
 DBIx::SearchBuilder                1.86  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
 DBIx::SearchBuilder::Handle       undef  B/BP/BPS/DBIx-SearchBuilder-1.86.tar.gz
@@ -75149,12 +75149,12 @@ EV::Async                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.2
 EV::cares                          0.05  E/EG/EGOR/EV-cares-0.05.tar.gz
 EV::Check                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Child                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
-EV::ClickHouse                     0.07  E/EG/EGOR/EV-ClickHouse-0.07.tar.gz
-EV::ClickHouse::_DurGuard          0.07  E/EG/EGOR/EV-ClickHouse-0.07.tar.gz
-EV::ClickHouse::Error              0.07  E/EG/EGOR/EV-ClickHouse-0.07.tar.gz
-EV::ClickHouse::Iterator           0.07  E/EG/EGOR/EV-ClickHouse-0.07.tar.gz
-EV::ClickHouse::Pool               0.07  E/EG/EGOR/EV-ClickHouse-0.07.tar.gz
-EV::ClickHouse::Streamer           0.07  E/EG/EGOR/EV-ClickHouse-0.07.tar.gz
+EV::ClickHouse                     0.08  E/EG/EGOR/EV-ClickHouse-0.08.tar.gz
+EV::ClickHouse::_DurGuard          0.08  E/EG/EGOR/EV-ClickHouse-0.08.tar.gz
+EV::ClickHouse::Error              0.08  E/EG/EGOR/EV-ClickHouse-0.08.tar.gz
+EV::ClickHouse::Iterator           0.08  E/EG/EGOR/EV-ClickHouse-0.08.tar.gz
+EV::ClickHouse::Pool               0.08  E/EG/EGOR/EV-ClickHouse-0.08.tar.gz
+EV::ClickHouse::Streamer           0.08  E/EG/EGOR/EV-ClickHouse-0.08.tar.gz
 EV::Cron                       0.123600  L/LO/LOSYME/EV-Cron-0.123600.tar.gz
 EV::Embed                         undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Etcd                           0.11  E/EG/EGOR/EV-Etcd-0.11.tar.gz
