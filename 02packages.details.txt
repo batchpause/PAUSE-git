@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264254
-Last-Updated: Wed, 18 Nov 2026 10:41:02 GMT
+Last-Updated: Wed, 18 Nov 2026 10:54:06 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -47538,15 +47538,15 @@ Config::From::Backend::File        0.08  D/DA/DAB/Config-From-0.08.tar.gz
 Config::FromHash                 0.0800  C/CS/CSSON/Config-FromHash-0.0800.tar.gz
 Config::Frontend                   0.18  O/OE/OESTERHOL/Config-Frontend-0.18.tar.gz
 Config::Frontend::Tie              0.02  O/OE/OESTERHOL/Config-Frontend-Tie-0.02.tar.gz
-Config::General                    2.68  T/TL/TLINDEN/Config-General-2.68.tar.gz
-Config::General::Extended          2.07  T/TL/TLINDEN/Config-General-2.68.tar.gz
+Config::General                    2.69  T/TL/TLINDEN/Config-General-2.69.tar.gz
+Config::General::Extended          2.07  T/TL/TLINDEN/Config-General-2.69.tar.gz
 Config::General::Hierarchical      0.07  I/IC/ICC/Config-General-Hierarchical-0.07.tar.gz
 Config::General::Hierarchical::Dump 0.07  I/IC/ICC/Config-General-Hierarchical-0.07.tar.gz
 Config::General::Hierarchical::DumpTest 0.07  I/IC/ICC/Config-General-Hierarchical-0.07.tar.gz
 Config::General::Hierarchical::Options 0.07  I/IC/ICC/Config-General-Hierarchical-0.07.tar.gz
 Config::General::Hierarchical::Test 0.07  I/IC/ICC/Config-General-Hierarchical-0.07.tar.gz
 Config::General::Hierarchical::Value 0.07  I/IC/ICC/Config-General-Hierarchical-0.07.tar.gz
-Config::General::Interpolated      2.16  T/TL/TLINDEN/Config-General-2.68.tar.gz
+Config::General::Interpolated      2.16  T/TL/TLINDEN/Config-General-2.69.tar.gz
 Config::General::Match             0.05  M/MG/MGRAHAM/Config-General-Match-0.05.tar.gz
 Config::Generator                   1.1  L/LC/LCONS/Config-Generator-1.1.tar.gz
 Config::Generator::Config           1.1  L/LC/LCONS/Config-Generator-1.1.tar.gz
