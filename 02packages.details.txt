@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264284
-Last-Updated: Thu, 19 Nov 2026 16:17:02 GMT
+Last-Updated: Thu, 19 Nov 2026 16:54:29 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -223326,13 +223326,13 @@ STRING_PTR                         2.08  A/AF/AFRYER/Tuxedo-2.08.tar.gz
 StringEvolver                      0.03  R/RO/ROSULEK/Algorithm-Evolve-0.03.tar.gz
 StringHandle                       0.20  G/GM/GMAX/Chess-PGN-Parse-0.20.tar.gz
 Stringify::Deep                    0.03  A/AQ/AQUILINA/Stringify-Deep-0.03.tar.gz
-STRling                        4.000001  S/ST/STRLING/STRling-4.0.1.tar.gz
-STRling::InteropProtocolError     undef  S/ST/STRLING/STRling-4.0.1.tar.gz
-STRling::NativeAdapterError       undef  S/ST/STRLING/STRling-4.0.1.tar.gz
-STRling::NativeClient             undef  S/ST/STRLING/STRling-4.0.1.tar.gz
-STRling::Requests                 undef  S/ST/STRLING/STRling-4.0.1.tar.gz
-STRling::StdlibGenerated          undef  S/ST/STRLING/STRling-4.0.1.tar.gz
-STRling::StrictJSON               undef  S/ST/STRLING/STRling-4.0.1.tar.gz
+STRling                        4.000003  S/ST/STRLING/STRling-4.0.3.tar.gz
+STRling::InteropProtocolError     undef  S/ST/STRLING/STRling-4.0.3.tar.gz
+STRling::NativeAdapterError       undef  S/ST/STRLING/STRling-4.0.3.tar.gz
+STRling::NativeClient             undef  S/ST/STRLING/STRling-4.0.3.tar.gz
+STRling::Requests                 undef  S/ST/STRLING/STRling-4.0.3.tar.gz
+STRling::StdlibGenerated          undef  S/ST/STRLING/STRling-4.0.3.tar.gz
+STRling::StrictJSON               undef  S/ST/STRLING/STRling-4.0.3.tar.gz
 StrNum                            undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrNum.pm.gz
 Strong::Random                     0.96  T/TR/TRUNAEV/Strong-Random-0.96.tar.gz
 StrTree                           undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrTree.pm.gz
