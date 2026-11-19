@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264283
-Last-Updated: Thu, 19 Nov 2026 11:54:27 GMT
+Last-Updated: Thu, 19 Nov 2026 12:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -190746,7 +190746,7 @@ PDL::NDBin::Action::Min           0.029  E/ET/ETJ/PDL-NDBin-0.029.tar.gz
 PDL::NDBin::Action::StdDev        0.029  E/ET/ETJ/PDL-NDBin-0.029.tar.gz
 PDL::NDBin::Action::Sum           0.029  E/ET/ETJ/PDL-NDBin-0.029.tar.gz
 PDL::NDBin::Iterator              0.029  E/ET/ETJ/PDL-NDBin-0.029.tar.gz
-PDL::NetCDF                        4.25  E/ET/ETJ/PDL-NetCDF-4.25.tar.gz
+PDL::NetCDF                        4.26  E/ET/ETJ/PDL-NetCDF-4.26.tar.gz
 PDL::Ngrams                        0.12  M/MO/MOOCOW/PDL-Ngrams-0.12.tar.gz
 PDL::Ngrams::Utils                 0.12  M/MO/MOOCOW/PDL-Ngrams-0.12.tar.gz
 PDL::NiceSlice                    1.001  E/ET/ETJ/PDL-2.106.tar.gz
