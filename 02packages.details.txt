@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264281
-Last-Updated: Thu, 19 Nov 2026 04:17:02 GMT
+Line-Count:   264283
+Last-Updated: Thu, 19 Nov 2026 06:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -8783,6 +8783,8 @@ App::ansiexpand                    1.06  U/UT/UTASHIRO/App-ansiexpand-1.06.tar.g
 App::ansifold                      1.38  U/UT/UTASHIRO/App-ansifold-1.38.tar.gz
 App::ansiprintf                    2.07  U/UT/UTASHIRO/Text-ANSI-Printf-2.07.tar.gz
 App::ansiprintf::Util             undef  U/UT/UTASHIRO/Text-ANSI-Printf-2.07.tar.gz
+App::AnteREPL                      0.01  O/OO/OODLER/App-AnteREPL-0.01.tar.gz
+App::AnteREPL::Shorthand          undef  O/OO/OODLER/App-AnteREPL-0.01.tar.gz
 App::Antigen                      0.001  T/TB/TBSLIVER/App-Antigen-0.001.tar.gz
 App::APA                          undef  R/RW/RWP/App-APA-0.230470.tar.gz
 App::ape                          0.001  T/TE/TEODESIAN/App-Prove-Plugin-Elasticsearch-0.001.tar.gz
