@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264283
-Last-Updated: Thu, 19 Nov 2026 14:17:02 GMT
+Last-Updated: Thu, 19 Nov 2026 14:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -85816,7 +85816,7 @@ Geo::Coder::Mappy                  0.02  G/GR/GRAY/Geo-Coder-Mappy-0.02.tar.gz
 Geo::Coder::Mapquest               0.06  G/GR/GRAY/Geo-Coder-Mapquest-0.06.tar.gz
 Geo::Coder::Multimap               0.01  G/GR/GRAY/Geo-Coder-Multimap-0.01.tar.gz
 Geo::Coder::Navteq                 0.03  G/GR/GRAY/Geo-Coder-Navteq-0.03.tar.gz
-Geo::Coder::OpenCage               0.43  M/MT/MTMAIL/Geo-Coder-OpenCage-0.43.tar.gz
+Geo::Coder::OpenCage               0.44  M/MT/MTMAIL/Geo-Coder-OpenCage-0.44.tar.gz
 Geo::Coder::OSM                    0.03  G/GR/GRAY/Geo-Coder-OSM-0.03.tar.gz
 Geo::Coder::Ovi                    0.03  G/GR/GRAY/Geo-Coder-Ovi-0.03.tar.gz
 Geo::Coder::Postcodes              0.09  N/NH/NHORNE/Geo-Coder-Postcodes-0.09.tar.gz
