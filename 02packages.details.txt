@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264287
-Last-Updated: Thu, 19 Nov 2026 20:41:01 GMT
+Line-Count:   264288
+Last-Updated: Thu, 19 Nov 2026 21:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -30358,8 +30358,9 @@ Brownie::XPath                    undef  M/MA/MASAKI/Brownie-0.09.tar.gz
 Browser::Find::Windows            0.002  P/PE/PERLANCAR/Browser-Find-Windows-0.002.tar.gz
 Browser::LibModule                 0.67  R/RK/RKIES/Tk-Browser-0.82-1.tar.gz
 Browser::LibModuleSymbol           0.53  R/RK/RKIES/Tk-Browser-0.82-1.tar.gz
-Browser::OIDC                     0.004  L/LE/LEONT/Browser-OIDC-0.004.tar.gz
-Browser::OIDC::TokenResponse      0.004  L/LE/LEONT/Browser-OIDC-0.004.tar.gz
+Browser::OAuth2                   undef  L/LE/LEONT/Browser-OIDC-0.005.tar.gz
+Browser::OIDC                     0.005  L/LE/LEONT/Browser-OIDC-0.005.tar.gz
+Browser::OIDC::TokenResponse      0.005  L/LE/LEONT/Browser-OIDC-0.005.tar.gz
 Browser::Open                      0.04  C/CF/CFRANKS/Browser-Open-0.04.tar.gz
 Browser::Start                     0.01  P/PL/PLICEASE/Browser-Start-0.01.tar.gz
 Browsermob::Proxy                  0.17  G/GE/GEMPESAW/Browsermob-Proxy-0.17.tar.gz
@@ -43912,7 +43913,7 @@ Chef::REST::Client::roles             1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
 Chef::REST::Client::runlist           1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
 Chef::REST::Client::sandboxes         1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
 Chef::REST::Client::search            1  B/BP/BPATEL/Chef-REST-Client-1.2.tar.gz
-Chem::Structure::Parser           0.039  D/DC/DCON/Chem-Structure-Parser-0.039.tar.gz
+Chem::Structure::Parser           0.040  D/DC/DCON/Chem-Structure-Parser-0.040.tar.gz
 Chemistry::3DBuilder               0.10  I/IT/ITUB/Chemistry-3DBuilder-0.10.tar.gz
 Chemistry::Artificial::Graphics    0.01  B/BR/BREQUESEN/Chemistry-Artificial-Graphics-0.01.tar.gz
 Chemistry::Artificial::SQL         0.01  B/BR/BREQUESEN/Chemistry-Artificial-SQL-0.01.tar.gz
