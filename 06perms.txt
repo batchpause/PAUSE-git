@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671860
+Line-Count:  671875
 Written-By:  PAUSE version 1.005
-Date:        Thu, 19 Nov 2026 01:29:27 GMT
+Date:        Thu, 19 Nov 2026 01:41:58 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -549955,9 +549955,16 @@ Protocol::IR::Format::Mode2,BWARDEN,f
 Protocol::IR::Format::Pronto,BWARDEN,f
 Protocol::IR::Format::Tasmota,BWARDEN,f
 Protocol::IR::Format::Wig,BWARDEN,f
+Protocol::IR::Proto::Aiwa,BWARDEN,f
+Protocol::IR::Proto::Denon,BWARDEN,f
+Protocol::IR::Proto::Denon1,BWARDEN,f
+Protocol::IR::Proto::DenonK,BWARDEN,f
+Protocol::IR::Proto::Dish,BWARDEN,f
+Protocol::IR::Proto::GICable,BWARDEN,f
 Protocol::IR::Proto::JVC,BWARDEN,f
 Protocol::IR::Proto::JVC48,BWARDEN,f
 Protocol::IR::Proto::MWM,BWARDEN,f
+Protocol::IR::Proto::Mitsubishi,BWARDEN,f
 Protocol::IR::Proto::NEC,BWARDEN,f
 Protocol::IR::Proto::NEC2,BWARDEN,f
 Protocol::IR::Proto::NEC48,BWARDEN,f
@@ -549965,9 +549972,17 @@ Protocol::IR::Proto::NEC482,BWARDEN,f
 Protocol::IR::Proto::NECX1,BWARDEN,f
 Protocol::IR::Proto::NECX2,BWARDEN,f
 Protocol::IR::Proto::Panasonic,BWARDEN,f
+Protocol::IR::Proto::Pioneer,BWARDEN,f
+Protocol::IR::Proto::RC5,BWARDEN,f
+Protocol::IR::Proto::RC6,BWARDEN,f
 Protocol::IR::Proto::SAMSUNG,BWARDEN,f
 Protocol::IR::Proto::SAMSUNG20,BWARDEN,f
 Protocol::IR::Proto::SAMSUNG36,BWARDEN,f
+Protocol::IR::Proto::Sharp,BWARDEN,f
+Protocol::IR::Proto::Sony,BWARDEN,f
+Protocol::IR::Proto::Sony12,BWARDEN,f
+Protocol::IR::Proto::Sony15,BWARDEN,f
+Protocol::IR::Proto::Sony20,BWARDEN,f
 Protocol::IRC,PEVANS,f
 Protocol::IRC::Client,PEVANS,f
 Protocol::IRC::Message,PEVANS,f
