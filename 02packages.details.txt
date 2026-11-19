@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264283
-Last-Updated: Thu, 19 Nov 2026 12:41:01 GMT
+Last-Updated: Thu, 19 Nov 2026 14:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -153614,7 +153614,7 @@ Object::Botox                      1.15  M/ME/MEETTYA/Object-Botox-1.15.tar.gz
 Object::Cache::Sqlite          0.001002  B/BA/BAKERSCOT/Object-Cache-Sqlite-v0.1.2.tar.gz
 Object::Capsule                   0.012  R/RJ/RJBS/Object-Capsule-0.012.tar.gz
 Object::Composer               0.000002  G/GV/GVENKAT/Object-Composer-0.0.2.tar.gz
-Object::Configure                  0.25  N/NH/NHORNE/Object-Configure-0.25.tar.gz
+Object::Configure                  0.26  N/NH/NHORNE/Object-Configure-0.26.tar.gz
 Object::Container                  0.16  B/BA/BAYASHI/Object-Container-0.16.tar.gz
 Object::Container::Exporter        0.03  N/NE/NEKOKAK/Object-Container-Exporter-0.03.tar.gz
 Object::Deadly                     0.09  J/JJ/JJORE/Object-Deadly-0.09.tar.gz
