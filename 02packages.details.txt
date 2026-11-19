@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264288
-Last-Updated: Thu, 19 Nov 2026 22:54:24 GMT
+Last-Updated: Thu, 19 Nov 2026 23:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -141496,7 +141496,7 @@ Music::Audioscrobbler::Submit      0.05  E/EA/EALLENIII/Music-Audioscrobbler-Sub
 Music::BachChoralHarmony         0.0412  G/GE/GENE/Music-BachChoralHarmony-0.0412.tar.gz
 Music::Bassline::Generator       0.0609  G/GE/GENE/Music-Bassline-Generator-0.0609.tar.gz
 Music::Beets::Info                0.006  W/WO/WOLDRICH/Music-Beets-Info-0.006.tar.gz
-Music::Cadence                   0.1512  G/GE/GENE/Music-Cadence-0.1512.tar.gz
+Music::Cadence                   0.1513  G/GE/GENE/Music-Cadence-0.1513.tar.gz
 Music::Canon                       2.04  J/JM/JMATES/Music-Canon-2.04.tar.gz
 Music::Chord::Namer                0.01  J/JI/JIMI/Music-Chord-Namer-0.01.tar.gz
 Music::Chord::Note                 0.14  B/BA/BAYASHI/Music-Chord-Note-0.14.tar.gz
