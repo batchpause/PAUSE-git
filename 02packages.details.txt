@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264283
-Last-Updated: Thu, 19 Nov 2026 12:17:02 GMT
+Last-Updated: Thu, 19 Nov 2026 12:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -147663,8 +147663,8 @@ Net::HTTP2::Client::IOAsync       undef  F/FE/FELIPE/Net-HTTP2-0.02.tar.gz
 Net::HTTP2::Client::Mojo          undef  F/FE/FELIPE/Net-HTTP2-0.02.tar.gz
 Net::HTTP2::Constants             undef  F/FE/FELIPE/Net-HTTP2-0.02.tar.gz
 Net::HTTP2::IOSocketSSL           undef  F/FE/FELIPE/Net-HTTP2-0.02.tar.gz
-Net::HTTP2::nghttp2               0.012  J/JJ/JJNAPIORK/Net-HTTP2-nghttp2-0.012.tar.gz
-Net::HTTP2::nghttp2::Session      undef  J/JJ/JJNAPIORK/Net-HTTP2-nghttp2-0.012.tar.gz
+Net::HTTP2::nghttp2               0.013  J/JJ/JJNAPIORK/Net-HTTP2-nghttp2-0.013.tar.gz
+Net::HTTP2::nghttp2::Session      undef  J/JJ/JJNAPIORK/Net-HTTP2-nghttp2-0.013.tar.gz
 Net::HTTP2::PartialResponse       undef  F/FE/FELIPE/Net-HTTP2-0.02.tar.gz
 Net::HTTP2::RejectorRegistry      undef  F/FE/FELIPE/Net-HTTP2-0.02.tar.gz
 Net::HTTP2::Response              undef  F/FE/FELIPE/Net-HTTP2-0.02.tar.gz
