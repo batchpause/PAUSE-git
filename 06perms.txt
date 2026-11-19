@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671879
+Line-Count:  671880
 Written-By:  PAUSE version 1.005
-Date:        Thu, 19 Nov 2026 16:17:19 GMT
+Date:        Thu, 19 Nov 2026 18:42:09 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -345478,6 +345478,7 @@ Langertha::Holmgang::Report,GETTY,f
 Langertha::Holmgang::Role::AnswerWorld,GETTY,f
 Langertha::Holmgang::Role::Simulator,GETTY,f
 Langertha::Holmgang::Runner,GETTY,f
+Langertha::Holmgang::Sandbox::Docker,GETTY,f
 Langertha::Holmgang::Shell,GETTY,f
 Langertha::Holmgang::Shell::Filter,GETTY,f
 Langertha::Holmgang::Sim::Denken,GETTY,f
