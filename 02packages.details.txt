@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264288
-Last-Updated: Thu, 19 Nov 2026 22:41:02 GMT
+Last-Updated: Thu, 19 Nov 2026 22:54:24 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -134193,7 +134193,7 @@ MIDI::Track                        0.84  C/CO/CONKLIN/MIDI-Perl-0.84.tar.gz
 MIDI::Trans                        0.15  C/CH/CHURCH/MIDI-Trans-0.15.zip
 MIDI::Tweaks                       1.01  J/JV/JV/MIDI-Tweaks-1.01.tar.gz
 MIDI::Tweaks::Opus                 1.01  J/JV/JV/MIDI-Tweaks-1.01.tar.gz
-MIDI::Util                       0.1311  G/GE/GENE/MIDI-Util-0.1311.tar.gz
+MIDI::Util                       0.1312  G/GE/GENE/MIDI-Util-0.1312.tar.gz
 MIDI::XML                          0.03  B/BM/BMAMES/MIDI-XML-0.03.tar.gz
 MIDI::XML::Absolute                0.03  B/BM/BMAMES/MIDI-XML-0.03.tar.gz
 MIDI::XML::ActiveSensing           0.03  B/BM/BMAMES/MIDI-XML-0.03.tar.gz
@@ -141496,7 +141496,7 @@ Music::Audioscrobbler::Submit      0.05  E/EA/EALLENIII/Music-Audioscrobbler-Sub
 Music::BachChoralHarmony         0.0412  G/GE/GENE/Music-BachChoralHarmony-0.0412.tar.gz
 Music::Bassline::Generator       0.0609  G/GE/GENE/Music-Bassline-Generator-0.0609.tar.gz
 Music::Beets::Info                0.006  W/WO/WOLDRICH/Music-Beets-Info-0.006.tar.gz
-Music::Cadence                   0.1511  G/GE/GENE/Music-Cadence-0.1511.tar.gz
+Music::Cadence                   0.1512  G/GE/GENE/Music-Cadence-0.1512.tar.gz
 Music::Canon                       2.04  J/JM/JMATES/Music-Canon-2.04.tar.gz
 Music::Chord::Namer                0.01  J/JI/JIMI/Music-Chord-Namer-0.01.tar.gz
 Music::Chord::Note                 0.14  B/BA/BAYASHI/Music-Chord-Note-0.14.tar.gz
