@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264285
-Last-Updated: Thu, 19 Nov 2026 18:41:02 GMT
+Line-Count:   264287
+Last-Updated: Thu, 19 Nov 2026 19:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -117382,37 +117382,39 @@ Langertha::Runtime::Metrics       0.505  G/GE/GETTY/Langertha-0.505.tar.gz
 Langertha::Runtime::Metrics::OTLP 0.505  G/GE/GETTY/Langertha-0.505.tar.gz
 Langertha::ServerTool             0.505  G/GE/GETTY/Langertha-0.505.tar.gz
 Langertha::ServerToolCall         0.505  G/GE/GETTY/Langertha-0.505.tar.gz
-Langertha::Skeid                  0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::CapacityProbe   0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::CapacityProbe::Custom 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::CapacityProbe::Prometheus 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::CapacityProbe::Registry 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::CustomerSource  0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::CustomerSource::DBI 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::KeyBroker       0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::KeyBroker::OpenBao 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::OpenAPI         0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Protocol        0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Protocol::Anthropic 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Protocol::Anthropic::Stream 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Protocol::Audio 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Protocol::Documents 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Protocol::MCP   0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Protocol::Ollama 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Protocol::Ollama::Stream 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Protocol::RawBody 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Protocol::Realtime 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Protocol::Refusal 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Protocol::Rerank 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Proxy           0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Proxy::Realtime 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Proxy::RelayContent 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Registry        0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::Secret          0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::SwaggerUI       0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::UsageStore      0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::UsageStore::DBI 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
-Langertha::Skeid::UsageStore::JsonLog 0.004  G/GE/GETTY/Langertha-Skeid-0.004.tar.gz
+Langertha::Skeid                  0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::CapacityProbe   0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::CapacityProbe::Custom 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::CapacityProbe::Prometheus 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::CapacityProbe::Registry 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::CustomerSource  0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::CustomerSource::DBI 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::KeyBroker       0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::KeyBroker::OpenBao 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::NodeFiles       0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::OpenAPI         0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Protocol        0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Protocol::Anthropic 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Protocol::Anthropic::Stream 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Protocol::Audio 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Protocol::Documents 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Protocol::MCP   0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Protocol::Ollama 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Protocol::Ollama::Stream 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Protocol::RawBody 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Protocol::Realtime 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Protocol::Refusal 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Protocol::Rerank 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Proxy           0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Proxy::Realtime 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Proxy::RelayContent 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Rate            0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Registry        0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::Secret          0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::SwaggerUI       0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::UsageStore      0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::UsageStore::DBI 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
+Langertha::Skeid::UsageStore::JsonLog 0.005  G/GE/GETTY/Langertha-Skeid-0.005.tar.gz
 Langertha::Spec::LMStudio         0.505  G/GE/GETTY/Langertha-0.505.tar.gz
 Langertha::Spec::Mistral          0.505  G/GE/GETTY/Langertha-0.505.tar.gz
 Langertha::Spec::Ollama           0.505  G/GE/GETTY/Langertha-0.505.tar.gz

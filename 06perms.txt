@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671880
+Line-Count:  671882
 Written-By:  PAUSE version 1.005
-Date:        Thu, 19 Nov 2026 18:42:09 GMT
+Date:        Thu, 19 Nov 2026 19:17:09 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -345760,6 +345760,7 @@ Langertha::Skeid::CustomerSource,GETTY,f
 Langertha::Skeid::CustomerSource::DBI,GETTY,f
 Langertha::Skeid::KeyBroker,GETTY,f
 Langertha::Skeid::KeyBroker::OpenBao,GETTY,f
+Langertha::Skeid::NodeFiles,GETTY,f
 Langertha::Skeid::OpenAPI,GETTY,f
 Langertha::Skeid::Protocol,GETTY,f
 Langertha::Skeid::Protocol::Anthropic,GETTY,f
@@ -345776,6 +345777,7 @@ Langertha::Skeid::Protocol::Rerank,GETTY,f
 Langertha::Skeid::Proxy,GETTY,f
 Langertha::Skeid::Proxy::Realtime,GETTY,f
 Langertha::Skeid::Proxy::RelayContent,GETTY,f
+Langertha::Skeid::Rate,GETTY,f
 Langertha::Skeid::Registry,GETTY,f
 Langertha::Skeid::Secret,GETTY,f
 Langertha::Skeid::SwaggerUI,GETTY,f
