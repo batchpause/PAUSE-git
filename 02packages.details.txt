@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264294
-Last-Updated: Fri, 20 Nov 2026 18:54:08 GMT
+Last-Updated: Fri, 20 Nov 2026 19:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -130492,11 +130492,11 @@ MathWorks::Type::platformList     undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
 MathWorks::Type::product          undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
 MathWorks::Type::productDepItem   undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
 MathWorks::Type::productDepList   undef  A/AU/AULUSOY/XML-Pastor-0.6.0.tar.gz
-Matplotlib::Simple               0.3344  D/DC/DCON/Matplotlib-Simple-0.3344.tar.gz
-Matplotlib::Simple::Colors       0.3344  D/DC/DCON/Matplotlib-Simple-0.3344.tar.gz
-Matplotlib::Simple::Ggplot2      0.3344  D/DC/DCON/Matplotlib-Simple-0.3344.tar.gz
-Matplotlib::Simple::Gnuplot      0.3344  D/DC/DCON/Matplotlib-Simple-0.3344.tar.gz
-Matplotlib::Simple::Matplotlib   0.3344  D/DC/DCON/Matplotlib-Simple-0.3344.tar.gz
+Matplotlib::Simple               0.3345  D/DC/DCON/Matplotlib-Simple-0.3345.tar.gz
+Matplotlib::Simple::Colors       0.3345  D/DC/DCON/Matplotlib-Simple-0.3345.tar.gz
+Matplotlib::Simple::Ggplot2      0.3345  D/DC/DCON/Matplotlib-Simple-0.3345.tar.gz
+Matplotlib::Simple::Gnuplot      0.3345  D/DC/DCON/Matplotlib-Simple-0.3345.tar.gz
+Matplotlib::Simple::Matplotlib   0.3345  D/DC/DCON/Matplotlib-Simple-0.3345.tar.gz
 Matrix::Simple                     1.04  O/OX/OXJGOUO/Matrix-Simple-1.04.tar.gz
 Matts::Message                    undef  M/MS/MSERGEANT/Matts-Message-Parser-1.0.tar.gz
 Matts::Message::Parser              1.0  M/MS/MSERGEANT/Matts-Message-Parser-1.0.tar.gz
@@ -149233,8 +149233,8 @@ Net::OpenSSH::Compat::SSH2::File   0.09  S/SA/SALVA/Net-OpenSSH-Compat-0.09.tar.
 Net::OpenSSH::Compat::SSH2::SFTP   0.09  S/SA/SALVA/Net-OpenSSH-Compat-0.09.tar.gz
 Net::OpenSSH::ConnectionCache     undef  S/SA/SALVA/Net-OpenSSH-0.84.tar.gz
 Net::OpenSSH::ModuleLoader        undef  S/SA/SALVA/Net-OpenSSH-0.84.tar.gz
-Net::OpenSSH::More                 1.06  T/TE/TEODESIAN/Net-OpenSSH-More-1.06.tar.gz
-Net::OpenSSH::More::Linux          1.06  T/TE/TEODESIAN/Net-OpenSSH-More-1.06.tar.gz
+Net::OpenSSH::More                 1.07  T/TE/TEODESIAN/Net-OpenSSH-More-1.07.tar.gz
+Net::OpenSSH::More::Linux          1.07  T/TE/TEODESIAN/Net-OpenSSH-More-1.07.tar.gz
 Net::OpenSSH::ObjectRemote        undef  S/SA/SALVA/Net-OpenSSH-0.84.tar.gz
 Net::OpenSSH::Parallel             0.14  S/SA/SALVA/Net-OpenSSH-Parallel-0.14.tar.gz
 Net::OpenSSH::Parallel::Constants  0.12  S/SA/SALVA/Net-OpenSSH-Parallel-0.14.tar.gz
@@ -222324,7 +222324,7 @@ Stats::Fermi::FermiDiracStats     undef  K/KO/KOBOLDWIZ/Perl5/Stats-Fermi-0.1.7.
 Stats::Hawking                 0.001003  K/KO/KOBOLDWIZ/Perl5/Stats-Hawking-0.1.3.tar.gz
 Stats::Hawking::HawkingTemperature undef  K/KO/KOBOLDWIZ/Perl5/Stats-Hawking-0.1.3.tar.gz
 Stats::Hawking::HTRandom          undef  K/KO/KOBOLDWIZ/Perl5/Stats-Hawking-0.1.3.tar.gz
-Stats::LikeR                     0.3425  D/DC/DCON/Stats-LikeR-0.3425.tar.gz
+Stats::LikeR                     0.3426  D/DC/DCON/Stats-LikeR-0.3426.tar.gz
 Stats::LikeR::col                  0.28  D/DC/DCON/Stats-LikeR-0.28.tar.gz
 Stats::LikeR::Pred                 0.16  D/DC/DCON/Stats-LikeR-0.16.tar.gz
 Stats::LikeR::Usage              0.3413  D/DC/DCON/Stats-LikeR-0.3413.tar.gz
