@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264290
-Last-Updated: Fri, 20 Nov 2026 14:29:02 GMT
+Last-Updated: Fri, 20 Nov 2026 15:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -127129,7 +127129,7 @@ Mail::Salsa::Sendmail              0.01  H/HD/HDIAS/Mail-Salsa-0.15.tar.gz
 Mail::Salsa::Template              0.02  H/HD/HDIAS/Mail-Salsa-0.15.tar.gz
 Mail::Salsa::Utils                 0.05  H/HD/HDIAS/Mail-Salsa-0.15.tar.gz
 Mail::Send                         2.22  M/MA/MARKOV/MailTools-2.22.tar.gz
-Mail::Send::DKIM               0.002000  N/NH/NHORNE/Mail-Send-DKIM-0.002.0.tar.gz
+Mail::Send::DKIM               0.003000  N/NH/NHORNE/Mail-Send-DKIM-0.003.0.tar.gz
 Mail::Send::Loop                    0.3  K/KX/KXJ/Mail-Send-Loop-0.3.tar.gz
 Mail::SendEasy                      1.2  G/GM/GMPASSOS/Mail-SendEasy-1.2.tar.gz
 Mail::SendEasy::AUTH               0.01  G/GM/GMPASSOS/Mail-SendEasy-1.2.tar.gz
