@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264289
-Last-Updated: Fri, 20 Nov 2026 12:41:02 GMT
+Last-Updated: Fri, 20 Nov 2026 12:54:13 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -150954,9 +150954,9 @@ Net::Stripe::Plan                  0.43  S/SH/SHERRARDB/Net-Stripe-0.43.tar.gz
 Net::Stripe::Product               0.43  S/SH/SHERRARDB/Net-Stripe-0.43.tar.gz
 Net::Stripe::Refund                0.39  I/IL/ILLY/Net-Stripe-0.39.tar.gz
 Net::Stripe::Resource              0.43  S/SH/SHERRARDB/Net-Stripe-0.43.tar.gz
-Net::Stripe::Simple               0.005  A/AB/ABEVERLEY/Net-Stripe-Simple-0.005.tar.gz
-Net::Stripe::Simple::Data         0.005  A/AB/ABEVERLEY/Net-Stripe-Simple-0.005.tar.gz
-Net::Stripe::Simple::Error        0.005  A/AB/ABEVERLEY/Net-Stripe-Simple-0.005.tar.gz
+Net::Stripe::Simple               0.006  A/AB/ABEVERLEY/Net-Stripe-Simple-0.006.tar.gz
+Net::Stripe::Simple::Data         0.006  A/AB/ABEVERLEY/Net-Stripe-Simple-0.006.tar.gz
+Net::Stripe::Simple::Error        0.006  A/AB/ABEVERLEY/Net-Stripe-Simple-0.006.tar.gz
 Net::Stripe::Source                0.43  S/SH/SHERRARDB/Net-Stripe-0.43.tar.gz
 Net::Stripe::Subscription          0.43  S/SH/SHERRARDB/Net-Stripe-0.43.tar.gz
 Net::Stripe::SubscriptionList      0.30  R/RC/RCONOVER/Net-Stripe-0.30.tar.gz
