@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264289
-Last-Updated: Fri, 20 Nov 2026 07:41:02 GMT
+Last-Updated: Fri, 20 Nov 2026 10:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -8772,11 +8772,11 @@ App::annex_to_annex               0.008  S/SP/SPWHITTON/Git-Annex-0.008.tar.gz
 App::annex_to_annex_dropunused    0.008  S/SP/SPWHITTON/Git-Annex-0.008.tar.gz
 App::annex_to_annex_reinject      0.008  S/SP/SPWHITTON/Git-Annex-0.008.tar.gz
 App::ANSIColorUtils               0.011  P/PE/PERLANCAR/App-ANSIColorUtils-0.011.tar.gz
-App::ansicolumn                    1.68  U/UT/UTASHIRO/App-ansicolumn-1.68.tar.gz
-App::ansicolumn::Border           undef  U/UT/UTASHIRO/App-ansicolumn-1.68.tar.gz
-App::ansicolumn::Command          undef  U/UT/UTASHIRO/App-ansicolumn-1.68.tar.gz
-App::ansicolumn::default          undef  U/UT/UTASHIRO/App-ansicolumn-1.68.tar.gz
-App::ansicolumn::Document         undef  U/UT/UTASHIRO/App-ansicolumn-1.68.tar.gz
+App::ansicolumn                    1.69  U/UT/UTASHIRO/App-ansicolumn-1.69.tar.gz
+App::ansicolumn::Border           undef  U/UT/UTASHIRO/App-ansicolumn-1.69.tar.gz
+App::ansicolumn::Command          undef  U/UT/UTASHIRO/App-ansicolumn-1.69.tar.gz
+App::ansicolumn::default          undef  U/UT/UTASHIRO/App-ansicolumn-1.69.tar.gz
+App::ansicolumn::Document         undef  U/UT/UTASHIRO/App-ansicolumn-1.69.tar.gz
 App::ansiecho                      1.10  U/UT/UTASHIRO/App-ansiecho-1.10.tar.gz
 App::ansiecho::Util               undef  U/UT/UTASHIRO/App-ansiecho-1.10.tar.gz
 App::ansiexpand                    1.06  U/UT/UTASHIRO/App-ansiexpand-1.06.tar.gz
@@ -108435,19 +108435,19 @@ Internals                           1.1  S/ST/STBEY/Internals-1.1.tar.gz
 Internals::CountObjects            0.05  J/JJ/JJORE/Internals-CountObjects-0.05.tar.gz
 Internals::DumpArenas              0.12  J/JJ/JJORE/Internals-DumpArenas-0.12.tar.gz
 Internals::GraphArenas             0.01  J/JJ/JJORE/Internals-GraphArenas-0.01.tar.gz
-InternetData                   1.016003  M/MS/MSLM/InternetData-1.16.3.tar.gz
-InternetData::AsnResult        1.016003  M/MS/MSLM/InternetData-1.16.3.tar.gz
-InternetData::Bogon            1.016003  M/MS/MSLM/InternetData-1.16.3.tar.gz
-InternetData::Bogons              undef  M/MS/MSLM/InternetData-1.16.3.tar.gz
-InternetData::Cache            1.016003  M/MS/MSLM/InternetData-1.16.3.tar.gz
-InternetData::Database         1.016003  M/MS/MSLM/InternetData-1.16.3.tar.gz
-InternetData::DomainResult     1.016003  M/MS/MSLM/InternetData-1.16.3.tar.gz
-InternetData::Error            1.016003  M/MS/MSLM/InternetData-1.16.3.tar.gz
-InternetData::Oauth            1.016003  M/MS/MSLM/InternetData-1.16.3.tar.gz
-InternetData::OauthAccessDeniedError 1.016003  M/MS/MSLM/InternetData-1.16.3.tar.gz
-InternetData::OauthError       1.016003  M/MS/MSLM/InternetData-1.16.3.tar.gz
-InternetData::OauthExpiredTokenError 1.016003  M/MS/MSLM/InternetData-1.16.3.tar.gz
-InternetData::Result           1.016003  M/MS/MSLM/InternetData-1.16.3.tar.gz
+InternetData                   1.017000  M/MS/MSLM/InternetData-1.17.0.tar.gz
+InternetData::AsnResult        1.017000  M/MS/MSLM/InternetData-1.17.0.tar.gz
+InternetData::Bogon            1.017000  M/MS/MSLM/InternetData-1.17.0.tar.gz
+InternetData::Bogons              undef  M/MS/MSLM/InternetData-1.17.0.tar.gz
+InternetData::Cache            1.017000  M/MS/MSLM/InternetData-1.17.0.tar.gz
+InternetData::Database         1.017000  M/MS/MSLM/InternetData-1.17.0.tar.gz
+InternetData::DomainResult     1.017000  M/MS/MSLM/InternetData-1.17.0.tar.gz
+InternetData::Error            1.017000  M/MS/MSLM/InternetData-1.17.0.tar.gz
+InternetData::Oauth            1.017000  M/MS/MSLM/InternetData-1.17.0.tar.gz
+InternetData::OauthAccessDeniedError 1.017000  M/MS/MSLM/InternetData-1.17.0.tar.gz
+InternetData::OauthError       1.017000  M/MS/MSLM/InternetData-1.17.0.tar.gz
+InternetData::OauthExpiredTokenError 1.017000  M/MS/MSLM/InternetData-1.17.0.tar.gz
+InternetData::Result           1.017000  M/MS/MSLM/InternetData-1.17.0.tar.gz
 Interpolation                      0.74  J/JE/JENDA/Interpolation-0.74.tar.gz
 Interpolation::A2A                 0.71  J/JE/JENDA/Interpolation-0.71.tar.gz
 Interpolation::A2S                 0.71  J/JE/JENDA/Interpolation-0.71.tar.gz
