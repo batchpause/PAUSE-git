@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264289
-Last-Updated: Fri, 20 Nov 2026 03:17:01 GMT
+Last-Updated: Fri, 20 Nov 2026 03:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -199220,7 +199220,7 @@ PRANG::Util                        0.21  E/EG/EGILES/PRANG-0.21.tar.gz
 PRANG::XMLSchema::Types            0.21  E/EG/EGILES/PRANG-0.21.tar.gz
 PRANG::XMLSchema::Whatever         0.21  E/EG/EGILES/PRANG-0.21.tar.gz
 PrankCall                         0.004  L/LO/LOGIE/PrankCall-0.004.tar.gz
-Praxo::Core                      v0.6.2  H/HA/HANHUIWEN/Praxo-Core-0.6.2.tar.gz
+Praxo::Core                      v0.7.0  H/HA/HANHUIWEN/Praxo-Core-0.7.0.tar.gz
 Predicate                         undef  A/AY/AYMULYAR/SemMed-Interface-0.05.tar.gz
 pref                              undef  T/TO/TOMC/scripts/ADVLABS/rprint/pref.pm.gz
 PrefixCompiler                        0  M/MA/MARKLEEUW/SVN-TeamTools-Indexer-0.002.tar.gz
@@ -228360,12 +228360,12 @@ Term::Animation                     2.6  K/KB/KBAUCOM/Term-Animation-2.6.tar.gz
 Term::Animation::Entity           undef  K/KB/KBAUCOM/Term-Animation-2.6.tar.gz
 Term::ANSI::Sprintf                0.11  L/LN/LNATION/Term-ANSI-Sprintf-0.11.tar.gz
 Term::ANSIColor                    5.01  R/RR/RRA/Term-ANSIColor-5.01.tar.gz
-Term::ANSIColor::Concise           3.05  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.05.tar.gz
-Term::ANSIColor::Concise::Color    3.05  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.05.tar.gz
-Term::ANSIColor::Concise::ColorObject 3.05  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.05.tar.gz
-Term::ANSIColor::Concise::ColorUtils 3.05  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.05.tar.gz
-Term::ANSIColor::Concise::Table    3.05  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.05.tar.gz
-Term::ANSIColor::Concise::Transform 3.05  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.05.tar.gz
+Term::ANSIColor::Concise           3.06  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.06.tar.gz
+Term::ANSIColor::Concise::Color    3.06  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.06.tar.gz
+Term::ANSIColor::Concise::ColorObject 3.06  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.06.tar.gz
+Term::ANSIColor::Concise::ColorUtils 3.06  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.06.tar.gz
+Term::ANSIColor::Concise::Table    3.06  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.06.tar.gz
+Term::ANSIColor::Concise::Transform 3.06  U/UT/UTASHIRO/Term-ANSIColor-Concise-3.06.tar.gz
 Term::ANSIColor::Conditional      0.009  P/PE/PERLANCAR/Term-ANSIColor-Conditional-0.009.tar.gz
 Term::ANSIColor::Gradients         0.10  N/NK/NKH/Term-ANSIColor-Gradients-0.10.tar.gz
 Term::ANSIColor::Gradients::Accessibility 0.10  N/NK/NKH/Term-ANSIColor-Gradients-0.10.tar.gz
