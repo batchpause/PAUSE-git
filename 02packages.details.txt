@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264293
-Last-Updated: Fri, 20 Nov 2026 18:29:02 GMT
+Line-Count:   264294
+Last-Updated: Fri, 20 Nov 2026 18:54:08 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -68705,6 +68705,7 @@ Dist::Zilla::Plugin::GenerateFile::FromShareDir 0.016  E/ET/ETHER/Dist-Zilla-Plu
 Dist::Zilla::Plugin::GenPericmdScript 0.425  P/PE/PERLANCAR/Dist-Zilla-Plugin-GenPericmdScript-0.425.tar.gz
 Dist::Zilla::Plugin::GenShellCompletion 0.11  P/PE/PERLANCAR/Dist-Zilla-Plugin-GenShellCompletion-0.11.tar.gz
 Dist::Zilla::Plugin::Git          2.052  E/ET/ETHER/Dist-Zilla-Plugin-Git-2.052.tar.gz
+Dist::Zilla::Plugin::Git::ChangelogFromTrailers 0.001  T/TE/TEODESIAN/Dist-Zilla-Plugin-Git-ChangelogFromTrailers-0.001.tar.gz
 Dist::Zilla::Plugin::Git::Check   2.052  E/ET/ETHER/Dist-Zilla-Plugin-Git-2.052.tar.gz
 Dist::Zilla::Plugin::Git::CheckFor::CorrectBranch 0.015  R/RS/RSRCHBOY/Dist-Zilla-PluginBundle-Git-CheckFor-0.015.tar.gz
 Dist::Zilla::Plugin::Git::CheckFor::Fixups 0.015  R/RS/RSRCHBOY/Dist-Zilla-PluginBundle-Git-CheckFor-0.015.tar.gz
