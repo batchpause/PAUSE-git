@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264290
-Last-Updated: Fri, 20 Nov 2026 14:17:02 GMT
+Last-Updated: Fri, 20 Nov 2026 14:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -228894,7 +228894,7 @@ Termbox::PP::WCWidth::Tables      undef  B/BR/BRICKPOOL/Termbox-PP-v0.5.1.tar.gz
 TermC                             undef  S/SJ/SJCARBON/go-db-perl-0.04.tar.gz
 Terminal::Control                  0.19  Z/ZT/ZTENRETEP/Terminal-Control-0.19.tar.gz
 Terminal::Identify                 0.29  Z/ZT/ZTENRETEP/Terminal-Identify-0.29.tar.gz
-Terminal::WCWidth              0.006001  B/BR/BRICKPOOL/Termbox-PP-v0.6.1.tar.gz
+Terminal::WCWidth                v0.6.3  B/BR/BRICKPOOL/Termbox-PP-v0.6.3.tar.gz
 Terminal::WCWidth::Tables         undef  B/BR/BRICKPOOL/Termbox-PP-v0.6.1.tar.gz
 Termux::API                        1.01  L/LN/LNATION/Termux-API-1.01.tar.gz
 TERN::it                           0.01  D/DA/DAVIDNICO/TERN-it-0.01.tar.gz
