@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264292
-Last-Updated: Fri, 20 Nov 2026 17:54:03 GMT
+Last-Updated: Fri, 20 Nov 2026 18:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -134157,7 +134157,7 @@ MIDI::RtMidi::FFI::Device          0.14  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.14.tar.
 MIDI::RtMidi::FFI::Device::In      0.14  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.14.tar.gz
 MIDI::RtMidi::FFI::Device::Out     0.14  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.14.tar.gz
 MIDI::RtMidi::ScorePlayer        0.0303  G/GE/GENE/MIDI-RtMidi-ScorePlayer-0.0303.tar.gz
-MIDI::RtMidi::Util               0.0504  G/GE/GENE/MIDI-RtMidi-Util-0.0504.tar.gz
+MIDI::RtMidi::Util               0.0601  G/GE/GENE/MIDI-RtMidi-Util-0.0601.tar.gz
 MIDI::Score                        0.84  C/CO/CONKLIN/MIDI-Perl-0.84.tar.gz
 MIDI::Segment                      0.03  J/JM/JMATES/MIDI-Segment-0.03.tar.gz
 MIDI::Simple                       0.84  C/CO/CONKLIN/MIDI-Perl-0.84.tar.gz
@@ -134196,7 +134196,7 @@ MIDI::Track                        0.84  C/CO/CONKLIN/MIDI-Perl-0.84.tar.gz
 MIDI::Trans                        0.15  C/CH/CHURCH/MIDI-Trans-0.15.zip
 MIDI::Tweaks                       1.01  J/JV/JV/MIDI-Tweaks-1.01.tar.gz
 MIDI::Tweaks::Opus                 1.01  J/JV/JV/MIDI-Tweaks-1.01.tar.gz
-MIDI::Util                       0.1312  G/GE/GENE/MIDI-Util-0.1312.tar.gz
+MIDI::Util                       0.1313  G/GE/GENE/MIDI-Util-0.1313.tar.gz
 MIDI::XML                          0.03  B/BM/BMAMES/MIDI-XML-0.03.tar.gz
 MIDI::XML::Absolute                0.03  B/BM/BMAMES/MIDI-XML-0.03.tar.gz
 MIDI::XML::ActiveSensing           0.03  B/BM/BMAMES/MIDI-XML-0.03.tar.gz
