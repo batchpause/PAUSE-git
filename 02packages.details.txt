@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264294
-Last-Updated: Fri, 20 Nov 2026 19:17:02 GMT
+Last-Updated: Fri, 20 Nov 2026 19:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -28912,7 +28912,7 @@ Bitcoin::Crypto::Util::Internal   4.005  B/BR/BRTASTIC/Bitcoin-Crypto-4.005.tar.
 Bitcoin::Mnemonic                 0.003  P/PE/PERLANCAR/Bitcoin-BIP39-0.003.tar.gz
 Bitcoin::RPC::Client               0.12  W/WH/WHINDS/Bitcoin-RPC-Client-0.12.tar.gz
 Bitcoin::RPC::Client::API          0.06  W/WH/WHINDS/Bitcoin-RPC-Client-0.06.tar.gz
-Bitcoin::Secp256k1                0.011  B/BR/BRTASTIC/Bitcoin-Secp256k1-0.011.tar.gz
+Bitcoin::Secp256k1                0.012  B/BR/BRTASTIC/Bitcoin-Secp256k1-0.012.tar.gz
 bitflag                            0.01  S/SC/SCHOEJO/bitflag-0.01.tar.gz
 bitflag::ct                        0.01  S/SC/SCHOEJO/bitflag-ct-0.01.tar.gz
 bitflags                          undef  P/PI/PINYAN/bitflags-0.10.tar.gz
