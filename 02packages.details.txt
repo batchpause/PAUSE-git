@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264289
-Last-Updated: Fri, 20 Nov 2026 04:17:02 GMT
+Last-Updated: Fri, 20 Nov 2026 06:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -87565,7 +87565,7 @@ Git::Repository::Plugin::Info      0.04  N/NN/NNUTTER/Git-Repository-Plugin-Info
 Git::Repository::Plugin::Log      1.314  B/BO/BOOK/Git-Repository-Plugin-Log-1.314.tar.gz
 Git::Repository::Plugin::Status    0.03  V/VO/VOJ/Git-Repository-Plugin-Status-0.03.tar.gz
 Git::Repository::Status            0.03  V/VO/VOJ/Git-Repository-Plugin-Status-0.03.tar.gz
-Git::Server                       0.047  B/BB/BBB/Git-Server-0.047.tar.gz
+Git::Server                       0.048  B/BB/BBB/Git-Server-0.048.tar.gz
 Git::Status::Tackle                0.01  S/SA/SARTAK/Git-Status-Tackle-0.01.tar.gz
 Git::Status::Tackle::CompletedFeatureBranches undef  S/SA/SARTAK/Git-Status-Tackle-0.01.tar.gz
 Git::Status::Tackle::IndexChanges undef  S/SA/SARTAK/Git-Status-Tackle-0.01.tar.gz
