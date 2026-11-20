@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671886
+Line-Count:  671887
 Written-By:  PAUSE version 1.005
-Date:        Fri, 20 Nov 2026 14:18:18 GMT
+Date:        Fri, 20 Nov 2026 15:55:13 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -595941,6 +595941,7 @@ TUI::Help,BRICKPOOL,f
 TUI::Memory,BRICKPOOL,f
 TUI::MsgBox,BRICKPOOL,f
 TUI::Objects,BRICKPOOL,f
+TUI::Outline,BRICKPOOL,f
 TUI::StdDlg,BRICKPOOL,f
 TUI::TextView,BRICKPOOL,f
 TUI::Validate,BRICKPOOL,f
