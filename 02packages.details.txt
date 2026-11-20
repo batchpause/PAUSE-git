@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264292
-Last-Updated: Fri, 20 Nov 2026 18:17:02 GMT
+Line-Count:   264293
+Last-Updated: Fri, 20 Nov 2026 18:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -124523,6 +124523,7 @@ Log::Dispatch::Desktop::Notify   v0.0.2  C/CG/CGARBS/Log-Dispatch-Desktop-Notify
 Log::Dispatch::DesktopNotification 0.03  E/ET/ETHER/Log-Dispatch-DesktopNotification-0.03.tar.gz
 Log::Dispatch::Dir                0.160  P/PE/PERLANCAR/Log-Dispatch-Dir-0.160.tar.gz
 Log::Dispatch::Email               2.71  D/DR/DROLSKY/Log-Dispatch-2.71.tar.gz
+Log::Dispatch::Email::DKIM     0.001000  N/NH/NHORNE/Log-Dispatch-Email-DKIM-0.001.0.tar.gz
 Log::Dispatch::Email::EmailSend    0.03  D/DR/DROLSKY/Log-Dispatch-Email-EmailSend-0.03.tar.gz
 Log::Dispatch::Email::Mailer       1.16  G/GR/GRYPHON/Log-Dispatch-Email-Mailer-1.16.tar.gz
 Log::Dispatch::Email::MailSend     2.71  D/DR/DROLSKY/Log-Dispatch-2.71.tar.gz
