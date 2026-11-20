@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264288
-Last-Updated: Thu, 19 Nov 2026 23:17:01 GMT
+Last-Updated: Fri, 20 Nov 2026 00:54:14 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -120877,7 +120877,7 @@ LinkEmbedder::Link::Twitter       undef  J/JH/JHTHORSEN/LinkEmbedder-1.20.tar.gz
 LinkEmbedder::Link::Webex         undef  J/JH/JHTHORSEN/LinkEmbedder-1.20.tar.gz
 LinkEmbedder::Link::Whereby       undef  J/JH/JHTHORSEN/LinkEmbedder-1.20.tar.gz
 LinkEmbedder::Link::Xkcd          undef  J/JH/JHTHORSEN/LinkEmbedder-1.20.tar.gz
-Linode::API                       0.003  T/TE/TEODESIAN/Linode-API-0.003.tar.gz
+Linode::API                       0.004  T/TE/TEODESIAN/Linode-API-0.004.tar.gz
 LINQ                              0.003  T/TO/TOBYINK/LINQ-0.003.tar.gz
 LINQ::Array                       0.003  T/TO/TOBYINK/LINQ-0.003.tar.gz
 LINQ::Collection                  0.003  T/TO/TOBYINK/LINQ-0.003.tar.gz
