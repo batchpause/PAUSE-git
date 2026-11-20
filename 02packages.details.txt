@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264289
-Last-Updated: Fri, 20 Nov 2026 11:17:02 GMT
+Last-Updated: Fri, 20 Nov 2026 12:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -134149,11 +134149,11 @@ MIDI::RtController::Filter::CC   0.1408  G/GE/GENE/MIDI-RtController-Filter-CC-0
 MIDI::RtController::Filter::Drums 0.0402  G/GE/GENE/MIDI-RtController-Filter-Drums-0.0402.tar.gz
 MIDI::RtController::Filter::Math 0.0503  G/GE/GENE/MIDI-RtController-Filter-Tonal-0.0503.tar.gz
 MIDI::RtController::Filter::Tonal 0.0503  G/GE/GENE/MIDI-RtController-Filter-Tonal-0.0503.tar.gz
-MIDI::RtMidi::FFI                  0.13  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.13.tar.gz
-MIDI::RtMidi::FFI::AbstractDevice  0.13  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.13.tar.gz
-MIDI::RtMidi::FFI::Device          0.13  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.13.tar.gz
-MIDI::RtMidi::FFI::Device::In      0.13  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.13.tar.gz
-MIDI::RtMidi::FFI::Device::Out     0.13  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.13.tar.gz
+MIDI::RtMidi::FFI                  0.14  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.14.tar.gz
+MIDI::RtMidi::FFI::AbstractDevice  0.14  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.14.tar.gz
+MIDI::RtMidi::FFI::Device          0.14  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.14.tar.gz
+MIDI::RtMidi::FFI::Device::In      0.14  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.14.tar.gz
+MIDI::RtMidi::FFI::Device::Out     0.14  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.14.tar.gz
 MIDI::RtMidi::ScorePlayer        0.0303  G/GE/GENE/MIDI-RtMidi-ScorePlayer-0.0303.tar.gz
 MIDI::RtMidi::Util               0.0504  G/GE/GENE/MIDI-RtMidi-Util-0.0504.tar.gz
 MIDI::Score                        0.84  C/CO/CONKLIN/MIDI-Perl-0.84.tar.gz
@@ -145622,7 +145622,7 @@ Net::DMAP::Server::Playlist       undef  R/RC/RCLAMP/Net-DMAP-Server-0.05.tar.gz
 Net::DMAP::Server::Track          undef  R/RC/RCLAMP/Net-DMAP-Server-0.05.tar.gz
 Net::DNAT                          0.15  B/BB/BBB/Net-DNAT-0.15.tar.gz
 Net::Dnet                          0.73  S/SP/SPIDB/Net-Dnet-0.73.tar.gz
-Net::DNS                           1.57  N/NL/NLNETLABS/Net-DNS-1.57.tar.gz
+Net::DNS                           1.58  N/NL/NLNETLABS/Net-DNS-1.58.tar.gz
 Net::DNS::Async                    1.07  S/SH/SHEVEK/Net-DNS-Async-1.07.tar.gz
 Net::DNS::Async::Simple        1.161090  D/DI/DIEDERICH/Net-DNS-Async-Simple-1.161090.tar.gz
 Net::DNS::AutoDNS                   0.1  L/LE/LEV/Net-DNS-AutoDNS-0.1.tar.gz
@@ -207698,8 +207698,8 @@ RTIR::Extension::MISP              1.00  B/BP/BPS/RTIR-Extension-MISP-1.00.tar.g
 Rtmgr                              0.05  C/CL/CLEM/Rtmgr-Gen-Db-0.05.tar.gz
 Rtmgr::Gen                         0.05  C/CL/CLEM/Rtmgr-Gen-Db-0.05.tar.gz
 Rtmgr::Gen::Db                     0.05  C/CL/CLEM/Rtmgr-Gen-Db-0.05.tar.gz
-RtMidiIn                           0.13  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.13.tar.gz
-RtMidiOut                          0.13  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.13.tar.gz
+RtMidiIn                           0.14  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.14.tar.gz
+RtMidiOut                          0.14  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.14.tar.gz
 RtMidiWrapper                      0.01  J/JB/JBARRETT/MIDI-RtMidi-FFI-0.01.tar.gz
 RTMP::Client                       0.04  C/CH/CHENGANG/RTMP-Client-0.04.tar.gz
 RTNode                             3.43  A/AV/AVIKAK/Algorithm-DecisionTree-3.43.tar.gz

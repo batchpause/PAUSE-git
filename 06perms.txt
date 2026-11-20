@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671884
+Line-Count:  671885
 Written-By:  PAUSE version 1.005
-Date:        Fri, 20 Nov 2026 01:42:01 GMT
+Date:        Fri, 20 Nov 2026 12:41:56 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -401784,6 +401784,7 @@ Net::DNS::RR::DELEGI,NLNETLABS,f
 Net::DNS::RR::DELEGI,OLAF,c
 Net::DNS::RR::DELEGI,RWF,c
 Net::DNS::RR::DELEGI,WILLEM,c
+Net::DNS::RR::DELEGPARAM,NLNETLABS,c
 Net::DNS::RR::DHCID,CREIN,c
 Net::DNS::RR::DHCID,MFUHR,c
 Net::DNS::RR::DHCID,NLNETLABS,f
