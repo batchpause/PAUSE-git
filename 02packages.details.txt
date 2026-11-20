@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264289
-Last-Updated: Fri, 20 Nov 2026 02:17:01 GMT
+Last-Updated: Fri, 20 Nov 2026 03:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -141570,7 +141570,7 @@ Music::RhythmSet::Voice            0.06  J/JM/JMATES/Music-RhythmSet-0.06.tar.gz
 Music::Scala                       1.08  J/JM/JMATES/Music-Scala-1.08.tar.gz
 Music::ScaleNote                 0.0905  G/GE/GENE/Music-ScaleNote-0.0905.tar.gz
 Music::Scales                      0.13  G/GE/GENE/Music-Scales-0.13.tar.gz
-Music::SimpleDrumMachine         0.0702  G/GE/GENE/Music-SimpleDrumMachine-0.0702.tar.gz
+Music::SimpleDrumMachine         0.0801  G/GE/GENE/Music-SimpleDrumMachine-0.0801.tar.gz
 Music::Song                       undef  J/JR/JRED/Gtk2-Ex-FormFactory-0.67.tar.gz
 Music::Tag                       0.4103  E/EA/EALLENIII/Music-Tag-0.4103.tar.gz
 Music::Tag::Amazon               0.4101  E/EA/EALLENIII/Music-Tag-Amazon-0.4101.tar.gz
@@ -192423,7 +192423,7 @@ Perl::Critic::Policy::NamingConventions::ProhibitMixedCaseSubs 1.119  T/TH/THALJ
 Perl::Critic::Policy::NamingConventions::ProhibitMixedCaseVars 1.119  T/TH/THALJEF/Perl-Critic-Deprecated-1.119.tar.gz
 Perl::Critic::Policy::Objects::ProhibitIndirectSyntax 1.156  P/PE/PETDANCE/Perl-Critic-1.156.tar.gz
 Perl::Critic::Policy::Operators::ProhibitSmartmatch 0.2  H/HO/HOLCAPEK/Perl-Critic-Policy-ProhibitSmartmatch-0.4.tar.gz
-Perl::Critic::Policy::Performance::ProhibitRegexForSimpleSubstring 0.01  D/DJ/DJZORT/Perl-Critic-Policy-Performance-ProhibitRegexForSimpleSubstring-0.01.tar.gz
+Perl::Critic::Policy::Performance::ProhibitRegexForSimpleSubstring 0.02  D/DJ/DJZORT/Perl-Critic-Policy-Performance-ProhibitRegexForSimpleSubstring-0.02.tar.gz
 Perl::Critic::Policy::Perlsecret v0.0.11  L/LA/LANCEW/Perl-Critic-Policy-Perlsecret-0.0.11.tar.gz
 Perl::Critic::Policy::Plicease::ProhibitArrayAssignAref 100.00  P/PL/PLICEASE/Perl-Critic-Policy-Plicease-ProhibitArrayAssignAref-100.00.tar.gz
 Perl::Critic::Policy::Plicease::ProhibitLeadingZeros 0.10  P/PL/PLICEASE/Perl-Critic-Plicease-0.10.tar.gz
