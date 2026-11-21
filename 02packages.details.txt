@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264298
-Last-Updated: Sat, 21 Nov 2026 01:17:02 GMT
+Last-Updated: Sat, 21 Nov 2026 02:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -87367,9 +87367,9 @@ Git::I18N                         undef  M/MS/MSOUTH/Git-0.42.tar.gz
 Git::IndexInfo                    undef  M/MS/MSOUTH/Git-0.42.tar.gz
 Git::IssueManager                 undef  B/BY/BYTERAZOR/Git-IssueManager-0.1.tar.gz
 Git::IssueManager::Issue          undef  B/BY/BYTERAZOR/Git-IssueManager-0.1.tar.gz
-Git::Libgit2                      0.007  G/GE/GETTY/Git-Libgit2-0.007.tar.gz
-Git::Libgit2::Error               0.007  G/GE/GETTY/Git-Libgit2-0.007.tar.gz
-Git::Libgit2::FFI                 0.007  G/GE/GETTY/Git-Libgit2-0.007.tar.gz
+Git::Libgit2                      0.008  G/GE/GETTY/Git-Libgit2-0.008.tar.gz
+Git::Libgit2::Error               0.008  G/GE/GETTY/Git-Libgit2-0.008.tar.gz
+Git::Libgit2::FFI                 0.008  G/GE/GETTY/Git-Libgit2-0.008.tar.gz
 Git::Lint                         1.000  B/BL/BLAINEM/Git-Lint-1.000.tar.gz
 Git::Lint::Check                  1.000  B/BL/BLAINEM/Git-Lint-1.000.tar.gz
 Git::Lint::Check::Commit          1.000  B/BL/BLAINEM/Git-Lint-1.000.tar.gz
