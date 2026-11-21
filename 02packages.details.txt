@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264294
-Last-Updated: Fri, 20 Nov 2026 22:54:00 GMT
+Last-Updated: Sat, 21 Nov 2026 00:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -58185,26 +58185,26 @@ Data::Tabulate                     0.09  R/RE/RENEEB/Data-Tabulate-0.09.tar.gz
 Data::Tabulate::Plugin::ASCIITable 0.04  R/RE/RENEEB/Data-Tabulate-Plugin-ASCIITable-0.04.tar.gz
 Data::Tabulate::Plugin::HTMLTable  0.06  R/RE/RENEEB/Data-Tabulate-Plugin-HTMLTable-0.06.tar.gz
 Data::Tabulator                    0.03  R/RK/RKRIMEN/Data-Tabulator-0.03.tar.gz
-Data::TagDB                     v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::Base               v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::Cache              v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::Cloudlet           v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::Exporter           v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::Factory            v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::Interface::Includeable v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::Interface::Plugin  v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::Iterator           v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::Link               v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::LinkIterator       v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::Metadata           v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::Migration          v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::MultiIterator      v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB                     v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::Base               v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::Cache              v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::Cloudlet           v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::Exporter           v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::Factory            v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::Interface::Includeable v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::Interface::Plugin  v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::Iterator           v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::Link               v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::LinkIterator       v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::Metadata           v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::Migration          v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::MultiIterator      v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
 Data::TagDB::Plugin::Gamebook    v0.2.0  L/LI/LION/Data-TagDB-Plugin-Gamebook-v0.02.tar.gz
 Data::TagDB::Plugin::Gamebook::Exit v0.2.0  L/LI/LION/Data-TagDB-Plugin-Gamebook-v0.02.tar.gz
-Data::TagDB::Relation           v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::Tag                v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::WeakBaseObject     v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
-Data::TagDB::WellKnown          v0.15.0  L/LI/LION/Data-TagDB-v0.15.tar.gz
+Data::TagDB::Relation           v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::Tag                v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::WeakBaseObject     v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
+Data::TagDB::WellKnown          v0.16.0  L/LI/LION/Data-TagDB-v0.16.tar.gz
 Data::TagHive                     0.005  R/RJ/RJBS/Data-TagHive-0.005.tar.gz
 Data::TagListMatcher             v0.2.0  L/LI/LION/Data-TagListMatcher-v0.02.tar.gz
 Data::TagMap                     v0.3.0  L/LI/LION/Data-TagMap-v0.03.tar.gz
