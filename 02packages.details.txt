@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264333
-Last-Updated: Sat, 21 Nov 2026 23:41:01 GMT
+Line-Count:   264373
+Last-Updated: Sat, 21 Nov 2026 23:54:32 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -200231,6 +200231,46 @@ Prospect::ThreadSummary            1.14  R/RE/REECE/Prospect-0.92.tar.gz
 Prospect::utilities                1.09  R/RE/REECE/Prospect-0.92.tar.gz
 Protect::Unwind                   0.300  F/FR/FRACTAL/Protect-Unwind-0.300.tar.gz
 protected                          0.04  M/MS/MSCHWERN/Class-Fields-0.204.tar.gz
+Protobuf                           0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Arena                    0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::ClassGenerator          undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Descriptor::Base::PurePerl 0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Descriptor::Enum         0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Descriptor::EnumDef::PurePerl 0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Descriptor::EnumValue    0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Descriptor::EnumValueDef::PurePerl 0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Descriptor::Field        0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Descriptor::FieldDef::PurePerl 0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Descriptor::File         0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Descriptor::File::PurePerl 0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Descriptor::MessageDef   0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Descriptor::MessageDef::PurePerl 0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Descriptor::OneofDef     0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Descriptor::OneofDef::PurePerl 0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::DescriptorPool           0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::DescriptorPool::PurePerl undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Engine                  undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Engine::PurePerl        undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Engine::PurePerl::DescriptorParser undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Engine::XS              undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Internal                 0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Internal::Map            0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Internal::Map::Public    0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Internal::MapIterator    0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Internal::Proxy         undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Internal::Repeated       0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Internal::Repeated::Public 0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Internal::Repeated::PurePerl 0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::Message                  0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::UnknownFieldSet          0.13  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::WKT                     undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::WKT::Any                undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::WKT::Duration           undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::WKT::FieldMask          undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::WKT::ListValue          undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::WKT::Struct             undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::WKT::Timestamp          undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
+Protobuf::WKT::Value              undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.13.tar.gz
 Protobuf_test_messages::Proto2::TestMessagesProto2 0.01  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.09.tar.gz
 Protobuf_test_messages::Proto2::TestMessagesProto2::Types undef  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.09.tar.gz
 Protobuf_test_messages::Proto3::TestMessagesProto3 0.01  C/CJ/CJCOLLIER/Google-Cloud/Protobuf-0.09.tar.gz
