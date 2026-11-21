@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264315
-Last-Updated: Sat, 21 Nov 2026 16:54:27 GMT
+Last-Updated: Sat, 21 Nov 2026 17:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -11390,10 +11390,10 @@ App::Greple::ical                  1.00  U/UT/UTASHIRO/App-Greple-ical-1.00.tar.
 App::Greple::jq                    0.06  U/UT/UTASHIRO/App-Greple-jq-0.06.tar.gz
 App::Greple::L                     1.01  U/UT/UTASHIRO/App-Greple-L-1.01.tar.gz
 App::Greple::line                 undef  U/UT/UTASHIRO/App-Greple-9.23.tar.gz
-App::Greple::md                    1.23  U/UT/UTASHIRO/App-mdee-1.23.tar.gz
-App::Greple::md::Blocks            1.23  U/UT/UTASHIRO/App-mdee-1.23.tar.gz
-App::Greple::md::Step             undef  U/UT/UTASHIRO/App-mdee-1.23.tar.gz
-App::Greple::md::widen             1.23  U/UT/UTASHIRO/App-mdee-1.23.tar.gz
+App::Greple::md                    1.24  U/UT/UTASHIRO/App-mdee-1.24.tar.gz
+App::Greple::md::Blocks            1.24  U/UT/UTASHIRO/App-mdee-1.24.tar.gz
+App::Greple::md::Step             undef  U/UT/UTASHIRO/App-mdee-1.24.tar.gz
+App::Greple::md::widen             1.24  U/UT/UTASHIRO/App-mdee-1.24.tar.gz
 App::Greple::msdoc                 1.07  U/UT/UTASHIRO/App-Greple-msdoc-1.07.tar.gz
 App::Greple::NumberUtil           undef  U/UT/UTASHIRO/App-Greple-8.3203.tar.gz
 App::Greple::Pattern              undef  U/UT/UTASHIRO/App-Greple-10.05.tar.gz
@@ -12543,7 +12543,7 @@ App::MCP::CLI::Command::servers  v0.0.1  M/MA/MANWAR/App-MCP-CLI-v0.0.1.tar.gz
 App::MCP::CLI::Command::version  v0.0.1  M/MA/MANWAR/App-MCP-CLI-v0.0.1.tar.gz
 App::MCP::CLI::Config            v0.0.1  M/MA/MANWAR/App-MCP-CLI-v0.0.1.tar.gz
 App::md2html                   0.001001  C/CR/CRABAPP/App-md2html-0.01.1.tar.gz
-App::mdee                          1.23  U/UT/UTASHIRO/App-mdee-1.23.tar.gz
+App::mdee                          1.24  U/UT/UTASHIRO/App-mdee-1.24.tar.gz
 App::MechaCPAN                     0.32  A/AT/ATRODO/App-MechaCPAN-0.32.tar.gz
 App::MechaCPAN::Deploy            undef  A/AT/ATRODO/App-MechaCPAN-0.32.tar.gz
 App::MechaCPAN::Install           undef  A/AT/ATRODO/App-MechaCPAN-0.32.tar.gz
@@ -232415,9 +232415,9 @@ Text::AutoLink::Plugin::CPAN      undef  D/DM/DMAKI/Text-AutoLink-0.04000.tar.gz
 Text::AutoLink::Plugin::FTP       undef  D/DM/DMAKI/Text-AutoLink-0.04000.tar.gz
 Text::AutoLink::Plugin::HTTP      undef  D/DM/DMAKI/Text-AutoLink-0.04000.tar.gz
 Text::AutoLink::Plugin::Mailto    undef  D/DM/DMAKI/Text-AutoLink-0.04000.tar.gz
-Text::Balanced                     2.07  S/SH/SHAY/Text-Balanced-2.07.tar.gz
-Text::Balanced::ErrorMsg           2.07  S/SH/SHAY/Text-Balanced-2.07.tar.gz
-Text::Balanced::Extractor          2.07  S/SH/SHAY/Text-Balanced-2.07.tar.gz
+Text::Balanced                     2.08  S/SH/SHAY/Text-Balanced-2.08.tar.gz
+Text::Balanced::ErrorMsg           2.08  S/SH/SHAY/Text-Balanced-2.08.tar.gz
+Text::Balanced::Extractor          2.08  S/SH/SHAY/Text-Balanced-2.08.tar.gz
 Text::Balanced::Marpa              1.08  R/RS/RSAVAGE/Text-Balanced-Marpa-1.08.tgz
 Text::Banner                       2.01  G/GS/GSULLIVAN/Text-Banner-2.01.tar.gz
 Text::BarGraph                      1.1  K/KB/KBAUCOM/Text-BarGraph-1.1.tar.gz
@@ -251250,16 +251250,16 @@ WebService::Mocean::Report         0.05  K/KI/KIANMENG/WebService-Mocean-0.05.ta
 WebService::Mocean::Sms            0.05  K/KI/KIANMENG/WebService-Mocean-0.05.tar.gz
 WebService::MODIS                   2.0  S/ST/STEINKAMP/WebService-MODIS-2.0.tar.gz
 WebService::Mojang::Minecraft::UUIDLookup 0.05  B/BI/BIGPRESH/WebService-Mojang-Minecraft-UUIDLookup-0.05.tar.gz
-WebService::Moodle::Simple         0.06  I/IL/ILLY/WebService-Moodle-Simple-0.06.tar.gz
-WebService::Moodle::Simple::CLI    0.06  I/IL/ILLY/WebService-Moodle-Simple-0.06.tar.gz
-WebService::Moodle::Simple::CLI::add_user 0.06  I/IL/ILLY/WebService-Moodle-Simple-0.06.tar.gz
-WebService::Moodle::Simple::CLI::check_password 0.06  I/IL/ILLY/WebService-Moodle-Simple-0.06.tar.gz
-WebService::Moodle::Simple::CLI::enrol 0.06  I/IL/ILLY/WebService-Moodle-Simple-0.06.tar.gz
-WebService::Moodle::Simple::CLI::get_user 0.06  I/IL/ILLY/WebService-Moodle-Simple-0.06.tar.gz
+WebService::Moodle::Simple         0.07  I/IL/ILLY/WebService-Moodle-Simple-0.07.tar.gz
+WebService::Moodle::Simple::CLI    0.07  I/IL/ILLY/WebService-Moodle-Simple-0.07.tar.gz
+WebService::Moodle::Simple::CLI::add_user 0.07  I/IL/ILLY/WebService-Moodle-Simple-0.07.tar.gz
+WebService::Moodle::Simple::CLI::check_password 0.07  I/IL/ILLY/WebService-Moodle-Simple-0.07.tar.gz
+WebService::Moodle::Simple::CLI::enrol 0.07  I/IL/ILLY/WebService-Moodle-Simple-0.07.tar.gz
+WebService::Moodle::Simple::CLI::get_user 0.07  I/IL/ILLY/WebService-Moodle-Simple-0.07.tar.gz
 WebService::Moodle::Simple::CLI::get_users undef  I/IL/ILLY/WebService-Moodle-Simple-0.05.tar.gz
 WebService::Moodle::Simple::CLI::login undef  I/IL/ILLY/WebService-Moodle-Simple-0.05.tar.gz
-WebService::Moodle::Simple::CLI::set_password 0.06  I/IL/ILLY/WebService-Moodle-Simple-0.06.tar.gz
-WebService::Moodle::Simple::CLI::suspend 0.06  I/IL/ILLY/WebService-Moodle-Simple-0.06.tar.gz
+WebService::Moodle::Simple::CLI::set_password 0.07  I/IL/ILLY/WebService-Moodle-Simple-0.07.tar.gz
+WebService::Moodle::Simple::CLI::suspend 0.07  I/IL/ILLY/WebService-Moodle-Simple-0.07.tar.gz
 WebService::MorphIO                0.04  S/SK/SKIM/WebService-MorphIO-0.04.tar.gz
 WebService::MoviePosterDB          0.18  C/CJ/CJK/WebService-MoviePosterDB-0.18.tar.gz
 WebService::MoviePosterDB::Movie   0.18  C/CJ/CJK/WebService-MoviePosterDB-0.18.tar.gz
