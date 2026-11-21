@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671918
+Line-Count:  671934
 Written-By:  PAUSE version 1.005
-Date:        Sat, 21 Nov 2026 21:41:09 GMT
+Date:        Sat, 21 Nov 2026 21:55:48 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -379546,6 +379546,22 @@ Mogstored::SideChannelListener,DORMANDO,c
 Mogstored::TaskQueue,BRADFITZ,f
 Mogstored::TaskQueue,DORMANDO,c
 MogstoredHandle,DORMANDO,f
+Mogura,VSN,f
+Mogura::Protocol,VSN,f
+Mogura::ResultStream,VSN,f
+Mogura::Scanner,VSN,f
+Mogura::Scanner::Client,VSN,f
+Mogura::Scanner::Command,VSN,f
+Mogura::Scanner::Config,VSN,f
+Mogura::Scanner::Disk,VSN,f
+Mogura::Scanner::Scan,VSN,f
+Mogura::Scanner::Spool,VSN,f
+Mogura::Server,VSN,f
+Mogura::Server::API,VSN,f
+Mogura::Server::I18N,VSN,f
+Mogura::Server::Results,VSN,f
+Mogura::Server::Store,VSN,f
+Mogura::Server::Tags,VSN,f
 Mojar,NICZERO,f
 Mojar::Auth::Jwt,NICZERO,f
 Mojar::Cache,NICZERO,f

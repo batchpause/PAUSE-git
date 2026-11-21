@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264316
-Last-Updated: Sat, 21 Nov 2026 21:41:02 GMT
+Line-Count:   264332
+Last-Updated: Sat, 21 Nov 2026 21:54:38 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -136016,6 +136016,22 @@ Mogstored::HTTPServer::Perlbal    undef  D/DO/DORMANDO/MogileFS-Server-2.73.tar.
 Mogstored::SideChannelClient      undef  D/DO/DORMANDO/MogileFS-Server-2.73.tar.gz
 Mogstored::SideChannelListener    undef  D/DO/DORMANDO/MogileFS-Server-2.73.tar.gz
 Mogstored::TaskQueue              undef  D/DO/DORMANDO/MogileFS-Server-2.73.tar.gz
+Mogura                             0.01  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Protocol                  undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::ResultStream              undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Scanner                   undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Scanner::Client           undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Scanner::Command          undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Scanner::Config           undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Scanner::Disk             undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Scanner::Scan             undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Scanner::Spool            undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Server                    undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Server::API               undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Server::I18N              undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Server::Results           undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Server::Store             undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura::Server::Tags              undef  V/VS/VSN/Mogura-0.01.tar.gz
 Mojar                             2.201  N/NI/NICZERO/Mojar-2.201.tar.gz
 Mojar::Auth::Jwt                  0.032  N/NI/NICZERO/Mojar-Google-Analytics-1.112.tar.gz
 Mojar::Cache                      undef  N/NI/NICZERO/Mojar-2.201.tar.gz
