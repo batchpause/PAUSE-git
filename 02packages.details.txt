@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264311
-Last-Updated: Sat, 21 Nov 2026 03:54:03 GMT
+Last-Updated: Sat, 21 Nov 2026 04:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -105670,13 +105670,13 @@ HTTP::AnyUA::Middleware::RequestHeaders 0.904  C/CC/CCM/HTTP-AnyUA-0.904.tar.gz
 HTTP::AnyUA::Middleware::Runtime  0.904  C/CC/CCM/HTTP-AnyUA-0.904.tar.gz
 HTTP::AnyUA::Util                 0.904  C/CC/CCM/HTTP-AnyUA-0.904.tar.gz
 HTTP::API::Client                  1.26  M/MI/MICVU/HTTP-API-Client-1.26.tar.gz
-HTTP::API::Core                    1.10  S/SH/SHINGO/HTTP-API-Core-1.10.tar.gz
-HTTP::API::Core::Auth             undef  S/SH/SHINGO/HTTP-API-Core-1.10.tar.gz
-HTTP::API::Core::Error            undef  S/SH/SHINGO/HTTP-API-Core-1.10.tar.gz
-HTTP::API::Core::Form             undef  S/SH/SHINGO/HTTP-API-Core-1.10.tar.gz
-HTTP::API::Core::Pagination       undef  S/SH/SHINGO/HTTP-API-Core-1.10.tar.gz
-HTTP::API::Core::RateLimit        undef  S/SH/SHINGO/HTTP-API-Core-1.10.tar.gz
-HTTP::API::Core::Response         undef  S/SH/SHINGO/HTTP-API-Core-1.10.tar.gz
+HTTP::API::Core                    1.11  S/SH/SHINGO/HTTP-API-Core-1.11.tar.gz
+HTTP::API::Core::Auth             undef  S/SH/SHINGO/HTTP-API-Core-1.11.tar.gz
+HTTP::API::Core::Error            undef  S/SH/SHINGO/HTTP-API-Core-1.11.tar.gz
+HTTP::API::Core::Form             undef  S/SH/SHINGO/HTTP-API-Core-1.11.tar.gz
+HTTP::API::Core::Pagination       undef  S/SH/SHINGO/HTTP-API-Core-1.11.tar.gz
+HTTP::API::Core::RateLimit        undef  S/SH/SHINGO/HTTP-API-Core-1.11.tar.gz
+HTTP::API::Core::Response         undef  S/SH/SHINGO/HTTP-API-Core-1.11.tar.gz
 HTTP::API::DataTypeMarker          1.26  M/MI/MICVU/HTTP-API-Client-1.26.tar.gz
 HTTP::AppServer                    0.04  K/KI/KITOMER/HTTP-AppServer-0.04.tar.gz
 HTTP::AppServer::Base              0.01  K/KI/KITOMER/HTTP-AppServer-0.04.tar.gz
