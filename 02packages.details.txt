@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264311
-Last-Updated: Sat, 21 Nov 2026 07:06:00 GMT
+Line-Count:   264312
+Last-Updated: Sat, 21 Nov 2026 10:53:57 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -228953,7 +228953,8 @@ Tesla::API                         1.02  S/ST/STEVEB/Tesla-API-1.02.tar.gz
 Tesla::Vehicle                     0.08  S/ST/STEVEB/Tesla-Vehicle-0.08.tar.gz
 Test                               1.26  J/JE/JESSE/Test-1.26.tar.gz
 Test2                          1.302226  E/EX/EXODIST/Test-Simple-1.302226.tar.gz
-Test2::Aggregate                   0.17  D/DK/DKECHAG/Test2-Aggregate-0.17.tar.gz
+Test2::Aggregate                   1.00  D/DK/DKECHAG/Test2-Aggregate-1.00.tar.gz
+Test2::Aggregate::Helper           1.00  D/DK/DKECHAG/Test2-Aggregate-1.00.tar.gz
 Test2::API                     1.302226  E/EX/EXODIST/Test-Simple-1.302226.tar.gz
 Test2::API::Breakage           1.302226  E/EX/EXODIST/Test-Simple-1.302226.tar.gz
 Test2::API::Context            1.302226  E/EX/EXODIST/Test-Simple-1.302226.tar.gz
