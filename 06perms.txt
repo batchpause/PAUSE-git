@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671894
+Line-Count:  671907
 Written-By:  PAUSE version 1.005
-Date:        Sat, 21 Nov 2026 01:18:16 GMT
+Date:        Sat, 21 Nov 2026 03:55:16 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -587205,29 +587205,38 @@ Skeletor::Template::Quick,MSCHILLI,f
 SkewHeap,JEFFOBER,f
 SkewHeap::PP,JEFFOBER,f
 Skilletor,GETTY,f
+Skilletor::AgentsMD,GETTY,f
 Skilletor::Apply,GETTY,f
 Skilletor::Backend,GETTY,f
 Skilletor::Briefing,GETTY,f
 Skilletor::Bundles,GETTY,f
+Skilletor::CLI,GETTY,f
 Skilletor::Cache,GETTY,f
 Skilletor::Catalog,GETTY,f
 Skilletor::ClaudeSettings,GETTY,f
+Skilletor::Commands,GETTY,f
 Skilletor::Config,GETTY,f
+Skilletor::Convert,GETTY,f
 Skilletor::Engine,GETTY,f
 Skilletor::Entry,GETTY,f
 Skilletor::Error,GETTY,f
 Skilletor::Error::Ambiguous,GETTY,f
 Skilletor::Error::Apply,GETTY,f
+Skilletor::Error::Block,GETTY,f
 Skilletor::Error::Bundle,GETTY,f
 Skilletor::Error::CacheRejected,GETTY,f
 Skilletor::Error::Catalog,GETTY,f
+Skilletor::Error::Command,GETTY,f
 Skilletor::Error::Config,GETTY,f
+Skilletor::Error::Convert,GETTY,f
 Skilletor::Error::Frontmatter,GETTY,f
 Skilletor::Error::JSON,GETTY,f
 Skilletor::Error::Lock,GETTY,f
 Skilletor::Error::LockTimeout,GETTY,f
+Skilletor::Error::Render,GETTY,f
 Skilletor::Error::Source,GETTY,f
 Skilletor::Error::Spec,GETTY,f
+Skilletor::Error::TOML,GETTY,f
 Skilletor::Error::Tar,GETTY,f
 Skilletor::Error::Target,GETTY,f
 Skilletor::Error::Unsupported,GETTY,f
@@ -587237,12 +587246,15 @@ Skilletor::Frontmatter::Float,GETTY,f
 Skilletor::GitEnv,GETTY,f
 Skilletor::Gitignore,GETTY,f
 Skilletor::Gzip,GETTY,f
+Skilletor::Hooks,GETTY,f
 Skilletor::JSON,GETTY,f
 Skilletor::JSON::OrderedHash,GETTY,f
 Skilletor::JSString,GETTY,f
 Skilletor::Lock,GETTY,f
+Skilletor::Probe,GETTY,f
 Skilletor::Process,GETTY,f
 Skilletor::Render,GETTY,f
+Skilletor::Render::Loader,GETTY,f
 Skilletor::Report,GETTY,f
 Skilletor::Resolver,GETTY,f
 Skilletor::Role::Source,GETTY,f
@@ -587251,6 +587263,7 @@ Skilletor::Source::Local,GETTY,f
 Skilletor::Source::Url,GETTY,f
 Skilletor::Spec,GETTY,f
 Skilletor::State,GETTY,f
+Skilletor::TOML,GETTY,f
 Skilletor::Tar,GETTY,f
 Skilletor::Targets,GETTY,f
 Skilletor::URL,GETTY,f
