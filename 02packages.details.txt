@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264312
-Last-Updated: Sat, 21 Nov 2026 10:53:57 GMT
+Line-Count:   264315
+Last-Updated: Sat, 21 Nov 2026 13:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -45218,8 +45218,8 @@ Class::EHierarchy                  2.01  C/CO/CORLISS/Class-EHierarchy/Class-EHi
 Class::Entity                       0.5  P/PN/PNEWMAN/Class-Entity-0.5.tar.gz
 Class::Enum                        0.05  K/KI/KISEKI/Class-Enum-0.05.tar.gz
 Class::Enumemon                    0.01  P/PO/POKUTUNA/Class-Enumemon-0.01.tar.gz
-Class::Enumeration               v1.3.1  S/SV/SVW/Class-Enumeration-v1.3.1.tar.gz
-Class::Enumeration::Builder      v1.3.1  S/SV/SVW/Class-Enumeration-v1.3.1.tar.gz
+Class::Enumeration               v1.3.2  S/SV/SVW/Class-Enumeration-v1.3.2.tar.gz
+Class::Enumeration::Builder      v1.3.2  S/SV/SVW/Class-Enumeration-v1.3.2.tar.gz
 Class::Error                       2.41  S/SK/SKNPP/OOTools-2.41.tar.gz
 Class::ErrorHandler                0.04  T/TO/TOKUHIROM/Class-ErrorHandler-0.04.tar.gz
 Class::Exception               0.001002  J/JD/JDEGUEST/Class-Generic-v0.1.1.tar.gz
@@ -86393,7 +86393,10 @@ Geo::Postcode                      0.17  L/LL/LLAP/Geo-Postcode-0.17.tar.gz
 Geo::Postcode::Location            0.12  L/LL/LLAP/Geo-Postcode-0.17.tar.gz
 Geo::Postcodes                     0.32  A/AR/ARNE/Geo-Postcodes-0.32.tar.gz
 Geo::Postcodes::DK                 0.32  A/AR/ARNE/Geo-Postcodes-DK-0.32.tar.gz
-Geo::Postcodes::NO                 0.31  A/AR/ARNE/Geo-Postcodes-NO-0.31.tar.gz
+Geo::Postcodes::NO                 1.00  A/AR/ARNE/Geo-Postcodes-NO-1.00.tar.gz
+Geo::Postcodes::NO::Check          1.00  A/AR/ARNE/Geo-Postcodes-NO-1.00.tar.gz
+Geo::Postcodes::NO::Selection     undef  A/AR/ARNE/Geo-Postcodes-NO-1.00.tar.gz
+Geo::Postcodes::NO::Tutorial      undef  A/AR/ARNE/Geo-Postcodes-NO-1.00.tar.gz
 Geo::Postcodes::Update            0.311  A/AR/ARNE/Geo-Postcodes-0.32.tar.gz
 Geo::Privacy                       0.01  D/DW/DWRIGHT/Geo-Privacy-0.01.tar.gz
 Geo::Proj                          0.99  M/MA/MARKOV/Geo-Point-0.99.tar.gz

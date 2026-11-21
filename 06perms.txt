@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671908
+Line-Count:  671914
 Written-By:  PAUSE version 1.005
-Date:        Sat, 21 Nov 2026 10:55:09 GMT
+Date:        Sat, 21 Nov 2026 13:29:17 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -158881,6 +158881,12 @@ Geo::Postcodes::JP::Process,BKB,f
 Geo::Postcodes::JP::Update,BKB,f
 Geo::Postcodes::NO,ARNE,f
 Geo::Postcodes::NO,RUNARB,c
+Geo::Postcodes::NO::Check,ARNE,f
+Geo::Postcodes::NO::Check,RUNARB,c
+Geo::Postcodes::NO::Selection,ARNE,f
+Geo::Postcodes::NO::Selection,RUNARB,c
+Geo::Postcodes::NO::Tutorial,ARNE,f
+Geo::Postcodes::NO::Tutorial,RUNARB,c
 Geo::Postcodes::PL,BLINDLUKE,f
 Geo::Postcodes::Update,ARNE,f
 Geo::Privacy,DWRIGHT,f
