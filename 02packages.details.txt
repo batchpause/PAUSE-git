@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264396
-Last-Updated: Sun, 22 Nov 2026 16:54:23 GMT
+Last-Updated: Sun, 22 Nov 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -134474,7 +134474,7 @@ Minion::Backend::API                  1  L/LT/LTM/Minion-Backend-API-1.00.tar.gz
 Minion::Backend::Fake             undef  L/LT/LTM/Minion-Backend-API-0.03.tar.gz
 Minion::Backend::Mango             1.02  A/AV/AVKHOZOV/Minion-Backend-Mango-1.02.tar.gz
 Minion::Backend::MongoDB           1.14  E/EB/EBRUNI/Minion-Backend-MongoDB-1.14.tar.gz
-Minion::Backend::mysql            1.008  P/PR/PREACTION/Minion-Backend-mysql-1.008.tar.gz
+Minion::Backend::mysql            1.009  P/PR/PREACTION/Minion-Backend-mysql-1.009.tar.gz
 Minion::Backend::Pg               undef  S/SR/SRI/Minion-12.0.tar.gz
 Minion::Backend::Pg91              6.05  V/VI/VIKAS/Minion-Backend-Pg91-6.05.tar.gz
 Minion::Backend::Redis            0.003  D/DF/DFUG/Minion-Backend-Redis-0.003.tar.gz
