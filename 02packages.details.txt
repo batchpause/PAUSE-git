@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264373
-Last-Updated: Sun, 22 Nov 2026 02:17:02 GMT
+Last-Updated: Sun, 22 Nov 2026 02:54:36 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -248360,7 +248360,7 @@ WebService::Braintree::WebhookNotificationGateway 1.1  Z/ZA/ZARQUON/WebService-B
 WebService::Braintree::WebhookTesting 1.7  Z/ZA/ZARQUON/WebService-Braintree-1.7.tar.gz
 WebService::Braintree::WebhookTestingGateway 1.1  Z/ZA/ZARQUON/WebService-Braintree-1.1.tar.gz
 WebService::Braintree::Xml          1.1  Z/ZA/ZARQUON/WebService-Braintree-1.1.tar.gz
-WebService::Browshot           1.029000  J/JS/JSOBRIER/WebService-Browshot-1.29.0.tar.gz
+WebService::Browshot           1.032000  J/JS/JSOBRIER/WebService-Browshot-1.32.0.tar.gz
 WebService::Bugzilla              0.001  D/DJ/DJZORT/WebService-Bugzilla-0.001.tar.gz
 WebService::Bugzilla::Attachment  0.001  D/DJ/DJZORT/WebService-Bugzilla-0.001.tar.gz
 WebService::Bugzilla::Bug         0.001  D/DJ/DJZORT/WebService-Bugzilla-0.001.tar.gz
