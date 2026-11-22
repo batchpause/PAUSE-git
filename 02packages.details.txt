@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264373
-Last-Updated: Sun, 22 Nov 2026 07:17:02 GMT
+Last-Updated: Sun, 22 Nov 2026 08:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -197407,7 +197407,7 @@ Podcast::LoggerInterface           0.51  C/CD/CDAWSON/Podcast-Publisher-0.51.tar
 Podcast::Publisher                 0.51  C/CD/CDAWSON/Podcast-Publisher-0.51.tar.gz
 Podcast::UploadManager             0.51  C/CD/CDAWSON/Podcast-Publisher-0.51.tar.gz
 podlinkcheck                         15  K/KR/KRYDE/podlinkcheck-15.tar.gz
-Podlite                            1.00  Z/ZA/ZAG/Podlite-1.00.tar.gz
+Podlite                            2.00  Z/ZA/ZAG/Podlite-2.00.tar.gz
 Podman                         20220203.0  T/TS/TSCHAEFER/Podman-20220203.0.tar.gz
 Podman::Client                 20220211.0  T/TS/TSCHAEFER/Podman-20220211.0.tar.gz
 Podman::Container                 undef  T/TS/TSCHAEFER/Podman-20220211.0.tar.gz
