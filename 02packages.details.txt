@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264396
-Last-Updated: Sun, 22 Nov 2026 17:17:02 GMT
+Last-Updated: Sun, 22 Nov 2026 19:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -50185,11 +50185,11 @@ Crypt::Age                        0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
 Crypt::Age::Header                0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
 Crypt::Age::Keys                  0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
 Crypt::Age::Primitives            0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
-Crypt::Age::Simple                0.001  P/PO/POLETTIX/Crypt-Age-Simple-0.001.tar.gz
-Crypt::Age::Simple::Buffer        undef  P/PO/POLETTIX/Crypt-Age-Simple-0.001.tar.gz
-Crypt::Age::Simple::Common        0.001  P/PO/POLETTIX/Crypt-Age-Simple-0.001.tar.gz
-Crypt::Age::Simple::Decrypt       undef  P/PO/POLETTIX/Crypt-Age-Simple-0.001.tar.gz
-Crypt::Age::Simple::Encrypt       undef  P/PO/POLETTIX/Crypt-Age-Simple-0.001.tar.gz
+Crypt::Age::Simple                0.002  P/PO/POLETTIX/Crypt-Age-Simple-0.002.tar.gz
+Crypt::Age::Simple::Buffer        undef  P/PO/POLETTIX/Crypt-Age-Simple-0.002.tar.gz
+Crypt::Age::Simple::Common        0.002  P/PO/POLETTIX/Crypt-Age-Simple-0.002.tar.gz
+Crypt::Age::Simple::Decrypt       undef  P/PO/POLETTIX/Crypt-Age-Simple-0.002.tar.gz
+Crypt::Age::Simple::Encrypt       undef  P/PO/POLETTIX/Crypt-Age-Simple-0.002.tar.gz
 Crypt::Age::Stanza                0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
 Crypt::Age::Stanza::X25519        0.005  G/GE/GETTY/Crypt-Age-0.005.tar.gz
 Crypt::AllOrNothing                0.10  Z/ZA/ZANDET/Crypt-AllOrNothing-0.10.tar.gz
