@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  671934
+Line-Count:  671956
 Written-By:  PAUSE version 1.005
-Date:        Sat, 21 Nov 2026 21:55:48 GMT
+Date:        Sun, 22 Nov 2026 10:17:10 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -364721,6 +364721,20 @@ Mail::MIMEDefang,GBECHIS,f
 Mail::MIMEDefang::Actions,GBECHIS,f
 Mail::MIMEDefang::Antispam,GBECHIS,f
 Mail::MIMEDefang::Antivirus,GBECHIS,f
+Mail::MIMEDefang::Antivirus::ClamAV,GBECHIS,f
+Mail::MIMEDefang::Antivirus::Legacy::BDC,GBECHIS,f
+Mail::MIMEDefang::Antivirus::Legacy::CSAV,GBECHIS,f
+Mail::MIMEDefang::Antivirus::Legacy::CarrierScan,GBECHIS,f
+Mail::MIMEDefang::Antivirus::Legacy::FProt,GBECHIS,f
+Mail::MIMEDefang::Antivirus::Legacy::FSAV,GBECHIS,f
+Mail::MIMEDefang::Antivirus::Legacy::HBEDV,GBECHIS,f
+Mail::MIMEDefang::Antivirus::Legacy::Kaspersky,GBECHIS,f
+Mail::MIMEDefang::Antivirus::Legacy::NOD32,GBECHIS,f
+Mail::MIMEDefang::Antivirus::Legacy::NVCC,GBECHIS,f
+Mail::MIMEDefang::Antivirus::Legacy::Sophos,GBECHIS,f
+Mail::MIMEDefang::Antivirus::Legacy::Trend,GBECHIS,f
+Mail::MIMEDefang::Antivirus::Legacy::Vexira,GBECHIS,f
+Mail::MIMEDefang::Antivirus::NAI,GBECHIS,f
 Mail::MIMEDefang::Async,GBECHIS,f
 Mail::MIMEDefang::Async::Checks,GBECHIS,f
 Mail::MIMEDefang::Async::Results,GBECHIS,f
@@ -364729,12 +364743,20 @@ Mail::MIMEDefang::BIMI,GBECHIS,f
 Mail::MIMEDefang::DKIM,GBECHIS,f
 Mail::MIMEDefang::DKIM::ARC,GBECHIS,f
 Mail::MIMEDefang::MIME,GBECHIS,f
+Mail::MIMEDefang::MIME::Base64,GBECHIS,f
+Mail::MIMEDefang::MIME::Base64::Tap,GBECHIS,f
+Mail::MIMEDefang::ML,GBECHIS,f
+Mail::MIMEDefang::ML::GLiClass,GBECHIS,f
+Mail::MIMEDefang::ML::Laya,GBECHIS,f
+Mail::MIMEDefang::ML::OpenAI,GBECHIS,f
 Mail::MIMEDefang::Mail,GBECHIS,f
 Mail::MIMEDefang::Net,GBECHIS,f
+Mail::MIMEDefang::Net::CachingResolver,GBECHIS,f
 Mail::MIMEDefang::RFC2822,GBECHIS,f
 Mail::MIMEDefang::SPF,GBECHIS,f
 Mail::MIMEDefang::TLSPolicy,GBECHIS,f
 Mail::MIMEDefang::Unit,GBECHIS,f
+Mail::MIMEDefang::Unit::ChunkedIn,GBECHIS,f
 Mail::MIMEDefang::Utils,GBECHIS,f
 Mail::MXplus,SCOTTN,f
 Mail::Maildir,ZEROALTI,f
