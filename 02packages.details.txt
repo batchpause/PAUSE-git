@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264395
-Last-Updated: Sun, 22 Nov 2026 14:17:02 GMT
+Last-Updated: Sun, 22 Nov 2026 15:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -44766,7 +44766,7 @@ Clarity::XOG::Command::merge      undef  S/SC/SCHWIGON/clarity/Clarity-XOG-Merge
 Clarity::XOG::Command::selftest   undef  S/SC/SCHWIGON/clarity/Clarity-XOG-Merge-1.001.tar.gz
 Clarity::XOG::Merge               1.001  S/SC/SCHWIGON/clarity/Clarity-XOG-Merge-1.001.tar.gz
 CLASS                          1.001008  J/JD/JDEGUEST/CLASS-v1.1.8.tar.gz
-Class::Abstract                    0.03  N/NH/NHORNE/Class-Abstract-0.03.tar.gz
+Class::Abstract                    0.04  N/NH/NHORNE/Class-Abstract-0.04.tar.gz
 Class::Accessor                    0.51  K/KA/KASEI/Class-Accessor-0.51.tar.gz
 Class::Accessor::Array            0.032  P/PE/PERLANCAR/Class-Accessor-Array-0.032.tar.gz
 Class::Accessor::Array::Glob       0.01  P/PE/PERLANCAR/Class-Accessor-Array-Glob-0.01.tar.gz
@@ -136039,22 +136039,22 @@ Mogstored::HTTPServer::Perlbal    undef  D/DO/DORMANDO/MogileFS-Server-2.73.tar.
 Mogstored::SideChannelClient      undef  D/DO/DORMANDO/MogileFS-Server-2.73.tar.gz
 Mogstored::SideChannelListener    undef  D/DO/DORMANDO/MogileFS-Server-2.73.tar.gz
 Mogstored::TaskQueue              undef  D/DO/DORMANDO/MogileFS-Server-2.73.tar.gz
-Mogura                             0.01  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Protocol                  undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::ResultStream              undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Scanner                   undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Scanner::Client           undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Scanner::Command          undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Scanner::Config           undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Scanner::Disk             undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Scanner::Scan             undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Scanner::Spool            undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Server                    undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Server::API               undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Server::I18N              undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Server::Results           undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Server::Store             undef  V/VS/VSN/Mogura-0.01.tar.gz
-Mogura::Server::Tags              undef  V/VS/VSN/Mogura-0.01.tar.gz
+Mogura                             0.02  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Protocol                  undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::ResultStream              undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Scanner                   undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Scanner::Client           undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Scanner::Command          undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Scanner::Config           undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Scanner::Disk             undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Scanner::Scan             undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Scanner::Spool            undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Server                    undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Server::API               undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Server::I18N              undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Server::Results           undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Server::Store             undef  V/VS/VSN/Mogura-0.02.tar.gz
+Mogura::Server::Tags              undef  V/VS/VSN/Mogura-0.02.tar.gz
 Mojar                             2.201  N/NI/NICZERO/Mojar-2.201.tar.gz
 Mojar::Auth::Jwt                  0.032  N/NI/NICZERO/Mojar-Google-Analytics-1.112.tar.gz
 Mojar::Cache                      undef  N/NI/NICZERO/Mojar-2.201.tar.gz
