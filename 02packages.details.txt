@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264740
-Last-Updated: Mon, 23 Nov 2026 17:54:26 GMT
+Line-Count:   264739
+Last-Updated: Mon, 23 Nov 2026 18:54:41 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -47708,7 +47708,6 @@ Config::Model::BackendTrackOrder  2.169  D/DD/DDUMONT/Config-Model-2.169.tar.gz
 Config::Model::CheckList          2.169  D/DD/DDUMONT/Config-Model-2.169.tar.gz
 Config::Model::CursesUI           1.107  D/DD/DDUMONT/Config-Model-CursesUI-1.107.tar.gz
 Config::Model::CursesUI::AbortWizard undef  D/DD/DDUMONT/Config-Model-CursesUI-1.107.tar.gz
-Config::Model::DeprecatedHandle   2.150  D/DD/DDUMONT/Config-Model-2.150.tar.gz
 Config::Model::Describe           2.169  D/DD/DDUMONT/Config-Model-2.169.tar.gz
 Config::Model::DumpAsData         2.169  D/DD/DDUMONT/Config-Model-2.169.tar.gz
 Config::Model::Dumper             2.169  D/DD/DDUMONT/Config-Model-2.169.tar.gz
@@ -247944,21 +247943,21 @@ Web::Solid::Test::HTTPLists       0.021  K/KJ/KJETILK/Web-Solid-Test-0.021.tar.g
 Web::Solid::Util                  undef  H/HO/HOCHSTEN/Web-Solid-Auth-0.4.tar.gz
 Web::Util::DBIC::Paging        0.001004  W/WE/WESM/Web-Util-DBIC-Paging-0.001004.tar.gz
 Web::Util::ExtPaging           0.001003  F/FR/FREW/Web-Util-ExtPaging-0.001003.tar.gz
-Web::VWF                       0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::Allow                0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::Blacklist            0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::CAPTCHA              0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::Config               0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::Data::index          0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::Data::vwf_log        0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::Display              0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::Display::captcha     0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::Display::index       0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::Display::meta_data   0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::Display::table       0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::Mail                 0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::Throttle             0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
-Web::VWF::Utils                0.003001  N/NH/NHORNE/Web-VWF-0.003.1.tar.gz
+Web::VWF                       0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::Allow                0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::Blacklist            0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::CAPTCHA              0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::Config               0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::Data::index          0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::Data::vwf_log        0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::Display              0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::Display::captcha     0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::Display::index       0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::Display::meta_data   0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::Display::table       0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::Mail                 0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::Throttle             0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
+Web::VWF::Utils                0.004000  N/NH/NHORNE/Web-VWF-0.004.0.tar.gz
 Web::XDO                           0.11  M/MI/MIKO/Web-XDO-0.11.tar.gz
 Webalizer::Hist                    0.03  Y/YO/YORHEL/Webalizer-Hist-0.03.tar.gz
 WebAPI::DBIC                   0.004002  T/TI/TIMB/WebAPI-DBIC-0.004002.tar.gz
