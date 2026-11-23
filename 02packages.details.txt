@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264742
-Last-Updated: Mon, 23 Nov 2026 09:54:17 GMT
+Last-Updated: Mon, 23 Nov 2026 11:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -86851,7 +86851,7 @@ Getopt::LL::Simple                  1.0  A/AS/ASKSH/Getopt-LL-1.0.0.tar.gz
 Getopt::LL::SimpleExporter          1.0  A/AS/ASKSH/Getopt-LL-1.0.0.tar.gz
 Getopt::Long                       2.58  J/JV/JV/Getopt-Long-2.58.tar.gz
 Getopt::Long::Any                 0.002  P/PE/PERLANCAR/Getopt-Long-Any-0.002.tar.gz
-Getopt::Long::Bash               v1.5.0  U/UT/UTASHIRO/Getopt-Long-Bash-1.5.0.tar.gz
+Getopt::Long::Bash               v2.0.0  U/UT/UTASHIRO/Getopt-Long-Bash-2.0.0.tar.gz
 Getopt::Long::Complete            0.318  P/PE/PERLANCAR/Getopt-Long-Complete-0.318.tar.gz
 Getopt::Long::Descriptive         0.117  R/RJ/RJBS/Getopt-Long-Descriptive-0.117.tar.gz
 Getopt::Long::Descriptive::Dump   0.001  P/PE/PERLANCAR/Getopt-Long-Descriptive-Dump-0.001.tar.gz
