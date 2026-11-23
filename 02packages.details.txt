@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264742
-Last-Updated: Mon, 23 Nov 2026 14:29:02 GMT
+Last-Updated: Mon, 23 Nov 2026 15:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -222771,7 +222771,7 @@ Stats::Fermi::FermiDiracStats     undef  K/KO/KOBOLDWIZ/Perl5/Stats-Fermi-0.1.7.
 Stats::Hawking                 0.001003  K/KO/KOBOLDWIZ/Perl5/Stats-Hawking-0.1.3.tar.gz
 Stats::Hawking::HawkingTemperature undef  K/KO/KOBOLDWIZ/Perl5/Stats-Hawking-0.1.3.tar.gz
 Stats::Hawking::HTRandom          undef  K/KO/KOBOLDWIZ/Perl5/Stats-Hawking-0.1.3.tar.gz
-Stats::LikeR                     0.3428  D/DC/DCON/Stats-LikeR-0.3428.tar.gz
+Stats::LikeR                     0.3429  D/DC/DCON/Stats-LikeR-0.3429.tar.gz
 Stats::LikeR::col                  0.28  D/DC/DCON/Stats-LikeR-0.28.tar.gz
 Stats::LikeR::Pred                 0.16  D/DC/DCON/Stats-LikeR-0.16.tar.gz
 Stats::LikeR::Usage              0.3413  D/DC/DCON/Stats-LikeR-0.3413.tar.gz
@@ -247540,7 +247540,7 @@ Weather::GHCN::Station          v0.0.11  P/PU/PUCKERING/Weather-GHCN-Fetch-v0.0.
 Weather::GHCN::StationTable     v0.0.11  P/PU/PUCKERING/Weather-GHCN-Fetch-v0.0.011.tar.gz
 Weather::GHCN::TimingStats      v0.0.11  P/PU/PUCKERING/Weather-GHCN-Fetch-v0.0.011.tar.gz
 Weather::Google                    0.06  P/PO/POSSUM/Weather-Google-0.06.tar.gz
-Weather::Meteo                     0.15  N/NH/NHORNE/Weather-Meteo-0.15.tar.gz
+Weather::Meteo                     0.16  N/NH/NHORNE/Weather-Meteo-0.16.tar.gz
 Weather::MOSMIX                    0.04  C/CO/CORION/Weather-MOSMIX-0.04.tar.gz
 Weather::MOSMIX::Reader            0.04  C/CO/CORION/Weather-MOSMIX-0.04.tar.gz
 Weather::MOSMIX::Weathercodes      0.04  C/CO/CORION/Weather-MOSMIX-0.04.tar.gz
