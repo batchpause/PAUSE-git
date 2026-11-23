@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271242
-Last-Updated: Mon, 23 Nov 2026 21:54:10 GMT
+Last-Updated: Mon, 23 Nov 2026 22:54:19 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -73305,31 +73305,31 @@ Ekahau::Server::Test::Background  undef  G/GI/GIFF/Ekahau-0.001.tar.gz
 Ekahau::Server::Test::Listener    undef  G/GI/GIFF/Ekahau-0.001.tar.gz
 Ekoi8r                             1.22  I/IN/INA/KOI8R/KOI8R-1.22.tar.gz
 Ekoi8u                             1.22  I/IN/INA/KOI8U/KOI8U-1.22.tar.gz
-Ekorn::Pipeline                  v0.3.7  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Element          undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Errors           undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Factories        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Feed             undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Gather           undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Iterator         undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::JSON             undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Operators        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Operators::Chain undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Operators::Stages undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Pipes            undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Sink             undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Sink::Many       undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Sink::One        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Sinks            undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Source           undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Sources          undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Stage            undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Stages::Batch    undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Stages::Flow     undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Stages::Taps     undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Stop             undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Sugar            undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
-Ekorn::Pipeline::Tooling          undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.7.tar.gz
+Ekorn::Pipeline                  v0.3.9  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Element          undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Errors           undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Factories        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Feed             undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Gather           undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Iterator         undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::JSON             undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Operators        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Operators::Chain undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Operators::Stages undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Pipes            undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Sink             undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Sink::Many       undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Sink::One        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Sinks            undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Source           undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Sources          undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Stage            undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Stages::Batch    undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Stages::Flow     undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Stages::Taps     undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Stop             undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Sugar            undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
+Ekorn::Pipeline::Tooling          undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.9.tar.gz
 Ekps9566                           1.22  I/IN/INA/KPS9566/KPS9566-1.22.tar.gz
 Eksc5601                           1.22  I/IN/INA/KSC5601/KSC5601-1.22.tar.gz
 ELab::Client                      0.020  A/AK/AKHUETTEL/ELab-Client-0.020.tar.gz
@@ -233812,7 +233812,7 @@ Task::BeLike::CHIM::Cabinet        0.15  C/CH/CHIM/Task-BeLike-CHIM-Cabinet-0.15
 Task::BeLike::CSSON              0.0005  C/CS/CSSON/Task-BeLike-CSSON-0.0005.tar.gz
 Task::BeLike::DAGOLDEN            1.011  D/DA/DAGOLDEN/Task-BeLike-DAGOLDEN-1.011.tar.gz
 Task::BeLike::DBR                 0.023  D/DB/DBR/Task-BeLike-DBR-0.023.tar.gz
-Task::BeLike::DCANTRELL               2  D/DC/DCANTRELL/Task-BeLike-DCANTRELL-2.tar.gz
+Task::BeLike::DCANTRELL               3  D/DC/DCANTRELL/Task-BeLike-DCANTRELL-3.tar.gz
 Task::BeLike::DOY                  0.15  D/DO/DOY/Task-BeLike-DOY-0.15.tar.gz
 Task::BeLike::DRAKO               0.001  D/DR/DRAKO/Task-BeLike-DRAKO-0.001.tar.gz
 Task::BeLike::EST                  0.02  E/ES/EST/task-belike-est-0.02.tar.gz
@@ -259660,15 +259660,15 @@ Wiktionary::Parser::Section::Translations::WordSense undef  C/CL/CLBECKER/Wiktio
 Wiktionary::Parser::Section::Translations::WordSense::Lexeme undef  C/CL/CLBECKER/Wiktionary-Parser-0.11.tar.gz
 Wiktionary::Parser::Section::WikisaurusSection undef  C/CL/CLBECKER/Wiktionary-Parser-0.11.tar.gz
 Wiktionary::Parser::TemplateParser undef  C/CL/CLBECKER/Wiktionary-Parser-0.11.tar.gz
-Wildling                       2.000007  D/DO/DOTMONK/Wildling-2.0.7.tar.gz
-Wildling::Cli                     undef  D/DO/DOTMONK/Wildling-2.0.7.tar.gz
-Wildling::Client               2.000007  D/DO/DOTMONK/Wildling-2.0.7.tar.gz
-Wildling::Generator               undef  D/DO/DOTMONK/Wildling-2.0.7.tar.gz
-Wildling::Json                    undef  D/DO/DOTMONK/Wildling-2.0.7.tar.gz
-Wildling::Json::_Parser           undef  D/DO/DOTMONK/Wildling-2.0.7.tar.gz
-Wildling::Json::Bool              undef  D/DO/DOTMONK/Wildling-2.0.7.tar.gz
-Wildling::ParsePattern            undef  D/DO/DOTMONK/Wildling-2.0.7.tar.gz
-Wildling::Token                   undef  D/DO/DOTMONK/Wildling-2.0.7.tar.gz
+Wildling                       2.000008  D/DO/DOTMONK/Wildling-2.0.8.tar.gz
+Wildling::Cli                     undef  D/DO/DOTMONK/Wildling-2.0.8.tar.gz
+Wildling::Client               2.000008  D/DO/DOTMONK/Wildling-2.0.8.tar.gz
+Wildling::Generator               undef  D/DO/DOTMONK/Wildling-2.0.8.tar.gz
+Wildling::Json                    undef  D/DO/DOTMONK/Wildling-2.0.8.tar.gz
+Wildling::Json::_Parser           undef  D/DO/DOTMONK/Wildling-2.0.8.tar.gz
+Wildling::Json::Bool              undef  D/DO/DOTMONK/Wildling-2.0.8.tar.gz
+Wildling::ParsePattern            undef  D/DO/DOTMONK/Wildling-2.0.8.tar.gz
+Wildling::Token                   undef  D/DO/DOTMONK/Wildling-2.0.8.tar.gz
 Wily                               0.02  S/SH/SHOLDEN/Wily-0.02.tar.gz
 Wily::Connect                      0.01  S/SH/SHOLDEN/Wily-0.02.tar.gz
 Wily::Message                      0.01  S/SH/SHOLDEN/Wily-0.02.tar.gz
