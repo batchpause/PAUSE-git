@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264742
-Last-Updated: Mon, 23 Nov 2026 04:29:02 GMT
+Last-Updated: Mon, 23 Nov 2026 06:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -55988,8 +55988,8 @@ Data::Nest                         0.06  M/MU/MUDDYDIXN/Data-Nest-0.06.tar.gz
 Data::Nested                       3.12  S/SB/SBECK/Data-Nested-3.12.tar.gz
 Data::Nested::Multiele             3.12  S/SB/SBECK/Data-Nested-3.12.tar.gz
 Data::Nested::Multifile            3.12  S/SB/SBECK/Data-Nested-3.12.tar.gz
-Data::NestedKey                  v1.2.2  B/BI/BIGFOOT/Data-NestedKey-1.2.2.tar.gz
-Data::NestedKey::CLI                  0  B/BI/BIGFOOT/Data-NestedKey-1.2.2.tar.gz
+Data::NestedKey                   1.3.0  B/BI/BIGFOOT/Data-NestedKey-1.3.0.tar.gz
+Data::NestedKey::CLI                  0  B/BI/BIGFOOT/Data-NestedKey-1.3.0.tar.gz
 Data::NestedParams                 0.07  T/TO/TOKUHIROM/Data-NestedParams-0.07.tar.gz
 Data::NestedSet                    1.03  S/SH/SHIRIRU/Data/Data-NestedSet-1.03.tar.gz
 Data::Netflow                      0.02  F/FD/FDULAU/Data-Netflow-0.02.tar.gz
