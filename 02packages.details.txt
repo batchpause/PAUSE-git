@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264742
-Last-Updated: Mon, 23 Nov 2026 08:54:42 GMT
+Last-Updated: Mon, 23 Nov 2026 09:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -80006,8 +80006,8 @@ Fluent::LibFluentBit::Filter       0.03  N/NE/NERDVANA/Fluent-LibFluentBit-0.03.
 Fluent::LibFluentBit::Input        0.03  N/NE/NERDVANA/Fluent-LibFluentBit-0.03.tar.gz
 Fluent::LibFluentBit::Logger       0.03  N/NE/NERDVANA/Fluent-LibFluentBit-0.03.tar.gz
 Fluent::LibFluentBit::Output       0.03  N/NE/NERDVANA/Fluent-LibFluentBit-0.03.tar.gz
-Fluent::Logger                     0.29  F/FU/FUJIWARA/Fluent-Logger-0.29.tar.gz
-Fluent::Logger::UDP               undef  F/FU/FUJIWARA/Fluent-Logger-0.29.tar.gz
+Fluent::Logger                     0.30  F/FU/FUJIWARA/Fluent-Logger-0.30.tar.gz
+Fluent::Logger::UDP               undef  F/FU/FUJIWARA/Fluent-Logger-0.30.tar.gz
 Flux                               1.03  M/MM/MMCLERIC/Flux-1.03.tar.gz
 Flux::File                         1.01  M/MM/MMCLERIC/Flux-File-1.01.tar.gz
 Flux::File::Cursor                 1.01  M/MM/MMCLERIC/Flux-File-1.01.tar.gz
