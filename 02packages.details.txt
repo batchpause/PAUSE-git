@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   264742
-Last-Updated: Mon, 23 Nov 2026 16:17:02 GMT
+Line-Count:   264740
+Last-Updated: Mon, 23 Nov 2026 17:54:26 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -229339,8 +229339,6 @@ Termbox::Cell                      0.12  S/SA/SANKO/Termbox-0.12.tar.gz
 Termbox::Event                     0.12  S/SA/SANKO/Termbox-0.12.tar.gz
 Termbox::PP                    0.006001  B/BR/BRICKPOOL/Termbox-PP-v0.6.1.tar.gz
 Termbox::PP::Terminfo::Builtin 0.006001  B/BR/BRICKPOOL/Termbox-PP-v0.6.1.tar.gz
-Termbox::PP::WCWidth           0.005001  B/BR/BRICKPOOL/Termbox-PP-v0.5.1.tar.gz
-Termbox::PP::WCWidth::Tables      undef  B/BR/BRICKPOOL/Termbox-PP-v0.5.1.tar.gz
 TermC                             undef  S/SJ/SJCARBON/go-db-perl-0.04.tar.gz
 Terminal::Control                  0.19  Z/ZT/ZTENRETEP/Terminal-Control-0.19.tar.gz
 Terminal::Identify                 0.29  Z/ZT/ZTENRETEP/Terminal-Identify-0.29.tar.gz
