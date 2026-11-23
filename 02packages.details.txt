@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264742
-Last-Updated: Mon, 23 Nov 2026 04:17:03 GMT
+Last-Updated: Mon, 23 Nov 2026 04:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -54775,11 +54775,11 @@ Data::DTO::GELF                     1.7  D/DI/DIMENTOX/Log-Log4perl-Appender-Gra
 Data::DTO::GELF::Types              1.7  D/DI/DIMENTOX/Log-Log4perl-Appender-Graylog-1.7.tar.gz
 Data::DublinCore                   1.00  M/MA/MARKOV/Data-DublinCore-1.00.tar.gz
 Data::DublinCore::Util             1.00  M/MA/MARKOV/Data-DublinCore-1.00.tar.gz
-Data::Dump                         1.26  G/GA/GARU/Data-Dump-1.26.tar.gz
+Data::Dump                         1.27  G/GA/GARU/Data-Dump-1.27.tar.gz
 Data::Dump::AutoEncode             0.02  I/IS/ISHIGAKI/Data-Dump-AutoEncode-0.02.tar.gz
 Data::Dump::Color                 0.251  P/PE/PERLANCAR/Data-Dump-Color-0.251.tar.gz
-Data::Dump::FilterContext         undef  G/GA/GARU/Data-Dump-1.26.tar.gz
-Data::Dump::Filtered              undef  G/GA/GARU/Data-Dump-1.26.tar.gz
+Data::Dump::FilterContext         undef  G/GA/GARU/Data-Dump-1.27.tar.gz
+Data::Dump::Filtered              undef  G/GA/GARU/Data-Dump-1.27.tar.gz
 Data::Dump::HTML::Collapsible     0.002  P/PE/PERLANCAR/Data-Dump-HTML-Collapsible-0.002.tar.gz
 Data::Dump::HTML::PopUp           0.001  P/PE/PERLANCAR/Data-Dump-HTML-PopUp-0.001.tar.gz
 Data::Dump::IfSmall               0.001  P/PE/PERLANCAR/Data-Dump-IfSmall-0.001.tar.gz
@@ -54797,9 +54797,9 @@ Data::Dump::SkipObjects           0.001  P/PE/PERLANCAR/Data-Dump-SkipObjects-0.
 Data::Dump::SortKeys               0.04  P/PE/PERLANCAR/Data-Dump-SortKeys-0.04.tar.gz
 Data::Dump::Streamer              3.002  Y/YV/YVES/Data-Dump-Streamer-3.002.tar.gz
 Data::Dump::Streamer::Deparser    3.002  Y/YV/YVES/Data-Dump-Streamer-3.002.tar.gz
-Data::Dump::Trace                  0.02  G/GA/GARU/Data-Dump-1.26.tar.gz
-Data::Dump::Trace::Call            0.02  G/GA/GARU/Data-Dump-1.26.tar.gz
-Data::Dump::Trace::Wrapper         0.02  G/GA/GARU/Data-Dump-1.26.tar.gz
+Data::Dump::Trace                  0.02  G/GA/GARU/Data-Dump-1.27.tar.gz
+Data::Dump::Trace::Call            0.02  G/GA/GARU/Data-Dump-1.27.tar.gz
+Data::Dump::Trace::Wrapper         0.02  G/GA/GARU/Data-Dump-1.27.tar.gz
 Data::Dump::XML                    1.19  A/AP/APLA/Data-Dump-XML-1.19.tar.gz
 Data::Dump::XML::Parser            1.19  A/AP/APLA/Data-Dump-XML-1.19.tar.gz
 Data::Dumper                      2.183  N/NW/NWCLARK/Data-Dumper-2.183.tar.gz
