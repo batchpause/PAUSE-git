@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  672065
+Line-Count:  672150
 Written-By:  PAUSE version 1.005
-Date:        Mon, 23 Nov 2026 19:17:22 GMT
+Date:        Mon, 23 Nov 2026 19:29:38 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -306762,7 +306762,89 @@ Google::Ai::Generativelanguage::V1::ModelService::Types,CJCOLLIER,f
 Google::Ai::Generativelanguage::V1::ModelServiceClient,CJCOLLIER,f
 Google::Ai::Generativelanguage::V1::Safety,CJCOLLIER,f
 Google::Ai::Generativelanguage::V1::Safety::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::CacheService,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::CacheService::CacheServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::CacheService::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::CacheServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::CachedContent,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::CachedContent::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::Citation,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::Citation::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::Content,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::Content::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::DiscussService,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::DiscussService::DiscussServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::DiscussService::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::DiscussServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::File,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::File::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::FileService,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::FileService::FileServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::FileService::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::FileServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::GenerativeService,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::GenerativeService::GenerativeServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::GenerativeService::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::GenerativeServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::Model,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::Model::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::ModelService,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::ModelService::ModelServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::ModelService::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::ModelServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::Permission,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::Permission::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::PermissionService,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::PermissionService::PermissionServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::PermissionService::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::PermissionServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::PredictionService,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::PredictionService::PredictionServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::PredictionService::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::PredictionServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::Retriever,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::Retriever::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::RetrieverService,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::RetrieverService::RetrieverServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::RetrieverService::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::RetrieverServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::Safety,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::Safety::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::TextService,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::TextService::TextServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::TextService::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::TextServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::TunedModel,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1alpha::TunedModel::Types,CJCOLLIER,f
 Google::Ai::Generativelanguage::V1beta,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::Citation,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::Citation::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::DiscussService,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::DiscussService::DiscussServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::DiscussService::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::DiscussServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::Model,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::Model::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::ModelService,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::ModelService::ModelServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::ModelService::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::ModelServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::Permission,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::Permission::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::PermissionService,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::PermissionService::PermissionServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::PermissionService::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::PermissionServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::Safety,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::Safety::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::TextService,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::TextService::TextServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::TextService::Types,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::TextServiceClient,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::TunedModel,CJCOLLIER,f
+Google::Ai::Generativelanguage::V1beta3::TunedModel::Types,CJCOLLIER,f
 Google::Ai::Generativelanguage::V1beta::CacheService,CJCOLLIER,f
 Google::Ai::Generativelanguage::V1beta::CacheService::CacheServiceClient,CJCOLLIER,f
 Google::Ai::Generativelanguage::V1beta::CacheService::Types,CJCOLLIER,f
@@ -307063,6 +307145,9 @@ Google::Client::Collection,ZIALI,f
 Google::Client::Files,ZIALI,f
 Google::Client::Role::FurlAgent,ZIALI,f
 Google::Client::Role::Token,ZIALI,f
+Google::Cloud::Abuseevent::Logging::V1,CJCOLLIER,f
+Google::Cloud::Abuseevent::Logging::V1::AbuseEvent,CJCOLLIER,f
+Google::Cloud::Abuseevent::Logging::V1::AbuseEvent::Types,CJCOLLIER,f
 Google::Cloud::Bigquery::Storage::V1,CJCOLLIER,f
 Google::Cloud::Bigquery::Storage::V1::Annotations,CJCOLLIER,f
 Google::Cloud::Bigquery::Storage::V1::Annotations::Types,CJCOLLIER,f
