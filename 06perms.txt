@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  672051
+Line-Count:  672052
 Written-By:  PAUSE version 1.005
-Date:        Mon, 23 Nov 2026 01:41:49 GMT
+Date:        Mon, 23 Nov 2026 02:29:44 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -123561,6 +123561,7 @@ Database::BI::CacheDir,NHORNE,f
 Database::BI::Calc,NHORNE,f
 Database::BI::Command::password,NHORNE,f
 Database::BI::Controller::Dashboard,NHORNE,f
+Database::BI::Controller::Dashboard::StoreLock,NHORNE,f
 Database::BI::Extract,NHORNE,f
 Database::BI::I18N,NHORNE,f
 Database::BI::I18N::en_us,NHORNE,f
