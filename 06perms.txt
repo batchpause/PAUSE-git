@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  672052
+Line-Count:  672065
 Written-By:  PAUSE version 1.005
-Date:        Mon, 23 Nov 2026 02:29:44 GMT
+Date:        Mon, 23 Nov 2026 19:17:22 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -38626,6 +38626,7 @@ Backbone::Events,MAF,f
 Backed_Objects,PORTON,f
 BackgroundJob,HANJE,f
 BackgroundPositionError,NEZUMI,f
+Backstory,CJCOLLIER,f
 Backtick::AutoChomp,DAVIDRW,f
 Backticks,KILNA,f
 Backup::Duplicity::YADW,GRAVATTJ,f
@@ -306921,6 +306922,18 @@ Google::Auth::UserRefreshCredentials,CJCOLLIER,f
 Google::Auth::WebUserAuthorizer,CJCOLLIER,f
 Google::Auth::WebUserAuthorizer::CallbackApp,CJCOLLIER,f
 Google::BUCC,TQISJIM,f
+Google::Backstory::Collection,CJCOLLIER,f
+Google::Backstory::Collection::Types,CJCOLLIER,f
+Google::Backstory::DataAccess,CJCOLLIER,f
+Google::Backstory::DataAccess::Types,CJCOLLIER,f
+Google::Backstory::Entity,CJCOLLIER,f
+Google::Backstory::Entity::Types,CJCOLLIER,f
+Google::Backstory::EntityRisk,CJCOLLIER,f
+Google::Backstory::EntityRisk::Types,CJCOLLIER,f
+Google::Backstory::Id,CJCOLLIER,f
+Google::Backstory::Id::Types,CJCOLLIER,f
+Google::Backstory::Udm,CJCOLLIER,f
+Google::Backstory::Udm::Types,CJCOLLIER,f
 Google::BigQuery,TODDR,f
 Google::BigQuery::V2,TODDR,f
 Google::Calendar,TQISJIM,f
