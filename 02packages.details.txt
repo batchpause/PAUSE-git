@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264742
-Last-Updated: Mon, 23 Nov 2026 03:29:01 GMT
+Last-Updated: Mon, 23 Nov 2026 03:54:29 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -204614,10 +204614,10 @@ Redis::DistLock                    0.07  J/JA/JANUS/Redis-DistLock-0.07.tar.gz
 Redis::Dump                       0.016  T/TB/TBR/Redis-Dump-0.016.tar.gz
 Redis::Dump::Config               0.016  T/TB/TBR/Redis-Dump-0.016.tar.gz
 Redis::Dump::Restore              0.016  T/TB/TBR/Redis-Dump-0.016.tar.gz
-Redis::Fast                        0.40  S/SH/SHOGO/Redis-Fast-0.40.tar.gz
-Redis::Fast::Hash                 undef  S/SH/SHOGO/Redis-Fast-0.40.tar.gz
-Redis::Fast::List                 undef  S/SH/SHOGO/Redis-Fast-0.40.tar.gz
-Redis::Fast::Sentinel             undef  S/SH/SHOGO/Redis-Fast-0.40.tar.gz
+Redis::Fast                        0.41  S/SH/SHOGO/Redis-Fast-0.41.tar.gz
+Redis::Fast::Hash                 undef  S/SH/SHOGO/Redis-Fast-0.41.tar.gz
+Redis::Fast::List                 undef  S/SH/SHOGO/Redis-Fast-0.41.tar.gz
+Redis::Fast::Sentinel             undef  S/SH/SHOGO/Redis-Fast-0.41.tar.gz
 Redis::Handle                  0.002000  T/TR/TRON/Redis-Handle-0.2.0.tar.gz
 Redis::Hash                       2.000  D/DA/DAMS/Redis-2.000.tar.gz
 Redis::hiredis                 0.011000  N/NE/NEOPHENIX/Redis-hiredis-0.11.0.tar.gz
