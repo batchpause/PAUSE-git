@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   264742
-Last-Updated: Mon, 23 Nov 2026 15:41:02 GMT
+Last-Updated: Mon, 23 Nov 2026 16:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -77826,8 +77826,8 @@ File::Dircmp                      undef  S/SC/SCHULTE/File-Dircmp-1.30.tar.gz
 File::DirCompare                    0.7  G/GA/GAVINC/File-DirCompare-0.7.tar.gz
 File::DirList                      0.05  T/TP/TPABA/File-DirList/File-DirList-0.05.tar.gz
 File::DirSync                      1.22  B/BB/BBB/File-DirSync-1.22.tar.gz
-File::DistDir                     1.0.0  B/BI/BIGFOOT/File-DistDir-1.0.0.tar.gz
-File::DistDir::CLI                1.0.0  B/BI/BIGFOOT/File-DistDir-1.0.0.tar.gz
+File::DistDir                     1.0.1  B/BI/BIGFOOT/File-DistDir-1.0.1.tar.gz
+File::DistDir::CLI                1.0.1  B/BI/BIGFOOT/File-DistDir-1.0.1.tar.gz
 File::DosGlob                      1.12  S/SH/SHAY/perl-5.42.3.tar.gz
 File::Download                      0.3  B/BY/BYRNE/File-Download-0.3.zip
 File::Drawing                      0.01  S/SO/SOFTDIA/File-Drawing-0.01.tar.gz
