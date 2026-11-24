@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271295
-Last-Updated: Tue, 24 Nov 2026 16:41:02 GMT
+Last-Updated: Tue, 24 Nov 2026 17:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -21157,8 +21157,8 @@ AtteanX::Serializer::Turtle       0.041  G/GW/GWILLIAMS/Attean-0.041.tar.gz
 AtteanX::Serializer::TurtleTokens 0.041  G/GW/GWILLIAMS/Attean-0.041.tar.gz
 AtteanX::SPARQL::Constants        0.041  G/GW/GWILLIAMS/Attean-0.041.tar.gz
 AtteanX::SPARQL::Token            0.041  G/GW/GWILLIAMS/Attean-0.041.tar.gz
-AtteanX::Store::DBI               0.003  G/GW/GWILLIAMS/AtteanX-Store-DBI-0.003.tar.gz
-AtteanX::Store::DBI::Plan         0.003  G/GW/GWILLIAMS/AtteanX-Store-DBI-0.003.tar.gz
+AtteanX::Store::DBI               0.004  G/GW/GWILLIAMS/AtteanX-Store-DBI-0.004.tar.gz
+AtteanX::Store::DBI::Plan         0.004  G/GW/GWILLIAMS/AtteanX-Store-DBI-0.004.tar.gz
 AtteanX::Store::LDF                0.04  K/KJ/KJETILK/AtteanX-Store-LDF-0.04.tar.gz
 AtteanX::Store::LMDB              0.003  G/GW/GWILLIAMS/AtteanX-Store-LMDB-0.003.tar.gz
 AtteanX::Store::Memory            0.041  G/GW/GWILLIAMS/Attean-0.041.tar.gz
@@ -236533,7 +236533,7 @@ Test::Attean::TestSimpleQueryEvaluator 0.033  G/GW/GWILLIAMS/Attean-0.041.tar.gz
 Test::Attean::TimeCacheableQuadStore undef  G/GW/GWILLIAMS/Attean-0.041.tar.gz
 Test::Attean::TripleStore         undef  G/GW/GWILLIAMS/Attean-0.041.tar.gz
 Test::Attean::W3CManifestTestSuite undef  G/GW/GWILLIAMS/Attean-0.041.tar.gz
-Test::AtteanX::Store::DBI         undef  G/GW/GWILLIAMS/AtteanX-Store-DBI-0.003.tar.gz
+Test::AtteanX::Store::DBI         undef  G/GW/GWILLIAMS/AtteanX-Store-DBI-0.004.tar.gz
 Test::Attribute::AutoLevel         0.06  N/NE/NEKOKAK/Test-Attribute-AutoLevel-0.06.tar.gz
 Test::Auto                         0.14  A/AW/AWNCORP/Test-Auto-0.14.tar.gz
 Test::Auto::Data                   0.12  A/AW/AWNCORP/Test-Auto-0.12.tar.gz
