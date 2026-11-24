@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678646
+Line-Count:  678652
 Written-By:  PAUSE version 1.005
-Date:        Tue, 24 Nov 2026 19:42:23 GMT
+Date:        Tue, 24 Nov 2026 19:55:50 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -435935,7 +435935,8 @@ PDL::NiceSlice,KGB,c
 PDL::NiceSlice,LUKKA,c
 PDL::NiceSlice,PERLDL,c
 PDL::NiceSlice,ZMUGHAL,c
-PDL::ONNX,CJCOLLIER,f
+PDL::ONNX,ADOPTME,f
+PDL::ONNX,CJCOLLIER,c
 PDL::ONNX,ETJ,c
 PDL::ONNX,ZMUGHAL,c
 PDL::OO,ETJ,f
@@ -436413,7 +436414,8 @@ PDL::SV,SLOYD,c
 PDL::SV,ZMUGHAL,f
 PDL::SVDLIBC,MOOCOW,f
 PDL::SVDSLEPc,MOOCOW,f
-PDL::SentencePiece,CJCOLLIER,f
+PDL::SentencePiece,ADOPTME,f
+PDL::SentencePiece,CJCOLLIER,c
 PDL::SentencePiece,ETJ,c
 PDL::SentencePiece,ZMUGHAL,c
 PDL::Slatec,CSOE,c
@@ -436451,13 +436453,16 @@ PDL::Stats::TS,ZMUGHAL,c
 PDL::StringfiableExtension,ETJ,c
 PDL::StringfiableExtension,SLOYD,c
 PDL::StringfiableExtension,ZMUGHAL,f
-PDL::Tokenizers,CJCOLLIER,f
+PDL::Tokenizers,ADOPTME,f
+PDL::Tokenizers,CJCOLLIER,c
 PDL::Tokenizers,ETJ,c
 PDL::Tokenizers,ZMUGHAL,c
-PDL::Torch,CJCOLLIER,f
+PDL::Torch,ADOPTME,f
+PDL::Torch,CJCOLLIER,c
 PDL::Torch,ETJ,c
 PDL::Torch,ZMUGHAL,c
-PDL::Torch::Tensor,CJCOLLIER,f
+PDL::Torch::Tensor,ADOPTME,f
+PDL::Torch::Tensor,CJCOLLIER,c
 PDL::Torch::Tensor,ETJ,c
 PDL::Torch::Tensor,ZMUGHAL,c
 PDL::Transform,CSOE,c
@@ -437594,7 +437599,8 @@ PDL::VectorValued::Version,MOOCOW,f
 PDL::Version,ETJ,f
 PDL::Version,KGB,c
 PDL::Version,LUKKA,c
-PDL::XGBoost,CJCOLLIER,f
+PDL::XGBoost,ADOPTME,f
+PDL::XGBoost,CJCOLLIER,c
 PDL::XGBoost,ETJ,c
 PDL::XGBoost,ZMUGHAL,c
 PDLA,ETJ,f
