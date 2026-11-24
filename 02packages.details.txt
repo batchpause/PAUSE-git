@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271254
-Last-Updated: Tue, 24 Nov 2026 04:54:20 GMT
+Last-Updated: Tue, 24 Nov 2026 05:54:04 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -79477,22 +79477,22 @@ Finance::Symbology::Convention::CQS 0.2  E/EL/ELBOW/Finance-Symbology-0.4.tar.gz
 Finance::Symbology::Convention::Fidessa 0.3  E/EL/ELBOW/Finance-Symbology-0.4.tar.gz
 Finance::Symbology::Convention::NASDAQ::Integrated 0.2  E/EL/ELBOW/Finance-Symbology-0.4.tar.gz
 Finance::TA                      v0.4.3  K/KM/KMX/Finance-TA-v0.4.3.tar.gz
-Finance::Tax::Aruba               0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::BBO          0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::BBO::2020    0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::BBO::2021    0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::BBO::2022    0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::BBO::2023    0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::BBO::2024    0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::BBO::2025    0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::Income       0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::Income::2020 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::Income::2021 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::Income::2023 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::Income::2025 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::Income::2026 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::Role::BBO::TaxYear 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
-Finance::Tax::Aruba::Role::Income::TaxYear 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba               0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::BBO          0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::BBO::2020    0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::BBO::2021    0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::BBO::2022    0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::BBO::2023    0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::BBO::2024    0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::BBO::2025    0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::Income       0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::Income::2020 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::Income::2021 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::Income::2023 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::Income::2025 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::Income::2026 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::Role::BBO::TaxYear 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba::Role::Income::TaxYear 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
 Finance::TickerSymbols             3.11  J/JE/JEZRA/Finance-TickerSymbols-3.11.zip
 Finance::Tiller2QIF                1.23  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.23.tar.gz
 Finance::Tiller2QIF::DB            1.23  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.23.tar.gz
