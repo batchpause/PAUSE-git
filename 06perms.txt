@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678565
+Line-Count:  678572
 Written-By:  PAUSE version 1.005
-Date:        Tue, 24 Nov 2026 04:55:41 GMT
+Date:        Tue, 24 Nov 2026 07:18:25 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -434401,6 +434401,8 @@ PDL::Exporter,KGB,c
 PDL::Exporter,LUKKA,c
 PDL::Exporter,PERLDL,c
 PDL::Exporter,ZMUGHAL,c
+PDL::FAISS,CJCOLLIER,f
+PDL::FAISS::Index,CJCOLLIER,f
 PDL::FFT,CSOE,c
 PDL::FFT,DJERIUS,c
 PDL::FFT,ETJ,f
@@ -434506,6 +434508,7 @@ PDL::Func,PERLDL,c
 PDL::Func,ZMUGHAL,c
 PDL::FuncND,DJERIUS,f
 PDL::GA,MOOCOW,f
+PDL::GGML,CJCOLLIER,f
 PDL::GIS::Proj,CSOE,c
 PDL::GIS::Proj,DJERIUS,c
 PDL::GIS::Proj,ETJ,f
@@ -435890,6 +435893,7 @@ PDL::NiceSlice,KGB,c
 PDL::NiceSlice,LUKKA,c
 PDL::NiceSlice,PERLDL,c
 PDL::NiceSlice,ZMUGHAL,c
+PDL::ONNX,CJCOLLIER,f
 PDL::OO,ETJ,f
 PDL::OO,KGB,c
 PDL::OO,LUKKA,c
@@ -436400,6 +436404,8 @@ PDL::Stats::TS,ZMUGHAL,c
 PDL::StringfiableExtension,ETJ,c
 PDL::StringfiableExtension,SLOYD,c
 PDL::StringfiableExtension,ZMUGHAL,f
+PDL::Torch,CJCOLLIER,f
+PDL::Torch::Tensor,CJCOLLIER,f
 PDL::Transform,CSOE,c
 PDL::Transform,DJERIUS,c
 PDL::Transform,ETJ,f
@@ -437534,6 +437540,7 @@ PDL::VectorValued::Version,MOOCOW,f
 PDL::Version,ETJ,f
 PDL::Version,KGB,c
 PDL::Version,LUKKA,c
+PDL::XGBoost,CJCOLLIER,f
 PDLA,ETJ,f
 PDLA,ZMUGHAL,c
 PDLA::Bad,ETJ,f
