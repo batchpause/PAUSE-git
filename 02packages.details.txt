@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271296
-Last-Updated: Tue, 24 Nov 2026 18:41:02 GMT
+Last-Updated: Tue, 24 Nov 2026 19:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -151137,7 +151137,7 @@ Net::Async::Consul                0.003  R/RO/ROBN/Net-Async-Consul-0.003.tar.gz
 Net::Async::ControlChannel        0.005  T/TE/TEAM/Net-Async-ControlChannel-0.005.tar.gz
 Net::Async::ControlChannel::Client 0.005  T/TE/TEAM/Net-Async-ControlChannel-0.005.tar.gz
 Net::Async::ControlChannel::Server 0.005  T/TE/TEAM/Net-Async-ControlChannel-0.005.tar.gz
-Net::Async::Crawl4AI              0.001  G/GE/GETTY/Net-Async-Crawl4AI-0.001.tar.gz
+Net::Async::Crawl4AI              0.002  G/GE/GETTY/Net-Async-Crawl4AI-0.002.tar.gz
 Net::Async::DigitalOcean           0.05  D/DR/DRRHO/Net-Async-DigitalOcean-0.05.tar.gz
 Net::Async::DigitalOcean::RateLimited undef  D/DR/DRRHO/Net-Async-DigitalOcean-0.05.tar.gz
 Net::Async::EmptyPort          0.001000  F/FR/FREW/Net-Async-EmptyPort-0.001000.tar.gz
