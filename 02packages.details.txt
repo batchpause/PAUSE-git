@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271269
-Last-Updated: Tue, 24 Nov 2026 10:17:02 GMT
+Last-Updated: Tue, 24 Nov 2026 10:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -128397,13 +128397,13 @@ LiveGeez::Services                 0.20  D/DY/DYACOB/Zobel-0.20-100701.tar.gz
 LiveGeez::URI                      0.20  D/DY/DYACOB/Zobel-0.20-100701.tar.gz
 LiveGeez::WebFonts                undef  D/DY/DYACOB/Zobel-0.20-100701.tar.gz
 Livelink::DAV                    0.0013  D/DB/DBMOLESTA/Livelink-DAV-0.0013.tar.gz
-Liveman                             4.1  D/DA/DART/Liveman-4.1.tar.gz
-Liveman::App::liveman             undef  D/DA/DART/Liveman-4.1.tar.gz
-Liveman::Append                   undef  D/DA/DART/Liveman-4.1.tar.gz
-Liveman::CoverBadge               undef  D/DA/DART/Liveman-4.1.tar.gz
-Liveman::Cpanfile                 undef  D/DA/DART/Liveman-4.1.tar.gz
-Liveman::MinillaPod2Markdown      undef  D/DA/DART/Liveman-4.1.tar.gz
-Liveman::Project                  undef  D/DA/DART/Liveman-4.1.tar.gz
+Liveman                             4.2  D/DA/DART/Liveman-4.2.tar.gz
+Liveman::App::liveman             undef  D/DA/DART/Liveman-4.2.tar.gz
+Liveman::Append                   undef  D/DA/DART/Liveman-4.2.tar.gz
+Liveman::CoverBadge               undef  D/DA/DART/Liveman-4.2.tar.gz
+Liveman::Cpanfile                 undef  D/DA/DART/Liveman-4.2.tar.gz
+Liveman::MinillaPod2Markdown      undef  D/DA/DART/Liveman-4.2.tar.gz
+Liveman::Project                  undef  D/DA/DART/Liveman-4.2.tar.gz
 LIVR::Contract                     0.04  K/KO/KOORCHIK/LIVR-Contract-0.04.tar.gz
 LIVR::Contract::Exception         undef  K/KO/KOORCHIK/LIVR-Contract-0.04.tar.gz
 LJ::GetCookieSession               0.01  A/AS/ASDEEVA/LJ-GetCookieSession-0.01.tar.gz
