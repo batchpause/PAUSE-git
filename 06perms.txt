@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678641
+Line-Count:  678646
 Written-By:  PAUSE version 1.005
-Date:        Tue, 24 Nov 2026 19:29:54 GMT
+Date:        Tue, 24 Nov 2026 19:42:23 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -434400,7 +434400,8 @@ PDL::Drawing::Prima,KARASIK,f
 PDL::Drawing::Prima::Utils,DCMERTENS,c
 PDL::Drawing::Prima::Utils,ETJ,c
 PDL::Drawing::Prima::Utils,KARASIK,f
-PDL::DuckDB,CJCOLLIER,f
+PDL::DuckDB,ADOPTME,f
+PDL::DuckDB,CJCOLLIER,c
 PDL::DuckDB,ETJ,c
 PDL::DuckDB,ZMUGHAL,c
 PDL::EditDistance,MOOCOW,f
@@ -434413,10 +434414,12 @@ PDL::Exporter,KGB,c
 PDL::Exporter,LUKKA,c
 PDL::Exporter,PERLDL,c
 PDL::Exporter,ZMUGHAL,c
-PDL::FAISS,CJCOLLIER,f
+PDL::FAISS,ADOPTME,f
+PDL::FAISS,CJCOLLIER,c
 PDL::FAISS,ETJ,c
 PDL::FAISS,ZMUGHAL,c
-PDL::FAISS::Index,CJCOLLIER,f
+PDL::FAISS::Index,ADOPTME,f
+PDL::FAISS::Index,CJCOLLIER,c
 PDL::FAISS::Index,ETJ,c
 PDL::FAISS::Index,ZMUGHAL,c
 PDL::FFT,CSOE,c
@@ -434524,7 +434527,8 @@ PDL::Func,PERLDL,c
 PDL::Func,ZMUGHAL,c
 PDL::FuncND,DJERIUS,f
 PDL::GA,MOOCOW,f
-PDL::GGML,CJCOLLIER,f
+PDL::GGML,ADOPTME,f
+PDL::GGML,CJCOLLIER,c
 PDL::GGML,ETJ,c
 PDL::GGML,ZMUGHAL,c
 PDL::GIS::Proj,CSOE,c
@@ -435589,8 +435593,8 @@ PDL::Graphics::VRMLProto,PERLDL,c
 PDL::Graphics::VRMLProto,ZMUGHAL,c
 PDL::Graphics::X::Fits,HBABCOCK,f
 PDL::HMM,MOOCOW,f
-PDL::IO::Arrow,CJCOLLIER,f
-PDL::IO::Arrow,ETJ,c
+PDL::IO::Arrow,CJCOLLIER,c
+PDL::IO::Arrow,ETJ,f
 PDL::IO::Arrow,ZMUGHAL,c
 PDL::IO::BareStore,ROOTKWOK,f
 PDL::IO::Browser,CSOE,c
@@ -435650,8 +435654,8 @@ PDL::IO::GD,KGB,c
 PDL::IO::GD,LUKKA,c
 PDL::IO::GD,PERLDL,c
 PDL::IO::GD,ZMUGHAL,c
-PDL::IO::GGUF,CJCOLLIER,f
-PDL::IO::GGUF,ETJ,c
+PDL::IO::GGUF,CJCOLLIER,c
+PDL::IO::GGUF,ETJ,f
 PDL::IO::GGUF,ZMUGHAL,c
 PDL::IO::Grib,ETJ,f
 PDL::IO::Grib,JEDWARDS,c
@@ -435724,8 +435728,8 @@ PDL::IO::Pnm,KGB,c
 PDL::IO::Pnm,LUKKA,c
 PDL::IO::Pnm,PERLDL,c
 PDL::IO::Pnm,ZMUGHAL,c
-PDL::IO::Protobuf,CJCOLLIER,f
-PDL::IO::Protobuf,ETJ,c
+PDL::IO::Protobuf,CJCOLLIER,c
+PDL::IO::Protobuf,ETJ,f
 PDL::IO::Protobuf,ZMUGHAL,c
 PDL::IO::STL,CSOE,c
 PDL::IO::STL,DJERIUS,c
@@ -435734,8 +435738,8 @@ PDL::IO::STL,KGB,c
 PDL::IO::STL,LUKKA,c
 PDL::IO::STL,PERLDL,c
 PDL::IO::STL,ZMUGHAL,c
-PDL::IO::Safetensors,CJCOLLIER,f
-PDL::IO::Safetensors,ETJ,c
+PDL::IO::Safetensors,CJCOLLIER,c
+PDL::IO::Safetensors,ETJ,f
 PDL::IO::Safetensors,ZMUGHAL,c
 PDL::IO::Sereal,KMX,f
 PDL::IO::Storable,CSOE,c
@@ -435836,7 +435840,8 @@ PDL::LiteF,KGB,c
 PDL::LiteF,LUKKA,c
 PDL::LiteF,PERLDL,c
 PDL::LiteF,ZMUGHAL,c
-PDL::Llama,CJCOLLIER,f
+PDL::Llama,ADOPTME,f
+PDL::Llama,CJCOLLIER,c
 PDL::Llama,ETJ,c
 PDL::Llama,ZMUGHAL,c
 PDL::Logical,ETJ,c
@@ -435849,11 +435854,11 @@ PDL::Lvalue,KGB,c
 PDL::Lvalue,LUKKA,c
 PDL::Lvalue,PERLDL,c
 PDL::Lvalue,ZMUGHAL,c
-PDL::ML::Metrics,CJCOLLIER,f
-PDL::ML::Metrics,ETJ,c
+PDL::ML::Metrics,CJCOLLIER,c
+PDL::ML::Metrics,ETJ,f
 PDL::ML::Metrics,ZMUGHAL,c
-PDL::ML::Preprocess,CJCOLLIER,f
-PDL::ML::Preprocess,ETJ,c
+PDL::ML::Preprocess,CJCOLLIER,c
+PDL::ML::Preprocess,ETJ,f
 PDL::ML::Preprocess,ZMUGHAL,c
 PDL::Math,CSOE,c
 PDL::Math,DJERIUS,c
