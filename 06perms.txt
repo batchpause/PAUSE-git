@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678587
+Line-Count:  678605
 Written-By:  PAUSE version 1.005
-Date:        Tue, 24 Nov 2026 14:55:42 GMT
+Date:        Tue, 24 Nov 2026 15:30:28 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -553000,6 +553000,22 @@ Pod::Coverage::Moose,DROLSKY,c
 Pod::Coverage::Moose,ETHER,c
 Pod::Coverage::Moose,MMCLERIC,c
 Pod::Coverage::Moose,PHAYLON,f
+Pod::Coverage::More,TEODESIAN,f
+Pod::Coverage::More::Analyzer,TEODESIAN,f
+Pod::Coverage::More::Analyzer::Perl5_36,TEODESIAN,f
+Pod::Coverage::More::Analyzer::Perl5_38,TEODESIAN,f
+Pod::Coverage::More::Analyzer::Perl5_44,TEODESIAN,f
+Pod::Coverage::More::Blurb,TEODESIAN,f
+Pod::Coverage::More::Declared,TEODESIAN,f
+Pod::Coverage::More::Declared::ClassTiny,TEODESIAN,f
+Pod::Coverage::More::Declared::FunctionParameters,TEODESIAN,f
+Pod::Coverage::More::Declared::Kavorka,TEODESIAN,f
+Pod::Coverage::More::Declared::MOP,TEODESIAN,f
+Pod::Coverage::More::Declared::ObjectPad,TEODESIAN,f
+Pod::Coverage::More::Declared::TypeParams,TEODESIAN,f
+Pod::Coverage::More::Documentation,TEODESIAN,f
+Pod::Coverage::More::Generator,TEODESIAN,f
+Pod::Coverage::More::Types,TEODESIAN,f
 Pod::Coverage::Overloader,RCLAMP,f
 Pod::Coverage::TrustMe,HAARG,f
 Pod::Coverage::TrustMe::Parser,HAARG,f
@@ -554111,6 +554127,7 @@ Pod::Weaver::Section::Badges::PluginSearcher,CSSON,f
 Pod::Weaver::Section::Badges::Utils,CSSON,f
 Pod::Weaver::Section::BashCompletion::GetoptLongComplete,PERLANCAR,f
 Pod::Weaver::Section::BashCompletion::PerinciCmdLine,PERLANCAR,f
+Pod::Weaver::Section::Blurbs,TEODESIAN,f
 Pod::Weaver::Section::BorderStyles::ANSITable,PERLANCAR,f
 Pod::Weaver::Section::Bugs,RJBS,f
 Pod::Weaver::Section::Bugs::DefaultRT,PERLANCAR,f
@@ -616576,6 +616593,7 @@ Test::Pod,ETHER,c
 Test::Pod::Content,MKUTTER,f
 Test::Pod::Coverage,NEILB,c
 Test::Pod::Coverage,PETDANCE,f
+Test::Pod::Coverage::More,TEODESIAN,f
 Test::Pod::Coverage::Permissive,GUGU,f
 Test::Pod::Coverage::TrustMe,HAARG,f
 Test::Pod::CoverageChange,BINARY,c

@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271276
-Last-Updated: Tue, 24 Nov 2026 14:54:20 GMT
+Line-Count:   271294
+Last-Updated: Tue, 24 Nov 2026 15:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -149499,17 +149499,17 @@ Nasm::X86::Variable               undef  P/PR/PRBRENAN/Nasm-X86-20220712.tar.gz
 NativeCall                        0.006  E/ET/ETJ/NativeCall-0.006.tar.gz
 NaturalPerson                     undef  S/SA/SAMV/Tangram-2.12.tar.gz
 NavBarDD                           0.75  L/LO/LOURIDAS/Apache-NavBarDD-0.75.tar.gz
-NBI::EcoScheduler               v0.22.0  P/PR/PROCH/NBI-Slurm-0.22.0.tar.gz
-NBI::Job                        v0.22.0  P/PR/PROCH/NBI-Slurm-0.22.0.tar.gz
-NBI::Launcher                   v0.22.0  P/PR/PROCH/NBI-Slurm-0.22.0.tar.gz
-NBI::Launcher::Kraken2          v0.22.0  P/PR/PROCH/NBI-Slurm-0.22.0.tar.gz
-NBI::Launcher::RemovePrimers    v0.22.0  P/PR/PROCH/NBI-Slurm-0.22.0.tar.gz
-NBI::Manifest                   v0.22.0  P/PR/PROCH/NBI-Slurm-0.22.0.tar.gz
-NBI::Opts                       v0.22.0  P/PR/PROCH/NBI-Slurm-0.22.0.tar.gz
-NBI::Pipeline                   v0.22.0  P/PR/PROCH/NBI-Slurm-0.22.0.tar.gz
-NBI::Queue                      v0.22.0  P/PR/PROCH/NBI-Slurm-0.22.0.tar.gz
-NBI::QueuedJob                  v0.22.0  P/PR/PROCH/NBI-Slurm-0.22.0.tar.gz
-NBI::Slurm                      v0.22.0  P/PR/PROCH/NBI-Slurm-0.22.0.tar.gz
+NBI::EcoScheduler               v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
+NBI::Job                        v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
+NBI::Launcher                   v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
+NBI::Launcher::Kraken2          v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
+NBI::Launcher::RemovePrimers    v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
+NBI::Manifest                   v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
+NBI::Opts                       v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
+NBI::Pipeline                   v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
+NBI::Queue                      v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
+NBI::QueuedJob                  v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
+NBI::Slurm                      v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
 NBU                                1.42  D/DU/DUTCHMAN/NBU-0.95.tar.gz
 NBU::Class                         1.29  D/DU/DUTCHMAN/NBU-0.95.tar.gz
 NBU::Drive                         1.24  D/DU/DUTCHMAN/NBU-0.95.tar.gz
@@ -203562,6 +203562,22 @@ Pod::Coverage::Extractor           0.23  R/RC/RCLAMP/Pod-Coverage-0.23.tar.gz
 Pod::Coverage::MethodSignatures    0.02  D/DA/DAPATRICK/Pod-Coverage-MethodSignatures-0.02.tar.gz
 Pod::Coverage::Moose               0.08  E/ET/ETHER/Pod-Coverage-Moose-0.08.tar.gz
 Pod::Coverage::mop                0.002  F/FG/FGA/Pod-Coverage-mop-0.002.tar.gz
+Pod::Coverage::More               0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Analyzer     0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Analyzer::Perl5_36 0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Analyzer::Perl5_38 0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Analyzer::Perl5_44 0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Blurb        0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Declared     0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Declared::ClassTiny 0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Declared::FunctionParameters 0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Declared::Kavorka 0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Declared::MOP 0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Declared::ObjectPad 0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Declared::TypeParams 0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Documentation 0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Generator    0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
+Pod::Coverage::More::Types        0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
 Pod::Coverage::Overloader         undef  R/RC/RCLAMP/Pod-Coverage-0.23.tar.gz
 Pod::Coverage::TrustMe         0.002002  H/HA/HAARG/Pod-Coverage-TrustMe-0.002002.tar.gz
 Pod::Coverage::TrustMe::Parser 0.002002  H/HA/HAARG/Pod-Coverage-TrustMe-0.002002.tar.gz
@@ -204213,6 +204229,7 @@ Pod::Weaver::Section::Availability 1.20  D/DO/DOHERTY/Pod-Weaver-Section-Availab
 Pod::Weaver::Section::Badges     0.0402  C/CS/CSSON/Pod-Weaver-Section-Badges-0.0402.tar.gz
 Pod::Weaver::Section::Badges::PluginSearcher 0.0402  C/CS/CSSON/Pod-Weaver-Section-Badges-0.0402.tar.gz
 Pod::Weaver::Section::Badges::Utils 0.0402  C/CS/CSSON/Pod-Weaver-Section-Badges-0.0402.tar.gz
+Pod::Weaver::Section::Blurbs      0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
 Pod::Weaver::Section::BorderStyles::ANSITable 0.03  P/PE/PERLANCAR/Pod-Weaver-Section-BorderStyles-ANSITable-0.03.tar.gz
 Pod::Weaver::Section::Bugs        4.022  R/RJ/RJBS/Pod-Weaver-4.022.tar.gz
 Pod::Weaver::Section::Bugs::DefaultRT 0.06  P/PE/PERLANCAR/Pod-Weaver-Section-Bugs-DefaultRT-0.06.tar.gz
@@ -238067,6 +238084,7 @@ Test::Pockito::Moose::Role        undef  E/EX/EXUSSUM/Test-Pockito-0.02.tar.gz
 Test::Pod                          1.52  E/ET/ETHER/Test-Pod-1.52.tar.gz
 Test::Pod::Content               v0.0.6  M/MK/MKUTTER/Test-Pod-Content-v0.0.6.tar.gz
 Test::Pod::Coverage                1.10  N/NE/NEILB/Test-Pod-Coverage-1.10.tar.gz
+Test::Pod::Coverage::More         0.001  T/TE/TEODESIAN/Pod-Coverage-More-0.001.tar.gz
 Test::Pod::Coverage::Permissive    0.05  G/GU/GUGU/Test-Pod-Coverage-Permissive-0.05.tar.gz
 Test::Pod::Coverage::TrustMe   0.002002  H/HA/HAARG/Pod-Coverage-TrustMe-0.002002.tar.gz
 Test::Pod::CoverageChange         0.005  D/DE/DERIV/Test-Pod-CoverageChange-0.005.tar.gz
