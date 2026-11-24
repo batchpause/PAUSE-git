@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271274
-Last-Updated: Tue, 24 Nov 2026 14:17:02 GMT
+Last-Updated: Tue, 24 Nov 2026 14:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -68412,7 +68412,7 @@ Dist::Zilla::MintingProfile::Author::MINTLAB 0.02  W/WA/WATERKIP/Dist-Zilla-Plug
 Dist::Zilla::MintingProfile::Author::Plicease 2.81  P/PL/PLICEASE/Dist-Zilla-PluginBundle-Author-Plicease-2.81.tar.gz
 Dist::Zilla::MintingProfile::Author::RWSTAUNER 6.002  R/RW/RWSTAUNER/Dist-Zilla-PluginBundle-Author-RWSTAUNER-6.002.tar.gz
 Dist::Zilla::MintingProfile::Author::TABULO 1.000014  T/TA/TABULO/Dist-Zilla-PluginBundle-Author-TABULO-1.000014.tar.gz
-Dist::Zilla::MintingProfile::Author::WATERKIP 3.3  W/WA/WATERKIP/Dist-Zilla-PluginBundle-Author-WATERKIP-3.3.tar.gz
+Dist::Zilla::MintingProfile::Author::WATERKIP 3.4  W/WA/WATERKIP/Dist-Zilla-PluginBundle-Author-WATERKIP-3.4.tar.gz
 Dist::Zilla::MintingProfile::Author::YAKEX 0.002000  Y/YA/YAKEX/Dist-Zilla-PluginBundle-Author-YAKEX-v0.2.0.tar.gz
 Dist::Zilla::MintingProfile::Author::YANICK v0.32.2  Y/YA/YANICK/Dist-Zilla-PluginBundle-YANICK-0.32.2.tar.gz
 Dist::Zilla::MintingProfile::Catalyst 0.15  X/XE/XENO/Dist-Zilla-Plugin-Catalyst-0.15.tar.gz
@@ -69291,7 +69291,7 @@ Dist::Zilla::PluginBundle::Author::TABULO::Config 0.198  T/TA/TABULO/Dist-Zilla-
 Dist::Zilla::PluginBundle::Author::TEAM 0.005  T/TE/TEAM/Dist-Zilla-PluginBundle-Author-TEAM-0.005.tar.gz
 Dist::Zilla::PluginBundle::Author::VDB v0.11.3  V/VD/VDB/Dist-Zilla-PluginBundle-Author-VDB-v0.11.3.tar.gz
 Dist::Zilla::PluginBundle::Author::VNEALV 0.003  V/VN/VNEALV/Dist-Zilla-PluginBundle-Author-VNEALV-0.003.tar.gz
-Dist::Zilla::PluginBundle::Author::WATERKIP 3.3  W/WA/WATERKIP/Dist-Zilla-PluginBundle-Author-WATERKIP-3.3.tar.gz
+Dist::Zilla::PluginBundle::Author::WATERKIP 3.4  W/WA/WATERKIP/Dist-Zilla-PluginBundle-Author-WATERKIP-3.4.tar.gz
 Dist::Zilla::PluginBundle::Author::WOLVERIAN 0.000008  W/WO/WOLVERIAN/Dist-Zilla-PluginBundle-Author-WOLVERIAN-v0.0.8.tar.gz
 Dist::Zilla::PluginBundle::Author::XENO 0.001007  X/XE/XENO/Dist-Zilla-PluginBundle-Author-XENO-0.001007.tar.gz
 Dist::Zilla::PluginBundle::Author::YAKEX 0.002000  Y/YA/YAKEX/Dist-Zilla-PluginBundle-Author-YAKEX-v0.2.0.tar.gz
