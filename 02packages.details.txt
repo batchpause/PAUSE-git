@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271254
-Last-Updated: Tue, 24 Nov 2026 05:54:04 GMT
+Last-Updated: Tue, 24 Nov 2026 06:54:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4424,7 +4424,7 @@ Alien::hdt_cpp                     0.01  Z/ZM/ZMUGHAL/Alien-hdt_cpp-0.01.tar.gz
 Alien::hdt_java                    0.01  Z/ZM/ZMUGHAL/Alien-hdt_java-0.01.tar.gz
 Alien::help2man                    0.01  P/PL/PLICEASE/Alien-help2man-0.01.tar.gz
 Alien::HIDAPI                      0.10  A/AT/ATHREEF/Alien-HIDAPI-0.10.tar.gz
-Alien::hiredis                    0.018  D/DB/DBOOK/Alien-hiredis-0.018.tar.gz
+Alien::hiredis                    0.019  D/DB/DBOOK/Alien-hiredis-0.019.tar.gz
 Alien::Hunspell                    0.17  P/PL/PLICEASE/Alien-Hunspell-0.17.tar.gz
 Alien::Hush                      0.8888  L/LE/LETO/Alien-Hush-0.8889.tar.gz
 Alien::Iconv                    1.12001  D/DM/DMAKI/Alien-Iconv-1.12001.tar.gz
