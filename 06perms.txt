@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678553
+Line-Count:  678565
 Written-By:  PAUSE version 1.005
-Date:        Mon, 23 Nov 2026 21:30:05 GMT
+Date:        Tue, 24 Nov 2026 04:55:41 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -147391,11 +147391,20 @@ Finance::TW::TAIFEX::Settlement::SecondWednesday,CLKAO,f
 Finance::TW::TAIFEX::Settlement::ThirdWednesday,CLKAO,f
 Finance::TW::TSEQuote,CLKAO,f
 Finance::Tax::Aruba,WATERKIP,f
+Finance::Tax::Aruba::BBO,WATERKIP,f
+Finance::Tax::Aruba::BBO::2020,WATERKIP,f
+Finance::Tax::Aruba::BBO::2021,WATERKIP,f
+Finance::Tax::Aruba::BBO::2022,WATERKIP,f
+Finance::Tax::Aruba::BBO::2023,WATERKIP,f
+Finance::Tax::Aruba::BBO::2024,WATERKIP,f
+Finance::Tax::Aruba::BBO::2025,WATERKIP,f
 Finance::Tax::Aruba::Income,WATERKIP,f
 Finance::Tax::Aruba::Income::2020,WATERKIP,f
 Finance::Tax::Aruba::Income::2021,WATERKIP,f
 Finance::Tax::Aruba::Income::2023,WATERKIP,f
 Finance::Tax::Aruba::Income::2025,WATERKIP,f
+Finance::Tax::Aruba::Income::2026,WATERKIP,f
+Finance::Tax::Aruba::Role::BBO::TaxYear,WATERKIP,f
 Finance::Tax::Aruba::Role::Income::TaxYear,WATERKIP,f
 Finance::TechnicalAnalysis,REDOX,f
 Finance::TickerSymbols,JEZRA,f
@@ -314593,6 +314602,7 @@ Google::gRPC::Engine,CJCOLLIER,f
 Google::gRPC::Engine::NGHTTP2,CJCOLLIER,f
 Google::gRPC::Engine::PP,CJCOLLIER,f
 Google::gRPC::Framing,CJCOLLIER,f
+Google::gRPC::Server,CJCOLLIER,f
 Google::gRPC::Status,CJCOLLIER,f
 Google::gRPC::Stream,CJCOLLIER,f
 Google::reCAPTCHA,TCORKRAN,f
@@ -435558,6 +435568,7 @@ PDL::Graphics::VRMLProto,PERLDL,c
 PDL::Graphics::VRMLProto,ZMUGHAL,c
 PDL::Graphics::X::Fits,HBABCOCK,f
 PDL::HMM,MOOCOW,f
+PDL::IO::Arrow,CJCOLLIER,f
 PDL::IO::BareStore,ROOTKWOK,f
 PDL::IO::Browser,CSOE,c
 PDL::IO::Browser,DJERIUS,c
@@ -435687,6 +435698,7 @@ PDL::IO::Pnm,KGB,c
 PDL::IO::Pnm,LUKKA,c
 PDL::IO::Pnm,PERLDL,c
 PDL::IO::Pnm,ZMUGHAL,c
+PDL::IO::Protobuf,CJCOLLIER,f
 PDL::IO::STL,CSOE,c
 PDL::IO::STL,DJERIUS,c
 PDL::IO::STL,ETJ,f

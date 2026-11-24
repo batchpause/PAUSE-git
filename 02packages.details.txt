@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271242
-Last-Updated: Tue, 24 Nov 2026 03:54:20 GMT
+Line-Count:   271254
+Last-Updated: Tue, 24 Nov 2026 04:54:20 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -79477,13 +79477,22 @@ Finance::Symbology::Convention::CQS 0.2  E/EL/ELBOW/Finance-Symbology-0.4.tar.gz
 Finance::Symbology::Convention::Fidessa 0.3  E/EL/ELBOW/Finance-Symbology-0.4.tar.gz
 Finance::Symbology::Convention::NASDAQ::Integrated 0.2  E/EL/ELBOW/Finance-Symbology-0.4.tar.gz
 Finance::TA                      v0.4.3  K/KM/KMX/Finance-TA-v0.4.3.tar.gz
-Finance::Tax::Aruba               0.013  W/WA/WATERKIP/Finance-Tax-Aruba-0.013.tar.gz
-Finance::Tax::Aruba::Income       0.013  W/WA/WATERKIP/Finance-Tax-Aruba-0.013.tar.gz
-Finance::Tax::Aruba::Income::2020 0.013  W/WA/WATERKIP/Finance-Tax-Aruba-0.013.tar.gz
-Finance::Tax::Aruba::Income::2021 0.013  W/WA/WATERKIP/Finance-Tax-Aruba-0.013.tar.gz
-Finance::Tax::Aruba::Income::2023 0.013  W/WA/WATERKIP/Finance-Tax-Aruba-0.013.tar.gz
-Finance::Tax::Aruba::Income::2025 0.013  W/WA/WATERKIP/Finance-Tax-Aruba-0.013.tar.gz
-Finance::Tax::Aruba::Role::Income::TaxYear 0.013  W/WA/WATERKIP/Finance-Tax-Aruba-0.013.tar.gz
+Finance::Tax::Aruba               0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::BBO          0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::BBO::2020    0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::BBO::2021    0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::BBO::2022    0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::BBO::2023    0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::BBO::2024    0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::BBO::2025    0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::Income       0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::Income::2020 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::Income::2021 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::Income::2023 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::Income::2025 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::Income::2026 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::Role::BBO::TaxYear 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
+Finance::Tax::Aruba::Role::Income::TaxYear 0.014  W/WA/WATERKIP/Finance-Tax-Aruba-0.014.tar.gz
 Finance::TickerSymbols             3.11  J/JE/JEZRA/Finance-TickerSymbols-3.11.zip
 Finance::Tiller2QIF                1.23  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.23.tar.gz
 Finance::Tiller2QIF::DB            1.23  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.23.tar.gz
@@ -105897,17 +105906,18 @@ Google::Fusion                     0.10  R/RC/RCL/Google-Fusion-0.10.tar.gz
 Google::Fusion::Result             0.03  R/RC/RCL/Google-Fusion-0.10.tar.gz
 Google::GeoCoder::Smart          v2.6.8  T/TT/TTG/Google-GeoCoder-Smart/Google-GeoCoder-Smart-v2.6.8.tar.gz
 Google::GPRC                      undef  T/TQ/TQISJIM/Google-OAuth-0.05.tar.gz
-Google::gRPC                       0.09  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.09.tar.gz
-Google::gRPC::Channel             undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.09.tar.gz
-Google::gRPC::ChannelPool         undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.09.tar.gz
-Google::gRPC::Client               0.09  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.09.tar.gz
-Google::gRPC::Deadline            undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.09.tar.gz
-Google::gRPC::Engine              undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.09.tar.gz
-Google::gRPC::Engine::NGHTTP2      0.09  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.09.tar.gz
-Google::gRPC::Engine::PP          undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.09.tar.gz
-Google::gRPC::Framing             undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.09.tar.gz
-Google::gRPC::Status              undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.09.tar.gz
-Google::gRPC::Stream              undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.09.tar.gz
+Google::gRPC                       0.10  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.10.tar.gz
+Google::gRPC::Channel             undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.10.tar.gz
+Google::gRPC::ChannelPool         undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.10.tar.gz
+Google::gRPC::Client               0.10  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.10.tar.gz
+Google::gRPC::Deadline            undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.10.tar.gz
+Google::gRPC::Engine              undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.10.tar.gz
+Google::gRPC::Engine::NGHTTP2      0.10  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.10.tar.gz
+Google::gRPC::Engine::PP          undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.10.tar.gz
+Google::gRPC::Framing             undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.10.tar.gz
+Google::gRPC::Server               0.10  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.10.tar.gz
+Google::gRPC::Status              undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.10.tar.gz
+Google::gRPC::Stream              undef  C/CJ/CJCOLLIER/Google-Cloud/Google-gRPC-0.10.tar.gz
 Google::Iam::Admin::V1::AuditData  0.14  C/CJ/CJCOLLIER/Google-Cloud/Google-Cloud-Iam-Admin-V1-0.06.tar.gz
 Google::Iam::Admin::V1::AuditData::Types undef  C/CJ/CJCOLLIER/Google-Cloud/Google-Cloud-Iam-Admin-V1-0.06.tar.gz
 Google::Iam::Admin::V1::Iam        0.14  C/CJ/CJCOLLIER/Google-Cloud/Google-Cloud-Iam-Admin-V1-0.06.tar.gz
@@ -197575,6 +197585,7 @@ PDL::Image2D                      undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::ImageND                      undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::ImageRGB                     undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Install::Files               2.009  E/ET/ETJ/PDL-2.106.tar.gz
+PDL::IO::Arrow                     0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-IO-Arrow-0.01.tar.gz
 PDL::IO::Browser                  0.001  E/ET/ETJ/PDL-IO-Browser-0.001.tar.gz
 PDL::IO::CSV                      0.011  K/KM/KMX/PDL-IO-CSV-0.011.tar.gz
 PDL::IO::DBI                      0.012  K/KM/KMX/PDL-IO-DBI-0.012.tar.gz
@@ -197605,6 +197616,7 @@ PDL::IO::NDF                       1.07  G/GS/GSB/PDL-IO-NDF-1.07.tar.gz
 PDL::IO::Nifti                     0.73  F/FA/FANTASMA/PDL-IO-Nifti/PDL-IO-Nifti-0.73.tar.gz
 PDL::IO::Pic                      undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::IO::Pnm                      undef  E/ET/ETJ/PDL-2.106.tar.gz
+PDL::IO::Protobuf                  0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-IO-Protobuf-0.01.tar.gz
 PDL::IO::Sereal                   0.003  K/KM/KMX/PDL-IO-Sereal-0.003.tar.gz
 PDL::IO::STL                      0.001  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::IO::Storable                 2.096  E/ET/ETJ/PDL-2.106.tar.gz
