@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271296
-Last-Updated: Tue, 24 Nov 2026 20:54:28 GMT
+Last-Updated: Tue, 24 Nov 2026 21:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -214201,8 +214201,8 @@ RT::ACE                           undef  R/RU/RUZ/RTx-Shredder-0.07.tar.gz
 RT::ACL                            1.15  B/BP/BPS/RT-Extension-MergeUsers-1.15.tar.gz
 RT::Action::AddNewCFValue         undef  B/BP/BPS/RT-Extension-Tags-0.02.tar.gz
 RT::Action::AddQueueAdminCcs      undef  B/BP/BPS/RT-Extension-AddAdminCcsOnQueueChange-1.01.tar.gz
-RT::Action::AddTicketSentiment    undef  B/BP/BPS/RT-Extension-AI-0.07.tar.gz
-RT::Action::AddTicketSummary      undef  B/BP/BPS/RT-Extension-AI-0.07.tar.gz
+RT::Action::AddTicketSentiment    undef  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
+RT::Action::AddTicketSummary      undef  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
 RT::Action::AssignUnownedToActor   1.02  B/BP/BPS/RT-Action-AssignUnownedToActor-1.02.tar.gz
 RT::Action::AutoAddWatchers        0.02  T/TS/TSIBLEY/RT-Action-AutoAddWatchers-0.02.tar.gz
 RT::Action::AutomaticAssignment   undef  B/BP/BPS/RT-Extension-AutomaticAssignment-2.00.tar.gz
@@ -214343,11 +214343,11 @@ RT::Extension::ActivityReports     2.00  B/BP/BPS/RT-Extension-ActivityReports-2
 RT::Extension::AddAdminCcsOnQueueChange 1.01  B/BP/BPS/RT-Extension-AddAdminCcsOnQueueChange-1.01.tar.gz
 RT::Extension::AddAttachmentsFromTransactions 2.10  C/CL/CLOOS/RT-Extension-AddAttachmentsFromTransactions-2.10.tar.gz
 RT::Extension::AdminConditionsAndActions 1.03  B/BP/BPS/RT-Extension-AdminConditionsAndActions-1.03.tar.gz
-RT::Extension::AI                  0.07  B/BP/BPS/RT-Extension-AI-0.07.tar.gz
-RT::Extension::AI::Provider       undef  B/BP/BPS/RT-Extension-AI-0.07.tar.gz
-RT::Extension::AI::Provider::Claude undef  B/BP/BPS/RT-Extension-AI-0.07.tar.gz
-RT::Extension::AI::Provider::Gemini undef  B/BP/BPS/RT-Extension-AI-0.07.tar.gz
-RT::Extension::AI::Provider::OpenAI undef  B/BP/BPS/RT-Extension-AI-0.07.tar.gz
+RT::Extension::AI                  0.08  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
+RT::Extension::AI::Provider       undef  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
+RT::Extension::AI::Provider::Claude undef  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
+RT::Extension::AI::Provider::Gemini undef  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
+RT::Extension::AI::Provider::OpenAI undef  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
 RT::Extension::AjaxPreviewScrips   0.10  A/AL/ALEXMV/RT-Extension-AjaxPreviewScrips-0.10.tar.gz
 RT::Extension::Announce            1.06  B/BP/BPS/RT-Extension-Announce-1.06.tar.gz
 RT::Extension::Announce::Test     undef  B/BP/BPS/RT-Extension-Announce-1.06.tar.gz
