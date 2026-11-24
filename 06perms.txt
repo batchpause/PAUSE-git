@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678572
+Line-Count:  678580
 Written-By:  PAUSE version 1.005
-Date:        Tue, 24 Nov 2026 07:18:25 GMT
+Date:        Tue, 24 Nov 2026 08:18:21 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -434391,6 +434391,7 @@ PDL::Drawing::Prima,KARASIK,f
 PDL::Drawing::Prima::Utils,DCMERTENS,c
 PDL::Drawing::Prima::Utils,ETJ,c
 PDL::Drawing::Prima::Utils,KARASIK,f
+PDL::DuckDB,CJCOLLIER,f
 PDL::EditDistance,MOOCOW,f
 PDL::Examples,ETJ,f
 PDL::Examples,KGB,c
@@ -435630,6 +435631,7 @@ PDL::IO::GD,KGB,c
 PDL::IO::GD,LUKKA,c
 PDL::IO::GD,PERLDL,c
 PDL::IO::GD,ZMUGHAL,c
+PDL::IO::GGUF,CJCOLLIER,f
 PDL::IO::Grib,ETJ,f
 PDL::IO::Grib,JEDWARDS,c
 PDL::IO::Grib::Field,ETJ,f
@@ -435709,6 +435711,7 @@ PDL::IO::STL,KGB,c
 PDL::IO::STL,LUKKA,c
 PDL::IO::STL,PERLDL,c
 PDL::IO::STL,ZMUGHAL,c
+PDL::IO::Safetensors,CJCOLLIER,f
 PDL::IO::Sereal,KMX,f
 PDL::IO::Storable,CSOE,c
 PDL::IO::Storable,DJERIUS,c
@@ -435808,6 +435811,7 @@ PDL::LiteF,KGB,c
 PDL::LiteF,LUKKA,c
 PDL::LiteF,PERLDL,c
 PDL::LiteF,ZMUGHAL,c
+PDL::Llama,CJCOLLIER,f
 PDL::Logical,ETJ,c
 PDL::Logical,SLOYD,c
 PDL::Logical,ZMUGHAL,f
@@ -435818,6 +435822,8 @@ PDL::Lvalue,KGB,c
 PDL::Lvalue,LUKKA,c
 PDL::Lvalue,PERLDL,c
 PDL::Lvalue,ZMUGHAL,c
+PDL::ML::Metrics,CJCOLLIER,f
+PDL::ML::Preprocess,CJCOLLIER,f
 PDL::Math,CSOE,c
 PDL::Math,DJERIUS,c
 PDL::Math,ETJ,f
@@ -436369,6 +436375,7 @@ PDL::SV,SLOYD,c
 PDL::SV,ZMUGHAL,f
 PDL::SVDLIBC,MOOCOW,f
 PDL::SVDSLEPc,MOOCOW,f
+PDL::SentencePiece,CJCOLLIER,f
 PDL::Slatec,CSOE,c
 PDL::Slatec,DJERIUS,c
 PDL::Slatec,ETJ,f
@@ -436404,6 +436411,7 @@ PDL::Stats::TS,ZMUGHAL,c
 PDL::StringfiableExtension,ETJ,c
 PDL::StringfiableExtension,SLOYD,c
 PDL::StringfiableExtension,ZMUGHAL,f
+PDL::Tokenizers,CJCOLLIER,f
 PDL::Torch,CJCOLLIER,f
 PDL::Torch::Tensor,CJCOLLIER,f
 PDL::Transform,CSOE,c

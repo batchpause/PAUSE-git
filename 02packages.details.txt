@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271261
-Last-Updated: Tue, 24 Nov 2026 07:17:02 GMT
+Line-Count:   271269
+Last-Updated: Tue, 24 Nov 2026 08:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -3546,7 +3546,7 @@ AI::XGBoost::CAPI                  0.11  P/PA/PABLROD/AI-XGBoost-0.11.tar.gz
 AI::XGBoost::CAPI::RAW             0.11  P/PA/PABLROD/AI-XGBoost-0.11.tar.gz
 AI::XGBoost::DMatrix               0.11  P/PA/PABLROD/AI-XGBoost-0.11.tar.gz
 AIIA::GMT                          0.05  C/CJ/CJUKUO/AIIA-GMT-0.05.tar.gz
-Aion                                2.4  D/DA/DART/Aion-2.4.tar.gz
+Aion                                2.5  D/DA/DART/Aion-2.5.tar.gz
 Aion::Annotation                 v0.2.0  D/DA/DART/Aion-Annotation-0.2.0.tar.gz
 Aion::Annotation::Reader          undef  D/DA/DART/Aion-Annotation-0.2.0.tar.gz
 Aion::Annotation::ScannedEvent    undef  D/DA/DART/Aion-Annotation-0.2.0.tar.gz
@@ -3565,13 +3565,13 @@ Aion::Fs                         v0.2.4  D/DA/DART/Aion-Fs-0.2.4.tar.gz
 Aion::Fs::Cat                     undef  D/DA/DART/Aion-Fs-0.2.4.tar.gz
 Aion::Fs::Find                    undef  D/DA/DART/Aion-Fs-0.2.4.tar.gz
 Aion::Fs::Lay                     undef  D/DA/DART/Aion-Fs-0.2.4.tar.gz
-Aion::Meta::Feature               undef  D/DA/DART/Aion-2.4.tar.gz
-Aion::Meta::FeatureConstruct      undef  D/DA/DART/Aion-2.4.tar.gz
-Aion::Meta::RequiresAnyFunction   undef  D/DA/DART/Aion-2.4.tar.gz
-Aion::Meta::RequiresFeature       undef  D/DA/DART/Aion-2.4.tar.gz
-Aion::Meta::Subroutine            undef  D/DA/DART/Aion-2.4.tar.gz
-Aion::Meta::Util                  undef  D/DA/DART/Aion-2.4.tar.gz
-Aion::Pleroma                     undef  D/DA/DART/Aion-2.4.tar.gz
+Aion::Meta::Feature               undef  D/DA/DART/Aion-2.5.tar.gz
+Aion::Meta::FeatureConstruct      undef  D/DA/DART/Aion-2.5.tar.gz
+Aion::Meta::RequiresAnyFunction   undef  D/DA/DART/Aion-2.5.tar.gz
+Aion::Meta::RequiresFeature       undef  D/DA/DART/Aion-2.5.tar.gz
+Aion::Meta::Subroutine            undef  D/DA/DART/Aion-2.5.tar.gz
+Aion::Meta::Util                  undef  D/DA/DART/Aion-2.5.tar.gz
+Aion::Pleroma                     undef  D/DA/DART/Aion-2.5.tar.gz
 Aion::Query                      v0.0.6  D/DA/DART/Aion-Query-0.0.6.tar.gz
 Aion::Query::Transaction          undef  D/DA/DART/Aion-Query-0.0.6.tar.gz
 Aion::Refmark                     undef  D/DA/DART/Aion-Telemetry-0.0.1.tar.gz
@@ -3582,11 +3582,11 @@ Aion::Run::RunsRun                undef  D/DA/DART/Aion-Run-0.0.4.tar.gz
 Aion::Spirit                     v0.0.1  D/DA/DART/Aion-Spirit-0.0.1.tar.gz
 Aion::Surf                       v0.0.3  D/DA/DART/Aion-Surf-0.0.3.tar.gz
 Aion::Telemetry                  v0.0.1  D/DA/DART/Aion-Telemetry-0.0.1.tar.gz
-Aion::Type                        undef  D/DA/DART/Aion-2.4.tar.gz
-Aion::Type::DNF                   undef  D/DA/DART/Aion-2.4.tar.gz
-Aion::Type::Espresso              undef  D/DA/DART/Aion-2.4.tar.gz
-Aion::Type::Lim                   undef  D/DA/DART/Aion-2.4.tar.gz
-Aion::Types                       undef  D/DA/DART/Aion-2.4.tar.gz
+Aion::Type                        undef  D/DA/DART/Aion-2.5.tar.gz
+Aion::Type::DNF                   undef  D/DA/DART/Aion-2.5.tar.gz
+Aion::Type::Espresso              undef  D/DA/DART/Aion-2.5.tar.gz
+Aion::Type::Lim                   undef  D/DA/DART/Aion-2.5.tar.gz
+Aion::Types                       undef  D/DA/DART/Aion-2.5.tar.gz
 Airlock                           0.001  G/GE/GETTY/Airlock-0.001.tar.gz
 Airlock::Client                   0.001  G/GE/GETTY/Airlock-0.001.tar.gz
 Airlock::Code                     0.001  G/GE/GETTY/Airlock-0.001.tar.gz
@@ -11390,10 +11390,10 @@ App::Greple::ical                  1.00  U/UT/UTASHIRO/App-Greple-ical-1.00.tar.
 App::Greple::jq                    0.06  U/UT/UTASHIRO/App-Greple-jq-0.06.tar.gz
 App::Greple::L                     1.01  U/UT/UTASHIRO/App-Greple-L-1.01.tar.gz
 App::Greple::line                 undef  U/UT/UTASHIRO/App-Greple-9.23.tar.gz
-App::Greple::md                    1.26  U/UT/UTASHIRO/App-mdee-1.26.tar.gz
-App::Greple::md::Blocks            1.26  U/UT/UTASHIRO/App-mdee-1.26.tar.gz
-App::Greple::md::Step             undef  U/UT/UTASHIRO/App-mdee-1.26.tar.gz
-App::Greple::md::widen             1.26  U/UT/UTASHIRO/App-mdee-1.26.tar.gz
+App::Greple::md                    1.27  U/UT/UTASHIRO/App-mdee-1.27.tar.gz
+App::Greple::md::Blocks            1.27  U/UT/UTASHIRO/App-mdee-1.27.tar.gz
+App::Greple::md::Step             undef  U/UT/UTASHIRO/App-mdee-1.27.tar.gz
+App::Greple::md::widen             1.27  U/UT/UTASHIRO/App-mdee-1.27.tar.gz
 App::Greple::msdoc                 1.07  U/UT/UTASHIRO/App-Greple-msdoc-1.07.tar.gz
 App::Greple::NumberUtil           undef  U/UT/UTASHIRO/App-Greple-8.3203.tar.gz
 App::Greple::Pattern              undef  U/UT/UTASHIRO/App-Greple-10.05.tar.gz
@@ -12543,7 +12543,7 @@ App::MCP::CLI::Command::servers  v0.0.1  M/MA/MANWAR/App-MCP-CLI-v0.0.1.tar.gz
 App::MCP::CLI::Command::version  v0.0.1  M/MA/MANWAR/App-MCP-CLI-v0.0.1.tar.gz
 App::MCP::CLI::Config            v0.0.1  M/MA/MANWAR/App-MCP-CLI-v0.0.1.tar.gz
 App::md2html                   0.001001  C/CR/CRABAPP/App-md2html-0.01.1.tar.gz
-App::mdee                          1.26  U/UT/UTASHIRO/App-mdee-1.26.tar.gz
+App::mdee                          1.27  U/UT/UTASHIRO/App-mdee-1.27.tar.gz
 App::MechaCPAN                     0.32  A/AT/ATRODO/App-MechaCPAN-0.32.tar.gz
 App::MechaCPAN::Deploy            undef  A/AT/ATRODO/App-MechaCPAN-0.32.tar.gz
 App::MechaCPAN::Install           undef  A/AT/ATRODO/App-MechaCPAN-0.32.tar.gz
@@ -197421,6 +197421,7 @@ PDL::Drawing::Prima::Utils         0.18  K/KA/KARASIK/PDL-Drawing-Prima-0.20.tar
 PDL::DSP::Fir                     0.008  E/ET/ETJ/PDL-DSP-Fir-0.008.tar.gz
 PDL::DSP::Fir::Simple             0.005  E/ET/ETJ/PDL-DSP-Fir-0.008.tar.gz
 PDL::DSP::Windows                 0.103  E/ET/ETJ/PDL-DSP-Windows-0.103.tar.gz
+PDL::DuckDB                        0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-DuckDB-0.01.tar.gz
 PDL::EditDistance                  0.10  M/MO/MOOCOW/PDL-EditDistance-0.10.tar.gz
 PDL::Exporter                     undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Factor                    0.006005  E/ET/ETJ/Data-Frame-0.006005.tar.gz
@@ -197603,6 +197604,7 @@ PDL::IO::FastRaw               0.000003  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::IO::FITS                      0.92  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::IO::FlexRaw                  undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::IO::GD                       undef  E/ET/ETJ/PDL-IO-GD-2.103.tar.gz
+PDL::IO::GGUF                      0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-IO-GGUF-0.01.tar.gz
 PDL::IO::Grib                         2  J/JE/JEDWARDS/PDL-IO-Grib-2.0.tar.gz
 PDL::IO::Grib::Field              undef  J/JE/JEDWARDS/PDL-IO-Grib-2.0.tar.gz
 PDL::IO::HDF                      2.005  E/ET/ETJ/PDL-IO-HDF-2.005.tar.gz
@@ -197620,6 +197622,7 @@ PDL::IO::Nifti                     0.73  F/FA/FANTASMA/PDL-IO-Nifti/PDL-IO-Nifti
 PDL::IO::Pic                      undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::IO::Pnm                      undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::IO::Protobuf                  0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-IO-Protobuf-0.01.tar.gz
+PDL::IO::Safetensors               0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-IO-Safetensors-0.01.tar.gz
 PDL::IO::Sereal                   0.003  K/KM/KMX/PDL-IO-Sereal-0.003.tar.gz
 PDL::IO::STL                      0.001  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::IO::Storable                 2.096  E/ET/ETJ/PDL-2.106.tar.gz
@@ -197650,12 +197653,15 @@ PDL::LinearAlgebra::Special        0.14  E/ET/ETJ/PDL-LinearAlgebra-0.437.tar.gz
 PDL::LinearAlgebra::Trans         0.437  E/ET/ETJ/PDL-LinearAlgebra-0.437.tar.gz
 PDL::Lite                         undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::LiteF                        undef  E/ET/ETJ/PDL-2.106.tar.gz
+PDL::Llama                         0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-Llama-0.01.tar.gz
 PDL::Logical                   0.006005  E/ET/ETJ/Data-Frame-0.006005.tar.gz
 PDL::Math                         undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Matrix                         0.5  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::MatrixOps                    undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Meschach                      0.03  E/EG/EGROSS/Meschach-0.03.tar.gz
 PDL::Minuit                       0.002  E/ET/ETJ/PDL-Minuit-0.002.tar.gz
+PDL::ML::Metrics                   0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-ML-Metrics-0.01.tar.gz
+PDL::ML::Preprocess                0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-ML-Preprocess-0.01.tar.gz
 PDL::NamedArgs                     0.12  C/CA/CAVANAUGH/PDL-NamedArgs-0.12.tar.gz
 PDL::NDBin                        0.029  E/ET/ETJ/PDL-NDBin-0.029.tar.gz
 PDL::NDBin::Action::Avg           0.029  E/ET/ETJ/PDL-NDBin-0.029.tar.gz
@@ -197706,6 +197712,7 @@ PDL::Role::HasNames            0.002003  S/SL/SLOYD/Chart-GGPlot-0.002003.tar.gz
 PDL::Role::RowNameable         0.006005  E/ET/ETJ/Data-Frame-0.006005.tar.gz
 PDL::Role::Stringifiable       0.006005  E/ET/ETJ/Data-Frame-0.006005.tar.gz
 PDL::RungeKutta                    0.01  D/DR/DRAGOS/PDL-RungeKutta-0.01.tgz
+PDL::SentencePiece                 0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-SentencePiece-0.01.tar.gz
 PDL::Slatec                       2.098  E/ET/ETJ/PDL-Slatec-2.098.tar.gz
 PDL::Slices                       undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Stats                        0.856  E/ET/ETJ/PDL-Stats-0.856.tar.gz
@@ -197718,6 +197725,7 @@ PDL::StringfiableExtension     0.006005  E/ET/ETJ/Data-Frame-0.006005.tar.gz
 PDL::SV                        0.006005  E/ET/ETJ/Data-Frame-0.006005.tar.gz
 PDL::SVDLIBC                       0.19  M/MO/MOOCOW/PDL-SVDLIBC-0.19.tar.gz
 PDL::SVDSLEPc                     0.005  M/MO/MOOCOW/PDL-SVDSLEPc-0.005.tar.gz
+PDL::Tokenizers                    0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-Tokenizers-0.01.tar.gz
 PDL::Torch                         0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-Torch-0.01.tar.gz
 PDL::Torch::Tensor                 0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-Torch-0.01.tar.gz
 PDL::Transform                    undef  E/ET/ETJ/PDL-2.106.tar.gz
@@ -239299,9 +239307,9 @@ Text::Annotated::Line              0.04  W/WI/WIMV/Text-Annotated-Line-0.04.tar.
 Text::Annotated::Reader            0.04  W/WI/WIMV/Text-Annotated-Line-0.04.tar.gz
 Text::Annotated::Writer            0.04  W/WI/WIMV/Text-Annotated-Line-0.04.tar.gz
 Text::ANSI::BaseUtil              0.234  P/PE/PERLANCAR/Text-ANSI-Util-0.234.tar.gz
-Text::ANSI::Fold                 2.3902  U/UT/UTASHIRO/Text-ANSI-Fold-2.3902.tar.gz
-Text::ANSI::Fold::Japanese::W3C   undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.3902.tar.gz
-Text::ANSI::Fold::Japanese::Wikipedia undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.3902.tar.gz
+Text::ANSI::Fold                   2.40  U/UT/UTASHIRO/Text-ANSI-Fold-2.40.tar.gz
+Text::ANSI::Fold::Japanese::W3C   undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.40.tar.gz
+Text::ANSI::Fold::Japanese::Wikipedia undef  U/UT/UTASHIRO/Text-ANSI-Fold-2.40.tar.gz
 Text::ANSI::Fold::Util             1.06  U/UT/UTASHIRO/Text-ANSI-Fold-Util-1.06.tar.gz
 Text::ANSI::Highlight              0.04  U/UT/UTASHIRO/Text-ANSI-Highlight-0.04.tar.gz
 Text::ANSI::Highlight::Block::embedz undef  U/UT/UTASHIRO/Text-ANSI-Highlight-0.04.tar.gz
