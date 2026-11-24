@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271294
-Last-Updated: Tue, 24 Nov 2026 15:29:02 GMT
+Last-Updated: Tue, 24 Nov 2026 15:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -149499,17 +149499,17 @@ Nasm::X86::Variable               undef  P/PR/PRBRENAN/Nasm-X86-20220712.tar.gz
 NativeCall                        0.006  E/ET/ETJ/NativeCall-0.006.tar.gz
 NaturalPerson                     undef  S/SA/SAMV/Tangram-2.12.tar.gz
 NavBarDD                           0.75  L/LO/LOURIDAS/Apache-NavBarDD-0.75.tar.gz
-NBI::EcoScheduler               v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
-NBI::Job                        v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
-NBI::Launcher                   v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
-NBI::Launcher::Kraken2          v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
-NBI::Launcher::RemovePrimers    v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
-NBI::Manifest                   v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
-NBI::Opts                       v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
-NBI::Pipeline                   v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
-NBI::Queue                      v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
-NBI::QueuedJob                  v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
-NBI::Slurm                      v0.23.0  P/PR/PROCH/NBI-Slurm-0.23.0.tar.gz
+NBI::EcoScheduler               v0.24.0  P/PR/PROCH/NBI-Slurm-0.24.0.tar.gz
+NBI::Job                        v0.24.0  P/PR/PROCH/NBI-Slurm-0.24.0.tar.gz
+NBI::Launcher                   v0.24.0  P/PR/PROCH/NBI-Slurm-0.24.0.tar.gz
+NBI::Launcher::Kraken2          v0.24.0  P/PR/PROCH/NBI-Slurm-0.24.0.tar.gz
+NBI::Launcher::RemovePrimers    v0.24.0  P/PR/PROCH/NBI-Slurm-0.24.0.tar.gz
+NBI::Manifest                   v0.24.0  P/PR/PROCH/NBI-Slurm-0.24.0.tar.gz
+NBI::Opts                       v0.24.0  P/PR/PROCH/NBI-Slurm-0.24.0.tar.gz
+NBI::Pipeline                   v0.24.0  P/PR/PROCH/NBI-Slurm-0.24.0.tar.gz
+NBI::Queue                      v0.24.0  P/PR/PROCH/NBI-Slurm-0.24.0.tar.gz
+NBI::QueuedJob                  v0.24.0  P/PR/PROCH/NBI-Slurm-0.24.0.tar.gz
+NBI::Slurm                      v0.24.0  P/PR/PROCH/NBI-Slurm-0.24.0.tar.gz
 NBU                                1.42  D/DU/DUTCHMAN/NBU-0.95.tar.gz
 NBU::Class                         1.29  D/DU/DUTCHMAN/NBU-0.95.tar.gz
 NBU::Drive                         1.24  D/DU/DUTCHMAN/NBU-0.95.tar.gz
