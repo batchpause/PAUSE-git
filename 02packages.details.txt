@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271309
-Last-Updated: Wed, 25 Nov 2026 12:29:02 GMT
+Last-Updated: Wed, 25 Nov 2026 12:54:24 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -58763,15 +58763,15 @@ Data::UNLreport                    1.07  J/JA/JASALOMON/Data-UNLreport-1.07.tar.
 Data::UNLreport::_util             1.07  J/JA/JASALOMON/Data-UNLreport-1.07.tar.gz
 Data::UNLreport::Line              1.07  J/JA/JASALOMON/Data-UNLreport-1.07.tar.gz
 Data::URIEncode                    0.11  R/RH/RHANDOM/Data-URIEncode-0.11.tar.gz
-Data::URIID                     v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
-Data::URIID::Barcode            v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
-Data::URIID::Base               v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
-Data::URIID::Colour             v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
-Data::URIID::Digest             v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
+Data::URIID                     v0.27.0  L/LI/LION/Data-URIID-v0.27.tar.gz
+Data::URIID::Barcode            v0.27.0  L/LI/LION/Data-URIID-v0.27.tar.gz
+Data::URIID::Base               v0.27.0  L/LI/LION/Data-URIID-v0.27.tar.gz
+Data::URIID::Colour             v0.27.0  L/LI/LION/Data-URIID-v0.27.tar.gz
+Data::URIID::Digest             v0.27.0  L/LI/LION/Data-URIID-v0.27.tar.gz
 Data::URIID::Future              v0.5.0  L/LI/LION/Data-URIID-v0.05.tar.gz
-Data::URIID::Request            v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
-Data::URIID::Result             v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
-Data::URIID::Service            v0.26.0  L/LI/LION/Data-URIID-v0.26.tar.gz
+Data::URIID::Request            v0.27.0  L/LI/LION/Data-URIID-v0.27.tar.gz
+Data::URIID::Result             v0.27.0  L/LI/LION/Data-URIID-v0.27.tar.gz
+Data::URIID::Service            v0.27.0  L/LI/LION/Data-URIID-v0.27.tar.gz
 Data::Util                         0.67  S/SY/SYOHEX/Data-Util-0.67.tar.gz
 Data::Util::Error                 undef  S/SY/SYOHEX/Data-Util-0.67.tar.gz
 Data::Util::PurePerl              undef  S/SY/SYOHEX/Data-Util-0.67.tar.gz
