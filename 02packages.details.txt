@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271326
-Last-Updated: Wed, 25 Nov 2026 20:29:02 GMT
+Last-Updated: Wed, 25 Nov 2026 20:54:17 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -79507,22 +79507,22 @@ Finance::Symbology::Convention::CQS 0.2  E/EL/ELBOW/Finance-Symbology-0.4.tar.gz
 Finance::Symbology::Convention::Fidessa 0.3  E/EL/ELBOW/Finance-Symbology-0.4.tar.gz
 Finance::Symbology::Convention::NASDAQ::Integrated 0.2  E/EL/ELBOW/Finance-Symbology-0.4.tar.gz
 Finance::TA                      v0.4.3  K/KM/KMX/Finance-TA-v0.4.3.tar.gz
-Finance::Tax::Aruba               0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::BBO          0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::BBO::2020    0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::BBO::2021    0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::BBO::2022    0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::BBO::2023    0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::BBO::2024    0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::BBO::2025    0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::Income       0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::Income::2020 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::Income::2021 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::Income::2023 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::Income::2025 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::Income::2026 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::Role::BBO::TaxYear 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
-Finance::Tax::Aruba::Role::Income::TaxYear 0.015  W/WA/WATERKIP/Finance-Tax-Aruba-0.015.tar.gz
+Finance::Tax::Aruba               0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::BBO          0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::BBO::2020    0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::BBO::2021    0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::BBO::2022    0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::BBO::2023    0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::BBO::2024    0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::BBO::2025    0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::Income       0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::Income::2020 0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::Income::2021 0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::Income::2023 0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::Income::2025 0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::Income::2026 0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::Role::BBO::TaxYear 0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
+Finance::Tax::Aruba::Role::Income::TaxYear 0.016  W/WA/WATERKIP/Finance-Tax-Aruba-0.016.tar.gz
 Finance::TickerSymbols             3.11  J/JE/JEZRA/Finance-TickerSymbols-3.11.zip
 Finance::Tiller2QIF                1.23  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.23.tar.gz
 Finance::Tiller2QIF::DB            1.23  B/BR/BRAINBUZ/Finance-Tiller2QIF-1.23.tar.gz
@@ -142164,7 +142164,7 @@ Module::Build::Service::memcached  0.91  M/MD/MDORMAN/Module-Build-Service-0.91.
 Module::Build::Service::postgresql 0.91  M/MD/MDORMAN/Module-Build-Service-0.91.tar.gz
 Module::Build::Service::slapd      0.91  M/MD/MDORMAN/Module-Build-Service-0.91.tar.gz
 Module::Build::Smolder             0.02  W/WO/WONKO/Module-Build-Smolder-0.02.tar.gz
-Module::Build::SysPath             0.20  J/JK/JKUTEJ/Module-Build-SysPath-0.20.tar.gz
+Module::Build::SysPath             0.21  J/JK/JKUTEJ/Module-Build-SysPath-0.21.tar.gz
 Module::Build::TAPArchive          0.04  W/WO/WONKO/Module-Build-TAPArchive-0.04.tar.gz
 Module::Build::TestReporter           1  C/CH/CHROMATIC/Module-Build-TestReporter-1.00.tar.gz
 Module::Build::Tiny               0.053  L/LE/LEONT/Module-Build-Tiny-0.053.tar.gz
@@ -214227,8 +214227,8 @@ RT::ACE                           undef  R/RU/RUZ/RTx-Shredder-0.07.tar.gz
 RT::ACL                            1.15  B/BP/BPS/RT-Extension-MergeUsers-1.15.tar.gz
 RT::Action::AddNewCFValue         undef  B/BP/BPS/RT-Extension-Tags-0.02.tar.gz
 RT::Action::AddQueueAdminCcs      undef  B/BP/BPS/RT-Extension-AddAdminCcsOnQueueChange-1.01.tar.gz
-RT::Action::AddTicketSentiment    undef  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
-RT::Action::AddTicketSummary      undef  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
+RT::Action::AddTicketSentiment    undef  B/BP/BPS/RT-Extension-AI-0.09.tar.gz
+RT::Action::AddTicketSummary      undef  B/BP/BPS/RT-Extension-AI-0.09.tar.gz
 RT::Action::AssignUnownedToActor   1.02  B/BP/BPS/RT-Action-AssignUnownedToActor-1.02.tar.gz
 RT::Action::AutoAddWatchers        0.02  T/TS/TSIBLEY/RT-Action-AutoAddWatchers-0.02.tar.gz
 RT::Action::AutomaticAssignment   undef  B/BP/BPS/RT-Extension-AutomaticAssignment-2.00.tar.gz
@@ -214369,11 +214369,11 @@ RT::Extension::ActivityReports     2.00  B/BP/BPS/RT-Extension-ActivityReports-2
 RT::Extension::AddAdminCcsOnQueueChange 1.01  B/BP/BPS/RT-Extension-AddAdminCcsOnQueueChange-1.01.tar.gz
 RT::Extension::AddAttachmentsFromTransactions 2.10  C/CL/CLOOS/RT-Extension-AddAttachmentsFromTransactions-2.10.tar.gz
 RT::Extension::AdminConditionsAndActions 1.03  B/BP/BPS/RT-Extension-AdminConditionsAndActions-1.03.tar.gz
-RT::Extension::AI                  0.08  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
-RT::Extension::AI::Provider       undef  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
-RT::Extension::AI::Provider::Claude undef  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
-RT::Extension::AI::Provider::Gemini undef  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
-RT::Extension::AI::Provider::OpenAI undef  B/BP/BPS/RT-Extension-AI-0.08.tar.gz
+RT::Extension::AI                  0.09  B/BP/BPS/RT-Extension-AI-0.09.tar.gz
+RT::Extension::AI::Provider       undef  B/BP/BPS/RT-Extension-AI-0.09.tar.gz
+RT::Extension::AI::Provider::Claude undef  B/BP/BPS/RT-Extension-AI-0.09.tar.gz
+RT::Extension::AI::Provider::Gemini undef  B/BP/BPS/RT-Extension-AI-0.09.tar.gz
+RT::Extension::AI::Provider::OpenAI undef  B/BP/BPS/RT-Extension-AI-0.09.tar.gz
 RT::Extension::AjaxPreviewScrips   0.10  A/AL/ALEXMV/RT-Extension-AjaxPreviewScrips-0.10.tar.gz
 RT::Extension::Announce            1.06  B/BP/BPS/RT-Extension-Announce-1.06.tar.gz
 RT::Extension::Announce::Test     undef  B/BP/BPS/RT-Extension-Announce-1.06.tar.gz
