@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271304
-Last-Updated: Wed, 25 Nov 2026 07:54:24 GMT
+Last-Updated: Wed, 25 Nov 2026 08:54:25 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -241819,7 +241819,7 @@ Tie::ArrayNoNull                  undef  R/RP/RPAUL/Nobody-Util-0.01.tar.gz
 Tie::Autotie                       0.03  P/PI/PINYAN/Tie-Autotie-0.03.tar.gz
 Tie::BoundedInteger               1.075  B/BR/BRIANDFOY/Tie-BoundedInteger-1.075.tar.gz
 Tie::Cache                         0.21  C/CH/CHAMAS/Tie-Cache-0.21.tar.gz
-Tie::Cache::Autoupdater            0.22  A/AN/ANTONFIN/Tie-Cache-Autoupdater-0.22.tar.gz
+Tie::Cache::Autoupdater            0.23  A/AN/ANTONFIN/Tie-Cache-Autoupdater-0.23.tar.gz
 Tie::Cache::LRU                20150301  M/MS/MSCHWERN/Tie-Cache-LRU-20150301.tar.gz
 Tie::Cache::LRU::Array            undef  M/MS/MSCHWERN/Tie-Cache-LRU-20150301.tar.gz
 Tie::Cache::LRU::Expires           0.55  O/OE/OESTERHOL/Tie-Cache-LRU-Expires-0.55.tar.gz
