@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678665
+Line-Count:  678672
 Written-By:  PAUSE version 1.005
-Date:        Wed, 25 Nov 2026 12:30:22 GMT
+Date:        Wed, 25 Nov 2026 14:30:27 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -57671,6 +57671,7 @@ Board,CHESSKIT,f
 BoardStreams,KARJALA,f
 BoardStreams::Client,KARJALA,f
 BoardStreams::Client::Channel,KARJALA,f
+BoardStreams::Client::Error,KARJALA,f
 BoardStreams::Client::Manager,KARJALA,f
 BoardStreams::Client::Stream,KARJALA,f
 BoardStreams::Client::StructDiff,KARJALA,f
@@ -57678,8 +57679,10 @@ BoardStreams::Client::Util,KARJALA,f
 BoardStreams::Client::Utils,KARJALA,f
 BoardStreams::Client::WebSocket,KARJALA,f
 BoardStreams::Client::WebSockets,KARJALA,f
+BoardStreams::Context,KARJALA,f
 BoardStreams::DBMigrations,KARJALA,f
 BoardStreams::DBUtil,KARJALA,f
+BoardStreams::Diff,KARJALA,f
 BoardStreams::Error,KARJALA,f
 BoardStreams::Error::DB,KARJALA,f
 BoardStreams::Error::DB::Duplicate,KARJALA,f
@@ -57688,10 +57691,14 @@ BoardStreams::Exception,KARJALA,f
 BoardStreams::Exception::DbError,KARJALA,f
 BoardStreams::Exception::DbError::Duplicate,KARJALA,f
 BoardStreams::Exceptions,KARJALA,f
+BoardStreams::Hub,KARJALA,f
+BoardStreams::Hub::Duplicate,KARJALA,f
 BoardStreams::ListenerObservable,KARJALA,f
 BoardStreams::REs,KARJALA,f
 BoardStreams::Registry,KARJALA,f
+BoardStreams::Rejection,KARJALA,f
 BoardStreams::Transaction,KARJALA,f
+BoardStreams::Update,KARJALA,f
 BoardStreams::Util,KARJALA,f
 BokkaKumiai,DUKKIE,f
 Bolts,HANENKAMP,f

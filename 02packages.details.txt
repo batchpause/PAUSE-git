@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271309
-Last-Updated: Wed, 25 Nov 2026 12:54:24 GMT
+Line-Count:   271316
+Last-Updated: Wed, 25 Nov 2026 14:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -29324,9 +29324,10 @@ BmltClient::Object::ValidationError undef  B/BM/BMLT/BmltClient-ApiClient-0.tar.
 BmltClient::Role                  undef  B/BM/BMLT/BmltClient-ApiClient-0.tar.gz
 BmltClient::Role::AutoDoc         undef  B/BM/BMLT/BmltClient-ApiClient-0.tar.gz
 BmltClient::RootServerApi         undef  B/BM/BMLT/BmltClient-ApiClient-0.tar.gz
-BoardStreams                    v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
-BoardStreams::Client            v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
-BoardStreams::Client::Channel   v0.0.23  K/KA/KARJALA/BoardStreams-v0.0.23.tar.gz
+BoardStreams                    v0.0.55  K/KA/KARJALA/BoardStreams-v0.0.55.tar.gz
+BoardStreams::Client            v0.0.55  K/KA/KARJALA/BoardStreams-v0.0.55.tar.gz
+BoardStreams::Client::Channel   v0.0.55  K/KA/KARJALA/BoardStreams-v0.0.55.tar.gz
+BoardStreams::Client::Error     v0.0.55  K/KA/KARJALA/BoardStreams-v0.0.55.tar.gz
 BoardStreams::Client::Manager   v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
 BoardStreams::Client::Stream    v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
 BoardStreams::Client::StructDiff v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
@@ -29334,8 +29335,10 @@ BoardStreams::Client::Util      v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.g
 BoardStreams::Client::Utils     v0.0.23  K/KA/KARJALA/BoardStreams-v0.0.23.tar.gz
 BoardStreams::Client::WebSocket v0.0.23  K/KA/KARJALA/BoardStreams-v0.0.23.tar.gz
 BoardStreams::Client::WebSockets v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
+BoardStreams::Context           v0.0.55  K/KA/KARJALA/BoardStreams-v0.0.55.tar.gz
 BoardStreams::DBMigrations      v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
 BoardStreams::DBUtil            v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
+BoardStreams::Diff              v0.0.55  K/KA/KARJALA/BoardStreams-v0.0.55.tar.gz
 BoardStreams::Error             v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
 BoardStreams::Error::DB         v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
 BoardStreams::Error::DB::Duplicate v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
@@ -29344,10 +29347,14 @@ BoardStreams::Exception         v0.0.23  K/KA/KARJALA/BoardStreams-v0.0.23.tar.g
 BoardStreams::Exception::DbError v0.0.23  K/KA/KARJALA/BoardStreams-v0.0.23.tar.gz
 BoardStreams::Exception::DbError::Duplicate v0.0.23  K/KA/KARJALA/BoardStreams-v0.0.23.tar.gz
 BoardStreams::Exceptions        v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
+BoardStreams::Hub               v0.0.55  K/KA/KARJALA/BoardStreams-v0.0.55.tar.gz
+BoardStreams::Hub::Duplicate      undef  K/KA/KARJALA/BoardStreams-v0.0.55.tar.gz
 BoardStreams::ListenerObservable v0.0.23  K/KA/KARJALA/BoardStreams-v0.0.23.tar.gz
 BoardStreams::Registry          v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
+BoardStreams::Rejection         v0.0.55  K/KA/KARJALA/BoardStreams-v0.0.55.tar.gz
 BoardStreams::REs               v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
 BoardStreams::Transaction       v0.0.23  K/KA/KARJALA/BoardStreams-v0.0.23.tar.gz
+BoardStreams::Update            v0.0.55  K/KA/KARJALA/BoardStreams-v0.0.55.tar.gz
 BoardStreams::Util              v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
 BokkaKumiai                        0.02  D/DU/DUKKIE/BokkaKumiai-0.02.tar.gz
 Bolts                          0.143171  H/HA/HANENKAMP/Bolts-0.143171.tar.gz
@@ -143788,7 +143795,7 @@ Mojolicious::Plugin::BindSessionToIP 0.03  K/KO/KOORCHIK/Mojolicious-Plugin-Bind
 Mojolicious::Plugin::BlogSpam      0.12  A/AK/AKRON/Mojolicious-Plugin-BlogSpam-0.12.tar.gz
 Mojolicious::Plugin::BlogSpam::Comment 0.12  A/AK/AKRON/Mojolicious-Plugin-BlogSpam-0.12.tar.gz
 Mojolicious::Plugin::BModel         0.1  B/BC/BCDE/Mojolicious-Plugin-BModel-0.1.tar.gz
-Mojolicious::Plugin::BoardStreams v0.0.36  K/KA/KARJALA/BoardStreams-v0.0.36.tar.gz
+Mojolicious::Plugin::BoardStreams v0.0.55  K/KA/KARJALA/BoardStreams-v0.0.55.tar.gz
 Mojolicious::Plugin::BootstrapAlerts 0.07  R/RE/RENEEB/Mojolicious-Plugin-BootstrapAlerts-0.07.tar.gz
 Mojolicious::Plugin::BootstrapHelpers 0.0206  C/CS/CSSON/Mojolicious-Plugin-BootstrapHelpers-0.0206.tar.gz
 Mojolicious::Plugin::BootstrapHelpers::Helpers 0.0206  C/CS/CSSON/Mojolicious-Plugin-BootstrapHelpers-0.0206.tar.gz
@@ -202623,7 +202630,7 @@ Plack::Middleware::XRay            0.07  F/FU/FUJIWARA/Plack-Middleware-XRay-0.0
 Plack::Middleware::XSendfile      undef  M/MI/MIYAGAWA/Plack-1.0057.tar.gz
 Plack::Middleware::Xslate          0.03  D/DO/DOY/Plack-Middleware-Xslate-0.03.tar.gz
 Plack::Middleware::XSLT            0.30  N/NW/NWELLNHOF/Plack-Middleware-XSLT-0.30.tar.gz
-Plack::Middleware::XSRFBlock   0.000019  D/DA/DAKKAR/Plack-Middleware-XSRFBlock-0.0.19.tar.gz
+Plack::Middleware::XSRFBlock   0.000020  D/DA/DAKKAR/Plack-Middleware-XSRFBlock-0.0.20.tar.gz
 Plack::Middleware::Zitadel        0.010  G/GE/GETTY/Plack-Middleware-Zitadel-0.010.tar.gz
 Plack::Middleware::Zstandard       0.02  P/PL/PLICEASE/Plack-Middleware-Zstandard-0.02.tar.gz
 Plack::MIME                       undef  M/MI/MIYAGAWA/Plack-1.0057.tar.gz
