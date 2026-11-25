@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271296
-Last-Updated: Wed, 25 Nov 2026 00:41:02 GMT
+Last-Updated: Wed, 25 Nov 2026 02:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -69147,7 +69147,7 @@ Dist::Zilla::Plugin::Test::Perl::Critic 3.005  E/ET/ETHER/Dist-Zilla-Plugin-Test
 Dist::Zilla::Plugin::Test::Perl::Critic::Freenode 0.002  C/CO/COFFEE/Dist-Zilla-Plugin-Test-Perl-Critic-Freenode-0.002.tar.gz
 Dist::Zilla::Plugin::Test::Perl::Critic::Subset v3.1.6  P/PE/PERLANCAR/Dist-Zilla-Plugin-Test-Perl-Critic-Subset-3.001.006.tar.gz
 Dist::Zilla::Plugin::Test::Pod::Coverage::Configurable 0.07  D/DR/DROLSKY/Dist-Zilla-Plugin-Test-Pod-Coverage-Configurable-0.07.tar.gz
-Dist::Zilla::Plugin::Test::Pod::Coverage::More 0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
+Dist::Zilla::Plugin::Test::Pod::Coverage::More 0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
 Dist::Zilla::Plugin::Test::Pod::Coverage::TrustMe v1.0.1  H/HA/HAARG/Dist-Zilla-Plugin-Test-Pod-Coverage-TrustMe-v1.0.1.tar.gz
 Dist::Zilla::Plugin::Test::Pod::LinkCheck 1.004  R/RW/RWSTAUNER/Dist-Zilla-Plugin-Test-Pod-LinkCheck-1.004.tar.gz
 Dist::Zilla::Plugin::Test::Pod::No404s 1.004  R/RW/RWSTAUNER/Dist-Zilla-Plugin-Test-Pod-No404s-1.004.tar.gz
@@ -203564,22 +203564,22 @@ Pod::Coverage::Extractor           0.23  R/RC/RCLAMP/Pod-Coverage-0.23.tar.gz
 Pod::Coverage::MethodSignatures    0.02  D/DA/DAPATRICK/Pod-Coverage-MethodSignatures-0.02.tar.gz
 Pod::Coverage::Moose               0.08  E/ET/ETHER/Pod-Coverage-Moose-0.08.tar.gz
 Pod::Coverage::mop                0.002  F/FG/FGA/Pod-Coverage-mop-0.002.tar.gz
-Pod::Coverage::More               0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Analyzer     0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Analyzer::Perl5_36 0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Analyzer::Perl5_38 0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Analyzer::Perl5_44 0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Blurb        0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Declared     0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Declared::ClassTiny 0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Declared::FunctionParameters 0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Declared::Kavorka 0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Declared::MOP 0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Declared::ObjectPad 0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Declared::TypeParams 0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Documentation 0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Generator    0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
-Pod::Coverage::More::Types        0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
+Pod::Coverage::More               0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Analyzer     0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Analyzer::Perl5_36 0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Analyzer::Perl5_38 0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Analyzer::Perl5_44 0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Blurb        0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Declared     0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Declared::ClassTiny 0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Declared::FunctionParameters 0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Declared::Kavorka 0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Declared::MOP 0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Declared::ObjectPad 0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Declared::TypeParams 0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Documentation 0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Generator    0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
+Pod::Coverage::More::Types        0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
 Pod::Coverage::Overloader         undef  R/RC/RCLAMP/Pod-Coverage-0.23.tar.gz
 Pod::Coverage::TrustMe         0.002002  H/HA/HAARG/Pod-Coverage-TrustMe-0.002002.tar.gz
 Pod::Coverage::TrustMe::Parser 0.002002  H/HA/HAARG/Pod-Coverage-TrustMe-0.002002.tar.gz
@@ -204231,7 +204231,7 @@ Pod::Weaver::Section::Availability 1.20  D/DO/DOHERTY/Pod-Weaver-Section-Availab
 Pod::Weaver::Section::Badges     0.0402  C/CS/CSSON/Pod-Weaver-Section-Badges-0.0402.tar.gz
 Pod::Weaver::Section::Badges::PluginSearcher 0.0402  C/CS/CSSON/Pod-Weaver-Section-Badges-0.0402.tar.gz
 Pod::Weaver::Section::Badges::Utils 0.0402  C/CS/CSSON/Pod-Weaver-Section-Badges-0.0402.tar.gz
-Pod::Weaver::Section::Blurbs      0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
+Pod::Weaver::Section::Blurbs      0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
 Pod::Weaver::Section::BorderStyles::ANSITable 0.03  P/PE/PERLANCAR/Pod-Weaver-Section-BorderStyles-ANSITable-0.03.tar.gz
 Pod::Weaver::Section::Bugs        4.022  R/RJ/RJBS/Pod-Weaver-4.022.tar.gz
 Pod::Weaver::Section::Bugs::DefaultRT 0.06  P/PE/PERLANCAR/Pod-Weaver-Section-Bugs-DefaultRT-0.06.tar.gz
@@ -238086,7 +238086,7 @@ Test::Pockito::Moose::Role        undef  E/EX/EXUSSUM/Test-Pockito-0.02.tar.gz
 Test::Pod                          1.52  E/ET/ETHER/Test-Pod-1.52.tar.gz
 Test::Pod::Content               v0.0.6  M/MK/MKUTTER/Test-Pod-Content-v0.0.6.tar.gz
 Test::Pod::Coverage                1.10  N/NE/NEILB/Test-Pod-Coverage-1.10.tar.gz
-Test::Pod::Coverage::More         0.002  T/TE/TEODESIAN/Pod-Coverage-More-0.002.tar.gz
+Test::Pod::Coverage::More         0.003  T/TE/TEODESIAN/Pod-Coverage-More-0.003.tar.gz
 Test::Pod::Coverage::Permissive    0.05  G/GU/GUGU/Test-Pod-Coverage-Permissive-0.05.tar.gz
 Test::Pod::Coverage::TrustMe   0.002002  H/HA/HAARG/Pod-Coverage-TrustMe-0.002002.tar.gz
 Test::Pod::CoverageChange         0.005  D/DE/DERIV/Test-Pod-CoverageChange-0.005.tar.gz
