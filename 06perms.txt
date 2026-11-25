@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678675
+Line-Count:  678681
 Written-By:  PAUSE version 1.005
-Date:        Wed, 25 Nov 2026 16:17:26 GMT
+Date:        Wed, 25 Nov 2026 17:17:10 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -122546,6 +122546,7 @@ Data::Tools::Crypto::RSA,CADE,f
 Data::Tools::Crypto::Symmetric,CADE,f
 Data::Tools::Math,CADE,f
 Data::Tools::Process,CADE,f
+Data::Tools::Process::ForkPool,CADE,f
 Data::Tools::Process::Forks,CADE,f
 Data::Tools::Serialization,CADE,f
 Data::Tools::Socket,CADE,f
@@ -417955,6 +417956,11 @@ Net::Tomcat::Connector::Scoreboard::Entry,LTP,f
 Net::Tomcat::Connector::Statistics,LTP,f
 Net::Tomcat::JVM,LTP,f
 Net::Tomcat::Server,LTP,f
+Net::Tools,CADE,f
+Net::Tools::Socket,CADE,f
+Net::Tools::Socket::Err,CADE,f
+Net::Tools::Socket::Pair,CADE,f
+Net::Tools::Socket::Protocols,CADE,f
 Net::Topsy,LETO,f
 Net::Topsy::Result,LETO,c
 Net::Topsy::Role::API,LETO,c

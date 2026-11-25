@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271319
-Last-Updated: Wed, 25 Nov 2026 16:17:02 GMT
+Line-Count:   271325
+Last-Updated: Wed, 25 Nov 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -58287,18 +58287,19 @@ Data::Toolkit::Connector::DBI       1.0  A/AF/AFINDLAY/Data-Toolkit-1.1.tar.gz
 Data::Toolkit::Connector::LDAP      1.0  A/AF/AFINDLAY/Data-Toolkit-1.1.tar.gz
 Data::Toolkit::Entry                1.0  A/AF/AFINDLAY/Data-Toolkit-1.1.tar.gz
 Data::Toolkit::Map                  1.0  A/AF/AFINDLAY/Data-Toolkit-1.1.tar.gz
-Data::Tools                        1.52  C/CA/CADE/Data-Tools-1.52.tar.gz
+Data::Tools                        1.60  C/CA/CADE/Data-Tools-1.60.tar.gz
 Data::Tools::Crypto                1.53  C/CA/CADE/Data-Tools-Crypto-1.53.tar.gz
 Data::Tools::Crypto::RSA           1.53  C/CA/CADE/Data-Tools-Crypto-1.53.tar.gz
 Data::Tools::Crypto::Symmetric     1.53  C/CA/CADE/Data-Tools-Crypto-1.53.tar.gz
-Data::Tools::CSV                   1.52  C/CA/CADE/Data-Tools-1.52.tar.gz
-Data::Tools::Math                  1.52  C/CA/CADE/Data-Tools-1.52.tar.gz
-Data::Tools::Process               1.52  C/CA/CADE/Data-Tools-1.52.tar.gz
-Data::Tools::Process::Forks        1.52  C/CA/CADE/Data-Tools-1.52.tar.gz
-Data::Tools::Serialization         1.52  C/CA/CADE/Data-Tools-1.52.tar.gz
+Data::Tools::CSV                   1.60  C/CA/CADE/Data-Tools-1.60.tar.gz
+Data::Tools::Math                  1.60  C/CA/CADE/Data-Tools-1.60.tar.gz
+Data::Tools::Process               1.60  C/CA/CADE/Data-Tools-Process-1.60.tar.gz
+Data::Tools::Process::ForkPool     1.60  C/CA/CADE/Data-Tools-Process-1.60.tar.gz
+Data::Tools::Process::Forks        1.60  C/CA/CADE/Data-Tools-Process-1.60.tar.gz
+Data::Tools::Serialization         1.60  C/CA/CADE/Data-Tools-1.60.tar.gz
 Data::Tools::Socket                1.52  C/CA/CADE/Data-Tools-1.52.tar.gz
 Data::Tools::Socket::Protocols     1.52  C/CA/CADE/Data-Tools-1.52.tar.gz
-Data::Tools::Time                  1.52  C/CA/CADE/Data-Tools-1.52.tar.gz
+Data::Tools::Time                  1.60  C/CA/CADE/Data-Tools-1.60.tar.gz
 Data::TOON                         0.03  Y/YT/YTURTLE/Data-TOON-0.03.tar.gz
 Data::TOON::Decoder               undef  Y/YT/YTURTLE/Data-TOON-0.03.tar.gz
 Data::TOON::Encoder               undef  Y/YT/YTURTLE/Data-TOON-0.03.tar.gz
@@ -157989,6 +157990,11 @@ Net::Tomcat::Connector::Scoreboard::Entry 0.01  L/LT/LTP/Net-Tomcat-0.01.tar.gz
 Net::Tomcat::Connector::Statistics 0.01  L/LT/LTP/Net-Tomcat-0.01.tar.gz
 Net::Tomcat::JVM                   0.01  L/LT/LTP/Net-Tomcat-0.01.tar.gz
 Net::Tomcat::Server                0.01  L/LT/LTP/Net-Tomcat-0.01.tar.gz
+Net::Tools                         1.60  C/CA/CADE/Net-Tools-1.60.tar.gz
+Net::Tools::Socket                 1.60  C/CA/CADE/Net-Tools-1.60.tar.gz
+Net::Tools::Socket::Err            1.60  C/CA/CADE/Net-Tools-1.60.tar.gz
+Net::Tools::Socket::Pair           1.60  C/CA/CADE/Net-Tools-1.60.tar.gz
+Net::Tools::Socket::Protocols      1.60  C/CA/CADE/Net-Tools-1.60.tar.gz
 Net::Topsy                         0.03  L/LE/LETO/Net-Topsy-0.03.tar.gz
 Net::Tor                          0.100  K/KE/KETHGEN/Net-Tor-v0.1.tar.gz
 Net::Tor::Servers                  0.02  A/AJ/AJDIXON/Net-Tor-Servers-0.02.tar.gz
