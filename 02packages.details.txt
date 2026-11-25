@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271326
-Last-Updated: Wed, 25 Nov 2026 22:41:02 GMT
+Line-Count:   271327
+Last-Updated: Wed, 25 Nov 2026 22:54:11 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -47900,8 +47900,9 @@ Config::ReadAndCheck               0.04  T/TP/TPABA/Config-ReadAndCheck/Config-R
 Config::Record                 1.001002  D/DA/DANBERR/Config-Record-1.1.2.tar.gz
 Config::Registry                   0.04  B/BL/BLUEFEET/Config-Registry-0.04.tar.gz
 Config::Reload                     0.21  V/VO/VOJ/Config-Reload-0.21.tar.gz
-Config::Resolver                v1.0.10  B/BI/BIGFOOT/Config-Resolver-1.0.10.tar.gz
-Config::Resolver::Utils         v1.0.10  B/BI/BIGFOOT/Config-Resolver-1.0.10.tar.gz
+Config::Resolver                 1.0.12  B/BI/BIGFOOT/Config-Resolver-1.0.12.tar.gz
+Config::Resolver::CLI            1.0.12  B/BI/BIGFOOT/Config-Resolver-1.0.12.tar.gz
+Config::Resolver::Utils          1.0.12  B/BI/BIGFOOT/Config-Resolver-1.0.12.tar.gz
 Config::ROFL                       1.09  N/NI/NICOMEN/Config-ROFL-1.12.tar.gz
 Config::Role                   0.001001  R/RO/ROBINS/Config-Role-0.1.1.tar.gz
 Config::Scoped                     0.22  G/GA/GAISSMAI/Config-Scoped-0.22.tar.gz
