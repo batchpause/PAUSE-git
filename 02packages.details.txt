@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271304
-Last-Updated: Wed, 25 Nov 2026 08:54:25 GMT
+Last-Updated: Wed, 25 Nov 2026 09:54:06 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -73318,34 +73318,34 @@ Ekahau::Server::Test::Background  undef  G/GI/GIFF/Ekahau-0.001.tar.gz
 Ekahau::Server::Test::Listener    undef  G/GI/GIFF/Ekahau-0.001.tar.gz
 Ekoi8r                             1.22  I/IN/INA/KOI8R/KOI8R-1.22.tar.gz
 Ekoi8u                             1.22  I/IN/INA/KOI8U/KOI8U-1.22.tar.gz
-Ekorn::Pipeline                 v0.3.15  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Context          undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::CSV              undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::CSV::Text        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Element          undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Errors           undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Factories        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Feed             undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Gather           undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Iterator         undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::JSON             undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Operators        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Operators::Chain undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Operators::Stages undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Pipes            undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Sink             undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Sink::Many       undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Sink::One        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Sinks            undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Source           undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Sources          undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Stage            undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Stages::Batch    undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Stages::Flow     undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Stages::Taps     undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Stop             undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Sugar            undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
-Ekorn::Pipeline::Tooling          undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.15.tar.gz
+Ekorn::Pipeline                 v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Context        v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::CSV            v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::CSV::Text        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Element        v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Errors         v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Factories      v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Feed           v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Gather         v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Iterator       v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::JSON           v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Operators      v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Operators::Chain undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Operators::Stages undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Pipes          v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Sink           v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Sink::Many       undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Sink::One        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Sinks          v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Source         v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Sources        v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Stage          v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Stages::Batch  v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Stages::Flow   v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Stages::Taps   v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Stop           v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Sugar          v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
+Ekorn::Pipeline::Tooling        v0.3.16  C/CP/CPANIC/Ekorn-Pipeline-v0.3.16.tar.gz
 Ekps9566                           1.22  I/IN/INA/KPS9566/KPS9566-1.22.tar.gz
 Eksc5601                           1.22  I/IN/INA/KSC5601/KSC5601-1.22.tar.gz
 ELab::Client                      0.020  A/AK/AKHUETTEL/ELab-Client-0.020.tar.gz
