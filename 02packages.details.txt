@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271297
-Last-Updated: Wed, 25 Nov 2026 04:54:33 GMT
+Last-Updated: Wed, 25 Nov 2026 06:54:12 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -115314,19 +115314,19 @@ Internals                           1.1  S/ST/STBEY/Internals-1.1.tar.gz
 Internals::CountObjects            0.05  J/JJ/JJORE/Internals-CountObjects-0.05.tar.gz
 Internals::DumpArenas              0.12  J/JJ/JJORE/Internals-DumpArenas-0.12.tar.gz
 Internals::GraphArenas             0.01  J/JJ/JJORE/Internals-GraphArenas-0.01.tar.gz
-InternetData                   1.019000  M/MS/MSLM/InternetData-1.19.0.tar.gz
-InternetData::AsnResult        1.019000  M/MS/MSLM/InternetData-1.19.0.tar.gz
-InternetData::Bogon            1.019000  M/MS/MSLM/InternetData-1.19.0.tar.gz
-InternetData::Bogons              undef  M/MS/MSLM/InternetData-1.19.0.tar.gz
-InternetData::Cache            1.019000  M/MS/MSLM/InternetData-1.19.0.tar.gz
-InternetData::Database         1.019000  M/MS/MSLM/InternetData-1.19.0.tar.gz
-InternetData::DomainResult     1.019000  M/MS/MSLM/InternetData-1.19.0.tar.gz
-InternetData::Error            1.019000  M/MS/MSLM/InternetData-1.19.0.tar.gz
-InternetData::Oauth            1.019000  M/MS/MSLM/InternetData-1.19.0.tar.gz
-InternetData::OauthAccessDeniedError 1.019000  M/MS/MSLM/InternetData-1.19.0.tar.gz
-InternetData::OauthError       1.019000  M/MS/MSLM/InternetData-1.19.0.tar.gz
-InternetData::OauthExpiredTokenError 1.019000  M/MS/MSLM/InternetData-1.19.0.tar.gz
-InternetData::Result           1.019000  M/MS/MSLM/InternetData-1.19.0.tar.gz
+InternetData                   1.020000  M/MS/MSLM/InternetData-1.20.0.tar.gz
+InternetData::AsnResult        1.020000  M/MS/MSLM/InternetData-1.20.0.tar.gz
+InternetData::Bogon            1.020000  M/MS/MSLM/InternetData-1.20.0.tar.gz
+InternetData::Bogons              undef  M/MS/MSLM/InternetData-1.20.0.tar.gz
+InternetData::Cache            1.020000  M/MS/MSLM/InternetData-1.20.0.tar.gz
+InternetData::Database         1.020000  M/MS/MSLM/InternetData-1.20.0.tar.gz
+InternetData::DomainResult     1.020000  M/MS/MSLM/InternetData-1.20.0.tar.gz
+InternetData::Error            1.020000  M/MS/MSLM/InternetData-1.20.0.tar.gz
+InternetData::Oauth            1.020000  M/MS/MSLM/InternetData-1.20.0.tar.gz
+InternetData::OauthAccessDeniedError 1.020000  M/MS/MSLM/InternetData-1.20.0.tar.gz
+InternetData::OauthError       1.020000  M/MS/MSLM/InternetData-1.20.0.tar.gz
+InternetData::OauthExpiredTokenError 1.020000  M/MS/MSLM/InternetData-1.20.0.tar.gz
+InternetData::Result           1.020000  M/MS/MSLM/InternetData-1.20.0.tar.gz
 Interpolation                      0.74  J/JE/JENDA/Interpolation-0.74.tar.gz
 Interpolation::A2A                 0.71  J/JE/JENDA/Interpolation-0.71.tar.gz
 Interpolation::A2S                 0.71  J/JE/JENDA/Interpolation-0.71.tar.gz
