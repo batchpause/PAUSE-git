@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271316
-Last-Updated: Wed, 25 Nov 2026 15:41:02 GMT
+Line-Count:   271319
+Last-Updated: Wed, 25 Nov 2026 16:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -21093,10 +21093,12 @@ Attean::Variable                  0.041  G/GW/GWILLIAMS/Attean-0.041.tar.gz
 AtteanX::API::JoinRotatingPlanner 0.041  G/GW/GWILLIAMS/Attean-0.041.tar.gz
 AtteanX::API::Lexer               0.041  G/GW/GWILLIAMS/Attean-0.041.tar.gz
 AtteanX::Compatibility::Trine     0.002  K/KJ/KJETILK/AtteanX-Compatibility-Trine-0.002.tar.gz
-AtteanX::Endpoint                 0.003  G/GW/GWILLIAMS/AtteanX-Endpoint-0.003.tar.gz
-AtteanX::Endpoint::ClientError    0.003  G/GW/GWILLIAMS/AtteanX-Endpoint-0.003.tar.gz
-AtteanX::Endpoint::Error          0.003  G/GW/GWILLIAMS/AtteanX-Endpoint-0.003.tar.gz
-AtteanX::Endpoint::ServerError    0.003  G/GW/GWILLIAMS/AtteanX-Endpoint-0.003.tar.gz
+AtteanX::Endpoint                 0.004  G/GW/GWILLIAMS/AtteanX-Endpoint-0.004.tar.gz
+AtteanX::Endpoint::ClientError    0.004  G/GW/GWILLIAMS/AtteanX-Endpoint-0.004.tar.gz
+AtteanX::Endpoint::Error          0.004  G/GW/GWILLIAMS/AtteanX-Endpoint-0.004.tar.gz
+AtteanX::Endpoint::GraphStoreProtocol 0.004  G/GW/GWILLIAMS/AtteanX-Endpoint-0.004.tar.gz
+AtteanX::Endpoint::Protocol       0.004  G/GW/GWILLIAMS/AtteanX-Endpoint-0.004.tar.gz
+AtteanX::Endpoint::ServerError    0.004  G/GW/GWILLIAMS/AtteanX-Endpoint-0.004.tar.gz
 AtteanX::Error                    0.003  G/GW/GWILLIAMS/AtteanX-Endpoint-0.003.tar.gz
 AtteanX::Functions::CompositeLists 0.041  G/GW/GWILLIAMS/Attean-0.041.tar.gz
 AtteanX::Functions::CompositeLists::ListLiteral 0.041  G/GW/GWILLIAMS/Attean-0.041.tar.gz
@@ -75374,13 +75376,13 @@ Eve::Template                     undef  Z/ZI/ZINIGOR/Eve-0.06.tar.gz
 Eve::TemplateStub                 undef  Z/ZI/ZINIGOR/Eve-0.06.tar.gz
 Eve::Test                         undef  Z/ZI/ZINIGOR/Eve-0.06.tar.gz
 Eve::Uri                          undef  Z/ZI/ZINIGOR/Eve-0.06.tar.gz
-Event                              1.28  E/ET/ETJ/Event-1.28.tar.gz
+Event                              1.29  E/ET/ETJ/Event-1.29.tar.gz
 Event::Distributor                 0.06  P/PE/PEVANS/Event-Distributor-0.06.tar.gz
 Event::Distributor::Action         0.06  P/PE/PEVANS/Event-Distributor-0.06.tar.gz
 Event::Distributor::Query          0.06  P/PE/PEVANS/Event-Distributor-0.06.tar.gz
 Event::Distributor::Signal         0.06  P/PE/PEVANS/Event-Distributor-0.06.tar.gz
-Event::Event::Dataful              1.28  E/ET/ETJ/Event-1.28.tar.gz
-Event::Event::Io                   1.28  E/ET/ETJ/Event-1.28.tar.gz
+Event::Event::Dataful              1.29  E/ET/ETJ/Event-1.29.tar.gz
+Event::Event::Io                   1.29  E/ET/ETJ/Event-1.29.tar.gz
 Event::ExecFlow                    0.64  J/JR/JRED/Event-ExecFlow-0.64.tar.gz
 Event::ExecFlow::Callbacks        undef  J/JR/JRED/Event-ExecFlow-0.64.tar.gz
 Event::ExecFlow::Frontend         undef  J/JR/JRED/Event-ExecFlow-0.64.tar.gz
@@ -75393,17 +75395,17 @@ Event::ExecFlow::Scheduler        undef  J/JR/JRED/Event-ExecFlow-0.64.tar.gz
 Event::ExecFlow::Scheduler::SimpleMax undef  J/JR/JRED/Event-ExecFlow-0.64.tar.gz
 Event::File                    0.001001  R/RS/RSD/Event-File-0.1.1.tar.gz
 Event::File::tail              0.001001  R/RS/RSD/Event-File-0.1.1.tar.gz
-Event::generic                    undef  E/ET/ETJ/Event-1.28.tar.gz
-Event::generic::Source            undef  E/ET/ETJ/Event-1.28.tar.gz
-Event::group                      undef  E/ET/ETJ/Event-1.28.tar.gz
-Event::idle                       undef  E/ET/ETJ/Event-1.28.tar.gz
-Event::io                         undef  E/ET/ETJ/Event-1.28.tar.gz
+Event::generic                    undef  E/ET/ETJ/Event-1.29.tar.gz
+Event::generic::Source            undef  E/ET/ETJ/Event-1.29.tar.gz
+Event::group                      undef  E/ET/ETJ/Event-1.29.tar.gz
+Event::idle                       undef  E/ET/ETJ/Event-1.29.tar.gz
+Event::io                         undef  E/ET/ETJ/Event-1.29.tar.gz
 Event::IO::Record                  0.01  D/DB/DBROBINS/Event-IO-0.01.tar.gz
 Event::IO::Server                  0.01  D/DB/DBROBINS/Event-IO-0.01.tar.gz
 Event::Join                        0.06  J/JR/JROCKWAY/Event-Join-0.06.tar.gz
 Event::Lib                         1.03  V/VP/VPARSEVAL/Event-Lib-1.03.tar.gz
 Event::Lib::UDPPump                0.01  C/CM/CMO/Event-Lib-UDPPump-0.01.tar.gz
-Event::MakeMaker                  undef  E/ET/ETJ/Event-1.28.tar.gz
+Event::MakeMaker                  undef  E/ET/ETJ/Event-1.29.tar.gz
 Event::Manual                      0.01  H/HV/HVC/Video-Manip-0.02.tar.gz
 Event::Notify                   0.00005  D/DM/DMAKI/Event-Notify-0.00005.tar.gz
 Event::RPC                         1.11  J/JR/JRED/Event-RPC-1.11.tar.gz
@@ -75427,16 +75429,16 @@ Event::RPC::Server                undef  J/JR/JRED/Event-RPC-1.11.tar.gz
 Event::Schedule                    0.02  M/MI/MICHAEL/Event-Schedule-0.02.tar.gz
 Event::ScreenSaver               v0.0.6  I/IV/IVANWILLS/Event-ScreenSaver-v0.0.6.tar.gz
 Event::ScreenSaver::Unix         v0.0.6  I/IV/IVANWILLS/Event-ScreenSaver-v0.0.6.tar.gz
-Event::signal                     undef  E/ET/ETJ/Event-1.28.tar.gz
+Event::signal                     undef  E/ET/ETJ/Event-1.29.tar.gz
 Event::SlidingWindow               0.05  P/PA/PATL/Event-SlidingWindow-0.05.tar.gz
 Event::Stats                       1.03  E/ET/ETJ/Event-Stats-1.03.tar.gz
 Event::tcplisten                   0.06  J/JP/JPRIT/Event-tcp-0.14.tar.gz
 Event::tcpsession                  0.14  J/JP/JPRIT/Event-tcp-0.14.tar.gz
-Event::timer                      undef  E/ET/ETJ/Event-1.28.tar.gz
-Event::type                       undef  E/ET/ETJ/Event-1.28.tar.gz
-Event::var                        undef  E/ET/ETJ/Event-1.28.tar.gz
-Event::Watcher                    undef  E/ET/ETJ/Event-1.28.tar.gz
-Event::Watcher::Tied              undef  E/ET/ETJ/Event-1.28.tar.gz
+Event::timer                      undef  E/ET/ETJ/Event-1.29.tar.gz
+Event::type                       undef  E/ET/ETJ/Event-1.29.tar.gz
+Event::var                        undef  E/ET/ETJ/Event-1.29.tar.gz
+Event::Watcher                    undef  E/ET/ETJ/Event-1.29.tar.gz
+Event::Watcher::Tied              undef  E/ET/ETJ/Event-1.29.tar.gz
 Event::Wrappable               0.001001  W/WI/WINTER/Event-Wrappable-0.1.1.tar.gz
 EventBench::ObjectMethod::Array   undef  R/RC/RCAPUTO/Reflex-0.100.tar.gz
 EventBench::ObjectMethod::CBManager undef  R/RC/RCAPUTO/Reflex-0.100.tar.gz
@@ -201905,7 +201907,7 @@ Plack                            1.0057  M/MI/MIYAGAWA/Plack-1.0057.tar.gz
 Plack::App::Apache::ActionWrapper 0.031000  R/RO/ROBINS/Plack-App-Apache-ActionWrapper-0.31.0.tar.gz
 Plack::App::APISchema::Document   undef  A/AK/AKIYM/APISchema-1.37.tar.gz
 Plack::App::APISchema::MockServer undef  A/AK/AKIYM/APISchema-1.37.tar.gz
-Plack::App::AtteanX::Endpoint     0.003  G/GW/GWILLIAMS/AtteanX-Endpoint-0.003.tar.gz
+Plack::App::AtteanX::Endpoint     0.004  G/GW/GWILLIAMS/AtteanX-Endpoint-0.004.tar.gz
 Plack::App::AtteanX::Query::Cache 0.002  K/KJ/KJETILK/AtteanX-Query-Cache-0.002.tar.gz
 Plack::App::BeanstalkConsole      0.010  E/ET/ETHER/Plack-App-BeanstalkConsole-0.010.tar.gz
 Plack::App::Cascade               undef  M/MI/MIYAGAWA/Plack-1.0057.tar.gz
@@ -236552,6 +236554,7 @@ Test::Attean::TestSimpleQueryEvaluator 0.033  G/GW/GWILLIAMS/Attean-0.041.tar.gz
 Test::Attean::TimeCacheableQuadStore undef  G/GW/GWILLIAMS/Attean-0.041.tar.gz
 Test::Attean::TripleStore         undef  G/GW/GWILLIAMS/Attean-0.041.tar.gz
 Test::Attean::W3CManifestTestSuite undef  G/GW/GWILLIAMS/Attean-0.041.tar.gz
+Test::AtteanX::Endpoint           0.004  G/GW/GWILLIAMS/AtteanX-Endpoint-0.004.tar.gz
 Test::AtteanX::Store::DBI         undef  G/GW/GWILLIAMS/AtteanX-Store-DBI-0.004.tar.gz
 Test::Attribute::AutoLevel         0.06  N/NE/NEKOKAK/Test-Attribute-AutoLevel-0.06.tar.gz
 Test::Auto                         0.14  A/AW/AWNCORP/Test-Auto-0.14.tar.gz
