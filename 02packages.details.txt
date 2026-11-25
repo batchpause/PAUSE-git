@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271326
-Last-Updated: Wed, 25 Nov 2026 20:54:17 GMT
+Last-Updated: Wed, 25 Nov 2026 21:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -133508,7 +133508,7 @@ Mail::DomainKeys::Message          0.88  A/AN/ANTHONYU/Mail-DomainKeys-1.0.tar.g
 Mail::DomainKeys::Policy           0.88  A/AN/ANTHONYU/Mail-DomainKeys-1.0.tar.gz
 Mail::DomainKeys::Signature        0.88  A/AN/ANTHONYU/Mail-DomainKeys-1.0.tar.gz
 Mail::DSPAM::Learning               0.1  T/TH/THHAMON/Mail-DSPAM-Learning-0.1.tar.gz
-Mail::DWIM                         0.11  M/MS/MSCHILLI/Mail-DWIM-0.11.tar.gz
+Mail::DWIM                         0.12  M/MS/MSCHILLI/Mail-DWIM-0.12.tar.gz
 Mail::Email::IMAP                  0.06  C/CO/CORION/Dancer-SearchApp-0.06.tar.gz
 Mail::Exchange::Attachment         0.01  G/GB/GBL/Mail-Exchange-0.04.tar.gz
 Mail::Exchange::CRC                0.02  G/GB/GBL/Mail-Exchange-0.04.tar.gz
