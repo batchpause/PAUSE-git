@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678653
+Line-Count:  678660
 Written-By:  PAUSE version 1.005
-Date:        Wed, 25 Nov 2026 03:29:40 GMT
+Date:        Wed, 25 Nov 2026 07:55:47 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -130306,6 +130306,9 @@ Developer::Dashboard::File,MICVU,f
 Developer::Dashboard::FileRegistry,MICVU,f
 Developer::Dashboard::FileSlurp,MICVU,f
 Developer::Dashboard::Folder,MICVU,f
+Developer::Dashboard::GoRoutine,MICVU,f
+Developer::Dashboard::GoRoutine::Channel,MICVU,f
+Developer::Dashboard::GoRoutine::Routine,MICVU,f
 Developer::Dashboard::Handle,MICVU,f
 Developer::Dashboard::Handle::Proxy,MICVU,f
 Developer::Dashboard::Housekeeper,MICVU,f
@@ -130378,6 +130381,10 @@ Developer::Dashboard::SessionStore,MICVU,f
 Developer::Dashboard::SkillDispatcher,MICVU,f
 Developer::Dashboard::SkillManager,MICVU,f
 Developer::Dashboard::StreamDrain,MICVU,f
+Developer::Dashboard::System::Menu,MICVU,f
+Developer::Dashboard::System::Menu::Item,MICVU,f
+Developer::Dashboard::SystemMenu,MICVU,f
+Developer::Dashboard::SystemMenu::Runner,MICVU,f
 Developer::Dashboard::TextUtils,MICVU,f
 Developer::Dashboard::TimeUtils,MICVU,f
 Developer::Dashboard::UpdateManager,MICVU,f
