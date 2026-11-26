@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271333
-Last-Updated: Thu, 26 Nov 2026 02:41:02 GMT
+Last-Updated: Thu, 26 Nov 2026 04:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -155450,9 +155450,9 @@ Net::LibNFS::X::NFSError          undef  F/FE/FELIPE/Net-LibNFS-0.05.tar.gz
 Net::LibNIDS                       0.14  E/ED/EDECA/Net-LibNIDS-0.14.tar.gz
 Net::Libproxy                      0.03  G/GO/GONERI/Net-Libproxy-0.03.tar.gz
 Net::LibResolv                     0.03  P/PE/PEVANS/Net-LibResolv-0.03.tar.gz
-Net::LibSSH                       0.004  G/GE/GETTY/Net-LibSSH-0.004.tar.gz
-Net::LibSSH::Channel              0.004  G/GE/GETTY/Net-LibSSH-0.004.tar.gz
-Net::LibSSH::SFTP                 0.004  G/GE/GETTY/Net-LibSSH-0.004.tar.gz
+Net::LibSSH                       0.005  G/GE/GETTY/Net-LibSSH-0.005.tar.gz
+Net::LibSSH::Channel              0.005  G/GE/GETTY/Net-LibSSH-0.005.tar.gz
+Net::LibSSH::SFTP                 0.005  G/GE/GETTY/Net-LibSSH-0.005.tar.gz
 Net::Libwebsockets                 0.02  F/FE/FELIPE/Net-Libwebsockets-0.02.tar.gz
 Net::Libwebsockets::Logger        undef  F/FE/FELIPE/Net-Libwebsockets-0.02.tar.gz
 Net::Libwebsockets::Loop          undef  F/FE/FELIPE/Net-Libwebsockets-0.02.tar.gz
@@ -212474,7 +212474,7 @@ Rex::Interface::Connection::Base v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Connection::Fake v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Connection::HTTP v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Connection::HTTPS v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
-Rex::Interface::Connection::LibSSH 0.005  G/GE/GETTY/Rex-LibSSH-0.005.tar.gz
+Rex::Interface::Connection::LibSSH 0.006  G/GE/GETTY/Rex-LibSSH-0.006.tar.gz
 Rex::Interface::Connection::Local v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Connection::OpenSSH v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Connection::SSH v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
@@ -212482,7 +212482,7 @@ Rex::Interface::Exec            v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Exec::Base      v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Exec::HTTP      v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Exec::IOReader  v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
-Rex::Interface::Exec::LibSSH      0.005  G/GE/GETTY/Rex-LibSSH-0.005.tar.gz
+Rex::Interface::Exec::LibSSH      0.006  G/GE/GETTY/Rex-LibSSH-0.006.tar.gz
 Rex::Interface::Exec::Local     v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Exec::OpenSSH   v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Exec::SSH       v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
@@ -212493,7 +212493,7 @@ Rex::Interface::Executor::Default v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::File            v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::File::Base      v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::File::HTTP      v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
-Rex::Interface::File::LibSSH      0.005  G/GE/GETTY/Rex-LibSSH-0.005.tar.gz
+Rex::Interface::File::LibSSH      0.006  G/GE/GETTY/Rex-LibSSH-0.006.tar.gz
 Rex::Interface::File::Local     v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::File::OpenSSH   v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::File::SSH       v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
@@ -212501,7 +212501,7 @@ Rex::Interface::File::Sudo      v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Fs              v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Fs::Base        v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Fs::HTTP        v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
-Rex::Interface::Fs::LibSSH        0.005  G/GE/GETTY/Rex-LibSSH-0.005.tar.gz
+Rex::Interface::Fs::LibSSH        0.006  G/GE/GETTY/Rex-LibSSH-0.006.tar.gz
 Rex::Interface::Fs::Local       v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Fs::OpenSSH     v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Interface::Fs::SSH         v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
@@ -212566,7 +212566,7 @@ Rex::JobControl::Mojolicious::Plugin::User 0.018000  J/JF/JFRIED/Rex-JobControl-
 Rex::JobControl::Nodes         0.018000  J/JF/JFRIED/Rex-JobControl-0.18.0.tar.gz
 Rex::JobControl::Project       0.018000  J/JF/JFRIED/Rex-JobControl-0.18.0.tar.gz
 Rex::JobControl::Rexfile       0.018000  J/JF/JFRIED/Rex-JobControl-0.18.0.tar.gz
-Rex::LibSSH                       0.005  G/GE/GETTY/Rex-LibSSH-0.005.tar.gz
+Rex::LibSSH                       0.006  G/GE/GETTY/Rex-LibSSH-0.006.tar.gz
 Rex::Logger                     v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Notify                     v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Output                     v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
