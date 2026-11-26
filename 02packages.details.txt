@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271334
-Last-Updated: Thu, 26 Nov 2026 16:54:12 GMT
+Last-Updated: Thu, 26 Nov 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -73336,34 +73336,34 @@ Ekahau::Server::Test::Background  undef  G/GI/GIFF/Ekahau-0.001.tar.gz
 Ekahau::Server::Test::Listener    undef  G/GI/GIFF/Ekahau-0.001.tar.gz
 Ekoi8r                             1.22  I/IN/INA/KOI8R/KOI8R-1.22.tar.gz
 Ekoi8u                             1.22  I/IN/INA/KOI8U/KOI8U-1.22.tar.gz
-Ekorn::Pipeline                  v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Context         v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::CSV             v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::CSV::Text        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Element         v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Errors          v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Factories       v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Feed            v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Gather          v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Iterator        v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::JSON            v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Operators       v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Operators::Chain undef  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Operators::Stages undef  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Pipes           v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Sink            v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Sink::Many       undef  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Sink::One        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Sinks           v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Source          v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Sources         v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Stage           v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Stages::Batch   v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Stages::Flow    v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Stages::Taps    v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Stop            v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Sugar           v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
-Ekorn::Pipeline::Tooling         v0.4.3  C/CP/CPANIC/Ekorn-Pipeline-v0.4.3.tar.gz
+Ekorn::Pipeline                  v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Context         v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::CSV             v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::CSV::Text        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Element         v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Errors          v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Factories       v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Feed            v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Gather          v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Iterator        v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::JSON            v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Operators       v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Operators::Chain undef  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Operators::Stages undef  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Pipes           v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Sink            v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Sink::Many       undef  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Sink::One        undef  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Sinks           v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Source          v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Sources         v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Stage           v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Stages::Batch   v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Stages::Flow    v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Stages::Taps    v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Stop            v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Sugar           v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
+Ekorn::Pipeline::Tooling         v0.4.4  C/CP/CPANIC/Ekorn-Pipeline-v0.4.4.tar.gz
 Ekps9566                           1.22  I/IN/INA/KPS9566/KPS9566-1.22.tar.gz
 Eksc5601                           1.22  I/IN/INA/KSC5601/KSC5601-1.22.tar.gz
 ELab::Client                      0.020  A/AK/AKHUETTEL/ELab-Client-0.020.tar.gz
@@ -112899,7 +112899,7 @@ HTTP::LRDD                        0.106  T/TO/TOBYINK/HTTP-LRDD-0.106.tar.gz
 HTTP::Message                      7.04  O/OA/OALDERS/HTTP-Message-7.04.tar.gz
 HTTP::Message::JSON               undef  S/SK/SKINGTON/LWP-JSON-Tiny-0.014.tar.gz
 HTTP::Message::PSGI               undef  M/MI/MIYAGAWA/Plack-1.0057.tar.gz
-HTTP::Message::Signature         v0.0.2  R/RR/RRWO/HTTP-Message-Signature-v0.0.2.tar.gz
+HTTP::Message::Signature         v0.0.3  R/RR/RRWO/HTTP-Message-Signature-v0.0.3.tar.gz
 HTTP::MessageParser                 0.3  C/CH/CHANSEN/HTTP-MessageParser-0.3.tar.gz
 HTTP::Method                       0.03  V/VA/VANHOESEL/HTTP-Method-0.03.tar.gz
 HTTP::MHTTP                        0.15  P/PI/PIERS/HTTP-MHTTP-0.15.tar.gz
@@ -142171,7 +142171,7 @@ Module::Build::Service::memcached  0.91  M/MD/MDORMAN/Module-Build-Service-0.91.
 Module::Build::Service::postgresql 0.91  M/MD/MDORMAN/Module-Build-Service-0.91.tar.gz
 Module::Build::Service::slapd      0.91  M/MD/MDORMAN/Module-Build-Service-0.91.tar.gz
 Module::Build::Smolder             0.02  W/WO/WONKO/Module-Build-Smolder-0.02.tar.gz
-Module::Build::SysPath             0.21  J/JK/JKUTEJ/Module-Build-SysPath-0.21.tar.gz
+Module::Build::SysPath             0.22  J/JK/JKUTEJ/Module-Build-SysPath-0.22.tar.gz
 Module::Build::TAPArchive          0.04  W/WO/WONKO/Module-Build-TAPArchive-0.04.tar.gz
 Module::Build::TestReporter           1  C/CH/CHROMATIC/Module-Build-TestReporter-1.00.tar.gz
 Module::Build::Tiny               0.053  L/LE/LEONT/Module-Build-Tiny-0.053.tar.gz
