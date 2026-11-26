@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678688
+Line-Count:  678689
 Written-By:  PAUSE version 1.005
-Date:        Thu, 26 Nov 2026 00:42:12 GMT
+Date:        Thu, 26 Nov 2026 02:41:28 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -19679,6 +19679,7 @@ App::Netdisco::DB::Result::Virtual::ApRadioChannelPower,OLIVER,f
 App::Netdisco::DB::Result::Virtual::CidrIps,OLIVER,f
 App::Netdisco::DB::Result::Virtual::CidrIpsByDomain,OLIVER,f
 App::Netdisco::DB::Result::Virtual::DeviceDnsMismatch,OLIVER,f
+App::Netdisco::DB::Result::Virtual::DeviceLastJobs,OLIVER,f
 App::Netdisco::DB::Result::Virtual::DeviceLinks,OLIVER,f
 App::Netdisco::DB::Result::Virtual::DevicePlatforms,OLIVER,f
 App::Netdisco::DB::Result::Virtual::DevicePoeStatus,OLIVER,f
