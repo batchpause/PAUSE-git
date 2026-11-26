@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271333
-Last-Updated: Thu, 26 Nov 2026 09:54:11 GMT
+Last-Updated: Thu, 26 Nov 2026 10:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -64764,27 +64764,27 @@ DBIx::SQLite::Simple               0.35  G/GO/GOMOR/DBIx-SQLite-Simple-0.35.tar.
 DBIx::SQLite::Simple::Table       undef  G/GO/GOMOR/DBIx-SQLite-Simple-0.35.tar.gz
 DBIx::SQLstate                 0.000005  V/VA/VANHOESEL/DBIx-SQLstate-v0.0.5.tar.gz
 DBIx::SQLstate::wikipedia      20230517.1200  V/VA/VANHOESEL/DBIx-SQLstate-v0.0.5.tar.gz
-DBIx::Squirrel                   v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Context          v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
+DBIx::Squirrel                   v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Context          v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
 DBIx::Squirrel::Crypt::Fernet     undef  C/CP/CPANIC/DBIx-Squirrel-1.5.3.tar.gz
-DBIx::Squirrel::db               v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Errors           v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Gather           v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Iterator         v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
+DBIx::Squirrel::db               v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Errors           v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Gather           v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Iterator         v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
 DBIx::Squirrel::Pipeline          undef  C/CP/CPANIC/DBIx-Squirrel-v2.1.0.tar.gz
 DBIx::Squirrel::Pipes             undef  C/CP/CPANIC/DBIx-Squirrel-v2.1.0.tar.gz
-DBIx::Squirrel::Placeholders     v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Result           v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Results          v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::st               v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Stages::Batch    v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Stages::Flow     v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Stages::Rows     v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Stages::Taps     v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Stop             v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Sugar            v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Tooling          v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
-DBIx::Squirrel::Util             v4.1.0  C/CP/CPANIC/DBIx-Squirrel-v4.1.0.tar.gz
+DBIx::Squirrel::Placeholders     v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Result           v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Results          v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::st               v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Stages::Batch    v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Stages::Flow     v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Stages::Rows     v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Stages::Taps     v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Stop             v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Sugar            v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Tooling          v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
+DBIx::Squirrel::Util             v4.1.1  C/CP/CPANIC/DBIx-Squirrel-v4.1.1.tar.gz
 DBIx::Struct                       0.50  A/AN/ANTONPETR/DBIx-Struct-0.50.tar.gz
 DBIx::Struct::Connector            0.50  A/AN/ANTONPETR/DBIx-Struct-0.50.tar.gz
 DBIx::Struct::Error::Hash          0.50  A/AN/ANTONPETR/DBIx-Struct-0.50.tar.gz
