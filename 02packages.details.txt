@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271343
-Last-Updated: Thu, 26 Nov 2026 18:54:17 GMT
+Last-Updated: Thu, 26 Nov 2026 19:54:20 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -58260,7 +58260,6 @@ Data::Text::Simple                 0.03  S/SK/SKIM/Data-Text-Simple-0.03.tar.gz
 Data::Throttler                    0.09  M/MS/MSCHILLI/Data-Throttler-0.09.tar.gz
 Data::Throttler::Backend::Base     0.09  M/MS/MSCHILLI/Data-Throttler-0.09.tar.gz
 Data::Throttler::Backend::Memory   0.09  M/MS/MSCHILLI/Data-Throttler-0.09.tar.gz
-Data::Throttler::Backend::VWF  0.002000  N/NH/NHORNE/Web-VWF-0.002.0.tar.gz
 Data::Throttler::Backend::YAML     0.09  M/MS/MSCHILLI/Data-Throttler-0.09.tar.gz
 Data::Throttler::BucketChain       0.09  M/MS/MSCHILLI/Data-Throttler-0.09.tar.gz
 Data::Throttler::BucketChain::Memcached undef  D/DM/DMAKI/Data-Throttler-Memcached-0.00003.tar.gz
@@ -75224,11 +75223,12 @@ EV::MakeMaker                     undef  M/ML/MLEHMANN/EV-4.37.tar.gz
 EV::MariaDB                        0.09  E/EG/EGOR/EV-MariaDB-0.09.tar.gz
 EV::Memcached                      0.06  E/EG/EGOR/EV-Memcached-0.06.tar.gz
 EV::mysql                          0.01  E/EG/EGOR/EV-mysql-0.01.tar.gz
-EV::Nats                           0.07  E/EG/EGOR/EV-Nats-0.07.tar.gz
-EV::Nats::JetStream                0.07  E/EG/EGOR/EV-Nats-0.07.tar.gz
-EV::Nats::JetStream::Fetch         0.07  E/EG/EGOR/EV-Nats-0.07.tar.gz
-EV::Nats::KV                       0.07  E/EG/EGOR/EV-Nats-0.07.tar.gz
-EV::Nats::ObjectStore              0.07  E/EG/EGOR/EV-Nats-0.07.tar.gz
+EV::Nats                           0.08  E/EG/EGOR/EV-Nats-0.08.tar.gz
+EV::Nats::JetStream                0.08  E/EG/EGOR/EV-Nats-0.08.tar.gz
+EV::Nats::JetStream::Fetch         0.08  E/EG/EGOR/EV-Nats-0.08.tar.gz
+EV::Nats::KV                       0.08  E/EG/EGOR/EV-Nats-0.08.tar.gz
+EV::Nats::KV::Watch                0.08  E/EG/EGOR/EV-Nats-0.08.tar.gz
+EV::Nats::ObjectStore              0.08  E/EG/EGOR/EV-Nats-0.08.tar.gz
 EV::Periodic                      undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
 EV::Pg                             0.09  E/EG/EGOR/EV-Pg-0.09.tar.gz
 EV::Prepare                       undef  N/NO/NOVOZHILV/App-SimpleBackuper-0.2.22.tar.gz
