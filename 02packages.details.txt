@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271333
-Last-Updated: Thu, 26 Nov 2026 06:53:56 GMT
+Last-Updated: Thu, 26 Nov 2026 08:54:08 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -239644,7 +239644,7 @@ Text::DumbTemplate                0.002  P/PE/PERLANCAR/Text-DumbTemplate-0.002.
 Text::EasyTemplate                 0.01  L/LC/LCHAVEZ/Text-EasyTemplate-0.01.tar.gz
 Text::Echelon                      0.02  I/ID/IDORU/Text-Echelon-0.02.tar.gz
 Text::ECSV                         0.02  J/JK/JKUTEJ/Text-ECSV-0.02.tar.gz
-Text::EditDistance::DamerauLevenshtein 0.02  M/MA/MAUKE/Text-EditDistance-DamerauLevenshtein-0.02.tar.gz
+Text::EditDistance::DamerauLevenshtein 0.03  M/MA/MAUKE/Text-EditDistance-DamerauLevenshtein-0.03.tar.gz
 Text::Editor::Vip                  0.08  N/NK/NKH/Text-Editor-Vip-0.08.1.tar.gz
 Text::Editor::Vip::Actions         0.01  N/NK/NKH/Text-Editor-Vip-0.08.1.tar.gz
 Text::Editor::Vip::Buffer          0.01  N/NK/NKH/Text-Editor-Vip-0.08.1.tar.gz
