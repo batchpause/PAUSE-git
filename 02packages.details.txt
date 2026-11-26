@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271334
-Last-Updated: Thu, 26 Nov 2026 14:41:02 GMT
+Last-Updated: Thu, 26 Nov 2026 16:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4465,7 +4465,7 @@ Alien::libgpiod                   0.100  S/SA/SACAVILIA/Alien-libgpiod-v0.1.tar.
 Alien::libgraphqlparser            0.02  H/HU/HUGMEIR/Alien-libgraphqlparser-0.02.tar.gz
 Alien::libgs1encoders              0.03  H/HA/HANGY/Alien-libgs1encoders-0.03.tar.gz
 Alien::LibGumbo                    0.06  B/BP/BPS/Alien-LibGumbo-0.06.tar.gz
-Alien::libhisto                0.004001  S/SM/SMUELLER/Alien-libhisto-0.4.1.tar.gz
+Alien::libhisto                0.004002  S/SM/SMUELLER/Alien-libhisto-0.4.2.tar.gz
 Alien::libjansson                  0.01  H/HU/HUGMEIR/Alien-libjansson-0.01.tar.gz
 Alien::Libjio                     1.004  J/JA/JAWNSY/Alien-Libjio-1.004.tar.gz
 Alien::LibJIT                      0.03  S/SM/SMUELLER/Alien-LibJIT-0.03.tar.gz
@@ -22846,15 +22846,15 @@ Barcode::DataMatrix::Reed         undef  M/MS/MSTRAT/Barcode-DataMatrix-0.10.tar
 Barcode::ZBar                      0.10  T/TI/TIMLEGGE/Barcode-ZBar-0.10.tar.gz
 Barcode::ZBar::Error               0.10  T/TI/TIMLEGGE/Barcode-ZBar-0.10.tar.gz
 bare                               0.02  B/BR/BRIANSKI/bare-0.02.tar.gz
-BarefootJS                      v0.41.3  K/KF/KFLY/BarefootJS-0.41.3.tar.gz
+BarefootJS                      v0.41.4  K/KF/KFLY/BarefootJS-0.41.4.tar.gz
 BarefootJS::_TZProbe           0.029000  K/KF/KFLY/BarefootJS-0.29.0.tar.gz
-BarefootJS::Backend::Mojo       v0.41.3  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.41.3.tar.gz
-BarefootJS::Backend::Xslate     v0.41.3  K/KF/KFLY/BarefootJS-Backend-Xslate-0.41.3.tar.gz
-BarefootJS::Date                v0.41.3  K/KF/KFLY/BarefootJS-0.41.3.tar.gz
-BarefootJS::DevReload           v0.41.3  K/KF/KFLY/BarefootJS-0.41.3.tar.gz
-BarefootJS::Evaluator           v0.41.3  K/KF/KFLY/BarefootJS-0.41.3.tar.gz
-BarefootJS::SearchParams        v0.41.3  K/KF/KFLY/BarefootJS-0.41.3.tar.gz
-BarefootJS::Undefined           v0.41.3  K/KF/KFLY/BarefootJS-0.41.3.tar.gz
+BarefootJS::Backend::Mojo       v0.41.4  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.41.4.tar.gz
+BarefootJS::Backend::Xslate     v0.41.4  K/KF/KFLY/BarefootJS-Backend-Xslate-0.41.4.tar.gz
+BarefootJS::Date                v0.41.4  K/KF/KFLY/BarefootJS-0.41.4.tar.gz
+BarefootJS::DevReload           v0.41.4  K/KF/KFLY/BarefootJS-0.41.4.tar.gz
+BarefootJS::Evaluator           v0.41.4  K/KF/KFLY/BarefootJS-0.41.4.tar.gz
+BarefootJS::SearchParams        v0.41.4  K/KF/KFLY/BarefootJS-0.41.4.tar.gz
+BarefootJS::Undefined           v0.41.4  K/KF/KFLY/BarefootJS-0.41.4.tar.gz
 bareword::filehandles             0.007  I/IL/ILMARI/bareword-filehandles-0.007.tar.gz
 barewords                          0.01  S/SA/SALVA/barewords-0.01.tar.gz
 Barracuda::Api                     0.03  M/MQ/MQL/Barracuda-Api-0.03.tar.gz
@@ -136669,15 +136669,15 @@ Math::GSL::Waveletc                   0  H/HA/HAKONH/Math-GSL-0.49.tar.gz
 Math::HashSum                      0.02  S/SP/SPLICE/Math-HashSum-0.02.tar.gz
 Math::HexGrid                      0.03  D/DF/DFARRELL/Math-HexGrid-0.03.tar.gz
 Math::HexGrid::Hex                 0.03  D/DF/DFARRELL/Math-HexGrid-0.03.tar.gz
-Math::Histo                    0.004001  S/SM/SMUELLER/Math-Histo-0.4.1.tar.gz
-Math::Histo::2D                0.004001  S/SM/SMUELLER/Math-Histo-0.4.1.tar.gz
-Math::Histo::CLI               0.004001  S/SM/SMUELLER/Math-Histo-0.4.1.tar.gz
-Math::Histo::Constants         0.004001  S/SM/SMUELLER/Math-Histo-0.4.1.tar.gz
-Math::Histo::Fit               0.004001  S/SM/SMUELLER/Math-Histo-0.4.1.tar.gz
-Math::Histo::Fit::Result       0.004001  S/SM/SMUELLER/Math-Histo-0.4.1.tar.gz
-Math::Histo::KDE               0.004001  S/SM/SMUELLER/Math-Histo-0.4.1.tar.gz
-Math::Histo::PDL               0.004001  S/SM/SMUELLER/Math-Histo-PDL-0.4.1.tar.gz
-Math::Histo::Sketch            0.004001  S/SM/SMUELLER/Math-Histo-0.4.1.tar.gz
+Math::Histo                    0.004002  S/SM/SMUELLER/Math-Histo-0.4.2.tar.gz
+Math::Histo::2D                0.004002  S/SM/SMUELLER/Math-Histo-0.4.2.tar.gz
+Math::Histo::CLI               0.004002  S/SM/SMUELLER/Math-Histo-0.4.2.tar.gz
+Math::Histo::Constants         0.004002  S/SM/SMUELLER/Math-Histo-0.4.2.tar.gz
+Math::Histo::Fit               0.004002  S/SM/SMUELLER/Math-Histo-0.4.2.tar.gz
+Math::Histo::Fit::Result       0.004002  S/SM/SMUELLER/Math-Histo-0.4.2.tar.gz
+Math::Histo::KDE               0.004002  S/SM/SMUELLER/Math-Histo-0.4.2.tar.gz
+Math::Histo::PDL               0.004002  S/SM/SMUELLER/Math-Histo-PDL-0.4.2.tar.gz
+Math::Histo::Sketch            0.004002  S/SM/SMUELLER/Math-Histo-0.4.2.tar.gz
 Math::Histogram                    1.04  S/SM/SMUELLER/Math-Histogram-1.04.tar.gz
 Math::Histogram::Axis             undef  S/SM/SMUELLER/Math-Histogram-1.04.tar.gz
 Math::HoltWinters                  0.03  J/JA/JANERT/Math-HoltWinters-0.03.tar.gz
@@ -143794,8 +143794,8 @@ Mojolicious::Plugin::AutoRoutePm   0.23  E/EB/EBRUNI/Mojolicious-Plugin-AutoRout
 Mojolicious::Plugin::AutoSecrets  0.006  M/MH/MHOWARD/Mojolicious-Plugin-AutoSecrets-0.006.tar.gz
 Mojolicious::Plugin::AWS           0.21  S/SC/SCOTTW/Mojolicious-Plugin-AWS-0.21.tar.gz
 Mojolicious::Plugin::Badge         1.12  G/GD/GDT/Mojolicious-Plugin-Badge-1.12.tar.gz
-Mojolicious::Plugin::BarefootJS v0.41.3  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.41.3.tar.gz
-Mojolicious::Plugin::BarefootJS::DevReload v0.41.3  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.41.3.tar.gz
+Mojolicious::Plugin::BarefootJS v0.41.4  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.41.4.tar.gz
+Mojolicious::Plugin::BarefootJS::DevReload v0.41.4  K/KF/KFLY/Mojolicious-Plugin-BarefootJS-0.41.4.tar.gz
 Mojolicious::Plugin::BasicAuth     0.08  T/TE/TEMPIRE/Mojolicious-Plugin-BasicAuth-0.08.tar.gz
 Mojolicious::Plugin::BasicAuthPlus  1.0  B/BL/BLR/Mojolicious-Plugin-BasicAuthPlus-1.0.tar.gz
 Mojolicious::Plugin::Bcrypt        0.14  M/MI/MINIMAL/Mojolicious-Plugin-Bcrypt-0.14.tar.gz
