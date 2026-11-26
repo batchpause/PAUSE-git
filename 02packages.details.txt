@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271336
-Last-Updated: Thu, 26 Nov 2026 18:17:02 GMT
+Line-Count:   271343
+Last-Updated: Thu, 26 Nov 2026 18:54:17 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -212405,20 +212405,27 @@ Rex::Fork::Manager              v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Fork::Task                 v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::FS::File                   v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Gearman                   0.032000  J/JF/JFRIED/Rex-Gearman-0.32.0.tar.gz
-Rex::GPU                          0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
-Rex::GPU::Detect                  0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
-Rex::GPU::Detect::Sysfs           0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
-Rex::GPU::NVIDIA                  0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
-Rex::GPU::NVIDIA::Requirement     0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
-Rex::GPU::NVIDIA::Setup           0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
-Rex::GPU::NVIDIA::Setup::Apt      0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
-Rex::GPU::NVIDIA::Setup::Debian   0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
-Rex::GPU::NVIDIA::Setup::RHEL     0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
-Rex::GPU::NVIDIA::Setup::Rpm      0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
-Rex::GPU::NVIDIA::Setup::SUSE     0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
-Rex::GPU::NVIDIA::Setup::Ubuntu   0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
-Rex::GPU::NVIDIA::Setup::UbuntuDrivers 0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
-Rex::GPU::NVIDIA::VGPU            0.005  G/GE/GETTY/Rex-GPU-0.005.tar.gz
+Rex::GPU                          0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::AMD                     0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::AMD::Hardware           0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::AMD::Setup              0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::AMD::Setup::Apt         0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::AMD::Setup::Debian      0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::AMD::Setup::RHEL        0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::AMD::Setup::Ubuntu      0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::Detect                  0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::Detect::Sysfs           0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::NVIDIA                  0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::NVIDIA::Requirement     0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::NVIDIA::Setup           0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::NVIDIA::Setup::Apt      0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::NVIDIA::Setup::Debian   0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::NVIDIA::Setup::RHEL     0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::NVIDIA::Setup::Rpm      0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::NVIDIA::Setup::SUSE     0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::NVIDIA::Setup::Ubuntu   0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::NVIDIA::Setup::UbuntuDrivers 0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
+Rex::GPU::NVIDIA::VGPU            0.006  G/GE/GETTY/Rex-GPU-0.006.tar.gz
 Rex::Group                      v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Group::Entry::Server       v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz
 Rex::Group::Lookup::Command     v1.16.1  F/FE/FERKI/Rex-1.16.1.tar.gz

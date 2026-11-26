@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678692
+Line-Count:  678699
 Written-By:  PAUSE version 1.005
-Date:        Thu, 26 Nov 2026 17:29:24 GMT
+Date:        Thu, 26 Nov 2026 18:55:38 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -570762,6 +570762,13 @@ Rex::Fork::Task,EHUELS,c
 Rex::Fork::Task,FERKI,c
 Rex::Fork::Task,JFRIED,f
 Rex::GPU,GETTY,f
+Rex::GPU::AMD,GETTY,f
+Rex::GPU::AMD::Hardware,GETTY,f
+Rex::GPU::AMD::Setup,GETTY,f
+Rex::GPU::AMD::Setup::Apt,GETTY,f
+Rex::GPU::AMD::Setup::Debian,GETTY,f
+Rex::GPU::AMD::Setup::RHEL,GETTY,f
+Rex::GPU::AMD::Setup::Ubuntu,GETTY,f
 Rex::GPU::Detect,GETTY,f
 Rex::GPU::Detect::Sysfs,GETTY,f
 Rex::GPU::NVIDIA,GETTY,f
