@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271333
-Last-Updated: Thu, 26 Nov 2026 09:17:02 GMT
+Last-Updated: Thu, 26 Nov 2026 09:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -52012,7 +52012,7 @@ Cucumber::TagExpressions::LiteralNode v11.2.0  C/CU/CUKEBOT/Cucumber-TagExpressi
 Cucumber::TagExpressions::Node  v11.2.0  C/CU/CUKEBOT/Cucumber-TagExpressions-11.2.0.tar.gz
 Cucumber::TagExpressions::NotNode v11.2.0  C/CU/CUKEBOT/Cucumber-TagExpressions-11.2.0.tar.gz
 Cucumber::TagExpressions::OrNode v11.2.0  C/CU/CUKEBOT/Cucumber-TagExpressions-11.2.0.tar.gz
-Cucumber::Test::Release::Automation undef  C/CU/CUKEBOT/Cucumber-Test-Release-Automation-v0.0.191.tar.gz
+Cucumber::Test::Release::Automation undef  C/CU/CUKEBOT/Cucumber-Test-Release-Automation-v0.0.192.tar.gz
 CUI                               undef  A/AY/AYMULYAR/SemMed-Interface-0.05.tar.gz
 Curia                               1.0  M/MI/MIKIO/qdbm-perl-1.8.14.tar.gz
 Curl::Impersonate                  0.03  E/EG/EGOR/Curl-Impersonate-0.03.tar.gz
@@ -86894,7 +86894,7 @@ Getopt::LL::Simple                  1.0  A/AS/ASKSH/Getopt-LL-1.0.0.tar.gz
 Getopt::LL::SimpleExporter          1.0  A/AS/ASKSH/Getopt-LL-1.0.0.tar.gz
 Getopt::Long                       2.58  J/JV/JV/Getopt-Long-2.58.tar.gz
 Getopt::Long::Any                 0.002  P/PE/PERLANCAR/Getopt-Long-Any-0.002.tar.gz
-Getopt::Long::Bash               v2.0.0  U/UT/UTASHIRO/Getopt-Long-Bash-2.0.0.tar.gz
+Getopt::Long::Bash               v2.1.0  U/UT/UTASHIRO/Getopt-Long-Bash-2.1.0.tar.gz
 Getopt::Long::Complete            0.318  P/PE/PERLANCAR/Getopt-Long-Complete-0.318.tar.gz
 Getopt::Long::Descriptive         0.117  R/RJ/RJBS/Getopt-Long-Descriptive-0.117.tar.gz
 Getopt::Long::Descriptive::Dump   0.001  P/PE/PERLANCAR/Getopt-Long-Descriptive-Dump-0.001.tar.gz
