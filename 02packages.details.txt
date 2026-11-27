@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271381
-Last-Updated: Fri, 27 Nov 2026 16:17:02 GMT
+Last-Updated: Fri, 27 Nov 2026 16:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -28641,11 +28641,11 @@ Bio::WGS2NCBI::MrnaFeature        undef  R/RV/RVOSA/Bio-WGS2NCBI-v0.1.2.tar.gz
 Bio::WGS2NCBI::Seq                undef  R/RV/RVOSA/Bio-WGS2NCBI-v0.1.2.tar.gz
 Bio::WGS2NCBI::StrandedFeature    undef  R/RV/RVOSA/Bio-WGS2NCBI-v0.1.2.tar.gz
 Bio::WGS2NCBI::TableReader        undef  R/RV/RVOSA/Bio-WGS2NCBI-v0.1.2.tar.gz
-Bioconda::Packages             2026.011005  P/PR/PROCH/Bioconda-Packages-2026.11.5.tar.gz
-Bioconda::Packages::DB             0.01  P/PR/PROCH/Bioconda-Packages-2026.11.5.tar.gz
-Bioconda::Packages::Package        0.01  P/PR/PROCH/Bioconda-Packages-2026.11.5.tar.gz
-Bioconda::Packages::RecipeParser   0.01  P/PR/PROCH/Bioconda-Packages-2026.11.5.tar.gz
-Bioconda::Packages::Updater        0.01  P/PR/PROCH/Bioconda-Packages-2026.11.5.tar.gz
+Bioconda::Packages             2026.011006  P/PR/PROCH/Bioconda-Packages-2026.11.6.tar.gz
+Bioconda::Packages::DB             0.01  P/PR/PROCH/Bioconda-Packages-2026.11.6.tar.gz
+Bioconda::Packages::Package        0.01  P/PR/PROCH/Bioconda-Packages-2026.11.6.tar.gz
+Bioconda::Packages::RecipeParser   0.01  P/PR/PROCH/Bioconda-Packages-2026.11.6.tar.gz
+Bioconda::Packages::Updater        0.01  P/PR/PROCH/Bioconda-Packages-2026.11.6.tar.gz
 BioGraph::Analyze                   1.0  B/BA/BALDR/BioGraph/BioGraph-1.0.1.tar.gz
 BioGraph::Clustering                1.0  B/BA/BALDR/BioGraph/BioGraph-1.0.1.tar.gz
 BioGraph::Compute                   1.0  B/BA/BALDR/BioGraph/BioGraph-1.0.1.tar.gz
