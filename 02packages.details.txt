@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271371
-Last-Updated: Fri, 27 Nov 2026 20:29:02 GMT
+Last-Updated: Fri, 27 Nov 2026 21:54:11 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -112907,7 +112907,7 @@ HTTP::LRDD                        0.106  T/TO/TOBYINK/HTTP-LRDD-0.106.tar.gz
 HTTP::Message                      7.04  O/OA/OALDERS/HTTP-Message-7.04.tar.gz
 HTTP::Message::JSON               undef  S/SK/SKINGTON/LWP-JSON-Tiny-0.014.tar.gz
 HTTP::Message::PSGI               undef  M/MI/MIYAGAWA/Plack-1.0057.tar.gz
-HTTP::Message::Signature         v0.0.4  R/RR/RRWO/HTTP-Message-Signature-v0.0.4.tar.gz
+HTTP::Message::Signature         v0.1.0  R/RR/RRWO/HTTP-Message-Signature-v0.1.0.tar.gz
 HTTP::MessageParser                 0.3  C/CH/CHANSEN/HTTP-MessageParser-0.3.tar.gz
 HTTP::Method                       0.03  V/VA/VANHOESEL/HTTP-Method-0.03.tar.gz
 HTTP::MHTTP                        0.15  P/PI/PIERS/HTTP-MHTTP-0.15.tar.gz
