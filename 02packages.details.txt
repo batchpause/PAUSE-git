@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271381
-Last-Updated: Fri, 27 Nov 2026 15:17:02 GMT
+Last-Updated: Fri, 27 Nov 2026 15:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -133879,7 +133879,7 @@ Mail::MIMEDefang::ML::Laya        undef  G/GB/GBECHIS/Mail-MIMEDefang-3.8.1.tar.
 Mail::MIMEDefang::ML::OpenAI      undef  G/GB/GBECHIS/Mail-MIMEDefang-3.8.1.tar.gz
 Mail::MIMEDefang::Net             undef  G/GB/GBECHIS/Mail-MIMEDefang-3.8.1.tar.gz
 Mail::MIMEDefang::Net::CachingResolver undef  G/GB/GBECHIS/Mail-MIMEDefang-3.8.1.tar.gz
-Mail::MIMEDefang::OpenSMTPD         1.0  G/GB/GBECHIS/Mail-MIMEDefang-OpenSMTPD-1.0.tar.gz
+Mail::MIMEDefang::OpenSMTPD         1.1  G/GB/GBECHIS/Mail-MIMEDefang-OpenSMTPD-1.1.tar.gz
 Mail::MIMEDefang::RFC2822         undef  G/GB/GBECHIS/Mail-MIMEDefang-3.8.1.tar.gz
 Mail::MIMEDefang::SPF             undef  G/GB/GBECHIS/Mail-MIMEDefang-3.8.1.tar.gz
 Mail::MIMEDefang::TLSPolicy       undef  G/GB/GBECHIS/Mail-MIMEDefang-3.8.1.tar.gz
