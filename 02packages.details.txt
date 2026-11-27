@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271381
-Last-Updated: Fri, 27 Nov 2026 13:41:02 GMT
+Last-Updated: Fri, 27 Nov 2026 14:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -42157,7 +42157,7 @@ CGI::Prototype                   0.9054  M/ME/MERLYN/CGI-Prototype-0.9054.tar.gz
 CGI::Prototype::Docs::Resources    0.03  T/TB/TBONE/CGI-Prototype-Docs-Resources-0.03.tar.gz
 CGI::Prototype::Hidden            undef  M/ME/MERLYN/CGI-Prototype-0.9054.tar.gz
 CGI::Prototype::Mecha              0.21  M/ME/MERLYN/CGI-Prototype-Mecha-0.21.tar.gz
-CGI::PSGI                          0.16  M/MI/MIYAGAWA/CGI-PSGI-0.16.tar.gz
+CGI::PSGI                          0.17  M/MI/MIYAGAWA/CGI-PSGI-0.17.tar.gz
 CGI::Pure                          0.09  S/SK/SKIM/CGI-Pure-0.09.tar.gz
 CGI::Pure::Fast                    0.09  S/SK/SKIM/CGI-Pure-Fast-0.09.tar.gz
 CGI::Pure::Save                    0.09  S/SK/SKIM/CGI-Pure-0.09.tar.gz
