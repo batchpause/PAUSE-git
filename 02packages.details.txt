@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271381
-Last-Updated: Fri, 27 Nov 2026 17:17:02 GMT
+Line-Count:   271370
+Last-Updated: Fri, 27 Nov 2026 17:54:24 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -197471,13 +197471,10 @@ PDL::Drawing::Prima::Utils         0.18  K/KA/KARASIK/PDL-Drawing-Prima-0.20.tar
 PDL::DSP::Fir                     0.008  E/ET/ETJ/PDL-DSP-Fir-0.008.tar.gz
 PDL::DSP::Fir::Simple             0.005  E/ET/ETJ/PDL-DSP-Fir-0.008.tar.gz
 PDL::DSP::Windows                 0.103  E/ET/ETJ/PDL-DSP-Windows-0.103.tar.gz
-PDL::DuckDB                        0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-DuckDB-0.01.tar.gz
 PDL::EditDistance                  0.10  M/MO/MOOCOW/PDL-EditDistance-0.10.tar.gz
 PDL::Exporter                     undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Factor                    0.006005  E/ET/ETJ/Data-Frame-0.006005.tar.gz
 PDL::Factor::Ordered           0.006005  E/ET/ETJ/Data-Frame-0.006005.tar.gz
-PDL::FAISS                         0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-FAISS-0.01.tar.gz
-PDL::FAISS::Index                  0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-FAISS-0.01.tar.gz
 PDL::FFT                          undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::FFTW                         2.024  C/CH/CHM/PDL-FFTW-2.024.tar.gz
 PDL::FFTW3                        0.204  E/ET/ETJ/PDL-FFTW3-0.204.tar.gz
@@ -197499,7 +197496,6 @@ PDL::Fit::Polynomial              undef  E/ET/ETJ/PDL-Fit-2.101.tar.gz
 PDL::Func                         undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::FuncND                        0.13  D/DJ/DJERIUS/PDL-FuncND-0.13.tar.gz
 PDL::GA                            0.08  M/MO/MOOCOW/PDL-GA-0.08.tar.gz
-PDL::GGML                          0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-GGML-0.01.tar.gz
 PDL::GraphEvolver                 undef  E/ET/ETJ/PDL-Graphics-TriD-2.102.tar.gz
 PDL::Graphics::Asymptote          0.0.3  D/DC/DCMERTENS/Graphics-Asymptote-0.0.3.tar.gz
 PDL::Graphics::ColorDistance   0.000001  E/EW/EWATERS/PDL-Graphics-ColorDistance-0.0.1.tar.gz
@@ -197703,7 +197699,6 @@ PDL::LinearAlgebra::Special        0.14  E/ET/ETJ/PDL-LinearAlgebra-0.437.tar.gz
 PDL::LinearAlgebra::Trans         0.437  E/ET/ETJ/PDL-LinearAlgebra-0.437.tar.gz
 PDL::Lite                         undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::LiteF                        undef  E/ET/ETJ/PDL-2.106.tar.gz
-PDL::Llama                         0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-Llama-0.01.tar.gz
 PDL::Logical                   0.006005  E/ET/ETJ/Data-Frame-0.006005.tar.gz
 PDL::Math                         undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Matrix                         0.5  E/ET/ETJ/PDL-2.106.tar.gz
@@ -197726,7 +197721,6 @@ PDL::NetCDF                        4.26  E/ET/ETJ/PDL-NetCDF-4.26.tar.gz
 PDL::Ngrams                        0.12  M/MO/MOOCOW/PDL-Ngrams-0.12.tar.gz
 PDL::Ngrams::Utils                 0.12  M/MO/MOOCOW/PDL-Ngrams-0.12.tar.gz
 PDL::NiceSlice                    1.001  E/ET/ETJ/PDL-2.106.tar.gz
-PDL::ONNX                          0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-ONNX-0.01.tar.gz
 PDL::OpenCV                       0.001  E/ET/ETJ/PDL-OpenCV-0.001.tar.gz
 PDL::OpenCV::Highgui              undef  E/ET/ETJ/PDL-OpenCV-0.001.tar.gz
 PDL::OpenCV::Imgcodecs            undef  E/ET/ETJ/PDL-OpenCV-0.001.tar.gz
@@ -197762,7 +197756,6 @@ PDL::Role::HasNames            0.002003  S/SL/SLOYD/Chart-GGPlot-0.002003.tar.gz
 PDL::Role::RowNameable         0.006005  E/ET/ETJ/Data-Frame-0.006005.tar.gz
 PDL::Role::Stringifiable       0.006005  E/ET/ETJ/Data-Frame-0.006005.tar.gz
 PDL::RungeKutta                    0.01  D/DR/DRAGOS/PDL-RungeKutta-0.01.tgz
-PDL::SentencePiece                 0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-SentencePiece-0.01.tar.gz
 PDL::Slatec                       2.098  E/ET/ETJ/PDL-Slatec-2.098.tar.gz
 PDL::Slices                       undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Stats                        0.856  E/ET/ETJ/PDL-Stats-0.856.tar.gz
@@ -197775,9 +197768,6 @@ PDL::StringfiableExtension     0.006005  E/ET/ETJ/Data-Frame-0.006005.tar.gz
 PDL::SV                        0.006005  E/ET/ETJ/Data-Frame-0.006005.tar.gz
 PDL::SVDLIBC                       0.19  M/MO/MOOCOW/PDL-SVDLIBC-0.19.tar.gz
 PDL::SVDSLEPc                     0.005  M/MO/MOOCOW/PDL-SVDSLEPc-0.005.tar.gz
-PDL::Tokenizers                    0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-Tokenizers-0.01.tar.gz
-PDL::Torch                         0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-Torch-0.01.tar.gz
-PDL::Torch::Tensor                 0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-Torch-0.01.tar.gz
 PDL::Transform                    undef  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Transform::Cartography         0.6  E/ET/ETJ/PDL-2.106.tar.gz
 PDL::Transform::Color             1.011  E/ET/ETJ/PDL-Transform-Color-1.011.tar.gz
@@ -197792,7 +197782,6 @@ PDL::VectorValued              1.000023  M/MO/MOOCOW/PDL-VectorValued-1.0.23.tar
 PDL::VectorValued::Dev         1.000023  M/MO/MOOCOW/PDL-VectorValued-1.0.23.tar.gz
 PDL::VectorValued::Utils       1.000023  M/MO/MOOCOW/PDL-VectorValued-1.0.23.tar.gz
 PDL::VectorValued::Version     1.000023  M/MO/MOOCOW/PDL-VectorValued-1.0.23.tar.gz
-PDL::XGBoost                       0.01  C/CJ/CJCOLLIER/Google-Cloud/PDL-XGBoost-0.01.tar.gz
 PDLDM::Common                  2015.071403  M/MB/MBTLFDO/PDLDM-Common-2015.071403.tar.gz
 PDLDM::Rank                    2015.071601  M/MB/MBTLFDO/PDLDM-Rank-2015.071601.tar.gz
 PDLx::DetachedObject               0.02  D/DJ/DJERIUS/PDLx-DetachedObject-0.02.tar.gz
