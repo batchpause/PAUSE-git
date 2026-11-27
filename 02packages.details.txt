@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271350
-Last-Updated: Fri, 27 Nov 2026 02:41:02 GMT
+Last-Updated: Fri, 27 Nov 2026 02:54:18 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -78307,7 +78307,7 @@ File::PackageIndexer::PPI::Util    0.01  S/SM/SMUELLER/File-PackageIndexer-0.02.
 File::Pairtree                     1.02  J/JA/JAK/File-Pairtree-1.02.tar.gz
 File::Parser::Role               v0.2.4  T/TO/TORBJORN/File-Parser-Role-v0.2.4.tar.gz
 File::Patch::Undoable              0.09  P/PE/PERLANCAR/File-Patch-Undoable-0.09.tar.gz
-File::Path                         2.18  J/JK/JKEENAN/File-Path-2.18.tar.gz
+File::Path                         2.19  J/JK/JKEENAN/File-Path-2.19.tar.gz
 File::Path::Collapse               0.03  N/NK/NKH/File-Path-Collapse-0.03.7.tar.gz
 File::Path::Expand                 1.02  R/RC/RCLAMP/File-Path-Expand-1.02.tar.gz
 File::Path::Redirect           0.001003  D/DR/DRCLAW/File-Path-Redirect-v0.1.3.tar.gz
