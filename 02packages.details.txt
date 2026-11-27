@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271381
-Last-Updated: Fri, 27 Nov 2026 12:17:02 GMT
+Last-Updated: Fri, 27 Nov 2026 12:41:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -112889,7 +112889,7 @@ HTTP::Headers::Fast::XS           0.001  X/XS/XSAWYERX/HTTP-Headers-Fast-XS-0.00
 HTTP::Headers::Patch::DontUseStorable 0.062  P/PE/PERLANCAR/HTTP-Headers-Patch-DontUseStorable-0.062.tar.gz
 HTTP::Headers::UserAgent           3.09  N/NE/NEILB/HTTP-Headers-UserAgent-3.09.tar.gz
 HTTP::Headers::Util                7.04  O/OA/OALDERS/HTTP-Message-7.04.tar.gz
-HTTP::libsfparse               0.000003  R/RR/RRWO/HTTP-libsfparse-v0.0.3.tar.gz
+HTTP::libsfparse               0.000004  R/RR/RRWO/HTTP-libsfparse-v0.0.4.tar.gz
 HTTP::Link                        0.001  Z/ZU/ZURBORG/HTTP-Link-0.001.tar.gz
 HTTP::Link::Parser                0.200  T/TO/TOBYINK/HTTP-Link-Parser-0.200.tar.gz
 HTTP::Link::Parser::PlainLiteral  0.103  T/TO/TOBYINK/HTTP-Link-Parser-0.103.tar.gz
@@ -113257,7 +113257,7 @@ HTTP::Status::Const            0.003000  R/RR/RRWO/HTTP-Status-Const-v0.3.0.tar.
 HTTP::StreamParser                0.101  T/TE/TEAM/HTTP-StreamParser-0.101.tar.gz
 HTTP::StreamParser::Request       0.101  T/TE/TEAM/HTTP-StreamParser-0.101.tar.gz
 HTTP::StreamParser::Response      0.101  T/TE/TEAM/HTTP-StreamParser-0.101.tar.gz
-HTTP::StructuredField          0.000003  R/RR/RRWO/HTTP-libsfparse-v0.0.3.tar.gz
+HTTP::StructuredField          0.000004  R/RR/RRWO/HTTP-libsfparse-v0.0.4.tar.gz
 HTTP::StructuredFieldValues        0.01  A/AR/ARGRATH/HTTP-StructuredFieldValues-0.01.tar.gz
 HTTP::Thin                        0.006  P/PE/PERIGRIN/HTTP-Thin-0.006.tar.gz
 HTTP::Thin::UserAgent             0.016  P/PE/PERIGRIN/HTTP-Thin-UserAgent-0.016.tar.gz
