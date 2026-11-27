@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271346
-Last-Updated: Fri, 27 Nov 2026 00:54:10 GMT
+Last-Updated: Fri, 27 Nov 2026 02:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -152212,17 +152212,17 @@ Net::Connection::Sort::unsorted 0.000004  V/VV/VVELOX/Net-Connection-Sort-0.2.0.
 Net::Connection::Sort::user    0.001002  V/VV/VVELOX/Net-Connection-Sort-0.2.0.tar.gz
 Net::Continental                  0.017  R/RJ/RJBS/Net-Continental-0.017.tar.gz
 Net::Continental::Zone            0.017  R/RJ/RJBS/Net-Continental-0.017.tar.gz
-Net::Correios                     0.004  G/GA/GARU/Net-Correios-0.004.tar.gz
-Net::Correios::Agencias           undef  G/GA/GARU/Net-Correios-0.004.tar.gz
-Net::Correios::CEP                undef  G/GA/GARU/Net-Correios-0.004.tar.gz
-Net::Correios::Empresas           undef  G/GA/GARU/Net-Correios-0.004.tar.gz
-Net::Correios::Faturas            undef  G/GA/GARU/Net-Correios-0.004.tar.gz
-Net::Correios::Manifestacao       undef  G/GA/GARU/Net-Correios-0.004.tar.gz
-Net::Correios::Prazo              undef  G/GA/GARU/Net-Correios-0.004.tar.gz
-Net::Correios::Preco              undef  G/GA/GARU/Net-Correios-0.004.tar.gz
-Net::Correios::Prepostagens       undef  G/GA/GARU/Net-Correios-0.004.tar.gz
-Net::Correios::SRO                undef  G/GA/GARU/Net-Correios-0.004.tar.gz
-Net::Correios::Token              undef  G/GA/GARU/Net-Correios-0.004.tar.gz
+Net::Correios                     0.005  G/GA/GARU/Net-Correios-0.005.tar.gz
+Net::Correios::Agencias           undef  G/GA/GARU/Net-Correios-0.005.tar.gz
+Net::Correios::CEP                undef  G/GA/GARU/Net-Correios-0.005.tar.gz
+Net::Correios::Empresas           undef  G/GA/GARU/Net-Correios-0.005.tar.gz
+Net::Correios::Faturas            undef  G/GA/GARU/Net-Correios-0.005.tar.gz
+Net::Correios::Manifestacao       undef  G/GA/GARU/Net-Correios-0.005.tar.gz
+Net::Correios::Prazo              undef  G/GA/GARU/Net-Correios-0.005.tar.gz
+Net::Correios::Preco              undef  G/GA/GARU/Net-Correios-0.005.tar.gz
+Net::Correios::Prepostagens       undef  G/GA/GARU/Net-Correios-0.005.tar.gz
+Net::Correios::SRO                undef  G/GA/GARU/Net-Correios-0.005.tar.gz
+Net::Correios::Token              undef  G/GA/GARU/Net-Correios-0.005.tar.gz
 Net::Country                      undef  U/UL/ULPFR/Logfile-0.300.tar.gz
 Net::CoverArtArchive               1.02  C/CY/CYCLES/Net-CoverArtArchive-1.02.tar.gz
 Net::CoverArtArchive::CoverArt     1.02  C/CY/CYCLES/Net-CoverArtArchive-1.02.tar.gz
