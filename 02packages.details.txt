@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271352
-Last-Updated: Fri, 27 Nov 2026 09:54:17 GMT
+Last-Updated: Fri, 27 Nov 2026 11:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -11391,11 +11391,11 @@ App::Greple::ical                  1.00  U/UT/UTASHIRO/App-Greple-ical-1.00.tar.
 App::Greple::jq                    0.06  U/UT/UTASHIRO/App-Greple-jq-0.06.tar.gz
 App::Greple::L                     1.01  U/UT/UTASHIRO/App-Greple-L-1.01.tar.gz
 App::Greple::line                 undef  U/UT/UTASHIRO/App-Greple-9.23.tar.gz
-App::Greple::md                    1.30  U/UT/UTASHIRO/App-mdee-1.30.tar.gz
-App::Greple::md::Blocks            1.30  U/UT/UTASHIRO/App-mdee-1.30.tar.gz
-App::Greple::md::Image            undef  U/UT/UTASHIRO/App-mdee-1.30.tar.gz
-App::Greple::md::Step             undef  U/UT/UTASHIRO/App-mdee-1.30.tar.gz
-App::Greple::md::widen             1.30  U/UT/UTASHIRO/App-mdee-1.30.tar.gz
+App::Greple::md                    1.31  U/UT/UTASHIRO/App-mdee-1.31.tar.gz
+App::Greple::md::Blocks            1.31  U/UT/UTASHIRO/App-mdee-1.31.tar.gz
+App::Greple::md::Image            undef  U/UT/UTASHIRO/App-mdee-1.31.tar.gz
+App::Greple::md::Step             undef  U/UT/UTASHIRO/App-mdee-1.31.tar.gz
+App::Greple::md::widen             1.31  U/UT/UTASHIRO/App-mdee-1.31.tar.gz
 App::Greple::msdoc                 1.07  U/UT/UTASHIRO/App-Greple-msdoc-1.07.tar.gz
 App::Greple::NumberUtil           undef  U/UT/UTASHIRO/App-Greple-8.3203.tar.gz
 App::Greple::Pattern              undef  U/UT/UTASHIRO/App-Greple-10.05.tar.gz
@@ -12545,7 +12545,7 @@ App::MCP::CLI::Command::servers  v0.0.1  M/MA/MANWAR/App-MCP-CLI-v0.0.1.tar.gz
 App::MCP::CLI::Command::version  v0.0.1  M/MA/MANWAR/App-MCP-CLI-v0.0.1.tar.gz
 App::MCP::CLI::Config            v0.0.1  M/MA/MANWAR/App-MCP-CLI-v0.0.1.tar.gz
 App::md2html                   0.001001  C/CR/CRABAPP/App-md2html-0.01.1.tar.gz
-App::mdee                          1.30  U/UT/UTASHIRO/App-mdee-1.30.tar.gz
+App::mdee                          1.31  U/UT/UTASHIRO/App-mdee-1.31.tar.gz
 App::MechaCPAN                     0.32  A/AT/ATRODO/App-MechaCPAN-0.32.tar.gz
 App::MechaCPAN::Deploy            undef  A/AT/ATRODO/App-MechaCPAN-0.32.tar.gz
 App::MechaCPAN::Install           undef  A/AT/ATRODO/App-MechaCPAN-0.32.tar.gz
@@ -229083,7 +229083,7 @@ Statistics::Benford                0.08  G/GR/GRAY/Statistics-Benford-0.08.tar.g
 Statistics::Burst                   0.2  T/TO/TOMMIE/Statistics-Burst-0.2.tgz
 Statistics::CalinskiHarabasz       0.01  A/AN/ANAGHAKK/Statistics-CalinskiHarabasz-0.01.tar.gz
 Statistics::Candidates            undef  T/TE/TERDOEST/Statistics-MaxEntropy-1.0.tar.gz
-Statistics::CaseResampling         0.18  S/SM/SMUELLER/Statistics-CaseResampling-0.18.tar.gz
+Statistics::CaseResampling         0.19  S/SM/SMUELLER/Statistics-CaseResampling-0.19.tar.gz
 Statistics::ChisqIndep              0.1  Y/YU/YUNFANG/Statistics-ChisqIndep-0.1.tar.gz
 Statistics::ChiSquare            1.0000  D/DC/DCANTRELL/Statistics-ChiSquare-1.0000.tar.gz
 Statistics::Cluto                  0.01  I/IH/IHARA/Statistics-Cluto-0.01.tar.gz
