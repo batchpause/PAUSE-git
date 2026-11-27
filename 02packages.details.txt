@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271346
-Last-Updated: Fri, 27 Nov 2026 02:17:02 GMT
+Line-Count:   271350
+Last-Updated: Fri, 27 Nov 2026 02:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -45724,6 +45724,10 @@ Class::Scalar                  0.001002  J/JD/JDEGUEST/Class-Generic-v0.1.1.tar.
 Class::Scalar::Iter               undef  K/KM/KMACLEOD/Class-Visitor-0.02.tar.gz
 Class::SelfMethods                 1.08  T/TE/TEVERETT/Class-SelfMethods-1.08.tar.gz
 Class::Serializer                  0.04  N/NI/NILSONSFJ/Class-Serializer-0.04.tar.gz
+Class::Shared                   0.001.0  N/NH/NHORNE/Class-Shared-0.001.0.tar.gz
+Class::Shared::Backend          0.001.0  N/NH/NHORNE/Class-Shared-0.001.0.tar.gz
+Class::Shared::Frontend         0.001.0  N/NH/NHORNE/Class-Shared-0.001.0.tar.gz
+Class::Shared::Protocol         0.001.0  N/NH/NHORNE/Class-Shared-0.001.0.tar.gz
 Class::Simple                       1.1  S/SU/SULLIVAN/Class-Simple-1.1.tar.gz
 Class::Simple::Cached              0.07  N/NH/NHORNE/Class-Simple-Cached-0.07.tar.gz
 Class::Simple::Readonly::Cached    0.13  N/NH/NHORNE/Class-Simple-Readonly-Cached-0.13.tar.gz
