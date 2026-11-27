@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271353
-Last-Updated: Fri, 27 Nov 2026 11:41:01 GMT
+Line-Count:   271381
+Last-Updated: Fri, 27 Nov 2026 12:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -254535,6 +254535,34 @@ Web::Scraper::Citations        0.000002  J/JM/JMERELO/Web-Scraper-Citations-0.0.
 Web::Scraper::Config               0.01  D/DM/DMAKI/Web-Scraper-Config-0.01.tar.gz
 Web::Scraper::Filter              undef  M/MI/MIYAGAWA/Web-Scraper-0.38.tar.gz
 Web::Scraper::LibXML              undef  M/MI/MIYAGAWA/Web-Scraper-0.38.tar.gz
+Web::Session                     v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Cassandra          v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::DBI                v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::File               v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Generate::SHA256   v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::LDAP               v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::MariaDB            v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::MariaDBJSON        v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::MySQL              v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::MySQLJSON          v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Patroni            v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::PgJSON             v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Postgres           v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Redis              v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Serialize::JSON    v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::SQLite             v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Store::Cassandra   v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Store::DBI         v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Store::DBI::Rollback undef  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Store::File        v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Store::LDAP        v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Store::MariaDBJSON v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Store::MySQL       v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Store::Patroni     v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Store::Postgres    v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Store::Postgres::Loan undef  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Store::Redis       v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
+Web::Session::Store::SQLite      v1.0.0  G/GU/GUIMARD/Web-Session-1.0.0.tar.gz
 Web::Simple                       0.037  E/ET/ETHER/Web-Simple-0.037.tar.gz
 Web::Simple::Application          undef  E/ET/ETHER/Web-Simple-0.037.tar.gz
 Web::Simple::Dispatcher           undef  F/FR/FREW/Web-Simple-0.004.tar.gz

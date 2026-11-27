@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678710
+Line-Count:  678738
 Written-By:  PAUSE version 1.005
-Date:        Fri, 27 Nov 2026 11:41:15 GMT
+Date:        Fri, 27 Nov 2026 12:17:18 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -648070,6 +648070,34 @@ Web::Scraper::Filter,MIYAGAWA,f
 Web::Scraper::Filter::Pipe,CODEREPOS,c
 Web::Scraper::Filter::Pipe,MARCEL,f
 Web::Scraper::LibXML,MIYAGAWA,f
+Web::Session,GUIMARD,f
+Web::Session::Cassandra,GUIMARD,f
+Web::Session::DBI,GUIMARD,f
+Web::Session::File,GUIMARD,f
+Web::Session::Generate::SHA256,GUIMARD,f
+Web::Session::LDAP,GUIMARD,f
+Web::Session::MariaDB,GUIMARD,f
+Web::Session::MariaDBJSON,GUIMARD,f
+Web::Session::MySQL,GUIMARD,f
+Web::Session::MySQLJSON,GUIMARD,f
+Web::Session::Patroni,GUIMARD,f
+Web::Session::PgJSON,GUIMARD,f
+Web::Session::Postgres,GUIMARD,f
+Web::Session::Redis,GUIMARD,f
+Web::Session::SQLite,GUIMARD,f
+Web::Session::Serialize::JSON,GUIMARD,f
+Web::Session::Store::Cassandra,GUIMARD,f
+Web::Session::Store::DBI,GUIMARD,f
+Web::Session::Store::DBI::Rollback,GUIMARD,f
+Web::Session::Store::File,GUIMARD,f
+Web::Session::Store::LDAP,GUIMARD,f
+Web::Session::Store::MariaDBJSON,GUIMARD,f
+Web::Session::Store::MySQL,GUIMARD,f
+Web::Session::Store::Patroni,GUIMARD,f
+Web::Session::Store::Postgres,GUIMARD,f
+Web::Session::Store::Postgres::Loan,GUIMARD,f
+Web::Session::Store::Redis,GUIMARD,f
+Web::Session::Store::SQLite,GUIMARD,f
 Web::Simple,APEIRON,c
 Web::Simple,ARCANEZ,c
 Web::Simple,BOBTFISH,c
