@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271381
-Last-Updated: Fri, 27 Nov 2026 16:41:02 GMT
+Last-Updated: Fri, 27 Nov 2026 17:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -12237,11 +12237,11 @@ App::LinguaENUtils                 0.05  P/PE/PERLANCAR/App-LinguaENUtils-0.05.t
 App::LinguaIdentifyAnyUtils       0.001  P/PE/PERLANCAR/App-LinguaIdentifyAnyUtils-0.001.tar.gz
 App::LinguaIDUtils                 0.02  P/PE/PERLANCAR/App-LinguaIDUtils-0.02.tar.gz
 App::LinguaSUUtils                 0.01  P/PE/PERLANCAR/App-LinguaSUUtils-0.01.tar.gz
-App::LinkSite                  0.001003  D/DA/DAVECROSS/App-LinkSite-0.1.3.tar.gz
-App::LinkSite::Link            0.001003  D/DA/DAVECROSS/App-LinkSite-0.1.3.tar.gz
-App::LinkSite::Section         0.001003  D/DA/DAVECROSS/App-LinkSite-0.1.3.tar.gz
-App::LinkSite::Site            0.001003  D/DA/DAVECROSS/App-LinkSite-0.1.3.tar.gz
-App::LinkSite::Social          0.001003  D/DA/DAVECROSS/App-LinkSite-0.1.3.tar.gz
+App::LinkSite                  0.002000  D/DA/DAVECROSS/App-LinkSite-0.2.0.tar.gz
+App::LinkSite::Link            0.002000  D/DA/DAVECROSS/App-LinkSite-0.2.0.tar.gz
+App::LinkSite::Section         0.002000  D/DA/DAVECROSS/App-LinkSite-0.2.0.tar.gz
+App::LinkSite::Site            0.002000  D/DA/DAVECROSS/App-LinkSite-0.2.0.tar.gz
+App::LinkSite::Social          0.002000  D/DA/DAVECROSS/App-LinkSite-0.2.0.tar.gz
 App::LintPrereqs                  0.544  P/PE/PERLANCAR/App-LintPrereqs-0.544.tar.gz
 App::LiquidTidy                    0.03  A/AN/ANEI/Template-LiquidX-Tidy-0.03.tar.gz
 App::ListAndroidReleases           0.01  P/PE/PERLANCAR/App-ListAndroidReleases-0.01.tar.gz
@@ -162753,8 +162753,8 @@ OpenTelemetry::Logs::Logger       0.040  J/JJ/JJATRIA/OpenTelemetry-0.040.tar.gz
 OpenTelemetry::Logs::LoggerProvider 0.040  J/JJ/JJATRIA/OpenTelemetry-0.040.tar.gz
 OpenTelemetry::Logs::LogRecord::Processor 0.040  J/JJ/JJATRIA/OpenTelemetry-0.040.tar.gz
 OpenTelemetry::Processor          0.040  J/JJ/JJATRIA/OpenTelemetry-0.040.tar.gz
-OpenTelemetry::Processor::Batch   0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::Processor::Simple  0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
+OpenTelemetry::Processor::Batch   0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::Processor::Simple  0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
 OpenTelemetry::Propagator         0.040  J/JJ/JJATRIA/OpenTelemetry-0.040.tar.gz
 OpenTelemetry::Propagator::Baggage 0.040  J/JJ/JJATRIA/OpenTelemetry-0.040.tar.gz
 OpenTelemetry::Propagator::Composite 0.040  J/JJ/JJATRIA/OpenTelemetry-0.040.tar.gz
@@ -162765,28 +162765,28 @@ OpenTelemetry::Propagator::TraceContext::TraceFlags 0.040  J/JJ/JJATRIA/OpenTele
 OpenTelemetry::Propagator::TraceContext::TraceParent 0.040  J/JJ/JJATRIA/OpenTelemetry-0.040.tar.gz
 OpenTelemetry::Propagator::TraceContext::TraceState 0.040  J/JJ/JJATRIA/OpenTelemetry-0.040.tar.gz
 OpenTelemetry::Proto              0.022  J/JJ/JJATRIA/OpenTelemetry-Exporter-OTLP-0.022.tar.gz
-OpenTelemetry::SDK                0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Exporter::Console 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::InstrumentationScope 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Logs::Logger  0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Logs::LoggerProvider 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Logs::LogRecord 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Logs::LogRecord::Processor::Batch 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Logs::LogRecord::Processor::Simple 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Resource      0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Trace::Sampler 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Trace::Sampler::AlwaysOff 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Trace::Sampler::AlwaysOn 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Trace::Sampler::ParentBased 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Trace::Sampler::Result 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Trace::Sampler::TraceIDRatioBased 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Trace::Span   0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Trace::Span::Processor::Batch 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Trace::Span::Processor::Simple 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Trace::Span::Readable 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Trace::SpanLimits 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Trace::Tracer 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
-OpenTelemetry::SDK::Trace::TracerProvider 0.101  J/JJ/JJATRIA/OpenTelemetry-SDK-0.101.tar.gz
+OpenTelemetry::SDK                0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Exporter::Console 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::InstrumentationScope 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Logs::Logger  0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Logs::LoggerProvider 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Logs::LogRecord 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Logs::LogRecord::Processor::Batch 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Logs::LogRecord::Processor::Simple 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Resource      0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Trace::Sampler 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Trace::Sampler::AlwaysOff 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Trace::Sampler::AlwaysOn 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Trace::Sampler::ParentBased 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Trace::Sampler::Result 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Trace::Sampler::TraceIDRatioBased 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Trace::Span   0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Trace::Span::Processor::Batch 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Trace::Span::Processor::Simple 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Trace::Span::Readable 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Trace::SpanLimits 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Trace::Tracer 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
+OpenTelemetry::SDK::Trace::TracerProvider 0.102  J/JJ/JJATRIA/OpenTelemetry-SDK-0.102.tar.gz
 OpenTelemetry::Trace              0.040  J/JJ/JJATRIA/OpenTelemetry-0.040.tar.gz
 OpenTelemetry::Trace::Event       0.040  J/JJ/JJATRIA/OpenTelemetry-0.040.tar.gz
 OpenTelemetry::Trace::Link        0.040  J/JJ/JJATRIA/OpenTelemetry-0.040.tar.gz
