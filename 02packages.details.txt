@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271370
-Last-Updated: Fri, 27 Nov 2026 17:54:24 GMT
+Last-Updated: Fri, 27 Nov 2026 18:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -3546,7 +3546,7 @@ AI::XGBoost::CAPI                  0.11  P/PA/PABLROD/AI-XGBoost-0.11.tar.gz
 AI::XGBoost::CAPI::RAW             0.11  P/PA/PABLROD/AI-XGBoost-0.11.tar.gz
 AI::XGBoost::DMatrix               0.11  P/PA/PABLROD/AI-XGBoost-0.11.tar.gz
 AIIA::GMT                          0.05  C/CJ/CJUKUO/AIIA-GMT-0.05.tar.gz
-Aion                                2.5  D/DA/DART/Aion-2.5.tar.gz
+Aion                                2.6  D/DA/DART/Aion-2.6.tar.gz
 Aion::Annotation                 v0.2.0  D/DA/DART/Aion-Annotation-0.2.0.tar.gz
 Aion::Annotation::Reader          undef  D/DA/DART/Aion-Annotation-0.2.0.tar.gz
 Aion::Annotation::ScannedEvent    undef  D/DA/DART/Aion-Annotation-0.2.0.tar.gz
@@ -3565,13 +3565,13 @@ Aion::Fs                         v0.2.4  D/DA/DART/Aion-Fs-0.2.4.tar.gz
 Aion::Fs::Cat                     undef  D/DA/DART/Aion-Fs-0.2.4.tar.gz
 Aion::Fs::Find                    undef  D/DA/DART/Aion-Fs-0.2.4.tar.gz
 Aion::Fs::Lay                     undef  D/DA/DART/Aion-Fs-0.2.4.tar.gz
-Aion::Meta::Feature               undef  D/DA/DART/Aion-2.5.tar.gz
-Aion::Meta::FeatureConstruct      undef  D/DA/DART/Aion-2.5.tar.gz
-Aion::Meta::RequiresAnyFunction   undef  D/DA/DART/Aion-2.5.tar.gz
-Aion::Meta::RequiresFeature       undef  D/DA/DART/Aion-2.5.tar.gz
-Aion::Meta::Subroutine            undef  D/DA/DART/Aion-2.5.tar.gz
-Aion::Meta::Util                  undef  D/DA/DART/Aion-2.5.tar.gz
-Aion::Pleroma                     undef  D/DA/DART/Aion-2.5.tar.gz
+Aion::Meta::Feature               undef  D/DA/DART/Aion-2.6.tar.gz
+Aion::Meta::FeatureConstruct      undef  D/DA/DART/Aion-2.6.tar.gz
+Aion::Meta::RequiresAnyFunction   undef  D/DA/DART/Aion-2.6.tar.gz
+Aion::Meta::RequiresFeature       undef  D/DA/DART/Aion-2.6.tar.gz
+Aion::Meta::Subroutine            undef  D/DA/DART/Aion-2.6.tar.gz
+Aion::Meta::Util                  undef  D/DA/DART/Aion-2.6.tar.gz
+Aion::Pleroma                     undef  D/DA/DART/Aion-2.6.tar.gz
 Aion::Query                      v0.0.6  D/DA/DART/Aion-Query-0.0.6.tar.gz
 Aion::Query::Transaction          undef  D/DA/DART/Aion-Query-0.0.6.tar.gz
 Aion::Refmark                     undef  D/DA/DART/Aion-Telemetry-0.0.1.tar.gz
@@ -3582,11 +3582,11 @@ Aion::Run::RunsRun                undef  D/DA/DART/Aion-Run-0.0.4.tar.gz
 Aion::Spirit                     v0.0.1  D/DA/DART/Aion-Spirit-0.0.1.tar.gz
 Aion::Surf                       v0.0.3  D/DA/DART/Aion-Surf-0.0.3.tar.gz
 Aion::Telemetry                  v0.0.1  D/DA/DART/Aion-Telemetry-0.0.1.tar.gz
-Aion::Type                        undef  D/DA/DART/Aion-2.5.tar.gz
-Aion::Type::DNF                   undef  D/DA/DART/Aion-2.5.tar.gz
-Aion::Type::Espresso              undef  D/DA/DART/Aion-2.5.tar.gz
-Aion::Type::Lim                   undef  D/DA/DART/Aion-2.5.tar.gz
-Aion::Types                       undef  D/DA/DART/Aion-2.5.tar.gz
+Aion::Type                        undef  D/DA/DART/Aion-2.6.tar.gz
+Aion::Type::DNF                   undef  D/DA/DART/Aion-2.6.tar.gz
+Aion::Type::Espresso              undef  D/DA/DART/Aion-2.6.tar.gz
+Aion::Type::Lim                   undef  D/DA/DART/Aion-2.6.tar.gz
+Aion::Types                       undef  D/DA/DART/Aion-2.6.tar.gz
 Airlock                           0.001  G/GE/GETTY/Airlock-0.001.tar.gz
 Airlock::Client                   0.001  G/GE/GETTY/Airlock-0.001.tar.gz
 Airlock::Code                     0.001  G/GE/GETTY/Airlock-0.001.tar.gz
