@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678738
+Line-Count:  678739
 Written-By:  PAUSE version 1.005
-Date:        Fri, 27 Nov 2026 12:17:18 GMT
+Date:        Fri, 27 Nov 2026 19:17:50 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -57675,6 +57675,7 @@ BoardStreams,KARJALA,f
 BoardStreams::Client,KARJALA,f
 BoardStreams::Client::Channel,KARJALA,f
 BoardStreams::Client::Error,KARJALA,f
+BoardStreams::Client::Handshake,KARJALA,f
 BoardStreams::Client::Manager,KARJALA,f
 BoardStreams::Client::Membership,KARJALA,f
 BoardStreams::Client::Stream,KARJALA,f
