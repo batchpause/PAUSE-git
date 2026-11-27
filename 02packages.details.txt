@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271352
-Last-Updated: Fri, 27 Nov 2026 07:41:02 GMT
+Last-Updated: Fri, 27 Nov 2026 08:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -13739,13 +13739,13 @@ App::pcorelist                    0.001  T/TI/TINITA/App-pcorelist-0.001.tar.gz
 App::PDF::Link                     0.25  J/JV/JV/App-PDF-Link-0.25.tar.gz
 App::PDF::Overlay                 0.002  J/JV/JV/App-PDF-Overlay-0.002.tar.gz
 App::pdfgrep                      0.019  P/PE/PERLANCAR/App-PDFUtils-0.019.tar.gz
-App::PDFLibrarian              6.003003  K/KW/KWWETTE/App-PDFLibrarian-6.3.3.tar.gz
-App::PDFLibrarian::BibTeX      6.003003  K/KW/KWWETTE/App-PDFLibrarian-6.3.3.tar.gz
-App::PDFLibrarian::Library     6.003003  K/KW/KWWETTE/App-PDFLibrarian-6.3.3.tar.gz
-App::PDFLibrarian::QueryDialog 6.003003  K/KW/KWWETTE/App-PDFLibrarian-6.3.3.tar.gz
-App::PDFLibrarian::QueryDialog::impl 6.003003  K/KW/KWWETTE/App-PDFLibrarian-6.3.3.tar.gz
-App::PDFLibrarian::TitleAbbr   6.003003  K/KW/KWWETTE/App-PDFLibrarian-6.3.3.tar.gz
-App::PDFLibrarian::Util        6.003003  K/KW/KWWETTE/App-PDFLibrarian-6.3.3.tar.gz
+App::PDFLibrarian              6.003004  K/KW/KWWETTE/App-PDFLibrarian-6.3.4.tar.gz
+App::PDFLibrarian::BibTeX      6.003004  K/KW/KWWETTE/App-PDFLibrarian-6.3.4.tar.gz
+App::PDFLibrarian::Library     6.003004  K/KW/KWWETTE/App-PDFLibrarian-6.3.4.tar.gz
+App::PDFLibrarian::QueryDialog 6.003004  K/KW/KWWETTE/App-PDFLibrarian-6.3.4.tar.gz
+App::PDFLibrarian::QueryDialog::impl 6.003004  K/KW/KWWETTE/App-PDFLibrarian-6.3.4.tar.gz
+App::PDFLibrarian::TitleAbbr   6.003004  K/KW/KWWETTE/App-PDFLibrarian-6.3.4.tar.gz
+App::PDFLibrarian::Util        6.003004  K/KW/KWWETTE/App-PDFLibrarian-6.3.4.tar.gz
 App::pdfresize                    0.001  P/PE/PERLANCAR/App-pdfresize-0.001.tar.gz
 App::pdfsize                      0.001  P/PE/PERLANCAR/App-pdfsize-0.001.tar.gz
 App::PDFUtils                     0.019  P/PE/PERLANCAR/App-PDFUtils-0.019.tar.gz
