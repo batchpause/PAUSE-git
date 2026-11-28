@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271457
-Last-Updated: Sat, 28 Nov 2026 12:41:02 GMT
+Last-Updated: Sat, 28 Nov 2026 12:54:34 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -109061,13 +109061,13 @@ Ham::Resources::Utils              0.05  C/CJ/CJUAN/Ham-Resources-Utils-0.05.tar
 Ham::Scraper                        0.9  K/KW/KWITTMER/Ham-Scraper-0.9.tar.gz
 Ham::WorldMap                      0.01  D/DE/DEVZENDO/Ham-WorldMap-0.01.tar.gz
 Ham::WSJTX::Logparse               0.01  D/DE/DEVZENDO/Ham-WSJTX-Logparse-0.01.tar.gz
-HAMT                               0.04  L/LN/LNATION/HAMT-0.04.tar.gz
-HAMT::Map                          0.04  L/LN/LNATION/HAMT-0.04.tar.gz
-HAMT::Map::Transient               0.04  L/LN/LNATION/HAMT-0.04.tar.gz
-HAMT::Set                          0.04  L/LN/LNATION/HAMT-0.04.tar.gz
-HAMT::Set::Transient               0.04  L/LN/LNATION/HAMT-0.04.tar.gz
-HAMT::Vector                       0.04  L/LN/LNATION/HAMT-0.04.tar.gz
-HAMT::Vector::Transient            0.04  L/LN/LNATION/HAMT-0.04.tar.gz
+HAMT                               0.05  L/LN/LNATION/HAMT-0.05.tar.gz
+HAMT::Map                          0.05  L/LN/LNATION/HAMT-0.05.tar.gz
+HAMT::Map::Transient               0.05  L/LN/LNATION/HAMT-0.05.tar.gz
+HAMT::Set                          0.05  L/LN/LNATION/HAMT-0.05.tar.gz
+HAMT::Set::Transient               0.05  L/LN/LNATION/HAMT-0.05.tar.gz
+HAMT::Vector                       0.05  L/LN/LNATION/HAMT-0.05.tar.gz
+HAMT::Vector::Transient            0.05  L/LN/LNATION/HAMT-0.05.tar.gz
 Handel                          1.00014  C/CL/CLACO/Handel-1.00014.tar.gz
 Handel::Base                      undef  C/CL/CLACO/Handel-1.00014.tar.gz
 Handel::Cart                      undef  C/CL/CLACO/Handel-1.00014.tar.gz
@@ -229116,7 +229116,7 @@ Stash::REST                        0.11  R/RE/RENTOCRON/Stash-REST-0.11.tar.gz
 stasis                             0.07  D/DF/DFARRELL/stasis-0.07.tar.gz
 Stat                               1.26  E/EN/ENNO/libxml-enno-1.00.tar.gz
 Stat::lsMode                       0.51  A/AR/ARISTOTLE/Stat-lsMode-0.51.tar.gz
-State::Store                       0.01  L/LN/LNATION/State-Store-0.01.tar.gz
+State::Store                       0.02  L/LN/LNATION/State-Store-0.02.tar.gz
 StateML                            0.22  R/RB/RBS/StateML-0.22.tar.gz
 StateML::Action                   undef  R/RB/RBS/StateML-0.22.tar.gz
 StateML::Arc                      undef  R/RB/RBS/StateML-0.22.tar.gz
@@ -230473,7 +230473,7 @@ STRling::StrictJSON               undef  S/ST/STRLING/STRling-4.0.3.tar.gz
 StrNum                            undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrNum.pm.gz
 Strong::Random                     0.96  T/TR/TRUNAEV/Strong-Random-0.96.tar.gz
 StrTree                           undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrTree.pm.gz
-Struct::Codec                      0.10  L/LN/LNATION/Struct-Codec-0.10.tar.gz
+Struct::Codec                      0.11  L/LN/LNATION/Struct-Codec-0.11.tar.gz
 Struct::Compare                     1.0  Z/ZE/ZENSPIDER/Struct-Compare-1.0.1.tar.gz
 Struct::Conditional                1.04  L/LN/LNATION/Struct-Conditional-1.04.tar.gz
 Struct::Diff                       0.98  M/MI/MIXAS/Struct-Diff-0.98.tar.gz
