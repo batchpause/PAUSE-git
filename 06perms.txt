@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678753
+Line-Count:  678795
 Written-By:  PAUSE version 1.005
-Date:        Sat, 28 Nov 2026 05:17:11 GMT
+Date:        Sat, 28 Nov 2026 08:34:11 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -5499,7 +5499,9 @@ Acme::PrettyCure::CureWhite,YAPPO,c
 Acme::PrettyCure::CureWindy,MAKAMAKA,c
 Acme::PrettyCure::CureWindy,MIKIHOSHI,f
 Acme::PrettyCure::CureWindy,YAPPO,c
+Acme::PrettyCure::Girl::CureAce,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureAce,MIKIHOSHI,f
+Acme::PrettyCure::Girl::CureAce,YAPPO,c
 Acme::PrettyCure::Girl::CureAqua,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureAqua,MIKIHOSHI,f
 Acme::PrettyCure::Girl::CureAqua,YAPPO,c
@@ -5527,7 +5529,9 @@ Acme::PrettyCure::Girl::CureBlossom,YAPPO,c
 Acme::PrettyCure::Girl::CureBright,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureBright,MIKIHOSHI,f
 Acme::PrettyCure::Girl::CureBright,YAPPO,c
+Acme::PrettyCure::Girl::CureDiamond,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureDiamond,MIKIHOSHI,f
+Acme::PrettyCure::Girl::CureDiamond,YAPPO,c
 Acme::PrettyCure::Girl::CureDream,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureDream,MIKIHOSHI,f
 Acme::PrettyCure::Girl::CureDream,YAPPO,c
@@ -5543,7 +5547,9 @@ Acme::PrettyCure::Girl::CureFlower,YAPPO,c
 Acme::PrettyCure::Girl::CureHappy,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureHappy,MIKIHOSHI,f
 Acme::PrettyCure::Girl::CureHappy,YAPPO,c
+Acme::PrettyCure::Girl::CureHeart,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureHeart,MIKIHOSHI,f
+Acme::PrettyCure::Girl::CureHeart,YAPPO,c
 Acme::PrettyCure::Girl::CureLemonade,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureLemonade,MIKIHOSHI,f
 Acme::PrettyCure::Girl::CureLemonade,YAPPO,c
@@ -5580,7 +5586,9 @@ Acme::PrettyCure::Girl::CurePine,YAPPO,c
 Acme::PrettyCure::Girl::CureRhythm,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureRhythm,MIKIHOSHI,f
 Acme::PrettyCure::Girl::CureRhythm,YAPPO,c
+Acme::PrettyCure::Girl::CureRosetta,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureRosetta,MIKIHOSHI,f
+Acme::PrettyCure::Girl::CureRosetta,YAPPO,c
 Acme::PrettyCure::Girl::CureRouge,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureRouge,MIKIHOSHI,f
 Acme::PrettyCure::Girl::CureRouge,YAPPO,c
@@ -5590,7 +5598,9 @@ Acme::PrettyCure::Girl::CureSunny,YAPPO,c
 Acme::PrettyCure::Girl::CureSunshine,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureSunshine,MIKIHOSHI,f
 Acme::PrettyCure::Girl::CureSunshine,YAPPO,c
+Acme::PrettyCure::Girl::CureSword,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureSword,MIKIHOSHI,f
+Acme::PrettyCure::Girl::CureSword,YAPPO,c
 Acme::PrettyCure::Girl::CureWhite,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureWhite,MIKIHOSHI,f
 Acme::PrettyCure::Girl::CureWhite,YAPPO,c
@@ -5606,7 +5616,9 @@ Acme::PrettyCure::Girl::MilkyRose,YAPPO,c
 Acme::PrettyCure::Girl::Role,MAKAMAKA,c
 Acme::PrettyCure::Girl::Role,MIKIHOSHI,f
 Acme::PrettyCure::Girl::Role,YAPPO,c
+Acme::PrettyCure::Girl::Role::DokiDoki,MAKAMAKA,c
 Acme::PrettyCure::Girl::Role::DokiDoki,MIKIHOSHI,f
+Acme::PrettyCure::Girl::Role::DokiDoki,YAPPO,c
 Acme::PrettyCure::Girl::Role::Five,MAKAMAKA,c
 Acme::PrettyCure::Girl::Role::Five,MIKIHOSHI,f
 Acme::PrettyCure::Girl::Role::Five,YAPPO,c
@@ -110228,6 +110240,7 @@ DBIx::QuickDB::Util::HashBase,EXODIST,f
 DBIx::QuickDB::Watcher,EXODIST,f
 DBIx::QuickORM,EXODIST,f
 DBIx::QuickORM::Affinity,EXODIST,f
+DBIx::QuickORM::AggregateRow,EXODIST,f
 DBIx::QuickORM::BuilderState,EXODIST,f
 DBIx::QuickORM::CAS::Result,EXODIST,f
 DBIx::QuickORM::Cache,EXODIST,f
@@ -110249,42 +110262,61 @@ DBIx::QuickORM::DB::MySQL,EXODIST,f
 DBIx::QuickORM::DB::Percona,EXODIST,f
 DBIx::QuickORM::DB::PostgreSQL,EXODIST,f
 DBIx::QuickORM::DB::SQLite,EXODIST,f
+DBIx::QuickORM::DSL,EXODIST,f
 DBIx::QuickORM::Dialect,EXODIST,f
 DBIx::QuickORM::Dialect::DuckDB,EXODIST,f
+DBIx::QuickORM::Dialect::MariaDB,EXODIST,f
 DBIx::QuickORM::Dialect::MySQL,EXODIST,f
 DBIx::QuickORM::Dialect::MySQL::Community,EXODIST,f
 DBIx::QuickORM::Dialect::MySQL::MariaDB,EXODIST,f
 DBIx::QuickORM::Dialect::MySQL::Percona,EXODIST,f
 DBIx::QuickORM::Dialect::PostgreSQL,EXODIST,f
 DBIx::QuickORM::Dialect::SQLite,EXODIST,f
+DBIx::QuickORM::Exception::DB,EXODIST,f
 DBIx::QuickORM::GlobalLookup,EXODIST,f
 DBIx::QuickORM::Handle,EXODIST,f
 DBIx::QuickORM::Handle::Column,EXODIST,f
 DBIx::QuickORM::Iterator,EXODIST,f
 DBIx::QuickORM::Join,EXODIST,f
 DBIx::QuickORM::Join::Row,EXODIST,f
+DBIx::QuickORM::JoinRow,EXODIST,f
 DBIx::QuickORM::Link,EXODIST,f
 DBIx::QuickORM::LiteralSource,EXODIST,f
+DBIx::QuickORM::LookupTable,EXODIST,f
 DBIx::QuickORM::Manual,EXODIST,f
+DBIx::QuickORM::Manual::Aggregates,EXODIST,f
 DBIx::QuickORM::Manual::Aliasing,EXODIST,f
 DBIx::QuickORM::Manual::Async,EXODIST,f
+DBIx::QuickORM::Manual::Background,EXODIST,f
+DBIx::QuickORM::Manual::BulkInsert,EXODIST,f
 DBIx::QuickORM::Manual::Caching,EXODIST,f
+DBIx::QuickORM::Manual::Classes,EXODIST,f
 DBIx::QuickORM::Manual::Concepts,EXODIST,f
 DBIx::QuickORM::Manual::Connections,EXODIST,f
+DBIx::QuickORM::Manual::DBIC,EXODIST,f
 DBIx::QuickORM::Manual::DBIxClass,EXODIST,f
+DBIx::QuickORM::Manual::Dialects,EXODIST,f
+DBIx::QuickORM::Manual::Errors,EXODIST,f
 DBIx::QuickORM::Manual::Features,EXODIST,f
+DBIx::QuickORM::Manual::ForeignKeys,EXODIST,f
+DBIx::QuickORM::Manual::Joins,EXODIST,f
+DBIx::QuickORM::Manual::Keys,EXODIST,f
 DBIx::QuickORM::Manual::Querying,EXODIST,f
-DBIx::QuickORM::Manual::QuickStart,EXODIST,f
+DBIx::QuickORM::Manual::Quickstart,EXODIST,f
 DBIx::QuickORM::Manual::Recipes,EXODIST,f
 DBIx::QuickORM::Manual::Relations,EXODIST,f
+DBIx::QuickORM::Manual::RowClasses,EXODIST,f
 DBIx::QuickORM::Manual::SQLBuilder,EXODIST,f
 DBIx::QuickORM::Manual::Schema,EXODIST,f
 DBIx::QuickORM::Manual::Transactions,EXODIST,f
 DBIx::QuickORM::Manual::Types,EXODIST,f
+DBIx::QuickORM::Manual::Values,EXODIST,f
+DBIx::QuickORM::Map,EXODIST,f
 DBIx::QuickORM::MetaTable,EXODIST,f
 DBIx::QuickORM::ORM,EXODIST,f
 DBIx::QuickORM::Plugin,EXODIST,f
 DBIx::QuickORM::Raw,EXODIST,f
+DBIx::QuickORM::Role,EXODIST,f
 DBIx::QuickORM::Role::Async,EXODIST,f
 DBIx::QuickORM::Role::Conflator,EXODIST,f
 DBIx::QuickORM::Role::Handle,EXODIST,f
@@ -110299,6 +110331,7 @@ DBIx::QuickORM::Role::STH,EXODIST,f
 DBIx::QuickORM::Role::SelectLike,EXODIST,f
 DBIx::QuickORM::Role::Source,EXODIST,f
 DBIx::QuickORM::Role::Type,EXODIST,f
+DBIx::QuickORM::Role::WhereBuilder,EXODIST,f
 DBIx::QuickORM::Row,EXODIST,f
 DBIx::QuickORM::Row::Async,EXODIST,f
 DBIx::QuickORM::Row::AutoAccessors,EXODIST,f
@@ -110323,18 +110356,27 @@ DBIx::QuickORM::Select::Async,EXODIST,f
 DBIx::QuickORM::Select::AutoAccessors,EXODIST,f
 DBIx::QuickORM::Select::Forked,EXODIST,f
 DBIx::QuickORM::Source,EXODIST,f
+DBIx::QuickORM::Source::Join,EXODIST,f
+DBIx::QuickORM::Source::Query,EXODIST,f
+DBIx::QuickORM::Source::Table,EXODIST,f
 DBIx::QuickORM::Table,EXODIST,f
 DBIx::QuickORM::Table::Column,EXODIST,f
 DBIx::QuickORM::Table::Relation,EXODIST,f
 DBIx::QuickORM::Test,EXODIST,f
 DBIx::QuickORM::Transaction,EXODIST,f
+DBIx::QuickORM::Txn,EXODIST,f
 DBIx::QuickORM::Type::DateTime,EXODIST,f
+DBIx::QuickORM::Type::DateTime::Lazy,EXODIST,f
 DBIx::QuickORM::Type::JSON,EXODIST,f
 DBIx::QuickORM::Type::UUID,EXODIST,f
 DBIx::QuickORM::Util,EXODIST,f
 DBIx::QuickORM::Util::HashBase,EXODIST,f
 DBIx::QuickORM::Util::Mask,EXODIST,f
 DBIx::QuickORM::Util::SchemaBuilder,EXODIST,f
+DBIx::QuickORM::Value,EXODIST,f
+DBIx::QuickORM::WhereBuilder::RawSQL,EXODIST,f
+DBIx::QuickORM::WhereBuilder::SQLAbstract,EXODIST,f
+DBIx::QuickORM::WhereBuilder::Simple,EXODIST,f
 DBIx::Raw,SRCHULO,f
 DBIx::Raw::Crypt,SRCHULO,f
 DBIx::Record,MIKO,f
