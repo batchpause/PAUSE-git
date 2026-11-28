@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678802
+Line-Count:  678850
 Written-By:  PAUSE version 1.005
-Date:        Sat, 28 Nov 2026 13:17:27 GMT
+Date:        Sat, 28 Nov 2026 16:41:19 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -5499,6 +5499,15 @@ Acme::PrettyCure::CureWhite,YAPPO,c
 Acme::PrettyCure::CureWindy,MAKAMAKA,c
 Acme::PrettyCure::CureWindy,MIKIHOSHI,f
 Acme::PrettyCure::CureWindy,YAPPO,c
+Acme::PrettyCure::Data,MAKAMAKA,c
+Acme::PrettyCure::Data,MIKIHOSHI,f
+Acme::PrettyCure::Data,YAPPO,c
+Acme::PrettyCure::Fairy,MAKAMAKA,c
+Acme::PrettyCure::Fairy,MIKIHOSHI,f
+Acme::PrettyCure::Fairy,YAPPO,c
+Acme::PrettyCure::Girl,MAKAMAKA,c
+Acme::PrettyCure::Girl,MIKIHOSHI,f
+Acme::PrettyCure::Girl,YAPPO,c
 Acme::PrettyCure::Girl::CureAce,MAKAMAKA,c
 Acme::PrettyCure::Girl::CureAce,MIKIHOSHI,f
 Acme::PrettyCure::Girl::CureAce,YAPPO,c
@@ -5640,6 +5649,30 @@ Acme::PrettyCure::Girl::Role::Suite,YAPPO,c
 Acme::PrettyCure::Girl::ShinyLuminous,MAKAMAKA,c
 Acme::PrettyCure::Girl::ShinyLuminous,MIKIHOSHI,f
 Acme::PrettyCure::Girl::ShinyLuminous,YAPPO,c
+Acme::PrettyCure::Image,MAKAMAKA,c
+Acme::PrettyCure::Image,MIKIHOSHI,f
+Acme::PrettyCure::Image,YAPPO,c
+Acme::PrettyCure::Image::PNG,MAKAMAKA,c
+Acme::PrettyCure::Image::PNG,MIKIHOSHI,f
+Acme::PrettyCure::Image::PNG,YAPPO,c
+Acme::PrettyCure::Image::Terminal,MAKAMAKA,c
+Acme::PrettyCure::Image::Terminal,MIKIHOSHI,f
+Acme::PrettyCure::Image::Terminal,YAPPO,c
+Acme::PrettyCure::Image::Terminal::Drawer,MAKAMAKA,c
+Acme::PrettyCure::Image::Terminal::Drawer,MIKIHOSHI,f
+Acme::PrettyCure::Image::Terminal::Drawer,YAPPO,c
+Acme::PrettyCure::Image::Terminal::HalfBlock,MAKAMAKA,c
+Acme::PrettyCure::Image::Terminal::HalfBlock,MIKIHOSHI,f
+Acme::PrettyCure::Image::Terminal::HalfBlock,YAPPO,c
+Acme::PrettyCure::Image::Terminal::ITerm2,MAKAMAKA,c
+Acme::PrettyCure::Image::Terminal::ITerm2,MIKIHOSHI,f
+Acme::PrettyCure::Image::Terminal::ITerm2,YAPPO,c
+Acme::PrettyCure::Image::Terminal::Kitty,MAKAMAKA,c
+Acme::PrettyCure::Image::Terminal::Kitty,MIKIHOSHI,f
+Acme::PrettyCure::Image::Terminal::Kitty,YAPPO,c
+Acme::PrettyCure::Image::Terminal::Sixel,MAKAMAKA,c
+Acme::PrettyCure::Image::Terminal::Sixel,MIKIHOSHI,f
+Acme::PrettyCure::Image::Terminal::Sixel,YAPPO,c
 Acme::PrettyCure::MilkyRose,MAKAMAKA,c
 Acme::PrettyCure::MilkyRose,MIKIHOSHI,f
 Acme::PrettyCure::MilkyRose,YAPPO,c
@@ -5649,6 +5682,21 @@ Acme::PrettyCure::Role,YAPPO,c
 Acme::PrettyCure::ShinyLuminous,MAKAMAKA,c
 Acme::PrettyCure::ShinyLuminous,MIKIHOSHI,f
 Acme::PrettyCure::ShinyLuminous,YAPPO,c
+Acme::PrettyCure::Team,MAKAMAKA,c
+Acme::PrettyCure::Team,MIKIHOSHI,f
+Acme::PrettyCure::Team,YAPPO,c
+Acme::PrettyCure::Team::Chain,MAKAMAKA,c
+Acme::PrettyCure::Team::Chain,MIKIHOSHI,f
+Acme::PrettyCure::Team::Chain,YAPPO,c
+Acme::PrettyCure::Team::Each,MAKAMAKA,c
+Acme::PrettyCure::Team::Each,MIKIHOSHI,f
+Acme::PrettyCure::Team::Each,YAPPO,c
+Acme::PrettyCure::Team::Futari,MAKAMAKA,c
+Acme::PrettyCure::Team::Futari,MIKIHOSHI,f
+Acme::PrettyCure::Team::Futari,YAPPO,c
+Acme::PrettyCure::Work,MAKAMAKA,c
+Acme::PrettyCure::Work,MIKIHOSHI,f
+Acme::PrettyCure::Work,YAPPO,c
 Acme::PriPara,ANATOFUZ,c
 Acme::PriPara,HTK,f
 Acme::PriPara::MainMembers,ANATOFUZ,c
