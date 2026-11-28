@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271455
-Last-Updated: Sat, 28 Nov 2026 09:17:02 GMT
+Last-Updated: Sat, 28 Nov 2026 10:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -120859,8 +120859,8 @@ JSON::Schema::Shorthand          v0.0.2  Y/YA/YANICK/JSON-Schema-Shorthand-0.0.2
 JSON::Schema::Tiny                0.035  E/ET/ETHER/JSON-Schema-Tiny-0.035.tar.gz
 JSON::Schema::ToJSON               0.20  L/LE/LEEJO/JSON-Schema-ToJSON-0.20.tar.gz
 JSON::Schema::Types               0.001  E/ET/ETHER/JSON-Schema-Types-0.001.tar.gz
-JSON::Schema::Validate         0.009001  J/JD/JDEGUEST/JSON-Schema-Validate-v0.9.1.tar.gz
-JSON::Schema::Validate::Error  0.009001  J/JD/JDEGUEST/JSON-Schema-Validate-v0.9.1.tar.gz
+JSON::Schema::Validate         0.009002  J/JD/JDEGUEST/JSON-Schema-Validate-v0.9.2.tar.gz
+JSON::Schema::Validate::Error  0.009002  J/JD/JDEGUEST/JSON-Schema-Validate-v0.9.2.tar.gz
 JSON::SchemaValidator              1.04  V/VT/VTI/JSON-SchemaValidator-1.04.tar.gz
 JSON::SchemaValidator::Pointer    undef  V/VT/VTI/JSON-SchemaValidator-1.04.tar.gz
 JSON::SchemaValidator::Result     undef  V/VT/VTI/JSON-SchemaValidator-1.04.tar.gz
