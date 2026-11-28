@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678745
+Line-Count:  678753
 Written-By:  PAUSE version 1.005
-Date:        Sat, 28 Nov 2026 02:41:19 GMT
+Date:        Sat, 28 Nov 2026 05:17:11 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -575113,6 +575113,10 @@ SNMP::Info::IEEE802_Bridge,CVICENTE,c
 SNMP::Info::IEEE802_Bridge,EMILLER,c
 SNMP::Info::IEEE802_Bridge,MAXB,c
 SNMP::Info::IEEE802_Bridge,OLIVER,f
+SNMP::Info::IEEE802_STP,CVICENTE,c
+SNMP::Info::IEEE802_STP,EMILLER,c
+SNMP::Info::IEEE802_STP,MAXB,c
+SNMP::Info::IEEE802_STP,OLIVER,f
 SNMP::Info::IEEE802dot11,CVICENTE,c
 SNMP::Info::IEEE802dot11,EMILLER,c
 SNMP::Info::IEEE802dot11,MAXB,c
@@ -575497,6 +575501,10 @@ SNMP::Info::Layer3::Lenovo,CVICENTE,c
 SNMP::Info::Layer3::Lenovo,EMILLER,c
 SNMP::Info::Layer3::Lenovo,MAXB,c
 SNMP::Info::Layer3::Lenovo,OLIVER,f
+SNMP::Info::Layer3::Maipu,CVICENTE,c
+SNMP::Info::Layer3::Maipu,EMILLER,c
+SNMP::Info::Layer3::Maipu,MAXB,c
+SNMP::Info::Layer3::Maipu,OLIVER,f
 SNMP::Info::Layer3::Meraki,CVICENTE,c
 SNMP::Info::Layer3::Meraki,EMILLER,c
 SNMP::Info::Layer3::Meraki,MAXB,c
