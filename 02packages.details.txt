@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271455
-Last-Updated: Sat, 28 Nov 2026 08:41:02 GMT
+Last-Updated: Sat, 28 Nov 2026 09:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -4626,7 +4626,7 @@ Alien::poetry                  1.000006  O/OL/OLIVER/Alien-poetry-1.000006.tar.g
 Alien::Poppler                    0.002  Z/ZM/ZMUGHAL/Alien-Poppler-0.002.tar.gz
 Alien::premake5                   0.003  J/JJ/JJATRIA/Alien-premake5-0.003.tar.gz
 Alien::proj                        1.31  S/SL/SLAFFAN/Alien-proj-1.31.tar.gz
-Alien::ProtoBuf                    0.10  M/MB/MBARBON/Alien-ProtoBuf-0.10.tar.gz
+Alien::ProtoBuf                    0.11  M/MB/MBARBON/Alien-ProtoBuf-0.11.tar.gz
 Alien::Prototype               v1.6.0.3  G/GT/GTERMARS/Alien-Prototype-v1.6.0.3.tar.gz
 Alien::Prototype::Carousel      v0.26.4  G/GT/GTERMARS/Alien-Prototype-Carousel-v0.26.4.tar.gz
 Alien::Prototype::Window         v1.3.4  G/GT/GTERMARS/Alien-Prototype-Window-v1.3.4.tar.gz
@@ -4718,7 +4718,7 @@ Alien::Uninum::Install::Files     0.005  Z/ZM/ZMUGHAL/Alien-Uninum-0.005.tar.gz
 Alien::UnRTF                       0.02  J/JO/JOENIO/Alien-UnRTF-0.02.tar.gz
 Alien::unzip                       0.03  P/PL/PLICEASE/Alien-unzip-0.03.tar.gz
 Alien::uPB                         0.15  M/MB/MBARBON/Alien-uPB-0.15.tar.gz
-Alien::uPB::Core                   0.22  M/MB/MBARBON/Alien-uPB-Core-0.22.tar.gz
+Alien::uPB::Core                   0.23  M/MB/MBARBON/Alien-uPB-Core-0.23.tar.gz
 Alien::Util                        2.88  P/PL/PLICEASE/Alien-Build-2.88.tar.gz
 Alien::V8                          0.05  E/ET/ETJ/Alien-V8-0.05.tar.gz
 Alien::VideoLAN::LibVLC            0.04  A/AS/ASOKOLOV/Alien-VideoLAN-LibVLC-0.04.tar.gz
