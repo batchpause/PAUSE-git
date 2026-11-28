@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271462
-Last-Updated: Sat, 28 Nov 2026 14:17:02 GMT
+Last-Updated: Sat, 28 Nov 2026 14:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -10418,7 +10418,7 @@ App::Dothe::Task                 v0.0.1  Y/YA/YANICK/App-Dothe-0.0.1.tar.gz
 App::DoubleUp                  0.004002  S/ST/STUIFZAND/App-DoubleUp-0.4.2.tar.gz
 App::Download                  1.000001  B/BE/BESSARABV/App-Download-1.0.1.tar.gz
 App::DownloadsDirUtils            0.009  P/PE/PERLANCAR/App-DownloadsDirUtils-0.009.tar.gz
-App::dozo                          1.03  U/UT/UTASHIRO/App-dozo-1.03.tar.gz
+App::dozo                          1.04  U/UT/UTASHIRO/App-dozo-1.04.tar.gz
 App::DPath                         0.12  S/SC/SCHWIGON/App-DPath-0.12.tar.gz
 App::DrivePlayer               0.002010  M/MV/MVSJES/App-DrivePlayer-0.2.10.tar.gz
 App::DrivePlayer::Config          undef  M/MV/MVSJES/App-DrivePlayer-0.2.10.tar.gz
@@ -112993,7 +112993,7 @@ HTTP::LRDD                        0.106  T/TO/TOBYINK/HTTP-LRDD-0.106.tar.gz
 HTTP::Message                      7.04  O/OA/OALDERS/HTTP-Message-7.04.tar.gz
 HTTP::Message::JSON               undef  S/SK/SKINGTON/LWP-JSON-Tiny-0.014.tar.gz
 HTTP::Message::PSGI               undef  M/MI/MIYAGAWA/Plack-1.0057.tar.gz
-HTTP::Message::Signature         v0.1.0  R/RR/RRWO/HTTP-Message-Signature-v0.1.0.tar.gz
+HTTP::Message::Signature         v0.1.1  R/RR/RRWO/HTTP-Message-Signature-v0.1.1.tar.gz
 HTTP::MessageParser                 0.3  C/CH/CHANSEN/HTTP-MessageParser-0.3.tar.gz
 HTTP::Method                       0.03  V/VA/VANHOESEL/HTTP-Method-0.03.tar.gz
 HTTP::MHTTP                        0.15  P/PI/PIERS/HTTP-MHTTP-0.15.tar.gz
