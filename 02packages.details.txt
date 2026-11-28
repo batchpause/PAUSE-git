@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271462
-Last-Updated: Sat, 28 Nov 2026 15:29:01 GMT
+Last-Updated: Sat, 28 Nov 2026 15:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -22125,18 +22125,18 @@ AWS::CloudFront::Logging          undef  J/JO/JOHND/AWS-CloudFront-0.003.tar.gz
 AWS::CloudFront::Request::DistributionRequest undef  J/JO/JOHND/AWS-CloudFront-0.003.tar.gz
 AWS::CloudFront::S3Origin         undef  J/JO/JOHND/AWS-CloudFront-0.003.tar.gz
 AWS::IP                            0.04  D/DF/DFARRELL/AWS-IP-0.04.tar.gz
-AWS::Lambda                     v0.11.1  S/SH/SHOGO/AWS-Lambda-0.11.1.tar.gz
-AWS::Lambda::AL                 v0.11.1  S/SH/SHOGO/AWS-Lambda-0.11.1.tar.gz
-AWS::Lambda::AL2                v0.11.1  S/SH/SHOGO/AWS-Lambda-0.11.1.tar.gz
-AWS::Lambda::AL2023             v0.11.1  S/SH/SHOGO/AWS-Lambda-0.11.1.tar.gz
-AWS::Lambda::Bootstrap            undef  S/SH/SHOGO/AWS-Lambda-0.11.1.tar.gz
-AWS::Lambda::Context              undef  S/SH/SHOGO/AWS-Lambda-0.11.1.tar.gz
-AWS::Lambda::PSGI                 undef  S/SH/SHOGO/AWS-Lambda-0.11.1.tar.gz
+AWS::Lambda                     v0.11.2  S/SH/SHOGO/AWS-Lambda-0.11.2.tar.gz
+AWS::Lambda::AL                 v0.11.2  S/SH/SHOGO/AWS-Lambda-0.11.2.tar.gz
+AWS::Lambda::AL2                v0.11.2  S/SH/SHOGO/AWS-Lambda-0.11.2.tar.gz
+AWS::Lambda::AL2023             v0.11.2  S/SH/SHOGO/AWS-Lambda-0.11.2.tar.gz
+AWS::Lambda::Bootstrap            undef  S/SH/SHOGO/AWS-Lambda-0.11.2.tar.gz
+AWS::Lambda::Context              undef  S/SH/SHOGO/AWS-Lambda-0.11.2.tar.gz
+AWS::Lambda::PSGI                 undef  S/SH/SHOGO/AWS-Lambda-0.11.2.tar.gz
 AWS::Lambda::Quick               1.0002  M/MA/MARKF/AWS-Lambda-Quick-1.0002.tar.gz
 AWS::Lambda::Quick::CreateZip    1.0002  M/MA/MARKF/AWS-Lambda-Quick-1.0002.tar.gz
 AWS::Lambda::Quick::Processor    1.0002  M/MA/MARKF/AWS-Lambda-Quick-1.0002.tar.gz
 AWS::Lambda::Quick::Upload       1.0002  M/MA/MARKF/AWS-Lambda-Quick-1.0002.tar.gz
-AWS::Lambda::ResponseWriter       undef  S/SH/SHOGO/AWS-Lambda-0.11.1.tar.gz
+AWS::Lambda::ResponseWriter       undef  S/SH/SHOGO/AWS-Lambda-0.11.2.tar.gz
 AWS::Networks                      0.01  J/JL/JLMARTIN/AWS-Networks-0.01.tar.gz
 Aws::Polly::Select             20171217  P/PR/PRBRENAN/Aws-Polly-Select-20171217.tar.gz
 Aws::Polly::Select::Speaker       undef  P/PR/PRBRENAN/Aws-Polly-Select-20171217.tar.gz
