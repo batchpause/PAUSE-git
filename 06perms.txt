@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678797
+Line-Count:  678802
 Written-By:  PAUSE version 1.005
-Date:        Sat, 28 Nov 2026 12:42:24 GMT
+Date:        Sat, 28 Nov 2026 13:17:27 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -154302,13 +154302,18 @@ Game::Terminal::Kit::Line,LNATION,f
 Game::Terminal::Kit::Log,LNATION,f
 Game::Terminal::Kit::Options,LNATION,f
 Game::Terminal::Kit::Picker,LNATION,f
+Game::Terminal::Kit::Pixels,LNATION,f
+Game::Terminal::Kit::Replay,LNATION,f
 Game::Terminal::Kit::Run,LNATION,f
+Game::Terminal::Kit::Save,LNATION,f
 Game::Terminal::Kit::Screen,LNATION,f
+Game::Terminal::Kit::Shape,LNATION,f
 Game::Terminal::Kit::Steer,LNATION,f
 Game::Terminal::Kit::Test::Handle,LNATION,f
 Game::Terminal::Kit::Test::Screen,LNATION,f
 Game::Terminal::Kit::Ticker,LNATION,f
 Game::Terminal::Kit::Widget,LNATION,f
+Game::Terminal::Kit::Zones,LNATION,f
 Game::Terminal::Menu,LNATION,f
 Game::TextMapper,SCHROEDER,f
 Game::TextMapper::Apocalypse,SCHROEDER,f

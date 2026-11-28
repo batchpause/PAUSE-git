@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271457
-Last-Updated: Sat, 28 Nov 2026 12:54:34 GMT
+Line-Count:   271462
+Last-Updated: Sat, 28 Nov 2026 13:17:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -77450,18 +77450,18 @@ Fennec::Util                      undef  E/EX/EXODIST/Fennec-2.018.tar.gz
 Fern                              undef  W/WS/WSCHROED/Fern-0.2.tar.gz
 Festival::Client                    1.0  G/GO/GOSSAMER/Festival-Client-1.0.tar.gz
 Festival::Client::Async          0.0303  D/DJ/DJHD/Festival-Client-Async-0.0303.tar.gz
-Fetch                              0.29  L/LN/LNATION/Fetch-0.29.tar.gz
-Fetch::CookieJar                   0.29  L/LN/LNATION/Fetch-0.29.tar.gz
-Fetch::Future                      0.29  L/LN/LNATION/Fetch-0.29.tar.gz
-Fetch::Headers                     0.29  L/LN/LNATION/Fetch-0.29.tar.gz
+Fetch                              0.30  L/LN/LNATION/Fetch-0.30.tar.gz
+Fetch::CookieJar                   0.30  L/LN/LNATION/Fetch-0.30.tar.gz
+Fetch::Future                      0.30  L/LN/LNATION/Fetch-0.30.tar.gz
+Fetch::Headers                     0.30  L/LN/LNATION/Fetch-0.30.tar.gz
 Fetch::Image                   1.000000  M/MA/MARKELLIS/Fetch-Image-1.000000.tar.gz
-Fetch::Loop                        0.29  L/LN/LNATION/Fetch-0.29.tar.gz
-Fetch::Loop::AnyEvent              0.29  L/LN/LNATION/Fetch-0.29.tar.gz
-Fetch::Loop::Hyperman              0.29  L/LN/LNATION/Fetch-0.29.tar.gz
-Fetch::Loop::IOAsync               0.29  L/LN/LNATION/Fetch-0.29.tar.gz
-Fetch::Loop::Standalone            0.29  L/LN/LNATION/Fetch-0.29.tar.gz
-Fetch::Response                    0.29  L/LN/LNATION/Fetch-0.29.tar.gz
-Fetch::WebSocket                   0.29  L/LN/LNATION/Fetch-0.29.tar.gz
+Fetch::Loop                        0.30  L/LN/LNATION/Fetch-0.30.tar.gz
+Fetch::Loop::AnyEvent              0.30  L/LN/LNATION/Fetch-0.30.tar.gz
+Fetch::Loop::Hyperman              0.30  L/LN/LNATION/Fetch-0.30.tar.gz
+Fetch::Loop::IOAsync               0.30  L/LN/LNATION/Fetch-0.30.tar.gz
+Fetch::Loop::Standalone            0.30  L/LN/LNATION/Fetch-0.30.tar.gz
+Fetch::Response                    0.30  L/LN/LNATION/Fetch-0.30.tar.gz
+Fetch::WebSocket                   0.30  L/LN/LNATION/Fetch-0.30.tar.gz
 Fetcher                           undef  J/JA/JALYCAI/article_fetcher.zip
 fewer                             0.204  R/RJ/RJBS/fewer-0.204.tar.gz
 Fey                                0.44  D/DR/DROLSKY/Fey-0.44.tar.gz
@@ -82481,24 +82481,29 @@ Game::Sternhalma::Notation         0.01  L/LN/LNATION/Game-Sternhalma-0.01.tar.g
 Game::Sternhalma::Result           0.01  L/LN/LNATION/Game-Sternhalma-0.01.tar.gz
 Game::Sternhalma::Terminal         0.01  L/LN/LNATION/Game-Sternhalma-0.01.tar.gz
 Game::Terminal                     0.04  L/LN/LNATION/Game-Terminal-0.04.tar.gz
-Game::Terminal::Kit                0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Canvas        0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Choose        0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Form          0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Frame         0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::History       0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Keys          0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Line          0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Log           0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Options       0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Picker        0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Run           0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Screen        0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Steer         0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Test::Handle  0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Test::Screen  0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Ticker        0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
-Game::Terminal::Kit::Widget        0.05  L/LN/LNATION/Game-Terminal-Kit-0.05.tar.gz
+Game::Terminal::Kit                0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Canvas        0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Choose        0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Form          0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Frame         0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::History       0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Keys          0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Line          0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Log           0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Options       0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Picker        0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Pixels        0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Replay        0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Run           0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Save          0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Screen        0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Shape         0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Steer         0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Test::Handle  0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Test::Screen  0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Ticker        0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Widget        0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
+Game::Terminal::Kit::Zones         0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
 Game::Terminal::Menu               0.04  L/LN/LNATION/Game-Terminal-0.04.tar.gz
 Game::TextMapper                   1.09  S/SC/SCHROEDER/Game-TextMapper-1.09.tar.gz
 Game::TextMapper::Apocalypse      undef  S/SC/SCHROEDER/Game-TextMapper-1.09.tar.gz
@@ -208031,7 +208036,7 @@ Punk::OAuth2::Server               0.08  L/LN/LNATION/Punk-OAuth2-0.08.tar.gz
 Punk::OAuth2::Server::Store        0.08  L/LN/LNATION/Punk-OAuth2-0.08.tar.gz
 Punk::OAuth2::Tokens               0.08  L/LN/LNATION/Punk-OAuth2-0.08.tar.gz
 Punk::OAuth2::Util                 0.08  L/LN/LNATION/Punk-OAuth2-0.08.tar.gz
-Punk::Observe                      0.12  L/LN/LNATION/Punk-Observe-0.12.tar.gz
+Punk::Observe                      0.13  L/LN/LNATION/Punk-Observe-0.13.tar.gz
 Punk::Observe::Alert              undef  L/LN/LNATION/Punk-Observe-0.11.tar.gz
 Punk::Observe::Backend            undef  L/LN/LNATION/Punk-Observe-0.11.tar.gz
 Punk::Observe::Backend::Pg        undef  L/LN/LNATION/Punk-Observe-0.11.tar.gz
@@ -208066,19 +208071,19 @@ Punk::Observe::Trace              undef  L/LN/LNATION/Punk-Observe-0.11.tar.gz
 Punk::Observe::View               undef  L/LN/LNATION/Punk-Observe-0.11.tar.gz
 Punk::Observe::WAL                undef  L/LN/LNATION/Punk-Observe-0.11.tar.gz
 Punk::Observe::Warm               undef  L/LN/LNATION/Punk-Observe-0.11.tar.gz
-Punk::OpenTelemetry                0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
-Punk::OpenTelemetry::Config        0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
-Punk::OpenTelemetry::Encode        0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
-Punk::OpenTelemetry::Exporter      0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
-Punk::OpenTelemetry::GRPC          0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
-Punk::OpenTelemetry::Instrument    0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
-Punk::OpenTelemetry::Logs          0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
-Punk::OpenTelemetry::Meter         0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
-Punk::OpenTelemetry::OTLP          0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
-Punk::OpenTelemetry::Propagate     0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
-Punk::OpenTelemetry::Resource      0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
-Punk::OpenTelemetry::Schema        0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
-Punk::OpenTelemetry::Tracer        0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
+Punk::OpenTelemetry                0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
+Punk::OpenTelemetry::Config        0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
+Punk::OpenTelemetry::Encode        0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
+Punk::OpenTelemetry::Exporter      0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
+Punk::OpenTelemetry::GRPC          0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
+Punk::OpenTelemetry::Instrument    0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
+Punk::OpenTelemetry::Logs          0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
+Punk::OpenTelemetry::Meter         0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
+Punk::OpenTelemetry::OTLP          0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
+Punk::OpenTelemetry::Propagate     0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
+Punk::OpenTelemetry::Resource      0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
+Punk::OpenTelemetry::Schema        0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
+Punk::OpenTelemetry::Tracer        0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
 Punk::Passkey                      0.02  L/LN/LNATION/Punk-Passkey-0.02.tar.gz
 Punk::Plugin                       0.70  L/LN/LNATION/Punk-0.70.tar.gz
 Punk::Plugin::APIKey               0.02  L/LN/LNATION/Punk-APIKey-0.02.tar.gz
@@ -208098,7 +208103,7 @@ Punk::Plugin::MCP                  0.02  L/LN/LNATION/Punk-MCP-0.02.tar.gz
 Punk::Plugin::Metrics              0.70  L/LN/LNATION/Punk-0.70.tar.gz
 Punk::Plugin::OAuth2               0.08  L/LN/LNATION/Punk-OAuth2-0.08.tar.gz
 Punk::Plugin::Observe             undef  L/LN/LNATION/Punk-Observe-0.11.tar.gz
-Punk::Plugin::OpenTelemetry        0.10  L/LN/LNATION/Punk-OpenTelemetry-0.10.tar.gz
+Punk::Plugin::OpenTelemetry        0.11  L/LN/LNATION/Punk-OpenTelemetry-0.11.tar.gz
 Punk::Plugin::Passkey              0.02  L/LN/LNATION/Punk-Passkey-0.02.tar.gz
 Punk::Plugin::Push                 0.03  L/LN/LNATION/Punk-Push-0.03.tar.gz
 Punk::Plugin::Queue                0.11  L/LN/LNATION/Punk-Queue-0.11.tar.gz
