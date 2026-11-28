@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271377
-Last-Updated: Sat, 28 Nov 2026 02:54:33 GMT
+Last-Updated: Sat, 28 Nov 2026 04:29:01 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -11494,7 +11494,7 @@ App::Hako::MagicNumbers           undef  K/KA/KASEI/App-Hako-0.03.tar.gz
 App::hashdata                     0.001  P/PE/PERLANCAR/App-hashdata-0.001.tar.gz
 App::Hasher                    1.000002  B/BE/BESSARABV/App-Hasher-1.0.2.tar.gz
 App::Hashl                         1.01  D/DE/DERF/App-Hashl-1.01.tar.gz
-App::HashMake                      0.02  T/TA/TALEXB/App-HashMake-0.02.tar.gz
+App::HashMake                      0.03  T/TA/TALEXB/App-HashMake-0.03.tar.gz
 App::HasPrereqs                    0.10  P/PE/PERLANCAR/App-HasPrereqs-0.10.tar.gz
 App::HeadR                          0.1  O/ON/ONEGRAY/head-r-0.1.tar.gz
 App::headtail                     0.001  P/PE/PERLANCAR/App-headtail-0.001.tar.gz
