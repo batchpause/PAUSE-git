@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271455
-Last-Updated: Sat, 28 Nov 2026 10:41:02 GMT
+Last-Updated: Sat, 28 Nov 2026 11:29:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -8827,7 +8827,7 @@ App::ansiecho                      1.10  U/UT/UTASHIRO/App-ansiecho-1.10.tar.gz
 App::ansiecho::Util               undef  U/UT/UTASHIRO/App-ansiecho-1.10.tar.gz
 App::ansiexpand                    1.06  U/UT/UTASHIRO/App-ansiexpand-1.06.tar.gz
 App::ansifold                      1.39  U/UT/UTASHIRO/App-ansifold-1.39.tar.gz
-App::ansipic                       0.02  U/UT/UTASHIRO/Text-ANSI-Image-0.02.tar.gz
+App::ansipic                       0.03  U/UT/UTASHIRO/Text-ANSI-Image-0.03.tar.gz
 App::ansiprintf                    2.07  U/UT/UTASHIRO/Text-ANSI-Printf-2.07.tar.gz
 App::ansiprintf::Util             undef  U/UT/UTASHIRO/Text-ANSI-Printf-2.07.tar.gz
 App::AnteREPL                      0.01  O/OO/OODLER/App-AnteREPL-0.01.tar.gz
@@ -239470,8 +239470,8 @@ Text::ANSI::Highlight::IO         undef  U/UT/UTASHIRO/Text-ANSI-Highlight-0.04.
 Text::ANSI::Highlight::pandoc     undef  U/UT/UTASHIRO/Text-ANSI-Highlight-0.04.tar.gz
 Text::ANSI::Highlight::skylighting undef  U/UT/UTASHIRO/Text-ANSI-Highlight-0.04.tar.gz
 Text::ANSI::Highlight::sourcehighlight undef  U/UT/UTASHIRO/Text-ANSI-Highlight-0.04.tar.gz
-Text::ANSI::Image                  0.02  U/UT/UTASHIRO/Text-ANSI-Image-0.02.tar.gz
-Text::ANSI::Image::kitty          undef  U/UT/UTASHIRO/Text-ANSI-Image-0.02.tar.gz
+Text::ANSI::Image                  0.03  U/UT/UTASHIRO/Text-ANSI-Image-0.03.tar.gz
+Text::ANSI::Image::kitty          undef  U/UT/UTASHIRO/Text-ANSI-Image-0.03.tar.gz
 Text::ANSI::Printf                 2.07  U/UT/UTASHIRO/Text-ANSI-Printf-2.07.tar.gz
 Text::ANSI::Tabs                   1.06  U/UT/UTASHIRO/Text-ANSI-Tabs-1.06.tar.gz
 Text::ANSI::Util                  0.234  P/PE/PERLANCAR/Text-ANSI-Util-0.234.tar.gz
