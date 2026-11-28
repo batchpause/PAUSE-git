@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271462
-Last-Updated: Sat, 28 Nov 2026 13:41:02 GMT
+Last-Updated: Sat, 28 Nov 2026 13:54:37 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -73705,7 +73705,7 @@ Email::Address::Loose              0.10  T/TO/TOMITA/Email-Address-Loose-0.10.ta
 Email::Address::Loose::EmailAddress 1.892  T/TO/TOMITA/Email-Address-Loose-0.10.tar.gz
 Email::Address::Loose::EmailValidLoose 0.05  T/TO/TOMITA/Email-Address-Loose-0.10.tar.gz
 Email::Address::UseXS             1.000  T/TE/TEAM/Email-Address-UseXS-1.000.tar.gz
-Email::Address::XS                 1.05  P/PA/PALI/Email-Address-XS-1.05.tar.gz
+Email::Address::XS                 1.06  P/PA/PALI/Email-Address-XS-1.06.tar.gz
 Email::AddressParser               0.04  A/AW/AWKAY/Email-AddressParser-0.04.tar.gz
 Email::Archive                     0.03  A/AP/APEIRON/Email-Archive-0.03.tar.gz
 Email::Archive::Storage           undef  A/AP/APEIRON/Email-Archive-0.03.tar.gz
@@ -82480,7 +82480,7 @@ Game::Sternhalma::Layout           0.01  L/LN/LNATION/Game-Sternhalma-0.01.tar.g
 Game::Sternhalma::Notation         0.01  L/LN/LNATION/Game-Sternhalma-0.01.tar.gz
 Game::Sternhalma::Result           0.01  L/LN/LNATION/Game-Sternhalma-0.01.tar.gz
 Game::Sternhalma::Terminal         0.01  L/LN/LNATION/Game-Sternhalma-0.01.tar.gz
-Game::Terminal                     0.04  L/LN/LNATION/Game-Terminal-0.04.tar.gz
+Game::Terminal                     0.05  L/LN/LNATION/Game-Terminal-0.05.tar.gz
 Game::Terminal::Kit                0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
 Game::Terminal::Kit::Canvas        0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
 Game::Terminal::Kit::Choose        0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
@@ -82504,7 +82504,7 @@ Game::Terminal::Kit::Test::Screen  0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar
 Game::Terminal::Kit::Ticker        0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
 Game::Terminal::Kit::Widget        0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
 Game::Terminal::Kit::Zones         0.06  L/LN/LNATION/Game-Terminal-Kit-0.06.tar.gz
-Game::Terminal::Menu               0.04  L/LN/LNATION/Game-Terminal-0.04.tar.gz
+Game::Terminal::Menu               0.05  L/LN/LNATION/Game-Terminal-0.05.tar.gz
 Game::TextMapper                   1.09  S/SC/SCHROEDER/Game-TextMapper-1.09.tar.gz
 Game::TextMapper::Apocalypse      undef  S/SC/SCHROEDER/Game-TextMapper-1.09.tar.gz
 Game::TextMapper::Command::random undef  S/SC/SCHROEDER/Game-TextMapper-1.09.tar.gz
