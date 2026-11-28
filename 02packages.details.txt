@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
 Line-Count:   271455
-Last-Updated: Sat, 28 Nov 2026 10:29:02 GMT
+Last-Updated: Sat, 28 Nov 2026 10:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -86911,7 +86911,7 @@ Getopt::Euclid::PodExtract        undef  F/FA/FANGLY/Getopt-Euclid-0.3.3.tar.gz
 Getopt::EvaP                        2.8  L/LU/LUSOL/Getopt-EvaP-2.8.tar.gz
 Getopt::EX                         3.05  U/UT/UTASHIRO/Getopt-EX-3.05.tar.gz
 Getopt::EX::Colormap               3.05  U/UT/UTASHIRO/Getopt-EX-3.05.tar.gz
-Getopt::EX::Config               1.0202  U/UT/UTASHIRO/Getopt-EX-Config-1.0202.tar.gz
+Getopt::EX::Config                 1.03  U/UT/UTASHIRO/Getopt-EX-Config-1.03.tar.gz
 Getopt::EX::debug                  1.01  U/UT/UTASHIRO/Getopt-EX-debug-1.01.tar.gz
 Getopt::EX::Factotum              undef  U/UT/UTASHIRO/IO-Factotum-0.05.tar.gz
 Getopt::EX::Func                   3.05  U/UT/UTASHIRO/Getopt-EX-3.05.tar.gz
