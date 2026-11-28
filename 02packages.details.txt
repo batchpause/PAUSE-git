@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271455
-Last-Updated: Sat, 28 Nov 2026 11:54:36 GMT
+Line-Count:   271456
+Last-Updated: Sat, 28 Nov 2026 12:17:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -269075,6 +269075,7 @@ XS::STL::ErrorCode                undef  S/SY/SYBER/XS-Framework-1.6.2.tar.gz
 XS::TCC                            0.05  S/SM/SMUELLER/XS-TCC-0.05.tar.gz
 XS::TCC::Parser                   undef  S/SM/SMUELLER/XS-TCC-0.05.tar.gz
 XS::TCC::Typemaps                 undef  S/SM/SMUELLER/XS-TCC-0.05.tar.gz
+XS::Tools                          1.06  H/HQ/HQWANG/XS-Tools-1.06.tar.gz
 XS::Tutorial                      undef  D/DF/DFARRELL/XS-Tutorial-0.04.tar.gz
 XS::Tutorial::One                 undef  D/DF/DFARRELL/XS-Tutorial-0.04.tar.gz
 XS::Tutorial::Three               undef  D/DF/DFARRELL/XS-Tutorial-0.04.tar.gz
