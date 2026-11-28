@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.005
-Line-Count:   271456
-Last-Updated: Sat, 28 Nov 2026 12:17:02 GMT
+Line-Count:   271457
+Last-Updated: Sat, 28 Nov 2026 12:41:02 GMT
 
 A1z::Html                          0.04  C/CE/CEEJAY/A1z-Html-0.04.tar.gz
 A1z::HTML5::Template               0.22  C/CE/CEEJAY/A1z-HTML5-Template-0.22.tar.gz
@@ -11437,12 +11437,12 @@ App::Greple::ical                  1.00  U/UT/UTASHIRO/App-Greple-ical-1.00.tar.
 App::Greple::jq                    0.06  U/UT/UTASHIRO/App-Greple-jq-0.06.tar.gz
 App::Greple::L                     1.01  U/UT/UTASHIRO/App-Greple-L-1.01.tar.gz
 App::Greple::line                 undef  U/UT/UTASHIRO/App-Greple-9.23.tar.gz
-App::Greple::md                    1.32  U/UT/UTASHIRO/App-mdee-1.32.tar.gz
-App::Greple::md::Blocks            1.32  U/UT/UTASHIRO/App-mdee-1.32.tar.gz
-App::Greple::md::Image            undef  U/UT/UTASHIRO/App-mdee-1.32.tar.gz
-App::Greple::md::Mermaid          undef  U/UT/UTASHIRO/App-mdee-1.32.tar.gz
-App::Greple::md::Step             undef  U/UT/UTASHIRO/App-mdee-1.32.tar.gz
-App::Greple::md::widen             1.32  U/UT/UTASHIRO/App-mdee-1.32.tar.gz
+App::Greple::md                    1.33  U/UT/UTASHIRO/App-mdee-1.33.tar.gz
+App::Greple::md::Blocks            1.33  U/UT/UTASHIRO/App-mdee-1.33.tar.gz
+App::Greple::md::Image            undef  U/UT/UTASHIRO/App-mdee-1.33.tar.gz
+App::Greple::md::Mermaid          undef  U/UT/UTASHIRO/App-mdee-1.33.tar.gz
+App::Greple::md::Step             undef  U/UT/UTASHIRO/App-mdee-1.33.tar.gz
+App::Greple::md::widen             1.33  U/UT/UTASHIRO/App-mdee-1.33.tar.gz
 App::Greple::msdoc                 1.07  U/UT/UTASHIRO/App-Greple-msdoc-1.07.tar.gz
 App::Greple::NumberUtil           undef  U/UT/UTASHIRO/App-Greple-8.3203.tar.gz
 App::Greple::Pattern              undef  U/UT/UTASHIRO/App-Greple-10.05.tar.gz
@@ -12592,7 +12592,7 @@ App::MCP::CLI::Command::servers  v0.0.1  M/MA/MANWAR/App-MCP-CLI-v0.0.1.tar.gz
 App::MCP::CLI::Command::version  v0.0.1  M/MA/MANWAR/App-MCP-CLI-v0.0.1.tar.gz
 App::MCP::CLI::Config            v0.0.1  M/MA/MANWAR/App-MCP-CLI-v0.0.1.tar.gz
 App::md2html                   0.001001  C/CR/CRABAPP/App-md2html-0.01.1.tar.gz
-App::mdee                          1.32  U/UT/UTASHIRO/App-mdee-1.32.tar.gz
+App::mdee                          1.33  U/UT/UTASHIRO/App-mdee-1.33.tar.gz
 App::MechaCPAN                     0.32  A/AT/ATRODO/App-MechaCPAN-0.32.tar.gz
 App::MechaCPAN::Deploy            undef  A/AT/ATRODO/App-MechaCPAN-0.32.tar.gz
 App::MechaCPAN::Install           undef  A/AT/ATRODO/App-MechaCPAN-0.32.tar.gz
@@ -42476,26 +42476,26 @@ ChainMake::Parallel                   0  S/SC/SCHROEER/ChainMake/ChainMake-0.9.0
 ChainMake::Tester                     0  S/SC/SCHROEER/ChainMake/ChainMake-0.9.0.tar.gz
 Champ                             0.001  W/WB/WBRASWELL/App-PythonToPerl-0.001.tar.gz
 Champlain                          0.14  X/XA/XAOC/Champlain-0.14.tar.gz
-Chandra                            0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::App                       0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Assets                    0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Bind                      0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Breadcrumb                0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Bridge                    0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Bridge::Extension         0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Canvas                    0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Clipboard                 0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Component                 0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::ContextMenu               0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::DevTools                  0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Dialog                    0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::DragDrop                  0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Element                   0.31  L/LN/LNATION/Chandra-0.31.tar.gz
+Chandra                            0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::App                       0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Assets                    0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Bind                      0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Breadcrumb                0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Bridge                    0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Bridge::Extension         0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Canvas                    0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Clipboard                 0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Component                 0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::ContextMenu               0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::DevTools                  0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Dialog                    0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::DragDrop                  0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Element                   0.32  L/LN/LNATION/Chandra-0.32.tar.gz
 Chandra::EPUB                      0.03  L/LN/LNATION/Chandra-EPUB-0.03.tar.gz
-Chandra::Error                     0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Event                     0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Form                      0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Form::Validator           0.31  L/LN/LNATION/Chandra-0.31.tar.gz
+Chandra::Error                     0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Event                     0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Form                      0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Form::Validator           0.32  L/LN/LNATION/Chandra-0.32.tar.gz
 Chandra::Game::Tetris              0.04  L/LN/LNATION/Chandra-Game-Tetris-0.04.tar.gz
 Chandra::Game::Tetris::Blocks     undef  L/LN/LNATION/Chandra-Game-Tetris-0.04.tar.gz
 Chandra::Game::Tetris::Blocks::IBlock undef  L/LN/LNATION/Chandra-Game-Tetris-0.04.tar.gz
@@ -42508,30 +42508,31 @@ Chandra::Game::Tetris::Blocks::TBlock undef  L/LN/LNATION/Chandra-Game-Tetris-0.
 Chandra::Game::Tetris::Blocks::ZBlock undef  L/LN/LNATION/Chandra-Game-Tetris-0.04.tar.gz
 Chandra::Game::Tetris::Engine     undef  L/LN/LNATION/Chandra-Game-Tetris-0.04.tar.gz
 Chandra::Game::Tetris::Grid       undef  L/LN/LNATION/Chandra-Game-Tetris-0.04.tar.gz
-Chandra::HotReload                 0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Log                       0.31  L/LN/LNATION/Chandra-0.31.tar.gz
+Chandra::HotReload                 0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Log                       0.32  L/LN/LNATION/Chandra-0.32.tar.gz
 Chandra::Markdown                  0.02  L/LN/LNATION/Chandra-Markdown-0.02.tar.gz
 Chandra::Markdown::App             0.01  L/LN/LNATION/Chandra-Markdown-0.02.tar.gz
-Chandra::Modal                     0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Nav                       0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Notify                    0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Pack                      0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Protocol                  0.31  L/LN/LNATION/Chandra-0.31.tar.gz
+Chandra::Menu                      0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Modal                     0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Nav                       0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Notify                    0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Pack                      0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Protocol                  0.32  L/LN/LNATION/Chandra-0.32.tar.gz
 Chandra::Same::Boy                 0.02  L/LN/LNATION/Chandra-Same-Boy-0.02.tar.gz
 Chandra::Same::Boy::App            0.02  L/LN/LNATION/Chandra-Same-Boy-0.02.tar.gz
-Chandra::Shortcut                  0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Socket::Client            0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Socket::Connection        0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Socket::Hub               0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Socket::Token             0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Splash                    0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Store                     0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Table                     0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Tabs                      0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Theme                     0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Toast                     0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Tray                      0.31  L/LN/LNATION/Chandra-0.31.tar.gz
-Chandra::Window                    0.31  L/LN/LNATION/Chandra-0.31.tar.gz
+Chandra::Shortcut                  0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Socket::Client            0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Socket::Connection        0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Socket::Hub               0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Socket::Token             0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Splash                    0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Store                     0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Table                     0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Tabs                      0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Theme                     0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Toast                     0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Tray                      0.32  L/LN/LNATION/Chandra-0.32.tar.gz
+Chandra::Window                    0.32  L/LN/LNATION/Chandra-0.32.tar.gz
 Changes                        0.004002  J/JD/JDEGUEST/Changes-v0.4.2.tar.gz
 Changes::Change                0.001002  J/JD/JDEGUEST/Changes-v0.4.2.tar.gz
 Changes::Group                 0.002001  J/JD/JDEGUEST/Changes-v0.4.2.tar.gz

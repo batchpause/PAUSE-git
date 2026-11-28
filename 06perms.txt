@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  678796
+Line-Count:  678797
 Written-By:  PAUSE version 1.005
-Date:        Sat, 28 Nov 2026 12:17:29 GMT
+Date:        Sat, 28 Nov 2026 12:42:24 GMT
 
 A,ADAMK,f
 A1z::HTML5::Template,CEEJAY,f
@@ -91823,6 +91823,7 @@ Chandra::HotReload,LNATION,f
 Chandra::Log,LNATION,f
 Chandra::Markdown,LNATION,f
 Chandra::Markdown::App,LNATION,f
+Chandra::Menu,LNATION,f
 Chandra::Modal,LNATION,f
 Chandra::Nav,LNATION,f
 Chandra::Notify,LNATION,f
